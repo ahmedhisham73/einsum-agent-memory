@@ -1,0 +1,208 @@
+[
+  {
+    "episode_id": "conv-41::session_11::episode-001",
+    "conversation_id": "conv-41",
+    "session_id": "session_11",
+    "observed_at": "2023-04-10T18:13:00",
+    "source_timestamp": "6:13 pm on 10 April, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D11:1",
+        "speaker": "John",
+        "text": "Hey Maria, haven't talked for a few days. Had a wild week, my car broke down last Fri on my way to work. Trying to get it fixed but it's tough & putting a strain on my wallet. Staying positive & looking for a solution though.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:2",
+        "speaker": "Maria",
+        "text": "Aww John, bummer about that. No doubt it's been tough, but I'm impressed by how positive you're being. Keep it up - tough times pass, but you're tough enough to get through 'em!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:3",
+        "speaker": "John",
+        "text": "Thanks, Maria. Your kind words mean a lot. Yeah, it's been tough with car trouble and money problems, but I stay positive and find a way. This picture reminds me of a road trip we took last year; even with bumps along the way, there's still beauty and hope.",
+        "metadata": {
+          "img_url": [
+            "https://images.pexels.com/photos/1266810/pexels-photo-1266810.jpeg"
+          ],
+          "blip_caption": "a photography of a mountain with a sunset and flowers in the foreground",
+          "query": "road beautiful sunset",
+          "re-download": true
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_19::episode-002",
+    "conversation_id": "conv-41",
+    "session_id": "session_19",
+    "observed_at": "2023-06-16T19:20:00",
+    "source_timestamp": "7:20 pm on 16 June, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D19:6",
+        "speaker": "John",
+        "text": "Yeah, sure thing. I'll let you know. Oh, also...something massive happened since we last spoke. I got promoted at work! It's been a loooong time coming, and I'm over the moon about it!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:7",
+        "speaker": "Maria",
+        "text": "Wow John! Congrats on the promotion! Must have taken a lot of work. How did you feel when you found out?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:8",
+        "speaker": "John",
+        "text": "Thanks, Maria! I was really excited. It feels like all the hard work I've put in has paid off now that I'm an assistant manager- it's like a stepping stone for bigger things.",
+        "metadata": {
+          "img_url": [
+            "https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTEyL2ZsNTE4NTQxMzE2ODgtaW1hZ2UuanBn.jpg"
+          ],
+          "blip_caption": "a photography of a golden trophy on a black surface",
+          "query": "new office assistant manager sign",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D19:9",
+        "speaker": "Maria",
+        "text": "Wow, John! Congrats on the promotion! What's the backstory on that trophy?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:10",
+        "speaker": "John",
+        "text": "Thanks, Maria! It commemorates my journey. It's a symbol of all the obstacles I had to overcome to get here.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:11",
+        "speaker": "Maria",
+        "text": "Cool, so you have a reminder of all that. It's good to acknowledge what you've been through and appreciate where you are now. Could you tell me more about the challenges?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:12",
+        "speaker": "John",
+        "text": "Yeah, I faced all kinds of hurdles - tech stuff, workplace stuff... but the worst was self-doubt. There were moments when I questioned if I was on the right track. But with support at home and my own grit, I powered through. This promotion is a reward for all the hustle and hardship I put in - a reminder that I'm on the right path.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:13",
+        "speaker": "Maria",
+        "text": "Wow, John, it's incredible to see how far you've come! Your perseverance and determination is so inspiring. I can imagine those hurdles were tough to deal with, especially the self-doubt.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:14",
+        "speaker": "John",
+        "text": "Thanks, Maria! It wasn't easy, but I'm proud of what I achieved. It can be tricky, but having support and believing in myself really helped me out.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:15",
+        "speaker": "Maria",
+        "text": "Yeah John, having belief in yourself matters. Plus it helps a lot when you've got loved ones supporting you. What we can do is seriously incredible with the right people believing in us.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:16",
+        "speaker": "John",
+        "text": "Definitely, Maria. Support from loved ones is vital. With their trust, we can do anything! I'm really lucky to have my family on this journey with me.",
+        "metadata": {
+          "img_url": [
+            "https://riverstudiodesign.ca/wp-content/uploads/2019/09/overall-office-jpg-1.jpg"
+          ],
+          "blip_caption": "a photo of a desk with a chair and a lamp",
+          "query": "wife kids office desk"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_25::episode-001",
+    "conversation_id": "conv-41",
+    "session_id": "session_25",
+    "observed_at": "2023-07-22T18:21:00",
+    "source_timestamp": "6:21 pm on 22 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D25:1",
+        "speaker": "John",
+        "text": "Hi Maria! It's so good to talk again. A lot has changed since last time. I'm really enjoying my new job. My team has been super encouraging and inspiring.",
+        "metadata": {
+          "blip_caption": "a photo of a group of people posing for a picture"
+        }
+      },
+      {
+        "turn_id": "D25:2",
+        "speaker": "Maria",
+        "text": "Hey John, glad work is going well! Having a good team is so important. I had a great experience last weekend hiking with my church  friends - it was great to be surrounded by supportive people and to enjoy nature. Felt so refreshing!",
+        "metadata": {
+          "img_url": [
+            "https://www.wildbunchdesertguides.com/blog/uploaded_files/images/Picturesque-trail.jpg"
+          ],
+          "blip_caption": "a photo of a group of people walking up a trail",
+          "query": "group friends hiking mountains nature rejuvenating"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_28::episode-001",
+    "conversation_id": "conv-41",
+    "session_id": "session_28",
+    "observed_at": "2023-08-05T17:19:00",
+    "source_timestamp": "5:19 pm on 5 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D28:1",
+        "speaker": "John",
+        "text": "Hey Maria, great chatting with you again! Crazy thing happened since we last talked. I lost my job at the mechanical engineering company. They tanked and it's been really rough. Never saw this coming.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D28:2",
+        "speaker": "Maria",
+        "text": "Sorry to hear about your job, John. I can only imagine how tough it must be. How are you holding up?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D28:3",
+        "speaker": "John",
+        "text": "Thanks for your care, Maria. It's been tough but I'm trying to stay up. I've been looking into some opportunities in the tech industry for a while now. Maybe this is the change I need, you gave me the push!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D28:4",
+        "speaker": "Maria",
+        "text": "Hey John, glad you're looking into other avenues. Any promising leads come up?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D28:5",
+        "speaker": "John",
+        "text": "Thanks Maria! I may have found a job at a tech company I like that needs my mechanical skills for their hardware team. It feels different, but I think it's a great opportunity to learn and contribute.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D28:6",
+        "speaker": "Maria",
+        "text": "Wow, John, that sounds like the perfect job for you! You're so adaptable, I'm sure you'll do great. Good luck!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D28:7",
+        "speaker": "John",
+        "text": "Thanks, Maria! I appreciate your support, it really means a lot.",
+        "metadata": {}
+      }
+    ]
+  }
+]

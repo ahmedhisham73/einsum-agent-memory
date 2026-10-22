@@ -1,0 +1,24 @@
+[
+  {
+    "round": 1,
+    "budget": 8,
+    "index_scan_complete": false,
+    "missing_requirement_ids": [],
+    "selected_episode_ids": [
+      "conv-41::session_2::episode-001"
+    ],
+    "requirements": [
+      {
+        "id": "R1",
+        "covered": true,
+        "reason": "Maria explicitly states she donated her old car to a homeless shelter yesterday, relative to the conversation timestamp.",
+        "citations": [
+          {
+            "episode_id": "conv-41::session_2::episode-001",
+            "turn_id": "D2:1"
+          }
+        ]
+      }
+    ]
+  }
+]

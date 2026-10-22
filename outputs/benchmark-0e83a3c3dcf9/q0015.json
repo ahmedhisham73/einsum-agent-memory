@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-41::q0015",
+  "category": 3,
+  "question": "Would John be considered a patriotic person?",
+  "gold_answer": "Yes",
+  "status": "failed",
+  "error": "Query failed. See q0015.log"
+}

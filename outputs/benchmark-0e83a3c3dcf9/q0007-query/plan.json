@@ -1,0 +1,56 @@
+{
+  "reasoning_type": "point",
+  "exhaustive": false,
+  "requirements": [
+    {
+      "id": "R1",
+      "entity": "Maria",
+      "entity_type": "person",
+      "property": "friend_with_volunteer",
+      "value": "",
+      "condition": "",
+      "role": "Identify where Maria has made friends by finding places or contexts where she is described as having friends or as friend with others",
+      "search": "friend_with_volunteer:Maria"
+    },
+    {
+      "id": "R2",
+      "entity": "Maria",
+      "entity_type": "person",
+      "property": "considers_friend",
+      "value": "",
+      "condition": "",
+      "role": "Identify places or contexts where Maria considers someone her friend",
+      "search": "considers_friend:Maria"
+    },
+    {
+      "id": "R3",
+      "entity": "Maria",
+      "entity_type": "person",
+      "property": "met",
+      "value": "",
+      "condition": "met in some location or context",
+      "role": "Check entities or places where Maria met others who became her friends",
+      "search": "met:Maria"
+    },
+    {
+      "id": "R4",
+      "entity": "Maria",
+      "entity_type": "person",
+      "property": "attended_event",
+      "value": "",
+      "condition": "",
+      "role": "Determine locations by events or activities Maria attended where friendship formation was noted",
+      "search": "attended_event:Maria"
+    },
+    {
+      "id": "R5",
+      "entity": "Maria",
+      "entity_type": "person",
+      "property": "participated_in",
+      "value": "",
+      "condition": "activity or group context conducive to making friends",
+      "role": "Identify group activities or contexts where Maria interacted socially, possibly making friends",
+      "search": "participated_in:Maria"
+    }
+  ]
+}

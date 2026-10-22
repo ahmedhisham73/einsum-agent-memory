@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-41::q0009",
+  "category": 3,
+  "question": "What might John's financial status be?",
+  "gold_answer": "Middle-class or wealthy",
+  "status": "failed",
+  "error": "Query failed. See q0009.log"
+}

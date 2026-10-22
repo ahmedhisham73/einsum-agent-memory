@@ -1,0 +1,259 @@
+[
+  {
+    "episode_id": "conv-41::session_1::episode-003",
+    "conversation_id": "conv-41",
+    "session_id": "session_1",
+    "observed_at": "2022-12-17T11:01:00",
+    "source_timestamp": "11:01 am on 17 December, 2022",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D1:6",
+        "speaker": "John",
+        "text": "Yeah Maria, I'm really hoping to get into local politics. I love helping the community and making it a better place.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:7",
+        "speaker": "Maria",
+        "text": "Woohoo, John! That's awesome! Any specific areas you want to tackle?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:8",
+        "speaker": "John",
+        "text": "I'm passionate about improving education and infrastructure in our community. Those are my main focuses.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_4::episode-002",
+    "conversation_id": "conv-41",
+    "session_id": "session_4",
+    "observed_at": "2023-01-09T19:06:00",
+    "source_timestamp": "7:06 pm on 9 January, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D4:11",
+        "speaker": "Maria",
+        "text": "It's great to hear that you appreciate the beauty of sunsets! By the way, have there been any developments regarding your political goals?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:12",
+        "speaker": "John",
+        "text": "I've been keeping busy since we last talked! I've been looking into local politics, talking to community leaders, and getting to know the needs and hopes of our neighborhood. It's been super informative, and I'm feeling optimistic about it all.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:13",
+        "speaker": "Maria",
+        "text": "Wow, John! Your dedication to our community is amazing. Keep up the great work! I've been taking some notes about local politics in my notebook.",
+        "metadata": {
+          "img_url": [
+            "https://media2.inlander.com/inlander/imager/u/original/27047427/1.jpg"
+          ],
+          "blip_caption": "a photo of a notebook with a pencil and a notepad on a table",
+          "query": "notebook local politics"
+        }
+      },
+      {
+        "turn_id": "D4:14",
+        "speaker": "John",
+        "text": "Thanks, Maria! You're super helpful. That gives me some new ideas and plans for our community!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:15",
+        "speaker": "Maria",
+        "text": "Glad I could help, John. What's up next for you?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:16",
+        "speaker": "John",
+        "text": "Next week I have a community meeting coming up, we'll be discussing education and infrastructure upgrades.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:17",
+        "speaker": "Maria",
+        "text": "Good luck on that! Hope your ideas and concerns get heard.",
+        "metadata": {
+          "blip_caption": "a photo of a microphone, a charger, and a charger on a table"
+        }
+      },
+      {
+        "turn_id": "D4:18",
+        "speaker": "John",
+        "text": "Thanks, Maria! I'm hoping so. I'll definitely stick up for our community. Discussing it is important.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:19",
+        "speaker": "Maria",
+        "text": "Definitely, John! Talking and working together will make a great difference. You're really doing our community a service by speaking out. It's admirable and inspiring.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:20",
+        "speaker": "John",
+        "text": "Maria, thank you! Your support means a lot. Let's make some change in our community!",
+        "metadata": {
+          "blip_caption": "a photo of a group of people sitting around a table with a laptop"
+        }
+      },
+      {
+        "turn_id": "D4:21",
+        "speaker": "Maria",
+        "text": "Yeah, let's do it, John! Working together, we can bring positive changes to the neighborhood as a team.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:22",
+        "speaker": "John",
+        "text": "Yeah, Maria! We can achieve great things if we join forces together.",
+        "metadata": {
+          "img_url": [
+            "https://live.staticflickr.com/7351/14090438714_33bec862fe_b.jpg"
+          ],
+          "blip_caption": "a photography of a man and a woman shaking hands",
+          "query": "handshake unity teamwork",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D4:23",
+        "speaker": "Maria",
+        "text": "Agreed, John! Uniting is essential for making a difference. if we stand together we can tackle any problems and build a great community.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:24",
+        "speaker": "John",
+        "text": "Yeah, Maria! I couldn't agree more. Thanks for being an awesome friend.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:25",
+        "speaker": "Maria",
+        "text": "No worries, John. It's really nice to help. We make a great team.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:26",
+        "speaker": "John",
+        "text": "Yup, we rock as a team! Glad to have you.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_12::episode-001",
+    "conversation_id": "conv-41",
+    "session_id": "session_12",
+    "observed_at": "2023-04-18T19:34:00",
+    "source_timestamp": "7:34 pm on 18 April, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D12:1",
+        "speaker": "John",
+        "text": "Hey Maria, hope you're doing okay. Since we chatted last, I've been blogging about politics and the government. It's been a really satisfying experience and I care about making a real impact. We need way better education and infrastructure and I know firsthand how this impacts neighborhoods.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:2",
+        "speaker": "Maria",
+        "text": "Hey John, glad to hear you're fired up about something! Blogging can really make a difference. I agree that education and infrastructure are key to our community's growth.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:3",
+        "speaker": "John",
+        "text": "Thanks, Maria! It's been great to talk to someone who understands the importance of these issues. Digging deeper into the political system has been eye-opening, so I'm researching policies and writing about my thoughts and ideas. Hoping to raise awareness and start conversations to create positive change.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:4",
+        "speaker": "Maria",
+        "text": "Wow, John! Your hard work will definitely start conversations and create positive change. What policies have you been focusing on lately?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:5",
+        "speaker": "John",
+        "text": "Recently, education reform and infrastructure development. Good access to quality education and updated infrastructure are key to a thriving and successful community. My goal is to get conversations going and get people involved by sharing ideas and taking action. It's really empowering to know I can help make a difference in people's lives.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:6",
+        "speaker": "Maria",
+        "text": "Wow, John! Your passion and dedication is inspiring. It's great to see you taking the lead and making a difference. Keep up the amazing work!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:7",
+        "speaker": "John",
+        "text": "Thanks, Maria! Really appreciate your support and encouragement, it means a lot to me. I've gotten some good feedback on my blog posts so far. It's just a small step, but every step counts.",
+        "metadata": {
+          "img_url": [
+            "https://byronernest.files.wordpress.com/2022/11/img_5966-1.jpg"
+          ],
+          "blip_caption": "a photo of two men standing next to each other at a convention",
+          "query": "blog post education reform"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_14::episode-001",
+    "conversation_id": "conv-41",
+    "session_id": "session_14",
+    "observed_at": "2023-05-06T17:04:00",
+    "source_timestamp": "5:04 pm on 6 May, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D14:1",
+        "speaker": "John",
+        "text": "Hey Maria, great to chat again! A lot has happened since we last spoke. Last week, I decided to run for office again - even though I haven't been successful before. I guess I can't let go of my dream to make a difference in my community. Can you believe it? Feels like a dream come true!",
+        "metadata": {
+          "blip_caption": "a photo of a poster on a bulletin board with a man smiling"
+        }
+      },
+      {
+        "turn_id": "D14:2",
+        "speaker": "Maria",
+        "text": "Way to go, John! You're doing great. I'm so proud of you for sticking with it. You're always dreaming up ways to make a difference and I'm sure your drive will pay off. Don't be afraid to take risks-- I'm 100% behind you!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:3",
+        "speaker": "John",
+        "text": "Maria, your support really means a lot! It's tough, but your kind words give me the motivation to keep going. I've still got a lot to learn, but I'm determined to make a difference. I appreciate your belief in me.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:4",
+        "speaker": "Maria",
+        "text": "John, I believe in you! Even small steps will make a difference. Keep going and stay true to yourself. You got this!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:5",
+        "speaker": "John",
+        "text": "Thanks, Maria! Your words really mean something. Sometimes it feels like it's too much, but your encouragement gives me the strength to keep going.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:6",
+        "speaker": "Maria",
+        "text": "Hey John, it's okay to feel overwhelmed from time to time. Just remember to pause, reflect, and take care of yourself. I'm here for you - let me know how I can support you.",
+        "metadata": {}
+      }
+    ]
+  }
+]

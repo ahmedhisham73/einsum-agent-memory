@@ -1,0 +1,80 @@
+[
+  {
+    "round": 1,
+    "budget": 8,
+    "index_scan_complete": true,
+    "missing_requirement_ids": [],
+    "selected_episode_ids": [
+      "conv-41::session_11::episode-001",
+      "conv-41::session_19::episode-002",
+      "conv-41::session_25::episode-001",
+      "conv-41::session_28::episode-001"
+    ],
+    "requirements": [
+      {
+        "id": "R1",
+        "covered": true,
+        "reason": "John explicitly mentions financial strain due to car repairs and generally money problems, indicating some financial difficulties.",
+        "citations": [
+          {
+            "episode_id": "conv-41::session_11::episode-001",
+            "turn_id": "D11:1"
+          },
+          {
+            "episode_id": "conv-41::session_11::episode-001",
+            "turn_id": "D11:3"
+          }
+        ]
+      },
+      {
+        "id": "R2",
+        "covered": true,
+        "reason": "John discusses having a job, being promoted to assistant manager, and later losing his job at a mechanical engineering company, indicating active business/employment status relevant to financial status.",
+        "citations": [
+          {
+            "episode_id": "conv-41::session_19::episode-002",
+            "turn_id": "D19:6"
+          },
+          {
+            "episode_id": "conv-41::session_28::episode-001",
+            "turn_id": "D28:1"
+          }
+        ]
+      },
+      {
+        "id": "R3",
+        "covered": true,
+        "reason": "John reports being promoted to assistant manager and later losing his mechanical engineering job, then looking for and possibly securing a tech company job, showing his job status transitions.",
+        "citations": [
+          {
+            "episode_id": "conv-41::session_19::episode-002",
+            "turn_id": "D19:6"
+          },
+          {
+            "episode_id": "conv-41::session_28::episode-001",
+            "turn_id": "D28:1"
+          },
+          {
+            "episode_id": "conv-41::session_28::episode-001",
+            "turn_id": "D28:5"
+          }
+        ]
+      },
+      {
+        "id": "R4",
+        "covered": true,
+        "reason": "John mentions actively working, promotion, job loss, and seeking new job opportunities, thus indicating income and earning activities over time.",
+        "citations": [
+          {
+            "episode_id": "conv-41::session_19::episode-002",
+            "turn_id": "D19:6"
+          },
+          {
+            "episode_id": "conv-41::session_28::episode-001",
+            "turn_id": "D28:5"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "round": 1,
+    "budget": 8,
+    "index_scan_complete": false,
+    "missing_requirement_ids": [
+      "R1"
+    ],
+    "selected_episode_ids": [
+      "conv-41::session_13::episode-003"
+    ],
+    "requirements": [
+      {
+        "id": "R1",
+        "covered": false,
+        "reason": "The episode mentions Maria had dinner with her mom on 'last night' relative to the conversation timestamp (May 4, 2023), implying the dinner occurred on May 3, 2023. However, the conversation does not explicitly state the exact date 'May 3, 2023' nor directly confirm the dinner date. Therefore, the support is suggestive but not exact.",
+        "citations": [
+          {
+            "episode_id": "conv-41::session_13::episode-003",
+            "turn_id": "D13:16"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "round": 2,
+    "budget": 24,
+    "index_scan_complete": false,
+    "missing_requirement_ids": [],
+    "selected_episode_ids": [
+      "conv-41::session_13::episode-003"
+    ],
+    "requirements": [
+      {
+        "id": "R1",
+        "covered": true,
+        "reason": "Maria states that she and her mom made dinner together last night, which corresponds to May 3, 2023 as the episode date is May 4, 2023. Therefore, Maria had dinner with her mom on May 3, 2023.",
+        "citations": [
+          {
+            "episode_id": "conv-41::session_13::episode-003",
+            "turn_id": "D13:16"
+          }
+        ]
+      }
+    ]
+  }
+]

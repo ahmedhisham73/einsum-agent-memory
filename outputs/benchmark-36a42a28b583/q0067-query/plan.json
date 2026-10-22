@@ -1,0 +1,56 @@
+{
+  "reasoning_type": "compositional",
+  "exhaustive": false,
+  "requirements": [
+    {
+      "id": "R1",
+      "entity": "John",
+      "entity_type": "person",
+      "property": "motivation",
+      "value": "",
+      "condition": "",
+      "role": "To find what event or reason sparked John's interest",
+      "search": "John motivation for improving education and infrastructure"
+    },
+    {
+      "id": "R2",
+      "entity": "John",
+      "entity_type": "person",
+      "property": "inspiration_source",
+      "value": "",
+      "condition": "",
+      "role": "To identify any inspiration that led John to focus on community improvement",
+      "search": "John inspiration for community education and infrastructure projects"
+    },
+    {
+      "id": "R3",
+      "entity": "John",
+      "entity_type": "person",
+      "property": "personal_experience",
+      "value": "",
+      "condition": "related to community education or infrastructure",
+      "role": "To check if personal experience influenced John's interest",
+      "search": "John personal experience with education or infrastructure in community"
+    },
+    {
+      "id": "R4",
+      "entity": "John",
+      "entity_type": "person",
+      "property": "belief_about_education",
+      "value": "",
+      "condition": "",
+      "role": "To understand John's beliefs that may underlie his interest",
+      "search": "John belief about education importance"
+    },
+    {
+      "id": "R5",
+      "entity": "John",
+      "entity_type": "person",
+      "property": "belief_about_infrastructure",
+      "value": "",
+      "condition": "",
+      "role": "To understand John's beliefs about infrastructure that motivated him",
+      "search": "John belief about infrastructure importance"
+    }
+  ]
+}

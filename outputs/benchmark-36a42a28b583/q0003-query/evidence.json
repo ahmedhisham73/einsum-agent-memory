@@ -1,0 +1,40 @@
+[
+  {
+    "episode_id": "conv-41::session_1::episode-002",
+    "conversation_id": "conv-41",
+    "session_id": "session_1",
+    "observed_at": "2022-12-17T11:01:00",
+    "source_timestamp": "11:01 am on 17 December, 2022",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D1:4",
+        "speaker": "John",
+        "text": "Woah, Maria, that sounds cool! I'm doing kickboxing and it's giving me so much energy.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:5",
+        "speaker": "Maria",
+        "text": "Cool, John. Kickboxing is a perfect way to stay in shape and de-stress. Do you have any goals you're working towards?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_2::episode-005",
+    "conversation_id": "conv-41",
+    "session_id": "session_2",
+    "observed_at": "2022-12-22T18:10:00",
+    "source_timestamp": "6:10 pm on 22 December, 2022",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D2:28",
+        "speaker": "John",
+        "text": " Yep, let's keep making great memories with our loved ones and cherishing the time we have. I'm off to do some taekwondo!",
+        "metadata": {}
+      }
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "episode_id": "conv-41::session_2::episode-001",
+    "conversation_id": "conv-41",
+    "session_id": "session_2",
+    "observed_at": "2022-12-22T18:10:00",
+    "source_timestamp": "6:10 pm on 22 December, 2022",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D2:1",
+        "speaker": "Maria",
+        "text": "Hey John, been a few days since we chatted. In the meantime, I donated my old car to a homeless shelter I volunteer at yesterday. How's the campaign going? I'm keen to hearabout it.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:2",
+        "speaker": "John",
+        "text": "Hi Maria! It's been an interesting ride so far. I've been networking with some people to get their input.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:3",
+        "speaker": "Maria",
+        "text": "That's awesome, John! Networking is great for gaining new perspectives and insights. Have you had any interesting conversations or revelations so far?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:4",
+        "speaker": "John",
+        "text": "I just talked to someone who shared some amazing stories. It really fired up my passion to make education better in our area.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:5",
+        "speaker": "Maria",
+        "text": "Wow, John! Hearing that can really make an impact and get us fired up to make a difference. It's great to hear that you're feeling motivated to make improvements to our community's education!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:6",
+        "speaker": "John",
+        "text": "Definitely, Maria. Investing in our future generations is key, giving them the right tools for success. It's the foundation of progress and opportunity.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:7",
+        "speaker": "Maria",
+        "text": "Yeah, John. It's amazing how even minor tweaks to the system can make a big difference for lots of people. I'm really impressed with your enthusiasm and commitment to it!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:8",
+        "speaker": "John",
+        "text": "Thanks, Maria. Your encouragement means a lot to me. It's true that with effort and support, we can make a real difference in our community.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:9",
+        "speaker": "Maria",
+        "text": "You got this, John! I believe in your power to make a positive difference. Your passion inspires me. Keep going - I'm here for you.",
+        "metadata": {}
+      }
+    ]
+  }
+]

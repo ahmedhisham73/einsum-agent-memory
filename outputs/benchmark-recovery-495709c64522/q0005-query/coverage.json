@@ -1,0 +1,25 @@
+[
+  {
+    "round": 1,
+    "budget": 8,
+    "index_scan_complete": false,
+    "missing_requirement_ids": [],
+    "selected_episode_ids": [
+      "conv-41::session_3::episode-001",
+      "conv-41::session_27::episode-001"
+    ],
+    "requirements": [
+      {
+        "id": "R1",
+        "covered": true,
+        "reason": "John stated in episode conv-41::session_3::episode-001 at turn D3:1 (on 1 January 2023) that he joined the online support group 'last week,' situating his joining approximately in the last week of December 2022.",
+        "citations": [
+          {
+            "episode_id": "conv-41::session_3::episode-001",
+            "turn_id": "D3:1"
+          }
+        ]
+      }
+    ]
+  }
+]

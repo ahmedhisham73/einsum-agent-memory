@@ -1,0 +1,12 @@
+[
+  {
+    "round": 1,
+    "budget": 8,
+    "index_scan_complete": true,
+    "missing_requirement_ids": [],
+    "selected_episode_ids": [
+      "conv-41::session_1::episode-002",
+      "conv-41::session_2::episode-005"
+    ]
+  }
+]

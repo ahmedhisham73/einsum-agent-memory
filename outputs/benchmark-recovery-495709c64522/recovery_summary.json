@@ -1,0 +1,13 @@
+{
+  "selected": 10,
+  "scored": 9,
+  "failed": 1,
+  "correct": 5,
+  "accuracy_on_scored_percent": 55.55555555555556,
+  "provenance": {
+    "source_benchmark": "benchmark-0e83a3c3dcf9",
+    "original_runner_sha256": "44b3799d4957c26a3dff4c438896086a4b19b5f0f3a91f2ba331b3ff741cc04d",
+    "recovery_script_sha256": "d000ce887fc77af73f7d305e9e0ea38a3c17c954b98dae6eb228511977a9d445",
+    "scope": "Preserved scored answers plus recovered failed questions; mixed execution versions, not a fresh uniform benchmark."
+  }
+}

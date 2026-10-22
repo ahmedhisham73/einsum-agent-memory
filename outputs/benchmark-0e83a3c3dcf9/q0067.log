@@ -1,0 +1,132 @@
+Embeddings ready: 775
+Qdrant records: 775
+Coverage round 1: 5 episodes; 0 missing requirements
+
+ANSWER: John's interest in improving education and infrastructure in the community was sparked by his personal experience growing up in a neighborhood affected by lack of education and crumbling infrastructure, which motivated him to prevent future generations from facing the same issues. Additionally, joining a service-focused online group with inspiring stories gave him a sense of connection and purpose that further inspired his community improvement efforts. He believes that education is essential for a successful society and that kids deserve better resources and funding, and that updated infrastructure is necessary for a thriving community, enabling safer and modern environments.
+CITATIONS: [
+  {
+    "episode_id": "conv-41::session_1::episode-004",
+    "turn_id": "D1:10"
+  },
+  {
+    "episode_id": "conv-41::session_3::episode-001",
+    "turn_id": "D3:1"
+  }
+]
+Evidence sufficient: True
+Artifacts: /Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/benchmark-0e83a3c3dcf9/q0067-query
+
+EMBEDDING BUILD USAGE:
+{
+  "experiment_id": "embedding-build-de9cda2f780d",
+  "recorded_calls": 25,
+  "groups": [
+    {
+      "approach": "ensimem",
+      "phase": "build",
+      "stage": "index_embedding",
+      "usage_kind": "embedding",
+      "provider": "openai",
+      "model": "text-embedding-3-small",
+      "calls": 25,
+      "retry_calls": 0,
+      "missing_usage_calls": 0,
+      "reported_input_tokens": 32918,
+      "reported_output_tokens": 0,
+      "total_tokens": 32918,
+      "cached_input_tokens": null,
+      "usage_complete": true
+    }
+  ]
+}
+
+QUERY USAGE:
+{
+  "experiment_id": "q0067-query",
+  "recorded_calls": 11,
+  "groups": [
+    {
+      "approach": "ensimem",
+      "phase": "query",
+      "stage": "grounded_answer",
+      "usage_kind": "generation",
+      "provider": "openai",
+      "model": "gpt-4.1-mini-2025-04-14",
+      "calls": 1,
+      "retry_calls": 0,
+      "missing_usage_calls": 0,
+      "reported_input_tokens": 3739,
+      "reported_output_tokens": 196,
+      "total_tokens": 3935,
+      "cached_input_tokens": 0,
+      "usage_complete": true
+    },
+    {
+      "approach": "ensimem",
+      "phase": "query",
+      "stage": "index_compatibility_v2",
+      "usage_kind": "generation",
+      "provider": "openai",
+      "model": "gpt-4.1-mini-2025-04-14",
+      "calls": 7,
+      "retry_calls": 0,
+      "missing_usage_calls": 0,
+      "reported_input_tokens": 8570,
+      "reported_output_tokens": 129,
+      "total_tokens": 8699,
+      "cached_input_tokens": 0,
+      "usage_complete": true
+    },
+    {
+      "approach": "ensimem",
+      "phase": "query",
+      "stage": "requirement_coverage_v2",
+      "usage_kind": "generation",
+      "provider": "openai",
+      "model": "gpt-4.1-mini-2025-04-14",
+      "calls": 1,
+      "retry_calls": 0,
+      "missing_usage_calls": 0,
+      "reported_input_tokens": 3288,
+      "reported_output_tokens": 447,
+      "total_tokens": 3735,
+      "cached_input_tokens": 0,
+      "usage_complete": true
+    },
+    {
+      "approach": "ensimem",
+      "phase": "query",
+      "stage": "requirement_embedding",
+      "usage_kind": "embedding",
+      "provider": "openai",
+      "model": "text-embedding-3-small",
+      "calls": 1,
+      "retry_calls": 0,
+      "missing_usage_calls": 0,
+      "reported_input_tokens": 34,
+      "reported_output_tokens": 0,
+      "total_tokens": 34,
+      "cached_input_tokens": null,
+      "usage_complete": true
+    },
+    {
+      "approach": "ensimem",
+      "phase": "query",
+      "stage": "requirement_planning_v2",
+      "usage_kind": "generation",
+      "provider": "openai",
+      "model": "gpt-4.1-mini-2025-04-14",
+      "calls": 1,
+      "retry_calls": 0,
+      "missing_usage_calls": 0,
+      "reported_input_tokens": 3776,
+      "reported_output_tokens": 408,
+      "total_tokens": 4184,
+      "cached_input_tokens": 0,
+      "usage_complete": true
+    }
+  ]
+}
+
+/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(

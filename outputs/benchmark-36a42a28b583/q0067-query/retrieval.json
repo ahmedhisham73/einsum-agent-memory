@@ -1,0 +1,15 @@
+[
+  {
+    "round": 1,
+    "budget": 8,
+    "index_scan_complete": false,
+    "missing_requirement_ids": [],
+    "selected_episode_ids": [
+      "conv-41::session_1::episode-004",
+      "conv-41::session_3::episode-001",
+      "conv-41::session_5::episode-001",
+      "conv-41::session_12::episode-001",
+      "conv-41::session_23::episode-002"
+    ]
+  }
+]

@@ -1,0 +1,2749 @@
+[
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "13e81976-d81a-4cd7-902b-40f9ea8c41bc",
+    "response": {
+      "id": "chatcmpl-EbtileGtrNAUYDJodRk0aIvCPjsyg",
+      "object": "chat.completion",
+      "created": 1792701035,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1195,
+        "completion_tokens": 4,
+        "total_tokens": 1199,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.4737969159999997
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "2b406e9c-9d1c-4998-9787-443fb5039f4b",
+    "response": {
+      "id": "chatcmpl-EbtimQIVqOqaR9Yc3qC1DzR4Cn3k8",
+      "object": "chat.completion",
+      "created": 1792701036,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1181,
+        "completion_tokens": 4,
+        "total_tokens": 1185,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.4212677079999998
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "896a7cda-d999-4e08-9017-9bbfc1f5b37d",
+    "response": {
+      "id": "chatcmpl-EbtinS63po6fsen5mEXQ3D16bU0L8",
+      "object": "chat.completion",
+      "created": 1792701037,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1186,
+        "completion_tokens": 4,
+        "total_tokens": 1190,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.2444682920000005
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "d05324b9-e99d-47c6-9eed-5c5caabfc326",
+    "response": {
+      "id": "chatcmpl-EbtioHE3gw1mioEgVXUV1NawM6UZn",
+      "object": "chat.completion",
+      "created": 1792701038,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1129,
+        "completion_tokens": 4,
+        "total_tokens": 1133,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.0949343750000002
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "0f6f2b83-d5d8-4f08-87c9-2a03e9fe50a9",
+    "response": {
+      "id": "chatcmpl-EbtiqPd3fCbQhekAGK9cEq058cpCw",
+      "object": "chat.completion",
+      "created": 1792701040,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1192,
+        "completion_tokens": 4,
+        "total_tokens": 1196,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.4504725829999998
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "515193fc-2166-4360-8401-2bd5c0eb56de",
+    "response": {
+      "id": "chatcmpl-EbtirEQ5EAmtpcGMxiNbbYbOG0Ieu",
+      "object": "chat.completion",
+      "created": 1792701041,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1209,
+        "completion_tokens": 4,
+        "total_tokens": 1213,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.294746
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "00ff847b-f95f-4df2-9f06-f9ec9d3856f9",
+    "response": {
+      "id": "chatcmpl-Ebtis6BlE0g1GjjKqDISR77fLiG7h",
+      "object": "chat.completion",
+      "created": 1792701042,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1190,
+        "completion_tokens": 4,
+        "total_tokens": 1194,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.0752465830000002
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "c5db8e0b-a021-4669-8fe2-463b5c196709",
+    "response": {
+      "id": "chatcmpl-EbtitHEwQHcLfMli323fhsRNU1ago",
+      "object": "chat.completion",
+      "created": 1792701043,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1243,
+        "completion_tokens": 4,
+        "total_tokens": 1247,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.183927624999999
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "3d0e074b-4e2b-4249-a5f9-5c4245b7f717",
+    "response": {
+      "id": "chatcmpl-EbtivJamvUo9uWxy9YKI1OzkpFAof",
+      "object": "chat.completion",
+      "created": 1792701045,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1113,
+        "completion_tokens": 4,
+        "total_tokens": 1117,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.205320582999999
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "23531504-b441-4292-869c-bcd65141db81",
+    "response": {
+      "id": "chatcmpl-EbtiwaYmbclUK7SBbhIw19KSrasUk",
+      "object": "chat.completion",
+      "created": 1792701046,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1149,
+        "completion_tokens": 4,
+        "total_tokens": 1153,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.1727685
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "f5077c27-d616-4d8e-982e-45205b8eab1e",
+    "response": {
+      "id": "chatcmpl-EbtixysHCwSReszM9pveAztfdPhky",
+      "object": "chat.completion",
+      "created": 1792701047,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1188,
+        "completion_tokens": 4,
+        "total_tokens": 1192,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.3247870000000006
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "da337e36-d5f7-45ba-b478-3b152dc36268",
+    "response": {
+      "id": "chatcmpl-EbtizXQc9JtkTckf32ObfpnijAyRt",
+      "object": "chat.completion",
+      "created": 1792701049,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1170,
+        "completion_tokens": 4,
+        "total_tokens": 1174,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.5151598749999984
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "cd7cc8f0-c9b0-4f77-87cd-bc9d45e3c249",
+    "response": {
+      "id": "chatcmpl-Ebtj0QFgSx1Q301kDmi05BrjTgAUY",
+      "object": "chat.completion",
+      "created": 1792701050,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1109,
+        "completion_tokens": 4,
+        "total_tokens": 1113,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.4543369999999989
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "4466cdeb-9138-41a5-a402-90ec0da43bb9",
+    "response": {
+      "id": "chatcmpl-Ebtj3xtOjFwKA1E4Jv8tZihUMlakh",
+      "object": "chat.completion",
+      "created": 1792701053,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1095,
+        "completion_tokens": 4,
+        "total_tokens": 1099,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 2.5790311669999966
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "50032d18-c701-4f0d-adf5-1daf3d298526",
+    "response": {
+      "id": "chatcmpl-Ebtj47uP8an82iHgfRujzyMaMDCZ3",
+      "object": "chat.completion",
+      "created": 1792701054,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1112,
+        "completion_tokens": 4,
+        "total_tokens": 1116,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.1208905830000013
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "42405f52-2238-4f25-8d01-965fe33887cb",
+    "response": {
+      "id": "chatcmpl-Ebtj6gRkdvvSXht4OzxLEAdaPiLfV",
+      "object": "chat.completion",
+      "created": 1792701056,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1095,
+        "completion_tokens": 4,
+        "total_tokens": 1099,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.6699686249999992
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "dc410372-c428-4700-aa1b-1d41f85effa4",
+    "response": {
+      "id": "chatcmpl-Ebtj7HhV4IIJGiAtUqM4YRWyW2F2O",
+      "object": "chat.completion",
+      "created": 1792701057,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1146,
+        "completion_tokens": 4,
+        "total_tokens": 1150,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.0081069169999992
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "fef1574d-e868-4b96-9f06-e5af236d7109",
+    "response": {
+      "id": "chatcmpl-Ebtj8gNxTUsP36TOH9ePTr6Zr2AFF",
+      "object": "chat.completion",
+      "created": 1792701058,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1176,
+        "completion_tokens": 4,
+        "total_tokens": 1180,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.198603459000001
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "fde3c6dc-af8e-4de2-8e2a-331ebf32cb74",
+    "response": {
+      "id": "chatcmpl-Ebtj9qhliXxjfpBHPCOxPRvFcDlit",
+      "object": "chat.completion",
+      "created": 1792701059,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1180,
+        "completion_tokens": 4,
+        "total_tokens": 1184,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.2019252500000022
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "1fbc01a9-8fed-4991-add5-703ebe112303",
+    "response": {
+      "id": "chatcmpl-EbtjAS6EoJ3Hv4yfKfXEM8R2eGuYF",
+      "object": "chat.completion",
+      "created": 1792701060,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1207,
+        "completion_tokens": 4,
+        "total_tokens": 1211,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.231210749999999
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "b14535a9-74d7-49a3-8d52-f02593ea753d",
+    "response": {
+      "id": "chatcmpl-EbtjBsiRobNGjl5sRNagS3GX9VUyI",
+      "object": "chat.completion",
+      "created": 1792701061,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[{\"requirement_id\":\"R1\",\"record_id\":\"241\"},{\"requirement_id\":\"R1\",\"record_id\":\"244\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1205,
+        "completion_tokens": 29,
+        "total_tokens": 1234,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.1531924159999996
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "e81748f7-4b6a-49f8-8b6b-67fb8b4cc9e3",
+    "response": {
+      "id": "chatcmpl-EbtjD033Bc4gxxugd0bDGBptdpcLh",
+      "object": "chat.completion",
+      "created": 1792701063,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1199,
+        "completion_tokens": 4,
+        "total_tokens": 1203,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.8102376249999992
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "80bfc585-330d-4367-9f68-c1909e2bad36",
+    "response": {
+      "id": "chatcmpl-EbtjFdNZ1FIk6uhKKm88ufFaxon4W",
+      "object": "chat.completion",
+      "created": 1792701065,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1067,
+        "completion_tokens": 4,
+        "total_tokens": 1071,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.5261406659999963
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "fe1e5ab5-1db8-4bca-abf0-6fcebfa59f65",
+    "response": {
+      "id": "chatcmpl-EbtjG7IIYrXIf0kbJnT1C5bdi73WK",
+      "object": "chat.completion",
+      "created": 1792701066,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1170,
+        "completion_tokens": 4,
+        "total_tokens": 1174,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.2946023330000003
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "3aca2963-25e2-41ce-8ff1-e1e143bf8113",
+    "response": {
+      "id": "chatcmpl-EbtjHrNO8rdxIbiWFbqnse4obGav2",
+      "object": "chat.completion",
+      "created": 1792701067,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1185,
+        "completion_tokens": 4,
+        "total_tokens": 1189,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.310203541
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "96f3b4bd-3e38-4258-a859-aea75d83b599",
+    "response": {
+      "id": "chatcmpl-EbtjJmBS1mEJqxTtwvERg6NmArewF",
+      "object": "chat.completion",
+      "created": 1792701069,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1095,
+        "completion_tokens": 4,
+        "total_tokens": 1099,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.283068
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "cd84aa63-e15d-40de-9c2c-d75254a32632",
+    "response": {
+      "id": "chatcmpl-EbtjKBM3ugX7iZ94TspgASU4tsnf3",
+      "object": "chat.completion",
+      "created": 1792701070,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1123,
+        "completion_tokens": 4,
+        "total_tokens": 1127,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.1460057500000005
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "0bdc4917-f195-42d2-9ae5-d758add1d47c",
+    "response": {
+      "id": "chatcmpl-EbtjLf6fIMVW6dm6Zx0l5UEo7GPQP",
+      "object": "chat.completion",
+      "created": 1792701071,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1108,
+        "completion_tokens": 4,
+        "total_tokens": 1112,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.1904327499999994
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "9493bc42-9e0b-42f9-be49-fac9946157ff",
+    "response": {
+      "id": "chatcmpl-EbtjMSmShrcZKSrXCtrY3lNsTMEos",
+      "object": "chat.completion",
+      "created": 1792701072,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1158,
+        "completion_tokens": 4,
+        "total_tokens": 1162,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.4068419999999975
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "511a32ca-9274-46c2-8c56-9eb85e85804e",
+    "response": {
+      "id": "chatcmpl-EbtjNYn5miP5ZPD2k2CkX7vxS4O3l",
+      "object": "chat.completion",
+      "created": 1792701073,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1232,
+        "completion_tokens": 4,
+        "total_tokens": 1236,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.0669943750000002
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "d62be69f-039a-48a1-8ea0-d5e23bc9501e",
+    "response": {
+      "id": "chatcmpl-EbtjPqVjnqyVwG84v2EFQz3pigWTt",
+      "object": "chat.completion",
+      "created": 1792701075,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1250,
+        "completion_tokens": 4,
+        "total_tokens": 1254,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.081522041999996
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "ef525d69-a13a-449e-9ed8-76bc3fc13265",
+    "response": {
+      "id": "chatcmpl-EbtjQaMbNzfgf4owepG1nWDTMPVE6",
+      "object": "chat.completion",
+      "created": 1792701076,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1201,
+        "completion_tokens": 4,
+        "total_tokens": 1205,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.3071752500000002
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "2bfe91ac-a729-469a-a398-a1c65b67a6dc",
+    "response": {
+      "id": "chatcmpl-EbtjRLu76RB4qQAPXPxSaH7rYBvQ4",
+      "object": "chat.completion",
+      "created": 1792701077,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1134,
+        "completion_tokens": 4,
+        "total_tokens": 1138,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.5278100000000023
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "14e6e965-511b-4757-8eb6-19c020b2b289",
+    "response": {
+      "id": "chatcmpl-EbtjTGthZdyVpeiKqc18FeW3GFMWU",
+      "object": "chat.completion",
+      "created": 1792701079,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1129,
+        "completion_tokens": 4,
+        "total_tokens": 1133,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.5173914590000024
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "4bf40316-4999-416e-974d-1779514ac32e",
+    "response": {
+      "id": "chatcmpl-EbtjU6gwyHRX4ZQ5jtIiSUlYaInU6",
+      "object": "chat.completion",
+      "created": 1792701080,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1169,
+        "completion_tokens": 4,
+        "total_tokens": 1173,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.079235666999999
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "0fd74ed6-8526-4bb4-8da9-c57d513fb8be",
+    "response": {
+      "id": "chatcmpl-EbtjWOqLySCTL7wSokN6Kg6sPS1kg",
+      "object": "chat.completion",
+      "created": 1792701082,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1183,
+        "completion_tokens": 4,
+        "total_tokens": 1187,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.827408291999994
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "657ab395-9bfd-4f54-b088-03702f38b513",
+    "response": {
+      "id": "chatcmpl-EbtjXoF2KbosomsVdx1PjfL27HpEQ",
+      "object": "chat.completion",
+      "created": 1792701083,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1164,
+        "completion_tokens": 4,
+        "total_tokens": 1168,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.1475091250000062
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "8cbf12bb-5623-4d97-90fe-658b1056edba",
+    "response": {
+      "id": "chatcmpl-EbtjYmOLx7PJJDRQg3asme9oyeVNV",
+      "object": "chat.completion",
+      "created": 1792701084,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[{\"requirement_id\":\"R3\",\"record_id\":\"454\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1014,
+        "completion_tokens": 17,
+        "total_tokens": 1031,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.4309877079999964
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "798e6f1d-f7ab-46e0-a6f3-1eb31ab9cfec",
+    "response": {
+      "id": "chatcmpl-EbtjaBEzFoxZIU8JRYnsKgglPwY8e",
+      "object": "chat.completion",
+      "created": 1792701086,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1053,
+        "completion_tokens": 4,
+        "total_tokens": 1057,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.8389527079999937
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "27c70b5a-a56d-43ac-b858-a11f20d129f6",
+    "response": {
+      "id": "chatcmpl-Ebtjc1oWjWJ9vTpHzaYD5ZK6fTSu6",
+      "object": "chat.completion",
+      "created": 1792701088,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1109,
+        "completion_tokens": 4,
+        "total_tokens": 1113,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.499632333000001
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "48fab2d4-153b-4b08-8385-bb45af1ba7ff",
+    "response": {
+      "id": "chatcmpl-EbtjduMqWMRzURIz1McnjJugxh8b3",
+      "object": "chat.completion",
+      "created": 1792701089,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1100,
+        "completion_tokens": 4,
+        "total_tokens": 1104,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.1537479590000004
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "c7712e26-2aa2-4d1c-b210-3a16dfabd2f4",
+    "response": {
+      "id": "chatcmpl-EbtjeNNmo3xDSA4GwFiitdLiao8VE",
+      "object": "chat.completion",
+      "created": 1792701090,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1204,
+        "completion_tokens": 4,
+        "total_tokens": 1208,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.192268666000004
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "867e8d96-1254-4814-a219-e67663f71250",
+    "response": {
+      "id": "chatcmpl-Ebtjfp8Tg5RKcU5zrGS6usW4py0Cu",
+      "object": "chat.completion",
+      "created": 1792701091,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1243,
+        "completion_tokens": 4,
+        "total_tokens": 1247,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.1782992919999984
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "3ab0ff73-f033-41e0-9ccc-172a39eaf26b",
+    "response": {
+      "id": "chatcmpl-EbtjhUdny5SutUlWqD61xwJjmD4QY",
+      "object": "chat.completion",
+      "created": 1792701093,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1250,
+        "completion_tokens": 4,
+        "total_tokens": 1254,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.2079009170000035
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "1cd8a417-fc17-4c70-909d-900b2e6b01da",
+    "response": {
+      "id": "chatcmpl-Ebtji6uM3DhDtnBR9zYMWDYvFA1PY",
+      "object": "chat.completion",
+      "created": 1792701094,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1218,
+        "completion_tokens": 4,
+        "total_tokens": 1222,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.1523702089999972
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "b6e5aa6c-e1e3-4cb6-9a7b-f2a1212f16b3",
+    "response": {
+      "id": "chatcmpl-EbtjjoOp8i5krda3H6yNGMYyiALUl",
+      "object": "chat.completion",
+      "created": 1792701095,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1187,
+        "completion_tokens": 4,
+        "total_tokens": 1191,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.6329764579999946
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "5f9d44dc-2c6f-49ac-946a-10f07067840a",
+    "response": {
+      "id": "chatcmpl-EbtjkaHtVkmqTIu0kWgbjD2ujovlc",
+      "object": "chat.completion",
+      "created": 1792701096,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1081,
+        "completion_tokens": 4,
+        "total_tokens": 1085,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.1265633750000035
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "9e2c39d0-26df-44fc-b114-567cc13395fb",
+    "response": {
+      "id": "chatcmpl-EbtjmEtESYvDEYwIZ4fQdLOTpxXY5",
+      "object": "chat.completion",
+      "created": 1792701098,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1208,
+        "completion_tokens": 4,
+        "total_tokens": 1212,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_295d13ce69"
+    },
+    "latency_seconds": 1.4371382500000038
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "286458dd-2955-4729-b9d2-ddff363d7973",
+    "response": {
+      "id": "chatcmpl-EbtjnOgeifUVdcj1QOPjTPcbsRVwk",
+      "object": "chat.completion",
+      "created": 1792701099,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1201,
+        "completion_tokens": 4,
+        "total_tokens": 1205,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.4396516249999962
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "0b36f7c6-854e-46d5-90e7-f12dff7cf6bc",
+    "response": {
+      "id": "chatcmpl-Ebtjo1fiye9gjO7JnpbBhyJQHn79h",
+      "object": "chat.completion",
+      "created": 1792701100,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1111,
+        "completion_tokens": 4,
+        "total_tokens": 1115,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.0872832079999881
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "d466a20a-b1e2-4548-a14d-7ae0389cf939",
+    "response": {
+      "id": "chatcmpl-Ebtjqvi3joZCBRRoTPIlMdiQR0TGD",
+      "object": "chat.completion",
+      "created": 1792701102,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[{\"requirement_id\":\"R3\",\"record_id\":\"603\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1157,
+        "completion_tokens": 17,
+        "total_tokens": 1174,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.4121602090000067
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "2b1761f1-df27-440d-b492-96338307959e",
+    "response": {
+      "id": "chatcmpl-EbtjryJqDDlFkqqpm3vbAY81lpQ2e",
+      "object": "chat.completion",
+      "created": 1792701103,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1154,
+        "completion_tokens": 4,
+        "total_tokens": 1158,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.523908333999998
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "88b6d3d7-5c85-42a9-9ef5-cb8720f5286c",
+    "response": {
+      "id": "chatcmpl-EbtjtiRTa0pU2OXEUZRICdvGxcRwW",
+      "object": "chat.completion",
+      "created": 1792701105,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1084,
+        "completion_tokens": 4,
+        "total_tokens": 1088,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.3134335409999949
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "66f1cf45-a28c-49ed-b407-acde2570a5c8",
+    "response": {
+      "id": "chatcmpl-EbtjuXqg3VqefFxXGYEcaTdRWe8UF",
+      "object": "chat.completion",
+      "created": 1792701106,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1151,
+        "completion_tokens": 4,
+        "total_tokens": 1155,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.1418977499999983
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "5deba1fb-6adb-418f-b495-96bcfbcaaab9",
+    "response": {
+      "id": "chatcmpl-EbtjvQDSUJtmQIgZgOW99voz0f2Ib",
+      "object": "chat.completion",
+      "created": 1792701107,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1142,
+        "completion_tokens": 4,
+        "total_tokens": 1146,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.432779625000009
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "6a14bbc3-8cba-42c7-9c5e-25eade2f3c73",
+    "response": {
+      "id": "chatcmpl-EbtjxoNVrfSwpuefvVoFU4w1Ct30I",
+      "object": "chat.completion",
+      "created": 1792701109,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[{\"requirement_id\":\"R3\",\"record_id\":\"668\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1137,
+        "completion_tokens": 17,
+        "total_tokens": 1154,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.6900740839999884
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "c2282f68-0d8b-48e7-96d8-e615c1c659cf",
+    "response": {
+      "id": "chatcmpl-EbtjyAgxYglaB8FgRs2NLQaU3xr7y",
+      "object": "chat.completion",
+      "created": 1792701110,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[{\"requirement_id\":\"R2\",\"record_id\":\"672\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1168,
+        "completion_tokens": 17,
+        "total_tokens": 1185,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.4671409169999947
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "a7d81beb-d092-487f-92c8-f7da635666e8",
+    "response": {
+      "id": "chatcmpl-Ebtk0jA63KPPpBYuRb0a3VLRCGkUo",
+      "object": "chat.completion",
+      "created": 1792701112,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1255,
+        "completion_tokens": 4,
+        "total_tokens": 1259,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.2079626670000039
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "faa1b4eb-9062-4555-8348-97eed8e2a057",
+    "response": {
+      "id": "chatcmpl-Ebtk1gLHCfA4V0ikRKSCtxARU33Xa",
+      "object": "chat.completion",
+      "created": 1792701113,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1033,
+        "completion_tokens": 4,
+        "total_tokens": 1037,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_295d13ce69"
+    },
+    "latency_seconds": 1.637937082999997
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "b7dedbd1-e38d-4132-962c-1980c59c6e67",
+    "response": {
+      "id": "chatcmpl-Ebtk3YV8c40MNTrcWC3gyZru3fnTy",
+      "object": "chat.completion",
+      "created": 1792701115,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1112,
+        "completion_tokens": 4,
+        "total_tokens": 1116,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.3652374159999994
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "c71a4d3b-11f3-4d25-b3a3-c0bee4b32c5a",
+    "response": {
+      "id": "chatcmpl-Ebtk495Z3X7vivDUOUC51fXKo0CXN",
+      "object": "chat.completion",
+      "created": 1792701116,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1183,
+        "completion_tokens": 4,
+        "total_tokens": 1187,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.256570166000003
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "d177516d-e0a5-4c59-9ea1-e0599f5e2af2",
+    "response": {
+      "id": "chatcmpl-Ebtk529BMvKIynM9N4BLzEdNb6Aen",
+      "object": "chat.completion",
+      "created": 1792701117,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1214,
+        "completion_tokens": 4,
+        "total_tokens": 1218,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.2437654160000022
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "33c7f4ab-59b8-43f6-b212-67780ac54583",
+    "response": {
+      "id": "chatcmpl-Ebtk6dZ4RWXn49wVCVsVkddlpy3XR",
+      "object": "chat.completion",
+      "created": 1792701118,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1174,
+        "completion_tokens": 4,
+        "total_tokens": 1178,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.002142292000002
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "2699dac5-7a16-48fe-a05e-eb27f39def0c",
+    "response": {
+      "id": "chatcmpl-Ebtk8wIz2tfm2uePxWaErtKjfPYTm",
+      "object": "chat.completion",
+      "created": 1792701120,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1147,
+        "completion_tokens": 4,
+        "total_tokens": 1151,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.2920600419999886
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "f701e865-d1ff-45a4-a16c-609ec85eb56d",
+    "response": {
+      "id": "chatcmpl-Ebtk9jYt2fMO6z8H5fwQaRteAOLZu",
+      "object": "chat.completion",
+      "created": 1792701121,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 852,
+        "completion_tokens": 4,
+        "total_tokens": 856,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.3186921249999983
+  },
+  {
+    "stage": "requirement_coverage_v2",
+    "call_id": "c30b0a7d-c95b-4555-aeea-c8f49f2d62eb",
+    "response": {
+      "id": "chatcmpl-EbtkAItUCs8YVXiO6kLD3mH3OMSOZ",
+      "object": "chat.completion",
+      "created": 1792701122,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"requirements\": [\n    {\n      \"id\": \"R1\",\n      \"covered\": true,\n      \"reason\": \"John explicitly mentions financial strain due to car repairs and generally money problems, indicating some financial difficulties.\",\n      \"citations\": [{\"episode_id\": \"conv-41::session_11::episode-001\", \"turn_id\": \"D11:1\"}, {\"episode_id\": \"conv-41::session_11::episode-001\", \"turn_id\": \"D11:3\"}]\n    },\n    {\n      \"id\": \"R2\",\n      \"covered\": true,\n      \"reason\": \"John discusses having a job, being promoted to assistant manager, and later losing his job at a mechanical engineering company, indicating active business/employment status relevant to financial status.\",\n      \"citations\": [{\"episode_id\": \"conv-41::session_19::episode-002\", \"turn_id\": \"D19:6\"}, {\"episode_id\": \"conv-41::session_28::episode-001\", \"turn_id\": \"D28:1\"}]\n    },\n    {\n      \"id\": \"R3\",\n      \"covered\": true,\n      \"reason\": \"John reports being promoted to assistant manager and later losing his mechanical engineering job, then looking for and possibly securing a tech company job, showing his job status transitions.\",\n      \"citations\": [{\"episode_id\": \"conv-41::session_19::episode-002\", \"turn_id\": \"D19:6\"}, {\"episode_id\": \"conv-41::session_28::episode-001\", \"turn_id\": \"D28:1\"}, {\"episode_id\": \"conv-41::session_28::episode-001\", \"turn_id\": \"D28:5\"}]\n    },\n    {\n      \"id\": \"R4\",\n      \"covered\": true,\n      \"reason\": \"John mentions actively working, promotion, job loss, and seeking new job opportunities, thus indicating income and earning activities over time.\",\n      \"citations\": [{\"episode_id\": \"conv-41::session_19::episode-002\", \"turn_id\": \"D19:6\"}, {\"episode_id\": \"conv-41::session_28::episode-001\", \"turn_id\": \"D28:5\"}]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2476,
+        "completion_tokens": 478,
+        "total_tokens": 2954,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_5f1ce66031"
+    },
+    "latency_seconds": 4.018543082999997
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "b46cf797-fc61-4a90-a51d-5d5be01c78c6",
+    "response": {
+      "id": "chatcmpl-EbtkEsOfNhc7gNIxZTAyMme8SDttc",
+      "object": "chat.completion",
+      "created": 1792701126,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"answer\": \"John appears to have faced financial difficulties, including money problems and strain from car repair expenses, suggesting some financial stress. He had a stable job in mechanical engineering and was promoted to assistant manager, indicating a good income and career progression at that time. However, he later lost that job due to company failure, which likely impacted his financial status negatively. Currently, John is seeking new employment in the tech industry and may have found a new position, showing active efforts to regain financial stability. Overall, John has faced ups and downs financially but is actively managing his employment situation to improve his finances.\",\n  \"sufficient\": true,\n  \"citations\": [\n    {\n      \"episode_id\": \"conv-41::session_11::episode-001\",\n      \"turn_id\": \"D11:1\"\n    },\n    {\n      \"episode_id\": \"conv-41::session_28::episode-001\",\n      \"turn_id\": \"D28:1\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2979,
+        "completion_tokens": 205,
+        "total_tokens": 3184,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    },
+    "latency_seconds": 2.487861707999997
+  }
+]

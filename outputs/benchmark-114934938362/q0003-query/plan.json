@@ -1,0 +1,16 @@
+{
+  "reasoning_type": "point",
+  "exhaustive": false,
+  "requirements": [
+    {
+      "id": "R1",
+      "entity": "John",
+      "entity_type": "person",
+      "property": "activity_type",
+      "value": "martial arts",
+      "condition": "has_done",
+      "role": "To identify which martial arts John has done",
+      "search": "activity_type related to martial arts done by John"
+    }
+  ]
+}

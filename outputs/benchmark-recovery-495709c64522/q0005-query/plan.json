@@ -1,0 +1,16 @@
+{
+  "reasoning_type": "point",
+  "exhaustive": false,
+  "requirements": [
+    {
+      "id": "R1",
+      "entity": "John",
+      "entity_type": "person",
+      "property": "joined_online_group",
+      "value": "",
+      "condition": "",
+      "role": "To determine the exact time when John joined the online support group",
+      "search": "John joined_online_group"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-41::q0005",
+  "category": 2,
+  "question": "When did John join the online support group?",
+  "gold_answer": "The week before 1 January 2023",
+  "status": "scored",
+  "generated_answer": "John joined the online support group in the last week of December 2022, as he stated on 1 January 2023 that he joined 'last week.'",
+  "citations": [
+    {
+      "episode_id": "conv-41::session_3::episode-001",
+      "turn_id": "D3:1"
+    }
+  ],
+  "query_elapsed_seconds": 13.762814875,
+  "label": "CORRECT",
+  "judge_reason": "Both answers indicate that John joined the group in the last week of December 2022, which aligns with the reference information regarding the timing."
+}

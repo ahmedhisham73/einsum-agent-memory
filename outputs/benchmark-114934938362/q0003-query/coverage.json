@@ -1,0 +1,24 @@
+[
+  {
+    "round": 1,
+    "budget": 8,
+    "index_scan_complete": false,
+    "missing_requirement_ids": [],
+    "selected_episode_ids": [
+      "conv-41::session_1::episode-002"
+    ],
+    "requirements": [
+      {
+        "id": "R1",
+        "covered": true,
+        "reason": "John explicitly states he is doing kickboxing, which is a martial art.",
+        "citations": [
+          {
+            "episode_id": "conv-41::session_1::episode-002",
+            "turn_id": "D1:4"
+          }
+        ]
+      }
+    ]
+  }
+]

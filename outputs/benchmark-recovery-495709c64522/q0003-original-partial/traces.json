@@ -1,0 +1,125 @@
+[
+  {
+    "stage": "requirement_planning_v2",
+    "call_id": "6686b0ea-9141-4d00-bb23-8a7738affa0b",
+    "response": {
+      "id": "chatcmpl-EbtX9b8oXjqcQR5atYS8q4vUoaxY2",
+      "object": "chat.completion",
+      "created": 1792700315,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"reasoning_type\": \"aggregation\",\n  \"exhaustive\": false,\n  \"requirements\": [\n    {\n      \"id\": \"R1\",\n      \"entity\": \"John\",\n      \"entity_type\": \"person\",\n      \"property\": \"activity_type\",\n      \"value\": \"martial arts\",\n      \"condition\": \"activities done by John involving martial arts\",\n      \"role\": \"Identify the martial arts John has practiced\",\n      \"search\": \"John's activities with activity_type related to martial arts\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3770,
+        "completion_tokens": 112,
+        "total_tokens": 3882,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 3.0878842079999997
+  },
+  {
+    "stage": "requirement_planning_v2",
+    "call_id": "20d61c1c-0f2c-4ede-894d-ec2ab9e95809",
+    "response": {
+      "id": "chatcmpl-EbtXCmdCAcZP761AAhFj64OY9UJpz",
+      "object": "chat.completion",
+      "created": 1792700318,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"reasoning_type\": \"aggregation\",\n  \"exhaustive\": false,\n  \"requirements\": [\n    {\n      \"id\": \"R1\",\n      \"entity\": \"John\",\n      \"entity_type\": \"person\",\n      \"property\": \"activity_type\",\n      \"value\": \"martial arts\",\n      \"condition\": \"\",\n      \"role\": \"Identify which martial arts John has practiced\",\n      \"search\": \"activity_type activity_experience for John containing 'martial arts' or specific martial arts types\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3780,
+        "completion_tokens": 112,
+        "total_tokens": 3892,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.9940342920000003
+  },
+  {
+    "stage": "requirement_planning_v2",
+    "call_id": "ad99bbec-7eae-4e91-85c6-6106d8f9c5e1",
+    "response": {
+      "id": "chatcmpl-EbtXEF0AGRXON3dOtYJuEwCpbb6kf",
+      "object": "chat.completion",
+      "created": 1792700320,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"reasoning_type\": \"aggregation\",\n  \"exhaustive\": false,\n  \"requirements\": [\n    {\n      \"id\": \"R1\",\n      \"entity\": \"John\",\n      \"entity_type\": \"person\",\n      \"property\": \"activity_type\",\n      \"value\": \"martial arts\",\n      \"condition\": \"\",\n      \"role\": \"To identify which martial arts John has practiced\",\n      \"search\": \"Find all activities or activity types associated with John that specify martial arts\"\n    },\n    {\n      \"id\": \"R2\",\n      \"entity\": \"John\",\n      \"entity_type\": \"person\",\n      \"property\": \"activity_experience\",\n      \"value\": \"martial arts\",\n      \"condition\": \"\",\n      \"role\": \"To confirm John’s experience or participation in specific martial arts disciplines\",\n      \"search\": \"Look for any mention of martial arts experience or training related to John\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3780,
+        "completion_tokens": 195,
+        "total_tokens": 3975,
+        "prompt_tokens_details": {
+          "cached_tokens": 3584,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 2.9918297910000007
+  }
+]

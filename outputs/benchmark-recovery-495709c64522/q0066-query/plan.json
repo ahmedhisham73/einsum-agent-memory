@@ -1,0 +1,16 @@
+{
+  "reasoning_type": "point",
+  "exhaustive": false,
+  "requirements": [
+    {
+      "id": "R1",
+      "entity": "John",
+      "entity_type": "person",
+      "property": "focus",
+      "value": "local politics",
+      "condition": "",
+      "role": "to identify John's main focus area within politics at the local level",
+      "search": "John's focus in local politics"
+    }
+  ]
+}

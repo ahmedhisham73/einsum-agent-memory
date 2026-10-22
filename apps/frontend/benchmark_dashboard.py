@@ -442,7 +442,7 @@ with compare_tab:
                             "usage.json",
                             "evidence.json",
                             "plan.json",
-                            "retrieval.json",
+                            "retrieval.json", "coverage.json", "candidate_matches.json",
                             "result.json",
                         ):
                             path = query_folder(folder, qid) / name

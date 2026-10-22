@@ -1,0 +1,22 @@
+{
+  "question_id": "conv-41::q0003",
+  "category": 1,
+  "question": "What martial arts has John done?",
+  "gold_answer": "Kickboxing, Taekwondo",
+  "status": "scored",
+  "generated_answer": "John has practiced kickboxing and taekwondo as his martial arts.",
+  "citations": [
+    {
+      "episode_id": "conv-41::session_1::episode-002",
+      "turn_id": "D1:4"
+    },
+    {
+      "episode_id": "conv-41::session_2::episode-005",
+      "turn_id": "D2:28"
+    }
+  ],
+  "query_elapsed_seconds": 99.880968833,
+  "recovery_source": "benchmark-0e83a3c3dcf9",
+  "label": "CORRECT",
+  "judge_reason": "The generated answer accurately lists the martial arts practiced by John, matching the reference answer."
+}

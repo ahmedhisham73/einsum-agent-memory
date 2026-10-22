@@ -1,0 +1,52 @@
+{
+  "reasoning_type": "aggregation",
+  "exhaustive": true,
+  "requirements": [
+    {
+      "id": "R1",
+      "entity": "John",
+      "entity_type": "person",
+      "property": "financial_status",
+      "value": "",
+      "condition": "",
+      "role": "To directly know John's financial status or any explicit mention related to it",
+      "search": "financial_status of John"
+    },
+    {
+      "id": "R2",
+      "entity": "John",
+      "entity_type": "person",
+      "property": "business_status",
+      "value": "",
+      "condition": "",
+      "role": "To understand if John has any business or employment that might indicate financial status",
+      "search": "business_status of John"
+    },
+    {
+      "id": "R3",
+      "entity": "John",
+      "entity_type": "person",
+      "property": "job_status",
+      "value": "",
+      "condition": "",
+      "role": "To check John's current employment status as a possible indicator of financial condition",
+      "search": "job_status of John"
+    },
+    {
+      "id": "R4",
+      "entity": "John",
+      "entity_type": "person",
+      "property": "income related activity",
+      "value": "",
+      "condition": "",
+      "role": "To determine if John has any income or economic activity relevant to financial status",
+      "search": "income or earning activities for John"
+    }
+  ],
+  "policy_normalization": {
+    "field": "exhaustive",
+    "original": false,
+    "effective": true,
+    "reason": "Aggregation requires exhaustive index enumeration"
+  }
+}

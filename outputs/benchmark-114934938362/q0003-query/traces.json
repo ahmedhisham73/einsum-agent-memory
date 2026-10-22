@@ -1,0 +1,289 @@
+[
+  {
+    "stage": "requirement_planning_v2",
+    "call_id": "ec5dd8e2-9b30-4022-8c49-10627e42dde2",
+    "response": {
+      "id": "chatcmpl-Ebu8mHQuNZ5rcEqIfju2tsZaucdDR",
+      "object": "chat.completion",
+      "created": 1792702648,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"reasoning_type\": \"point\",\n  \"exhaustive\": false,\n  \"requirements\": [\n    {\n      \"id\": \"R1\",\n      \"entity\": \"John\",\n      \"entity_type\": \"person\",\n      \"property\": \"activity_type\",\n      \"value\": \"martial arts\",\n      \"condition\": \"has_done\",\n      \"role\": \"To identify which martial arts John has done\",\n      \"search\": \"activity_type related to martial arts done by John\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3770,
+        "completion_tokens": 107,
+        "total_tokens": 3877,
+        "prompt_tokens_details": {
+          "cached_tokens": 3584,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 2.175377917
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "a2bccb26-f284-4ee8-96f9-60d1af48639c",
+    "response": {
+      "id": "chatcmpl-Ebu8pyhGehnUTGJ5Y7zpflGQMYtDm",
+      "object": "chat.completion",
+      "created": 1792702651,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[{\"requirement_id\":\"R1\",\"record_id\":\"3\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1742,
+        "completion_tokens": 17,
+        "total_tokens": 1759,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_c29994a85c"
+    },
+    "latency_seconds": 1.4240647500000003
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "74481b9d-cdbd-4823-acb3-22969e9076f7",
+    "response": {
+      "id": "chatcmpl-Ebu8qk7Lh97mMFbJNSSoRgG3unB2z",
+      "object": "chat.completion",
+      "created": 1792702652,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1592,
+        "completion_tokens": 4,
+        "total_tokens": 1596,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_c29994a85c"
+    },
+    "latency_seconds": 1.1489353749999998
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "600ef4c3-3d9f-4bc5-b0e8-446c34da3915",
+    "response": {
+      "id": "chatcmpl-Ebu8rcMzDu3UYRXXk1cDOE9K82FKQ",
+      "object": "chat.completion",
+      "created": 1792702653,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1669,
+        "completion_tokens": 4,
+        "total_tokens": 1673,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_c29994a85c"
+    },
+    "latency_seconds": 1.0709043750000005
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "f97d87f6-640b-4449-a451-c12cdae4058a",
+    "response": {
+      "id": "chatcmpl-Ebu8teoBmUVEYJARYgfMIBXMQmrUg",
+      "object": "chat.completion",
+      "created": 1792702655,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 718,
+        "completion_tokens": 4,
+        "total_tokens": 722,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_c29994a85c"
+    },
+    "latency_seconds": 1.3252773749999989
+  },
+  {
+    "stage": "requirement_coverage_v2",
+    "call_id": "1ead4fa9-bd0d-4a12-aef2-ba111f1a7066",
+    "response": {
+      "id": "chatcmpl-Ebu8uOUURsu0zExX3VpyMeXA7aam2",
+      "object": "chat.completion",
+      "created": 1792702656,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"requirements\": [\n    {\n      \"id\": \"R1\",\n      \"covered\": true,\n      \"reason\": \"John explicitly states he is doing kickboxing, which is a martial art.\",\n      \"citations\": [\n        {\n          \"episode_id\": \"conv-41::session_1::episode-002\",\n          \"turn_id\": \"D1:4\"\n        }\n      ]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 518,
+        "completion_tokens": 88,
+        "total_tokens": 606,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_5f1ce66031"
+    },
+    "latency_seconds": 1.707880832999999
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "ee4c17fb-110a-4766-84fc-3565e5d38515",
+    "response": {
+      "id": "chatcmpl-Ebu8wNoMBpjVnf1CGdmmzexL86mXr",
+      "object": "chat.completion",
+      "created": 1792702658,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"answer\": \"John has done kickboxing.\",\n  \"sufficient\": true,\n  \"citations\": [{\n    \"episode_id\": \"conv-41::session_1::episode-002\",\n    \"turn_id\": \"D1:4\"\n  }]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 578,
+        "completion_tokens": 57,
+        "total_tokens": 635,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    },
+    "latency_seconds": 1.9544290409999991
+  }
+]

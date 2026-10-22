@@ -1,0 +1,22 @@
+{
+  "question_id": "conv-41::q0015",
+  "category": 3,
+  "question": "Would John be considered a patriotic person?",
+  "gold_answer": "Yes",
+  "status": "scored",
+  "generated_answer": "John would be considered a patriotic person. He expresses strong patriotic values such as a desire to serve his country and community, pride in supporting veterans, positive and supportive attitudes toward the military, and respect for those who served. He is explicitly characterized as patriotic through his pride in serving the country and his active involvement in patriotic activities. John actively participates in various patriotism-expressing activities including supporting veterans via projects and petitions, organizing charity runs, attending military memorials, joining a fire-fighting brigade that serves his community, and advocating for military people. He teaches his children to respect military service and strives to make a positive impact in his community and nation.",
+  "citations": [
+    {
+      "episode_id": "conv-41::session_15::episode-001",
+      "turn_id": "D15:3"
+    },
+    {
+      "episode_id": "conv-41::session_21::episode-005",
+      "turn_id": "D21:24"
+    }
+  ],
+  "query_elapsed_seconds": 108.866914292,
+  "recovery_source": "benchmark-0e83a3c3dcf9",
+  "label": "CORRECT",
+  "judge_reason": "The generated answer accurately describes John as a patriotic person by detailing his values, actions, and community involvement that align with patriotism."
+}

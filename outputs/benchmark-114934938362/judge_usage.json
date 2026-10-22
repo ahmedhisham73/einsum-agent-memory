@@ -1,0 +1,32 @@
+[
+  {
+    "call_id": "6cd41b15-1ee0-4259-bc96-1146e2616189",
+    "experiment_id": "benchmark-114934938362",
+    "approach": "ensimem",
+    "phase": "evaluation",
+    "stage": "answer_judging",
+    "provider": "openai",
+    "model": "gpt-4o-mini-2024-07-18",
+    "input_tokens": 141,
+    "output_tokens": 32,
+    "cached_input_tokens": 0,
+    "query_id": "conv-41::q0003",
+    "usage_kind": "generation",
+    "attempt": 1
+  },
+  {
+    "call_id": "80597145-3ef3-437e-888b-e141efc30a61",
+    "experiment_id": "benchmark-114934938362",
+    "approach": "ensimem",
+    "phase": "evaluation",
+    "stage": "answer_judging",
+    "provider": "openai",
+    "model": "gpt-4o-mini-2024-07-18",
+    "input_tokens": 154,
+    "output_tokens": 31,
+    "cached_input_tokens": 0,
+    "query_id": "conv-41::q0001",
+    "usage_kind": "generation",
+    "attempt": 1
+  }
+]

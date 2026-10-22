@@ -1,0 +1,16 @@
+{
+  "reasoning_type": "point",
+  "exhaustive": false,
+  "requirements": [
+    {
+      "id": "R1",
+      "entity": "Maria",
+      "entity_type": "person",
+      "property": "family_meal_activity",
+      "value": "dinner",
+      "condition": "on May 3, 2023",
+      "role": "Identify with whom Maria had dinner on that specific date",
+      "search": "Who was dining with Maria on May 3, 2023?"
+    }
+  ]
+}

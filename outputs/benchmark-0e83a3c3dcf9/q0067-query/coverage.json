@@ -1,0 +1,76 @@
+[
+  {
+    "round": 1,
+    "budget": 8,
+    "index_scan_complete": false,
+    "missing_requirement_ids": [],
+    "selected_episode_ids": [
+      "conv-41::session_1::episode-004",
+      "conv-41::session_3::episode-001",
+      "conv-41::session_5::episode-001",
+      "conv-41::session_12::episode-001",
+      "conv-41::session_23::episode-002"
+    ],
+    "requirements": [
+      {
+        "id": "R1",
+        "covered": true,
+        "reason": "John stated that growing up he saw how lack of education and crumbling infrastructure affected his neighborhood, which motivated him to improve those areas.",
+        "citations": [
+          {
+            "episode_id": "conv-41::session_1::episode-004",
+            "turn_id": "D1:10"
+          }
+        ]
+      },
+      {
+        "id": "R2",
+        "covered": true,
+        "reason": "John mentioned joining a service-focused online group with inspiring stories that opened his eyes and gave him a sense of connection and purpose, serving as inspiration for his community improvement focus.",
+        "citations": [
+          {
+            "episode_id": "conv-41::session_3::episode-001",
+            "turn_id": "D3:1"
+          }
+        ]
+      },
+      {
+        "id": "R3",
+        "covered": true,
+        "reason": "John's personal experience growing up in a neighborhood affected by lack of education and poor infrastructure influenced his interest, as he does not want future generations to go through the same issues.",
+        "citations": [
+          {
+            "episode_id": "conv-41::session_1::episode-004",
+            "turn_id": "D1:10"
+          }
+        ]
+      },
+      {
+        "id": "R4",
+        "covered": true,
+        "reason": "John expressed that education is essential for a successful society and that kids deserve better resources and funding; he believes education is key to community success.",
+        "citations": [
+          {
+            "episode_id": "conv-41::session_5::episode-001",
+            "turn_id": "D5:3"
+          }
+        ]
+      },
+      {
+        "id": "R5",
+        "covered": true,
+        "reason": "John believes that updated infrastructure is necessary for a thriving community and that proper funding enables needed repairs and renovations making environments safer and modern.",
+        "citations": [
+          {
+            "episode_id": "conv-41::session_1::episode-004",
+            "turn_id": "D1:10"
+          },
+          {
+            "episode_id": "conv-41::session_12::episode-001",
+            "turn_id": "D12:5"
+          }
+        ]
+      }
+    ]
+  }
+]

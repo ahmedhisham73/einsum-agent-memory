@@ -1,0 +1,35 @@
+[
+  {
+    "round": 1,
+    "budget": 8,
+    "index_scan_complete": false,
+    "missing_requirement_ids": [],
+    "selected_episode_ids": [
+      "conv-41::session_1::episode-003",
+      "conv-41::session_4::episode-002",
+      "conv-41::session_12::episode-001",
+      "conv-41::session_14::episode-001"
+    ],
+    "requirements": [
+      {
+        "id": "R1",
+        "covered": true,
+        "reason": "John explicitly states his main focus areas in local politics as improving education and infrastructure, supported by multiple statements across episodes confirming these as his priority issues.",
+        "citations": [
+          {
+            "episode_id": "conv-41::session_1::episode-003",
+            "turn_id": "D1:8"
+          },
+          {
+            "episode_id": "conv-41::session_4::episode-002",
+            "turn_id": "D4:16"
+          },
+          {
+            "episode_id": "conv-41::session_12::episode-001",
+            "turn_id": "D12:5"
+          }
+        ]
+      }
+    ]
+  }
+]

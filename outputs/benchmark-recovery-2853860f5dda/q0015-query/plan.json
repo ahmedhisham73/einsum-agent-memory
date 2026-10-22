@@ -1,0 +1,62 @@
+{
+  "reasoning_type": "aggregation",
+  "exhaustive": true,
+  "requirements": [
+    {
+      "id": "R1",
+      "entity": "John",
+      "entity_type": "person",
+      "property": "values",
+      "value": "patriotic values or related to patriotism",
+      "condition": "to assess if John holds patriotic values",
+      "role": "need to check if John values patriotism or related concepts as basis for being considered patriotic",
+      "search": "John values"
+    },
+    {
+      "id": "R2",
+      "entity": "John",
+      "entity_type": "person",
+      "property": "described_characteristic",
+      "value": "patriotic",
+      "condition": "to see if John is explicitly or implicitly described as patriotic",
+      "role": "to confirm if John is characterized as patriotic",
+      "search": "John characterized as patriotic"
+    },
+    {
+      "id": "R3",
+      "entity": "John",
+      "entity_type": "person",
+      "property": "attitude_toward_military",
+      "value": "positive or supportive",
+      "condition": "positive attitudes toward military may reflect patriotism",
+      "role": "to infer patriotism from John's attitude toward national military",
+      "search": "John attitude_toward_military"
+    },
+    {
+      "id": "R4",
+      "entity": "John",
+      "entity_type": "person",
+      "property": "desire_to_serve_country",
+      "value": "true or positive",
+      "condition": "expressed desire to serve country indicates patriotic sentiment",
+      "role": "to identify if John desires to contribute to country",
+      "search": "John desire_to_serve_country"
+    },
+    {
+      "id": "R5",
+      "entity": "John",
+      "entity_type": "person",
+      "property": "activity_participation",
+      "value": "in patriotic or nationalistic activities",
+      "condition": "participation in relevant activities shows patriotic behavior",
+      "role": "to verify if John engages in patriotism-expressing activities",
+      "search": "John activity_participation patriotic"
+    }
+  ],
+  "policy_normalization": {
+    "field": "exhaustive",
+    "original": false,
+    "effective": true,
+    "reason": "Aggregation requires exhaustive index enumeration"
+  }
+}

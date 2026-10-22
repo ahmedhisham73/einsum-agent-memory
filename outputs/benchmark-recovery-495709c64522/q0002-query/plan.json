@@ -1,0 +1,16 @@
+{
+  "reasoning_type": "point",
+  "exhaustive": false,
+  "requirements": [
+    {
+      "id": "R1",
+      "entity": "Maria",
+      "entity_type": "person",
+      "property": "donated_vehicle",
+      "value": "car",
+      "condition": "",
+      "role": "To find the date or time when Maria donated her car",
+      "search": "information about Maria's car donation date or time"
+    }
+  ]
+}

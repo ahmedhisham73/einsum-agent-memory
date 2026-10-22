@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-41::q0003",
+  "category": 1,
+  "question": "What martial arts has John done?",
+  "gold_answer": "Kickboxing, Taekwondo",
+  "status": "scored",
+  "generated_answer": "John has done kickboxing.",
+  "citations": [
+    {
+      "episode_id": "conv-41::session_1::episode-002",
+      "turn_id": "D1:4"
+    }
+  ],
+  "query_elapsed_seconds": 12.322536958,
+  "label": "WRONG",
+  "judge_reason": "The generated answer only mentions kickboxing and omits Taekwondo, which is a required fact from the reference."
+}

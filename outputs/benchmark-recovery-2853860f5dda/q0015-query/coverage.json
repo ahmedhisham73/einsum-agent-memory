@@ -1,0 +1,151 @@
+[
+  {
+    "round": 1,
+    "budget": 8,
+    "index_scan_complete": true,
+    "missing_requirement_ids": [],
+    "selected_episode_ids": [
+      "conv-41::session_6::episode-002",
+      "conv-41::session_8::episode-005",
+      "conv-41::session_15::episode-001",
+      "conv-41::session_15::episode-002",
+      "conv-41::session_21::episode-005",
+      "conv-41::session_23::episode-001",
+      "conv-41::session_24::episode-001",
+      "conv-41::session_26::episode-001",
+      "conv-41::session_27::episode-001",
+      "conv-41::session_27::episode-003",
+      "conv-41::session_29::episode-002",
+      "conv-41::session_32::episode-001"
+    ],
+    "requirements": [
+      {
+        "id": "R1",
+        "covered": true,
+        "reason": "John expresses a strong urge to serve his country and community, shows passion for supporting veterans, appreciates military service, values making a positive impact in his community, and demonstrates respect and pride related to his country.",
+        "citations": [
+          {
+            "episode_id": "conv-41::session_6::episode-002",
+            "turn_id": "D6:4"
+          },
+          {
+            "episode_id": "conv-41::session_15::episode-001",
+            "turn_id": "D15:3"
+          },
+          {
+            "episode_id": "conv-41::session_24::episode-001",
+            "turn_id": "D24:3"
+          },
+          {
+            "episode_id": "conv-41::session_21::episode-005",
+            "turn_id": "D21:24"
+          },
+          {
+            "episode_id": "conv-41::session_8::episode-005",
+            "turn_id": "D8:18"
+          }
+        ]
+      },
+      {
+        "id": "R2",
+        "covered": true,
+        "reason": "John is explicitly and implicitly characterized as patriotic through his pride in serving the country, his respect for veterans, and his active involvement in patriotic activities.",
+        "citations": [
+          {
+            "episode_id": "conv-41::session_15::episode-001",
+            "turn_id": "D15:3"
+          },
+          {
+            "episode_id": "conv-41::session_21::episode-005",
+            "turn_id": "D21:24"
+          },
+          {
+            "episode_id": "conv-41::session_27::episode-003",
+            "turn_id": "D27:13"
+          },
+          {
+            "episode_id": "conv-41::session_8::episode-005",
+            "turn_id": "D8:18"
+          }
+        ]
+      },
+      {
+        "id": "R3",
+        "covered": true,
+        "reason": "John shows strongly positive and supportive attitudes toward the military, respecting veterans, working on veteran-related projects, advocating for veterans' rights, supporting military people, and teaching his kids to respect the military.",
+        "citations": [
+          {
+            "episode_id": "conv-41::session_15::episode-001",
+            "turn_id": "D15:1"
+          },
+          {
+            "episode_id": "conv-41::session_21::episode-005",
+            "turn_id": "D21:22"
+          },
+          {
+            "episode_id": "conv-41::session_27::episode-001",
+            "turn_id": "D27:1"
+          },
+          {
+            "episode_id": "conv-41::session_24::episode-001",
+            "turn_id": "D24:1"
+          },
+          {
+            "episode_id": "conv-41::session_27::episode-003",
+            "turn_id": "D27:13"
+          }
+        ]
+      },
+      {
+        "id": "R4",
+        "covered": true,
+        "reason": "John explicitly expresses a desire to serve his country, feel pride in volunteering or running for office, and contribute positively to his community and nation through various projects and activities.",
+        "citations": [
+          {
+            "episode_id": "conv-41::session_6::episode-002",
+            "turn_id": "D6:4"
+          },
+          {
+            "episode_id": "conv-41::session_8::episode-005",
+            "turn_id": "D8:18"
+          },
+          {
+            "episode_id": "conv-41::session_15::episode-001",
+            "turn_id": "D15:3"
+          },
+          {
+            "episode_id": "conv-41::session_32::episode-001",
+            "turn_id": "D32:1"
+          }
+        ]
+      },
+      {
+        "id": "R5",
+        "covered": true,
+        "reason": "John actively participates in multiple patriotic and nationalistic activities including supporting veterans through projects and petitions, organizing charity runs for veterans, attending military memorials, joining a fire-fighting brigade that serves the community, and advocating for military support.",
+        "citations": [
+          {
+            "episode_id": "conv-41::session_15::episode-002",
+            "turn_id": "D15:13"
+          },
+          {
+            "episode_id": "conv-41::session_21::episode-005",
+            "turn_id": "D21:22"
+          },
+          {
+            "episode_id": "conv-41::session_29::episode-002",
+            "turn_id": "D29:4"
+          },
+          {
+            "episode_id": "conv-41::session_32::episode-001",
+            "turn_id": "D32:1"
+          },
+          {
+            "episode_id": "conv-41::session_27::episode-003",
+            "turn_id": "D27:9"
+          }
+        ]
+      }
+    ]
+  }
+]

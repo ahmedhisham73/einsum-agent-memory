@@ -1,0 +1,25 @@
+{
+  "answer": "John and Maria have both volunteered at homeless shelters, where they served meals, organized events, gave out food and supplies, and helped the residents. This shared type of volunteering at homeless shelters includes direct aid and community support activities.",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-41::session_3::episode-001",
+      "turn_id": "D3:5"
+    },
+    {
+      "episode_id": "conv-41::session_1::episode-001",
+      "turn_id": "D1:3"
+    }
+  ],
+  "status": "completed",
+  "experiment_id": "q0004-query",
+  "question": "What type of volunteering have John and Maria both done?",
+  "question_id": "conv-41::q0004",
+  "memory_build": "offline-memory-622a0d5cec62",
+  "elapsed_seconds": null,
+  "recovery": {
+    "method": "saved evidence and validated cached coverage",
+    "index_matching_repeated": false,
+    "elapsed_seconds_note": "Full original duration unavailable"
+  }
+}

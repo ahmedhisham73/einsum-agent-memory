@@ -118,6 +118,9 @@ def main():
 
     runner = ROOT / "scripts/run_memory_experiment.py"
     settings = {
+        "retrieval_module_sha256": hash_bytes(
+            (ROOT / "scripts/requirement_retrieval_v2.py").read_bytes()
+        ),
         "sample_id": sample_id,
         "memory_build": memory_manifest["experiment_id"],
         "records_sha256": hash_bytes((memory / "records.json").read_bytes()),
@@ -158,6 +161,7 @@ def main():
     # Import compatible scored results without making new API calls.
     reused = {}
     compatibility_fields = (
+        "retrieval_module_sha256",
         "memory_build", "raw_dataset_sha256", "runner_sha256",
         "gateway_sha256", "answer_model", "judge_model",
         "embedding_model", "judge_prompt", "base_url",

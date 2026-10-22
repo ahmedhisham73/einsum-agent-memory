@@ -1,0 +1,22 @@
+{
+  "reasoning_type": "aggregation",
+  "exhaustive": true,
+  "requirements": [
+    {
+      "id": "R1",
+      "entity": "John",
+      "entity_type": "Person",
+      "property": "financial_status",
+      "value": "",
+      "condition": "",
+      "role": "To understand John's financial status",
+      "search": "John's financial_status"
+    }
+  ],
+  "policy_normalization": {
+    "field": "exhaustive",
+    "original": false,
+    "effective": true,
+    "reason": "Aggregation requires exhaustive index enumeration"
+  }
+}

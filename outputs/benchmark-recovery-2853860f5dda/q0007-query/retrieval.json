@@ -1,0 +1,25 @@
+[
+  {
+    "round": 1,
+    "budget": 8,
+    "index_scan_complete": false,
+    "missing_requirement_ids": [],
+    "selected_episode_ids": [
+      "conv-41::session_4::episode-001",
+      "conv-41::session_5::episode-002",
+      "conv-41::session_6::episode-002",
+      "conv-41::session_6::episode-006",
+      "conv-41::session_7::episode-003",
+      "conv-41::session_9::episode-006",
+      "conv-41::session_10::episode-002",
+      "conv-41::session_11::episode-003",
+      "conv-41::session_14::episode-002",
+      "conv-41::session_18::episode-001",
+      "conv-41::session_20::episode-003",
+      "conv-41::session_21::episode-001",
+      "conv-41::session_28::episode-002",
+      "conv-41::session_29::episode-004",
+      "conv-41::session_32::episode-002"
+    ]
+  }
+]

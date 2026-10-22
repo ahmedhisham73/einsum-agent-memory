@@ -1,0 +1,747 @@
+[
+  {
+    "episode_id": "conv-41::session_4::episode-001",
+    "conversation_id": "conv-41",
+    "session_id": "session_4",
+    "observed_at": "2023-01-09T19:06:00",
+    "source_timestamp": "7:06 pm on 9 January, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D4:1",
+        "speaker": "Maria",
+        "text": "Hey John, great news - I'm now friends with one of my fellow volunteers! We both love helping others. How have you been since we last chatted?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:2",
+        "speaker": "John",
+        "text": "Hey Maria, I've been busy with work and family, but last week I had an unexpected incident on my way home. It reminded me how life can throw unexpected troubles our way.",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/njxp1ep8bse71.jpg"
+          ],
+          "blip_caption": "a photo of a car with a broken windshield and a broken windshield",
+          "query": "shattered windshield"
+        }
+      },
+      {
+        "turn_id": "D4:3",
+        "speaker": "Maria",
+        "text": "Oh John, that sounds tough. I'm glad you're alright. Life does throw us some surprises, doesn't it?\n\n",
+        "metadata": {
+          "blip_caption": "a photo of a tattoo with a quote on it"
+        }
+      },
+      {
+        "turn_id": "D4:4",
+        "speaker": "John",
+        "text": "Thanks, Maria. This is a reminder to stay strong during tough times.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:5",
+        "speaker": "Maria",
+        "text": "Yeah John, when stuff like that happens, it's good to tap into our own inner strength. How did you handle it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:6",
+        "speaker": "John",
+        "text": "I tried to stay calm and asked for assistance, which helped me handle the situation and make it back safely.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:7",
+        "speaker": "Maria",
+        "text": "Hey, John that's awesome! You really showed your resilience and resourcefulness. How did you feel afterwards?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:8",
+        "speaker": "John",
+        "text": "I felt relieved and grateful to make it through without incident.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:9",
+        "speaker": "Maria",
+        "text": "Yeah, it's tough. Appreciate what you've got. You got through it - stay strong. Are there any things you like to do to calm down during times like this?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:10",
+        "speaker": "John",
+        "text": "Thanks, Maria! I like to just take a look at the sunset- it reminds me to enjoy the small things in life.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_5::episode-002",
+    "conversation_id": "conv-41",
+    "session_id": "session_5",
+    "observed_at": "2023-01-28T13:17:00",
+    "source_timestamp": "1:17 pm on 28 January, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D5:6",
+        "speaker": "Maria",
+        "text": "Sure, it's not right that some kids get all they need while others have nothing to help them succeed. We gotta do something! Last week I volunteered at a shelter during an event for kids, and it's been a great experience.",
+        "metadata": {
+          "img_url": [
+            "https://media.cnn.com/api/v1/images/stellar/prod/230608195849-brandi-tuck-college-volunteer2-cnnheroes.jpg"
+          ],
+          "blip_caption": "a photo of three women in green aprons holding pots and cups",
+          "query": "volunteer homeless shelter residents"
+        }
+      },
+      {
+        "turn_id": "D5:7",
+        "speaker": "John",
+        "text": "Wow, Maria! That's really making a big impact. What made you decide to get involved with that?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:8",
+        "speaker": "Maria",
+        "text": "I started volunteering to help make a difference. My aunt believed in volunteering, and used to help my family out when we were struggling, so I'm inspired by her. It makes me happy knowing I can brighten somebody's day.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:9",
+        "speaker": "John",
+        "text": "Wow, Maria. That's amazing! I can imagine it's incredibly rewarding. Is there a particular moment that stands out to you as the most impactful?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:10",
+        "speaker": "Maria",
+        "text": "For me, it was when I noticed a little girl around 8 sitting all alone. She seemed so sad. So, I sat with her and we talked. Turns out she had no other family - it broke my heart. I was able to give her some comfort and a listening ear. We ended up laughing and having a good time.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_6::episode-002",
+    "conversation_id": "conv-41",
+    "session_id": "session_6",
+    "observed_at": "2023-02-05T14:33:00",
+    "source_timestamp": "2:33 pm on 5 February, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D6:4",
+        "speaker": "John",
+        "text": "I feel a strong urge to serve my country and community. Running for office was my chance to make an impact. But anyway, tell me more about your charity event. Did something special happen that made it meaningful for you?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:5",
+        "speaker": "Maria",
+        "text": "Yeah, at the event, I had a conversation with someone named David. Hearing his story of hardship and how he ended up in difficult circumstances was so humbling. It just showed me that everyone has their own story and deserves understanding.",
+        "metadata": {
+          "blip_caption": "a photo of a man with a cell phone in his hand"
+        }
+      },
+      {
+        "turn_id": "D6:6",
+        "speaker": "John",
+        "text": "Wow, that's powerful. It just shows that everyone has their own story and deserves understanding. Do you know any organizations or services that could help him out?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:7",
+        "speaker": "Maria",
+        "text": "Yeah, I did. I talked to him afterwards and linked him up with a nearby organization that offers housing and support for homeless individuals. Hopefully, he'll find the help he needs.",
+        "metadata": {
+          "blip_caption": "a photo of a flyer with a group of people in a circle"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_6::episode-006",
+    "conversation_id": "conv-41",
+    "session_id": "session_6",
+    "observed_at": "2023-02-05T14:33:00",
+    "source_timestamp": "2:33 pm on 5 February, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D6:19",
+        "speaker": "Maria",
+        "text": "No worries, John. Whenever you need help, just let me know.",
+        "metadata": {
+          "blip_caption": "a photo of a group of people standing outside of a house"
+        }
+      },
+      {
+        "turn_id": "D6:20",
+        "speaker": "John",
+        "text": "Yep, definitely. Your support really means a lot, Maria. Thanks for always being there for me.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:21",
+        "speaker": "Maria",
+        "text": "Of course, John. You're a great friend to me. I'll always be there for you.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:22",
+        "speaker": "John",
+        "text": "Thanks, Maria. Friendship means a lot to me. I'm glad we have each other's backs and can work towards a shared goal.",
+        "metadata": {
+          "blip_caption": "a photo of a group of people sitting in a park"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_7::episode-003",
+    "conversation_id": "conv-41",
+    "session_id": "session_7",
+    "observed_at": "2023-02-25T20:55:00",
+    "source_timestamp": "8:55 pm on 25 February, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D7:5",
+        "speaker": "Maria",
+        "text": "Wow John, your enthusiasm for making a better future is inspiring. Making a positive impact is so rewarding! While volunteering yesterday, I met this amazing woman, Jean, who had been through a lot, yet stayed optimistic and resilient. She showed me the importance of gratitude and connection.",
+        "metadata": {
+          "blip_caption": "a photo of a woman with a blue shirt and a ring on her neck"
+        }
+      },
+      {
+        "turn_id": "D7:6",
+        "speaker": "John",
+        "text": "Wow, Maria! How did she end up in such a situation, and how did she remain positive throughout?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:7",
+        "speaker": "Maria",
+        "text": "She had a tough time, going through a divorce, losing her job, and ending up homeless. Yet, she still values the little things and believes in the good of kindness.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:8",
+        "speaker": "John",
+        "text": "It's really inspiring to see someone staying optimistic even when things get tough.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:9",
+        "speaker": "Maria",
+        "text": "Yeah, sure is. It's a reminder that, no matter what, we can still find joy and hope.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_9::episode-006",
+    "conversation_id": "conv-41",
+    "session_id": "session_9",
+    "observed_at": "2023-04-02T09:36:00",
+    "source_timestamp": "9:36 am on 2 April, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D9:17",
+        "speaker": "Maria",
+        "text": "Yes, John, let's keep supporting each other and finding ways to improve the lives of others. Remember when we volunteered together last year? It was such a fulfilling experience.",
+        "metadata": {
+          "img_url": [
+            "https://bloximages.newyork1.vip.townnews.com/yakimaherald.com/content/tncms/assets/v3/editorial/4/2d/42d9b634-18c9-11ed-8a1b-039214ad9eb3/62f3dc54b5a61.image.jpg"
+          ],
+          "blip_caption": "a photo of a man and woman shaking hands in front of a food tray",
+          "query": "volunteering at local homeless shelter"
+        }
+      },
+      {
+        "turn_id": "D9:18",
+        "speaker": "John",
+        "text": "Yeah, I remember that! It was cool to see how our actions can make a big impact. Let's keep helping out and making things better! Our actions really do matter. ",
+        "metadata": {
+          "blip_caption": "a photo of a woman and a child walking in a park"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_10::episode-002",
+    "conversation_id": "conv-41",
+    "session_id": "session_10",
+    "observed_at": "2023-04-07T00:24:00",
+    "source_timestamp": "12:24 am on 7 April, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D10:9",
+        "speaker": "John",
+        "text": "Thanks, Maria! I'm gonna keep it up. Not only for the physical benefits, but also for the peace of mind and mindfulness it brings. It's part of my daily routine now. Have you tried anything new lately that's had an impact on you?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:10",
+        "speaker": "Maria",
+        "text": "Last weekend I did something new that had an impact on me. I participated in a 5K charity run for a homeless shelter. It was awesome being surrounded by people all there for the same cause. There's something special about the energy and sense of unity. It was truly rewarding and reminded me why I'm passionate about charity work.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:11",
+        "speaker": "John",
+        "text": "Wow, Maria! It sounds awesome. I bet you felt so pumped running with everyone for the same cause. Events like these really energize us and remind us we can make a difference. Any pictures from the event?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:12",
+        "speaker": "Maria",
+        "text": "Here's a pic from the event! The energy was great, it was inspiring seeing everyone come together for a shared cause. It was awesome!",
+        "metadata": {
+          "img_url": [
+            "https://blog.myfitnesspal.com/wp-content/uploads/2019/06/8-Charity-Walking-Events-That-Give-Your-Steps-Extra-Meaning-1200x900.jpg"
+          ],
+          "blip_caption": "a photo of a large group of people walking down a street",
+          "query": "charity event running group of people"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_11::episode-003",
+    "conversation_id": "conv-41",
+    "session_id": "session_11",
+    "observed_at": "2023-04-10T18:13:00",
+    "source_timestamp": "6:13 pm on 10 April, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D11:10",
+        "speaker": "Maria",
+        "text": "I recently gave a few talks at the homeless shelter I volunteer at. It was really fulfilling and I received lots of compliments from other volunteers. It was a great reminder about why connecting with and helping others is so important. And, I bought a cross necklace to feel closer to my faith- which has made me happy.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:11",
+        "speaker": "John",
+        "text": "Way to go, Maria! You're making a real difference. It's awesome how connecting with and helping others brings you so much joy. Keep it up!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:12",
+        "speaker": "Maria",
+        "text": "Thanks, John! It's so great to make a real difference. Seeing the impact and hearing the gratitude fills me with so much joy. The people at the shelter have become like family to me. I feel really blessed to know them.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:13",
+        "speaker": "John",
+        "text": "Wow, Maria, what you're doing is truly amazing. Your kindness ripples and creates such incredible relationships!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:14",
+        "speaker": "Maria",
+        "text": "Thanks, John. Building relationships and seeing kindness really does make a difference. Here's a pic from last week. Seeing everyone come together warms my heart and fills me with hope.",
+        "metadata": {
+          "img_url": [
+            "https://portlandrescuemission.org/wp-content/uploads/2017/11/20160809_gc_0797-copy.jpg"
+          ],
+          "blip_caption": "a photo of a group of people standing around a table filled with food",
+          "query": "homeless shelter volunteers"
+        }
+      },
+      {
+        "turn_id": "D11:15",
+        "speaker": "John",
+        "text": "Wow, that's amazing how everyone came together. You must have had some great ideas! What do you do there?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:16",
+        "speaker": "Maria",
+        "text": "We organized a meal for the shelter residents and I helped with getting everything ready. It was cool to see everyone together, eating and supporting each other.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:17",
+        "speaker": "John",
+        "text": "Wow, Maria, that's awesome! You made everyone so comfortable and it must have been so rewarding. You're really making a difference!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:18",
+        "speaker": "Maria",
+        "text": "Yeah, it was really nice to help bring people together and create a sense of comfort and community. It's something special to see people supporting each other.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:19",
+        "speaker": "John",
+        "text": "Definitely, Maria. That's great. It gives us hope and reminds us we're not alone. Thank you for being a positive force.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:20",
+        "speaker": "Maria",
+        "text": "No problem, John! It's great to feel this sense of community. Thanks for the kind words, they mean a lot.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_14::episode-002",
+    "conversation_id": "conv-41",
+    "session_id": "session_14",
+    "observed_at": "2023-05-06T17:04:00",
+    "source_timestamp": "5:04 pm on 6 May, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D14:7",
+        "speaker": "John",
+        "text": "Thanks, Maria. Got it. It's easy to get lost and forget that. Appreciate your support. How's that going for you?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:8",
+        "speaker": "Maria",
+        "text": "Hey John, I've been doing great lately. I've been involved in some charity work and it's been really rewarding. I feel connected and it's really fulfilling.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:9",
+        "speaker": "John",
+        "text": "Wow, Maria! Glad you found something that brings you so much joy. What kind of work have you been doing?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:10",
+        "speaker": "Maria",
+        "text": "Just yesterday I joined a nearby church. I wanted to feel closer to a community and my faith. So far it's been really great!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:11",
+        "speaker": "John",
+        "text": "That's great, Maria! Joining a church can be really encouraging. I'm thrilled for you. How's everything been going?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:12",
+        "speaker": "Maria",
+        "text": "Life's been a bit rough lately but I'm doing alright. I'm taking the time to reflect and find some balance. How about you? What's been going on since we last talked?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_18::episode-001",
+    "conversation_id": "conv-41",
+    "session_id": "session_18",
+    "observed_at": "2023-06-12T14:47:00",
+    "source_timestamp": "2:47 pm on 12 June, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D18:1",
+        "speaker": "Maria",
+        "text": "Hey John, how're you doing? I'm sorry about Max. Losing a pet is tough. Some friends from church and I went camping last weekend - it was a blast! Just something nice to take my mind off things. Anything fun in your life lately?",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/zcnesiymmou91.jpg"
+          ],
+          "blip_caption": "a photo of a group of men sitting around a campfire",
+          "query": "camping trip friends"
+        }
+      },
+      {
+        "turn_id": "D18:2",
+        "speaker": "John",
+        "text": "Hey Maria, thanks for your kind words. It's still tough, but I'm finding some comfort in the good memories. Wow, your camping trip sounds awesome! I went on a mountaineering trip last week with some workmates. It was great and helped clear my head. Anything else cool happening in your life?",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/q33cupol6fm51.jpg"
+          ],
+          "blip_caption": "a photo of a man standing on top of a mountain with a backpack",
+          "query": "mountaineering expedition standing on mountain peak"
+        }
+      },
+      {
+        "turn_id": "D18:3",
+        "speaker": "Maria",
+        "text": "Glad you're finding comfort, John. That mountaineering trip sounds amazing. Did you reach the summit? When I was younger, my family and I went on a road trip to Oregon.",
+        "metadata": {
+          "img_url": [
+            "https://fundiegofamily.com/wp-content/uploads/2019/10/grandcanyon1.jpg"
+          ],
+          "blip_caption": "a photo of a person standing on a cliff overlooking a canyon",
+          "query": "hiking trail beautiful scenery grand canyon road trip"
+        }
+      },
+      {
+        "turn_id": "D18:4",
+        "speaker": "John",
+        "text": "Thanks, Maria! Yeah, we made it to the top and the view was stunning. It was tough but awesome. Your family trip must have been great too, right? What was the prettiest spot?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_20::episode-003",
+    "conversation_id": "conv-41",
+    "session_id": "session_20",
+    "observed_at": "2023-06-27T00:21:00",
+    "source_timestamp": "12:21 am on 27 June, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D20:7",
+        "speaker": "Maria",
+        "text": "Volunteering at the shelter made me feel great to help, even if just for a bit.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D20:8",
+        "speaker": "John",
+        "text": "Wow, Maria! That's really amazing. It must have felt great to help out. Do you have any special memories from your experience?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D20:9",
+        "speaker": "Maria",
+        "text": "There are so many, but one that stands out was when I met someone special at the shelter. They'd been sad for months, but when I was playing with the kids, they suddenly laughed - it was so uplifting! I won't forget that.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D20:10",
+        "speaker": "John",
+        "text": "That's a really nice memory, Maria! It's amazing how just playing with kids can bring such joy and happiness. It shows how even a brief moment with someone can make a difference. Thanks for sharing it with me.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D20:11",
+        "speaker": "Maria",
+        "text": "No problem, John! It was really nice. Being able to make a difference brings me joy.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D20:12",
+        "speaker": "John",
+        "text": "It's great knowing that our actions can brighten someone else's life. Keep it up!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D20:13",
+        "speaker": "Maria",
+        "text": "Thanks, John! Gonna continue doing it - it's my way of spreading kindness and positivity.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_21::episode-001",
+    "conversation_id": "conv-41",
+    "session_id": "session_21",
+    "observed_at": "2023-07-03T20:43:00",
+    "source_timestamp": "8:43 pm on 3 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D21:1",
+        "speaker": "Maria",
+        "text": "Hey John, long time no see! Sorry I didn't get back to you sooner... So much has happened! Check out these kids I met at the shelter!",
+        "metadata": {
+          "img_url": [
+            "https://cdn.newswire.com/files/x/4b/eb/ec85ef6a588e010a38e5f40feeab.jpg"
+          ],
+          "blip_caption": "a photo of three children sitting on a step smiling",
+          "query": "group children shelter smiling"
+        }
+      },
+      {
+        "turn_id": "D21:2",
+        "speaker": "John",
+        "text": "Hey Maria! Good to hear from you. Those little ones are adorable, any updates on them? How have you been?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D21:3",
+        "speaker": "Maria",
+        "text": "Hey John! They were great, their smiles warmed my heart. But something not so great happened yesterday...",
+        "metadata": {
+          "img_url": [
+            "https://i2.pickpik.com/photos/866/469/190/crash-car-car-crash-accident-preview.jpg"
+          ],
+          "blip_caption": "a photography of a car that has been damaged and is sitting on a flatbed",
+          "query": "broken car homeless shelter kids",
+          "re-download": true
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_28::episode-002",
+    "conversation_id": "conv-41",
+    "session_id": "session_28",
+    "observed_at": "2023-08-05T17:19:00",
+    "source_timestamp": "5:19 pm on 5 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D28:8",
+        "speaker": "Maria",
+        "text": "Hey John, I'm here for you! Staying positive makes a big difference, even in tough times. Yesterday, I took up some community work with my friends from church. It was super rewarding!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D28:9",
+        "speaker": "John",
+        "text": "Wow, Maria! That's great. Glad it was rewarding for you.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D28:10",
+        "speaker": "Maria",
+        "text": "Thanks, John! These moments remind me of how important kindness and compassion are. Have you had any volunteer experiences you'd like to share?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D28:11",
+        "speaker": "John",
+        "text": "I haven't been able to volunteer much lately, but I definitely care about it. Last year, I helped renovate a rundown community center back home. It took a lot of work, but seeing the impact on the community was so worth it.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D28:12",
+        "speaker": "Maria",
+        "text": "John, that's great! Must be really satisfying to witness the positive effect it's having on your hometown.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D28:13",
+        "speaker": "John",
+        "text": "Yeah! It was really cool to see everyone come together and help out - it's been amazing to see it so busy!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D28:14",
+        "speaker": "Maria",
+        "text": "Wow, John, awesome job! Keep doing what you're doing - you're making a real difference!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D28:15",
+        "speaker": "John",
+        "text": "It's really encouraging to hear that. I'll keep pushing forward and doing my best.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D28:16",
+        "speaker": "Maria",
+        "text": "You got this! You're inspiring and keep making a difference.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D28:17",
+        "speaker": "John",
+        "text": "I appreciate it! Your words are really motivating.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D28:18",
+        "speaker": "Maria",
+        "text": "No worries, John. I'm here to support you. If there's anything else I can do, just let me know.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D28:19",
+        "speaker": "John",
+        "text": "Thanks, Maria. Your support means a lot to me. If I need anything, I'll be sure to reach out.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_29::episode-004",
+    "conversation_id": "conv-41",
+    "session_id": "session_29",
+    "observed_at": "2023-08-09T20:06:00",
+    "source_timestamp": "8:06 pm on 9 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D29:14",
+        "speaker": "John",
+        "text": "Yeah Maria! I totally agree! Together, we can do so much. Let's keep spreading the good vibes and making our community better. ",
+        "metadata": {
+          "blip_caption": "a photo of a man holding a stick and a giant cartoon figure"
+        }
+      },
+      {
+        "turn_id": "D29:15",
+        "speaker": "Maria",
+        "text": "You rock! Let's keep spreading positivity and making a difference. We got this!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D29:16",
+        "speaker": "John",
+        "text": "Yeah, we got this. Thanks for your help!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D29:17",
+        "speaker": "Maria",
+        "text": "Yeah, John! It's really cool to have a friend like you who's just as passionate and motivated. Let's talk again soon!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D29:18",
+        "speaker": "John",
+        "text": "Yeah Maria! Friends like you make a big difference. Talk to you later!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_32::episode-002",
+    "conversation_id": "conv-41",
+    "session_id": "session_32",
+    "observed_at": "2023-08-16T11:08:00",
+    "source_timestamp": "11:08 am on 16 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D32:14",
+        "speaker": "Maria",
+        "text": "Hey John, I'm here for you. Last Friday, I spent some time at the shelter volunteering at the front desk. Seeing the smiles on their faces when they got food or a bed really made me feel good. We have the power to make a difference in people's lives.",
+        "metadata": {
+          "blip_caption": "a photo of a group of people standing around a table filled with food"
+        }
+      },
+      {
+        "turn_id": "D32:15",
+        "speaker": "John",
+        "text": "Maria, I'm glad you're finding fulfillment there. It's amazing how a little kindness can have such a big impact on someone's life. Let's continue making a difference in our community!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D32:16",
+        "speaker": "Maria",
+        "text": "Yeah, John! Let's keep spreading kindness. It's awesome to know we can bring joy and comfort to those who need it.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D32:17",
+        "speaker": "John",
+        "text": "Yeah, Maria, let's keep each other and everyone else motivated to make a difference! Together, our impact will surely last.",
+        "metadata": {}
+      }
+    ]
+  }
+]

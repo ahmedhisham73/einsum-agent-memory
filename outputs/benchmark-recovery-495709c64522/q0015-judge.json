@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-Ebto4rDQFn4Y8NNkj7xVAhhNev1sg",
+  "object": "chat.completion",
+  "created": 1792701364,
+  "model": "gpt-4o-mini-2024-07-18",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\"label\":\"CORRECT\",\"reason\":\"The generated answer accurately describes John as a patriotic person by detailing his values, actions, and community involvement that align with patriotism.\"}",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 262,
+    "completion_tokens": 35,
+    "total_tokens": 297,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_c72e7b122c"
+}

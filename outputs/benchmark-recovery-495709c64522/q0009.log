@@ -1,0 +1,101 @@
+Embeddings ready: 775
+Qdrant records: 775
+Reusing saved planner response; no planning API call.
+Coverage round 1: 4 episodes; 0 missing requirements
+
+ANSWER: John appears to have faced financial difficulties, including money problems and strain from car repair expenses, suggesting some financial stress. He had a stable job in mechanical engineering and was promoted to assistant manager, indicating a good income and career progression at that time. However, he later lost that job due to company failure, which likely impacted his financial status negatively. Currently, John is seeking new employment in the tech industry and may have found a new position, showing active efforts to regain financial stability. Overall, John has faced ups and downs financially but is actively managing his employment situation to improve his finances.
+CITATIONS: [
+  {
+    "episode_id": "conv-41::session_11::episode-001",
+    "turn_id": "D11:1"
+  },
+  {
+    "episode_id": "conv-41::session_28::episode-001",
+    "turn_id": "D28:1"
+  }
+]
+Evidence sufficient: True
+Artifacts: /Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/benchmark-recovery-495709c64522/q0009-query
+
+EMBEDDING BUILD USAGE:
+{
+  "experiment_id": "embedding-build-de9cda2f780d",
+  "recorded_calls": 25,
+  "groups": [
+    {
+      "approach": "ensimem",
+      "phase": "build",
+      "stage": "index_embedding",
+      "usage_kind": "embedding",
+      "provider": "openai",
+      "model": "text-embedding-3-small",
+      "calls": 25,
+      "retry_calls": 0,
+      "missing_usage_calls": 0,
+      "reported_input_tokens": 32918,
+      "reported_output_tokens": 0,
+      "total_tokens": 32918,
+      "cached_input_tokens": null,
+      "usage_complete": true
+    }
+  ]
+}
+
+QUERY USAGE:
+{
+  "experiment_id": "q0009-query",
+  "recorded_calls": 67,
+  "groups": [
+    {
+      "approach": "ensimem",
+      "phase": "query",
+      "stage": "grounded_answer",
+      "usage_kind": "generation",
+      "provider": "openai",
+      "model": "gpt-4.1-mini-2025-04-14",
+      "calls": 1,
+      "retry_calls": 0,
+      "missing_usage_calls": 0,
+      "reported_input_tokens": 2979,
+      "reported_output_tokens": 205,
+      "total_tokens": 3184,
+      "cached_input_tokens": 0,
+      "usage_complete": true
+    },
+    {
+      "approach": "ensimem",
+      "phase": "query",
+      "stage": "index_compatibility_v2",
+      "usage_kind": "generation",
+      "provider": "openai",
+      "model": "gpt-4.1-mini-2025-04-14",
+      "calls": 65,
+      "retry_calls": 0,
+      "missing_usage_calls": 0,
+      "reported_input_tokens": 74979,
+      "reported_output_tokens": 337,
+      "total_tokens": 75316,
+      "cached_input_tokens": 0,
+      "usage_complete": true
+    },
+    {
+      "approach": "ensimem",
+      "phase": "query",
+      "stage": "requirement_coverage_v2",
+      "usage_kind": "generation",
+      "provider": "openai",
+      "model": "gpt-4.1-mini-2025-04-14",
+      "calls": 1,
+      "retry_calls": 0,
+      "missing_usage_calls": 0,
+      "reported_input_tokens": 2476,
+      "reported_output_tokens": 478,
+      "total_tokens": 2954,
+      "cached_input_tokens": 0,
+      "usage_complete": true
+    }
+  ]
+}
+
+/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(

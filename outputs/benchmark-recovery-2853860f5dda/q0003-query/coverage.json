@@ -1,0 +1,44 @@
+[
+  {
+    "round": 1,
+    "budget": 8,
+    "index_scan_complete": true,
+    "missing_requirement_ids": [],
+    "selected_episode_ids": [
+      "conv-41::session_1::episode-002",
+      "conv-41::session_2::episode-005"
+    ],
+    "requirements": [
+      {
+        "id": "R1",
+        "covered": true,
+        "reason": "John explicitly mentions practicing kickboxing and taekwondo, both are martial arts.",
+        "citations": [
+          {
+            "episode_id": "conv-41::session_1::episode-002",
+            "turn_id": "D1:4"
+          },
+          {
+            "episode_id": "conv-41::session_2::episode-005",
+            "turn_id": "D2:28"
+          }
+        ]
+      },
+      {
+        "id": "R2",
+        "covered": true,
+        "reason": "John affirms his experience and participation in martial arts by stating he is doing kickboxing and later going to do taekwondo.",
+        "citations": [
+          {
+            "episode_id": "conv-41::session_1::episode-002",
+            "turn_id": "D1:4"
+          },
+          {
+            "episode_id": "conv-41::session_2::episode-005",
+            "turn_id": "D2:28"
+          }
+        ]
+      }
+    ]
+  }
+]

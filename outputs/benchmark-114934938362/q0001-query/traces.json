@@ -1,0 +1,248 @@
+[
+  {
+    "stage": "requirement_planning_v2",
+    "call_id": "7a6cb8a8-8650-4c11-9c7d-2929515385ce",
+    "response": {
+      "id": "chatcmpl-Ebu92vy7WwZ8WnjQAWebbC0bGtMcq",
+      "object": "chat.completion",
+      "created": 1792702664,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"reasoning_type\": \"point\",\n  \"exhaustive\": false,\n  \"requirements\": [\n    {\n      \"id\": \"R1\",\n      \"entity\": \"Maria\",\n      \"entity_type\": \"person\",\n      \"property\": \"family_meal_activity\",\n      \"value\": \"dinner\",\n      \"condition\": \"on May 3, 2023\",\n      \"role\": \"Identify with whom Maria had dinner on that specific date\",\n      \"search\": \"Who was dining with Maria on May 3, 2023?\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3778,
+        "completion_tokens": 120,
+        "total_tokens": 3898,
+        "prompt_tokens_details": {
+          "cached_tokens": 3584,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 2.186283125
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "3eb36772-1135-44e3-a833-e216252d7ff3",
+    "response": {
+      "id": "chatcmpl-Ebu96LbuOUt4UHn6Jtpu779xgXnQg",
+      "object": "chat.completion",
+      "created": 1792702668,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1752,
+        "completion_tokens": 4,
+        "total_tokens": 1756,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_c29994a85c"
+    },
+    "latency_seconds": 1.3475549999999998
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "91f6159c-87e3-4a35-8445-9b01120c1878",
+    "response": {
+      "id": "chatcmpl-Ebu97WrBdV3bnadp0nGcRtY7gI8zH",
+      "object": "chat.completion",
+      "created": 1792702669,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[{\"requirement_id\":\"R1\",\"record_id\":\"303\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1751,
+        "completion_tokens": 17,
+        "total_tokens": 1768,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_c29994a85c"
+    },
+    "latency_seconds": 1.4440671660000008
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "19e36b12-be4c-4206-a1ac-e59ad351bfef",
+    "response": {
+      "id": "chatcmpl-Ebu99oAHmBYDVlepILc1KpqA94Wxq",
+      "object": "chat.completion",
+      "created": 1792702671,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1046,
+        "completion_tokens": 4,
+        "total_tokens": 1050,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_c29994a85c"
+    },
+    "latency_seconds": 1.7169068750000012
+  },
+  {
+    "stage": "requirement_coverage_v2",
+    "call_id": "ac88c04b-e9f3-4221-8429-bb6e04fbc3ad",
+    "response": {
+      "id": "chatcmpl-Ebu9AP6QN819WfGccHzosRNGs228m",
+      "object": "chat.completion",
+      "created": 1792702672,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"requirements\": [\n    {\n      \"id\": \"R1\",\n      \"covered\": true,\n      \"reason\": \"Maria states that she and her mom made dinner together 'last night' in a conversation occurring on May 4, 2023, which places the dinner on May 3, 2023.\",\n      \"citations\": [\n        {\n          \"episode_id\": \"conv-41::session_13::episode-003\",\n          \"turn_id\": \"D13:16\"\n        }\n      ]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 804,
+        "completion_tokens": 113,
+        "total_tokens": 917,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_5f1ce66031"
+    },
+    "latency_seconds": 1.9139895409999994
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "0fe82025-9a34-4bbf-a42d-e3060f89f48c",
+    "response": {
+      "id": "chatcmpl-Ebu9CuZnTl0gUdYW7wvc6J2KwfaGu",
+      "object": "chat.completion",
+      "created": 1792702674,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"answer\": \"Maria had dinner with her mom on May 3, 2023.\",\n  \"sufficient\": true,\n  \"citations\": [{\n    \"episode_id\": \"conv-41::session_13::episode-003\",\n    \"turn_id\": \"D13:16\"\n  }]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 890,
+        "completion_tokens": 66,
+        "total_tokens": 956,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    },
+    "latency_seconds": 1.5676179999999995
+  }
+]

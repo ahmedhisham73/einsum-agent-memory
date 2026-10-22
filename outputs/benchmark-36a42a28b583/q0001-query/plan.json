@@ -1,0 +1,16 @@
+{
+  "reasoning_type": "temporal",
+  "exhaustive": false,
+  "requirements": [
+    {
+      "id": "R1",
+      "entity": "Maria",
+      "entity_type": "person",
+      "property": "had_dinner_with",
+      "value": "",
+      "condition": "date = May 3, 2023",
+      "role": "To identify the people Maria dined with on that specific date",
+      "search": "find entities linked to Maria by had_dinner_with on May 3, 2023"
+    }
+  ]
+}

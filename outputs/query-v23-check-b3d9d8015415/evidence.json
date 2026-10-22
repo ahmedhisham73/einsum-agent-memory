@@ -1,0 +1,48 @@
+[
+  {
+    "episode_id": "conv-41::session_13::episode-003",
+    "conversation_id": "conv-41",
+    "session_id": "session_13",
+    "observed_at": "2023-05-04T15:18:00",
+    "source_timestamp": "3:18 pm on 4 May, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D13:16",
+        "speaker": "Maria",
+        "text": "Wow, John! It's great when you have that kind of support. My mom and I made some dinner together last night!",
+        "metadata": {
+          "img_url": [
+            "https://i.pinimg.com/originals/2b/14/2b/2b142b420a54216cfc9432b6b35676b5.jpg"
+          ],
+          "blip_caption": "a photo of a table with a variety of food on it",
+          "query": "family gathering dinner home"
+        }
+      },
+      {
+        "turn_id": "D13:17",
+        "speaker": "John",
+        "text": "Thanks, Maria. Having good support is key. Appreciate you being there for me. What do you have in this spread? Looks delicious! I made this apple pie for the kids yesterday too!",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/tc1f75pa9df21.jpg"
+          ],
+          "blip_caption": "a photo of a person holding a plate with a banana split ice cream sundae",
+          "query": "homemade apple pie vanilla ice cream"
+        }
+      },
+      {
+        "turn_id": "D13:18",
+        "speaker": "Maria",
+        "text": "Thanks, John! It had lots of great things like salads, sandwiches, and homemade desserts. My favorite is the amazing banana split sundae - I enjoy it after a day of volunteering. It's a little moment of joy in life - balance is key!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D13:19",
+        "speaker": "John",
+        "text": "Mm, yum! A bit of joy is definitely important. How do you find balance in your life?",
+        "metadata": {}
+      }
+    ]
+  }
+]

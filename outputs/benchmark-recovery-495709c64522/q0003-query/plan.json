@@ -1,0 +1,32 @@
+{
+  "reasoning_type": "aggregation",
+  "exhaustive": true,
+  "requirements": [
+    {
+      "id": "R1",
+      "entity": "John",
+      "entity_type": "person",
+      "property": "activity_type",
+      "value": "martial arts",
+      "condition": "",
+      "role": "To identify which martial arts John has practiced",
+      "search": "Find all activities or activity types associated with John that specify martial arts"
+    },
+    {
+      "id": "R2",
+      "entity": "John",
+      "entity_type": "person",
+      "property": "activity_experience",
+      "value": "martial arts",
+      "condition": "",
+      "role": "To confirm John’s experience or participation in specific martial arts disciplines",
+      "search": "Look for any mention of martial arts experience or training related to John"
+    }
+  ],
+  "policy_normalization": {
+    "field": "exhaustive",
+    "original": false,
+    "effective": true,
+    "reason": "Aggregation requires exhaustive index enumeration"
+  }
+}

@@ -1,0 +1,289 @@
+[
+  {
+    "stage": "requirement_planning_v2",
+    "call_id": "aacbeb94-67fd-47df-9d36-8db6e1064593",
+    "response": {
+      "id": "chatcmpl-EbtZcmHatpLfa3dYnw0fMVvPNFKey",
+      "object": "chat.completion",
+      "created": 1792700468,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"reasoning_type\": \"point\",\n  \"exhaustive\": false,\n  \"requirements\": [\n    {\n      \"id\": \"R1\",\n      \"entity\": \"Maria\",\n      \"entity_type\": \"person\",\n      \"property\": \"donated_vehicle\",\n      \"value\": \"car\",\n      \"condition\": \"\",\n      \"role\": \"To find the date or time when Maria donated her car\",\n      \"search\": \"information about Maria's car donation date or time\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3770,
+        "completion_tokens": 106,
+        "total_tokens": 3876,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_07e815c12d"
+    },
+    "latency_seconds": 1.983223
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "bcce6d49-bac0-4ce5-8fcb-334d617129bb",
+    "response": {
+      "id": "chatcmpl-EbtZfEg41YekPUlzVMCGWKT2pQfpM",
+      "object": "chat.completion",
+      "created": 1792700471,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[{\"requirement_id\":\"R1\",\"record_id\":\"17\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1041,
+        "completion_tokens": 17,
+        "total_tokens": 1058,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6a82cb19e8"
+    },
+    "latency_seconds": 1.4968000839999993
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "18c68f07-82fb-401c-b7e4-a53a79da87e9",
+    "response": {
+      "id": "chatcmpl-EbtZhT6jBe25HmncWbNeto69yXTCq",
+      "object": "chat.completion",
+      "created": 1792700473,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 968,
+        "completion_tokens": 4,
+        "total_tokens": 972,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6a82cb19e8"
+    },
+    "latency_seconds": 1.7241111250000003
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "61115db2-cdfb-4ce4-b4b5-878fb5eafd88",
+    "response": {
+      "id": "chatcmpl-EbtZisCMslYPd4TNWPS92LtoQWbQd",
+      "object": "chat.completion",
+      "created": 1792700474,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 958,
+        "completion_tokens": 4,
+        "total_tokens": 962,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6a82cb19e8"
+    },
+    "latency_seconds": 1.1362527089999999
+  },
+  {
+    "stage": "index_compatibility_v2",
+    "call_id": "3f81c987-9072-4b63-b636-55837e1eb793",
+    "response": {
+      "id": "chatcmpl-EbtZj1A2iLEzo6dufJEdApTpN2zO4",
+      "object": "chat.completion",
+      "created": 1792700475,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"matches\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 918,
+        "completion_tokens": 4,
+        "total_tokens": 922,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6a82cb19e8"
+    },
+    "latency_seconds": 1.1331405419999996
+  },
+  {
+    "stage": "requirement_coverage_v2",
+    "call_id": "44cdf40a-1b59-46fc-b309-c4f8f0bce5db",
+    "response": {
+      "id": "chatcmpl-EbtZlKwDrFI69RNTdkfW5YNDniKuP",
+      "object": "chat.completion",
+      "created": 1792700477,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"requirements\": [\n    {\n      \"id\": \"R1\",\n      \"covered\": true,\n      \"reason\": \"Maria explicitly states she donated her old car to a homeless shelter yesterday, relative to the conversation timestamp.\",\n      \"citations\": [\n        {\n          \"episode_id\": \"conv-41::session_2::episode-001\",\n          \"turn_id\": \"D2:1\"\n        }\n      ]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 827,
+        "completion_tokens": 93,
+        "total_tokens": 920,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_5f1ce66031"
+    },
+    "latency_seconds": 2.150880666000001
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "18d37206-1c5c-4bc5-a074-4e22a75772c7",
+    "response": {
+      "id": "chatcmpl-EbtZm8pDKADMiUp0flaP0ylfdlzha",
+      "object": "chat.completion",
+      "created": 1792700478,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"answer\": \"Maria donated her old car to a homeless shelter yesterday relative to the conversation date of December 22, 2022.\",\n  \"sufficient\": true,\n  \"citations\": [{\n    \"episode_id\": \"conv-41::session_2::episode-001\",\n    \"turn_id\": \"D2:1\"\n  }]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 927,
+        "completion_tokens": 75,
+        "total_tokens": 1002,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    },
+    "latency_seconds": 1.4013764159999997
+  }
+]

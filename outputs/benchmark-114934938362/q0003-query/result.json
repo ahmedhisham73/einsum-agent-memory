@@ -1,0 +1,32 @@
+{
+  "status": "completed",
+  "experiment_id": "q0003-query",
+  "memory_build": "offline-memory-622a0d5cec62",
+  "embedding_fingerprint": "e20e0db1c5c539f3d9c686830c120d4af7c61161a81b22b16c256a2aa59fef38",
+  "question": "What martial arts has John done?",
+  "answer": "John has done kickboxing.",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-41::session_1::episode-002",
+      "turn_id": "D1:4"
+    }
+  ],
+  "retrieval_diagnostics": {
+    "version": "requirement-coverage-v2.3",
+    "stop_reason": "requirements_covered",
+    "selected_episodes": 1,
+    "total_episodes": 133,
+    "screened_records": 39,
+    "total_records": 775,
+    "exhaustive_index_scan": false,
+    "completeness_note": "Index enumeration does not prove source-history recall; matching and coverage are model assessments."
+  },
+  "elapsed_seconds": 12.322536958,
+  "implementation": {
+    "retrieval_version": "requirement-coverage-v2",
+    "structured_matching": "semantic index compatibility",
+    "all_matching": "full index scan; matching source episodes only",
+    "coverage": "per-requirement source citations; model assessment"
+  }
+}

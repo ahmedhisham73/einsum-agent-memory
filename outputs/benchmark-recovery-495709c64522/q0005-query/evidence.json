@@ -1,0 +1,105 @@
+[
+  {
+    "episode_id": "conv-41::session_3::episode-001",
+    "conversation_id": "conv-41",
+    "session_id": "session_3",
+    "observed_at": "2023-01-01T20:30:00",
+    "source_timestamp": "8:30 pm on 1 January, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D3:1",
+        "speaker": "John",
+        "text": "Hey Maria, great to chat again! I joined a service-focused online group last week and it's been an emotional ride. Everyone there is incredible with their own inspiring stories. They've opened my eyes to new perspectives, and I'm feeling a sense of connection and purpose with them.",
+        "metadata": {
+          "blip_caption": "a photo of a man sitting on a bed using a laptop"
+        }
+      },
+      {
+        "turn_id": "D3:2",
+        "speaker": "Maria",
+        "text": "Wow, John! That's amazing news. It's great to see you finding such a supportive community that is making a difference.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:3",
+        "speaker": "John",
+        "text": "Thanks, Maria! It's great to have a group of people with the same passion for serving. It's been really inspiring sharing stories, advice, and encouragement.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:4",
+        "speaker": "Maria",
+        "text": "That's great to hear! It's always inspiring to share thos things with like-minded individuals. By the way, have you had the chance to meet any of them in person?\n",
+        "metadata": {
+          "blip_caption": "a photo of a poster on a table with a santa clause"
+        }
+      },
+      {
+        "turn_id": "D3:5",
+        "speaker": "John",
+        "text": "We held some events and got to meet some people. We went to a homeless shelter to give out food and supplies. Seeing the smiles on their faces, we knew we made a real difference. We also organized a toy drive for kids in need. It was amazing seeing the community come together to spread some joy.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:6",
+        "speaker": "Maria",
+        "text": "That sounds great, John. It's nice to see the difference you're making. Do you have any ideas for future projects?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:7",
+        "speaker": "John",
+        "text": "We're brainstorming some to help underserved communities get access to education, mentorship, job training, and resume building. The goal is to empower individuals in achieving their aspirations.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:8",
+        "speaker": "Maria",
+        "text": "That's great, John! Empowering individuals through education and mentorship is crucial for helping them reach their goals. Can't wait to see the initiatives you come up with!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:9",
+        "speaker": "John",
+        "text": "Thanks, Maria! I'm really excited about them too. I believe that providing the right assistance and resources can make a lasting impact.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:10",
+        "speaker": "Maria",
+        "text": "Yep John, a bit of support can make an amazing change. You're spot on about it, it really is powerful. Keep doing what you're doing, it's really inspiring!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_27::episode-001",
+    "conversation_id": "conv-41",
+    "session_id": "session_27",
+    "observed_at": "2023-08-03T18:20:00",
+    "source_timestamp": "6:20 pm on 3 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D27:1",
+        "speaker": "John",
+        "text": "Hey Maria, hope you're doing OK. I had to share something cool with you - I asked family and friends to join the virtual support group I am a part of and be advocates for the military. It's been awesome seeing so many people coming together to back the courageous people serving our nation.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D27:2",
+        "speaker": "Maria",
+        "text": "Wow, John! Way to go helping veterans! I'm doing my part too, volunteering at a homeless shelter. It's so rewarding.",
+        "metadata": {
+          "img_url": [
+            "https://static.wixstatic.com/media/0726909c8a194fd1bdc04ebf3e03bea3.jpg/v1/fill/w_640,h_558,al_t,q_80,usm_0.66_1.00_0.01,enc_auto/0726909c8a194fd1bdc04ebf3e03bea3.jpg"
+          ],
+          "blip_caption": "a photography of a group of people standing around a table",
+          "query": "volunteer badge",
+          "re-download": true
+        }
+      }
+    ]
+  }
+]

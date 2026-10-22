@@ -1,0 +1,22 @@
+{
+  "question_id": "conv-41::q0009",
+  "category": 3,
+  "question": "What might John's financial status be?",
+  "gold_answer": "Middle-class or wealthy",
+  "status": "scored",
+  "generated_answer": "John appears to have faced financial difficulties, including money problems and strain from car repair expenses, suggesting some financial stress. He had a stable job in mechanical engineering and was promoted to assistant manager, indicating a good income and career progression at that time. However, he later lost that job due to company failure, which likely impacted his financial status negatively. Currently, John is seeking new employment in the tech industry and may have found a new position, showing active efforts to regain financial stability. Overall, John has faced ups and downs financially but is actively managing his employment situation to improve his finances.",
+  "citations": [
+    {
+      "episode_id": "conv-41::session_11::episode-001",
+      "turn_id": "D11:1"
+    },
+    {
+      "episode_id": "conv-41::session_28::episode-001",
+      "turn_id": "D28:1"
+    }
+  ],
+  "query_elapsed_seconds": 94.90298016599999,
+  "recovery_source": "benchmark-0e83a3c3dcf9",
+  "label": "WRONG",
+  "judge_reason": "The generated answer does not match the reference answer, which simplifies John's financial status to 'Middle-class or wealthy,' while the generated answer provides a detailed narrative indicating financial difficulties and instability."
+}

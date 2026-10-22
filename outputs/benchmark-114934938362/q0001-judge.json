@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-Ebu9ETjCv6jfPDIg25HU0HnDS3NeR",
+  "object": "chat.completion",
+  "created": 1792702676,
+  "model": "gpt-4o-mini-2024-07-18",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\"label\":\"CORRECT\",\"reason\":\"The generated answer correctly states that Maria had dinner with her mom, which is semantically equivalent to her mother.\"}",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 154,
+    "completion_tokens": 31,
+    "total_tokens": 185,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_9fdb32c1c4"
+}

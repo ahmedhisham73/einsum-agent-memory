@@ -1,0 +1,52 @@
+{
+  "reasoning_type": "aggregation",
+  "exhaustive": true,
+  "requirements": [
+    {
+      "id": "R1",
+      "entity": "John",
+      "entity_type": "person",
+      "property": "volunteered",
+      "value": "",
+      "condition": "",
+      "role": "Identify types of volunteering John has done",
+      "search": "volunteered AND John"
+    },
+    {
+      "id": "R2",
+      "entity": "Maria",
+      "entity_type": "person",
+      "property": "volunteered",
+      "value": "",
+      "condition": "",
+      "role": "Identify types of volunteering Maria has done",
+      "search": "volunteered AND Maria"
+    },
+    {
+      "id": "R3",
+      "entity": "John",
+      "entity_type": "person",
+      "property": "volunteering_activity",
+      "value": "",
+      "condition": "",
+      "role": "Determine the volunteering activities or types John participated in",
+      "search": "volunteering_activity AND John"
+    },
+    {
+      "id": "R4",
+      "entity": "Maria",
+      "entity_type": "person",
+      "property": "volunteering_activity",
+      "value": "",
+      "condition": "",
+      "role": "Determine the volunteering activities or types Maria participated in",
+      "search": "volunteering_activity AND Maria"
+    }
+  ],
+  "policy_normalization": {
+    "field": "exhaustive",
+    "original": false,
+    "effective": true,
+    "reason": "Aggregation requires exhaustive index enumeration"
+  }
+}

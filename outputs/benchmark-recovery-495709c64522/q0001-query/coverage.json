@@ -1,0 +1,87 @@
+[
+  {
+    "round": 1,
+    "budget": 8,
+    "index_scan_complete": false,
+    "missing_requirement_ids": [
+      "R1"
+    ],
+    "selected_episode_ids": [],
+    "requirements": [
+      {
+        "id": "R1",
+        "covered": false,
+        "citations": [],
+        "reason": "No compatible indexed evidence found"
+      }
+    ]
+  },
+  {
+    "round": 2,
+    "budget": 24,
+    "index_scan_complete": false,
+    "missing_requirement_ids": [
+      "R1"
+    ],
+    "selected_episode_ids": [],
+    "requirements": [
+      {
+        "id": "R1",
+        "covered": false,
+        "citations": [],
+        "reason": "No compatible indexed evidence found"
+      }
+    ]
+  },
+  {
+    "round": 3,
+    "budget": 72,
+    "index_scan_complete": false,
+    "missing_requirement_ids": [
+      "R1"
+    ],
+    "selected_episode_ids": [],
+    "requirements": [
+      {
+        "id": "R1",
+        "covered": false,
+        "citations": [],
+        "reason": "No compatible indexed evidence found"
+      }
+    ]
+  },
+  {
+    "round": 4,
+    "budget": 216,
+    "index_scan_complete": false,
+    "missing_requirement_ids": [
+      "R1"
+    ],
+    "selected_episode_ids": [],
+    "requirements": [
+      {
+        "id": "R1",
+        "covered": false,
+        "citations": [],
+        "reason": "No compatible indexed evidence found"
+      }
+    ]
+  },
+  {
+    "round": 5,
+    "budget": 775,
+    "index_scan_complete": true,
+    "missing_requirement_ids": [
+      "R1"
+    ],
+    "selected_episode_ids": [],
+    "requirements": [
+      {
+        "id": "R1",
+        "covered": false,
+        "citations": [],
+        "reason": "No compatible indexed evidence found"
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "experiment_id": "q0015-query",
+  "recorded_calls": 3,
+  "groups": [
+    {
+      "approach": "ensimem",
+      "phase": "query",
+      "stage": "requirement_planning_v2",
+      "usage_kind": "generation",
+      "provider": "openai",
+      "model": "gpt-4.1-mini-2025-04-14",
+      "calls": 3,
+      "retry_calls": 0,
+      "missing_usage_calls": 0,
+      "reported_input_tokens": 11333,
+      "reported_output_tokens": 1402,
+      "total_tokens": 12735,
+      "cached_input_tokens": 3584,
+      "usage_complete": true
+    }
+  ]
+}
