@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0034",
+  "category": 2,
+  "question": "When did Caroline go to a pride parade during the summer?",
+  "gold_answer": "The week before 3 July 2023",
+  "status": "scored",
+  "generated_answer": "Caroline went to an LGBTQ+ pride parade \"last week\" as mentioned in the conversation observed at 1:36 pm on July 3, 2023. This places her attendance during the summer (early July).",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_5::episode-001",
+      "turn_id": "D5:1"
+    }
+  ],
+  "query_elapsed_seconds": 3.967614375,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer correctly interprets the date of Caroline's attendance at the pride parade as the week before July 3, 2023, aligning with the reference answer."
+}

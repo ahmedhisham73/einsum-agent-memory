@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "046947d3-2f9b-4582-b75c-b8958611a953",
+    "response": {
+      "id": "chatcmpl-EbsO6VGqeUbwGbkBvtIdeRpimiOoh",
+      "object": "chat.completion",
+      "created": 1792695910,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Maria\",\"property\":\"involved_in_accident\",\"search\":\"evidence of car accident involving Maria\"},{\"entity\":\"Maria\",\"property\":\"time\",\"search\":\"date or holiday around time of Maria's car accident\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3709,
+        "completion_tokens": 52,
+        "total_tokens": 3761,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_f70cdd3962"
+    },
+    "latency_seconds": 1.9729816249999999
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "3218ff1f-3b42-47e5-85e0-6f173250306d",
+    "response": {
+      "id": "chatcmpl-EbsO8db9yFd2le84irG8ajuA4OfOM",
+      "object": "chat.completion",
+      "created": 1792695912,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Maria got into a car accident around early July, close to the U.S. Independence Day holiday on July 4th.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-41::session_21::episode-001\",\"turn_id\":\"D21:3\"},{\"episode_id\":\"conv-41::session_21::episode-002\",\"turn_id\":\"D21:5\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3907,
+        "completion_tokens": 84,
+        "total_tokens": 3991,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6a82cb19e8"
+    },
+    "latency_seconds": 1.9519987920000004
+  }
+]

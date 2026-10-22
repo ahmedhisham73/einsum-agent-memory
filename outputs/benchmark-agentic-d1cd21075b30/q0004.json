@@ -1,0 +1,29 @@
+{
+  "question_id": "conv-30::q0004",
+  "category": 1,
+  "question": "What do Jon and Gina both have in common?",
+  "gold_answer": "They lost their jobs and decided to start their own businesses.",
+  "status": "scored",
+  "generated_answer": "Jon and Gina both have their own businesses and share a passion and drive for working hard to achieve their dreams. They both face challenges but support and motivate each other to keep pushing forward and not give up.",
+  "citations": [
+    {
+      "episode_id": "conv-30::session_6::chunk-0010",
+      "turn_id": "D6:11"
+    },
+    {
+      "episode_id": "conv-30::session_6::chunk-0010",
+      "turn_id": "D6:12"
+    },
+    {
+      "episode_id": "conv-30::session_6::chunk-0010",
+      "turn_id": "D6:15"
+    },
+    {
+      "episode_id": "conv-30::session_6::chunk-0010",
+      "turn_id": "D6:16"
+    }
+  ],
+  "query_elapsed_seconds": 6.623393208,
+  "label": "WRONG",
+  "judge_reason": "The generated answer does not mention that Jon and Gina lost their jobs, which is a crucial fact from the reference answer."
+}

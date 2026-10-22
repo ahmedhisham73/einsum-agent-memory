@@ -1,0 +1,21 @@
+[
+  {
+    "query": "Gina lost her job at Door Dash",
+    "returned_chunk_ids": [
+      "conv-30::session_14::chunk-0005",
+      "conv-30::session_1::chunk-0000",
+      "conv-30::session_6::chunk-0000",
+      "conv-30::session_6::chunk-0010",
+      "conv-30::session_8::chunk-0000",
+      "conv-30::session_9::chunk-0000"
+    ],
+    "cumulative_chunk_ids": [
+      "conv-30::session_14::chunk-0005",
+      "conv-30::session_1::chunk-0000",
+      "conv-30::session_6::chunk-0000",
+      "conv-30::session_6::chunk-0010",
+      "conv-30::session_8::chunk-0000",
+      "conv-30::session_9::chunk-0000"
+    ]
+  }
+]

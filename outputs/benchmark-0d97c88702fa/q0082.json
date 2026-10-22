@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-26::q0082",
+  "category": 3,
+  "question": "Would Caroline want to move back to her home country soon?",
+  "gold_answer": "No; she's in the process of adopting children.",
+  "status": "failed",
+  "error": "Query failed. See q0082.log"
+}

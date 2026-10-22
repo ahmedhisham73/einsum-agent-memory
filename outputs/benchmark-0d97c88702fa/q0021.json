@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0021",
+  "category": 2,
+  "question": "When did Melanie go to the museum?",
+  "gold_answer": "5 July 2023",
+  "status": "scored",
+  "generated_answer": "Melanie went to the museum yesterday on 5 July 2023, taking her kids to see the dinosaur exhibit, which they enjoyed very much.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_6::episode-002",
+      "turn_id": "D6:4"
+    }
+  ],
+  "query_elapsed_seconds": 5.741607458000001,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer correctly states that Melanie went to the museum on 5 July 2023, which matches the reference answer."
+}

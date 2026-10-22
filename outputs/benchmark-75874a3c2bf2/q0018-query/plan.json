@@ -1,0 +1,30 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Gina",
+      "property": "motivation_reason",
+      "search": "evidence for why Gina decided to start her own clothing store"
+    },
+    {
+      "entity": "Gina",
+      "property": "business_motivation",
+      "search": "evidence about Gina's motivation for starting a clothing business"
+    },
+    {
+      "entity": "Gina",
+      "property": "business_idea",
+      "search": "evidence on Gina's reasons or inspirations to start her own clothing store"
+    },
+    {
+      "entity": "Gina",
+      "property": "business_goal",
+      "search": "evidence about what Gina hoped to achieve by starting her own clothing store"
+    },
+    {
+      "entity": "Gina",
+      "property": "intention",
+      "search": "evidence about Gina's intention behind opening a clothing store"
+    }
+  ]
+}

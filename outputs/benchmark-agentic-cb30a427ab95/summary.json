@@ -1,0 +1,58 @@
+{
+  "scope": "development slice; custom LLM judge rubric",
+  "selected": 15,
+  "scored": 13,
+  "failed": 2,
+  "correct": 6,
+  "accuracy_on_scored_percent": 46.15,
+  "by_category": {
+    "1": {
+      "scored": 2,
+      "correct": 1
+    },
+    "2": {
+      "scored": 4,
+      "correct": 0
+    },
+    "3": {
+      "scored": 4,
+      "correct": 2
+    },
+    "4": {
+      "scored": 3,
+      "correct": 3
+    }
+  },
+  "query_usage": [
+    {
+      "usage_kind": "embedding",
+      "model": "text-embedding-3-small",
+      "calls": 16,
+      "missing_usage_calls": 0,
+      "input_tokens_reported": 96,
+      "output_tokens_reported": 0,
+      "total_tokens": 96
+    },
+    {
+      "usage_kind": "generation",
+      "model": "gpt-4.1-mini-2025-04-14",
+      "calls": 46,
+      "missing_usage_calls": 0,
+      "input_tokens_reported": 90937,
+      "output_tokens_reported": 2697,
+      "total_tokens": 93634
+    }
+  ],
+  "judge_usage": [
+    {
+      "usage_kind": "generation",
+      "model": "gpt-4o-mini-2024-07-18",
+      "calls": 13,
+      "missing_usage_calls": 0,
+      "input_tokens_reported": 2326,
+      "output_tokens_reported": 416,
+      "total_tokens": 2742
+    }
+  ],
+  "build_usage": "Excluded; already recorded in memory/dense artifacts"
+}

@@ -1,0 +1,45 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Caroline",
+      "property": "participation_in_lgbtq_community",
+      "search": "evidence of Caroline's involvement or actions supporting or engaging with LGBTQ community"
+    },
+    {
+      "entity": "Caroline",
+      "property": "support_for_lgbtq_community",
+      "search": "statements or actions Caroline has taken showing support for LGBTQ rights or community"
+    },
+    {
+      "entity": "Caroline",
+      "property": "event_participation",
+      "search": "events Caroline has attended related to LGBTQ community such as pride parades or advocacy events"
+    },
+    {
+      "entity": "Caroline",
+      "property": "advocacy_focus",
+      "search": "any advocacy or activism efforts Caroline is involved in that relate to the LGBTQ community"
+    },
+    {
+      "entity": "Caroline",
+      "property": "membership_description",
+      "search": "membership or affiliation with LGBTQ organizations or groups"
+    },
+    {
+      "entity": "Caroline",
+      "property": "expresses_support_for",
+      "search": "expressions of support Caroline has made towards LGBTQ issues or persons"
+    },
+    {
+      "entity": "Caroline",
+      "property": "community_support",
+      "search": "ways Caroline contributes to or participates in LGBTQ community support networks"
+    },
+    {
+      "entity": "Caroline",
+      "property": "shared_story_with",
+      "search": "instances where Caroline shares her experiences or story related to LGBTQ identity or community"
+    }
+  ]
+}

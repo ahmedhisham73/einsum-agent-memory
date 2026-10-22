@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-EbsHo9x3YuFvSDy6wLDPW1ViY91tM",
+  "object": "chat.completion",
+  "created": 1792695520,
+  "model": "gpt-4o-mini-2024-07-18",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\"label\":\"CORRECT\",\"reason\":\"The generated answer provides the exact date when Gina lost her job, matching the reference answer.\"}",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 151,
+    "completion_tokens": 27,
+    "total_tokens": 178,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_e9e83bb9dc"
+}

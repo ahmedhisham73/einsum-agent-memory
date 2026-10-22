@@ -1,0 +1,10 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Maria",
+      "property": "spent_time_with",
+      "search": "evidence of dinner companions on May 3, 2023"
+    }
+  ]
+}

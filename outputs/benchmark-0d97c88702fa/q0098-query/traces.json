@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "4ec64d3c-a6cc-4513-b3dc-18e94c0839b3",
+    "response": {
+      "id": "chatcmpl-EbsE83qUa5rkgvf1gBnBWHhczE9vn",
+      "object": "chat.completion",
+      "created": 1792695292,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Caroline\",\"property\":\"attended\",\"search\":\"workshop Caroline attended recently\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2678,
+        "completion_tokens": 27,
+        "total_tokens": 2705,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6cab07b253"
+    },
+    "latency_seconds": 3.024597959
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "d56d21e4-28e3-4bb5-b3f2-9f9eb88a1a4a",
+    "response": {
+      "id": "chatcmpl-EbsEAkkszn8jQEe5GHgeDvAHnmNpr",
+      "object": "chat.completion",
+      "created": 1792695294,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Caroline recently attended an LGBTQ+ counseling workshop last Friday, where she learned about different therapeutic methods and how to work effectively with trans people.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_4::episode-003\",\"turn_id\":\"D4:13\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 4572,
+        "completion_tokens": 64,
+        "total_tokens": 4636,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6a82cb19e8"
+    },
+    "latency_seconds": 1.7794176249999998
+  }
+]

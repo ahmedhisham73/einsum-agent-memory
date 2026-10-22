@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-Ebs7s5Qw2gCyE31SfLmjzJVkLlpiM",
+  "object": "chat.completion",
+  "created": 1792694904,
+  "model": "gpt-4o-mini-2024-07-18",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\"label\":\"WRONG\",\"reason\":\"The generated answer does not mention Caroline's plans related to 'researching adoption agencies' and instead provides unrelated activities.\"}",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 196,
+    "completion_tokens": 32,
+    "total_tokens": 228,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_8421a6e076"
+}

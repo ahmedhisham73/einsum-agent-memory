@@ -1,0 +1,323 @@
+[
+  {
+    "episode_id": "conv-26::session_5::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_5",
+    "observed_at": "2023-07-03T13:36:00",
+    "source_timestamp": "1:36 pm on 3 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Upcoming plans and future events for Caroline and Melanie",
+    "turns": [
+      {
+        "turn_id": "D5:12",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! I'm excited to see where pottery takes me. Anything coming up you're looking forward to?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:13",
+        "speaker": "Caroline",
+        "text": "Thanks Mel! I'm going to a transgender conference this month. I'm so excited to meet other people in the community and learn more about advocacy. It's gonna be great!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:14",
+        "speaker": "Melanie",
+        "text": "Sounds awesome, Caroline! Have a great time and learn a lot. Have fun!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:15",
+        "speaker": "Caroline",
+        "text": "Cool, thanks Mel! Can't wait. I'll keep ya posted. Bye!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:16",
+        "speaker": "Melanie",
+        "text": "Bye, Caroline! Can't wait to hear about it. Have fun and stay safe!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_6::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_6",
+    "observed_at": "2023-07-06T20:18:00",
+    "source_timestamp": "8:18 pm on 6 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Caroline's transition and support network",
+    "turns": [
+      {
+        "turn_id": "D6:11",
+        "speaker": "Caroline",
+        "text": "Wow, that's great! It sure shows how important friendship and compassion are. It's made me appreciate how lucky I am to have my friends and family helping with my transition. They make all the difference. We even had a picnic last week!",
+        "metadata": {
+          "img_url": [
+            "https://i.pinimg.com/originals/41/d5/60/41d5601e4ab0959ce5e29683a2660938.jpg"
+          ],
+          "blip_caption": "a photo of a group of women sitting on a blanket in a park",
+          "query": "group friends picnic"
+        }
+      },
+      {
+        "turn_id": "D6:12",
+        "speaker": "Melanie",
+        "text": "That's a gorgeous photo, Caroline! Wow, the love around you is awesome. How have your friends and fam been helping you out with your transition?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:13",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! This support network has been amazing. They've been there for me every step of the way giving me love, guidance, and acceptance. I couldn't have done it without them.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:14",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! It's great you have people to support you, that's really awesome!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:15",
+        "speaker": "Caroline",
+        "text": "I'm so lucky to have such a great support system around me. Their love and encouragement has really helped me accept and grow into my true self. They've been instrumental in my transition.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_12::episode-005",
+    "conversation_id": "conv-26",
+    "session_id": "session_12",
+    "observed_at": "2023-08-17T13:50:00",
+    "source_timestamp": "1:50 pm on 17 August, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Fond memories and planning for future outings together",
+    "turns": [
+      {
+        "turn_id": "D12:15",
+        "speaker": "Caroline",
+        "text": "I'm always here for you, Mel! We had a blast last year at the Pride fest. Those supportive friends definitely make everything worth it!",
+        "metadata": {
+          "img_url": [
+            "https://media2.fdncms.com/portmerc/imager/u/large/46577490/pride2022-2-jankowski.jpg"
+          ],
+          "blip_caption": "a photo of a group of people walking down a street with balloons",
+          "query": "friends pride festival"
+        }
+      },
+      {
+        "turn_id": "D12:16",
+        "speaker": "Melanie",
+        "text": "That was a blast! So much fun with the whole gang! Wanna do a family outing this summer?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:17",
+        "speaker": "Caroline",
+        "text": "Right, it was so much fun! We could do a family outting, or wanna plan something special for this summer, just us two? It'd be a great chance to catch up and explore nature! What do you think?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:18",
+        "speaker": "Melanie",
+        "text": "Sounds great, Caroline! Let's plan something special!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:19",
+        "speaker": "Caroline",
+        "text": "Sounds great, Mel! We'll make some awesome memories!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:20",
+        "speaker": "Melanie",
+        "text": "Yeah, Caroline! I'll start thinking about what we can do.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:21",
+        "speaker": "Caroline",
+        "text": "Yeah, Mel! Life's all about creating memories. Can't wait for the trip!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_13::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_13",
+    "observed_at": "2023-08-23T15:31:00",
+    "source_timestamp": "3:31 pm on 23 August, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Shared love and experiences with horses",
+    "turns": [
+      {
+        "turn_id": "D13:7",
+        "speaker": "Caroline",
+        "text": "That's so funny! I used to go horseback riding with my dad when I was a kid, we'd go through the fields, feeling the wind. It was so special. I've always had a love for horses!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D13:8",
+        "speaker": "Melanie",
+        "text": "Wow, that sounds great - I agree, they're awesome. Here's a photo of my horse painting I did recently.",
+        "metadata": {
+          "img_url": [
+            "https://warpedtable.com/cdn/shop/products/F331B563-AB73-430A-A6DF-3C5E0F91A4D8.jpg"
+          ],
+          "blip_caption": "a photo of a horse painted on a wooden wall",
+          "query": "horse painting"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_14::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_14",
+    "observed_at": "2023-08-25T13:33:00",
+    "source_timestamp": "1:33 pm on 25 August, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Personal experience and pottery art introduction",
+    "turns": [
+      {
+        "turn_id": "D14:1",
+        "speaker": "Caroline",
+        "text": "Hey, Mel! How's it going? There's something I want to tell you. I went hiking last week and got into a bad spot with some people. It really bugged me, so I tried to apologize to them.",
+        "metadata": {
+          "img_url": [
+            "https://photos.thetrek.co/wp-content/uploads/2017/11/IMG_1742-e1509796327550.jpg"
+          ],
+          "blip_caption": "a photo of a woman sitting on a sign on top of a mountain",
+          "query": "letter apology hike encounter"
+        }
+      },
+      {
+        "turn_id": "D14:2",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! Sorry that happened to you. It's tough when those things happen, but it's great you apologized. Takes a lot of courage and maturity! What do you think of this?",
+        "metadata": {
+          "img_url": [
+            "https://i0.wp.com/bardith.com/wp-content/uploads/2022/05/IMG_4371-1.jpg"
+          ],
+          "blip_caption": "a photo of a plate with a bunch of flowers on it",
+          "query": "pottery purple bowl floral patterns"
+        }
+      },
+      {
+        "turn_id": "D14:3",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! That plate is awesome! Did you make it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:4",
+        "speaker": "Melanie",
+        "text": "Yeah, I made it in pottery class yesterday. I love it! Pottery's so relaxing and creative. Have you tried it yet?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_15::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_15",
+    "observed_at": "2023-08-28T15:19:00",
+    "source_timestamp": "3:19 pm on 28 August, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Caroline's music interests and emotional connection to songs",
+    "turns": [
+      {
+        "turn_id": "D15:17",
+        "speaker": "Caroline",
+        "text": "That sounds great! Music brings us together and brings joy. Playing and singing let me express myself and connect with others - love it! So cathartic and uplifting.",
+        "metadata": {
+          "blip_caption": "a photo of a man playing a guitar in a recording studio"
+        }
+      },
+      {
+        "turn_id": "D15:18",
+        "speaker": "Melanie",
+        "text": "Cool! What type of music do you play?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:19",
+        "speaker": "Caroline",
+        "text": "Guitar's mostly my thing. Playing it helps me get my emotions out.",
+        "metadata": {
+          "blip_caption": "a photo of a guitar on display in a store"
+        }
+      },
+      {
+        "turn_id": "D15:20",
+        "speaker": "Melanie",
+        "text": "That's awesome! What type of guitar? Been playing long?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:21",
+        "speaker": "Caroline",
+        "text": "I started playing acoustic guitar about five years ago; it's been a great way to express myself and escape into my emotions.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:22",
+        "speaker": "Melanie",
+        "text": "Music's amazing, isn't it? Any songs that have deep meaning for you?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:23",
+        "speaker": "Caroline",
+        "text": "Yeah totally! \"Brave\" by Sara Bareilles has a lot of significance for me. It's about being courageous and fighting for what's right. Whenever I hear this jam, I think about the paths I've taken and the progress I've made.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_16::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_16",
+    "observed_at": "2023-09-13T00:09:00",
+    "source_timestamp": "12:09 am on 13 September, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Sharing recent outdoor experiences and photos",
+    "turns": [
+      {
+        "turn_id": "D16:1",
+        "speaker": "Caroline",
+        "text": "Hey Mel, long time no chat! I had a wicked day out with the gang last weekend - we went biking and saw some pretty cool stuff. It was so refreshing, and the pic I'm sending is just stunning, eh?",
+        "metadata": {
+          "img_url": [
+            "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_371,q_75,w_640/v1/crm/corpuschristitx/Sunset-Lake-Park_38118D81-5056-A36F-23E62D2F41525FF4-38118cb45056a36_381194bb-5056-a36f-23c599c63a3950d7.jpg"
+          ],
+          "blip_caption": "a photo of a beach with a fence and a sunset",
+          "query": "sunset lake"
+        }
+      },
+      {
+        "turn_id": "D16:2",
+        "speaker": "Melanie",
+        "text": "Hey Caroline! It's so good to hear from you! That pic is so beautiful, the colors really pop. Biking sounds like a great way to get out in nature. We went camping with the kids a few weeks ago, had a blast exploring the forest and hiking. Nature can be so refreshing for your soul. Any plans coming up?",
+        "metadata": {
+          "img_url": [
+            "https://exploringtheprime.com/wp-content/uploads/2019/10/IMG_6705-2.jpg"
+          ],
+          "blip_caption": "a photo of a dirt road surrounded by trees with yellow leaves",
+          "query": "family hiking trail vibrant autumn colors"
+        }
+      },
+      {
+        "turn_id": "D16:3",
+        "speaker": "Caroline",
+        "text": "Melanie, that photo's amazing! I love all the yellow leaves, it looks so cozy. That sounds like fun! Seeing how excited they get for the little things is awesome, it's so contagious.",
+        "metadata": {}
+      }
+    ]
+  }
+]

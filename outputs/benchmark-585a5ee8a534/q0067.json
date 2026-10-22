@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-41::q0067",
+  "category": 4,
+  "question": "What sparked John's interest in improving education and infrastructure in the community?",
+  "gold_answer": "Seeing how lack of education and crumbling infrastructure affected his neighborhood while growing up.",
+  "status": "failed",
+  "error": "Query failed. See q0067.log"
+}

@@ -1,0 +1,254 @@
+[
+  {
+    "episode_id": "conv-30::session_4::chunk-0000",
+    "session_id": "session_4",
+    "observed_at": "2023-02-04T10:43:00",
+    "source_timestamp": "10:43 am on 4 February, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D4:1",
+        "speaker": "Jon",
+        "text": "Hey Gina! What's up? How's the store going? I gotta tell you about this thing with my biz.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:2",
+        "speaker": "Gina",
+        "text": "Hey Jon! The store's doing great! It's a wild ride. How's the biz?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:3",
+        "speaker": "Jon",
+        "text": "Hey Gina! I'm putting in a lot of work on my business even with the obstacles. I'm gonna make it happen!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:4",
+        "speaker": "Gina",
+        "text": "Wow! You've got drive! Keep it up and you'll definitely make a splash.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:5",
+        "speaker": "Jon",
+        "text": "Thanks Gina! Your help really means a lot. Sometimes it's hard when things don't go my way, but I'm sure if I keep pushing, I'll reach my dreams!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:6",
+        "speaker": "Gina",
+        "text": "Understand where you're at, Jon. Setbacks are just opportunities for comebacks. You got the skills, passion, and drive. Plus my full support. Don't give up, buddy!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_4::chunk-0015",
+    "session_id": "session_4",
+    "observed_at": "2023-02-04T10:43:00",
+    "source_timestamp": "10:43 am on 4 February, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D4:16",
+        "speaker": "Gina",
+        "text": "No doubt, Jon you've got this. Your passion and commitment are awesome! Keep it up!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:17",
+        "speaker": "Jon",
+        "text": "Thanks! I'm going for my dreams!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:18",
+        "speaker": "Gina",
+        "text": "Absolutely Jon. I'm always here to cheer you on. Make your dreams happen - keep going and believe in yourself. You got this!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:19",
+        "speaker": "Jon",
+        "text": "Thanks, Gina! Your kind words mean a lot. I won't give up!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_5::chunk-0020",
+    "session_id": "session_5",
+    "observed_at": "2023-02-08T09:32:00",
+    "source_timestamp": "9:32 am on 8 February, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D5:21",
+        "speaker": "Gina",
+        "text": "Wow, Jon! You're amazing at juggling both your passions. Finding that happy medium is key - keep going and don't stop dreaming, buddy!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:22",
+        "speaker": "Jon",
+        "text": "Thanks, Gina! Your pep-talk really meant a lot. I'm not gonna give up on my dreams - my dance studio and biz ventures need the hard work I'm putting in. Love having you in my corner, thanks for always being there!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:23",
+        "speaker": "Gina",
+        "text": "Yeah Jon, I'm here for you! Chasing our dreams and helping each other out. Let's keep movin' forward!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_6::chunk-0010",
+    "session_id": "session_6",
+    "observed_at": "2023-03-16T14:35:00",
+    "source_timestamp": "2:35 pm on 16 March, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D6:11",
+        "speaker": "Jon",
+        "text": "Thanks for askin', Gina! Losing my job was hard, but I'm livin' my dreams now. Startin' my biz has been tough but I'm gonna make it! I keep facing new challenges, but I'm sure it'll be worth it in the end.",
+        "metadata": {
+          "blip_caption": "a photo of a laptop computer sitting on top of a table"
+        }
+      },
+      {
+        "turn_id": "D6:12",
+        "speaker": "Gina",
+        "text": "Yeah, starting and running my own biz has had its ups and downs - but it's been an amazing ride!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:13",
+        "speaker": "Jon",
+        "text": "Yeah, it's been a rollercoaster. But your success really inspires me to keep pushing forward. Your determination is awesome!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:14",
+        "speaker": "Gina",
+        "text": "Thanks, Jon! Your words are really encouraging. Glad my journey is inspiring others.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:15",
+        "speaker": "Jon",
+        "text": "Yeah, totally! It's great we both face the same challenges, it motivates us and it's like having a partner to dance with!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:16",
+        "speaker": "Gina",
+        "text": "Yep! We're both on different paths, but it's nice to have someone to root for us. We can do it!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_16::chunk-0005",
+    "session_id": "session_16",
+    "observed_at": "2023-06-21T14:15:00",
+    "source_timestamp": "2:15 pm on 21 June, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D16:6",
+        "speaker": "Jon",
+        "text": "That's awesome, Gina! Yesterday I chose to go to networking events to make things happen. It's been tough but I'm staying determined and focused.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:7",
+        "speaker": "Gina",
+        "text": "Way to go, Jon! Attending those networking events takes guts and drive. Keep it up!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:8",
+        "speaker": "Jon",
+        "text": "Thanks! It's been tough going since I lost my job, but I'm sure investing my time in my business will pay off eventually. I really appreciate your help.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:9",
+        "speaker": "Gina",
+        "text": "No worries, Jon! You got this! Let me know if you need anything.",
+        "metadata": {
+          "blip_caption": "a photo of a notepad with a pen and a pen on it"
+        }
+      },
+      {
+        "turn_id": "D16:10",
+        "speaker": "Jon",
+        "text": "Your help matters to me. I am writing all my plans down.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:11",
+        "speaker": "Gina",
+        "text": "Nice work! Tracking your plans and goals is key. It's like a picture of all your progress.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_17::chunk-0015",
+    "session_id": "session_17",
+    "observed_at": "2023-07-09T13:25:00",
+    "source_timestamp": "1:25 pm on 9 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D17:16",
+        "speaker": "Jon",
+        "text": "Thanks, Gina! Your belief in me means the world. I'm not gonna let anything or anyone stop me. I'll keep pushing and make my dreams come true. Thanks for being a great friend. You rock!",
+        "metadata": {
+          "blip_caption": "a photo of a chalkboard with a quote written on it"
+        }
+      },
+      {
+        "turn_id": "D17:17",
+        "speaker": "Gina",
+        "text": "Hey Jon, glad I could help! Always here to cheer you on.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:18",
+        "speaker": "Jon",
+        "text": "Thanks! Glad that you are on my side.",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/1jjaus9f0sab1.jpg"
+          ],
+          "blip_caption": "a photo of a drawing of a smiley face floating in the water",
+          "query": "childhood drawing soaring sky"
+        }
+      },
+      {
+        "turn_id": "D17:19",
+        "speaker": "Gina",
+        "text": "Sure, see ya. Bye!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:20",
+        "speaker": "Jon",
+        "text": "Bye!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:21",
+        "speaker": "Gina",
+        "text": ";)",
+        "metadata": {}
+      }
+    ]
+  }
+]

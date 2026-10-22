@@ -1,0 +1,41 @@
+{
+  "question_id": "conv-26::q0048",
+  "category": 1,
+  "question": "Who supports Caroline when she has a negative experience?",
+  "gold_answer": "Her mentors, family, and friends",
+  "status": "scored",
+  "generated_answer": "Caroline is supported by her friends, family, mentors, and specifically by Melanie. They provide her with love, guidance, acceptance, encouragement, and emotional support through difficult times like her transition and breakup. Melanie constantly affirms Caroline's efforts and journey, showing that she is a key part of Caroline's support network.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_2::episode-002",
+      "turn_id": "D2:10"
+    },
+    {
+      "episode_id": "conv-26::session_3::episode-002",
+      "turn_id": "D3:11"
+    },
+    {
+      "episode_id": "conv-26::session_3::episode-002",
+      "turn_id": "D3:13"
+    },
+    {
+      "episode_id": "conv-26::session_6::episode-004",
+      "turn_id": "D6:13"
+    },
+    {
+      "episode_id": "conv-26::session_6::episode-004",
+      "turn_id": "D6:15"
+    },
+    {
+      "episode_id": "conv-26::session_19::episode-003",
+      "turn_id": "D19:9"
+    },
+    {
+      "episode_id": "conv-26::session_19::episode-003",
+      "turn_id": "D19:11"
+    }
+  ],
+  "query_elapsed_seconds": 6.0382695,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer includes the main support sources mentioned in the reference answer while providing additional context about the specific support from Melanie, which does not contradict the reference."
+}

@@ -1,0 +1,45 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Jon",
+      "property": "values",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Gina",
+      "property": "values",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Jon",
+      "property": "activities",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Gina",
+      "property": "activities",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Jon",
+      "property": "business_focus",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Gina",
+      "property": "business_focus",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Jon",
+      "property": "support_role",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Gina",
+      "property": "support_role",
+      "search": "standalone evidence search"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Caroline",
+      "property": "interest_in_field",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Caroline",
+      "property": "career_interest",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Caroline",
+      "property": "project",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Caroline",
+      "property": "research_topic",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Caroline",
+      "property": "academic_focus",
+      "search": "standalone evidence search"
+    }
+  ]
+}

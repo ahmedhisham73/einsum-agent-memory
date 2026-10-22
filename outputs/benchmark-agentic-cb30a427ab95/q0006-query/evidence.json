@@ -1,0 +1,288 @@
+[
+  {
+    "episode_id": "conv-41::session_11::chunk-0000",
+    "session_id": "session_11",
+    "observed_at": "2023-04-10T18:13:00",
+    "source_timestamp": "6:13 pm on 10 April, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D11:1",
+        "speaker": "John",
+        "text": "Hey Maria, haven't talked for a few days. Had a wild week, my car broke down last Fri on my way to work. Trying to get it fixed but it's tough & putting a strain on my wallet. Staying positive & looking for a solution though.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:2",
+        "speaker": "Maria",
+        "text": "Aww John, bummer about that. No doubt it's been tough, but I'm impressed by how positive you're being. Keep it up - tough times pass, but you're tough enough to get through 'em!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:3",
+        "speaker": "John",
+        "text": "Thanks, Maria. Your kind words mean a lot. Yeah, it's been tough with car trouble and money problems, but I stay positive and find a way. This picture reminds me of a road trip we took last year; even with bumps along the way, there's still beauty and hope.",
+        "metadata": {
+          "img_url": [
+            "https://images.pexels.com/photos/1266810/pexels-photo-1266810.jpeg"
+          ],
+          "blip_caption": "a photography of a mountain with a sunset and flowers in the foreground",
+          "query": "road beautiful sunset",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D11:4",
+        "speaker": "Maria",
+        "text": "Wow, great pic! Where did you go on that road trip?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:5",
+        "speaker": "John",
+        "text": "Thanks! We explored the coast up in the Pacific Northwest and hit some cool national parks. The beauty of nature was absolutely breathtaking!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:6",
+        "speaker": "Maria",
+        "text": "Wow, that must've been great! It's so nice to appreciate nature and find peace. Lucky you got to experience that.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_16::chunk-0005",
+    "session_id": "session_16",
+    "observed_at": "2023-05-25T13:24:00",
+    "source_timestamp": "1:24 pm on 25 May, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D16:6",
+        "speaker": "Maria",
+        "text": "Thanks, John! Your help is really appreciated. If you know anyone who might be interested in volunteering for the event, let me know. We can do this!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:7",
+        "speaker": "John",
+        "text": "Yep, Maria! I'll ask around to see if anyone I know wants to help. We'll find some awesome people for the cause. Let's make a change!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:8",
+        "speaker": "Maria",
+        "text": "Way to go, John! Let's help those in need. Thanks for your support!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:9",
+        "speaker": "John",
+        "text": "No problem, Maria! Working together with passionate people like you is awesome! Let's make a difference.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:10",
+        "speaker": "Maria",
+        "text": "Yeah, working with passionate people like you is really motivating.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:11",
+        "speaker": "John",
+        "text": "Yeah, Maria! We're making a difference and we'll keep it up! Here's a pic of my fam at the beach.",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/cuurrb4qyl961.jpg"
+          ],
+          "blip_caption": "a photo of a couple walking into the ocean at sunset",
+          "query": "kids holding hands sunset"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_16::chunk-0010",
+    "session_id": "session_16",
+    "observed_at": "2023-05-25T13:24:00",
+    "source_timestamp": "1:24 pm on 25 May, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D16:12",
+        "speaker": "Maria",
+        "text": "Wow, John, that pic is gorgeous! It really gives me hope to appreciate the little moments.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:13",
+        "speaker": "John",
+        "text": "Thanks, Maria! It's moments like these that give me hope too.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:14",
+        "speaker": "Maria",
+        "text": "Yeah, John! They give me peace and make me appreciate life.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:15",
+        "speaker": "John",
+        "text": "Glad the photo made you feel that way, Maria. Cherish those little moments!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:16",
+        "speaker": "Maria",
+        "text": "Thanks, John. I definitely will!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_19::chunk-0015",
+    "session_id": "session_19",
+    "observed_at": "2023-06-16T19:20:00",
+    "source_timestamp": "7:20 pm on 16 June, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D19:16",
+        "speaker": "John",
+        "text": "Definitely, Maria. Support from loved ones is vital. With their trust, we can do anything! I'm really lucky to have my family on this journey with me.",
+        "metadata": {
+          "img_url": [
+            "https://riverstudiodesign.ca/wp-content/uploads/2019/09/overall-office-jpg-1.jpg"
+          ],
+          "blip_caption": "a photo of a desk with a chair and a lamp",
+          "query": "wife kids office desk"
+        }
+      },
+      {
+        "turn_id": "D19:17",
+        "speaker": "Maria",
+        "text": "Nice workspace! When do you usually work?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:18",
+        "speaker": "John",
+        "text": "Thanks, Maria! I usually work during regular work hours, but sometimes I bring work home too.",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/n7jl343t38m91.jpg"
+          ],
+          "blip_caption": "a photo of a desk with a computer, keyboard, and notebook",
+          "query": "office desk laptop papers scattered"
+        }
+      },
+      {
+        "turn_id": "D19:19",
+        "speaker": "Maria",
+        "text": "That work setup looks nice, John. How do you manage to balance everything?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:20",
+        "speaker": "John",
+        "text": "Thanks, Maria! It can be challenging, so I try to organize my time and make sure I'm there for the important things. It's all about finding that balance and making those moments count!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:21",
+        "speaker": "Maria",
+        "text": "Finding balance is crucial. Taking time for ourselves and the important people in our lives is vital. ",
+        "metadata": {
+          "img_url": [
+            "https://i.pinimg.com/originals/c8/d6/bc/c8d6bc6ad3b08172bdbc1665f3ed080b.jpg"
+          ],
+          "blip_caption": "a photo of a person walking on the beach with a surfboard",
+          "query": "sunset beach"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_19::chunk-0020",
+    "session_id": "session_19",
+    "observed_at": "2023-06-16T19:20:00",
+    "source_timestamp": "7:20 pm on 16 June, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D19:22",
+        "speaker": "John",
+        "text": "Yeah, Maria. Taking time off for ourselves and our fam is so important. It helps us stay connected and appreciate the simple things. That beach pic you shared reminded me of a special vacation we had to California- a gorgeous sunset and an awesome night strolling the shore, creating memories together. Do you have any special beach memories you'd like to share?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:23",
+        "speaker": "Maria",
+        "text": "Yeah, John! I have a picture from a vacation in Florida. The colors were amazing, and I had a feeling of gratitude just sitting there with my family. It's in moments like these we make the best memories, ya know?",
+        "metadata": {
+          "img_url": [
+            "https://live.staticflickr.com/3448/3279695354_16a66b5258_b.jpg"
+          ],
+          "blip_caption": "a photography of a sunset over a body of water with a bird flying in the distance",
+          "query": "beach sunset",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D19:24",
+        "speaker": "John",
+        "text": "Wow, Maria! That photo is so stunning. The colors there are so vivid - it must have been amazing! Trips like these are great - always full of amazing memories! Here's one from our vacation!",
+        "metadata": {
+          "img_url": [
+            "https://hips.hearstapps.com/hmg-prod/images/siblings-enjoying-in-sea-against-sky-royalty-free-image-1650652626.jpg"
+          ],
+          "blip_caption": "a photo of two children playing in the ocean waves",
+          "query": "beach vacation family"
+        }
+      },
+      {
+        "turn_id": "D19:25",
+        "speaker": "Maria",
+        "text": "Thanks, John. That picture is so cute! The kids look so happy splashing in the waves. It must have been such a joyful and carefree time!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:26",
+        "speaker": "John",
+        "text": "Yep, it was amazing. Enjoying these special family times is why life is great. Talk to you soon!",
+        "metadata": {
+          "blip_caption": "a photo of a football stadium with a lot of people"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_31::chunk-0020",
+    "session_id": "session_31",
+    "observed_at": "2023-08-13T15:14:00",
+    "source_timestamp": "3:14 pm on 13 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D31:21",
+        "speaker": "John",
+        "text": "Thanks, Maria! I'm off to spend some time with them now. Have a good day!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D31:22",
+        "speaker": "Maria",
+        "text": "Enjoy your family time, John! Have a great day!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D31:23",
+        "speaker": "John",
+        "text": "Thanks, Maria! You too! Stay safe!",
+        "metadata": {}
+      }
+    ]
+  }
+]

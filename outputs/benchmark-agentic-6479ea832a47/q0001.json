@@ -1,0 +1,12 @@
+{
+  "question_id": "conv-41::q0001",
+  "category": 2,
+  "question": "Who did Maria have dinner with on May 3, 2023?",
+  "gold_answer": "her mother",
+  "status": "scored",
+  "generated_answer": "Unknown",
+  "citations": [],
+  "query_elapsed_seconds": 11.442216042,
+  "label": "WRONG",
+  "judge_reason": "The generated answer does not provide the requested information and contradicts the reference answer."
+}

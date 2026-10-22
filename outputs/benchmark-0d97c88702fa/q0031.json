@@ -1,0 +1,21 @@
+{
+  "question_id": "conv-26::q0031",
+  "category": 3,
+  "question": "Would Melanie be considered a member of the LGBTQ community?",
+  "gold_answer": "Likely no, she does not refer to herself as part of it",
+  "status": "scored",
+  "generated_answer": "There is no standalone evidence indicating that Melanie is a member of the LGBTQ community, nor about her gender identity, views on being oneself, feelings about the LGBTQ+ community, or transition status. Melanie expresses support for LGBTQ+ people, such as encouraging Caroline about adoption inclusive of LGBTQ+ folks, but no direct statement of Melanie's own membership or identity is present.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_2::episode-002",
+      "turn_id": "D2:13"
+    },
+    {
+      "episode_id": "conv-26::session_2::episode-002",
+      "turn_id": "D2:12"
+    }
+  ],
+  "query_elapsed_seconds": 6.3599876250000005,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer provides a thorough analysis and confirms that there is no evidence indicating Melanie's membership in the LGBTQ community, aligning with the reference answer."
+}

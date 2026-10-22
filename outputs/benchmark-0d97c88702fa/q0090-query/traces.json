@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "748807db-d6aa-47f6-bc64-f3e02d57f063",
+    "response": {
+      "id": "chatcmpl-EbsA9nqiCO1KsquZ3g0V8Zi41K1NU",
+      "object": "chat.completion",
+      "created": 1792695045,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Melanie\",\"property\":\"attitude\",\"search\":\"Melanie's opinion or attitude about Caroline's decision to adopt\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2682,
+        "completion_tokens": 34,
+        "total_tokens": 2716,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6cab07b253"
+    },
+    "latency_seconds": 2.132066334
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "99dc1892-a2ae-421a-8f26-5a6998d93ede",
+    "response": {
+      "id": "chatcmpl-EbsABOyKo9Cqfp4QFAtTj5ZiRwR3v",
+      "object": "chat.completion",
+      "created": 1792695047,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Melanie is very supportive and positive about Caroline's decision to adopt. She wishes Caroline the best on her adoption journey, expresses happiness and pride for her, respects Caroline's strength and inspiring nature, and is glad Caroline is helping others with her experiences. Melanie's attitude is encouraging and caring throughout their conversations.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_13::episode-006\",\"turn_id\":\"D13:16\"},{\"episode_id\":\"conv-26::session_19::episode-001\",\"turn_id\":\"D19:2\"},{\"episode_id\":\"conv-26::session_19::episode-008\",\"turn_id\":\"D19:8\"},{\"episode_id\":\"conv-26::session_19::episode-004\",\"turn_id\":\"D19:12\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2856,
+        "completion_tokens": 166,
+        "total_tokens": 3022,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6a82cb19e8"
+    },
+    "latency_seconds": 2.1040264159999995
+  }
+]

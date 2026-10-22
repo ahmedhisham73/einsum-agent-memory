@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-30::q0040",
+  "category": 4,
+  "question": "What is Gina's favorite style of dance?",
+  "gold_answer": "Contemporary",
+  "status": "scored",
+  "generated_answer": "Gina's favorite style of dance is contemporary dance, described as expressive, graceful, and speaking to her.",
+  "citations": [
+    {
+      "episode_id": "conv-30::session_1::episode-002",
+      "turn_id": "D1:9"
+    }
+  ],
+  "query_elapsed_seconds": 4.291523292,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer accurately identifies Gina's favorite style of dance as contemporary and provides relevant descriptive context."
+}

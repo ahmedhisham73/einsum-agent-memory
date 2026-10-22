@@ -1,0 +1,29 @@
+{
+  "question_id": "conv-41::q0007",
+  "category": 1,
+  "question": "Where has Maria made friends?",
+  "gold_answer": "homeless shelter, gym, church",
+  "status": "scored",
+  "generated_answer": "Maria has made friends with some friends from church, as mentioned in her camping trip with them. She also values friendship highly, considering friends like John who share the same passion for community work and such. Her relationship with John is supportive and collaborative, and they share a friendship based on mutual respect and shared goals in community improvement.",
+  "citations": [
+    {
+      "episode_id": "conv-41::session_18::episode-001",
+      "turn_id": "D18:1"
+    },
+    {
+      "episode_id": "conv-41::session_23::episode-002",
+      "turn_id": "D23:6"
+    },
+    {
+      "episode_id": "conv-41::session_23::episode-002",
+      "turn_id": "D23:13"
+    },
+    {
+      "episode_id": "conv-41::session_29::episode-004",
+      "turn_id": "D29:17"
+    }
+  ],
+  "query_elapsed_seconds": 6.876089541,
+  "label": "WRONG",
+  "judge_reason": "The generated answer does not mention all the locations (homeless shelter, gym, church) where Maria has made friends as specified in the reference answer."
+}

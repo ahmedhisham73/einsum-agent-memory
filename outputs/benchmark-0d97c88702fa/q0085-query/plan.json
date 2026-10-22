@@ -1,0 +1,35 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Melanie",
+      "property": "attitude_toward_self_care",
+      "search": "Melanie's personal reflections or statements about self-care"
+    },
+    {
+      "entity": "Melanie",
+      "property": "activities",
+      "search": "activities Melanie engages in for self-care"
+    },
+    {
+      "entity": "Melanie",
+      "property": "daily_me_time_activities",
+      "search": "daily or regular activities Melanie sets aside for self-care"
+    },
+    {
+      "entity": "Melanie",
+      "property": "strategy",
+      "search": "any described strategies Melanie uses to prioritize self-care"
+    },
+    {
+      "entity": "Melanie",
+      "property": "values",
+      "search": "values Melanie holds that influence how she prioritizes self-care"
+    },
+    {
+      "entity": "Melanie",
+      "property": "effect_of_self_care",
+      "search": "effects or outcomes Melanie experiences from prioritizing self-care"
+    }
+  ]
+}

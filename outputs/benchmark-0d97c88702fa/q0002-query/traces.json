@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "42b9f47f-cc30-4e9d-ad27-dc18fd70132f",
+    "response": {
+      "id": "chatcmpl-Ebs6PuN03dtzwzx9153jeD0BC1lxg",
+      "object": "chat.completion",
+      "created": 1792694813,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Melanie\",\"property\":\"painting_activity\",\"search\":\"standalone evidence search\"},{\"entity\":\"Melanie\",\"property\":\"recent_artwork\",\"search\":\"standalone evidence search\"},{\"entity\":\"Melanie\",\"property\":\"art_creation_start_age\",\"search\":\"standalone evidence search\"},{\"entity\":\"Melanie\",\"property\":\"artwork_theme\",\"search\":\"sunrise standalone evidence search\"},{\"entity\":\"Melanie\",\"property\":\"artwork\",\"search\":\"sunrise standalone evidence search\"},{\"entity\":\"Melanie\",\"property\":\"created_artwork_type\",\"search\":\"standalone evidence search\"},{\"entity\":\"\",\"property\":\"date\",\"search\":\"Melanie painting a sunrise standalone evidence search\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2678,
+        "completion_tokens": 136,
+        "total_tokens": 2814,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_f9f464a132"
+    },
+    "latency_seconds": 2.378852708
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "f843e0d5-31b3-4410-bbca-671e7ae6a611",
+    "response": {
+      "id": "chatcmpl-Ebs6SNGyPa7N9tOiwfKXN9logppuW",
+      "object": "chat.completion",
+      "created": 1792694816,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Melanie painted a sunrise last year, specifically a lake sunrise painting mentioned in conversation on 8 May 2023.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_1::episode-004\",\"turn_id\":\"D1:14\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 8196,
+        "completion_tokens": 60,
+        "total_tokens": 8256,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6a82cb19e8"
+    },
+    "latency_seconds": 1.928564208
+  }
+]

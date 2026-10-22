@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0026",
+  "category": 2,
+  "question": "When did Caroline go to the LGBTQ conference?",
+  "gold_answer": "10 July 2023",
+  "status": "scored",
+  "generated_answer": "Caroline attended the LGBTQ conference two days before 12 July 2023, which would be on 10 July 2023.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_7::episode-001",
+      "turn_id": "D7:1"
+    }
+  ],
+  "query_elapsed_seconds": 5.577438333,
+  "label": "CORRECT",
+  "judge_reason": "Both answers indicate that Caroline went to the LGBTQ conference on 10 July 2023."
+}

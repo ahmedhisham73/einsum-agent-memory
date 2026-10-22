@@ -1,0 +1,292 @@
+[
+  {
+    "episode_id": "conv-41::session_15::chunk-0000",
+    "session_id": "session_15",
+    "observed_at": "2023-05-20T19:38:00",
+    "source_timestamp": "7:38 pm on 20 May, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D15:1",
+        "speaker": "John",
+        "text": "Hey Maria, how's it going? Been real busy tackling a project to support military veterans. Trying to get a petition going, it's pretty rewarding but kinda stressful. How are you?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:2",
+        "speaker": "Maria",
+        "text": "Hey John, I'm good. Sorry to hear it's been rough. How did you decide to take on that project?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:3",
+        "speaker": "John",
+        "text": "Hi Maria, thanks for asking. I've always been passionate about veterans and their rights. Last week, I realized again how much they've done for us and wanted to show my appreciation in some way. So, I worked on a project to support them. It's my way of giving back.",
+        "metadata": {
+          "blip_caption": "a photo of a parking lot with a flag and flowers"
+        }
+      },
+      {
+        "turn_id": "D15:4",
+        "speaker": "Maria",
+        "text": "Wow, John! What a kind gesture. It's really cool seeing you making a difference.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:5",
+        "speaker": "John",
+        "text": "Thanks, Maria. It sure has taken a lot of work, but I think it's worth it. Just want to let them know their hard work is appreciated.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:6",
+        "speaker": "Maria",
+        "text": "Wow, John, that's awesome! Your project is going to be great for them!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_15::chunk-0005",
+    "session_id": "session_15",
+    "observed_at": "2023-05-20T19:38:00",
+    "source_timestamp": "7:38 pm on 20 May, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D15:7",
+        "speaker": "John",
+        "text": "Yeah, I hope so. They've given so much and deserve our backing. I want to help make their lives better.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:8",
+        "speaker": "Maria",
+        "text": "That's great, John! It's awesome that you're doing that.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:9",
+        "speaker": "John",
+        "text": "I'm really passionate about making sure veterans are supported and valued in our community, so let's make it happen!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:10",
+        "speaker": "Maria",
+        "text": "Count me in, John! I'm in to help out with that. Let's make a difference together.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:11",
+        "speaker": "John",
+        "text": "Awesome, Maria! I knew you'd be on board. With your help, we can make a real impact. Thank you so much! Here's a pic from last Friday with some veterans who are really excited about this. Their support keeps me motivated.",
+        "metadata": {
+          "img_url": [
+            "https://cdn2.picryl.com/photo/2020/01/13/combat-veterans-associated-with-troops-first-foundation-06145f-1024.jpg"
+          ],
+          "blip_caption": "a photography of a man shaking hands with a soldier in uniform",
+          "query": "group of veterans smiling and shaking hands",
+          "re-download": true
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_15::chunk-0010",
+    "session_id": "session_15",
+    "observed_at": "2023-05-20T19:38:00",
+    "source_timestamp": "7:38 pm on 20 May, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D15:12",
+        "speaker": "Maria",
+        "text": "Wow, John, that looks great! What did you do to make them so happy?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:13",
+        "speaker": "John",
+        "text": "Thanks, Maria! We had a great time throwing a small party and inviting some veterans to share their stories. It was awesome seeing them make connections and find camaraderie. All the smiles and new friendships made it really heartwarming.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:14",
+        "speaker": "Maria",
+        "text": "Wow, John, that's really heartwarming! Stories and connections can truly make a difference.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:15",
+        "speaker": "John",
+        "text": "Yeah, Maria. It reminded me of that sense of community and togetherness. It made me realize how important it is to help veterans.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:16",
+        "speaker": "Maria",
+        "text": "Yeah John! It's great to see how your project is making a difference for them. The sense of community and support really matters. Keep doing what you're doing; I'm here to back you up!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_21::chunk-0020",
+    "session_id": "session_21",
+    "observed_at": "2023-07-03T20:43:00",
+    "source_timestamp": "8:43 pm on 3 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D21:21",
+        "speaker": "Maria",
+        "text": "Yeah, that's why I love volunteering! It makes me feel like I'm making a difference, even if it's a small one.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D21:22",
+        "speaker": "John",
+        "text": "Yeah, Maria, keep it up! Even small things can mean a lot. I just participated in a marching event for veterans' rights and it was awesome, made me remember how much they sacrifice for us. We need to show our support however we can.",
+        "metadata": {
+          "blip_caption": "a photo of a badge and a flag on a table"
+        }
+      },
+      {
+        "turn_id": "D21:23",
+        "speaker": "Maria",
+        "text": "Wow, John! What inspired you to join it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D21:24",
+        "speaker": "John",
+        "text": "I've always had a great respect for our military and wanted to show my support. I think it's important to stand up for what we believe in.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D21:25",
+        "speaker": "Maria",
+        "text": "Wow, John! It's great to see you standing up for your beliefs.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D21:26",
+        "speaker": "John",
+        "text": "Thanks Maria, it was amazing being around others who shared the same values and passion as me. It reminded me how important it is to try and make a difference through activism. It really motivated me.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_27::chunk-0010",
+    "session_id": "session_27",
+    "observed_at": "2023-08-03T18:20:00",
+    "source_timestamp": "6:20 pm on 3 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D27:11",
+        "speaker": "John",
+        "text": "They were awestruck and humbled.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D27:12",
+        "speaker": "Maria",
+        "text": "Imagining visiting a military memorial makes me feel humble too. It's important for younger generations to remember and appreciate those who served.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D27:13",
+        "speaker": "John",
+        "text": "Yeah, totally! Showing them how to respect and appreciate those who served our country is important. It was a moving experience for all of us.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D27:14",
+        "speaker": "Maria",
+        "text": "Yeah John, it's super important to teach kids about veterans and what they did for us. You're doing a great thing - we need more people like you!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D27:15",
+        "speaker": "John",
+        "text": "Thanks, Maria. Appreciate your support. It's amazing what teamwork can accomplish!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D27:16",
+        "speaker": "Maria",
+        "text": "Yeah, we can really get amazing stuff done together. We can do this!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_29::chunk-0000",
+    "session_id": "session_29",
+    "observed_at": "2023-08-09T20:06:00",
+    "source_timestamp": "8:06 pm on 9 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D29:1",
+        "speaker": "Maria",
+        "text": "Hey John, what's been going on? I just wanted to check in. Last week was wild - I volunteered at the homeless shelter and they gave me a medal! It was humbling and I'm really glad I could help.",
+        "metadata": {
+          "img_url": [
+            "https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvZnJ3aW5uZXJfZ29sZF9wcm9maXRfYXdhcmQtaW1hZ2Uta3liY2R6bjguanBn.jpg"
+          ],
+          "blip_caption": "a photography of a medal hanging from a tree with a ribbon",
+          "query": "handmade medal volunteer homeless shelter dedication difference",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D29:2",
+        "speaker": "John",
+        "text": "Hey Maria! Congrats on the recognition! It's really touching to see how much you're doing to help out. Last weekend, I participated in a community event to raise money for a good cause. We got a great turnout and it was amazing to be surrounded by so many supportive people.",
+        "metadata": {
+          "img_url": [
+            "https://www.rockawave.com/wp-content/uploads/2017/08/1-Family-Run-Remembers-Eileen-Lavin.jpg"
+          ],
+          "blip_caption": "a photo of a young girl holding a sign in her hands",
+          "query": "family community event 5k charity run military veterans patriotic individuals"
+        }
+      },
+      {
+        "turn_id": "D29:3",
+        "speaker": "Maria",
+        "text": "John, that sounds inspiring! Community events like that are always amazing. This pic is heartwarming, that little girl has such a cute smile. What was the event all about?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D29:4",
+        "speaker": "John",
+        "text": "I set up a 5K charity run in our neighborhood. It was all for a good cause - to help out veterans and their families. We were able to raise some funds! Here's a pic from the day.",
+        "metadata": {
+          "img_url": [
+            "https://runningfabulouslyblog.files.wordpress.com/2018/09/img_3190.jpg"
+          ],
+          "blip_caption": "a photo of a group of people posing for a picture",
+          "query": "5k charity run group of people running cheering"
+        }
+      },
+      {
+        "turn_id": "D29:5",
+        "speaker": "Maria",
+        "text": "John, that's awesome! That is such an important cause. It's an honor to know someone like you who takes initiative. The photo you shared is so powerful! Could you tell me more about how you organized the run?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D29:6",
+        "speaker": "John",
+        "text": "Thanks, Maria! It means a lot to me. It was hard work - getting sponsors, coordinating with the city, and spreading the word. But seeing everyone come together to support our veterans made it worth it.",
+        "metadata": {
+          "blip_caption": "a photo of a map of the streets of downtown"
+        }
+      }
+    ]
+  }
+]

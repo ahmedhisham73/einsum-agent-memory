@@ -1,0 +1,37 @@
+{
+  "question_id": "conv-41::q0066",
+  "category": 4,
+  "question": "What is John's main focus in local politics?",
+  "gold_answer": "Improving education and infrastructure",
+  "status": "scored",
+  "generated_answer": "John's main focus in local politics is improving education and infrastructure in the community.",
+  "citations": [
+    {
+      "episode_id": "conv-41::session_1::chunk-0005",
+      "turn_id": "D1:8"
+    },
+    {
+      "episode_id": "conv-41::session_1::chunk-0010",
+      "turn_id": "D1:12"
+    },
+    {
+      "episode_id": "conv-41::session_4::chunk-0010",
+      "turn_id": "D4:16"
+    },
+    {
+      "episode_id": "conv-41::session_9::chunk-0005",
+      "turn_id": "D9:8"
+    },
+    {
+      "episode_id": "conv-41::session_12::chunk-0000",
+      "turn_id": "D12:1"
+    },
+    {
+      "episode_id": "conv-41::session_12::chunk-0000",
+      "turn_id": "D12:5"
+    }
+  ],
+  "query_elapsed_seconds": 8.220337459,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer accurately reflects the main focus stated in the reference answer."
+}

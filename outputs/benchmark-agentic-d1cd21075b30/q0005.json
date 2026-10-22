@@ -1,0 +1,29 @@
+{
+  "question_id": "conv-30::q0005",
+  "category": 4,
+  "question": "Why did Jon decide to start his dance studio?",
+  "gold_answer": "He lost his job and decided to start his own business to share his passion.",
+  "status": "scored",
+  "generated_answer": "Jon decided to start his dance studio because dancing has been his passion and escape since he was a kid, and he wants to teach others the joy that dancing brings him. Losing his job was tough but gave him the push he needed to do what he loves, making his dream a reality by creating a place for people to dance, express themselves, and share happiness.",
+  "citations": [
+    {
+      "episode_id": "conv-30::session_1::chunk-0005",
+      "turn_id": "D1:6"
+    },
+    {
+      "episode_id": "conv-30::session_9::chunk-0000",
+      "turn_id": "D9:3"
+    },
+    {
+      "episode_id": "conv-30::session_9::chunk-0000",
+      "turn_id": "D9:5"
+    },
+    {
+      "episode_id": "conv-30::session_11::chunk-0005",
+      "turn_id": "D11:11"
+    }
+  ],
+  "query_elapsed_seconds": 6.068545917,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer accurately captures Jon's motivation to start the dance studio, explaining both his passion for dance and the impetus provided by losing his job."
+}

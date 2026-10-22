@@ -1,0 +1,21 @@
+[
+  {
+    "query": "Jon lost his job as a banker",
+    "returned_chunk_ids": [
+      "conv-30::session_12::chunk-0000",
+      "conv-30::session_16::chunk-0005",
+      "conv-30::session_17::chunk-0000",
+      "conv-30::session_18::chunk-0000",
+      "conv-30::session_1::chunk-0000",
+      "conv-30::session_6::chunk-0010"
+    ],
+    "cumulative_chunk_ids": [
+      "conv-30::session_12::chunk-0000",
+      "conv-30::session_16::chunk-0005",
+      "conv-30::session_17::chunk-0000",
+      "conv-30::session_18::chunk-0000",
+      "conv-30::session_1::chunk-0000",
+      "conv-30::session_6::chunk-0010"
+    ]
+  }
+]

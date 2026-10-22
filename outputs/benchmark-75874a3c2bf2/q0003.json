@@ -1,0 +1,33 @@
+{
+  "question_id": "conv-30::q0003",
+  "category": 4,
+  "question": "How do Jon and Gina both like to destress?",
+  "gold_answer": "by dancing",
+  "status": "scored",
+  "generated_answer": "Both Jon and Gina like to destress by dancing. Jon has been passionate about dancing since childhood and finds dance to be a stress-buster and a way to focus and stay motivated. Gina similarly treats dance as her go-to for stress relief, saying it makes her worries vanish and is essential for her mental health.",
+  "citations": [
+    {
+      "episode_id": "conv-30::session_1::episode-002",
+      "turn_id": "D1:6"
+    },
+    {
+      "episode_id": "conv-30::session_1::episode-002",
+      "turn_id": "D1:7"
+    },
+    {
+      "episode_id": "conv-30::session_11::episode-001",
+      "turn_id": "D11:5"
+    },
+    {
+      "episode_id": "conv-30::session_11::episode-001",
+      "turn_id": "D11:6"
+    },
+    {
+      "episode_id": "conv-30::session_11::episode-001",
+      "turn_id": "D11:7"
+    }
+  ],
+  "query_elapsed_seconds": 5.473600708,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer accurately states that both Jon and Gina like to destress by dancing, providing additional supportive context without contradicting the reference answer."
+}

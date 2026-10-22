@@ -1,0 +1,22 @@
+{
+  "status": "completed",
+  "experiment_id": "q0001-query",
+  "memory_build": "offline-memory-622a0d5cec62",
+  "baseline_build": "agentic-build-736fe53c3604",
+  "question": "Who did Maria have dinner with on May 3, 2023?",
+  "answer": "Unknown",
+  "sufficient": false,
+  "citations": [],
+  "elapsed_seconds": 11.442216042,
+  "stop_reason": "agent_ready",
+  "search_count": 2,
+  "selected_chunks": 9,
+  "unique_source_turns": 40,
+  "implementation": {
+    "chunk_turns": 6,
+    "overlap_turns": 1,
+    "top_k_per_search": 6,
+    "max_searches": 4,
+    "max_agent_decisions": 5
+  }
+}

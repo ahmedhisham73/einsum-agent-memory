@@ -1,0 +1,21 @@
+{
+  "status": "completed",
+  "experiment_id": "q0034-query",
+  "memory_build": "offline-memory-a5e48166f56e",
+  "embedding_fingerprint": "264e45d8331b217a87fc15e35db2c614b32e9c572d0bbb53fe9bcc90dda3a8a6",
+  "question": "When did Caroline go to a pride parade during the summer?",
+  "answer": "Caroline went to an LGBTQ+ pride parade \"last week\" as mentioned in the conversation observed at 1:36 pm on July 3, 2023. This places her attendance during the summer (early July).",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-26::session_5::episode-001",
+      "turn_id": "D5:1"
+    }
+  ],
+  "elapsed_seconds": 3.967614375,
+  "implementation": {
+    "structured_matching": "literal entity / property-token overlap",
+    "all_matching": "all episodes; no optimized exhaustive retrieval",
+    "coverage": "answer-model sufficiency check with expansion"
+  }
+}

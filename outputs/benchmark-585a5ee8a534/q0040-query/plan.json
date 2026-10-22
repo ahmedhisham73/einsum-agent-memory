@@ -1,0 +1,15 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Maria",
+      "property": "involved_in_accident",
+      "search": "evidence of car accident involving Maria"
+    },
+    {
+      "entity": "Maria",
+      "property": "time",
+      "search": "date or holiday around time of Maria's car accident"
+    }
+  ]
+}

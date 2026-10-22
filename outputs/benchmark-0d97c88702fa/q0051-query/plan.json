@@ -1,0 +1,40 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Caroline",
+      "property": "values",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Caroline",
+      "property": "belief",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Caroline",
+      "property": "attitude_towards_community",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Caroline",
+      "property": "supports",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Caroline",
+      "property": "advocacy_focus",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Caroline",
+      "property": "views_helping_others",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Caroline",
+      "property": "views_being_oneself",
+      "search": "standalone evidence search"
+    }
+  ]
+}

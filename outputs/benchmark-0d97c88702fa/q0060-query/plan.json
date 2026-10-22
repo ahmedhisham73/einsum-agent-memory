@@ -1,0 +1,30 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Caroline",
+      "property": "belief",
+      "search": "Caroline's religious belief or affiliation"
+    },
+    {
+      "entity": "Caroline",
+      "property": "values",
+      "search": "Caroline's values related to religion or spirituality"
+    },
+    {
+      "entity": "Caroline",
+      "property": "attitude",
+      "search": "Caroline's attitude towards religion or spirituality"
+    },
+    {
+      "entity": "Caroline",
+      "property": "activities",
+      "search": "Caroline's participation in religious or spiritual activities"
+    },
+    {
+      "entity": "Caroline",
+      "property": "community_support",
+      "search": "Caroline's involvement in religious communities or groups"
+    }
+  ]
+}

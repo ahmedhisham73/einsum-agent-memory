@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-26::q0065",
+  "category": 3,
+  "question": "Would Melanie likely enjoy the song \"The Four Seasons\" by Vivaldi?",
+  "gold_answer": "Yes; it's classical music",
+  "status": "failed",
+  "error": "Query failed. See q0065.log"
+}

@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "7a5327e8-2f29-43cc-98ec-f6d42cfcf13f",
+    "response": {
+      "id": "chatcmpl-EbsAFloQ9ykPaAyShoDLXNuXHqX0B",
+      "object": "chat.completion",
+      "created": 1792695051,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"all_matching\",\"requirements\":[{\"entity\":\"Melanie\",\"property\":\"read_book\",\"search\":\"identify every book Melanie has read from all available sources\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2677,
+        "completion_tokens": 33,
+        "total_tokens": 2710,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6cab07b253"
+    },
+    "latency_seconds": 1.8425118749999998
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "dd5062f0-2ede-43eb-96c7-5765c507ceed",
+    "response": {
+      "id": "chatcmpl-EbsAI4hMUMSsrcvNwIVIcaZhWnSIU",
+      "object": "chat.completion",
+      "created": 1792695054,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Melanie has read \\\"Charlotte's Web.\\\"\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_6::episode-004\",\"turn_id\":\"D6:10\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 36945,
+        "completion_tokens": 46,
+        "total_tokens": 36991,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6a82cb19e8"
+    },
+    "latency_seconds": 2.983252084
+  }
+]

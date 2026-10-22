@@ -1,0 +1,21 @@
+[
+  {
+    "query": "John martial arts",
+    "returned_chunk_ids": [
+      "conv-41::session_10::chunk-0000",
+      "conv-41::session_13::chunk-0000",
+      "conv-41::session_1::chunk-0000",
+      "conv-41::session_25::chunk-0005",
+      "conv-41::session_25::chunk-0010",
+      "conv-41::session_25::chunk-0015"
+    ],
+    "cumulative_chunk_ids": [
+      "conv-41::session_10::chunk-0000",
+      "conv-41::session_13::chunk-0000",
+      "conv-41::session_1::chunk-0000",
+      "conv-41::session_25::chunk-0005",
+      "conv-41::session_25::chunk-0010",
+      "conv-41::session_25::chunk-0015"
+    ]
+  }
+]

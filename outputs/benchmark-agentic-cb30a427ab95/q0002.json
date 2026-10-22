@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-41::q0002",
+  "category": 2,
+  "question": "When did Maria donate her car?",
+  "gold_answer": "21 December 2022",
+  "status": "scored",
+  "generated_answer": "There is no information in the provided conversations about Maria donating her car.",
+  "citations": [
+    {
+      "episode_id": "conv-41::session_21::chunk-0000",
+      "turn_id": "D21:3"
+    }
+  ],
+  "query_elapsed_seconds": 7.322807624999999,
+  "label": "WRONG",
+  "judge_reason": "The generated answer does not provide the specific date of the donation as requested; it asserts a lack of information instead."
+}

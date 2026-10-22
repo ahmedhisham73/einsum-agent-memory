@@ -1,0 +1,30 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Maria",
+      "property": "activities",
+      "search": "Maria beach visit"
+    },
+    {
+      "entity": "Maria",
+      "property": "activity_last_weekend",
+      "search": "Maria beach visit"
+    },
+    {
+      "entity": "Maria",
+      "property": "activity_started",
+      "search": "Maria beach visit time"
+    },
+    {
+      "entity": "Maria",
+      "property": "visited_place",
+      "search": "Maria beach"
+    },
+    {
+      "entity": "Maria",
+      "property": "activity_participation",
+      "search": "Maria beach visit date"
+    }
+  ]
+}

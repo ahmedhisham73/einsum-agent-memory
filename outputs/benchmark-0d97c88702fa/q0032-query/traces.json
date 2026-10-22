@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "245bbedb-60e6-457b-9113-49daf46a5be2",
+    "response": {
+      "id": "chatcmpl-EbsEOOGXDeiLY5Bp7E2JlvCCrzvGm",
+      "object": "chat.completion",
+      "created": 1792695308,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Melanie\",\"property\":\"action\",\"search\":\"Melanie camping in June date\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2679,
+        "completion_tokens": 27,
+        "total_tokens": 2706,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_f9f464a132"
+    },
+    "latency_seconds": 1.7540664169999998
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "fd329026-7b0b-4e63-be67-d376fe68e3a7",
+    "response": {
+      "id": "chatcmpl-EbsERRp2MymhdsOXxB7G5Lbq3YhKo",
+      "object": "chat.completion",
+      "created": 1792695311,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Melanie went camping in the mountains last week prior to 27 June 2023, which places the camping trip in mid to late June 2023.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_4::episode-002\",\"turn_id\":\"D4:6\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2288,
+        "completion_tokens": 68,
+        "total_tokens": 2356,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6a82cb19e8"
+    },
+    "latency_seconds": 2.1085165420000003
+  }
+]

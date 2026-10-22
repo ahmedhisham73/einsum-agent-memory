@@ -1,0 +1,40 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Melanie",
+      "property": "painting_activity",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Melanie",
+      "property": "recent_artwork",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Melanie",
+      "property": "art_creation_start_age",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Melanie",
+      "property": "artwork_theme",
+      "search": "sunrise standalone evidence search"
+    },
+    {
+      "entity": "Melanie",
+      "property": "artwork",
+      "search": "sunrise standalone evidence search"
+    },
+    {
+      "entity": "Melanie",
+      "property": "created_artwork_type",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "",
+      "property": "date",
+      "search": "Melanie painting a sunrise standalone evidence search"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "John",
+      "property": "had_childhood_possession",
+      "search": "evidence of items John mentioned having as a child"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+Embedding records 1-32/482
+Embedding records 33-64/482
+Embedding records 65-96/482
+Embedding records 97-128/482
+Embedding records 129-160/482
+Embedding records 161-192/482
+Embedding records 193-224/482
+Embedding records 225-256/482
+Embedding records 257-288/482
+Embedding records 289-320/482
+Embedding records 321-352/482
+Embedding records 353-384/482
+Embedding records 385-416/482
+Embedding records 417-448/482
+Embedding records 449-480/482
+Embedding records 481-482/482
+Embeddings ready: 482
+Qdrant records: 482
+Planning question...
+Answering from 34 source episodes...
+
+/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Traceback (most recent call last):
+  File "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/scripts/run_memory_experiment.py", line 520, in <module>
+    main()
+  File "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/scripts/run_memory_experiment.py", line 463, in main
+    raise ValueError("Citation outside supplied evidence")
+ValueError: Citation outside supplied evidence

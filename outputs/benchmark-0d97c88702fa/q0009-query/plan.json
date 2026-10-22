@@ -1,0 +1,10 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Caroline",
+      "property": "gave_talk_event",
+      "search": "Caroline speech school"
+    }
+  ]
+}

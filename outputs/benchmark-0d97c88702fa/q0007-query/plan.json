@@ -1,0 +1,20 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Melanie",
+      "property": "plans",
+      "search": "Melanie camping plans"
+    },
+    {
+      "entity": "Melanie",
+      "property": "planned_activity",
+      "search": "Melanie camping timing"
+    },
+    {
+      "entity": "Melanie",
+      "property": "future_plans_summer",
+      "search": "Melanie summer plans including camping"
+    }
+  ]
+}

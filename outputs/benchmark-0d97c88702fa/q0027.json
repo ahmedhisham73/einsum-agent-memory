@@ -1,0 +1,25 @@
+{
+  "question_id": "conv-26::q0027",
+  "category": 2,
+  "question": "When did Melanie read the book \"nothing is impossible\"?",
+  "gold_answer": 2022,
+  "status": "scored",
+  "generated_answer": "Melanie does not mention reading the book 'nothing is impossible' in any of the provided conversation episodes.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_3::episode-001",
+      "turn_id": "D3:2"
+    },
+    {
+      "episode_id": "conv-26::session_6::episode-003",
+      "turn_id": "D6:10"
+    },
+    {
+      "episode_id": "conv-26::session_7::episode-002",
+      "turn_id": "D7:8"
+    }
+  ],
+  "query_elapsed_seconds": 5.166560084,
+  "label": "WRONG",
+  "judge_reason": "The generated answer does not provide the date 2022 as requested and fails to address the question directly."
+}

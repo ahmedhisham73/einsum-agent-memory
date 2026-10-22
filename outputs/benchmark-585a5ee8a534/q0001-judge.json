@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-EbsMRgOO792KhMb8319wmZlM71vSC",
+  "object": "chat.completion",
+  "created": 1792695807,
+  "model": "gpt-4o-mini-2024-07-18",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\"label\":\"CORRECT\",\"reason\":\"The generated answer provides the same information as the reference answer, using 'mom' as a synonym for 'mother'.\"}",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 154,
+    "completion_tokens": 33,
+    "total_tokens": 187,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_9fdb32c1c4"
+}

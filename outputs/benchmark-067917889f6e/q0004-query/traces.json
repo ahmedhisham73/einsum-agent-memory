@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "deef26ac-4bb1-447e-82e8-bdb33649d2a4",
+    "response": {
+      "id": "chatcmpl-EbsG2ACOffGmD5XhfyBjTu5BFjTDP",
+      "object": "chat.completion",
+      "created": 1792695410,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Jon\",\"property\":\"values_social_support_from\",\"search\":\"search for statements about Jon's social support values\"},{\"entity\":\"Gina\",\"property\":\"values_social_support_from\",\"search\":\"search for statements about Gina's social support values\"},{\"entity\":\"Jon\",\"property\":\"belief\",\"search\":\"search for Jon's beliefs relevant to shared traits or goals\"},{\"entity\":\"Gina\",\"property\":\"belief\",\"search\":\"search for Gina's beliefs relevant to shared traits or goals\"},{\"entity\":\"Jon\",\"property\":\"attitude_towards_goal\",\"search\":\"search for Jon's attitude towards goals or ambitions\"},{\"entity\":\"Gina\",\"property\":\"attitude_towards_goal\",\"search\":\"search for Gina's attitude towards goals or ambitions\"},{\"entity\":\"Jon\",\"property\":\"activities\",\"search\":\"search for activities Jon participates in or values\"},{\"entity\":\"Gina\",\"property\":\"activities\",\"search\":\"search for activities Gina participates in or values\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2189,
+        "completion_tokens": 191,
+        "total_tokens": 2380,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6cab07b253"
+    },
+    "latency_seconds": 2.2196034169999983
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "14251e2f-3c70-4ee4-91e3-31fc689e16ba",
+    "response": {
+      "id": "chatcmpl-EbsG7UJjlIFI02EpCQeK8R7kfHj8b",
+      "object": "chat.completion",
+      "created": 1792695415,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Jon and Gina both highly value social support from each other, sharing encouragement and motivation to keep pursuing their goals. They are both passionate about dance and have experienced competing and performing; Jon organizes and runs a dance studio, while Gina participated in dance competitions when younger. They share beliefs in perseverance, hard work, and the importance of believing in oneself to reach success. Both are engaged in entrepreneurial activities with Jon running a dance studio business and Gina managing an online clothing store. They encourage and support each other through challenges, celebrate accomplishments, and collaborate on related activities like marketing and social media for Jon's dance studio. Essentially, they share a close supportive friendship centered on dance passion and entrepreneurship, with mutual encouragement and shared values about perseverance and dreams.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-30::session_1::episode-004\",\"turn_id\":\"D1:16\"},{\"episode_id\":\"conv-30::session_1::episode-004\",\"turn_id\":\"D1:17\"},{\"episode_id\":\"conv-30::session_2::episode-004\",\"turn_id\":\"D2:11\"},{\"episode_id\":\"conv-30::session_2::episode-004\",\"turn_id\":\"D2:12\"},{\"episode_id\":\"conv-30::session_3::episode-003\",\"turn_id\":\"D3:10\"},{\"episode_id\":\"conv-30::session_3::episode-003\",\"turn_id\":\"D3:11\"},{\"episode_id\":\"conv-30::session_4::episode-001\",\"turn_id\":\"D4:5\"},{\"episode_id\":\"conv-30::session_4::episode-001\",\"turn_id\":\"D4:6\"},{\"episode_id\":\"conv-30::session_5::episode-006\",\"turn_id\":\"D5:18\"},{\"episode_id\":\"conv-30::session_7::episode-003\",\"turn_id\":\"D7:8\"},{\"episode_id\":\"conv-30::session_7::episode-003\",\"turn_id\":\"D7:9\"},{\"episode_id\":\"conv-30::session_10::episode-002\",\"turn_id\":\"D10:6\"},{\"episode_id\":\"conv-30::session_10::episode-004\",\"turn_id\":\"D10:12\"},{\"episode_id\":\"conv-30::session_10::episode-004\",\"turn_id\":\"D10:13\"},{\"episode_id\":\"conv-30::session_17::episode-001\",\"turn_id\":\"D17:7\"},{\"episode_id\":\"conv-30::session_17::episode-002\",\"turn_id\":\"D17:10\"},{\"episode_id\":\"conv-30::session_17::episode-002\",\"turn_id\":\"D17:16\"},{\"episode_id\":\"conv-30::session_18::episode-003\",\"turn_id\":\"D18:13\"},{\"episode_id\":\"conv-30::session_18::episode-005\",\"turn_id\":\"D18:18\"},{\"episode_id\":\"conv-30::session_18::episode-005\",\"turn_id\":\"D18:19\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 13262,
+        "completion_tokens": 620,
+        "total_tokens": 13882,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6a82cb19e8"
+    },
+    "latency_seconds": 6.6683207499999995
+  }
+]

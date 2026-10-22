@@ -1,0 +1,37 @@
+{
+  "status": "completed",
+  "experiment_id": "q0038-query",
+  "memory_build": "offline-memory-a5e48166f56e",
+  "embedding_fingerprint": "264e45d8331b217a87fc15e35db2c614b32e9c572d0bbb53fe9bcc90dda3a8a6",
+  "question": "What did Melanie paint recently?",
+  "answer": "Recently, Melanie painted several works including a nature-inspired painting of a sunset with a palm tree (conversation conv-26::session_8::episode-001, turn D8:6), a horse painting on a wooden wall (conv-26::session_13::episode-003, turn D13:8), a painting of a sunflower on canvas (conv-26::session_14::episode-008, turn D14:30), and a calming sunset painting with a pink sky from last week (conv-26::session_17::episode-002, turn D17:12). She also completed an abstract painting with vibrant blue colors to convey tranquility (conv-26::session_17::episode-002, turn D17:14).",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-26::session_8::episode-001",
+      "turn_id": "D8:6"
+    },
+    {
+      "episode_id": "conv-26::session_13::episode-003",
+      "turn_id": "D13:8"
+    },
+    {
+      "episode_id": "conv-26::session_14::episode-008",
+      "turn_id": "D14:30"
+    },
+    {
+      "episode_id": "conv-26::session_17::episode-002",
+      "turn_id": "D17:12"
+    },
+    {
+      "episode_id": "conv-26::session_17::episode-002",
+      "turn_id": "D17:14"
+    }
+  ],
+  "elapsed_seconds": 5.99730875,
+  "implementation": {
+    "structured_matching": "literal entity / property-token overlap",
+    "all_matching": "all episodes; no optimized exhaustive retrieval",
+    "coverage": "answer-model sufficiency check with expansion"
+  }
+}

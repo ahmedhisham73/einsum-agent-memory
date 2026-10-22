@@ -1,0 +1,344 @@
+[
+  {
+    "episode_id": "conv-30::session_2::episode-001",
+    "conversation_id": "conv-30",
+    "session_id": "session_2",
+    "observed_at": "2023-01-29T14:32:00",
+    "source_timestamp": "2:32 pm on 29 January, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Gina's clothing store launch and catching up",
+    "turns": [
+      {
+        "turn_id": "D2:1",
+        "speaker": "Gina",
+        "text": "Hey Jon! Long time no see! Things have been hectic lately. I just launched an ad campaign for my clothing store in hopes of growing the business. Starting my own store and taking risks is both scary and rewarding. I'm excited to see where it takes me!",
+        "metadata": {
+          "blip_caption": "a photo of a clothing store with a variety of clothes on display",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D2:2",
+        "speaker": "Jon",
+        "text": "Hey Gina! Whoa, your store looks great! All your hard work really paid off - congrats! Must be awesome to see your stuff on display.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:3",
+        "speaker": "Gina",
+        "text": "Thanks a bunch! It's awesome seeing my vision happen. How's the dance studio going? Did you find the right spot?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_3::episode-001",
+    "conversation_id": "conv-30",
+    "session_id": "session_3",
+    "observed_at": "2023-02-01T00:48:00",
+    "source_timestamp": "12:48 am on 1 February, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Jon shares update about dance studio search; Gina responds with news about expanding her clothing store",
+    "turns": [
+      {
+        "turn_id": "D3:1",
+        "speaker": "Jon",
+        "text": "Hey Gina, hope you're doing ok! Still following my passion for dance. It's been bumpy, but I'm determined to make it work. I'm still searching for a place to open my dance studio.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:2",
+        "speaker": "Gina",
+        "text": "Hi Jon! So happy you're pushing forward with dancing! Inspiring 💪 I emailed some wholesalers and one replied and said yes today! I'm over the moon because now I can expand my clothing store and get closer to my customers. Check it out - here's a pic!",
+        "metadata": {
+          "img_url": [
+            "https://s0.geograph.org.uk/photos/44/02/440245_a865f9d5.jpg"
+          ],
+          "re-download": true,
+          "blip_caption": "a photography of a shopping mall with a glass entrance and a sign"
+        }
+      },
+      {
+        "turn_id": "D3:3",
+        "speaker": "Jon",
+        "text": "Wow, Gina! You found the perfect spot for your store. Way to go, hard work's paying off!",
+        "metadata": {
+          "blip_caption": "a photo of a room with a mirror and a wooden floor"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_3::episode-002",
+    "conversation_id": "conv-30",
+    "session_id": "session_3",
+    "observed_at": "2023-02-01T00:48:00",
+    "source_timestamp": "12:48 am on 1 February, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Gina describes the design and atmosphere of her new clothing store",
+    "turns": [
+      {
+        "turn_id": "D3:4",
+        "speaker": "Gina",
+        "text": "Thanks! Glad you like it. Yeah, it's a great spot. Here's a peek at the space I designed. Cozy and inviting - perfect for customers to check out all the trendy pieces.",
+        "metadata": {
+          "img_url": [
+            "https://live.staticflickr.com/610/23124623885_9aab7b3e2e_b.jpg"
+          ],
+          "blip_caption": "a photography of a clothing store with a lot of clothes on display",
+          "query": "inside of store cozy inviting atmosphere trendy pieces",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D3:5",
+        "speaker": "Jon",
+        "text": "Wow, it looks great! Must've taken you ages to design it. What made you pick out the furniture and decor?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:6",
+        "speaker": "Gina",
+        "text": "Thanks! It took a bit of time but I wanted to make the place look like my own style and make my customers feel cozy. I chose furniture that looks great and is comfy too. The chandelier adds a nice glam feel while matching the style of the store.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:7",
+        "speaker": "Jon",
+        "text": "Your store looks great - your customers will be so comfy.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:8",
+        "speaker": "Gina",
+        "text": "Thanks! Making my spot comfortable and inviting for my customers is key. I want 'em to feel like they're in a cool oasis. Just creating an experience that'll make 'em wanna come back.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_6::episode-002",
+    "conversation_id": "conv-30",
+    "session_id": "session_6",
+    "observed_at": "2023-03-16T14:35:00",
+    "source_timestamp": "2:35 pm on 16 March, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Gina's new online clothing store launch and inspiration",
+    "turns": [
+      {
+        "turn_id": "D6:5",
+        "speaker": "Jon",
+        "text": "Wow, that's awesome! Can't wait to hear it!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:6",
+        "speaker": "Gina",
+        "text": "Yay! My online clothes store is open! I've been dreaming of this for a while now - can't wait to see what happens!",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/i9k97vw6pgs51.jpg"
+          ],
+          "blip_caption": "a photo of a computer screen showing a book and a pair of shoes",
+          "query": "online clothing store website screenshot"
+        }
+      },
+      {
+        "turn_id": "D6:7",
+        "speaker": "Jon",
+        "text": "Congrats! That's awesome! What gave you the idea to start the online store?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:8",
+        "speaker": "Gina",
+        "text": "Thanks! I'm passionate about fashion trends and finding unique pieces. Plus, I wanted to blend my love for dance and fashion, so it was a perfect match.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:9",
+        "speaker": "Jon",
+        "text": "Wow, that's awesome! Combining your two interests into a store is super cool. Best of luck with it!",
+        "metadata": {
+          "blip_caption": "a photo of three young girls standing next to each other with trophies"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_8::episode-004",
+    "conversation_id": "conv-30",
+    "session_id": "session_8",
+    "observed_at": "2023-04-03T13:26:00",
+    "source_timestamp": "1:26 pm on 3 April, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Gina and Jon discuss plans to expand their customer bases and dance studio presence",
+    "turns": [
+      {
+        "turn_id": "D8:11",
+        "speaker": "Jon",
+        "text": "Sounds like all your effort's paying off. Anything planned to grow your customer base?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:12",
+        "speaker": "Gina",
+        "text": "Yeah, I have a few plans. I'm thinking of working with some fashion bloggers and influencers in the next few months to get more attention for my store. Plus, I'm going to do more ads so I can reach more people. I'm really focused on building my customer base and making my store a top destination for fashion fans. It's awesome to see it all coming together! You, Jon? What do you have going for your dance studio?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:13",
+        "speaker": "Jon",
+        "text": "Thanks, Gina! I'm expanding my dance studio's social media presence and offering workshops and classes to local schools and centers. I'm also hosting a dance competition next month to showcase local talent and bring more attention to my studio. All the work's paying off - I'm seeing progress and the dancers are so excited. It's such a great feeling to give a place where people can express themselves through dance!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_10::episode-001",
+    "conversation_id": "conv-30",
+    "session_id": "session_10",
+    "observed_at": "2023-04-25T11:24:00",
+    "source_timestamp": "11:24 am on 25 April, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Sharing updates on new business ventures and personal challenges",
+    "turns": [
+      {
+        "turn_id": "D10:1",
+        "speaker": "Jon",
+        "text": "Hi Gina! I just wanted to fill you in on my business. Yesterday, I went to a fair to show off my studio, it was both stressful and great! I got some possible leads, so that was awesome. But overall, I've learned that this biz is no cakewalk and having confidence in yourself is important for making it successful!",
+        "metadata": {
+          "img_url": [
+            "https://www.samfsn.org/images/samsfn-events/WNYD2.jpg"
+          ],
+          "blip_caption": "a photo of a group of women performing a dance on a stage",
+          "query": "fair booth flyers brochures dance studio"
+        }
+      },
+      {
+        "turn_id": "D10:2",
+        "speaker": "Gina",
+        "text": "Hey Jon, congrats on the fair! It's awesome to see your hard work paying off. Keep on pushing, pal, you're headed for greatness. Oh, and BTW, I started my own online clothing store not so long ago - pretty cool, huh?",
+        "metadata": {
+          "img_url": [
+            "https://images.squarespace-cdn.com/content/v1/5ad8eb7f506fbec1f61b54ea/1539686276776-HPK5GWLCBQ0MHE5GSE6S/web_homepage_mock.jpg"
+          ],
+          "blip_caption": "a photography of a laptop with a sale ad on the screen",
+          "query": "clothing store website",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D10:3",
+        "speaker": "Jon",
+        "text": "Thanks, Gina! Appreciate your support. Your store looks great, I remember it!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:4",
+        "speaker": "Gina",
+        "text": "Thanks, Jon! After losing my job, I wanted to take control of my own destiny and this seemed like the perfect way to do it. It's been a tough journey, but very rewarding.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_14::episode-003",
+    "conversation_id": "conv-30",
+    "session_id": "session_14",
+    "observed_at": "2023-06-16T21:38:00",
+    "source_timestamp": "9:38 pm on 16 June, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Discussion about entrepreneurship; Gina shares her journey and advice for starting a business",
+    "turns": [
+      {
+        "turn_id": "D14:7",
+        "speaker": "Jon",
+        "text": "Your help really helps. Hey, have you thought about being an entrepreneur?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:8",
+        "speaker": "Gina",
+        "text": "Ha, yeah, Jon. I've been one 'cause I lost my job. I opened an online clothing store and it's been great! Being my own boss and doing something I love is awesome.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:9",
+        "speaker": "Jon",
+        "text": "Wow, Gina! You did great taking that leap. Congrats! Got any advice for someone just starting out?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:10",
+        "speaker": "Gina",
+        "text": "Thanks, Jon! It was a huge jump, but totally worth it. My advice: stay passionate, focused and resilient. Challenges will come, but believe in yourself and keep going. And stay open to learning and improving.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_18::episode-001",
+    "conversation_id": "conv-30",
+    "session_id": "session_18",
+    "observed_at": "2023-07-21T17:44:00",
+    "source_timestamp": "5:44 pm on 21 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Updates and encouragement about their businesses",
+    "turns": [
+      {
+        "turn_id": "D18:1",
+        "speaker": "Gina",
+        "text": "Hey Jon! Long time no talk! Last week, I built a new website for customers to make orders. It's been a wild ride but I'm loving it. What's up with you? How's the dance studio?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:2",
+        "speaker": "Jon",
+        "text": "Hey Gina, congrats on the clothing store! The dance studio is on tenuous grounds right now, but I'm staying positive. I got a temp job to help cover expenses while I look for investors. It's tough, but I'm sure it'll be worth it.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:3",
+        "speaker": "Gina",
+        "text": "Thanks, Jon! Appreciate the kind words. Sorry to hear about the studio, but glad to see the positivity. Not easy facing setbacks but I believe in you. Finding investors can be tough, but you've got the passion and experience to make it happen. Rome wasn't built in a day so keep pushing on!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_18::episode-002",
+    "conversation_id": "conv-30",
+    "session_id": "session_18",
+    "observed_at": "2023-07-21T17:44:00",
+    "source_timestamp": "5:44 pm on 21 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Discussion about overcoming business challenges and networking",
+    "turns": [
+      {
+        "turn_id": "D18:4",
+        "speaker": "Jon",
+        "text": "Thanks for the support. Running a business isn't easy, but I'm determined to make it work. How have you tackled challenges in your business? Got any advice?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:5",
+        "speaker": "Gina",
+        "text": "I've had some tough times with my business, Jon. Sourcing trendy pieces for my store was a big hurdle. I had to do a lot of research and networking. My advice? Don't be scared to reach out to people in your field for help and contacts. Networking was a lifesaver for me and opened me up to amazing products that I might not have found otherwise.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:6",
+        "speaker": "Jon",
+        "text": "Awesome advice! Lately I've been networking and it's gotten me some good stuff. Really can't beat what connections can do. Check this pic I got from the last networking event!",
+        "metadata": {
+          "img_url": [
+            "https://live.staticflickr.com/7284/16241297914_14ea605e4b_b.jpg"
+          ],
+          "re-download": true,
+          "blip_caption": "a photography of a group of people standing in a room"
+        }
+      }
+    ]
+  }
+]

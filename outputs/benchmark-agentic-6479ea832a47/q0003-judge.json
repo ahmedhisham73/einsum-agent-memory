@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-EbsSkxW0DTpygNMnKgV8lX1g5Bd94",
+  "object": "chat.completion",
+  "created": 1792696198,
+  "model": "gpt-4o-mini-2024-07-18",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\"label\":\"WRONG\",\"reason\":\"The generated answer includes yoga, which is not mentioned in the reference answer and contradicts the required information.\"}",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 148,
+    "completion_tokens": 30,
+    "total_tokens": 178,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_8c28bd5138"
+}

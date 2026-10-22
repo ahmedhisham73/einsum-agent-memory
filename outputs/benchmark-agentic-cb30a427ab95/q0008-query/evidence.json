@@ -1,0 +1,288 @@
+[
+  {
+    "episode_id": "conv-41::session_2::chunk-0010",
+    "session_id": "session_2",
+    "observed_at": "2022-12-22T18:10:00",
+    "source_timestamp": "6:10 pm on 22 December, 2022",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D2:11",
+        "speaker": "Maria",
+        "text": "Wow, John, that's a great pic! Your family looks so cheerful and loving. It's wonderful to have such a supportive and loving family.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:12",
+        "speaker": "John",
+        "text": "Thanks, Maria. They really help me stay centered. They remind me why I'm so passionate about making a positive impact.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:13",
+        "speaker": "Maria",
+        "text": "Family's love really grounds us and gives us strength. Their support certainly boosts your motivation.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:14",
+        "speaker": "John",
+        "text": "Yeah, they are my rock in tough times and always cheer me on. I'm really thankful for their love. Family time means a lot to me.",
+        "metadata": {
+          "img_url": [
+            "https://cdn.stocksnap.io/img-thumbs/960w/playground-child_RL9KRCSWHD.jpg"
+          ],
+          "blip_caption": "a photography of a family enjoying a ride on a swing",
+          "query": "family park",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D2:15",
+        "speaker": "Maria",
+        "text": "Wow, John, that playground looks cool! What kind of stuff do you and your family do there?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:16",
+        "speaker": "John",
+        "text": "Thanks, Maria! We love climbing, sliding, and playing games. It's an awesome way to connect and have a blast. What do you enjoy doing with your family?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_8::chunk-0005",
+    "session_id": "session_8",
+    "observed_at": "2023-03-06T18:03:00",
+    "source_timestamp": "6:03 pm on 6 March, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D8:6",
+        "speaker": "John",
+        "text": "It's definitely been a wild ride! It's full of ups and downs, but the love and happiness outweigh it all.",
+        "metadata": {
+          "img_url": [
+            "https://live.staticflickr.com/1883/42932050850_97f4b8999f_b.jpg"
+          ],
+          "blip_caption": "a photography of two children playing on a playground equipment",
+          "query": "parenting kids park playing",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D8:7",
+        "speaker": "Maria",
+        "text": "Parenting can be tough but rewarding. Do you take your kid to the park often?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:8",
+        "speaker": "John",
+        "text": "Yeah, we go a few times a week. It's great for family bonding and letting the kids run around. We had a great time last weekend - they really enjoyed the carefree joy.\n",
+        "metadata": {
+          "img_url": [
+            "https://live.staticflickr.com/1851/44767563171_457da8d8b3_b.jpg"
+          ],
+          "blip_caption": "a photography of a young girl and a young boy on a swing",
+          "query": "park kids playing swings joyful moment",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D8:9",
+        "speaker": "Maria",
+        "text": "Looks like a blast! Did everyone get a chance to try it? Glad you're all having a great time!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:10",
+        "speaker": "John",
+        "text": "Yeah, everyone got a chance to swing. It's always fun coming up with activities for my family to enjoy.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:11",
+        "speaker": "Maria",
+        "text": "Wow, John, that's amazing! How do you come up with these ideas?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_8::chunk-0010",
+    "session_id": "session_8",
+    "observed_at": "2023-03-06T18:03:00",
+    "source_timestamp": "6:03 pm on 6 March, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D8:12",
+        "speaker": "John",
+        "text": "I just try to find things that we'll have fun with, like a walk or picnic in the park, or finding events in our town and beyond. Just last week, I found a violin concert that we all enjoyed. It's all about making memories together.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:13",
+        "speaker": "Maria",
+        "text": "Wow, John, that's great! Making memories together is so valuable. I loved doing something similar with my siblings when I was young - it's amazing how something so simple can make such lasting memories.",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/eq0vvcinma621.jpg"
+          ],
+          "blip_caption": "a photo of a picture of a castle in a shadow box",
+          "query": "DIY cardboard fort fairy lights"
+        }
+      },
+      {
+        "turn_id": "D8:14",
+        "speaker": "John",
+        "text": "That pic is so cool! It looks like something from a storybook. What gave you the idea for this?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:15",
+        "speaker": "Maria",
+        "text": "Thanks, John! I got the idea from that trip to England a few years ago - I was mesmerized by the castles. I wanted to bring that same magic to my home, like a reminder of the world's beauty. I made a painting too!",
+        "metadata": {
+          "img_url": [
+            "https://images.rawpixel.com/image_social_square/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTAzL21ldDMzOTg0NC1pbWFnZS5qcGc.jpg"
+          ],
+          "blip_caption": "a photography of a painting of a castle on a hill",
+          "query": "castle painting Europe beauty wonder",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D8:16",
+        "speaker": "John",
+        "text": "Wow, that looks great! Where in England was it?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_18::chunk-0020",
+    "session_id": "session_18",
+    "observed_at": "2023-06-12T14:47:00",
+    "source_timestamp": "2:47 pm on 12 June, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D18:21",
+        "speaker": "Maria",
+        "text": "Wow! Looks like you had fun - what happened there?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:22",
+        "speaker": "John",
+        "text": "It was an awesome day at the park with my family. The kids had a lot of fun on the playground, and we had some really nice family time.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:23",
+        "speaker": "Maria",
+        "text": "Wow, that's great to hear, John! Cherish those family time moments!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_31::chunk-0010",
+    "session_id": "session_31",
+    "observed_at": "2023-08-13T15:14:00",
+    "source_timestamp": "3:14 pm on 13 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D31:11",
+        "speaker": "John",
+        "text": "Wow, cool Maria! Your little one is so smart and keen to learn, must be awesome!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D31:12",
+        "speaker": "Maria",
+        "text": "She's an amazing learner - so much fun to work with and watch her grow. She's brought me so much joy!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D31:13",
+        "speaker": "John",
+        "text": "Animals are amazing— They can be incredible companions.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D31:14",
+        "speaker": "Maria",
+        "text": "Yeah, they can really comfort us and make us feel understood in ways others can't. It's amazing how they bring us so much happiness.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D31:15",
+        "speaker": "John",
+        "text": "Yeah, animals bring us peace and understanding, plus we can always count on them. That's so priceless.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D31:16",
+        "speaker": "Maria",
+        "text": "Absolutely, John. They're always there for us.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_31::chunk-0015",
+    "session_id": "session_31",
+    "observed_at": "2023-08-13T15:14:00",
+    "source_timestamp": "3:14 pm on 13 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D31:17",
+        "speaker": "John",
+        "text": "Yeah, my family is awesome - me, the missus, and the kids. Even when times are hard, they always have my back. Best thing ever, really.",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/wi6u64sicow71.jpg"
+          ],
+          "blip_caption": "a photo of a family posing for a picture in the park",
+          "query": "wife kids"
+        }
+      },
+      {
+        "turn_id": "D31:18",
+        "speaker": "Maria",
+        "text": "That picture is so cute! What activities do you all enjoy doing together?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D31:19",
+        "speaker": "John",
+        "text": "Thanks, Maria! We love being outdoors - going for hikes, hanging out at the park, having picnics - plus playing board games and having movie nights at home. ",
+        "metadata": {
+          "img_url": [
+            "https://cdn.shopify.com/s/files/1/0586/8149/1647/t/127/assets/pickneys_2-1662359454750.jpg"
+          ],
+          "blip_caption": "a photo of two children sitting at a table with a board game",
+          "query": "family playing board games"
+        }
+      },
+      {
+        "turn_id": "D31:20",
+        "speaker": "Maria",
+        "text": "Sounds like a blast, John! Spending time with family is so important, and that all sounds perfect. Have a great time!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D31:21",
+        "speaker": "John",
+        "text": "Thanks, Maria! I'm off to spend some time with them now. Have a good day!",
+        "metadata": {}
+      }
+    ]
+  }
+]

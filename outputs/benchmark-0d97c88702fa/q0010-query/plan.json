@@ -1,0 +1,20 @@
+{
+  "scope": "all_matching",
+  "requirements": [
+    {
+      "entity": "Caroline",
+      "property": "action",
+      "search": "Caroline meet up with friends"
+    },
+    {
+      "entity": "Caroline",
+      "property": "action",
+      "search": "Caroline meet up with family"
+    },
+    {
+      "entity": "Caroline",
+      "property": "action",
+      "search": "Caroline meet up with mentors"
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+[
+  {
+    "episode_id": "conv-26::session_1::episode-005",
+    "conversation_id": "conv-26",
+    "session_id": "session_1",
+    "observed_at": "2023-05-08T13:56:00",
+    "source_timestamp": "1:56 pm on 8 May, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Closing remarks and plans for the day",
+    "turns": [
+      {
+        "turn_id": "D1:17",
+        "speaker": "Caroline",
+        "text": "Totally agree, Mel. Relaxing and expressing ourselves is key. Well, I'm off to go do some research.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:18",
+        "speaker": "Melanie",
+        "text": "Yep, Caroline. Taking care of ourselves is vital. I'm off to go swimming with the kids. Talk to you soon!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_2::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_2",
+    "observed_at": "2023-05-25T13:14:00",
+    "source_timestamp": "1:14 pm on 25 May, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Melanie shares her recent charity race experience and discusses self-care and family plans",
+    "turns": [
+      {
+        "turn_id": "D2:1",
+        "speaker": "Melanie",
+        "text": "Hey Caroline, since we last chatted, I've had a lot of things happening to me. I ran a charity race for mental health last Saturday – it was really rewarding. Really made me think about taking care of our minds.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:2",
+        "speaker": "Caroline",
+        "text": "That charity race sounds great, Mel! Making a difference & raising awareness for mental health is super rewarding - I'm really proud of you for taking part!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:3",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! The event was really thought-provoking. I'm starting to realize that self-care is really important. It's a journey for me, but when I look after myself, I'm able to better look after my family.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:4",
+        "speaker": "Caroline",
+        "text": "I totally agree, Melanie. Taking care of ourselves is so important - even if it's not always easy. Great that you're prioritizing self-care.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:5",
+        "speaker": "Melanie",
+        "text": "Yeah, it's tough. So I'm carving out some me-time each day - running, reading, or playing my violin - which refreshes me and helps me stay present for my fam!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:6",
+        "speaker": "Caroline",
+        "text": "That's great, Mel! Taking time for yourself is so important. You're doing an awesome job looking after yourself and your family!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:7",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline. It's still a work in progress, but I'm doing my best. My kids are so excited about summer break! We're thinking about going camping next month. Any fun plans for the summer?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_10::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_10",
+    "observed_at": "2023-07-20T20:56:00",
+    "source_timestamp": "8:56 pm on 20 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Melanie talks about recent family outings and summer traditions",
+    "turns": [
+      {
+        "turn_id": "D10:8",
+        "speaker": "Melanie",
+        "text": "Wow, fantastic, Caroline! Bet the atmosphere was incredible. Oh yeah, we went to the beach recently. It was awesome! The kids had such a blast.",
+        "metadata": {
+          "img_url": [
+            "https://mdkidadventures.files.wordpress.com/2023/06/img_2130.jpg"
+          ],
+          "blip_caption": "a photo of three children playing on the beach with a kite",
+          "query": "beach family playing frisbee sandy shore"
+        }
+      },
+      {
+        "turn_id": "D10:9",
+        "speaker": "Caroline",
+        "text": "Sounds fun! What was the best part? Do you do it often with the kids?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:10",
+        "speaker": "Melanie",
+        "text": "Seeing my kids' faces so happy at the beach was the best! We don't go often, usually only once or twice a year. But those times are always special to spend time together and chill.",
+        "metadata": {
+          "blip_caption": "a photo of a sand castle on the beach with a blue sky"
+        }
+      },
+      {
+        "turn_id": "D10:11",
+        "speaker": "Caroline",
+        "text": "Sounds special, those beach trips! Do you have any other summer traditions you all do together? Create those memories!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:12",
+        "speaker": "Melanie",
+        "text": "We always look forward to our family camping trip. We roast marshmallows, tell stories around the campfire and just enjoy each other's company. It's the highlight of our summer!",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/hjh0wp8s721a1.jpg"
+          ],
+          "blip_caption": "a photo of a fire pit with a lot of fire and sparks",
+          "query": "family camping trip campfire night"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_12::episode-005",
+    "conversation_id": "conv-26",
+    "session_id": "session_12",
+    "observed_at": "2023-08-17T13:50:00",
+    "source_timestamp": "1:50 pm on 17 August, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Fond memories and planning for future outings together",
+    "turns": [
+      {
+        "turn_id": "D12:15",
+        "speaker": "Caroline",
+        "text": "I'm always here for you, Mel! We had a blast last year at the Pride fest. Those supportive friends definitely make everything worth it!",
+        "metadata": {
+          "img_url": [
+            "https://media2.fdncms.com/portmerc/imager/u/large/46577490/pride2022-2-jankowski.jpg"
+          ],
+          "blip_caption": "a photo of a group of people walking down a street with balloons",
+          "query": "friends pride festival"
+        }
+      },
+      {
+        "turn_id": "D12:16",
+        "speaker": "Melanie",
+        "text": "That was a blast! So much fun with the whole gang! Wanna do a family outing this summer?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:17",
+        "speaker": "Caroline",
+        "text": "Right, it was so much fun! We could do a family outting, or wanna plan something special for this summer, just us two? It'd be a great chance to catch up and explore nature! What do you think?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:18",
+        "speaker": "Melanie",
+        "text": "Sounds great, Caroline! Let's plan something special!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:19",
+        "speaker": "Caroline",
+        "text": "Sounds great, Mel! We'll make some awesome memories!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:20",
+        "speaker": "Melanie",
+        "text": "Yeah, Caroline! I'll start thinking about what we can do.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:21",
+        "speaker": "Caroline",
+        "text": "Yeah, Mel! Life's all about creating memories. Can't wait for the trip!",
+        "metadata": {}
+      }
+    ]
+  }
+]

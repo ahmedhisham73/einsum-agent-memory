@@ -1,0 +1,10 @@
+{
+  "scope": "all_matching",
+  "requirements": [
+    {
+      "entity": "Melanie",
+      "property": "family_activities",
+      "search": "standalone evidence search"
+    }
+  ]
+}

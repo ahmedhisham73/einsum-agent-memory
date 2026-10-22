@@ -1,0 +1,302 @@
+[
+  {
+    "episode_id": "conv-41::session_1::episode-004",
+    "conversation_id": "conv-41",
+    "session_id": "session_1",
+    "observed_at": "2022-12-17T11:01:00",
+    "source_timestamp": "11:01 am on 17 December, 2022",
+    "timezone_status": "unspecified",
+    "theme": "Motivations for political goals and school funding impact",
+    "turns": [
+      {
+        "turn_id": "D1:9",
+        "speaker": "Maria",
+        "text": "Wow, John! It's great to hear that. Could you tell me what got you interested in those topics?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:10",
+        "speaker": "John",
+        "text": "Growing up, I saw how lack of education and crumbling infrastructure affected my neighborhood. I don't want future generations to go through that, so I think schools and infrastructure should be funded properly. Here's a pic of a school last year, after they got the funding.",
+        "metadata": {
+          "img_url": [
+            "https://www.greenbaypressgazette.com/gcdn/presto/2019/07/16/PGRB/fa8d60a1-0a21-421c-b36d-31f4bc2d2b6d-KEW_0720_LC_referendum_Peters_Concrete_pour.png"
+          ],
+          "blip_caption": "a photo of a group of men working on a building",
+          "query": "school building renovation"
+        }
+      },
+      {
+        "turn_id": "D1:11",
+        "speaker": "Maria",
+        "text": "Looks good! How did the extra funding help with building the school?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:12",
+        "speaker": "John",
+        "text": "It enabled needed repairs and renovations, making the learning environment safer and more modern for students.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_2::episode-003",
+    "conversation_id": "conv-41",
+    "session_id": "session_2",
+    "observed_at": "2022-12-22T18:10:00",
+    "source_timestamp": "6:10 pm on 22 December, 2022",
+    "timezone_status": "unspecified",
+    "theme": "Conversation about family activities and spending time together",
+    "turns": [
+      {
+        "turn_id": "D2:14",
+        "speaker": "John",
+        "text": "Yeah, they are my rock in tough times and always cheer me on. I'm really thankful for their love. Family time means a lot to me.",
+        "metadata": {
+          "img_url": [
+            "https://cdn.stocksnap.io/img-thumbs/960w/playground-child_RL9KRCSWHD.jpg"
+          ],
+          "blip_caption": "a photography of a family enjoying a ride on a swing",
+          "query": "family park",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D2:15",
+        "speaker": "Maria",
+        "text": "Wow, John, that playground looks cool! What kind of stuff do you and your family do there?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:16",
+        "speaker": "John",
+        "text": "Thanks, Maria! We love climbing, sliding, and playing games. It's an awesome way to connect and have a blast. What do you enjoy doing with your family?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:17",
+        "speaker": "Maria",
+        "text": "My fam's small, but I love spending time with the friends I have. We usually watch movies, hike, and have game nights at my place. Quality connections matter most to me.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:18",
+        "speaker": "John",
+        "text": "Sounds nice, Maria! Spending time with loved ones is important.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:19",
+        "speaker": "Maria",
+        "text": "Definitely, John. They bring us joy, support, and a feeling of being part of something special. We should cherish every moment with them.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_5::episode-003",
+    "conversation_id": "conv-41",
+    "session_id": "session_5",
+    "observed_at": "2023-01-28T13:17:00",
+    "source_timestamp": "1:17 pm on 28 January, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Reflection on kindness, support, and shared childhood memories",
+    "turns": [
+      {
+        "turn_id": "D5:11",
+        "speaker": "John",
+        "text": "Wow, what a touching moment, Maria. I'm glad you were there for her when she needed someone. I'm sure it made a big impact.",
+        "metadata": {
+          "img_url": [
+            "https://i2.pickpik.com/photos/428/450/411/girl-baby-doll-baby-girl-preview.jpg"
+          ],
+          "blip_caption": "a photography of a little girl kissing a doll with a doll in her lap",
+          "query": "smiling child toy",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D5:12",
+        "speaker": "Maria",
+        "text": "That's nice of you, John. What's the photo about?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:13",
+        "speaker": "John",
+        "text": "It reminds me of something from my childhood. I had a little doll like this and it always made me feel better. It reminds me to always look out for others, especially when they're feeling down.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:14",
+        "speaker": "Maria",
+        "text": "That's sweet. Spreading kindness and support can really make a difference, especially when someone is feeling down. Thanks for sharing.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:15",
+        "speaker": "John",
+        "text": "No problem, Maria. It's important to support each other when we're feeling down. You never know the difference a kind gesture can make.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:16",
+        "speaker": "Maria",
+        "text": "Yep, kindness is key and a little compassion can really turn someone's day around. So glad we're on the same page here.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_10::episode-003",
+    "conversation_id": "conv-41",
+    "session_id": "session_10",
+    "observed_at": "2023-04-07T00:24:00",
+    "source_timestamp": "12:24 am on 7 April, 2023",
+    "timezone_status": "unspecified",
+    "theme": "John's volunteer work at a school career fair and community support",
+    "turns": [
+      {
+        "turn_id": "D10:13",
+        "speaker": "John",
+        "text": "What a photo! Seeing everyone come together for a shared cause must have been inspiring. Last weekend I had an experience that reminded me of the impact we can make. I got to volunteer at a career fair at a local school, and it was incredible to see how lack of resources affects these kids' dreams. Being able to help them was such a rewarding experience.",
+        "metadata": {
+          "img_url": [
+            "https://c.pxhere.com/photos/88/c3/motivation_motivational_heart_inspire_encouragement_quote-562325.jpg!d"
+          ],
+          "blip_caption": "a photography of a heart shaped sign with a quote on it",
+          "query": "people united great cause career fair underprivileged students resources",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D10:14",
+        "speaker": "Maria",
+        "text": "Wow, John, what an amazing experience! It's so sad how a lack of resources can make such a difference in these kids' dreams. Being able to help them was an awesome experience. What does the sign say?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:15",
+        "speaker": "John",
+        "text": "The sign says, \"Always look on the bright side of life\". It reminds us that kids can reach their dreams with the right help.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:16",
+        "speaker": "Maria",
+        "text": "That's really cool. It's inspiring to see how these kids can do great things with support. You're doing awesome work by helping and motivating them. Keep it up!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:17",
+        "speaker": "John",
+        "text": "Thanks, Maria! It means a lot. I'm gonna keep pushing for them. We need folks in the community, doing good for the ones who need it. We rock!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:18",
+        "speaker": "Maria",
+        "text": "Yeah John, let's keep pushing for those kids! We can make a difference and help lots of people. Keep up the good work!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_18::episode-005",
+    "conversation_id": "conv-41",
+    "session_id": "session_18",
+    "observed_at": "2023-06-12T14:47:00",
+    "source_timestamp": "2:47 pm on 12 June, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Enjoying family time and sharing joyful moments at the park",
+    "turns": [
+      {
+        "turn_id": "D18:20",
+        "speaker": "John",
+        "text": "Yes, Maria! I'm here for you. Glad you found something that makes you happy. This is what makes me smile. Keep shining!\n",
+        "metadata": {
+          "img_url": [
+            "https://www.harpersplayground.org/wp-content/uploads/elementor/thumbs/Harpers-playground-2-copy-2560x1440-e1533267692673-o598m9qoe7o3x8f1l2ljd69xt3o9oeda7waxqhlnz4.jpg"
+          ],
+          "blip_caption": "a photo of a group of people standing around a playground",
+          "query": "children playing park"
+        }
+      },
+      {
+        "turn_id": "D18:21",
+        "speaker": "Maria",
+        "text": "Wow! Looks like you had fun - what happened there?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:22",
+        "speaker": "John",
+        "text": "It was an awesome day at the park with my family. The kids had a lot of fun on the playground, and we had some really nice family time.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:23",
+        "speaker": "Maria",
+        "text": "Wow, that's great to hear, John! Cherish those family time moments!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_19::episode-004",
+    "conversation_id": "conv-41",
+    "session_id": "session_19",
+    "observed_at": "2023-06-16T19:20:00",
+    "source_timestamp": "7:20 pm on 16 June, 2023",
+    "timezone_status": "unspecified",
+    "theme": "They reminisce about memorable beach vacations with family",
+    "turns": [
+      {
+        "turn_id": "D19:22",
+        "speaker": "John",
+        "text": "Yeah, Maria. Taking time off for ourselves and our fam is so important. It helps us stay connected and appreciate the simple things. That beach pic you shared reminded me of a special vacation we had to California- a gorgeous sunset and an awesome night strolling the shore, creating memories together. Do you have any special beach memories you'd like to share?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:23",
+        "speaker": "Maria",
+        "text": "Yeah, John! I have a picture from a vacation in Florida. The colors were amazing, and I had a feeling of gratitude just sitting there with my family. It's in moments like these we make the best memories, ya know?",
+        "metadata": {
+          "img_url": [
+            "https://live.staticflickr.com/3448/3279695354_16a66b5258_b.jpg"
+          ],
+          "blip_caption": "a photography of a sunset over a body of water with a bird flying in the distance",
+          "query": "beach sunset",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D19:24",
+        "speaker": "John",
+        "text": "Wow, Maria! That photo is so stunning. The colors there are so vivid - it must have been amazing! Trips like these are great - always full of amazing memories! Here's one from our vacation!",
+        "metadata": {
+          "img_url": [
+            "https://hips.hearstapps.com/hmg-prod/images/siblings-enjoying-in-sea-against-sky-royalty-free-image-1650652626.jpg"
+          ],
+          "blip_caption": "a photo of two children playing in the ocean waves",
+          "query": "beach vacation family"
+        }
+      },
+      {
+        "turn_id": "D19:25",
+        "speaker": "Maria",
+        "text": "Thanks, John. That picture is so cute! The kids look so happy splashing in the waves. It must have been such a joyful and carefree time!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:26",
+        "speaker": "John",
+        "text": "Yep, it was amazing. Enjoying these special family times is why life is great. Talk to you soon!",
+        "metadata": {
+          "blip_caption": "a photo of a football stadium with a lot of people"
+        }
+      }
+    ]
+  }
+]

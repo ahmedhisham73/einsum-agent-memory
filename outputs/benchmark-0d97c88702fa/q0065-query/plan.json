@@ -1,0 +1,45 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Melanie",
+      "property": "activity_enjoyment",
+      "search": "enjoyment of listening to classical music or baroque music"
+    },
+    {
+      "entity": "Melanie",
+      "property": "favorite_music",
+      "search": "preference for classical or instrumental music"
+    },
+    {
+      "entity": "Melanie",
+      "property": "music_role",
+      "search": "relationship to music (listener, musician) and music genres"
+    },
+    {
+      "entity": "Melanie",
+      "property": "emotion_from_art",
+      "search": "emotional reactions to music or classical compositions"
+    },
+    {
+      "entity": "Melanie",
+      "property": "interest",
+      "search": "interest in music and specifically in classical or baroque composers"
+    },
+    {
+      "entity": "Melanie",
+      "property": "attended_event",
+      "search": "attendance or participation in classical music concerts or events featuring Vivaldi or similar composers"
+    },
+    {
+      "entity": "Melanie",
+      "property": "song_emotional_effect",
+      "search": "emotional effect of the song 'The Four Seasons' by Vivaldi on Melanie if previously known"
+    },
+    {
+      "entity": "Melanie",
+      "property": "music_role",
+      "search": "additional context about Melanie's music preferences or experiences relevant to 'The Four Seasons'"
+    }
+  ]
+}

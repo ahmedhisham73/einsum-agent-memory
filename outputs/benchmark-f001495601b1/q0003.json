@@ -1,0 +1,21 @@
+{
+  "question_id": "conv-41::q0003",
+  "category": 1,
+  "question": "What martial arts has John done?",
+  "gold_answer": "Kickboxing, Taekwondo",
+  "status": "scored",
+  "generated_answer": "John has done kickboxing and taekwondo as martial arts.",
+  "citations": [
+    {
+      "episode_id": "conv-41::session_1::episode-002",
+      "turn_id": "D1:4"
+    },
+    {
+      "episode_id": "conv-41::session_2::episode-005",
+      "turn_id": "D2:28"
+    }
+  ],
+  "query_elapsed_seconds": 5.968350416,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer accurately lists the same martial arts, kickboxing and taekwondo, as those in the reference answer."
+}

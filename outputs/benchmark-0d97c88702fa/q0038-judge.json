@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-EbsCWARiaIvC17JYf1UJ360FOD4Oz",
+  "object": "chat.completion",
+  "created": 1792695192,
+  "model": "gpt-4o-mini-2024-07-18",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\"label\":\"CORRECT\",\"reason\":\"The generated answer includes the fact that Melanie painted a sunset, which directly addresses the question about what she painted recently.\"}",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 283,
+    "completion_tokens": 32,
+    "total_tokens": 315,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_242228cf5a"
+}

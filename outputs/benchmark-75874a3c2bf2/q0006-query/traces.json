@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "af0a6fbd-5d25-4abf-8d2d-da999729de7e",
+    "response": {
+      "id": "chatcmpl-EbsHaoBJFhtWxppqZGoAVPzyEUlcS",
+      "object": "chat.completion",
+      "created": 1792695506,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Jon\",\"property\":\"ideal_dance_studio_view\",\"search\":\"standalone evidence search\"},{\"entity\":\"Jon\",\"property\":\"appearance_description\",\"search\":\"standalone evidence search\"},{\"entity\":\"Jon\",\"property\":\"design_intention\",\"search\":\"standalone evidence search\"},{\"entity\":\"Jon\",\"property\":\"design goal for customers\",\"search\":\"standalone evidence search\"},{\"entity\":\"Jon\",\"property\":\"desired_quality\",\"search\":\"standalone evidence search\"},{\"entity\":\"Jon\",\"property\":\"studio_status\",\"search\":\"standalone evidence search\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2190,
+        "completion_tokens": 112,
+        "total_tokens": 2302,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6cab07b253"
+    },
+    "latency_seconds": 2.0072165
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "5332f3ac-3c2a-486f-80f4-60c784e0272e",
+    "response": {
+      "id": "chatcmpl-EbsHdcl2njgVu8EVUofEIPz7Rfh7W",
+      "object": "chat.completion",
+      "created": 1792695509,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Jon thinks the ideal dance studio should have a beautiful view by the water to inspire creativity, as shown in a photo he shared of a studio overlooking the ocean with yoga mats. His design intention is to find a place that inspires both him and his students, creating a special experience that makes customers feel welcome and motivates them to return. He values creating the right atmosphere that supports passion for dance and business success. Jon describes the studio as a passion project he is determined to make work despite obstacles, emphasizing hard work, confidence, and support to keep going. He has put significant effort into the studio and is excited about its launch, seeing it as a place that energizes and balances his dual passions of dance and business.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-30::session_1::episode-005\",\"turn_id\":\"D1:20\"},{\"episode_id\":\"conv-30::session_1::episode-005\",\"turn_id\":\"D1:22\"},{\"episode_id\":\"conv-30::session_3::episode-003\",\"turn_id\":\"D3:9\"},{\"episode_id\":\"conv-30::session_9::episode-001\",\"turn_id\":\"D9:1\"},{\"episode_id\":\"conv-30::session_4::episode-001\",\"turn_id\":\"D4:9\"},{\"episode_id\":\"conv-30::session_15::episode-003\",\"turn_id\":\"D15:6\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 5751,
+        "completion_tokens": 294,
+        "total_tokens": 6045,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6a82cb19e8"
+    },
+    "latency_seconds": 3.029807958
+  }
+]

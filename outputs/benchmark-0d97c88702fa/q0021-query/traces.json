@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "9757d77a-6b08-4b79-a76d-796a012fe4db",
+    "response": {
+      "id": "chatcmpl-EbsBTCagRxoep17ZoKwXbce9vM5Qs",
+      "object": "chat.completion",
+      "created": 1792695127,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Melanie\",\"property\":\"action\",\"search\":\"Melanie went to the museum\"},{\"entity\":\"Melanie\",\"property\":\"activity\",\"search\":\"Melanie museum visit\"},{\"entity\":\"Melanie\",\"property\":\"activity_recent\",\"search\":\"Melanie recent museum visit date\"},{\"entity\":\"Melanie\",\"property\":\"activity_type\",\"search\":\"museum visit by Melanie\"},{\"entity\":\"Melanie\",\"property\":\"activity_enjoyment\",\"search\":\"Melanie enjoyment going to museum\"},{\"entity\":\"Melanie\",\"property\":\"activity_goal\",\"search\":\"purpose of Melanie's museum visit\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2679,
+        "completion_tokens": 119,
+        "total_tokens": 2798,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_f9f464a132"
+    },
+    "latency_seconds": 2.2227250420000004
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "e35c16cd-76de-40e9-beb0-f43c388b6720",
+    "response": {
+      "id": "chatcmpl-EbsBX2Aj1yMGWciafVfjDyuvQ39Gp",
+      "object": "chat.completion",
+      "created": 1792695131,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Melanie went to the museum yesterday on 5 July 2023, taking her kids to see the dinosaur exhibit, which they enjoyed very much.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_6::episode-002\",\"turn_id\":\"D6:4\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 10962,
+        "completion_tokens": 66,
+        "total_tokens": 11028,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6a82cb19e8"
+    },
+    "latency_seconds": 2.117497333
+  }
+]

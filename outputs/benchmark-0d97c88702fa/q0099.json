@@ -1,0 +1,25 @@
+{
+  "question_id": "conv-26::q0099",
+  "category": 4,
+  "question": "What was discussed in the LGBTQ+ counseling workshop?",
+  "gold_answer": "therapeutic methods and how to best work with trans people",
+  "status": "scored",
+  "generated_answer": "There is no available information in the provided conversations about the LGBTQ+ counseling workshop, including its discussions, activities, goals, acceptance experiences, community support, messages, or values promoted. The dialogues focus primarily on adoption experiences, family, personal support, and related topics, but do not mention any workshop specifically on LGBTQ+ counseling.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_1::episode-005",
+      "turn_id": "D1:17"
+    },
+    {
+      "episode_id": "conv-26::session_2::episode-002",
+      "turn_id": "D2:8"
+    },
+    {
+      "episode_id": "conv-26::session_2::episode-002",
+      "turn_id": "D2:12"
+    }
+  ],
+  "query_elapsed_seconds": 6.651844291,
+  "label": "WRONG",
+  "judge_reason": "The generated answer fails to address the specific content of the LGBTQ+ counseling workshop as requested and incorrectly states no information is available."
+}

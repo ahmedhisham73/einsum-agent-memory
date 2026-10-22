@@ -1,0 +1,10 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "charity race",
+      "property": "awareness",
+      "search": "evidence of what the charity race aimed to raise awareness for"
+    }
+  ]
+}

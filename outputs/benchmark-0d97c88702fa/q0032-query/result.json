@@ -1,0 +1,21 @@
+{
+  "status": "completed",
+  "experiment_id": "q0032-query",
+  "memory_build": "offline-memory-a5e48166f56e",
+  "embedding_fingerprint": "264e45d8331b217a87fc15e35db2c614b32e9c572d0bbb53fe9bcc90dda3a8a6",
+  "question": "When did Melanie go camping in June?",
+  "answer": "Melanie went camping in the mountains last week prior to 27 June 2023, which places the camping trip in mid to late June 2023.",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-26::session_4::episode-002",
+      "turn_id": "D4:6"
+    }
+  ],
+  "elapsed_seconds": 4.822574833000001,
+  "implementation": {
+    "structured_matching": "literal entity / property-token overlap",
+    "all_matching": "all episodes; no optimized exhaustive retrieval",
+    "coverage": "answer-model sufficiency check with expansion"
+  }
+}

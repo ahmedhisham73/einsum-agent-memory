@@ -1,0 +1,21 @@
+{
+  "question_id": "conv-26::q0060",
+  "category": 3,
+  "question": "Would Caroline be considered religious?",
+  "gold_answer": "Somewhat, but not extremely religious",
+  "status": "scored",
+  "generated_answer": "Caroline would not be considered religious based on the provided information. While she treasures a necklace with a cross that symbolizes love, faith, and strength as a sentimental gift from her grandmother, there is no explicit mention of active religious beliefs, practices, participation in religious activities, or involvement with religious communities. Instead, Caroline's focus and values are centered around LGBTQ community support, advocacy, mental health, inclusivity, art, and personal growth. The evidence does not indicate religious belief or engagement as a defining part of her identity or activities.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_4::episode-001",
+      "turn_id": "D4:1"
+    },
+    {
+      "episode_id": "conv-26::session_4::episode-001",
+      "turn_id": "D4:3"
+    }
+  ],
+  "query_elapsed_seconds": 5.881339042,
+  "label": "WRONG",
+  "judge_reason": "The generated answer contradicts the reference_answer by stating Caroline would not be considered religious, while the reference states she is somewhat religious."
+}

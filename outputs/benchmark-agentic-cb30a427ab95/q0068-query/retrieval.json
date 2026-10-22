@@ -1,0 +1,21 @@
+[
+  {
+    "query": "extra funding help school photo shared by John",
+    "returned_chunk_ids": [
+      "conv-41::session_10::chunk-0010",
+      "conv-41::session_16::chunk-0000",
+      "conv-41::session_16::chunk-0005",
+      "conv-41::session_1::chunk-0005",
+      "conv-41::session_1::chunk-0010",
+      "conv-41::session_5::chunk-0000"
+    ],
+    "cumulative_chunk_ids": [
+      "conv-41::session_10::chunk-0010",
+      "conv-41::session_16::chunk-0000",
+      "conv-41::session_16::chunk-0005",
+      "conv-41::session_1::chunk-0005",
+      "conv-41::session_1::chunk-0010",
+      "conv-41::session_5::chunk-0000"
+    ]
+  }
+]

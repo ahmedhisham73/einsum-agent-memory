@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-41::q0004",
+  "category": 1,
+  "question": "What type of volunteering have John and Maria both done?",
+  "gold_answer": "Volunteering at a homeless shelter",
+  "status": "failed",
+  "error": "Query failed. See q0004.log"
+}

@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "200a6e6f-3e52-4208-8c38-47273d0473a0",
+    "response": {
+      "id": "chatcmpl-EbsIPN2Bw8XsCRCg2LHWnp4INheIE",
+      "object": "chat.completion",
+      "created": 1792695557,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Gina\",\"property\":\"motivation_reason\",\"search\":\"evidence for why Gina decided to start her own clothing store\"},{\"entity\":\"Gina\",\"property\":\"business_motivation\",\"search\":\"evidence about Gina's motivation for starting a clothing business\"},{\"entity\":\"Gina\",\"property\":\"business_idea\",\"search\":\"evidence on Gina's reasons or inspirations to start her own clothing store\"},{\"entity\":\"Gina\",\"property\":\"business_goal\",\"search\":\"evidence about what Gina hoped to achieve by starting her own clothing store\"},{\"entity\":\"Gina\",\"property\":\"intention\",\"search\":\"evidence about Gina's intention behind opening a clothing store\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2190,
+        "completion_tokens": 140,
+        "total_tokens": 2330,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_2a8f9b1a2d"
+    },
+    "latency_seconds": 2.529326833
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "fe81f1c2-5ee7-47b9-bcea-2eb43769cef7",
+    "response": {
+      "id": "chatcmpl-EbsITcp5xmtmufbl9dIPfcMmWCZbX",
+      "object": "chat.completion",
+      "created": 1792695561,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Gina decided to start her own clothing store because after losing her job, she wanted to take control of her own destiny and this seemed like the perfect way to do it. She is passionate about fashion trends and finding unique pieces, and wanted to blend her love for dance and fashion. Starting her own store and taking risks is both scary and rewarding, and she hoped to create a comfortable and inviting shopping experience for customers to make them want to return. Being her own boss and doing something she loves also motivated her.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-30::session_10::episode-001\",\"turn_id\":\"D10:4\"},{\"episode_id\":\"conv-30::session_6::episode-002\",\"turn_id\":\"D6:8\"},{\"episode_id\":\"conv-30::session_2::episode-001\",\"turn_id\":\"D2:1\"},{\"episode_id\":\"conv-30::session_3::episode-004\",\"turn_id\":\"D3:8\"},{\"episode_id\":\"conv-30::session_14::episode-003\",\"turn_id\":\"D14:8\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3649,
+        "completion_tokens": 231,
+        "total_tokens": 3880,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6a82cb19e8"
+    },
+    "latency_seconds": 3.479319792
+  }
+]

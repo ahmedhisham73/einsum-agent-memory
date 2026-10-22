@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "d1cc5eba-2268-4896-88d2-0d31c8c698bf",
+    "response": {
+      "id": "chatcmpl-EbsNXGNdumFcpf4UDGdKuGCSdQyZy",
+      "object": "chat.completion",
+      "created": 1792695875,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"John\",\"property\":\"degree_completion_status\",\"search\":\"standalone evidence search\"},{\"entity\":\"John\",\"property\":\"focus_area\",\"search\":\"standalone evidence search\"},{\"entity\":\"John\",\"property\":\"interest_areas\",\"search\":\"standalone evidence search\"},{\"entity\":\"John\",\"property\":\"education\",\"search\":\"standalone evidence search\"},{\"entity\":\"John\",\"property\":\"career_aspiration\",\"search\":\"standalone evidence search\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3704,
+        "completion_tokens": 92,
+        "total_tokens": 3796,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6cab07b253"
+    },
+    "latency_seconds": 2.090975334
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "15e9d88a-1231-414c-8274-96a09fe35f8e",
+    "response": {
+      "id": "chatcmpl-EbsNa7O1AZo3YcDwPJb5caTNxWnTC",
+      "object": "chat.completion",
+      "created": 1792695878,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"John graduated with a degree related to policymaking, focusing on improving education and infrastructure, as these topics align with his passion and career aspirations in local politics and community betterment.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-41::session_9::episode-002\",\"turn_id\":\"D9:6\"},{\"episode_id\":\"conv-41::session_9::episode-003\",\"turn_id\":\"D9:8\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 4372,
+        "completion_tokens": 94,
+        "total_tokens": 4466,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6a82cb19e8"
+    },
+    "latency_seconds": 2.609115708
+  }
+]

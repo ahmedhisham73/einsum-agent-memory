@@ -1,0 +1,35 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Melanie",
+      "property": "supports",
+      "search": "evidence of Melanie supporting the transgender community"
+    },
+    {
+      "entity": "Melanie",
+      "property": "attitude_towards_community",
+      "search": "Melanie's attitude towards the transgender community"
+    },
+    {
+      "entity": "Melanie",
+      "property": "expression_of_support_for",
+      "search": "instances where Melanie explicitly expresses support for transgender individuals"
+    },
+    {
+      "entity": "Melanie",
+      "property": "activities",
+      "search": "actions or activities by Melanie that support transgender rights or inclusion"
+    },
+    {
+      "entity": "Melanie",
+      "property": "advocacy_focus",
+      "search": "if Melanie's advocacy or activism includes transgender rights"
+    },
+    {
+      "entity": "Melanie",
+      "property": "participation_in_pride_parade",
+      "search": "Melanie's participation or involvement in events supporting transgender community, such as pride parades"
+    }
+  ]
+}

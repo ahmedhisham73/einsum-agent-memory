@@ -1,0 +1,25 @@
+{
+  "status": "completed",
+  "experiment_id": "q0041-query",
+  "memory_build": "offline-memory-a5e48166f56e",
+  "embedding_fingerprint": "264e45d8331b217a87fc15e35db2c614b32e9c572d0bbb53fe9bcc90dda3a8a6",
+  "question": "How many times has Melanie gone to the beach in 2023?",
+  "answer": "Melanie has gone to the beach once in 2023 according to the conversations. She mentioned a recent beach visit with the kids during a July 20, 2023 conversation, stating they don't go often, usually only once or twice a year, implying just one beach visit so far this year is explicitly referenced.",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-26::session_10::episode-002",
+      "turn_id": "D10:8"
+    },
+    {
+      "episode_id": "conv-26::session_10::episode-002",
+      "turn_id": "D10:10"
+    }
+  ],
+  "elapsed_seconds": 5.247941792,
+  "implementation": {
+    "structured_matching": "literal entity / property-token overlap",
+    "all_matching": "all episodes; no optimized exhaustive retrieval",
+    "coverage": "answer-model sufficiency check with expansion"
+  }
+}

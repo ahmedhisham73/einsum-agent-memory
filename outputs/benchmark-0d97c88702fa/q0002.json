@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0002",
+  "category": 2,
+  "question": "When did Melanie paint a sunrise?",
+  "gold_answer": 2022,
+  "status": "scored",
+  "generated_answer": "Melanie painted a sunrise last year, specifically a lake sunrise painting mentioned in conversation on 8 May 2023.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_1::episode-004",
+      "turn_id": "D1:14"
+    }
+  ],
+  "query_elapsed_seconds": 5.351017958,
+  "label": "WRONG",
+  "judge_reason": "The generated answer states the painting was done 'last year' in a conversation in 2023, which implies the painting took place in 2022, aligning with the reference. However, it provides unnecessary details and does not confirm the date accurately as just 2022 without ambiguity."
+}

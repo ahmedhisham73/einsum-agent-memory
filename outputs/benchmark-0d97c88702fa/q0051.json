@@ -1,0 +1,41 @@
+{
+  "question_id": "conv-26::q0051",
+  "category": 3,
+  "question": "What would Caroline's political leaning likely be?",
+  "gold_answer": "Liberal",
+  "status": "scored",
+  "generated_answer": "Caroline's political leaning would likely be progressive or left-leaning. She values inclusivity, LGBTQ+ rights, mental health support, family through adoption (including LGBTQ+ supportive agencies), and community support. She actively advocates for trans rights, supports LGBTQ+ inclusivity, and aims to help others through mental health counseling and volunteering at a youth center. Her focus on acceptance, diversity in art, and creating a nurturing environment for marginalized groups aligns with progressive values.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_2::episode-002",
+      "turn_id": "D2:12"
+    },
+    {
+      "episode_id": "conv-26::session_7::episode-001",
+      "turn_id": "D7:1"
+    },
+    {
+      "episode_id": "conv-26::session_7::episode-001",
+      "turn_id": "D7:3"
+    },
+    {
+      "episode_id": "conv-26::session_7::episode-001",
+      "turn_id": "D7:5"
+    },
+    {
+      "episode_id": "conv-26::session_11::episode-003",
+      "turn_id": "D11:8"
+    },
+    {
+      "episode_id": "conv-26::session_15::episode-002",
+      "turn_id": "D15:5"
+    },
+    {
+      "episode_id": "conv-26::session_19::episode-003",
+      "turn_id": "D19:9"
+    }
+  ],
+  "query_elapsed_seconds": 6.607815584,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer describes Caroline's political views and values that align with being liberal or progressive, which fits the reference answer."
+}

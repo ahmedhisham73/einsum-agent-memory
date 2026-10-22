@@ -1,0 +1,40 @@
+[
+  {
+    "query": "cities visited by Jean",
+    "returned_chunk_ids": [
+      "conv-30::session_18::chunk-0000",
+      "conv-30::session_18::chunk-0005",
+      "conv-30::session_1::chunk-0020",
+      "conv-30::session_2::chunk-0000",
+      "conv-30::session_3::chunk-0000",
+      "conv-30::session_3::chunk-0005"
+    ],
+    "cumulative_chunk_ids": [
+      "conv-30::session_18::chunk-0000",
+      "conv-30::session_18::chunk-0005",
+      "conv-30::session_1::chunk-0020",
+      "conv-30::session_2::chunk-0000",
+      "conv-30::session_3::chunk-0000",
+      "conv-30::session_3::chunk-0005"
+    ]
+  },
+  {
+    "query": "cities visited by Jean and John",
+    "returned_chunk_ids": [
+      "conv-30::session_18::chunk-0000",
+      "conv-30::session_18::chunk-0005",
+      "conv-30::session_1::chunk-0020",
+      "conv-30::session_2::chunk-0000",
+      "conv-30::session_3::chunk-0000",
+      "conv-30::session_3::chunk-0005"
+    ],
+    "cumulative_chunk_ids": [
+      "conv-30::session_18::chunk-0000",
+      "conv-30::session_18::chunk-0005",
+      "conv-30::session_1::chunk-0020",
+      "conv-30::session_2::chunk-0000",
+      "conv-30::session_3::chunk-0000",
+      "conv-30::session_3::chunk-0005"
+    ]
+  }
+]

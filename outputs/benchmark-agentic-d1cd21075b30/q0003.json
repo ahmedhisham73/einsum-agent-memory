@@ -1,0 +1,37 @@
+{
+  "question_id": "conv-30::q0003",
+  "category": 4,
+  "question": "How do Jon and Gina both like to destress?",
+  "gold_answer": "by dancing",
+  "status": "scored",
+  "generated_answer": "Jon and Gina both like to de-stress by dancing.",
+  "citations": [
+    {
+      "episode_id": "conv-30::session_2::chunk-0010",
+      "turn_id": "D2:11"
+    },
+    {
+      "episode_id": "conv-30::session_2::chunk-0010",
+      "turn_id": "D2:12"
+    },
+    {
+      "episode_id": "conv-30::session_11::chunk-0000",
+      "turn_id": "D11:5"
+    },
+    {
+      "episode_id": "conv-30::session_11::chunk-0000",
+      "turn_id": "D11:6"
+    },
+    {
+      "episode_id": "conv-30::session_11::chunk-0005",
+      "turn_id": "D11:7"
+    },
+    {
+      "episode_id": "conv-30::session_11::chunk-0005",
+      "turn_id": "D11:8"
+    }
+  ],
+  "query_elapsed_seconds": 7.323720916,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer matches the reference answer in content and context."
+}

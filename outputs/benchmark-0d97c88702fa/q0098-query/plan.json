@@ -1,0 +1,10 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Caroline",
+      "property": "attended",
+      "search": "workshop Caroline attended recently"
+    }
+  ]
+}

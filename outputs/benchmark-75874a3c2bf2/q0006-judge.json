@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-EbsHgBj7QhTHOD3jSm6Kp3ubYdVjH",
+  "object": "chat.completion",
+  "created": 1792695512,
+  "model": "gpt-4o-mini-2024-07-18",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\"label\":\"WRONG\",\"reason\":\"The generated answer includes additional unsupported information about Jon's intentions and emotions regarding the dance studio, which diverges from the specific details requested in the reference answer. It fails to succinctly provide the key elements of the ideal dance studio as described in the reference.\"}",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 286,
+    "completion_tokens": 60,
+    "total_tokens": 346,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_fa7dc80a62"
+}

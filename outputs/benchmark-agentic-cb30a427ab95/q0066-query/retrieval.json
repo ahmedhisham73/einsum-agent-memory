@@ -1,0 +1,21 @@
+[
+  {
+    "query": "John main focus in local politics",
+    "returned_chunk_ids": [
+      "conv-41::session_12::chunk-0000",
+      "conv-41::session_1::chunk-0005",
+      "conv-41::session_1::chunk-0010",
+      "conv-41::session_4::chunk-0010",
+      "conv-41::session_7::chunk-0000",
+      "conv-41::session_9::chunk-0005"
+    ],
+    "cumulative_chunk_ids": [
+      "conv-41::session_12::chunk-0000",
+      "conv-41::session_1::chunk-0005",
+      "conv-41::session_1::chunk-0010",
+      "conv-41::session_4::chunk-0010",
+      "conv-41::session_7::chunk-0000",
+      "conv-41::session_9::chunk-0005"
+    ]
+  }
+]

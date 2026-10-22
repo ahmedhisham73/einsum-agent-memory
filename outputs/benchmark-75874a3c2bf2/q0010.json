@@ -1,0 +1,21 @@
+{
+  "question_id": "conv-30::q0010",
+  "category": 1,
+  "question": "Which city have both Jean and John visited?",
+  "gold_answer": "Rome",
+  "status": "scored",
+  "generated_answer": "Jean visited Rome (D2:5 mentions Gina has been only to Rome once). John visited Rome as well (D15:1 Jon took a short trip last week to Rome. D2:4 Jon visited Paris but not Gina, who has only been to Rome). Therefore, the city both Jean and John have visited is Rome.",
+  "citations": [
+    {
+      "episode_id": "conv-30::session_2::episode-002",
+      "turn_id": "D2:5"
+    },
+    {
+      "episode_id": "conv-30::session_15::episode-001",
+      "turn_id": "D15:1"
+    }
+  ],
+  "query_elapsed_seconds": 6.752683916,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer accurately identifies Rome as the city both Jean and John have visited, consistent with the reference answer."
+}

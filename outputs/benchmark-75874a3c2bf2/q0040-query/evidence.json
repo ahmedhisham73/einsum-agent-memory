@@ -1,0 +1,374 @@
+[
+  {
+    "episode_id": "conv-30::session_1::episode-002",
+    "conversation_id": "conv-30",
+    "session_id": "session_1",
+    "observed_at": "2023-01-20T16:04:00",
+    "source_timestamp": "4:04 pm on 20 January, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Passion for dancing and favorite dance styles",
+    "turns": [
+      {
+        "turn_id": "D1:4",
+        "speaker": "Jon",
+        "text": "Sorry to hear that! I'm starting a dance studio 'cause I'm passionate about dancing and it'd be great to share it with others.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:5",
+        "speaker": "Gina",
+        "text": "That's cool, Jon! What got you into this biz?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:6",
+        "speaker": "Jon",
+        "text": "I've been into dancing since I was a kid and it's been my passion and escape. I wanna start a dance studio so I can teach others the joy that dancing brings me.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:7",
+        "speaker": "Gina",
+        "text": "Wow Jon, same here! Dance is pretty much my go-to for stress relief. Got any fave styles?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:8",
+        "speaker": "Jon",
+        "text": "Cool, Gina! I love all dances, but contemporary is my top pick. It's so expressive and powerful! What's your fave?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:9",
+        "speaker": "Gina",
+        "text": "Yeah, me too! Contemporary dance is so expressive and graceful - it really speaks to me.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_1::episode-003",
+    "conversation_id": "conv-30",
+    "session_id": "session_1",
+    "observed_at": "2023-01-20T16:04:00",
+    "source_timestamp": "4:04 pm on 20 January, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Planning a dance session together",
+    "turns": [
+      {
+        "turn_id": "D1:10",
+        "speaker": "Jon",
+        "text": "Wow, great idea! Let's go to a dance class, it'll be so much fun!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:11",
+        "speaker": "Gina",
+        "text": "Yeah! Let's explore some new dance moves. We should plan a dance session soon!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:12",
+        "speaker": "Jon",
+        "text": "Yeah definitely! Wanna see my moves next Fri? Can't wait!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:13",
+        "speaker": "Gina",
+        "text": "Sounds great, Jon! Next Friday works. Let's boogie!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_4::episode-001",
+    "conversation_id": "conv-30",
+    "session_id": "session_4",
+    "observed_at": "2023-02-04T10:43:00",
+    "source_timestamp": "10:43 am on 4 February, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Jon and Gina discuss Jon's business challenges and store updates",
+    "turns": [
+      {
+        "turn_id": "D4:1",
+        "speaker": "Jon",
+        "text": "Hey Gina! What's up? How's the store going? I gotta tell you about this thing with my biz.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:2",
+        "speaker": "Gina",
+        "text": "Hey Jon! The store's doing great! It's a wild ride. How's the biz?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:3",
+        "speaker": "Jon",
+        "text": "Hey Gina! I'm putting in a lot of work on my business even with the obstacles. I'm gonna make it happen!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:4",
+        "speaker": "Gina",
+        "text": "Wow! You've got drive! Keep it up and you'll definitely make a splash.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:5",
+        "speaker": "Jon",
+        "text": "Thanks Gina! Your help really means a lot. Sometimes it's hard when things don't go my way, but I'm sure if I keep pushing, I'll reach my dreams!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:6",
+        "speaker": "Gina",
+        "text": "Understand where you're at, Jon. Setbacks are just opportunities for comebacks. You got the skills, passion, and drive. Plus my full support. Don't give up, buddy!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:7",
+        "speaker": "Jon",
+        "text": "Thanks! Setbacks can be tough, but with your support, I can handle anything. Appreciate you having my back!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:8",
+        "speaker": "Gina",
+        "text": "I'm here for you no matter what! Anything you want to say about your biz?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:9",
+        "speaker": "Jon",
+        "text": "Searching for a dance studio location has been tricky, but I'm determined to find the right spot - when I do, I'm sure the rest will follow!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:10",
+        "speaker": "Gina",
+        "text": "Searching for the perfect dance studio's a tough job, Jon. Hang in there and you'll find it soon!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_9::episode-003",
+    "conversation_id": "conv-30",
+    "session_id": "session_9",
+    "observed_at": "2023-04-09T10:33:00",
+    "source_timestamp": "10:33 am on 9 April, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Shared dance memories and emotional connection",
+    "turns": [
+      {
+        "turn_id": "D9:8",
+        "speaker": "Gina",
+        "text": "Yeah, I do remember those dance classes! I used to love spending time in the studio. That photo looks awesome, brings back lots of memories. It's nice to know, dance is still your happy place.",
+        "metadata": {
+          "img_url": [
+            "https://cartwheelfactory.com/imagesjpg/ballet-studio-glassless-mir.jpg"
+          ],
+          "blip_caption": "a photo of a group of young women in ballet attire",
+          "query": "ballet studio mirrors barres dance classes"
+        }
+      },
+      {
+        "turn_id": "D9:9",
+        "speaker": "Jon",
+        "text": "Nice, Gina! I'm happy that dance has such a special meaning to both of us. It's a really cool way to express ourselves. I loved taking lessons with my friends when I was younger. Those memories are so precious. So glad I can still enjoy it with my own studio. Thanks for always being there for me.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_11::episode-001",
+    "conversation_id": "conv-30",
+    "session_id": "session_11",
+    "observed_at": "2023-05-11T15:14:00",
+    "source_timestamp": "3:14 pm on 11 May, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Jon shares updates and motivation about opening his dance studio, and Gina offers encouragement",
+    "turns": [
+      {
+        "turn_id": "D11:1",
+        "speaker": "Jon",
+        "text": "Hi! Since we last spoke I am still working on the dance studio and things are looking up!",
+        "metadata": {
+          "blip_caption": "a photo of a woman in a short skirt with her hands on her hips"
+        }
+      },
+      {
+        "turn_id": "D11:2",
+        "speaker": "Gina",
+        "text": "Hi! You're so inspiring taking it on and opening your own studio!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:3",
+        "speaker": "Jon",
+        "text": "Thanks! Losing my job gave me the push to finally start my dream business: my own dance studio! Now I'm stepping into the unknown and hoping for the best.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:4",
+        "speaker": "Gina",
+        "text": "It must be scary stepping into the unknown but I know you can do it, Jon. With your determination and drive, your dance studio will be a huge success. Keep that positive outlook and keep going!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:5",
+        "speaker": "Jon",
+        "text": "Thanks! It's a bit scary, but I just think about my love for dance and how it makes me feel. It's been my stress-buster since childhood!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:6",
+        "speaker": "Gina",
+        "text": "Gotcha, Jon! Dance is my stress fix too. As soon as I start, all my worries vanish. It's amazing what we can do for our own mental health with something we enjoy.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:7",
+        "speaker": "Jon",
+        "text": "Yeah, Gina! Dancing helps me de-stress. It's where I'm most alive. It's a must-have in my life.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:8",
+        "speaker": "Gina",
+        "text": "I get it, Jon. Dance is just me -- I can't picture life without it. It's like air.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:9",
+        "speaker": "Jon",
+        "text": "Yep! Dancing is like second nature to me. I'm living my dream by having my own dance studio and teaching others.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:10",
+        "speaker": "Gina",
+        "text": "You're living the dream and inspiring others too! Your studio will totally change things for lots of folks.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:11",
+        "speaker": "Jon",
+        "text": "I hope so, Gina. I want to create a place for people to dance and express themselves - it's been a dream of mine.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:12",
+        "speaker": "Gina",
+        "text": "That's a great dream, Jon! Giving people a place to express themselves with dance is really important. Your studio is gonna make a huge difference. Can't wait to see it happen!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:13",
+        "speaker": "Jon",
+        "text": "Thanks! Your help means a lot. Keep you posted on the dance studio progress.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_14::episode-005",
+    "conversation_id": "conv-30",
+    "session_id": "session_14",
+    "observed_at": "2023-06-16T21:38:00",
+    "source_timestamp": "9:38 pm on 16 June, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Gina shares a dance photo symbolizing perseverance; Jon reflects on his love for dancing",
+    "turns": [
+      {
+        "turn_id": "D14:14",
+        "speaker": "Gina",
+        "text": "Way to go, Jon! Don't quit, remember, failures lead you closer to success. Here's a pic from when I was dancing - it was a tough road, but it was worth it!",
+        "metadata": {
+          "img_url": [
+            "https://cdn1.sportngin.com/attachments/photo/7609-187142791/PINE_ISLAND_WOW_AWARD.jpg"
+          ],
+          "blip_caption": "a photo of a group of young women posing for a picture",
+          "query": "dance competition trophy stage"
+        }
+      },
+      {
+        "turn_id": "D14:15",
+        "speaker": "Jon",
+        "text": "Wow, that's an awesome pic! You guys look great and passionate about dancing. Reminds me how much I love performing. Thanks for sharing!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:16",
+        "speaker": "Gina",
+        "text": "Thanks! I'm glad the pic reminded you of your love for dancing. Keep going after your dreams!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_14::episode-006",
+    "conversation_id": "conv-30",
+    "session_id": "session_14",
+    "observed_at": "2023-06-16T21:38:00",
+    "source_timestamp": "9:38 pm on 16 June, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Mutual encouragement and support between Jon and Gina to pursue their dreams and stay determined",
+    "turns": [
+      {
+        "turn_id": "D14:17",
+        "speaker": "Jon",
+        "text": "Sure thing, Gina! Your help means a lot to me. I'm not giving up.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:18",
+        "speaker": "Gina",
+        "text": "Go, Jon! I'm here for you. Keep going!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:19",
+        "speaker": "Jon",
+        "text": "Knowing you've got my back really helps keep me going. I won't let you down!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:20",
+        "speaker": "Gina",
+        "text": "No worries, Jon! You're really inspiring with your determination and passion for dance. Keep it up!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_18::episode-004",
+    "conversation_id": "conv-30",
+    "session_id": "session_18",
+    "observed_at": "2023-07-21T17:44:00",
+    "source_timestamp": "5:44 pm on 21 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Marketing strategies for the dance studio and offer of help",
+    "turns": [
+      {
+        "turn_id": "D18:11",
+        "speaker": "Gina",
+        "text": "Sounds like a great plan, Jon! An online platform can really show off your studio and get investors. Need help with anything?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:12",
+        "speaker": "Jon",
+        "text": "Thanks, Gina! Appreciate the offer. Need help with marketing strategies - any advice on reaching my target audience and raising awareness for the dance studio?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:13",
+        "speaker": "Gina",
+        "text": "Yeah Jon, marketing is key for getting your dance studio noticed. Instagram and TikTok can help you reach a younger crowd. Posting dance clips or content related to dance can help. You could also collaborate with local influencers or dance communities. I could help you with making content or even managing your accounts if you want.",
+        "metadata": {}
+      }
+    ]
+  }
+]

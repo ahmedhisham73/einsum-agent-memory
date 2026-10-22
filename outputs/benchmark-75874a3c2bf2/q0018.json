@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-30::q0018",
+  "category": 1,
+  "question": "Why did Gina decide to start her own clothing store?",
+  "gold_answer": "She always loved fashion trends and finding unique pieces and she lost her job so decided it was time to start her own business.",
+  "status": "failed",
+  "error": "Query failed. See q0018.log"
+}

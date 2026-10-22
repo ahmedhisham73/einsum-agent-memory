@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-41::q0001",
+  "category": 2,
+  "question": "Who did Maria have dinner with on May 3, 2023?",
+  "gold_answer": "her mother",
+  "status": "scored",
+  "generated_answer": "Maria had dinner with her mom on May 3, 2023.",
+  "citations": [
+    {
+      "episode_id": "conv-41::session_13::episode-003",
+      "turn_id": "D13:16"
+    }
+  ],
+  "query_elapsed_seconds": 4.896740125,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer provides the same information as the reference answer, using 'mom' as a synonym for 'mother'."
+}

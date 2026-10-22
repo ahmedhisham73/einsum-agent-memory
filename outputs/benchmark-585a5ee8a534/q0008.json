@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-41::q0008",
+  "category": 1,
+  "question": "What items des John mention having as a child?",
+  "gold_answer": "A doll, a film camera",
+  "status": "scored",
+  "generated_answer": "John mentioned having a little doll as a child that made him feel better and reminded him to look out for others.",
+  "citations": [
+    {
+      "episode_id": "conv-41::session_5::episode-003",
+      "turn_id": "D5:13"
+    }
+  ],
+  "query_elapsed_seconds": 4.746500999999999,
+  "label": "WRONG",
+  "judge_reason": "The generated answer only mentions a doll and provides additional unsupported context about feelings and actions, but it does not mention the film camera, which is an important fact in the reference."
+}

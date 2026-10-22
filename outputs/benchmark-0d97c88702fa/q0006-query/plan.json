@@ -1,0 +1,15 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Melanie",
+      "property": "event_participation",
+      "search": "Melanie participated in a charity race"
+    },
+    {
+      "entity": "Melanie",
+      "property": "event_attendance",
+      "search": "date or time when Melanie ran a charity race"
+    }
+  ]
+}

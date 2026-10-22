@@ -1,0 +1,30 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Melanie",
+      "property": "recent_painting_content",
+      "search": "evidence of recent painting created by Melanie"
+    },
+    {
+      "entity": "Melanie",
+      "property": "recent_artwork",
+      "search": "evidence of recent artwork created by Melanie"
+    },
+    {
+      "entity": "Melanie",
+      "property": "art_created",
+      "search": "records or mentions of art recently created by Melanie"
+    },
+    {
+      "entity": "Melanie",
+      "property": "painting_activity",
+      "search": "evidence of recent painting activity by Melanie"
+    },
+    {
+      "entity": "Melanie",
+      "property": "painting_created",
+      "search": "evidence or description of painting created recently by Melanie"
+    }
+  ]
+}

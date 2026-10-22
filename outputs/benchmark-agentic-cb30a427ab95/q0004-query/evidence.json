@@ -1,0 +1,312 @@
+[
+  {
+    "episode_id": "conv-41::session_6::chunk-0005",
+    "session_id": "session_6",
+    "observed_at": "2023-02-05T14:33:00",
+    "source_timestamp": "2:33 pm on 5 February, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D6:6",
+        "speaker": "John",
+        "text": "Wow, that's powerful. It just shows that everyone has their own story and deserves understanding. Do you know any organizations or services that could help him out?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:7",
+        "speaker": "Maria",
+        "text": "Yeah, I did. I talked to him afterwards and linked him up with a nearby organization that offers housing and support for homeless individuals. Hopefully, he'll find the help he needs.",
+        "metadata": {
+          "blip_caption": "a photo of a flyer with a group of people in a circle"
+        }
+      },
+      {
+        "turn_id": "D6:8",
+        "speaker": "John",
+        "text": "Nice job, Maria! You really made an impact. It's important to help people find what they need. Have you ever been in a situation where you needed help?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:9",
+        "speaker": "Maria",
+        "text": "Thanks, John. When I was younger, we had some money problems and had to rely on outside help from out auntie. It was a tough learning experience about the importance of helping others who struggle.",
+        "metadata": {
+          "blip_caption": "a photo of a woman in a face mask standing next to a table full of packages of food"
+        }
+      },
+      {
+        "turn_id": "D6:10",
+        "speaker": "John",
+        "text": "Yeah, Maria, we learn a lot from our own struggles. I just started helping out with a food drive for folks who lost their jobs. Here's a picture of me at the food bank.",
+        "metadata": {
+          "img_url": [
+            "https://live.staticflickr.com/4478/37216959584_3c561498f3_b.jpg"
+          ],
+          "blip_caption": "a photography of a group of people standing around a table with boxes of tomatoes",
+          "query": "volunteering local food bank packing food bags",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D6:11",
+        "speaker": "Maria",
+        "text": "Wow, John, that's incredible! What inspired you to get involved with something like this?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_6::chunk-0015",
+    "session_id": "session_6",
+    "observed_at": "2023-02-05T14:33:00",
+    "source_timestamp": "2:33 pm on 5 February, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D6:16",
+        "speaker": "John",
+        "text": "Thanks, Maria! We've been overwhelmed by the response and the volunteers. Here's a photo of them at a recent event.",
+        "metadata": {
+          "img_url": [
+            "https://www.lifturbanportland.org/uploads/8/3/6/3/83630366/published/warehouse-volunteers.jpg"
+          ],
+          "blip_caption": "a photo of a woman in a face mask holding a bag of food",
+          "query": "group of volunteers food drive event"
+        }
+      },
+      {
+        "turn_id": "D6:17",
+        "speaker": "Maria",
+        "text": "Seeing so many people support the community is awesome. I'd love to lend a hand with networking or helping out at future events.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:18",
+        "speaker": "John",
+        "text": "That'd be great, Maria! Thanks for offering to help. Your assistance would be really appreciated.",
+        "metadata": {
+          "blip_caption": "a photo of a group of men working on a wall"
+        }
+      },
+      {
+        "turn_id": "D6:19",
+        "speaker": "Maria",
+        "text": "No worries, John. Whenever you need help, just let me know.",
+        "metadata": {
+          "blip_caption": "a photo of a group of people standing outside of a house"
+        }
+      },
+      {
+        "turn_id": "D6:20",
+        "speaker": "John",
+        "text": "Yep, definitely. Your support really means a lot, Maria. Thanks for always being there for me.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:21",
+        "speaker": "Maria",
+        "text": "Of course, John. You're a great friend to me. I'll always be there for you.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_9::chunk-0015",
+    "session_id": "session_9",
+    "observed_at": "2023-04-02T09:36:00",
+    "source_timestamp": "9:36 am on 2 April, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D9:16",
+        "speaker": "John",
+        "text": "Thanks, Maria! Will do. Working together would be great!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:17",
+        "speaker": "Maria",
+        "text": "Yes, John, let's keep supporting each other and finding ways to improve the lives of others. Remember when we volunteered together last year? It was such a fulfilling experience.",
+        "metadata": {
+          "img_url": [
+            "https://bloximages.newyork1.vip.townnews.com/yakimaherald.com/content/tncms/assets/v3/editorial/4/2d/42d9b634-18c9-11ed-8a1b-039214ad9eb3/62f3dc54b5a61.image.jpg"
+          ],
+          "blip_caption": "a photo of a man and woman shaking hands in front of a food tray",
+          "query": "volunteering at local homeless shelter"
+        }
+      },
+      {
+        "turn_id": "D9:18",
+        "speaker": "John",
+        "text": "Yeah, I remember that! It was cool to see how our actions can make a big impact. Let's keep helping out and making things better! Our actions really do matter. ",
+        "metadata": {
+          "blip_caption": "a photo of a woman and a child walking in a park"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_16::chunk-0000",
+    "session_id": "session_16",
+    "observed_at": "2023-05-25T13:24:00",
+    "source_timestamp": "1:24 pm on 25 May, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D16:1",
+        "speaker": "John",
+        "text": "Hey Maria, I've been busy doing the petition I started - it's tricky but it's been cool getting back in touch with my buddies and gaining support. I got this picture of my workmates when we went on a hiking trip, they really make me keep going! What have you been up to? Anything new with your charity?",
+        "metadata": {
+          "img_url": [
+            "https://pdx350.salsalabs.org/juneteamcampaignupdate/ca4594c6-1102-4939-b090-61f878580f48.jpg"
+          ],
+          "blip_caption": "a photo of a group of people and a dog standing in front of a waterfall",
+          "query": "petition support education and infrastructure volunteers team"
+        }
+      },
+      {
+        "turn_id": "D16:2",
+        "speaker": "Maria",
+        "text": "Hey John! Cool that it's going well - you and your friends look like a great team! I'm busy at the shelter getting ready for a fundraiser next week. Hopefully, I can raise enough to cover basic needs for the homeless.",
+        "metadata": {
+          "blip_caption": "a photo of a red trash can with clothes in it"
+        }
+      },
+      {
+        "turn_id": "D16:3",
+        "speaker": "John",
+        "text": "Wow, Maria! Raising money is crucial for those in need. Is there any way I can help out with your fundraiser?",
+        "metadata": {
+          "blip_caption": "a photo of a poster for a chili cook off event"
+        }
+      },
+      {
+        "turn_id": "D16:4",
+        "speaker": "Maria",
+        "text": "Thanks, John! Appreciate your help. We need to get the word out about the chili cook-off at the fundraiser. Here's the poster!",
+        "metadata": {
+          "img_url": [
+            "https://patch.com/img/cdn20/users/26387059/20221221/113941/bbd143cd-d2aa-4d9f-8547-6f333402e7aa___21113933647.jpg"
+          ],
+          "blip_caption": "a photo of a poster for a chili cook off event",
+          "query": "chili cook off poster event"
+        }
+      },
+      {
+        "turn_id": "D16:5",
+        "speaker": "John",
+        "text": "Wow, it looks awesome! I'll make sure to spread the word about it. Is there anything else I can do to assist?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:6",
+        "speaker": "Maria",
+        "text": "Thanks, John! Your help is really appreciated. If you know anyone who might be interested in volunteering for the event, let me know. We can do this!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_16::chunk-0005",
+    "session_id": "session_16",
+    "observed_at": "2023-05-25T13:24:00",
+    "source_timestamp": "1:24 pm on 25 May, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D16:7",
+        "speaker": "John",
+        "text": "Yep, Maria! I'll ask around to see if anyone I know wants to help. We'll find some awesome people for the cause. Let's make a change!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:8",
+        "speaker": "Maria",
+        "text": "Way to go, John! Let's help those in need. Thanks for your support!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:9",
+        "speaker": "John",
+        "text": "No problem, Maria! Working together with passionate people like you is awesome! Let's make a difference.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:10",
+        "speaker": "Maria",
+        "text": "Yeah, working with passionate people like you is really motivating.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:11",
+        "speaker": "John",
+        "text": "Yeah, Maria! We're making a difference and we'll keep it up! Here's a pic of my fam at the beach.",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/cuurrb4qyl961.jpg"
+          ],
+          "blip_caption": "a photo of a couple walking into the ocean at sunset",
+          "query": "kids holding hands sunset"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_27::chunk-0000",
+    "session_id": "session_27",
+    "observed_at": "2023-08-03T18:20:00",
+    "source_timestamp": "6:20 pm on 3 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D27:1",
+        "speaker": "John",
+        "text": "Hey Maria, hope you're doing OK. I had to share something cool with you - I asked family and friends to join the virtual support group I am a part of and be advocates for the military. It's been awesome seeing so many people coming together to back the courageous people serving our nation.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D27:2",
+        "speaker": "Maria",
+        "text": "Wow, John! Way to go helping veterans! I'm doing my part too, volunteering at a homeless shelter. It's so rewarding.",
+        "metadata": {
+          "img_url": [
+            "https://static.wixstatic.com/media/0726909c8a194fd1bdc04ebf3e03bea3.jpg/v1/fill/w_640,h_558,al_t,q_80,usm_0.66_1.00_0.01,enc_auto/0726909c8a194fd1bdc04ebf3e03bea3.jpg"
+          ],
+          "blip_caption": "a photography of a group of people standing around a table",
+          "query": "volunteer badge",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D27:3",
+        "speaker": "John",
+        "text": "Maria, that's great! That picture shows a lot of joy. What got you started at that place?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D27:4",
+        "speaker": "Maria",
+        "text": "I started volunteering here about a year ago after witnessing a family struggling on the streets. It made me want to help, so I reached out to the shelter and asked if they needed any volunteers. They said yes, and it has been a really fulfilling experience for me since then.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D27:5",
+        "speaker": "John",
+        "text": "Wow, Maria! You really made an impact – it's awesome! I seriously admire what you do.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D27:6",
+        "speaker": "Maria",
+        "text": "Thanks John. That really means a lot. It's been tough but knowing I can make a difference keeps me motivated.",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/5xasiy4gnohb1.jpg"
+          ],
+          "blip_caption": "a photo of a note from a person who is writing",
+          "query": "handwritten thank you note shelter resident"
+        }
+      }
+    ]
+  }
+]

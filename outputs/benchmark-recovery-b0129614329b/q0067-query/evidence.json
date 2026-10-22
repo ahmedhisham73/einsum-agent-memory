@@ -1,0 +1,1266 @@
+[
+  {
+    "episode_id": "conv-41::session_1::episode-003",
+    "conversation_id": "conv-41",
+    "session_id": "session_1",
+    "observed_at": "2022-12-17T11:01:00",
+    "source_timestamp": "11:01 am on 17 December, 2022",
+    "timezone_status": "unspecified",
+    "theme": "John's political aspirations and focus areas",
+    "turns": [
+      {
+        "turn_id": "D1:6",
+        "speaker": "John",
+        "text": "Yeah Maria, I'm really hoping to get into local politics. I love helping the community and making it a better place.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:7",
+        "speaker": "Maria",
+        "text": "Woohoo, John! That's awesome! Any specific areas you want to tackle?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:8",
+        "speaker": "John",
+        "text": "I'm passionate about improving education and infrastructure in our community. Those are my main focuses.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_1::episode-004",
+    "conversation_id": "conv-41",
+    "session_id": "session_1",
+    "observed_at": "2022-12-17T11:01:00",
+    "source_timestamp": "11:01 am on 17 December, 2022",
+    "timezone_status": "unspecified",
+    "theme": "Motivations for political goals and school funding impact",
+    "turns": [
+      {
+        "turn_id": "D1:9",
+        "speaker": "Maria",
+        "text": "Wow, John! It's great to hear that. Could you tell me what got you interested in those topics?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:10",
+        "speaker": "John",
+        "text": "Growing up, I saw how lack of education and crumbling infrastructure affected my neighborhood. I don't want future generations to go through that, so I think schools and infrastructure should be funded properly. Here's a pic of a school last year, after they got the funding.",
+        "metadata": {
+          "img_url": [
+            "https://www.greenbaypressgazette.com/gcdn/presto/2019/07/16/PGRB/fa8d60a1-0a21-421c-b36d-31f4bc2d2b6d-KEW_0720_LC_referendum_Peters_Concrete_pour.png"
+          ],
+          "blip_caption": "a photo of a group of men working on a building",
+          "query": "school building renovation"
+        }
+      },
+      {
+        "turn_id": "D1:11",
+        "speaker": "Maria",
+        "text": "Looks good! How did the extra funding help with building the school?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:12",
+        "speaker": "John",
+        "text": "It enabled needed repairs and renovations, making the learning environment safer and more modern for students.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_1::episode-005",
+    "conversation_id": "conv-41",
+    "session_id": "session_1",
+    "observed_at": "2022-12-17T11:01:00",
+    "source_timestamp": "11:01 am on 17 December, 2022",
+    "timezone_status": "unspecified",
+    "theme": "Plans for political campaign and support gathering",
+    "turns": [
+      {
+        "turn_id": "D1:13",
+        "speaker": "Maria",
+        "text": "Wow John, it really made a difference for schools and students! It must have been great to be involved. What's your next move in politics?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:14",
+        "speaker": "John",
+        "text": "I'm gonna chat with local leaders and organizations, get support and gather ideas for my next move.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:15",
+        "speaker": "Maria",
+        "text": "Sounds good, John. Let's get support and great ideas from local leaders and organizations. Keep me posted on how your campaign is going.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:16",
+        "speaker": "John",
+        "text": "Got it! Thanks, Maria. I definitely will.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_2::episode-001",
+    "conversation_id": "conv-41",
+    "session_id": "session_2",
+    "observed_at": "2022-12-22T18:10:00",
+    "source_timestamp": "6:10 pm on 22 December, 2022",
+    "timezone_status": "unspecified",
+    "theme": "Discussion about John's campaign and motivation for community improvement",
+    "turns": [
+      {
+        "turn_id": "D2:1",
+        "speaker": "Maria",
+        "text": "Hey John, been a few days since we chatted. In the meantime, I donated my old car to a homeless shelter I volunteer at yesterday. How's the campaign going? I'm keen to hearabout it.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:2",
+        "speaker": "John",
+        "text": "Hi Maria! It's been an interesting ride so far. I've been networking with some people to get their input.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:3",
+        "speaker": "Maria",
+        "text": "That's awesome, John! Networking is great for gaining new perspectives and insights. Have you had any interesting conversations or revelations so far?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:4",
+        "speaker": "John",
+        "text": "I just talked to someone who shared some amazing stories. It really fired up my passion to make education better in our area.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:5",
+        "speaker": "Maria",
+        "text": "Wow, John! Hearing that can really make an impact and get us fired up to make a difference. It's great to hear that you're feeling motivated to make improvements to our community's education!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:6",
+        "speaker": "John",
+        "text": "Definitely, Maria. Investing in our future generations is key, giving them the right tools for success. It's the foundation of progress and opportunity.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:7",
+        "speaker": "Maria",
+        "text": "Yeah, John. It's amazing how even minor tweaks to the system can make a big difference for lots of people. I'm really impressed with your enthusiasm and commitment to it!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:8",
+        "speaker": "John",
+        "text": "Thanks, Maria. Your encouragement means a lot to me. It's true that with effort and support, we can make a real difference in our community.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:9",
+        "speaker": "Maria",
+        "text": "You got this, John! I believe in your power to make a positive difference. Your passion inspires me. Keep going - I'm here for you.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_2::episode-002",
+    "conversation_id": "conv-41",
+    "session_id": "session_2",
+    "observed_at": "2022-12-22T18:10:00",
+    "source_timestamp": "6:10 pm on 22 December, 2022",
+    "timezone_status": "unspecified",
+    "theme": "John shares family photo and reflects on family support and love",
+    "turns": [
+      {
+        "turn_id": "D2:10",
+        "speaker": "John",
+        "text": "Thanks a lot, Maria. Your help is really motivating and makes me more determined. Here's a pic of my family - they're the reason why I never give up. Their love gives me strength.",
+        "metadata": {
+          "img_url": [
+            "https://images.pexels.com/photos/5119595/pexels-photo-5119595.jpeg"
+          ],
+          "blip_caption": "a photography of a family having a picnic in the park",
+          "query": "family smiling hugging",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D2:11",
+        "speaker": "Maria",
+        "text": "Wow, John, that's a great pic! Your family looks so cheerful and loving. It's wonderful to have such a supportive and loving family.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:12",
+        "speaker": "John",
+        "text": "Thanks, Maria. They really help me stay centered. They remind me why I'm so passionate about making a positive impact.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:13",
+        "speaker": "Maria",
+        "text": "Family's love really grounds us and gives us strength. Their support certainly boosts your motivation.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_4::episode-002",
+    "conversation_id": "conv-41",
+    "session_id": "session_4",
+    "observed_at": "2023-01-09T19:06:00",
+    "source_timestamp": "7:06 pm on 9 January, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Discussion about local politics and community involvement",
+    "turns": [
+      {
+        "turn_id": "D4:11",
+        "speaker": "Maria",
+        "text": "It's great to hear that you appreciate the beauty of sunsets! By the way, have there been any developments regarding your political goals?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:12",
+        "speaker": "John",
+        "text": "I've been keeping busy since we last talked! I've been looking into local politics, talking to community leaders, and getting to know the needs and hopes of our neighborhood. It's been super informative, and I'm feeling optimistic about it all.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:13",
+        "speaker": "Maria",
+        "text": "Wow, John! Your dedication to our community is amazing. Keep up the great work! I've been taking some notes about local politics in my notebook.",
+        "metadata": {
+          "img_url": [
+            "https://media2.inlander.com/inlander/imager/u/original/27047427/1.jpg"
+          ],
+          "blip_caption": "a photo of a notebook with a pencil and a notepad on a table",
+          "query": "notebook local politics"
+        }
+      },
+      {
+        "turn_id": "D4:14",
+        "speaker": "John",
+        "text": "Thanks, Maria! You're super helpful. That gives me some new ideas and plans for our community!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:15",
+        "speaker": "Maria",
+        "text": "Glad I could help, John. What's up next for you?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:16",
+        "speaker": "John",
+        "text": "Next week I have a community meeting coming up, we'll be discussing education and infrastructure upgrades.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:17",
+        "speaker": "Maria",
+        "text": "Good luck on that! Hope your ideas and concerns get heard.",
+        "metadata": {
+          "blip_caption": "a photo of a microphone, a charger, and a charger on a table"
+        }
+      },
+      {
+        "turn_id": "D4:18",
+        "speaker": "John",
+        "text": "Thanks, Maria! I'm hoping so. I'll definitely stick up for our community. Discussing it is important.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:19",
+        "speaker": "Maria",
+        "text": "Definitely, John! Talking and working together will make a great difference. You're really doing our community a service by speaking out. It's admirable and inspiring.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:20",
+        "speaker": "John",
+        "text": "Maria, thank you! Your support means a lot. Let's make some change in our community!",
+        "metadata": {
+          "blip_caption": "a photo of a group of people sitting around a table with a laptop"
+        }
+      },
+      {
+        "turn_id": "D4:21",
+        "speaker": "Maria",
+        "text": "Yeah, let's do it, John! Working together, we can bring positive changes to the neighborhood as a team.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:22",
+        "speaker": "John",
+        "text": "Yeah, Maria! We can achieve great things if we join forces together.",
+        "metadata": {
+          "img_url": [
+            "https://live.staticflickr.com/7351/14090438714_33bec862fe_b.jpg"
+          ],
+          "blip_caption": "a photography of a man and a woman shaking hands",
+          "query": "handshake unity teamwork",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D4:23",
+        "speaker": "Maria",
+        "text": "Agreed, John! Uniting is essential for making a difference. if we stand together we can tackle any problems and build a great community.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:24",
+        "speaker": "John",
+        "text": "Yeah, Maria! I couldn't agree more. Thanks for being an awesome friend.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:25",
+        "speaker": "Maria",
+        "text": "No worries, John. It's really nice to help. We make a great team.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:26",
+        "speaker": "John",
+        "text": "Yup, we rock as a team! Glad to have you.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_5::episode-001",
+    "conversation_id": "conv-41",
+    "session_id": "session_5",
+    "observed_at": "2023-01-28T13:17:00",
+    "source_timestamp": "1:17 pm on 28 January, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Discussion on the state of education and need for improvements",
+    "turns": [
+      {
+        "turn_id": "D5:1",
+        "speaker": "John",
+        "text": "Hey Maria, since we last spoke I went to that community mtg. It was really interesting hearing everyone's worries and how it affects our area. It made me realize how crucial the upgrades are, especially for the kids. I'm really upset seeing the state of our education. How do you think we can make things better?",
+        "metadata": {
+          "blip_caption": "a photo of a wooden floor with a white wall and a wooden floor"
+        }
+      },
+      {
+        "turn_id": "D5:2",
+        "speaker": "Maria",
+        "text": "Hey John, cool that you made it. You're right, it's really sad to see the state of education. We should fight for more money and resources for schools and raise awareness about the importance of education. It's not just for our kids, but for all of us too!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:3",
+        "speaker": "John",
+        "text": "Yup, education is essential for a successful society. I totally agree that we should fight for more money and resources for our schools. It breaks my heart that our kids don't have the proper stuff they need. They deserve better.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:4",
+        "speaker": "Maria",
+        "text": "Yeah, John. Our kids are our future; they should have the best. It kills me to think about all the kids without the proper stuff they need. It's just not right.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:5",
+        "speaker": "John",
+        "text": "It's definitely isn't, Maria. My kids have so much and others don't. We really need to do something about it.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_6::episode-002",
+    "conversation_id": "conv-41",
+    "session_id": "session_6",
+    "observed_at": "2023-02-05T14:33:00",
+    "source_timestamp": "2:33 pm on 5 February, 2023",
+    "timezone_status": "unspecified",
+    "theme": "John discusses his political motivations and they talk about helping a specific individual in need",
+    "turns": [
+      {
+        "turn_id": "D6:4",
+        "speaker": "John",
+        "text": "I feel a strong urge to serve my country and community. Running for office was my chance to make an impact. But anyway, tell me more about your charity event. Did something special happen that made it meaningful for you?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:5",
+        "speaker": "Maria",
+        "text": "Yeah, at the event, I had a conversation with someone named David. Hearing his story of hardship and how he ended up in difficult circumstances was so humbling. It just showed me that everyone has their own story and deserves understanding.",
+        "metadata": {
+          "blip_caption": "a photo of a man with a cell phone in his hand"
+        }
+      },
+      {
+        "turn_id": "D6:6",
+        "speaker": "John",
+        "text": "Wow, that's powerful. It just shows that everyone has their own story and deserves understanding. Do you know any organizations or services that could help him out?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:7",
+        "speaker": "Maria",
+        "text": "Yeah, I did. I talked to him afterwards and linked him up with a nearby organization that offers housing and support for homeless individuals. Hopefully, he'll find the help he needs.",
+        "metadata": {
+          "blip_caption": "a photo of a flyer with a group of people in a circle"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_6::episode-004",
+    "conversation_id": "conv-41",
+    "session_id": "session_6",
+    "observed_at": "2023-02-05T14:33:00",
+    "source_timestamp": "2:33 pm on 5 February, 2023",
+    "timezone_status": "unspecified",
+    "theme": "John talks about his involvement in a food drive and the reasons behind it",
+    "turns": [
+      {
+        "turn_id": "D6:10",
+        "speaker": "John",
+        "text": "Yeah, Maria, we learn a lot from our own struggles. I just started helping out with a food drive for folks who lost their jobs. Here's a picture of me at the food bank.",
+        "metadata": {
+          "img_url": [
+            "https://live.staticflickr.com/4478/37216959584_3c561498f3_b.jpg"
+          ],
+          "blip_caption": "a photography of a group of people standing around a table with boxes of tomatoes",
+          "query": "volunteering local food bank packing food bags",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D6:11",
+        "speaker": "Maria",
+        "text": "Wow, John, that's incredible! What inspired you to get involved with something like this?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:12",
+        "speaker": "John",
+        "text": "Seeing the effect unemployment has on our neighbors made me decide to act. I wanted to help out in these tough times by doing a community food drive. We can all make a difference!",
+        "metadata": {
+          "blip_caption": "a photo of a thanksgiving potluck and food drive flyer"
+        }
+      },
+      {
+        "turn_id": "D6:13",
+        "speaker": "Maria",
+        "text": "That's really great of you. What sparked your decision to start this initiative?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:14",
+        "speaker": "John",
+        "text": "Thanks, Maria. Unemployment in our community was the reason behind it.",
+        "metadata": {
+          "blip_caption": "a photo of a large group of people standing around a table"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_9::episode-003",
+    "conversation_id": "conv-41",
+    "session_id": "session_9",
+    "observed_at": "2023-04-02T09:36:00",
+    "source_timestamp": "9:36 am on 2 April, 2023",
+    "timezone_status": "unspecified",
+    "theme": "John's community involvement and focus areas",
+    "turns": [
+      {
+        "turn_id": "D9:7",
+        "speaker": "Maria",
+        "text": "Sounds great, John! That seems perfect for you with your passion and dedication. Are there any specific areas you're particularly interested in?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:8",
+        "speaker": "John",
+        "text": "Thanks, Maria! Improving education and infrastructure is particularly interesting to me. It's important for our community.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:9",
+        "speaker": "Maria",
+        "text": "Yeah, I remember you mentioning those areas. How have your experiences in the community meeting and involvement shaped your views on them?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:10",
+        "speaker": "John",
+        "text": "Going to community meetings and getting involved in my community has given me a better understanding of the challenges our education and infrastructure systems face. It has also shown me the impact these issues have on our neighbors, highlighting the need for us to work towards finding solutions.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_12::episode-001",
+    "conversation_id": "conv-41",
+    "session_id": "session_12",
+    "observed_at": "2023-04-18T19:34:00",
+    "source_timestamp": "7:34 pm on 18 April, 2023",
+    "timezone_status": "unspecified",
+    "theme": "John shares his political blogging and policy focus on education and infrastructure",
+    "turns": [
+      {
+        "turn_id": "D12:1",
+        "speaker": "John",
+        "text": "Hey Maria, hope you're doing okay. Since we chatted last, I've been blogging about politics and the government. It's been a really satisfying experience and I care about making a real impact. We need way better education and infrastructure and I know firsthand how this impacts neighborhoods.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:2",
+        "speaker": "Maria",
+        "text": "Hey John, glad to hear you're fired up about something! Blogging can really make a difference. I agree that education and infrastructure are key to our community's growth.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:3",
+        "speaker": "John",
+        "text": "Thanks, Maria! It's been great to talk to someone who understands the importance of these issues. Digging deeper into the political system has been eye-opening, so I'm researching policies and writing about my thoughts and ideas. Hoping to raise awareness and start conversations to create positive change.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:4",
+        "speaker": "Maria",
+        "text": "Wow, John! Your hard work will definitely start conversations and create positive change. What policies have you been focusing on lately?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:5",
+        "speaker": "John",
+        "text": "Recently, education reform and infrastructure development. Good access to quality education and updated infrastructure are key to a thriving and successful community. My goal is to get conversations going and get people involved by sharing ideas and taking action. It's really empowering to know I can help make a difference in people's lives.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:6",
+        "speaker": "Maria",
+        "text": "Wow, John! Your passion and dedication is inspiring. It's great to see you taking the lead and making a difference. Keep up the amazing work!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:7",
+        "speaker": "John",
+        "text": "Thanks, Maria! Really appreciate your support and encouragement, it means a lot to me. I've gotten some good feedback on my blog posts so far. It's just a small step, but every step counts.",
+        "metadata": {
+          "img_url": [
+            "https://byronernest.files.wordpress.com/2022/11/img_5966-1.jpg"
+          ],
+          "blip_caption": "a photo of two men standing next to each other at a convention",
+          "query": "blog post education reform"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_12::episode-002",
+    "conversation_id": "conv-41",
+    "session_id": "session_12",
+    "observed_at": "2023-04-18T19:34:00",
+    "source_timestamp": "7:34 pm on 18 April, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Discussion about a convention with like-minded colleagues passionate about tech for community good",
+    "turns": [
+      {
+        "turn_id": "D12:8",
+        "speaker": "Maria",
+        "text": "It seems like your post is having an effect. Who are they? They're having fun!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:9",
+        "speaker": "John",
+        "text": "My colleagues and I went to a convention together last month. We're all passionate about using tech for good in our community. It was great to connect with like-minded folks and swap ideas. It's inspiring to see people united in their goal.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:10",
+        "speaker": "Maria",
+        "text": "Wow, that must have been awesome! Being around people who share your passion is truly inspiring. How did it feel to be surrounded by like-minded individuals there?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:11",
+        "speaker": "John",
+        "text": "Talking with the group of people who were as stoked as me on tech for change was awesome! It made me think we really can make a difference.",
+        "metadata": {
+          "blip_caption": "a photo of a group of people sitting around a table"
+        }
+      },
+      {
+        "turn_id": "D12:12",
+        "speaker": "Maria",
+        "text": "No way, John! That's really cool. What was the most exciting part of it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:13",
+        "speaker": "John",
+        "text": "The best part was the energy in the room - so infectious! We all had great ideas, brainstormed together, and stayed motivated. It was really empowering.",
+        "metadata": {
+          "blip_caption": "a photo of a group of military men sitting around a table"
+        }
+      },
+      {
+        "turn_id": "D12:14",
+        "speaker": "Maria",
+        "text": "That sounds amazing! How did being in that environment with such motivated people affect you?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:15",
+        "speaker": "John",
+        "text": "The motivated people around me gave me renewed energy and a purpose. It really inspired me to make a bigger difference.",
+        "metadata": {
+          "blip_caption": "a photo of a table with a map of a city on it"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_13::episode-001",
+    "conversation_id": "conv-41",
+    "session_id": "session_13",
+    "observed_at": "2023-05-04T15:18:00",
+    "source_timestamp": "3:18 pm on 4 May, 2023",
+    "timezone_status": "unspecified",
+    "theme": "John shares starting family boot camps and fitness improvements",
+    "turns": [
+      {
+        "turn_id": "D13:1",
+        "speaker": "John",
+        "text": "Hey Maria! Long time no see! Tons has gone down since then!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D13:2",
+        "speaker": "Maria",
+        "text": "Hey John! Nice to hear from you. What's new with you?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D13:3",
+        "speaker": "John",
+        "text": "I just started going to boot camps with my fam last month. It's good for bonding and getting fit.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D13:4",
+        "speaker": "Maria",
+        "text": "Sounds awesome, John! Working out together is a great way of bonding as a family. Have you noticed any changes in your fitness since you started?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D13:5",
+        "speaker": "John",
+        "text": "Yeah Maria! We've had lots more energy and noticed some gains in strength and endurance. We're pushing ourselves and supporting each other which is super motivating. Best of all, my kids are getting excited about staying active!",
+        "metadata": {
+          "blip_caption": "a photo of a white board with a list of workouts on it"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_14::episode-001",
+    "conversation_id": "conv-41",
+    "session_id": "session_14",
+    "observed_at": "2023-05-06T17:04:00",
+    "source_timestamp": "5:04 pm on 6 May, 2023",
+    "timezone_status": "unspecified",
+    "theme": "John announces running for office again and Maria offers encouragement and support",
+    "turns": [
+      {
+        "turn_id": "D14:1",
+        "speaker": "John",
+        "text": "Hey Maria, great to chat again! A lot has happened since we last spoke. Last week, I decided to run for office again - even though I haven't been successful before. I guess I can't let go of my dream to make a difference in my community. Can you believe it? Feels like a dream come true!",
+        "metadata": {
+          "blip_caption": "a photo of a poster on a bulletin board with a man smiling"
+        }
+      },
+      {
+        "turn_id": "D14:2",
+        "speaker": "Maria",
+        "text": "Way to go, John! You're doing great. I'm so proud of you for sticking with it. You're always dreaming up ways to make a difference and I'm sure your drive will pay off. Don't be afraid to take risks-- I'm 100% behind you!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:3",
+        "speaker": "John",
+        "text": "Maria, your support really means a lot! It's tough, but your kind words give me the motivation to keep going. I've still got a lot to learn, but I'm determined to make a difference. I appreciate your belief in me.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:4",
+        "speaker": "Maria",
+        "text": "John, I believe in you! Even small steps will make a difference. Keep going and stay true to yourself. You got this!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:5",
+        "speaker": "John",
+        "text": "Thanks, Maria! Your words really mean something. Sometimes it feels like it's too much, but your encouragement gives me the strength to keep going.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:6",
+        "speaker": "Maria",
+        "text": "Hey John, it's okay to feel overwhelmed from time to time. Just remember to pause, reflect, and take care of yourself. I'm here for you - let me know how I can support you.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_16::episode-005",
+    "conversation_id": "conv-41",
+    "session_id": "session_16",
+    "observed_at": "2023-05-25T13:24:00",
+    "source_timestamp": "1:24 pm on 25 May, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Closing affirmations on making a positive impact and future communication",
+    "turns": [
+      {
+        "turn_id": "D16:17",
+        "speaker": "John",
+        "text": "Thanks for letting me help, Maria. It's moments like these that make life worth living.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:18",
+        "speaker": "Maria",
+        "text": "Yep, John. These reminders help us stay motivated to make a positive impact. Well, talk to you soon!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:19",
+        "speaker": "John",
+        "text": "Yeah, Maria! We're really making progress towards making a positive impact. I believe in us! See ya!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_19::episode-002",
+    "conversation_id": "conv-41",
+    "session_id": "session_19",
+    "observed_at": "2023-06-16T19:20:00",
+    "source_timestamp": "7:20 pm on 16 June, 2023",
+    "timezone_status": "unspecified",
+    "theme": "John shares his promotion story and reflects on challenges and support",
+    "turns": [
+      {
+        "turn_id": "D19:6",
+        "speaker": "John",
+        "text": "Yeah, sure thing. I'll let you know. Oh, also...something massive happened since we last spoke. I got promoted at work! It's been a loooong time coming, and I'm over the moon about it!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:7",
+        "speaker": "Maria",
+        "text": "Wow John! Congrats on the promotion! Must have taken a lot of work. How did you feel when you found out?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:8",
+        "speaker": "John",
+        "text": "Thanks, Maria! I was really excited. It feels like all the hard work I've put in has paid off now that I'm an assistant manager- it's like a stepping stone for bigger things.",
+        "metadata": {
+          "img_url": [
+            "https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTEyL2ZsNTE4NTQxMzE2ODgtaW1hZ2UuanBn.jpg"
+          ],
+          "blip_caption": "a photography of a golden trophy on a black surface",
+          "query": "new office assistant manager sign",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D19:9",
+        "speaker": "Maria",
+        "text": "Wow, John! Congrats on the promotion! What's the backstory on that trophy?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:10",
+        "speaker": "John",
+        "text": "Thanks, Maria! It commemorates my journey. It's a symbol of all the obstacles I had to overcome to get here.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:11",
+        "speaker": "Maria",
+        "text": "Cool, so you have a reminder of all that. It's good to acknowledge what you've been through and appreciate where you are now. Could you tell me more about the challenges?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:12",
+        "speaker": "John",
+        "text": "Yeah, I faced all kinds of hurdles - tech stuff, workplace stuff... but the worst was self-doubt. There were moments when I questioned if I was on the right track. But with support at home and my own grit, I powered through. This promotion is a reward for all the hustle and hardship I put in - a reminder that I'm on the right path.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:13",
+        "speaker": "Maria",
+        "text": "Wow, John, it's incredible to see how far you've come! Your perseverance and determination is so inspiring. I can imagine those hurdles were tough to deal with, especially the self-doubt.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:14",
+        "speaker": "John",
+        "text": "Thanks, Maria! It wasn't easy, but I'm proud of what I achieved. It can be tricky, but having support and believing in myself really helped me out.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:15",
+        "speaker": "Maria",
+        "text": "Yeah John, having belief in yourself matters. Plus it helps a lot when you've got loved ones supporting you. What we can do is seriously incredible with the right people believing in us.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:16",
+        "speaker": "John",
+        "text": "Definitely, Maria. Support from loved ones is vital. With their trust, we can do anything! I'm really lucky to have my family on this journey with me.",
+        "metadata": {
+          "img_url": [
+            "https://riverstudiodesign.ca/wp-content/uploads/2019/09/overall-office-jpg-1.jpg"
+          ],
+          "blip_caption": "a photo of a desk with a chair and a lamp",
+          "query": "wife kids office desk"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_21::episode-005",
+    "conversation_id": "conv-41",
+    "session_id": "session_21",
+    "observed_at": "2023-07-03T20:43:00",
+    "source_timestamp": "8:43 pm on 3 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "John discusses his participation in a veterans' rights march and activism",
+    "turns": [
+      {
+        "turn_id": "D21:22",
+        "speaker": "John",
+        "text": "Yeah, Maria, keep it up! Even small things can mean a lot. I just participated in a marching event for veterans' rights and it was awesome, made me remember how much they sacrifice for us. We need to show our support however we can.",
+        "metadata": {
+          "blip_caption": "a photo of a badge and a flag on a table"
+        }
+      },
+      {
+        "turn_id": "D21:23",
+        "speaker": "Maria",
+        "text": "Wow, John! What inspired you to join it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D21:24",
+        "speaker": "John",
+        "text": "I've always had a great respect for our military and wanted to show my support. I think it's important to stand up for what we believe in.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D21:25",
+        "speaker": "Maria",
+        "text": "Wow, John! It's great to see you standing up for your beliefs.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D21:26",
+        "speaker": "John",
+        "text": "Thanks Maria, it was amazing being around others who shared the same values and passion as me. It reminded me how important it is to try and make a difference through activism. It really motivated me.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D21:27",
+        "speaker": "Maria",
+        "text": "That's awesome, John! Surrounding yourself with determined people striving for the same goals can be really motivating. Keep it up!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D21:28",
+        "speaker": "John",
+        "text": "Thanks, Maria! It really is. Striving for progress is crucial.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_22::episode-001",
+    "conversation_id": "conv-41",
+    "session_id": "session_22",
+    "observed_at": "2023-07-05T18:59:00",
+    "source_timestamp": "6:59 pm on 5 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Discussion on the impact of education and infrastructure on communities and personal motivation to make a positive change",
+    "turns": [
+      {
+        "turn_id": "D22:1",
+        "speaker": "John",
+        "text": "Since the last chat, I've been thinking about how education and infrastructure shape communities. It's so sad how they can stunt growth in neighborhoods, but it also drives me to do what I can to make it better.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D22:2",
+        "speaker": "Maria",
+        "text": "I totally agree. They play a crucial role in shaping communities. It's unfortunate to witness the negative effects when they are lacking, but it's inspiring to see your passion and proactive approach towards making a positive change.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D22:3",
+        "speaker": "John",
+        "text": "Your support means a lot. Feeling like it's an uphill battle is tough, but it's great to know there are people out there who see the value in them - it keeps me going.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D22:4",
+        "speaker": "Maria",
+        "text": "John, you got this! It's great to have a support system while tackling tough stuff. I'm here to lend an ear or help out however I can. You're really making a difference, and that's something to be proud of!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_22::episode-003",
+    "conversation_id": "conv-41",
+    "session_id": "session_22",
+    "observed_at": "2023-07-05T18:59:00",
+    "source_timestamp": "6:59 pm on 5 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Exploring various personal sources of inspiration and motivation",
+    "turns": [
+      {
+        "turn_id": "D22:9",
+        "speaker": "John",
+        "text": "Yeah, for sure! When times get hard, I look at it and remember why I'm doing what I'm doing. My family is my motivation and they keep me going. What about you? What keeps you inspired?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D22:10",
+        "speaker": "Maria",
+        "text": "I'm inspired by chatting to people, volunteering, and listening to music. Anything else that keeps you inspired?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D22:11",
+        "speaker": "John",
+        "text": "My family, exercise, and spending time with friends, for sure.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D22:12",
+        "speaker": "Maria",
+        "text": "That's great, John! It's true, we all have our own special sources of inspiration that keep us going.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D22:13",
+        "speaker": "John",
+        "text": "Definitely, Maria! Finding those special sources is key for staying motivated and tackling challenges. It's great when we figure out what makes us feel excited and alive.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D22:14",
+        "speaker": "Maria",
+        "text": "Yeah, John, those little things can spark our enthusiasm and motivate us. It's incredible how something as simple as a walk or a song can totally switch up our outlook.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_23::episode-001",
+    "conversation_id": "conv-41",
+    "session_id": "session_23",
+    "observed_at": "2023-07-07T18:29:00",
+    "source_timestamp": "6:29 pm on 7 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "John shares flood impact and community improvement plan",
+    "turns": [
+      {
+        "turn_id": "D23:1",
+        "speaker": "John",
+        "text": "Maria, since we talked, it's been tough. My old area was hit by a nasty flood last week. The infrastructure wasn't great so lots of homes were ruined. It's reminding me we need to fix things up in our community.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D23:2",
+        "speaker": "Maria",
+        "text": "Sorry to hear about what happened in your area, John. That must have been tough for you and everyone there. Is there anything I can do to help?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D23:3",
+        "speaker": "John",
+        "text": "Thanks a lot, Maria. Your offer means a lot to me. I'm getting people together to chat about this and discuss potential solutions. I'd really appreciate your thoughts.\n",
+        "metadata": {
+          "blip_caption": "a photo of a party invitation on a table with a pen and paper"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_26::episode-003",
+    "conversation_id": "conv-41",
+    "session_id": "session_26",
+    "observed_at": "2023-07-31T13:59:00",
+    "source_timestamp": "1:59 pm on 31 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "The importance of strong bonds and teamwork in community service",
+    "turns": [
+      {
+        "turn_id": "D26:11",
+        "speaker": "Maria",
+        "text": "Glad you've found that same strong bond. Having friends you can rely on makes a huge difference.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D26:12",
+        "speaker": "John",
+        "text": "Yeah, Maria! It's nice to know we're all in this together, striving to keep our community safe. I find it fulfilling and meaningful.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_28::episode-002",
+    "conversation_id": "conv-41",
+    "session_id": "session_28",
+    "observed_at": "2023-08-05T17:19:00",
+    "source_timestamp": "5:19 pm on 5 August, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Maria discusses volunteer work and encouragement; John shares related experiences and receives motivation",
+    "turns": [
+      {
+        "turn_id": "D28:8",
+        "speaker": "Maria",
+        "text": "Hey John, I'm here for you! Staying positive makes a big difference, even in tough times. Yesterday, I took up some community work with my friends from church. It was super rewarding!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D28:9",
+        "speaker": "John",
+        "text": "Wow, Maria! That's great. Glad it was rewarding for you.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D28:10",
+        "speaker": "Maria",
+        "text": "Thanks, John! These moments remind me of how important kindness and compassion are. Have you had any volunteer experiences you'd like to share?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D28:11",
+        "speaker": "John",
+        "text": "I haven't been able to volunteer much lately, but I definitely care about it. Last year, I helped renovate a rundown community center back home. It took a lot of work, but seeing the impact on the community was so worth it.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D28:12",
+        "speaker": "Maria",
+        "text": "John, that's great! Must be really satisfying to witness the positive effect it's having on your hometown.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D28:13",
+        "speaker": "John",
+        "text": "Yeah! It was really cool to see everyone come together and help out - it's been amazing to see it so busy!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D28:14",
+        "speaker": "Maria",
+        "text": "Wow, John, awesome job! Keep doing what you're doing - you're making a real difference!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D28:15",
+        "speaker": "John",
+        "text": "It's really encouraging to hear that. I'll keep pushing forward and doing my best.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D28:16",
+        "speaker": "Maria",
+        "text": "You got this! You're inspiring and keep making a difference.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D28:17",
+        "speaker": "John",
+        "text": "I appreciate it! Your words are really motivating.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D28:18",
+        "speaker": "Maria",
+        "text": "No worries, John. I'm here to support you. If there's anything else I can do, just let me know.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D28:19",
+        "speaker": "John",
+        "text": "Thanks, Maria. Your support means a lot to me. If I need anything, I'll be sure to reach out.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_30::episode-004",
+    "conversation_id": "conv-41",
+    "session_id": "session_30",
+    "observed_at": "2023-08-11T00:10:00",
+    "source_timestamp": "12:10 am on 11 August, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Maria encourages John to find meaningful ways to channel his passion",
+    "turns": [
+      {
+        "turn_id": "D30:15",
+        "speaker": "Maria",
+        "text": "Hey John, I understand how you feel. It's tough when you start questioning that. But remember, even small things can make a difference. Why do you feel that way?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D30:16",
+        "speaker": "John",
+        "text": "Thanks for understanding. I just want to positively affect people and the world, but it feels like I'm stuck. I need to find a better way to focus my passion and enthusiasm.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D30:17",
+        "speaker": "Maria",
+        "text": "Yeah, it can be tough. Taking small steps can help. Have you thought about any ideas for how to channel your energy into something meaningful?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D30:18",
+        "speaker": "John",
+        "text": "Lately I've been exploring options. One idea I had was to join local organizations or volunteering programs. Maybe that's an option.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D30:19",
+        "speaker": "Maria",
+        "text": "Sounds like a great plan, John! That could definitely help you make a difference. You can meet like-minded people and contribute to causes that you care about. Why not do some research and explore the organizations you'd be interested in?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D30:20",
+        "speaker": "John",
+        "text": "Yeah, Maria, that's a good idea. I'll make a list of the ones that suit what I believe in and reach out for more info. Thanks!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_32::episode-001",
+    "conversation_id": "conv-41",
+    "session_id": "session_32",
+    "observed_at": "2023-08-16T11:08:00",
+    "source_timestamp": "11:08 am on 16 August, 2023",
+    "timezone_status": "unspecified",
+    "theme": "John's involvement and experiences with the fire-fighting brigade and community support",
+    "turns": [
+      {
+        "turn_id": "D32:1",
+        "speaker": "John",
+        "text": "Hey Maria! Guess what? I'm now part of the fire-fighting brigade. I'm super excited to be involved and help out my community!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D32:2",
+        "speaker": "Maria",
+        "text": "Wow John, that's impressive! You're really enthusiastic about making a change. How's your experience been so far?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D32:3",
+        "speaker": "John",
+        "text": " I was impressed with their dedication and how well they worked together. Just being around them was so inspiring!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D32:4",
+        "speaker": "Maria",
+        "text": "That's amazing. Must have been awesome to see all those people working together.",
+        "metadata": {
+          "blip_caption": "a photo of a group of people loading a truck with a fire truck in the back"
+        }
+      },
+      {
+        "turn_id": "D32:5",
+        "speaker": "John",
+        "text": "It definitely was! Everyone was so into it. It's amazing how a group can succeed at something so important. It only took us two hours. We worked hard but did something good – it was really satisfying.",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/kkt623tlufk11.jpg"
+          ],
+          "blip_caption": "a photo of a cardboard box with a sign on it",
+          "query": "group of people lifting heavy object"
+        }
+      },
+      {
+        "turn_id": "D32:6",
+        "speaker": "Maria",
+        "text": "Wow, John! It looks like everyone was working hard. Did you raise any donations? ",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D32:7",
+        "speaker": "John",
+        "text": "Yup, we raised a ton! We got stuff like canned food, toiletries, and clothes to help out. Feels great to be part of it!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D32:8",
+        "speaker": "Maria",
+        "text": "I bet! It's great to see the community coming together to support the local fire station. ",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D32:9",
+        "speaker": "John",
+        "text": "You're right, Maria. It's great to help out and see everyone coming together for this cause. It gives me a sense of purpose and passion. I feel like this is my true calling.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D32:10",
+        "speaker": "Maria",
+        "text": "Awesome, John! Loving your newfound passion. You're doing great things - keep it up! It's wonderful to see everyone coming together for this cause.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D32:11",
+        "speaker": "John",
+        "text": "Thanks, Maria! Your support means a lot to me. It's amazing how finding my passion has made such a big impact. I'll keep working hard on it. The donations even helped get a brand new fire truck!",
+        "metadata": {
+          "img_url": [
+            "https://www.cityofmobile.org/fire/uploads/20180827-094050.jpg"
+          ],
+          "blip_caption": "a photo of a fire truck parked in a garage with other vehicles",
+          "query": "firetruck"
+        }
+      },
+      {
+        "turn_id": "D32:12",
+        "speaker": "Maria",
+        "text": "Look at that - we all donated for it, and it looks awesome!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D32:13",
+        "speaker": "John",
+        "text": "Thanks for being a part of this with me, Maria. I appreciate your support.",
+        "metadata": {}
+      }
+    ]
+  }
+]

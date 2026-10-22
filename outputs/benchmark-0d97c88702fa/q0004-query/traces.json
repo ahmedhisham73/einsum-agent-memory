@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "de85fab1-a8fd-4dd0-9edf-73804865ab36",
+    "response": {
+      "id": "chatcmpl-Ebs5g8poSvB3zKGIdALPCJDrbmPd2",
+      "object": "chat.completion",
+      "created": 1792694768,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Caroline\",\"property\":\"interest_in_field\",\"search\":\"standalone evidence search\"},{\"entity\":\"Caroline\",\"property\":\"career_interest\",\"search\":\"standalone evidence search\"},{\"entity\":\"Caroline\",\"property\":\"project\",\"search\":\"standalone evidence search\"},{\"entity\":\"Caroline\",\"property\":\"research_topic\",\"search\":\"standalone evidence search\"},{\"entity\":\"Caroline\",\"property\":\"academic_focus\",\"search\":\"standalone evidence search\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2676,
+        "completion_tokens": 94,
+        "total_tokens": 2770,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6cab07b253"
+    },
+    "latency_seconds": 2.092643
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "6928e86f-3ad5-4f9f-8ef4-44398c5bea61",
+    "response": {
+      "id": "chatcmpl-Ebs5kWFPK5xDvhWxrbyP6dNURsRtK",
+      "object": "chat.completion",
+      "created": 1792694772,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Caroline researched adoption agencies as part of her dream to have a family and give a loving home to kids who need it, with a specific interest in agencies that support LGBTQ+ individuals. Additionally, Caroline explored counseling and mental health as a career focus, especially working with trans people to support their mental health and self-acceptance. This interest is motivated by her personal mental health journey and the support she received. Thus, Caroline's research topics cover adoption processes and mental health counseling for LGBTQ+ individuals.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_2::episode-002\",\"turn_id\":\"D2:8\"},{\"episode_id\":\"conv-26::session_2::episode-002\",\"turn_id\":\"D2:10\"},{\"episode_id\":\"conv-26::session_2::episode-002\",\"turn_id\":\"D2:12\"},{\"episode_id\":\"conv-26::session_4::episode-003\",\"turn_id\":\"D4:11\"},{\"episode_id\":\"conv-26::session_4::episode-003\",\"turn_id\":\"D4:13\"},{\"episode_id\":\"conv-26::session_4::episode-003\",\"turn_id\":\"D4:15\"},{\"episode_id\":\"conv-26::session_7::episode-001\",\"turn_id\":\"D7:5\"},{\"episode_id\":\"conv-26::session_7::episode-001\",\"turn_id\":\"D7:7\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 5211,
+        "completion_tokens": 297,
+        "total_tokens": 5508,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6a82cb19e8"
+    },
+    "latency_seconds": 2.7406541670000006
+  }
+]

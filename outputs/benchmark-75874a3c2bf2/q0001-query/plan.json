@@ -1,0 +1,10 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Jon",
+      "property": "lost_job",
+      "search": "search for evidence indicating when Jon lost his job as a banker"
+    }
+  ]
+}

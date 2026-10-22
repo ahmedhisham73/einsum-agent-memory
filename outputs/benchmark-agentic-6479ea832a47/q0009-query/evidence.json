@@ -1,0 +1,284 @@
+[
+  {
+    "episode_id": "conv-41::session_1::chunk-0010",
+    "session_id": "session_1",
+    "observed_at": "2022-12-17T11:01:00",
+    "source_timestamp": "11:01 am on 17 December, 2022",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D1:11",
+        "speaker": "Maria",
+        "text": "Looks good! How did the extra funding help with building the school?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:12",
+        "speaker": "John",
+        "text": "It enabled needed repairs and renovations, making the learning environment safer and more modern for students.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:13",
+        "speaker": "Maria",
+        "text": "Wow John, it really made a difference for schools and students! It must have been great to be involved. What's your next move in politics?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:14",
+        "speaker": "John",
+        "text": "I'm gonna chat with local leaders and organizations, get support and gather ideas for my next move.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:15",
+        "speaker": "Maria",
+        "text": "Sounds good, John. Let's get support and great ideas from local leaders and organizations. Keep me posted on how your campaign is going.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:16",
+        "speaker": "John",
+        "text": "Got it! Thanks, Maria. I definitely will.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_7::chunk-0000",
+    "session_id": "session_7",
+    "observed_at": "2023-02-25T20:55:00",
+    "source_timestamp": "8:55 pm on 25 February, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D7:1",
+        "speaker": "Maria",
+        "text": "Hey John, how's it going? Just wanted to give you the heads up on what's been happening lately- I took a creative writing class recently, and it was super enlightening!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:2",
+        "speaker": "John",
+        "text": "Hey Maria! Wanted to let you know that I'm running for office again. It's been a wild ride, but I'm more excited than ever! How have you been?",
+        "metadata": {
+          "blip_caption": "a photo of a crowd of people sitting on a sidewalk with umbrellas"
+        }
+      },
+      {
+        "turn_id": "D7:3",
+        "speaker": "Maria",
+        "text": "Congrats, John! What made you decide to run again? As for me, I've been volunteering at a homeless shelter and it's really rewarding.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:4",
+        "speaker": "John",
+        "text": "Thanks, Maria! After my last run, I saw the impact I could make in the community through politics. It's rewarding to work towards positive changes and a better future.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:5",
+        "speaker": "Maria",
+        "text": "Wow John, your enthusiasm for making a better future is inspiring. Making a positive impact is so rewarding! While volunteering yesterday, I met this amazing woman, Jean, who had been through a lot, yet stayed optimistic and resilient. She showed me the importance of gratitude and connection.",
+        "metadata": {
+          "blip_caption": "a photo of a woman with a blue shirt and a ring on her neck"
+        }
+      },
+      {
+        "turn_id": "D7:6",
+        "speaker": "John",
+        "text": "Wow, Maria! How did she end up in such a situation, and how did she remain positive throughout?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_9::chunk-0000",
+    "session_id": "session_9",
+    "observed_at": "2023-04-02T09:36:00",
+    "source_timestamp": "9:36 am on 2 April, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D9:1",
+        "speaker": "Maria",
+        "text": "Hey John, long time no see! I've been taking a poetry class lately to help me put my feelings into words. It's been a rough ride, but it's been good. How have you been?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:2",
+        "speaker": "John",
+        "text": "Hey Maria! Awesome to hear from you. Sounds like a great way to delve into your feelings. Since we spoke last, I've had quite the adventure!\n",
+        "metadata": {
+          "img_url": [
+            "https://www.diplomaoutlet.com/wp-content/uploads/u9-1.jpg"
+          ],
+          "blip_caption": "a photo of a certificate of completion of a university degree",
+          "query": "diploma university"
+        }
+      },
+      {
+        "turn_id": "D9:3",
+        "speaker": "Maria",
+        "text": "Congrats on finishing your degree, John! It must have been quite the adventure. How did it feel when you achieved such a big goal?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:4",
+        "speaker": "John",
+        "text": "Thanks, Maria! It was quite a journey, but definitely worth it. I graduated last week!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:5",
+        "speaker": "Maria",
+        "text": "I bet! What are your plans for the future?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:6",
+        "speaker": "John",
+        "text": "Thanks! I'm considering going into policymaking because of my degree and my passion for making a positive impact. There are many opportunities to make improvements.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_12::chunk-0000",
+    "session_id": "session_12",
+    "observed_at": "2023-04-18T19:34:00",
+    "source_timestamp": "7:34 pm on 18 April, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D12:1",
+        "speaker": "John",
+        "text": "Hey Maria, hope you're doing okay. Since we chatted last, I've been blogging about politics and the government. It's been a really satisfying experience and I care about making a real impact. We need way better education and infrastructure and I know firsthand how this impacts neighborhoods.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:2",
+        "speaker": "Maria",
+        "text": "Hey John, glad to hear you're fired up about something! Blogging can really make a difference. I agree that education and infrastructure are key to our community's growth.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:3",
+        "speaker": "John",
+        "text": "Thanks, Maria! It's been great to talk to someone who understands the importance of these issues. Digging deeper into the political system has been eye-opening, so I'm researching policies and writing about my thoughts and ideas. Hoping to raise awareness and start conversations to create positive change.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:4",
+        "speaker": "Maria",
+        "text": "Wow, John! Your hard work will definitely start conversations and create positive change. What policies have you been focusing on lately?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:5",
+        "speaker": "John",
+        "text": "Recently, education reform and infrastructure development. Good access to quality education and updated infrastructure are key to a thriving and successful community. My goal is to get conversations going and get people involved by sharing ideas and taking action. It's really empowering to know I can help make a difference in people's lives.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:6",
+        "speaker": "Maria",
+        "text": "Wow, John! Your passion and dedication is inspiring. It's great to see you taking the lead and making a difference. Keep up the amazing work!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_14::chunk-0000",
+    "session_id": "session_14",
+    "observed_at": "2023-05-06T17:04:00",
+    "source_timestamp": "5:04 pm on 6 May, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D14:1",
+        "speaker": "John",
+        "text": "Hey Maria, great to chat again! A lot has happened since we last spoke. Last week, I decided to run for office again - even though I haven't been successful before. I guess I can't let go of my dream to make a difference in my community. Can you believe it? Feels like a dream come true!",
+        "metadata": {
+          "blip_caption": "a photo of a poster on a bulletin board with a man smiling"
+        }
+      },
+      {
+        "turn_id": "D14:2",
+        "speaker": "Maria",
+        "text": "Way to go, John! You're doing great. I'm so proud of you for sticking with it. You're always dreaming up ways to make a difference and I'm sure your drive will pay off. Don't be afraid to take risks-- I'm 100% behind you!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:3",
+        "speaker": "John",
+        "text": "Maria, your support really means a lot! It's tough, but your kind words give me the motivation to keep going. I've still got a lot to learn, but I'm determined to make a difference. I appreciate your belief in me.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:4",
+        "speaker": "Maria",
+        "text": "John, I believe in you! Even small steps will make a difference. Keep going and stay true to yourself. You got this!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:5",
+        "speaker": "John",
+        "text": "Thanks, Maria! Your words really mean something. Sometimes it feels like it's too much, but your encouragement gives me the strength to keep going.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:6",
+        "speaker": "Maria",
+        "text": "Hey John, it's okay to feel overwhelmed from time to time. Just remember to pause, reflect, and take care of yourself. I'm here for you - let me know how I can support you.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_28::chunk-0000",
+    "session_id": "session_28",
+    "observed_at": "2023-08-05T17:19:00",
+    "source_timestamp": "5:19 pm on 5 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D28:1",
+        "speaker": "John",
+        "text": "Hey Maria, great chatting with you again! Crazy thing happened since we last talked. I lost my job at the mechanical engineering company. They tanked and it's been really rough. Never saw this coming.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D28:2",
+        "speaker": "Maria",
+        "text": "Sorry to hear about your job, John. I can only imagine how tough it must be. How are you holding up?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D28:3",
+        "speaker": "John",
+        "text": "Thanks for your care, Maria. It's been tough but I'm trying to stay up. I've been looking into some opportunities in the tech industry for a while now. Maybe this is the change I need, you gave me the push!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D28:4",
+        "speaker": "Maria",
+        "text": "Hey John, glad you're looking into other avenues. Any promising leads come up?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D28:5",
+        "speaker": "John",
+        "text": "Thanks Maria! I may have found a job at a tech company I like that needs my mechanical skills for their hardware team. It feels different, but I think it's a great opportunity to learn and contribute.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D28:6",
+        "speaker": "Maria",
+        "text": "Wow, John, that sounds like the perfect job for you! You're so adaptable, I'm sure you'll do great. Good luck!",
+        "metadata": {}
+      }
+    ]
+  }
+]

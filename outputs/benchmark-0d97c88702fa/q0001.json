@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0001",
+  "category": 2,
+  "question": "When did Caroline go to the LGBTQ support group?",
+  "gold_answer": "7 May 2023",
+  "status": "scored",
+  "generated_answer": "Caroline went to the LGBTQ support group on 7 May, 2023 (the day before 8 May when she said \"I went to a LGBTQ support group yesterday\").",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_1::episode-001",
+      "turn_id": "D1:3"
+    }
+  ],
+  "query_elapsed_seconds": 4.692762834,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer correctly states the date Caroline went to the LGBTQ support group as 7 May 2023, which matches the reference answer."
+}

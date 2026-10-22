@@ -5585,5 +5585,164 @@
         "metadata": {}
       }
     ]
+  },
+  {
+    "episode_id": "conv-42::session_29::episode-001",
+    "conversation_id": "conv-42",
+    "session_id": "session_29",
+    "observed_at": "2022-11-11T00:06:00",
+    "source_timestamp": "12:06 am on 11 November, 2022",
+    "timezone_status": "unspecified",
+    "theme": "Joanna filming her road-trip script movie and set experiences",
+    "turns": [
+      {
+        "turn_id": "D29:1",
+        "speaker": "Joanna",
+        "text": "Nate, can you believe it? I'm finally filming my own movie from the road-trip script!",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/l7riz754xlj41.jpg"
+          ],
+          "blip_caption": "a photo of a person holding a clap board with a dog sleeping in a dog bed",
+          "query": "movie clapperboard movie set"
+        }
+      },
+      {
+        "turn_id": "D29:2",
+        "speaker": "Nate",
+        "text": "Congrats, Joanna! Not surprised at all that your hard work paid off. Must feel awesome to see your script come alive in a movie! Pretty cool when something you love brings success, right? Tell me more about your movie!",
+        "metadata": {
+          "blip_caption": "a photo of a trophy and a game controller on a table"
+        }
+      },
+      {
+        "turn_id": "D29:3",
+        "speaker": "Joanna",
+        "text": "Woohoo, thanks Nate! It's pretty wild to see it come alive. Every day on set is awesome and full of potential. Being able to show my vision is awesome.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D29:4",
+        "speaker": "Nate",
+        "text": "I think so too! What's been the coolest moment on set?",
+        "metadata": {
+          "blip_caption": "a photo of a fish tank with a fish inside of it"
+        }
+      },
+      {
+        "turn_id": "D29:5",
+        "speaker": "Joanna",
+        "text": "One of the actors came up to me and told me how much she liked my script! I was so excited when that happened - it gave me chills!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-42::session_29::episode-002",
+    "conversation_id": "conv-42",
+    "session_id": "session_29",
+    "observed_at": "2022-11-11T00:06:00",
+    "source_timestamp": "12:06 am on 11 November, 2022",
+    "timezone_status": "unspecified",
+    "theme": "Nate shares about his pet turtles and their calming presence",
+    "turns": [
+      {
+        "turn_id": "D29:6",
+        "speaker": "Nate",
+        "text": "Wow Joanna, that must have been so exciting! It's incredible when you get those moments of joy. Anyway, I took my turtles to the beach in Tampa yesterday! They always bring me peace in the craziness of life.",
+        "metadata": {
+          "blip_caption": "a photo of a turtle in a sink with a reflection of its head"
+        }
+      },
+      {
+        "turn_id": "D29:7",
+        "speaker": "Joanna",
+        "text": "Woah, that's awesome, Nate! You must really enjoy having them around - they're so cool! What do you love most about having them?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D29:8",
+        "speaker": "Nate",
+        "text": "Your completely right! I really love having them around. They're so cool and they make me feel calm. Plus, they don't require much looking after, which is great. I love seeing them soaking in the sun like this.",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/q35gmvlsr6yb1.jpg"
+          ],
+          "blip_caption": "a photo of a turtle sitting on a log in a pond",
+          "query": "pet turtles basking rock"
+        }
+      },
+      {
+        "turn_id": "D29:9",
+        "speaker": "Joanna",
+        "text": "That's awesome, Nate! They look so serene and happy. It's great to have something like that.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-42::session_29::episode-003",
+    "conversation_id": "conv-42",
+    "session_id": "session_29",
+    "observed_at": "2022-11-11T00:06:00",
+    "source_timestamp": "12:06 am on 11 November, 2022",
+    "timezone_status": "unspecified",
+    "theme": "Nate talks about making colorful coconut milk ice cream",
+    "turns": [
+      {
+        "turn_id": "D29:10",
+        "speaker": "Nate",
+        "text": "Yeah, turtles are like zen masters! They always remind me to slow down and appreciate the small things in life. I'm loving experimenting with flavors right now. Here are some colorful bowls of coconut milk ice cream that I made.",
+        "metadata": {
+          "img_url": [
+            "https://live.staticflickr.com/211/464853107_ccca166bec_b.jpg"
+          ],
+          "blip_caption": "a photography of a bowl of ice cream with a spoon in it",
+          "query": "homemade coconut milk ice cream colorful bowls",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D29:11",
+        "speaker": "Joanna",
+        "text": "Hey Nate, that looks really yummy! The colors and mix-ins give it a nice kick.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D29:12",
+        "speaker": "Nate",
+        "text": "Nice! I'm glad you like it too. This recipe really jazzes it up. Wanna give it a try?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D29:13",
+        "speaker": "Joanna",
+        "text": "Definitely, Nate! That ice cream looks mouthwatering. Thanks so much for offering!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D29:14",
+        "speaker": "Nate",
+        "text": "No worries, Joanna. Hope you enjoy it!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-42::session_29::episode-004",
+    "conversation_id": "conv-42",
+    "session_id": "session_29",
+    "observed_at": "2022-11-11T00:06:00",
+    "source_timestamp": "12:06 am on 11 November, 2022",
+    "timezone_status": "unspecified",
+    "theme": "Closing remarks and farewells",
+    "turns": [
+      {
+        "turn_id": "D29:15",
+        "speaker": "Joanna",
+        "text": "Yea, no worries! It was great catching up. Take it easy!",
+        "metadata": {}
+      }
+    ]
   }
 ]

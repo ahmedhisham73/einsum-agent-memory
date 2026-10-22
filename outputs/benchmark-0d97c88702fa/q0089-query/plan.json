@@ -1,0 +1,30 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Caroline",
+      "property": "emotional_state",
+      "search": "Caroline excited about adoption process emotional state"
+    },
+    {
+      "entity": "Caroline",
+      "property": "adoption_process_experience",
+      "search": "Caroline excitement in adoption process experience"
+    },
+    {
+      "entity": "Caroline",
+      "property": "anticipated_events",
+      "search": "Caroline anticipation in adoption process"
+    },
+    {
+      "entity": "Caroline",
+      "property": "motivation",
+      "search": "Caroline motivation related to adoption process"
+    },
+    {
+      "entity": "Caroline",
+      "property": "plans_to_adopt",
+      "search": "Caroline plans and excitement about adoption process"
+    }
+  ]
+}

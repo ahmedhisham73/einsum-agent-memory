@@ -1,0 +1,200 @@
+[
+  {
+    "episode_id": "conv-41::session_6::episode-002",
+    "conversation_id": "conv-41",
+    "session_id": "session_6",
+    "observed_at": "2023-02-05T14:33:00",
+    "source_timestamp": "2:33 pm on 5 February, 2023",
+    "timezone_status": "unspecified",
+    "theme": "John discusses his political motivations and they talk about helping a specific individual in need",
+    "turns": [
+      {
+        "turn_id": "D6:4",
+        "speaker": "John",
+        "text": "I feel a strong urge to serve my country and community. Running for office was my chance to make an impact. But anyway, tell me more about your charity event. Did something special happen that made it meaningful for you?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:5",
+        "speaker": "Maria",
+        "text": "Yeah, at the event, I had a conversation with someone named David. Hearing his story of hardship and how he ended up in difficult circumstances was so humbling. It just showed me that everyone has their own story and deserves understanding.",
+        "metadata": {
+          "blip_caption": "a photo of a man with a cell phone in his hand"
+        }
+      },
+      {
+        "turn_id": "D6:6",
+        "speaker": "John",
+        "text": "Wow, that's powerful. It just shows that everyone has their own story and deserves understanding. Do you know any organizations or services that could help him out?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:7",
+        "speaker": "Maria",
+        "text": "Yeah, I did. I talked to him afterwards and linked him up with a nearby organization that offers housing and support for homeless individuals. Hopefully, he'll find the help he needs.",
+        "metadata": {
+          "blip_caption": "a photo of a flyer with a group of people in a circle"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_8::episode-005",
+    "conversation_id": "conv-41",
+    "session_id": "session_8",
+    "observed_at": "2023-03-06T18:03:00",
+    "source_timestamp": "6:03 pm on 6 March, 2023",
+    "timezone_status": "unspecified",
+    "theme": "John's aptitude test and volunteering aspirations",
+    "turns": [
+      {
+        "turn_id": "D8:18",
+        "speaker": "John",
+        "text": "Wow, having symbols of travel memories in our homes is so cool! Last week I retook the aptitude test with some great results, and I feel drawn to serving my country in this way.",
+        "metadata": {
+          "blip_caption": "a photo of a wooden sign with a flag and eagle"
+        }
+      },
+      {
+        "turn_id": "D8:19",
+        "speaker": "Maria",
+        "text": "Wow, that's really cool! Have you discussed it with anyone yet?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:20",
+        "speaker": "John",
+        "text": "Yeah, I chatted with my family and friends about it. They've been supportive and understand why I want to volunteer. I'm really proud to have this opportunity!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_15::episode-001",
+    "conversation_id": "conv-41",
+    "session_id": "session_15",
+    "observed_at": "2023-05-20T19:38:00",
+    "source_timestamp": "7:38 pm on 20 May, 2023",
+    "timezone_status": "unspecified",
+    "theme": "John shares his veterans support project and Maria offers encouragement and help",
+    "turns": [
+      {
+        "turn_id": "D15:1",
+        "speaker": "John",
+        "text": "Hey Maria, how's it going? Been real busy tackling a project to support military veterans. Trying to get a petition going, it's pretty rewarding but kinda stressful. How are you?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:2",
+        "speaker": "Maria",
+        "text": "Hey John, I'm good. Sorry to hear it's been rough. How did you decide to take on that project?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:3",
+        "speaker": "John",
+        "text": "Hi Maria, thanks for asking. I've always been passionate about veterans and their rights. Last week, I realized again how much they've done for us and wanted to show my appreciation in some way. So, I worked on a project to support them. It's my way of giving back.",
+        "metadata": {
+          "blip_caption": "a photo of a parking lot with a flag and flowers"
+        }
+      },
+      {
+        "turn_id": "D15:4",
+        "speaker": "Maria",
+        "text": "Wow, John! What a kind gesture. It's really cool seeing you making a difference.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:5",
+        "speaker": "John",
+        "text": "Thanks, Maria. It sure has taken a lot of work, but I think it's worth it. Just want to let them know their hard work is appreciated.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:6",
+        "speaker": "Maria",
+        "text": "Wow, John, that's awesome! Your project is going to be great for them!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:7",
+        "speaker": "John",
+        "text": "Yeah, I hope so. They've given so much and deserve our backing. I want to help make their lives better.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:8",
+        "speaker": "Maria",
+        "text": "That's great, John! It's awesome that you're doing that.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:9",
+        "speaker": "John",
+        "text": "I'm really passionate about making sure veterans are supported and valued in our community, so let's make it happen!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:10",
+        "speaker": "Maria",
+        "text": "Count me in, John! I'm in to help out with that. Let's make a difference together.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_21::episode-005",
+    "conversation_id": "conv-41",
+    "session_id": "session_21",
+    "observed_at": "2023-07-03T20:43:00",
+    "source_timestamp": "8:43 pm on 3 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "John discusses his participation in a veterans' rights march and activism",
+    "turns": [
+      {
+        "turn_id": "D21:22",
+        "speaker": "John",
+        "text": "Yeah, Maria, keep it up! Even small things can mean a lot. I just participated in a marching event for veterans' rights and it was awesome, made me remember how much they sacrifice for us. We need to show our support however we can.",
+        "metadata": {
+          "blip_caption": "a photo of a badge and a flag on a table"
+        }
+      },
+      {
+        "turn_id": "D21:23",
+        "speaker": "Maria",
+        "text": "Wow, John! What inspired you to join it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D21:24",
+        "speaker": "John",
+        "text": "I've always had a great respect for our military and wanted to show my support. I think it's important to stand up for what we believe in.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D21:25",
+        "speaker": "Maria",
+        "text": "Wow, John! It's great to see you standing up for your beliefs.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D21:26",
+        "speaker": "John",
+        "text": "Thanks Maria, it was amazing being around others who shared the same values and passion as me. It reminded me how important it is to try and make a difference through activism. It really motivated me.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D21:27",
+        "speaker": "Maria",
+        "text": "That's awesome, John! Surrounding yourself with determined people striving for the same goals can be really motivating. Keep it up!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D21:28",
+        "speaker": "John",
+        "text": "Thanks, Maria! It really is. Striving for progress is crucial.",
+        "metadata": {}
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "question_id": "conv-41::q0009",
+  "category": 3,
+  "question": "What might John's financial status be?",
+  "gold_answer": "Middle-class or wealthy",
+  "status": "scored",
+  "generated_answer": "John's financial status appears unstable. He lost his job at a mechanical engineering company that went bankrupt, which was a rough experience for him. However, he is actively seeking new opportunities, specifically in the tech industry, and may have found a job at a tech company utilizing his mechanical skills. There is no direct information indicating wealth or financial security, but current evidence points to a recent financial challenge and a transition phase.",
+  "citations": [
+    {
+      "episode_id": "conv-41::session_28::chunk-0000",
+      "turn_id": "D28:1"
+    },
+    {
+      "episode_id": "conv-41::session_28::chunk-0000",
+      "turn_id": "D28:3"
+    },
+    {
+      "episode_id": "conv-41::session_28::chunk-0000",
+      "turn_id": "D28:5"
+    }
+  ],
+  "query_elapsed_seconds": 6.937800084,
+  "label": "WRONG",
+  "judge_reason": "The generated answer identifies John's financial status as unstable due to job loss and recent challenges, which contradicts the reference answer suggesting he is middle-class or wealthy."
+}

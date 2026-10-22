@@ -1,6 +1,6 @@
 {
   "experiment_id": "offline-memory-622a0d5cec62",
-  "recorded_calls": 85,
+  "recorded_calls": 166,
   "groups": [
     {
       "approach": "ensimem",
@@ -9,12 +9,12 @@
       "usage_kind": "generation",
       "provider": "openai",
       "model": "gpt-4.1-mini-2025-04-14",
-      "calls": 52,
+      "calls": 133,
       "retry_calls": 0,
       "missing_usage_calls": 0,
-      "reported_input_tokens": 41798,
-      "reported_output_tokens": 24897,
-      "total_tokens": 66695,
+      "reported_input_tokens": 106566,
+      "reported_output_tokens": 63557,
+      "total_tokens": 170123,
       "cached_input_tokens": 0,
       "usage_complete": true
     },

@@ -1,0 +1,219 @@
+[
+  {
+    "episode_id": "conv-30::session_1::episode-001",
+    "conversation_id": "conv-30",
+    "session_id": "session_1",
+    "observed_at": "2023-01-20T16:04:00",
+    "source_timestamp": "4:04 pm on 20 January, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Job losses and new business plans",
+    "turns": [
+      {
+        "turn_id": "D1:1",
+        "speaker": "Gina",
+        "text": "Hey Jon! Good to see you. What's up? Anything new?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:2",
+        "speaker": "Jon",
+        "text": "Hey Gina! Good to see you too. Lost my job as a banker yesterday, so I'm gonna take a shot at starting my own business.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:3",
+        "speaker": "Gina",
+        "text": "Sorry about your job Jon, but starting your own business sounds awesome! Unfortunately, I also lost my job at Door Dash this month. What business are you thinking of?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_6::episode-001",
+    "conversation_id": "conv-30",
+    "session_id": "session_6",
+    "observed_at": "2023-03-16T14:35:00",
+    "source_timestamp": "2:35 pm on 16 March, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Personal updates and challenges",
+    "turns": [
+      {
+        "turn_id": "D6:1",
+        "speaker": "Jon",
+        "text": "Hi Gina! Been hectic for me lately. Started hitting the gym last week to stay on track with the venture. Gotta figure out how to balance it all, but it's going well. How about you?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:2",
+        "speaker": "Gina",
+        "text": "Hey Jon! Great to hear from you. Been having some tough times lately.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:3",
+        "speaker": "Jon",
+        "text": "Oof, sorry to hear that. What's up? Is there anything I can do to help?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:4",
+        "speaker": "Gina",
+        "text": "Thanks, Jon! Appreciate your offer. Since I lost my job at Door Dash, things have been tough. But here's some good news - I've got something to share!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_8::episode-002",
+    "conversation_id": "conv-30",
+    "session_id": "session_8",
+    "observed_at": "2023-04-03T13:26:00",
+    "source_timestamp": "1:26 pm on 3 April, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Gina shares her efforts and motivation for growing her online fashion business",
+    "turns": [
+      {
+        "turn_id": "D8:4",
+        "speaker": "Gina",
+        "text": "Oof, that's tough, Jon. I got some new offers and promotions going on my online store to try and bring in new customers. It's been a wild ride starting my business, but I'm not giving up!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:5",
+        "speaker": "Jon",
+        "text": "Nice one, Gina! Love how you never give up. What helps you stay motivated?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:6",
+        "speaker": "Gina",
+        "text": "Thanks Jon! Dance is my stress relief and fashion fuels my creativity. I love finding new trends for my store. It keeps me motivated to keep growing. Check out this pic of my fave dance session!",
+        "metadata": {
+          "img_url": [
+            "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_2151,w_2403,x_0,y_1044/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/export-1-37_l33gst.jpg"
+          ],
+          "blip_caption": "a photo of a man and woman doing a yoga pose",
+          "query": "dance studio session"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_10::episode-001",
+    "conversation_id": "conv-30",
+    "session_id": "session_10",
+    "observed_at": "2023-04-25T11:24:00",
+    "source_timestamp": "11:24 am on 25 April, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Sharing updates on new business ventures and personal challenges",
+    "turns": [
+      {
+        "turn_id": "D10:1",
+        "speaker": "Jon",
+        "text": "Hi Gina! I just wanted to fill you in on my business. Yesterday, I went to a fair to show off my studio, it was both stressful and great! I got some possible leads, so that was awesome. But overall, I've learned that this biz is no cakewalk and having confidence in yourself is important for making it successful!",
+        "metadata": {
+          "img_url": [
+            "https://www.samfsn.org/images/samsfn-events/WNYD2.jpg"
+          ],
+          "blip_caption": "a photo of a group of women performing a dance on a stage",
+          "query": "fair booth flyers brochures dance studio"
+        }
+      },
+      {
+        "turn_id": "D10:2",
+        "speaker": "Gina",
+        "text": "Hey Jon, congrats on the fair! It's awesome to see your hard work paying off. Keep on pushing, pal, you're headed for greatness. Oh, and BTW, I started my own online clothing store not so long ago - pretty cool, huh?",
+        "metadata": {
+          "img_url": [
+            "https://images.squarespace-cdn.com/content/v1/5ad8eb7f506fbec1f61b54ea/1539686276776-HPK5GWLCBQ0MHE5GSE6S/web_homepage_mock.jpg"
+          ],
+          "blip_caption": "a photography of a laptop with a sale ad on the screen",
+          "query": "clothing store website",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D10:3",
+        "speaker": "Jon",
+        "text": "Thanks, Gina! Appreciate your support. Your store looks great, I remember it!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:4",
+        "speaker": "Gina",
+        "text": "Thanks, Jon! After losing my job, I wanted to take control of my own destiny and this seemed like the perfect way to do it. It's been a tough journey, but very rewarding.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_14::episode-003",
+    "conversation_id": "conv-30",
+    "session_id": "session_14",
+    "observed_at": "2023-06-16T21:38:00",
+    "source_timestamp": "9:38 pm on 16 June, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Discussion about entrepreneurship; Gina shares her journey and advice for starting a business",
+    "turns": [
+      {
+        "turn_id": "D14:7",
+        "speaker": "Jon",
+        "text": "Your help really helps. Hey, have you thought about being an entrepreneur?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:8",
+        "speaker": "Gina",
+        "text": "Ha, yeah, Jon. I've been one 'cause I lost my job. I opened an online clothing store and it's been great! Being my own boss and doing something I love is awesome.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:9",
+        "speaker": "Jon",
+        "text": "Wow, Gina! You did great taking that leap. Congrats! Got any advice for someone just starting out?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:10",
+        "speaker": "Gina",
+        "text": "Thanks, Jon! It was a huge jump, but totally worth it. My advice: stay passionate, focused and resilient. Challenges will come, but believe in yourself and keep going. And stay open to learning and improving.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_18::episode-002",
+    "conversation_id": "conv-30",
+    "session_id": "session_18",
+    "observed_at": "2023-07-21T17:44:00",
+    "source_timestamp": "5:44 pm on 21 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Discussion about overcoming business challenges and networking",
+    "turns": [
+      {
+        "turn_id": "D18:4",
+        "speaker": "Jon",
+        "text": "Thanks for the support. Running a business isn't easy, but I'm determined to make it work. How have you tackled challenges in your business? Got any advice?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:5",
+        "speaker": "Gina",
+        "text": "I've had some tough times with my business, Jon. Sourcing trendy pieces for my store was a big hurdle. I had to do a lot of research and networking. My advice? Don't be scared to reach out to people in your field for help and contacts. Networking was a lifesaver for me and opened me up to amazing products that I might not have found otherwise.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:6",
+        "speaker": "Jon",
+        "text": "Awesome advice! Lately I've been networking and it's gotten me some good stuff. Really can't beat what connections can do. Check this pic I got from the last networking event!",
+        "metadata": {
+          "img_url": [
+            "https://live.staticflickr.com/7284/16241297914_14ea605e4b_b.jpg"
+          ],
+          "re-download": true,
+          "blip_caption": "a photography of a group of people standing in a room"
+        }
+      }
+    ]
+  }
+]

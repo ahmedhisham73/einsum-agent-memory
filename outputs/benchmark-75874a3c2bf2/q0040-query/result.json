@@ -1,0 +1,21 @@
+{
+  "status": "completed",
+  "experiment_id": "q0040-query",
+  "memory_build": "offline-memory-48c46fbef6ca",
+  "embedding_fingerprint": "aeef69a047070b680431916bebb6e37b86666fa6863cb871795c9d11b344726a",
+  "question": "What is Gina's favorite style of dance?",
+  "answer": "Gina's favorite style of dance is contemporary dance, described as expressive, graceful, and speaking to her.",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-30::session_1::episode-002",
+      "turn_id": "D1:9"
+    }
+  ],
+  "elapsed_seconds": 4.291523292,
+  "implementation": {
+    "structured_matching": "literal entity / property-token overlap",
+    "all_matching": "all episodes; no optimized exhaustive retrieval",
+    "coverage": "answer-model sufficiency check with expansion"
+  }
+}

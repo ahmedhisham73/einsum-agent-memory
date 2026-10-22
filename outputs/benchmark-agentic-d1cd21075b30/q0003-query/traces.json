@@ -1,0 +1,125 @@
+[
+  {
+    "stage": "agent_decision",
+    "call_id": "3ddf64ff-652e-4d23-af37-d9757dca5096",
+    "response": {
+      "id": "chatcmpl-EbsIW8c68fr9bFUDHLkJxeRw8d4uZ",
+      "object": "chat.completion",
+      "created": 1792695564,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"search\",\"query\":\"Jon and Gina methods to destress\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 152,
+        "completion_tokens": 15,
+        "total_tokens": 167,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_b64959fd61"
+    },
+    "latency_seconds": 1.248192583
+  },
+  {
+    "stage": "agent_decision",
+    "call_id": "f835184d-bfc6-4473-9619-0fe4791d10a2",
+    "response": {
+      "id": "chatcmpl-EbsIYTFUbOqrEKhtXaf2C6w7ja8DZ",
+      "object": "chat.completion",
+      "created": 1792695566,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"ready\",\"reason\":\"Multiple conversations confirm that both Jon and Gina like to destress by dancing. Jon says dancing has been his stress-buster since childhood and a must-have in his life, while Gina also mentions dance as her stress fix where all her worries vanish. This shared information specifically addresses how they both like to destress.\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2626,
+        "completion_tokens": 70,
+        "total_tokens": 2696,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_b64959fd61"
+    },
+    "latency_seconds": 1.481385125
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "c36dd778-3a2d-491d-87e2-901d3c015290",
+    "response": {
+      "id": "chatcmpl-EbsIam8tMnO0ciWbLaWWoiQhClw5L",
+      "object": "chat.completion",
+      "created": 1792695568,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Jon and Gina both like to de-stress by dancing.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-30::session_2::chunk-0010\",\"turn_id\":\"D2:11\"},{\"episode_id\":\"conv-30::session_2::chunk-0010\",\"turn_id\":\"D2:12\"},{\"episode_id\":\"conv-30::session_11::chunk-0000\",\"turn_id\":\"D11:5\"},{\"episode_id\":\"conv-30::session_11::chunk-0000\",\"turn_id\":\"D11:6\"},{\"episode_id\":\"conv-30::session_11::chunk-0005\",\"turn_id\":\"D11:7\"},{\"episode_id\":\"conv-30::session_11::chunk-0005\",\"turn_id\":\"D11:8\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2547,
+        "completion_tokens": 169,
+        "total_tokens": 2716,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6a82cb19e8"
+    },
+    "latency_seconds": 3.9567998330000003
+  }
+]

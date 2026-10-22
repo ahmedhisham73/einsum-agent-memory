@@ -318,6 +318,123 @@ def main():
                 raise ValueError("Expected JSON object")
             return parsed
 
+
+        # Robust structured model responses v1
+        _original_chat = chat
+
+        def validate_response(parsed, payload, stage):
+            if stage == "requirement_planning":
+                requirements = parsed.get("requirements")
+                if (
+                    parsed.get("scope") not in ("point", "all_matching")
+                    or not isinstance(requirements, list)
+                    or not 1 <= len(requirements) <= 8
+                ):
+                    raise ValueError("Invalid retrieval plan")
+
+                for requirement in requirements:
+                    if not isinstance(requirement, dict):
+                        raise ValueError("Invalid requirement")
+                    for field in ("entity", "property", "search"):
+                        if not isinstance(requirement.get(field), str):
+                            raise ValueError("Invalid requirement field")
+                    if not requirement["search"].strip():
+                        raise ValueError("Empty requirement search")
+
+            elif stage == "grounded_answer":
+                if (
+                    not isinstance(parsed.get("answer"), str)
+                    or type(parsed.get("sufficient")) is not bool
+                    or not isinstance(parsed.get("citations"), list)
+                ):
+                    raise ValueError("Invalid answer schema")
+
+                supplied = {
+                    episode["episode_id"]: {
+                        turn["turn_id"] for turn in episode["turns"]
+                    }
+                    for episode in payload["episodes"]
+                }
+                original = json.loads(json.dumps(parsed["citations"]))
+                repairs = []
+
+                for citation in parsed["citations"]:
+                    if not isinstance(citation, dict):
+                        raise ValueError("Invalid citation schema")
+
+                    episode_id = citation.get("episode_id")
+                    turn_id = citation.get("turn_id")
+
+                    if (
+                        not isinstance(episode_id, str)
+                        or not isinstance(turn_id, str)
+                    ):
+                        raise ValueError("Invalid citation IDs")
+
+                    if turn_id in supplied.get(episode_id, set()):
+                        continue
+
+                    matches = [
+                        eid for eid, turns in supplied.items()
+                        if turn_id in turns
+                    ]
+
+                    if (
+                        len(matches) != 1
+                        or matches[0].rsplit("::", 1)[0]
+                        != episode_id.rsplit("::", 1)[0]
+                    ):
+                        raise ValueError("Unresolved citation")
+
+                    repairs.append({
+                        "turn_id": turn_id,
+                        "original_episode_id": episode_id,
+                        "corrected_episode_id": matches[0],
+                    })
+                    citation["episode_id"] = matches[0]
+
+                if parsed["sufficient"] and not parsed["citations"]:
+                    raise ValueError("Supported answer requires citations")
+
+                if repairs:
+                    parsed["citation_recovery"] = {
+                        "original_citations": original,
+                        "repairs": repairs,
+                        "method": "unique exact turn within same session",
+                    }
+
+            return parsed
+
+        def chat(system, payload, stage):
+            last_error = None
+
+            for attempt in range(1, 4):
+                instruction = system
+                if attempt > 1:
+                    instruction += (
+                        "\nYour previous response failed structural validation. "
+                        "Return one complete, concise JSON object. "
+                        "Copy citation episode_id and turn_id exactly from "
+                        "the same supplied episode. Do not invent IDs. "
+                        "Keep requirement fields short."
+                    )
+
+                try:
+                    parsed = _original_chat(instruction, payload, stage)
+                    return validate_response(parsed, payload, stage)
+                except (ValueError, KeyError, TypeError) as error:
+                    last_error = error
+                    print(
+                        f"{stage}: invalid response "
+                        f"({attempt}/3): {error}",
+                        flush=True,
+                    )
+
+            raise ValueError(
+                f"{stage}: failed structural validation after 3 attempts"
+            ) from last_error
+
+
         print("Planning question...", flush=True)
         plan = chat(
             """Create an evidence retrieval plan. Do not answer.

@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "db83b4b7-326b-49c9-a5d3-6e51ad04840d",
+    "response": {
+      "id": "chatcmpl-EbsSTkiNZPyawNDpQISd5MXZ3DDfE",
+      "object": "chat.completion",
+      "created": 1792696181,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Maria\",\"property\":\"made_friends_at\",\"search\":\"standalone evidence search\"},{\"entity\":\"Maria\",\"property\":\"friendship_value\",\"search\":\"standalone evidence search\"},{\"entity\":\"Maria\",\"property\":\"values_friendship_with\",\"search\":\"standalone evidence search\"},{\"entity\":\"Maria\",\"property\":\"friend_of\",\"search\":\"standalone evidence search\"},{\"entity\":\"Maria\",\"property\":\"relationship\",\"search\":\"standalone evidence search\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3703,
+        "completion_tokens": 93,
+        "total_tokens": 3796,
+        "prompt_tokens_details": {
+          "cached_tokens": 3456,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_59a3828018"
+    },
+    "latency_seconds": 1.7038932080000002
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "b56ea6ef-7985-4983-9afd-b0b481e3535e",
+    "response": {
+      "id": "chatcmpl-EbsSWKmoMz3EScV6cTV3mucLxpMaX",
+      "object": "chat.completion",
+      "created": 1792696184,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Maria has made friends with some friends from church, as mentioned in her camping trip with them. She also values friendship highly, considering friends like John who share the same passion for community work and such. Her relationship with John is supportive and collaborative, and they share a friendship based on mutual respect and shared goals in community improvement.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-41::session_18::episode-001\",\"turn_id\":\"D18:1\"},{\"episode_id\":\"conv-41::session_23::episode-002\",\"turn_id\":\"D23:6\"},{\"episode_id\":\"conv-41::session_23::episode-002\",\"turn_id\":\"D23:13\"},{\"episode_id\":\"conv-41::session_29::episode-004\",\"turn_id\":\"D29:17\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 4439,
+        "completion_tokens": 170,
+        "total_tokens": 4609,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6a82cb19e8"
+    },
+    "latency_seconds": 3.813636958
+  }
+]

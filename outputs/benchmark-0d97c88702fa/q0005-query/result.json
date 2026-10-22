@@ -1,0 +1,41 @@
+{
+  "status": "completed",
+  "experiment_id": "q0005-query",
+  "memory_build": "offline-memory-a5e48166f56e",
+  "embedding_fingerprint": "264e45d8331b217a87fc15e35db2c614b32e9c572d0bbb53fe9bcc90dda3a8a6",
+  "question": "What is Caroline's identity?",
+  "answer": "Caroline is a trans woman who identifies as authentic and proud of her identity, having overcome challenges related to gender identity. She is a single woman actively pursuing adoption to create a loving family for children in need. Caroline values inclusivity, community support, and kindness. She is committed to volunteering with youth, believes in supporting and connecting with others, and embraces creativity and self-expression. Her beliefs and attitudes highlight hope, optimism, and dedication toward providing a safe, loving home through adoption and building meaningful personal and community relationships.",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-26::session_16::episode-005",
+      "turn_id": "D16:13"
+    },
+    {
+      "episode_id": "conv-26::session_2::episode-002",
+      "turn_id": "D2:8"
+    },
+    {
+      "episode_id": "conv-26::session_2::episode-002",
+      "turn_id": "D2:12"
+    },
+    {
+      "episode_id": "conv-26::session_15::episode-002",
+      "turn_id": "D15:5"
+    },
+    {
+      "episode_id": "conv-26::session_15::episode-002",
+      "turn_id": "D15:9"
+    },
+    {
+      "episode_id": "conv-26::session_19::episode-001",
+      "turn_id": "D19:3"
+    }
+  ],
+  "elapsed_seconds": 7.2292315,
+  "implementation": {
+    "structured_matching": "literal entity / property-token overlap",
+    "all_matching": "all episodes; no optimized exhaustive retrieval",
+    "coverage": "answer-model sufficiency check with expansion"
+  }
+}

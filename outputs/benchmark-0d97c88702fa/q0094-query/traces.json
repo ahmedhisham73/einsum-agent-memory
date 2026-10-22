@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "b749883b-d91f-49a1-a00c-f30f1086290a",
+    "response": {
+      "id": "chatcmpl-EbsCId6OKqNOZopWNf5YzURWpyBCb",
+      "object": "chat.completion",
+      "created": 1792695178,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"grandma\",\"property\":\"gifted_by\",\"search\":\"grandma gave a gift to Caroline\"},{\"entity\":\"grandma\",\"property\":\"gifted_item\",\"search\":\"item gifted by grandma to Caroline\"},{\"entity\":\"gift\",\"property\":\"receiver\",\"search\":\"gift was received by Caroline\"},{\"entity\":\"gift\",\"property\":\"description\",\"search\":\"description of gift given by grandma to Caroline\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2679,
+        "completion_tokens": 85,
+        "total_tokens": 2764,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6cab07b253"
+    },
+    "latency_seconds": 2.4058583749999998
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "cd2bbcf6-deec-45ec-acbf-858da3a148bf",
+    "response": {
+      "id": "chatcmpl-EbsCKjPXe6oXB6ZM6toMA1grExNPp",
+      "object": "chat.completion",
+      "created": 1792695180,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Grandma's gift to Caroline was a necklace with a cross and a heart, symbolizing love, faith, and strength. It was given to Caroline when she was young as a reminder of her roots and the love and support from her family.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_4::episode-001\",\"turn_id\":\"D4:3\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 5104,
+        "completion_tokens": 85,
+        "total_tokens": 5189,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6a82cb19e8"
+    },
+    "latency_seconds": 2.029347167
+  }
+]

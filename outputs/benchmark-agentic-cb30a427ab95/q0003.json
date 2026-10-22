@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-41::q0003",
+  "category": 1,
+  "question": "What martial arts has John done?",
+  "gold_answer": "Kickboxing, Taekwondo",
+  "status": "failed",
+  "error": "Query failed. See q0003.log"
+}

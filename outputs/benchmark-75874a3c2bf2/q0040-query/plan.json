@@ -1,0 +1,10 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Gina",
+      "property": "favorite_dance_style",
+      "search": "search for Gina's favorite dance style or favorite style of dance mentioned"
+    }
+  ]
+}

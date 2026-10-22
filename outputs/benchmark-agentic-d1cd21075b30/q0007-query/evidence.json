@@ -1,0 +1,242 @@
+[
+  {
+    "episode_id": "conv-30::session_1::chunk-0020",
+    "session_id": "session_1",
+    "observed_at": "2023-01-20T16:04:00",
+    "source_timestamp": "4:04 pm on 20 January, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D1:21",
+        "speaker": "Gina",
+        "text": "Cool setup! Man, you can't deny that view! Got time to rehearse with a biz and a new store?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:22",
+        "speaker": "Jon",
+        "text": "Hopefully, we will find a place like this that will inspire us!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:23",
+        "speaker": "Gina",
+        "text": "Wow, it looks great! What dances do you practice? Got any projects planned?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:24",
+        "speaker": "Jon",
+        "text": "Thanks! I rehearsed with a small group of dancers after work. We do all kinds of dances, from contemporary to hip-hop. We've got some cool projects in the works. Finishing up choreography to perform at a nearby festival next month. Can't wait!",
+        "metadata": {
+          "img_url": [
+            "https://markmorrisdancegroup.org/wp-content/uploads/2021/04/MM0108_JesuMeineFreude_Boston_BrazilTom_02.jpg"
+          ],
+          "blip_caption": "a photo of a group of dancers in white dresses on a stage",
+          "query": "group dancers performing on stage"
+        }
+      },
+      {
+        "turn_id": "D1:25",
+        "speaker": "Gina",
+        "text": "Wow, it looks awesome! Are they yours at the festival? They're so graceful!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:26",
+        "speaker": "Jon",
+        "text": "Yeah, they're the ones performing at the festival! They've been practicing hard and will definitely impress with their grace and skill.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_1::chunk-0025",
+    "session_id": "session_1",
+    "observed_at": "2023-01-20T16:04:00",
+    "source_timestamp": "4:04 pm on 20 January, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D1:27",
+        "speaker": "Gina",
+        "text": "Wow, they look great! Can't wait to see them rock the festival. Gonna be awesome!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:28",
+        "speaker": "Jon",
+        "text": "Yeah, awesome! Glad to be part of it.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_8::chunk-0015",
+    "session_id": "session_8",
+    "observed_at": "2023-04-03T13:26:00",
+    "source_timestamp": "1:26 pm on 3 April, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D8:16",
+        "speaker": "Gina",
+        "text": "Woah, cool event! What's gonna be happening? I'd love to join in and show my support!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:17",
+        "speaker": "Jon",
+        "text": "Thanks, Gina! My dance studio and some other schools are bringing their best moves for an awesome night of performances and judging. It'll be super creative and fun. Come join us!",
+        "metadata": {
+          "img_url": [
+            "https://varnikadesigns.files.wordpress.com/2020/11/img_3505.jpg"
+          ],
+          "blip_caption": "a photo of a group of dancers on a stage with a man in the middle of the group",
+          "query": "group dancers stage performance"
+        }
+      },
+      {
+        "turn_id": "D8:18",
+        "speaker": "Gina",
+        "text": "Sounds great! I'm definitely in for the show.",
+        "metadata": {
+          "blip_caption": "a photo of a woman in a tutu posing for a picture"
+        }
+      },
+      {
+        "turn_id": "D8:19",
+        "speaker": "Jon",
+        "text": "Cool! Can't wait to see you!",
+        "metadata": {
+          "blip_caption": "a photo of two women doing a handstand in a room"
+        }
+      },
+      {
+        "turn_id": "D8:20",
+        "speaker": "Gina",
+        "text": "Thanks, Jon! See you at the event!",
+        "metadata": {
+          "blip_caption": "a photo of a group of young girls in tutuss and ballet shoes"
+        }
+      },
+      {
+        "turn_id": "D8:21",
+        "speaker": "Jon",
+        "text": "Gina, good luck with your store!",
+        "metadata": {
+          "blip_caption": "a photo of a dress with a sign on it that says june bunty"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_15::chunk-0010",
+    "session_id": "session_15",
+    "observed_at": "2023-06-19T10:04:00",
+    "source_timestamp": "10:04 am on 19 June, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D15:11",
+        "speaker": "Jon",
+        "text": "Thanks! Your pride and support mean a lot. Looking forward to enjoying the moment with you.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:12",
+        "speaker": "Gina",
+        "text": "I'll be right by your side, Jon. Let's live it up and make some great memories tomorrow. So excited!",
+        "metadata": {
+          "blip_caption": "a photo of a group of people in a dance studio"
+        }
+      },
+      {
+        "turn_id": "D15:13",
+        "speaker": "Jon",
+        "text": "Yeah! Let's make some awesome memories tomorrow at the grand opening!",
+        "metadata": {
+          "blip_caption": "a photo of a man in a native costume is giving another man a high five"
+        }
+      },
+      {
+        "turn_id": "D15:14",
+        "speaker": "Gina",
+        "text": "Can't wait to make more memories at your dance studio!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:15",
+        "speaker": "Jon",
+        "text": "Looking forward to more cool memories!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:16",
+        "speaker": "Gina",
+        "text": "I love being around friends and having such a great time. Can't wait to have fun at your dance studio!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_18::chunk-0015",
+    "session_id": "session_18",
+    "observed_at": "2023-07-21T17:44:00",
+    "source_timestamp": "5:44 pm on 21 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D18:16",
+        "speaker": "Jon",
+        "text": "Thanks for the support. You rock!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:17",
+        "speaker": "Gina",
+        "text": "Thanks, Jon! You're awesome. Let's get to work and make your studio shine!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:18",
+        "speaker": "Jon",
+        "text": "Definitely, Gina! Let's make our collaboration awesome and bring some dance magic to the world. Can't wait to see what we can do together!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:19",
+        "speaker": "Gina",
+        "text": "Definitely, Jon! I'm pumped to collaborate with you and make some sweet moves. Together, we can make a difference and show the world what we can do. Let's go for it!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:20",
+        "speaker": "Jon",
+        "text": "Yeah, Gina! We'll rock the dance floor and teach others to chase their dreams. Let's go for it and make an impact!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:21",
+        "speaker": "Gina",
+        "text": "Yeah Jon! Let's make a difference and show 'em what we got. We can do amazing things together!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_18::chunk-0020",
+    "session_id": "session_18",
+    "observed_at": "2023-07-21T17:44:00",
+    "source_timestamp": "5:44 pm on 21 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D18:22",
+        "speaker": "Jon",
+        "text": "Thanks for having my back.",
+        "metadata": {}
+      }
+    ]
+  }
+]

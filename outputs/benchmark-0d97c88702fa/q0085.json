@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-26::q0085",
+  "category": 4,
+  "question": "How does Melanie prioritize self-care?",
+  "gold_answer": "by carving out some me-time each day for activities like running, reading, or playing the violin",
+  "status": "failed",
+  "error": "Query failed. See q0085.log"
+}

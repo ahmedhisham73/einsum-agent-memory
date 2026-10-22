@@ -1,0 +1,10 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "John",
+      "property": "activity_type",
+      "search": "martial arts"
+    }
+  ]
+}

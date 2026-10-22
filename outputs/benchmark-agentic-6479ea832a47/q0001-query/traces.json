@@ -1,0 +1,166 @@
+[
+  {
+    "stage": "agent_decision",
+    "call_id": "7c1652dc-1bd4-4903-b988-f3c6eb8ce257",
+    "response": {
+      "id": "chatcmpl-EbsOuMTZBLY8H2EmnpLhGxwphCMAA",
+      "object": "chat.completion",
+      "created": 1792695960,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"search\",\"query\":\"Maria dinner May 3, 2023\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 156,
+        "completion_tokens": 17,
+        "total_tokens": 173,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_b64959fd61"
+    },
+    "latency_seconds": 1.194083666
+  },
+  {
+    "stage": "agent_decision",
+    "call_id": "a29e0d5b-46e7-4e98-b100-92ff70679171",
+    "response": {
+      "id": "chatcmpl-EbsOwZeH36JVZvXybPGifeSBaCpQF",
+      "object": "chat.completion",
+      "created": 1792695962,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"search\",\"query\":\"Maria dinner May 3, 2023 John\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2029,
+        "completion_tokens": 18,
+        "total_tokens": 2047,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_b64959fd61"
+    },
+    "latency_seconds": 1.702903375
+  },
+  {
+    "stage": "agent_decision",
+    "call_id": "f6259f8d-1a89-4a0d-b5d2-b6d7aa6b6b5a",
+    "response": {
+      "id": "chatcmpl-EbsOzu5VAbwGGxdmbU8VdILUDm8IT",
+      "object": "chat.completion",
+      "created": 1792695965,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"ready\",\"reason\":\"No mention found of Maria having dinner with anyone on May 3, 2023 in the available conversation chunks.\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3926,
+        "completion_tokens": 31,
+        "total_tokens": 3957,
+        "prompt_tokens_details": {
+          "cached_tokens": 1792,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_b64959fd61"
+    },
+    "latency_seconds": 2.037255416
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "0a9bf0fb-9906-4f6f-bb56-2df69c6998d7",
+    "response": {
+      "id": "chatcmpl-EbsP4RHHWZY5PVIiPcRDvHaBX7JwM",
+      "object": "chat.completion",
+      "created": 1792695970,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"The available source conversations do not mention who Maria had dinner with on May 3, 2023.\",\"sufficient\":false,\"citations\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2931,
+        "completion_tokens": 33,
+        "total_tokens": 2964,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6a82cb19e8"
+    },
+    "latency_seconds": 5.262112667
+  }
+]

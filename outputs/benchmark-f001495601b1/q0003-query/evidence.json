@@ -1,0 +1,364 @@
+[
+  {
+    "episode_id": "conv-41::session_1::episode-001",
+    "conversation_id": "conv-41",
+    "session_id": "session_1",
+    "observed_at": "2022-12-17T11:01:00",
+    "source_timestamp": "11:01 am on 17 December, 2022",
+    "timezone_status": "unspecified",
+    "theme": "Casual catch-up and personal updates",
+    "turns": [
+      {
+        "turn_id": "D1:1",
+        "speaker": "Maria",
+        "text": "Hey John! Long time no see! What's up?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:2",
+        "speaker": "John",
+        "text": "Hey Maria! Good to see you. Just got back from a family road trip yesterday, it was fun! Anything exciting happening for you?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:3",
+        "speaker": "Maria",
+        "text": "Been busy volunteering at the homeless shelter and keeping fit. Just started doing aerial yoga, it's great. Have you tried any other cool workout classes?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_1::episode-002",
+    "conversation_id": "conv-41",
+    "session_id": "session_1",
+    "observed_at": "2022-12-17T11:01:00",
+    "source_timestamp": "11:01 am on 17 December, 2022",
+    "timezone_status": "unspecified",
+    "theme": "Discussion of fitness activities and goals",
+    "turns": [
+      {
+        "turn_id": "D1:4",
+        "speaker": "John",
+        "text": "Woah, Maria, that sounds cool! I'm doing kickboxing and it's giving me so much energy.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:5",
+        "speaker": "Maria",
+        "text": "Cool, John. Kickboxing is a perfect way to stay in shape and de-stress. Do you have any goals you're working towards?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_2::episode-005",
+    "conversation_id": "conv-41",
+    "session_id": "session_2",
+    "observed_at": "2022-12-22T18:10:00",
+    "source_timestamp": "6:10 pm on 22 December, 2022",
+    "timezone_status": "unspecified",
+    "theme": "John's plans to practice taekwondo and final encouraging remarks",
+    "turns": [
+      {
+        "turn_id": "D2:28",
+        "speaker": "John",
+        "text": " Yep, let's keep making great memories with our loved ones and cherishing the time we have. I'm off to do some taekwondo!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_10::episode-001",
+    "conversation_id": "conv-41",
+    "session_id": "session_10",
+    "observed_at": "2023-04-07T00:24:00",
+    "source_timestamp": "12:24 am on 7 April, 2023",
+    "timezone_status": "unspecified",
+    "theme": "John's experience starting a weekend yoga class",
+    "turns": [
+      {
+        "turn_id": "D10:1",
+        "speaker": "John",
+        "text": "Hey Maria, I'm so excited to tell you I started a weekend yoga class with a colleague - it's awesome! I feel great, both mentally and physically after each session. I'd been wanting to try yoga for a while and finally took the plunge. Simple stretching and breathing is having such a positive effect on my wellbeing. And the instructor is great too.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:2",
+        "speaker": "Maria",
+        "text": "Wow, John, glad to hear that! It's amazing how something like stretching and breathing can have such a positive effect on our wellbeing. What can you tell me about your instructor that makes them so great?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:3",
+        "speaker": "John",
+        "text": "They're awesome - they make sure we do the poses properly and encourage us to listen to our bodies. They create a great, relaxed environment that makes everyone feel welcome. Here's a photo from our last class.",
+        "metadata": {
+          "img_url": [
+            "https://images.pexels.com/photos/7721929/pexels-photo-7721929.jpeg"
+          ],
+          "blip_caption": "a photography of a man doing yoga outside on a blue mat",
+          "query": "yoga instructor relaxed yoga pose",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D10:4",
+        "speaker": "Maria",
+        "text": "Wow, that looks great! What kind of yoga is it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:5",
+        "speaker": "John",
+        "text": "It's a beginner yoga class, focusing on fundamentals like poses and breathing. I find it helps me relax and increase my flexibility.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:6",
+        "speaker": "Maria",
+        "text": "Nice one, John! Glad you're finding some chill with that. How are you feeling afterwards?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:7",
+        "speaker": "John",
+        "text": "I feel great. It really helps me relax and feel more connected. It's been a great way to improve my mind and body.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:8",
+        "speaker": "Maria",
+        "text": "Awesome John! Glad it's chillin' and connecting you. Stretching and breathing are such powerful tools for wellbeing. So cool you found a beginner class to help you flex up. Keep it up! 🧘‍♀️",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_18::episode-004",
+    "conversation_id": "conv-41",
+    "session_id": "session_18",
+    "observed_at": "2023-06-12T14:47:00",
+    "source_timestamp": "2:47 pm on 12 June, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Finding personal peace through yoga and relaxation techniques",
+    "turns": [
+      {
+        "turn_id": "D18:14",
+        "speaker": "John",
+        "text": "Yeah, Maria. It's important to appreciate the small things and find moments of peace amidst chaos. Nature really helps with that. How about you? How do you find peaceful moments?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:15",
+        "speaker": "Maria",
+        "text": "Finding my Zen is a mix of things - a moment to myself plus favorite tunes is usually enough. I also enjoy aerial yoga, it's a great way to switch off and focus on my body.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:16",
+        "speaker": "John",
+        "text": "Cool, Maria! Glad you found something that gives you some peace. Do you have a favorite yoga pose?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:17",
+        "speaker": "Maria",
+        "text": "Thanks, John! It's tough to pick just one, but I really enjoy the upside-down poses. They make me feel free and light.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:18",
+        "speaker": "John",
+        "text": "Wow, Maria, that sounds awesome! I can imagine that must be challenging, but it's great to see you embracing them. Keep up the amazing work!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:19",
+        "speaker": "Maria",
+        "text": "Thanks, John! It can be tough, but aerial yoga is totally worth it. I love the freedom and connection it brings. Appreciate your support!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_25::episode-004",
+    "conversation_id": "conv-41",
+    "session_id": "session_25",
+    "observed_at": "2023-07-22T18:21:00",
+    "source_timestamp": "6:21 pm on 22 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Talking about fitness activities and yoga classes",
+    "turns": [
+      {
+        "turn_id": "D25:10",
+        "speaker": "Maria",
+        "text": "Thanks, John! Is it a martial arts place or a yoga studio? It looks awesome!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D25:11",
+        "speaker": "John",
+        "text": "Yup, it's a yoga studio I go to often. The vibe is really chill and the instructors are awesome.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D25:12",
+        "speaker": "Maria",
+        "text": "Cool, John! That definitely makes the workout experience more enjoyable. Do they offer a variety of classes?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D25:13",
+        "speaker": "John",
+        "text": "Yeah, they offer a a bunch, like yoga, kickboxing, and circuit training. It keeps things interesting!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D25:14",
+        "speaker": "Maria",
+        "text": "Cool, John! Trying new classes sounds like a fun way to switch up your exercise routine - I should give it a go!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D25:15",
+        "speaker": "John",
+        "text": "Yeah, Maria! Trying new stuff is a great way to push yourself and mix things up. Let me know if you need any suggestions!",
+        "metadata": {
+          "img_url": [
+            "https://www.jewelyogapdx.com/wp-content/uploads/2015/02/home-join-us.jpg"
+          ],
+          "blip_caption": "a photo of a group of people doing yoga in a gym",
+          "query": "yoga class"
+        }
+      },
+      {
+        "turn_id": "D25:16",
+        "speaker": "Maria",
+        "text": "Looks fun! What other classes have you done?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D25:17",
+        "speaker": "John",
+        "text": "I've done weight training so far too. It was challenging but peaceful, kinda like yoga.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D25:18",
+        "speaker": "Maria",
+        "text": "Wow, John! That's great. Yoga is a great way to relax and concentrate, and joining a new class might be a good option.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D25:19",
+        "speaker": "John",
+        "text": "Yeah, it's been great for me. Let me know if you need any advice to get started.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_32::episode-001",
+    "conversation_id": "conv-41",
+    "session_id": "session_32",
+    "observed_at": "2023-08-16T11:08:00",
+    "source_timestamp": "11:08 am on 16 August, 2023",
+    "timezone_status": "unspecified",
+    "theme": "John's involvement and experiences with the fire-fighting brigade and community support",
+    "turns": [
+      {
+        "turn_id": "D32:1",
+        "speaker": "John",
+        "text": "Hey Maria! Guess what? I'm now part of the fire-fighting brigade. I'm super excited to be involved and help out my community!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D32:2",
+        "speaker": "Maria",
+        "text": "Wow John, that's impressive! You're really enthusiastic about making a change. How's your experience been so far?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D32:3",
+        "speaker": "John",
+        "text": " I was impressed with their dedication and how well they worked together. Just being around them was so inspiring!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D32:4",
+        "speaker": "Maria",
+        "text": "That's amazing. Must have been awesome to see all those people working together.",
+        "metadata": {
+          "blip_caption": "a photo of a group of people loading a truck with a fire truck in the back"
+        }
+      },
+      {
+        "turn_id": "D32:5",
+        "speaker": "John",
+        "text": "It definitely was! Everyone was so into it. It's amazing how a group can succeed at something so important. It only took us two hours. We worked hard but did something good – it was really satisfying.",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/kkt623tlufk11.jpg"
+          ],
+          "blip_caption": "a photo of a cardboard box with a sign on it",
+          "query": "group of people lifting heavy object"
+        }
+      },
+      {
+        "turn_id": "D32:6",
+        "speaker": "Maria",
+        "text": "Wow, John! It looks like everyone was working hard. Did you raise any donations? ",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D32:7",
+        "speaker": "John",
+        "text": "Yup, we raised a ton! We got stuff like canned food, toiletries, and clothes to help out. Feels great to be part of it!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D32:8",
+        "speaker": "Maria",
+        "text": "I bet! It's great to see the community coming together to support the local fire station. ",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D32:9",
+        "speaker": "John",
+        "text": "You're right, Maria. It's great to help out and see everyone coming together for this cause. It gives me a sense of purpose and passion. I feel like this is my true calling.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D32:10",
+        "speaker": "Maria",
+        "text": "Awesome, John! Loving your newfound passion. You're doing great things - keep it up! It's wonderful to see everyone coming together for this cause.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D32:11",
+        "speaker": "John",
+        "text": "Thanks, Maria! Your support means a lot to me. It's amazing how finding my passion has made such a big impact. I'll keep working hard on it. The donations even helped get a brand new fire truck!",
+        "metadata": {
+          "img_url": [
+            "https://www.cityofmobile.org/fire/uploads/20180827-094050.jpg"
+          ],
+          "blip_caption": "a photo of a fire truck parked in a garage with other vehicles",
+          "query": "firetruck"
+        }
+      },
+      {
+        "turn_id": "D32:12",
+        "speaker": "Maria",
+        "text": "Look at that - we all donated for it, and it looks awesome!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D32:13",
+        "speaker": "John",
+        "text": "Thanks for being a part of this with me, Maria. I appreciate your support.",
+        "metadata": {}
+      }
+    ]
+  }
+]

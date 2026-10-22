@@ -1,0 +1,27 @@
+{
+  "status": "completed",
+  "experiment_id": "q0002-query",
+  "memory_build": "offline-memory-622a0d5cec62",
+  "baseline_build": "agentic-build-736fe53c3604",
+  "question": "When did Maria donate her car?",
+  "answer": "There is no information in the provided conversations about Maria donating her car.",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-41::session_21::chunk-0000",
+      "turn_id": "D21:3"
+    }
+  ],
+  "elapsed_seconds": 7.322807624999999,
+  "stop_reason": "agent_ready",
+  "search_count": 1,
+  "selected_chunks": 6,
+  "unique_source_turns": 34,
+  "implementation": {
+    "chunk_turns": 6,
+    "overlap_turns": 1,
+    "top_k_per_search": 6,
+    "max_searches": 4,
+    "max_agent_decisions": 5
+  }
+}

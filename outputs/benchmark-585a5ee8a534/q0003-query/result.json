@@ -1,0 +1,76 @@
+{
+  "answer": "John has practiced kickboxing, taekwondo, weight training, and yoga as martial arts or related fitness activities.",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-41::session_1::episode-002",
+      "turn_id": "D1:4"
+    },
+    {
+      "episode_id": "conv-41::session_2::episode-005",
+      "turn_id": "D2:28"
+    },
+    {
+      "episode_id": "conv-41::session_25::episode-004",
+      "turn_id": "D25:13"
+    },
+    {
+      "episode_id": "conv-41::session_25::episode-004",
+      "turn_id": "D25:13"
+    },
+    {
+      "episode_id": "conv-41::session_25::episode-004",
+      "turn_id": "D25:17"
+    }
+  ],
+  "status": "completed",
+  "experiment_id": "q0003-query",
+  "memory_build": "offline-memory-622a0d5cec62",
+  "question": "What martial arts has John done?",
+  "question_id": "conv-41::q0003",
+  "elapsed_seconds": null,
+  "recovery": {
+    "method": "unique exact source-turn match within same session",
+    "original_citations": [
+      {
+        "episode_id": "conv-41::session_1::episode-002",
+        "turn_id": "D1:4"
+      },
+      {
+        "episode_id": "conv-41::session_2::episode-005",
+        "turn_id": "D2:28"
+      },
+      {
+        "episode_id": "conv-41::session_25::episode-001",
+        "turn_id": "D25:13"
+      },
+      {
+        "episode_id": "conv-41::session_25::episode-002",
+        "turn_id": "D25:13"
+      },
+      {
+        "episode_id": "conv-41::session_25::episode-017",
+        "turn_id": "D25:17"
+      }
+    ],
+    "citation_repairs": [
+      {
+        "turn_id": "D25:13",
+        "original_episode_id": "conv-41::session_25::episode-001",
+        "corrected_episode_id": "conv-41::session_25::episode-004"
+      },
+      {
+        "turn_id": "D25:13",
+        "original_episode_id": "conv-41::session_25::episode-002",
+        "corrected_episode_id": "conv-41::session_25::episode-004"
+      },
+      {
+        "turn_id": "D25:17",
+        "original_episode_id": "conv-41::session_25::episode-017",
+        "corrected_episode_id": "conv-41::session_25::episode-004"
+      }
+    ],
+    "answer_text_changed": false,
+    "elapsed_seconds_note": "Original wall-clock duration unavailable"
+  }
+}

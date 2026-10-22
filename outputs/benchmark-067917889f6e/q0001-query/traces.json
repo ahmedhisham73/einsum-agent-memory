@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "25bb92a0-d9d9-48f6-a2e5-77845a8830b8",
+    "response": {
+      "id": "chatcmpl-EbsGDmZeS9lQsTYkQi63HGJSSEBma",
+      "object": "chat.completion",
+      "created": 1792695421,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Jon\",\"property\":\"lost_job\",\"search\":\"search for evidence indicating when Jon lost his job as a banker\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2189,
+        "completion_tokens": 33,
+        "total_tokens": 2222,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_f9f464a132"
+    },
+    "latency_seconds": 1.623483667
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "0cf00045-678d-4f96-a6d5-c102806cd5d0",
+    "response": {
+      "id": "chatcmpl-EbsGGe62dt9ZktP7gjJMDuOgKdZ4J",
+      "object": "chat.completion",
+      "created": 1792695424,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Jon lost his job as a banker yesterday relative to the conversation dated 4:04 pm on 20 January, 2023, meaning he lost his job on 19 January, 2023.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-30::session_1::episode-001\",\"turn_id\":\"D1:2\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3087,
+        "completion_tokens": 77,
+        "total_tokens": 3164,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6a82cb19e8"
+    },
+    "latency_seconds": 1.9773132499999995
+  }
+]

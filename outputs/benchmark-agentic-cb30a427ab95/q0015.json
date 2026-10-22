@@ -1,0 +1,41 @@
+{
+  "question_id": "conv-41::q0015",
+  "category": 3,
+  "question": "Would John be considered a patriotic person?",
+  "gold_answer": "Yes",
+  "status": "scored",
+  "generated_answer": "Yes, John would be considered a patriotic person because he demonstrates strong respect and active support for military veterans through various initiatives such as organizing petitions, charity runs, marching for veterans' rights, and fostering community events honoring veterans. His actions and statements show a clear dedication to appreciating and supporting those who served the country.",
+  "citations": [
+    {
+      "episode_id": "conv-41::session_15::chunk-0000",
+      "turn_id": "D15:1"
+    },
+    {
+      "episode_id": "conv-41::session_15::chunk-0000",
+      "turn_id": "D15:3"
+    },
+    {
+      "episode_id": "conv-41::session_15::chunk-0005",
+      "turn_id": "D15:7"
+    },
+    {
+      "episode_id": "conv-41::session_21::chunk-0020",
+      "turn_id": "D21:22"
+    },
+    {
+      "episode_id": "conv-41::session_21::chunk-0020",
+      "turn_id": "D21:24"
+    },
+    {
+      "episode_id": "conv-41::session_29::chunk-0000",
+      "turn_id": "D29:4"
+    },
+    {
+      "episode_id": "conv-41::session_29::chunk-0000",
+      "turn_id": "D29:6"
+    }
+  ],
+  "query_elapsed_seconds": 6.923317708,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer supports the reference answer by providing specific details about John's actions that demonstrate patriotism."
+}

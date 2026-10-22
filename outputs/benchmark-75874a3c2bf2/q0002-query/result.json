@@ -1,0 +1,21 @@
+{
+  "status": "completed",
+  "experiment_id": "q0002-query",
+  "memory_build": "offline-memory-48c46fbef6ca",
+  "embedding_fingerprint": "aeef69a047070b680431916bebb6e37b86666fa6863cb871795c9d11b344726a",
+  "question": "When Gina has lost her job at Door Dash?",
+  "answer": "Gina lost her job at Door Dash in January 2023.",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-30::session_1::episode-001",
+      "turn_id": "D1:3"
+    }
+  ],
+  "elapsed_seconds": 4.584269,
+  "implementation": {
+    "structured_matching": "literal entity / property-token overlap",
+    "all_matching": "all episodes; no optimized exhaustive retrieval",
+    "coverage": "answer-model sufficiency check with expansion"
+  }
+}

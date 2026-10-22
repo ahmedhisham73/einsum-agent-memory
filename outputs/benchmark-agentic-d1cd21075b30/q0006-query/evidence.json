@@ -1,0 +1,293 @@
+[
+  {
+    "episode_id": "conv-30::session_1::chunk-0005",
+    "session_id": "session_1",
+    "observed_at": "2023-01-20T16:04:00",
+    "source_timestamp": "4:04 pm on 20 January, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D1:6",
+        "speaker": "Jon",
+        "text": "I've been into dancing since I was a kid and it's been my passion and escape. I wanna start a dance studio so I can teach others the joy that dancing brings me.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:7",
+        "speaker": "Gina",
+        "text": "Wow Jon, same here! Dance is pretty much my go-to for stress relief. Got any fave styles?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:8",
+        "speaker": "Jon",
+        "text": "Cool, Gina! I love all dances, but contemporary is my top pick. It's so expressive and powerful! What's your fave?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:9",
+        "speaker": "Gina",
+        "text": "Yeah, me too! Contemporary dance is so expressive and graceful - it really speaks to me.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:10",
+        "speaker": "Jon",
+        "text": "Wow, great idea! Let's go to a dance class, it'll be so much fun!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:11",
+        "speaker": "Gina",
+        "text": "Yeah! Let's explore some new dance moves. We should plan a dance session soon!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_2::chunk-0005",
+    "session_id": "session_2",
+    "observed_at": "2023-01-29T14:32:00",
+    "source_timestamp": "2:32 pm on 29 January, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D2:6",
+        "speaker": "Jon",
+        "text": "It's downtown which is awesome cuz it's easy to get to. Plus the natural light! Gotta check the size & floor quality too. We need a good dance floor with enough bounce for me & my students to dance safely.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:7",
+        "speaker": "Gina",
+        "text": "Definitely! Dance floors help avoid injuries and make dancing more enjoyable. You thinking about it is great. Any particular type of flooring you like?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:8",
+        "speaker": "Jon",
+        "text": "Yeah, good flooring's crucial. I'm after Marley flooring, which is what dance studios usually use. It's great 'cause it's grippy but still lets you move, plus it's tough and easy to keep clean.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:9",
+        "speaker": "Gina",
+        "text": "Sounds great! Marley's perfect; it's got the right amount of grip and movement. Can't wait to see your dance studio done!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:10",
+        "speaker": "Jon",
+        "text": "Yeah, can't wait to see it done! Looking for the right place and getting everything ready has been a mix of exciting and nerve-wracking, but I'm determined to make it work. It'll be worth it!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:11",
+        "speaker": "Gina",
+        "text": "Believe in yourself, Jon! The process may be tough, but you got this. Push through and it'll be worth it. Don't forget to take breaks and dance it out when you need to destress!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_9::chunk-0000",
+    "session_id": "session_9",
+    "observed_at": "2023-04-09T10:33:00",
+    "source_timestamp": "10:33 am on 9 April, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D9:1",
+        "speaker": "Jon",
+        "text": "Hey Gina! I'm turning my loves of dance into a business. I'm sunk tons of time into the studio lately, and look at my students - they're already killing it. I'm even learning with them!",
+        "metadata": {
+          "img_url": [
+            "https://college.lclark.edu/live/image/gid/664/width/720/height/690/crop/1/87150_Dance_main_image.rev.1613000755.jpg"
+          ],
+          "blip_caption": "a photo of a group of dancers on a stage with a red background",
+          "query": "dance studio class collage rehearsal students"
+        }
+      },
+      {
+        "turn_id": "D9:2",
+        "speaker": "Gina",
+        "text": "Hey Jon! Wow, way to take your passion and make it into a biz! The dance studio looks awesome.",
+        "metadata": {
+          "blip_caption": "a photo of a display of a dress and a flamingo"
+        }
+      },
+      {
+        "turn_id": "D9:3",
+        "speaker": "Jon",
+        "text": "Thanks, Gina! I'm determined to make this studio work. Losing my job was tough but it gave me the push I needed to do what I love.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:4",
+        "speaker": "Gina",
+        "text": "Woah, Jon! Tough times can be a gateway to awesome things. Glad you worked up the courage to go after your dreams!",
+        "metadata": {
+          "blip_caption": "a photo of a red dress with gold accents on a mannequin"
+        }
+      },
+      {
+        "turn_id": "D9:5",
+        "speaker": "Jon",
+        "text": "Yeah, Gina! It's been tough, but I'm living my true self. Dancing makes me so happy, and now I get to share that with other people. Seeing my students get better at it brings me such joy.",
+        "metadata": {
+          "blip_caption": "a photo of a woman doing a pole dance in a dance studio",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D9:6",
+        "speaker": "Gina",
+        "text": "Wow Jon, you look so happy when you dance! Show the world your true self and keep dancing!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_9::chunk-0005",
+    "session_id": "session_9",
+    "observed_at": "2023-04-09T10:33:00",
+    "source_timestamp": "10:33 am on 9 April, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D9:7",
+        "speaker": "Jon",
+        "text": "Thanks a bunch, Gina! You seriously rock. Dancing for me is like a way to express myself and find my happy place. I used to be scared to death of what people would think, but I learnt that my own happiness is the most important thing. It's been tough but also the best thing ever!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:8",
+        "speaker": "Gina",
+        "text": "Yeah, I do remember those dance classes! I used to love spending time in the studio. That photo looks awesome, brings back lots of memories. It's nice to know, dance is still your happy place.",
+        "metadata": {
+          "img_url": [
+            "https://cartwheelfactory.com/imagesjpg/ballet-studio-glassless-mir.jpg"
+          ],
+          "blip_caption": "a photo of a group of young women in ballet attire",
+          "query": "ballet studio mirrors barres dance classes"
+        }
+      },
+      {
+        "turn_id": "D9:9",
+        "speaker": "Jon",
+        "text": "Nice, Gina! I'm happy that dance has such a special meaning to both of us. It's a really cool way to express ourselves. I loved taking lessons with my friends when I was younger. Those memories are so precious. So glad I can still enjoy it with my own studio. Thanks for always being there for me.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:10",
+        "speaker": "Gina",
+        "text": "Hey Jon! Got your back - dance is awesome for expressing yourself and finding happiness. Here's one of my trophies from a dance contest, nice reminder of the hard work, dedication and joy it brings.",
+        "metadata": {
+          "img_url": [
+            "https://i.pinimg.com/originals/68/03/ff/6803ffb650c71d63268b6a40310c882a.jpg"
+          ],
+          "blip_caption": "a photo of a trophy with a glass globe on top",
+          "query": "dance competition trophy"
+        }
+      },
+      {
+        "turn_id": "D9:11",
+        "speaker": "Jon",
+        "text": "Wow! It looks awesome! Thanks for the support, it really means a lot.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_11::chunk-0005",
+    "session_id": "session_11",
+    "observed_at": "2023-05-11T15:14:00",
+    "source_timestamp": "3:14 pm on 11 May, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D11:6",
+        "speaker": "Gina",
+        "text": "Gotcha, Jon! Dance is my stress fix too. As soon as I start, all my worries vanish. It's amazing what we can do for our own mental health with something we enjoy.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:7",
+        "speaker": "Jon",
+        "text": "Yeah, Gina! Dancing helps me de-stress. It's where I'm most alive. It's a must-have in my life.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:8",
+        "speaker": "Gina",
+        "text": "I get it, Jon. Dance is just me -- I can't picture life without it. It's like air.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:9",
+        "speaker": "Jon",
+        "text": "Yep! Dancing is like second nature to me. I'm living my dream by having my own dance studio and teaching others.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:10",
+        "speaker": "Gina",
+        "text": "You're living the dream and inspiring others too! Your studio will totally change things for lots of folks.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:11",
+        "speaker": "Jon",
+        "text": "I hope so, Gina. I want to create a place for people to dance and express themselves - it's been a dream of mine.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_19::chunk-0005",
+    "session_id": "session_19",
+    "observed_at": "2023-07-23T18:46:00",
+    "source_timestamp": "6:46 pm on 23 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D19:6",
+        "speaker": "Gina",
+        "text": "Hah, yeah!) But really having a creative space for dancers is so important. Last Friday at dance class with a group of friends I felt it. Your studio will be a go-to spot for self-expression. Keep up the good work and don't forget your passion for dance.",
+        "metadata": {
+          "blip_caption": "a photo of three girls in ballet costumes sitting on a desk"
+        }
+      },
+      {
+        "turn_id": "D19:7",
+        "speaker": "Jon",
+        "text": "Thanks, Gina! Your words of encouragement keep me motivated. Can't wait 'til my studio starts welcoming dancers of all ages and backgrounds!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:8",
+        "speaker": "Gina",
+        "text": "I'm so happy to see my words motivating you, Jon. <3",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:9",
+        "speaker": "Jon",
+        "text": "Thanks a ton, Gina! Your help and encouragement mean a lot. Your support will help me make it happen.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:10",
+        "speaker": "Gina",
+        "text": "You're welcome, Jon! I'm here to support you. Every step's getting you closer to your dream. Never give up! You're doing great.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:11",
+        "speaker": "Jon",
+        "text": "Thanks, Gina! I won't quit. I'm gonna keep going, whatever comes my way.",
+        "metadata": {}
+      }
+    ]
+  }
+]

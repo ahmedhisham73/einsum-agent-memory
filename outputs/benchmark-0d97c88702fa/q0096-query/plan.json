@@ -1,0 +1,30 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Melanie and her family",
+      "property": "family_camping_activities",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Melanie and her family",
+      "property": "camping_activities",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Melanie and her family",
+      "property": "family_activities_recent",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Melanie and her family",
+      "property": "family_camping_experience",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Melanie and her family",
+      "property": "activities",
+      "search": "standalone evidence search"
+    }
+  ]
+}

@@ -1,0 +1,560 @@
+[
+  {
+    "episode_id": "conv-30::session_1::episode-002",
+    "conversation_id": "conv-30",
+    "session_id": "session_1",
+    "observed_at": "2023-01-20T16:04:00",
+    "source_timestamp": "4:04 pm on 20 January, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Passion for dancing and favorite dance styles",
+    "turns": [
+      {
+        "turn_id": "D1:4",
+        "speaker": "Jon",
+        "text": "Sorry to hear that! I'm starting a dance studio 'cause I'm passionate about dancing and it'd be great to share it with others.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:5",
+        "speaker": "Gina",
+        "text": "That's cool, Jon! What got you into this biz?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:6",
+        "speaker": "Jon",
+        "text": "I've been into dancing since I was a kid and it's been my passion and escape. I wanna start a dance studio so I can teach others the joy that dancing brings me.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:7",
+        "speaker": "Gina",
+        "text": "Wow Jon, same here! Dance is pretty much my go-to for stress relief. Got any fave styles?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:8",
+        "speaker": "Jon",
+        "text": "Cool, Gina! I love all dances, but contemporary is my top pick. It's so expressive and powerful! What's your fave?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:9",
+        "speaker": "Gina",
+        "text": "Yeah, me too! Contemporary dance is so expressive and graceful - it really speaks to me.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_2::episode-004",
+    "conversation_id": "conv-30",
+    "session_id": "session_2",
+    "observed_at": "2023-01-29T14:32:00",
+    "source_timestamp": "2:32 pm on 29 January, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Mutual encouragement and motivation to pursue their dreams",
+    "turns": [
+      {
+        "turn_id": "D2:11",
+        "speaker": "Gina",
+        "text": "Believe in yourself, Jon! The process may be tough, but you got this. Push through and it'll be worth it. Don't forget to take breaks and dance it out when you need to destress!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:12",
+        "speaker": "Jon",
+        "text": "Glad I have you in my corner! Gotta make time to dance and vent, that's for sure. We'll make it through this - hang in there!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:13",
+        "speaker": "Gina",
+        "text": "Thanks, Jon! Appreciate your support!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:14",
+        "speaker": "Jon",
+        "text": "Let's keep going and chase our dreams!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:15",
+        "speaker": "Gina",
+        "text": "Yeah! We've done so much, and there's nothing but good stuff coming. Let's keep going after our goals and making them happen.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:16",
+        "speaker": "Jon",
+        "text": "Success is almost here. We got this!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_6::episode-001",
+    "conversation_id": "conv-30",
+    "session_id": "session_6",
+    "observed_at": "2023-03-16T14:35:00",
+    "source_timestamp": "2:35 pm on 16 March, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Personal updates and challenges",
+    "turns": [
+      {
+        "turn_id": "D6:1",
+        "speaker": "Jon",
+        "text": "Hi Gina! Been hectic for me lately. Started hitting the gym last week to stay on track with the venture. Gotta figure out how to balance it all, but it's going well. How about you?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:2",
+        "speaker": "Gina",
+        "text": "Hey Jon! Great to hear from you. Been having some tough times lately.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:3",
+        "speaker": "Jon",
+        "text": "Oof, sorry to hear that. What's up? Is there anything I can do to help?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:4",
+        "speaker": "Gina",
+        "text": "Thanks, Jon! Appreciate your offer. Since I lost my job at Door Dash, things have been tough. But here's some good news - I've got something to share!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_8::episode-002",
+    "conversation_id": "conv-30",
+    "session_id": "session_8",
+    "observed_at": "2023-04-03T13:26:00",
+    "source_timestamp": "1:26 pm on 3 April, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Gina shares her efforts and motivation for growing her online fashion business",
+    "turns": [
+      {
+        "turn_id": "D8:4",
+        "speaker": "Gina",
+        "text": "Oof, that's tough, Jon. I got some new offers and promotions going on my online store to try and bring in new customers. It's been a wild ride starting my business, but I'm not giving up!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:5",
+        "speaker": "Jon",
+        "text": "Nice one, Gina! Love how you never give up. What helps you stay motivated?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:6",
+        "speaker": "Gina",
+        "text": "Thanks Jon! Dance is my stress relief and fashion fuels my creativity. I love finding new trends for my store. It keeps me motivated to keep growing. Check out this pic of my fave dance session!",
+        "metadata": {
+          "img_url": [
+            "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_2151,w_2403,x_0,y_1044/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/export-1-37_l33gst.jpg"
+          ],
+          "blip_caption": "a photo of a man and woman doing a yoga pose",
+          "query": "dance studio session"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_10::episode-002",
+    "conversation_id": "conv-30",
+    "session_id": "session_10",
+    "observed_at": "2023-04-25T11:24:00",
+    "source_timestamp": "11:24 am on 25 April, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Seeking and giving advice on motivation and overcoming challenges",
+    "turns": [
+      {
+        "turn_id": "D10:5",
+        "speaker": "Jon",
+        "text": "Wow, you're awesome for going for it! Setbacks can help us reach our potential, right? I'm having trouble with my business project. Any advice on staying motivated even when times are tough?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:6",
+        "speaker": "Gina",
+        "text": "Yeah Jon! Challenges are awesome for learning and growth. To stay motivated, I think of the big goal and why I'm doing it. I also get help from people who support me. And of course, I dance it out. Do you need advice on anything in particular?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_10::episode-003",
+    "conversation_id": "conv-30",
+    "session_id": "session_10",
+    "observed_at": "2023-04-25T11:24:00",
+    "source_timestamp": "11:24 am on 25 April, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Discussing confidence issues and strategies to maintain self-belief in business",
+    "turns": [
+      {
+        "turn_id": "D10:7",
+        "speaker": "Jon",
+        "text": "I've been feeling kinda low on confidence lately. It's hard to run a business when you don't have faith in yourself. Any tips on how you stay confident in your business?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:8",
+        "speaker": "Gina",
+        "text": "I get it, Jon. Confidence is important in business. I stay motivated by reminding myself of my successes and progress. It also helps to have a good support system. Just focus on why you started this – because you love it! Have faith in yourself, Jon. I do!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_11::episode-001",
+    "conversation_id": "conv-30",
+    "session_id": "session_11",
+    "observed_at": "2023-05-11T15:14:00",
+    "source_timestamp": "3:14 pm on 11 May, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Jon shares updates and motivation about opening his dance studio, and Gina offers encouragement",
+    "turns": [
+      {
+        "turn_id": "D11:1",
+        "speaker": "Jon",
+        "text": "Hi! Since we last spoke I am still working on the dance studio and things are looking up!",
+        "metadata": {
+          "blip_caption": "a photo of a woman in a short skirt with her hands on her hips"
+        }
+      },
+      {
+        "turn_id": "D11:2",
+        "speaker": "Gina",
+        "text": "Hi! You're so inspiring taking it on and opening your own studio!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:3",
+        "speaker": "Jon",
+        "text": "Thanks! Losing my job gave me the push to finally start my dream business: my own dance studio! Now I'm stepping into the unknown and hoping for the best.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:4",
+        "speaker": "Gina",
+        "text": "It must be scary stepping into the unknown but I know you can do it, Jon. With your determination and drive, your dance studio will be a huge success. Keep that positive outlook and keep going!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:5",
+        "speaker": "Jon",
+        "text": "Thanks! It's a bit scary, but I just think about my love for dance and how it makes me feel. It's been my stress-buster since childhood!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:6",
+        "speaker": "Gina",
+        "text": "Gotcha, Jon! Dance is my stress fix too. As soon as I start, all my worries vanish. It's amazing what we can do for our own mental health with something we enjoy.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:7",
+        "speaker": "Jon",
+        "text": "Yeah, Gina! Dancing helps me de-stress. It's where I'm most alive. It's a must-have in my life.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:8",
+        "speaker": "Gina",
+        "text": "I get it, Jon. Dance is just me -- I can't picture life without it. It's like air.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:9",
+        "speaker": "Jon",
+        "text": "Yep! Dancing is like second nature to me. I'm living my dream by having my own dance studio and teaching others.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:10",
+        "speaker": "Gina",
+        "text": "You're living the dream and inspiring others too! Your studio will totally change things for lots of folks.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:11",
+        "speaker": "Jon",
+        "text": "I hope so, Gina. I want to create a place for people to dance and express themselves - it's been a dream of mine.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:12",
+        "speaker": "Gina",
+        "text": "That's a great dream, Jon! Giving people a place to express themselves with dance is really important. Your studio is gonna make a huge difference. Can't wait to see it happen!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:13",
+        "speaker": "Jon",
+        "text": "Thanks! Your help means a lot. Keep you posted on the dance studio progress.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_11::episode-003",
+    "conversation_id": "conv-30",
+    "session_id": "session_11",
+    "observed_at": "2023-05-11T15:14:00",
+    "source_timestamp": "3:14 pm on 11 May, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Conversation about practicing and sharing dance routines, with mutual support",
+    "turns": [
+      {
+        "turn_id": "D11:17",
+        "speaker": "Jon",
+        "text": "Glad to hear it. Been practicing dance routines lately, it keeps my mind focused and motivated.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:18",
+        "speaker": "Gina",
+        "text": "Wow! That's great. Dancing is awesome for staying focused. Wanna show me a routine sometime?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:19",
+        "speaker": "Jon",
+        "text": "Sure, Gina! Wanna see one of my routines? Lemme know when you got time and I'll send you a vid.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:20",
+        "speaker": "Gina",
+        "text": "Yeah, Jon, I'll watch your routine! So proud of you!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:21",
+        "speaker": "Jon",
+        "text": "Thanks a lot! Your help really means a lot. I'll get the video to you soon!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:22",
+        "speaker": "Gina",
+        "text": "No prob! Always here to help. Can't wait to see the vid!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_12::episode-004",
+    "conversation_id": "conv-30",
+    "session_id": "session_12",
+    "observed_at": "2023-05-27T19:18:00",
+    "source_timestamp": "7:18 pm on 27 May, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Mutual encouragement and motivation to persevere",
+    "turns": [
+      {
+        "turn_id": "D12:15",
+        "speaker": "Gina",
+        "text": "Yeah Jon, you've got the right attitude! Keep learning and growing through it all. Keep going!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:16",
+        "speaker": "Jon",
+        "text": "Thanks! I really appreciate your help. I'm gonna keep on going and never quit.",
+        "metadata": {
+          "blip_caption": "a photo of a pink sign with a message on it"
+        }
+      },
+      {
+        "turn_id": "D12:17",
+        "speaker": "Gina",
+        "text": "Keep it up!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:18",
+        "speaker": "Jon",
+        "text": "Thanks! Your words really mean a lot. Don't worry, I won't let anything get me down.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:19",
+        "speaker": "Gina",
+        "text": "Go Jon! Obstacles are inevitable, but you can do awesome things. Keep going!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_13::episode-001",
+    "conversation_id": "conv-30",
+    "session_id": "session_13",
+    "observed_at": "2023-06-13T20:29:00",
+    "source_timestamp": "8:29 pm on 13 June, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Expressing gratitude and checking in",
+    "turns": [
+      {
+        "turn_id": "D13:1",
+        "speaker": "Jon",
+        "text": "Hey Gina, thanks for being there for me and believing in me. It means a lot.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D13:2",
+        "speaker": "Gina",
+        "text": "Sure, Jon! I'm always around for you. How've you been since we caught up?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_14::episode-004",
+    "conversation_id": "conv-30",
+    "session_id": "session_14",
+    "observed_at": "2023-06-16T21:38:00",
+    "source_timestamp": "9:38 pm on 16 June, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Jon acknowledges Gina's advice on resilience and focus, expressing motivation to keep going",
+    "turns": [
+      {
+        "turn_id": "D14:11",
+        "speaker": "Jon",
+        "text": "Appreciate your advice. Gotta stay resilient and focused, that's key!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:12",
+        "speaker": "Gina",
+        "text": "Yep Jon, staying resilient and focused is key for any entrepreneur. Keep going and don't give up! You got this!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:13",
+        "speaker": "Jon",
+        "text": "Thanks! I won't quit, no matter what. Your encouragement really motivates me to keep going.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_15::episode-001",
+    "conversation_id": "conv-30",
+    "session_id": "session_15",
+    "observed_at": "2023-06-19T10:04:00",
+    "source_timestamp": "10:04 am on 19 June, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Jon updates Gina about his business and recent trip",
+    "turns": [
+      {
+        "turn_id": "D15:1",
+        "speaker": "Jon",
+        "text": "Hey Gina, hope you're doing great! Still working on my biz. Took a short trip last week to Rome to clear my mind a little.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:2",
+        "speaker": "Gina",
+        "text": "Hi! Good for you! It definitely will help you to concentrate on your biz better.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:3",
+        "speaker": "Jon",
+        "text": "Thanks, Gina. Still working on opening a dance studio.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_15::episode-004",
+    "conversation_id": "conv-30",
+    "session_id": "session_15",
+    "observed_at": "2023-06-19T10:04:00",
+    "source_timestamp": "10:04 am on 19 June, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Planning to make memories and have fun at the dance studio",
+    "turns": [
+      {
+        "turn_id": "D15:13",
+        "speaker": "Jon",
+        "text": "Yeah! Let's make some awesome memories tomorrow at the grand opening!",
+        "metadata": {
+          "blip_caption": "a photo of a man in a native costume is giving another man a high five"
+        }
+      },
+      {
+        "turn_id": "D15:14",
+        "speaker": "Gina",
+        "text": "Can't wait to make more memories at your dance studio!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:15",
+        "speaker": "Jon",
+        "text": "Looking forward to more cool memories!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:16",
+        "speaker": "Gina",
+        "text": "I love being around friends and having such a great time. Can't wait to have fun at your dance studio!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:17",
+        "speaker": "Jon",
+        "text": "Agreed!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_19::episode-001",
+    "conversation_id": "conv-30",
+    "session_id": "session_19",
+    "observed_at": "2023-07-23T18:46:00",
+    "source_timestamp": "6:46 pm on 23 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Jon shares his rehearsing stress and Gina motivates with a famous quote",
+    "turns": [
+      {
+        "turn_id": "D19:1",
+        "speaker": "Jon",
+        "text": "Hey Gina! We haven't talked in a few days. Been rehearsing hard and working on business plans. It's been stressful, but dancing has kept me going.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:2",
+        "speaker": "Gina",
+        "text": "Hey Jon! Remember, just do it! You should get to the point where anyone else would quit and you're not going to stop there. No, what are you waiting for? Do it! Just do it!",
+        "metadata": {
+          "blip_caption": "a photo of a group of dancers on a stage with their arms in the air"
+        }
+      },
+      {
+        "turn_id": "D19:3",
+        "speaker": "Jon",
+        "text": "Ha, ha! Thanks, Gina. Sounds familiar, who do those words belong to?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:4",
+        "speaker": "Gina",
+        "text": "It's Shia Labeouf!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:5",
+        "speaker": "Jon",
+        "text": "Ahhahha, really!? Yea, that definitely him.",
+        "metadata": {}
+      }
+    ]
+  }
+]

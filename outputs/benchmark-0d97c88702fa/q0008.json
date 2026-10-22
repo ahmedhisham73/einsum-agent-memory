@@ -1,0 +1,37 @@
+{
+  "question_id": "conv-26::q0008",
+  "category": 1,
+  "question": "What is Caroline's relationship status?",
+  "gold_answer": "Single",
+  "status": "scored",
+  "generated_answer": "Caroline is single and not married but actively pursuing adoption to build a family as a single parent. Her relationship status has shifted due to her journey, leading to some friends not being supportive while others remain loving and accepting, resulting in more genuine connections. She has a strong support system of friends and family who have been instrumental in her transition. Caroline is currently single but seeking companionship through starting a family via adoption, focusing on creating a loving home for children in need.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_2::episode-002",
+      "turn_id": "D2:14"
+    },
+    {
+      "episode_id": "conv-26::session_2::episode-002",
+      "turn_id": "D2:10"
+    },
+    {
+      "episode_id": "conv-26::session_6::episode-004",
+      "turn_id": "D6:11"
+    },
+    {
+      "episode_id": "conv-26::session_16::episode-006",
+      "turn_id": "D16:15"
+    },
+    {
+      "episode_id": "conv-26::session_17::episode-001",
+      "turn_id": "D17:1"
+    },
+    {
+      "episode_id": "conv-26::session_19::episode-001",
+      "turn_id": "D19:1"
+    }
+  ],
+  "query_elapsed_seconds": 5.62486175,
+  "label": "WRONG",
+  "judge_reason": "The generated answer includes additional information about Caroline's adoption journey and support system, which is not directly related to her relationship status. The essential fact of her being 'Single' is overshadowed by extraneous details."
+}

@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "4dcf0ae3-7e04-4081-b60b-71d74be8ef51",
+    "response": {
+      "id": "chatcmpl-EbsC7nRKvhJwqtq1PMoKNqU2kEYPT",
+      "object": "chat.completion",
+      "created": 1792695167,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Melanie\",\"property\":\"plans\",\"search\":\"Melanie plans for future roadtrip or travel activities\"},{\"entity\":\"Melanie\",\"property\":\"intent\",\"search\":\"Melanie's intent regarding going on roadtrips\"},{\"entity\":\"Melanie\",\"property\":\"anticipation\",\"search\":\"Melanie's anticipation or expectations about a roadtrip\"},{\"entity\":\"Melanie\",\"property\":\"activity_type\",\"search\":\"Any mention of Melanie participating in or planning travel or roadtrip activities\"},{\"entity\":\"Melanie\",\"property\":\"emotion\",\"search\":\"Melanie's emotional state or feelings towards roadtrips or travel\"},{\"entity\":\"Melanie\",\"property\":\"expresses_anticipation\",\"search\":\"Whether Melanie expresses excitement or eagerness about going on another roadtrip\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2680,
+        "completion_tokens": 157,
+        "total_tokens": 2837,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4ffa17cc03"
+    },
+    "latency_seconds": 3.9228023750000003
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "0b639b9d-3235-4dca-b398-d7483b5f65a8",
+    "response": {
+      "id": "chatcmpl-EbsCC6WFdD2w2K71lbso3DAqn7NX8",
+      "object": "chat.completion",
+      "created": 1792695172,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Yes, Melanie plans to go on another roadtrip or outing soon. She mentioned thinking about going camping next month and also discussed planning a special trip with Caroline for the summer. She expresses positive anticipation and enjoyment about family camping and outdoor activities.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_2::episode-001\",\"turn_id\":\"D2:7\"},{\"episode_id\":\"conv-26::session_12::episode-005\",\"turn_id\":\"D12:16\"},{\"episode_id\":\"conv-26::session_18::episode-004\",\"turn_id\":\"D18:17\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 7141,
+        "completion_tokens": 130,
+        "total_tokens": 7271,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6a82cb19e8"
+    },
+    "latency_seconds": 2.7411787090000006
+  }
+]

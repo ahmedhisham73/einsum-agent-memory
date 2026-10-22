@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "3e632524-7819-44b1-92e5-3c2779d1af92",
+    "response": {
+      "id": "chatcmpl-EbsAdgoLU9HHdVVio8Z5uynBQ3HQk",
+      "object": "chat.completion",
+      "created": 1792695075,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Mel and her husband\",\"property\":\"marriage_duration\",\"search\":\"evidence of how long Mel and her husband have been married\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2681,
+        "completion_tokens": 37,
+        "total_tokens": 2718,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_b00c9abe04"
+    },
+    "latency_seconds": 1.712549334
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "4f1affb8-ae02-4d83-9bb7-ef21b337ee5a",
+    "response": {
+      "id": "chatcmpl-EbsAfmquFt8rLAwrtKOREhpEOi2SV",
+      "object": "chat.completion",
+      "created": 1792695077,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Mel and her husband have been married for 5 years.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_3::episode-003\",\"turn_id\":\"D3:16\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3196,
+        "completion_tokens": 48,
+        "total_tokens": 3244,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6a82cb19e8"
+    },
+    "latency_seconds": 1.3848082500000003
+  }
+]

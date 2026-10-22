@@ -1,0 +1,489 @@
+[
+  {
+    "episode_id": "conv-41::session_1::episode-002",
+    "conversation_id": "conv-41",
+    "session_id": "session_1",
+    "observed_at": "2022-12-17T11:01:00",
+    "source_timestamp": "11:01 am on 17 December, 2022",
+    "timezone_status": "unspecified",
+    "theme": "Discussion of fitness activities and goals",
+    "turns": [
+      {
+        "turn_id": "D1:4",
+        "speaker": "John",
+        "text": "Woah, Maria, that sounds cool! I'm doing kickboxing and it's giving me so much energy.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:5",
+        "speaker": "Maria",
+        "text": "Cool, John. Kickboxing is a perfect way to stay in shape and de-stress. Do you have any goals you're working towards?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_1::episode-004",
+    "conversation_id": "conv-41",
+    "session_id": "session_1",
+    "observed_at": "2022-12-17T11:01:00",
+    "source_timestamp": "11:01 am on 17 December, 2022",
+    "timezone_status": "unspecified",
+    "theme": "Motivations for political goals and school funding impact",
+    "turns": [
+      {
+        "turn_id": "D1:9",
+        "speaker": "Maria",
+        "text": "Wow, John! It's great to hear that. Could you tell me what got you interested in those topics?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:10",
+        "speaker": "John",
+        "text": "Growing up, I saw how lack of education and crumbling infrastructure affected my neighborhood. I don't want future generations to go through that, so I think schools and infrastructure should be funded properly. Here's a pic of a school last year, after they got the funding.",
+        "metadata": {
+          "img_url": [
+            "https://www.greenbaypressgazette.com/gcdn/presto/2019/07/16/PGRB/fa8d60a1-0a21-421c-b36d-31f4bc2d2b6d-KEW_0720_LC_referendum_Peters_Concrete_pour.png"
+          ],
+          "blip_caption": "a photo of a group of men working on a building",
+          "query": "school building renovation"
+        }
+      },
+      {
+        "turn_id": "D1:11",
+        "speaker": "Maria",
+        "text": "Looks good! How did the extra funding help with building the school?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:12",
+        "speaker": "John",
+        "text": "It enabled needed repairs and renovations, making the learning environment safer and more modern for students.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_10::episode-001",
+    "conversation_id": "conv-41",
+    "session_id": "session_10",
+    "observed_at": "2023-04-07T00:24:00",
+    "source_timestamp": "12:24 am on 7 April, 2023",
+    "timezone_status": "unspecified",
+    "theme": "John's experience starting a weekend yoga class",
+    "turns": [
+      {
+        "turn_id": "D10:1",
+        "speaker": "John",
+        "text": "Hey Maria, I'm so excited to tell you I started a weekend yoga class with a colleague - it's awesome! I feel great, both mentally and physically after each session. I'd been wanting to try yoga for a while and finally took the plunge. Simple stretching and breathing is having such a positive effect on my wellbeing. And the instructor is great too.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:2",
+        "speaker": "Maria",
+        "text": "Wow, John, glad to hear that! It's amazing how something like stretching and breathing can have such a positive effect on our wellbeing. What can you tell me about your instructor that makes them so great?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:3",
+        "speaker": "John",
+        "text": "They're awesome - they make sure we do the poses properly and encourage us to listen to our bodies. They create a great, relaxed environment that makes everyone feel welcome. Here's a photo from our last class.",
+        "metadata": {
+          "img_url": [
+            "https://images.pexels.com/photos/7721929/pexels-photo-7721929.jpeg"
+          ],
+          "blip_caption": "a photography of a man doing yoga outside on a blue mat",
+          "query": "yoga instructor relaxed yoga pose",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D10:4",
+        "speaker": "Maria",
+        "text": "Wow, that looks great! What kind of yoga is it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:5",
+        "speaker": "John",
+        "text": "It's a beginner yoga class, focusing on fundamentals like poses and breathing. I find it helps me relax and increase my flexibility.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:6",
+        "speaker": "Maria",
+        "text": "Nice one, John! Glad you're finding some chill with that. How are you feeling afterwards?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:7",
+        "speaker": "John",
+        "text": "I feel great. It really helps me relax and feel more connected. It's been a great way to improve my mind and body.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:8",
+        "speaker": "Maria",
+        "text": "Awesome John! Glad it's chillin' and connecting you. Stretching and breathing are such powerful tools for wellbeing. So cool you found a beginner class to help you flex up. Keep it up! 🧘‍♀️",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_13::episode-004",
+    "conversation_id": "conv-41",
+    "session_id": "session_13",
+    "observed_at": "2023-05-04T15:18:00",
+    "source_timestamp": "3:18 pm on 4 May, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Maria discusses self-care, balance, and reflective solo trip to Spain",
+    "turns": [
+      {
+        "turn_id": "D13:20",
+        "speaker": "Maria",
+        "text": "Taking care of myself physically, emotionally, and mentally helps me. That includes things like exercise, music, and spending time with loved ones. It really helps me stay positive.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D13:21",
+        "speaker": "John",
+        "text": "Awesome, Maria! Taking care of ourselves and looking out for our well-being is key. Finding balance like you mentioned helps us out a lot.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D13:22",
+        "speaker": "Maria",
+        "text": "Yeah John, it's super important. Taking care of yourself helps us be strong for life's tough times - I learned that the hard way last year.",
+        "metadata": {
+          "img_url": [
+            "https://images.pexels.com/photos/1974521/pexels-photo-1974521.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-julia-kuzenkov-1974521.jpg"
+          ],
+          "blip_caption": "a photo of a beach with footprints in the sand and a blue sky",
+          "query": "sunrise beach"
+        }
+      },
+      {
+        "turn_id": "D13:23",
+        "speaker": "John",
+        "text": "That looks interesting. What's the story behind the picture?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D13:24",
+        "speaker": "Maria",
+        "text": "Last year I took a solo trip and took this pic in Spain. It reminded me that life is hard but there's still hope and beauty. It made me realize the importance of relying on my inner strength and appreciating small moments even more.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D13:25",
+        "speaker": "John",
+        "text": "That's a great pic, Maria. Yeah, life can be tough but finding beauty in the world can really make a difference. It sounds like your solo trip was a transformative experience.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_13::episode-005",
+    "conversation_id": "conv-41",
+    "session_id": "session_13",
+    "observed_at": "2023-05-04T15:18:00",
+    "source_timestamp": "3:18 pm on 4 May, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Maria’s learnings from solitude and trying new activities like surfing",
+    "turns": [
+      {
+        "turn_id": "D13:26",
+        "speaker": "Maria",
+        "text": "Yeah, it was great. It helped me grow and made me appreciate life more. Taking a step back can really show us the beauty of life.",
+        "metadata": {
+          "img_url": [
+            "https://images.pexels.com/photos/11663179/pexels-photo-11663179.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-serhat-tu%C4%9F-11663179.jpg"
+          ],
+          "blip_caption": "a photo of a small island with a lone boat in the water",
+          "query": "sunrise calm lake"
+        }
+      },
+      {
+        "turn_id": "D13:27",
+        "speaker": "John",
+        "text": "Wow, Maria, that's a really nice picture! Did you learn anything meaningful during your trip?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D13:28",
+        "speaker": "Maria",
+        "text": "Yeah, I realized that it's important to value different perspectives and the power of solitude. Plus, it reminded me of the importance of letting go and trusting life sometimes.",
+        "metadata": {
+          "img_url": [
+            "https://i.pinimg.com/originals/c8/d6/bc/c8d6bc6ad3b08172bdbc1665f3ed080b.jpg"
+          ],
+          "blip_caption": "a photo of a person walking on the beach with a surfboard",
+          "query": "sunset ocean"
+        }
+      },
+      {
+        "turn_id": "D13:29",
+        "speaker": "John",
+        "text": "The pic takes me back. Did you try anything new on your vacation?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D13:30",
+        "speaker": "Maria",
+        "text": "Yeah, I did! I tried my hand at surfing for the first time- it was so exciting! Even though I kept falling off, it taught me the power of not giving up and trying new things.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_23::episode-002",
+    "conversation_id": "conv-41",
+    "session_id": "session_23",
+    "observed_at": "2023-07-07T18:29:00",
+    "source_timestamp": "6:29 pm on 7 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Maria and John express mutual support and commitment to community action",
+    "turns": [
+      {
+        "turn_id": "D23:4",
+        "speaker": "Maria",
+        "text": "Hey John, I'm down to join the meeting and contribute to making our community better. Let's do this!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D23:5",
+        "speaker": "John",
+        "text": "Nice work, Maria! Your determination never ceases to amaze me. Let's get to work!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D23:6",
+        "speaker": "Maria",
+        "text": "Definitely, John! Your commitment to helping others is inspiring. It's great to have a friend like you who shares the same passion. Let's join forces and make the change we desire in our community.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D23:7",
+        "speaker": "John",
+        "text": "That means a lot, Maria. Your support and friendship mean everything. Together, we can really make a difference and motivate others too. Let's keep it up!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D23:8",
+        "speaker": "Maria",
+        "text": "John, let's keep working together to make a difference in our community. Our actions, no matter how small, can have a big impact. Let's continue to spread kindness and inspire hope.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D23:9",
+        "speaker": "John",
+        "text": "Definitely, little steps count! We can really make a difference together - let's do it!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D23:10",
+        "speaker": "Maria",
+        "text": "Yep, let's create a positivity ripple! Little acts of kindness and helping hands can really transform lives. Let's keep improving our community.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D23:11",
+        "speaker": "John",
+        "text": "Yeah, let's work hard to help those around us. We can make a difference!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D23:12",
+        "speaker": "Maria",
+        "text": "Yeah, John! Change starts small, so with hard work, we can really make something great. I'm glad to have you here.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D23:13",
+        "speaker": "John",
+        "text": "Thanks, Maria. Your support means a lot and it's awesome to have you by my side in our community work. Let's keep going and making great things happen!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_26::episode-002",
+    "conversation_id": "conv-41",
+    "session_id": "session_26",
+    "observed_at": "2023-07-31T13:59:00",
+    "source_timestamp": "1:59 pm on 31 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "John's experience joining the fire-fighting brigade and his first rescue mission",
+    "turns": [
+      {
+        "turn_id": "D26:4",
+        "speaker": "John",
+        "text": "Thanks, Maria! It's been tough, but really rewarding. The training was intense and taxing, but it changed my view on helping others. Last Sunday we had our first call-out, and it was intense. We responded to a situation and our team worked together to help those in need. Seeing their relief was awesome.",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/1bwp2zpccuo91.jpg"
+          ],
+          "blip_caption": "a photo of a firefighter's gear laid out on the floor",
+          "query": "house fire fire-fighting gear fire engine"
+        }
+      },
+      {
+        "turn_id": "D26:5",
+        "speaker": "Maria",
+        "text": "Wow, John! What was it like being part of that rescue mission?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D26:6",
+        "speaker": "John",
+        "text": "It was chaotic when we arrived, but we pulled together. I got a surge of energy and purpose, and we were able to save a family from a burning building. It was wild, but knowing we made a difference made it worth it.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D26:7",
+        "speaker": "Maria",
+        "text": "Wow John, that's intense! Helping out like that takes guts - it's inspiring to hear about the difference you made.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D26:8",
+        "speaker": "John",
+        "text": "Thanks, Maria! It was an adrenaline rush, and I couldn't have done it without them. We trust and rely on one another, and it's great to know that we have each other's backs. They've become like family to me.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D26:9",
+        "speaker": "Maria",
+        "text": "Sounds great, John! It must feel incredible to have a supportive team like that.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D26:10",
+        "speaker": "John",
+        "text": "Yeah, it really does feel helpful, Maria. We have different skills and talents, but they all contribute to serving and protecting our community. And it's a bond I haven't felt since my time in the military.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_26::episode-003",
+    "conversation_id": "conv-41",
+    "session_id": "session_26",
+    "observed_at": "2023-07-31T13:59:00",
+    "source_timestamp": "1:59 pm on 31 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "The importance of strong bonds and teamwork in community service",
+    "turns": [
+      {
+        "turn_id": "D26:11",
+        "speaker": "Maria",
+        "text": "Glad you've found that same strong bond. Having friends you can rely on makes a huge difference.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D26:12",
+        "speaker": "John",
+        "text": "Yeah, Maria! It's nice to know we're all in this together, striving to keep our community safe. I find it fulfilling and meaningful.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_29::episode-002",
+    "conversation_id": "conv-41",
+    "session_id": "session_29",
+    "observed_at": "2023-08-09T20:06:00",
+    "source_timestamp": "8:06 pm on 9 August, 2023",
+    "timezone_status": "unspecified",
+    "theme": "John describes organizing a 5K charity run for veterans",
+    "turns": [
+      {
+        "turn_id": "D29:4",
+        "speaker": "John",
+        "text": "I set up a 5K charity run in our neighborhood. It was all for a good cause - to help out veterans and their families. We were able to raise some funds! Here's a pic from the day.",
+        "metadata": {
+          "img_url": [
+            "https://runningfabulouslyblog.files.wordpress.com/2018/09/img_3190.jpg"
+          ],
+          "blip_caption": "a photo of a group of people posing for a picture",
+          "query": "5k charity run group of people running cheering"
+        }
+      },
+      {
+        "turn_id": "D29:5",
+        "speaker": "Maria",
+        "text": "John, that's awesome! That is such an important cause. It's an honor to know someone like you who takes initiative. The photo you shared is so powerful! Could you tell me more about how you organized the run?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D29:6",
+        "speaker": "John",
+        "text": "Thanks, Maria! It means a lot to me. It was hard work - getting sponsors, coordinating with the city, and spreading the word. But seeing everyone come together to support our veterans made it worth it.",
+        "metadata": {
+          "blip_caption": "a photo of a map of the streets of downtown"
+        }
+      },
+      {
+        "turn_id": "D29:7",
+        "speaker": "Maria",
+        "text": "Wow, John, that sounds like a lot of effort! Your dedication definitely paid off. Were there any challenges along the way?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D29:8",
+        "speaker": "John",
+        "text": "Definitely, Maria! Getting sponsors was difficult. I had to reach out to several businesses through different means, but it paid off. We ended up with some awesome sponsors that made the event a hit.",
+        "metadata": {
+          "blip_caption": "a photo of a sign on a door that says domestic abuse"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_30::episode-004",
+    "conversation_id": "conv-41",
+    "session_id": "session_30",
+    "observed_at": "2023-08-11T00:10:00",
+    "source_timestamp": "12:10 am on 11 August, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Maria encourages John to find meaningful ways to channel his passion",
+    "turns": [
+      {
+        "turn_id": "D30:15",
+        "speaker": "Maria",
+        "text": "Hey John, I understand how you feel. It's tough when you start questioning that. But remember, even small things can make a difference. Why do you feel that way?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D30:16",
+        "speaker": "John",
+        "text": "Thanks for understanding. I just want to positively affect people and the world, but it feels like I'm stuck. I need to find a better way to focus my passion and enthusiasm.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D30:17",
+        "speaker": "Maria",
+        "text": "Yeah, it can be tough. Taking small steps can help. Have you thought about any ideas for how to channel your energy into something meaningful?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D30:18",
+        "speaker": "John",
+        "text": "Lately I've been exploring options. One idea I had was to join local organizations or volunteering programs. Maybe that's an option.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D30:19",
+        "speaker": "Maria",
+        "text": "Sounds like a great plan, John! That could definitely help you make a difference. You can meet like-minded people and contribute to causes that you care about. Why not do some research and explore the organizations you'd be interested in?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D30:20",
+        "speaker": "John",
+        "text": "Yeah, Maria, that's a good idea. I'll make a list of the ones that suit what I believe in and reach out for more info. Thanks!",
+        "metadata": {}
+      }
+    ]
+  }
+]

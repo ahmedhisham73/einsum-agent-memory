@@ -1,0 +1,35 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Melanie",
+      "property": "action",
+      "search": "Melanie went to the museum"
+    },
+    {
+      "entity": "Melanie",
+      "property": "activity",
+      "search": "Melanie museum visit"
+    },
+    {
+      "entity": "Melanie",
+      "property": "activity_recent",
+      "search": "Melanie recent museum visit date"
+    },
+    {
+      "entity": "Melanie",
+      "property": "activity_type",
+      "search": "museum visit by Melanie"
+    },
+    {
+      "entity": "Melanie",
+      "property": "activity_enjoyment",
+      "search": "Melanie enjoyment going to museum"
+    },
+    {
+      "entity": "Melanie",
+      "property": "activity_goal",
+      "search": "purpose of Melanie's museum visit"
+    }
+  ]
+}

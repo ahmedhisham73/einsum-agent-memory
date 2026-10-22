@@ -1,0 +1,35 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Jon",
+      "property": "ideal_dance_studio_view",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Jon",
+      "property": "appearance_description",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Jon",
+      "property": "design_intention",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Jon",
+      "property": "design goal for customers",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Jon",
+      "property": "desired_quality",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Jon",
+      "property": "studio_status",
+      "search": "standalone evidence search"
+    }
+  ]
+}

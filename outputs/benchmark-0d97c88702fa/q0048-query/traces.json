@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "9836ac04-a869-4716-9bd9-404e9467b2f7",
+    "response": {
+      "id": "chatcmpl-EbsEf1Yrk16u9T48uFxYhyNw3rIcY",
+      "object": "chat.completion",
+      "created": 1792695325,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Caroline\",\"property\":\"support_received\",\"search\":\"standalone evidence search\"},{\"entity\":\"Caroline\",\"property\":\"support_system\",\"search\":\"standalone evidence search\"},{\"entity\":\"Caroline\",\"property\":\"support_network_role\",\"search\":\"standalone evidence search\"},{\"entity\":\"Caroline\",\"property\":\"has_received_support_from\",\"search\":\"standalone evidence search\"},{\"entity\":\"Caroline\",\"property\":\"received_help_from\",\"search\":\"standalone evidence search\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2681,
+        "completion_tokens": 98,
+        "total_tokens": 2779,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_58b0258a33"
+    },
+    "latency_seconds": 2.11001475
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "e77415ab-617d-471f-9b68-8de4b4d8ac0d",
+    "response": {
+      "id": "chatcmpl-EbsEiWjBZOHL4IeIyvu2T3lRkUW26",
+      "object": "chat.completion",
+      "created": 1792695328,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Caroline is supported by her friends, family, mentors, and specifically by Melanie. They provide her with love, guidance, acceptance, encouragement, and emotional support through difficult times like her transition and breakup. Melanie constantly affirms Caroline's efforts and journey, showing that she is a key part of Caroline's support network.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_2::episode-002\",\"turn_id\":\"D2:10\"},{\"episode_id\":\"conv-26::session_3::episode-002\",\"turn_id\":\"D3:11\"},{\"episode_id\":\"conv-26::session_3::episode-002\",\"turn_id\":\"D3:13\"},{\"episode_id\":\"conv-26::session_6::episode-004\",\"turn_id\":\"D6:13\"},{\"episode_id\":\"conv-26::session_6::episode-004\",\"turn_id\":\"D6:15\"},{\"episode_id\":\"conv-26::session_19::episode-003\",\"turn_id\":\"D19:9\"},{\"episode_id\":\"conv-26::session_19::episode-003\",\"turn_id\":\"D19:11\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 5078,
+        "completion_tokens": 238,
+        "total_tokens": 5316,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6a82cb19e8"
+    },
+    "latency_seconds": 2.89938875
+  }
+]

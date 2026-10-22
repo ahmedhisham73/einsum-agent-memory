@@ -1,0 +1,30 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Caroline",
+      "property": "career_plan_detail",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Caroline",
+      "property": "career_interest",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Caroline",
+      "property": "career_goal",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Caroline",
+      "property": "career_motivation",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Caroline",
+      "property": "career_goal_interest",
+      "search": "standalone evidence search"
+    }
+  ]
+}

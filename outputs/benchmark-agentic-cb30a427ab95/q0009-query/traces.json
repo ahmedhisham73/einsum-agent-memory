@@ -1,0 +1,125 @@
+[
+  {
+    "stage": "agent_decision",
+    "call_id": "acef8094-90f5-4777-ada2-18d128ea4c2a",
+    "response": {
+      "id": "chatcmpl-EbsP8WauEcEaPB2L0eXWJ4LIbK36T",
+      "object": "chat.completion",
+      "created": 1792695974,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"search\",\"query\":\"John financial status\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 148,
+        "completion_tokens": 11,
+        "total_tokens": 159,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_b64959fd61"
+    },
+    "latency_seconds": 1.4143307090000001
+  },
+  {
+    "stage": "agent_decision",
+    "call_id": "c8c9adc6-387f-4672-9bf9-326ddb5c019a",
+    "response": {
+      "id": "chatcmpl-EbsPAgxMSPBE0YSdubWeVUuzN2vZw",
+      "object": "chat.completion",
+      "created": 1792695976,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"ready\",\"reason\":\"Extracted multiple relevant data points about John's financial status from conversation chunks, including job loss, job seeking, and involvement in politics. These provide a basis to infer John's financial situation.\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2859,
+        "completion_tokens": 44,
+        "total_tokens": 2903,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_b64959fd61"
+    },
+    "latency_seconds": 1.9703037500000002
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "639f701b-3c25-4d16-be78-a4968aef2682",
+    "response": {
+      "id": "chatcmpl-EbsPCcGRR3MwfeQbsFliIe0ZUd209",
+      "object": "chat.completion",
+      "created": 1792695978,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"John's financial status appears unstable. He lost his job at a mechanical engineering company that went bankrupt, which was a rough experience for him. However, he is actively seeking new opportunities, specifically in the tech industry, and may have found a job at a tech company utilizing his mechanical skills. There is no direct information indicating wealth or financial security, but current evidence points to a recent financial challenge and a transition phase.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-41::session_28::chunk-0000\",\"turn_id\":\"D28:1\"},{\"episode_id\":\"conv-41::session_28::chunk-0000\",\"turn_id\":\"D28:3\"},{\"episode_id\":\"conv-41::session_28::chunk-0000\",\"turn_id\":\"D28:5\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2845,
+        "completion_tokens": 168,
+        "total_tokens": 3013,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6a82cb19e8"
+    },
+    "latency_seconds": 2.8751570829999995
+  }
+]

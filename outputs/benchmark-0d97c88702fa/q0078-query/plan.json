@@ -1,0 +1,35 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Melanie",
+      "property": "plans",
+      "search": "Melanie plans for future roadtrip or travel activities"
+    },
+    {
+      "entity": "Melanie",
+      "property": "intent",
+      "search": "Melanie's intent regarding going on roadtrips"
+    },
+    {
+      "entity": "Melanie",
+      "property": "anticipation",
+      "search": "Melanie's anticipation or expectations about a roadtrip"
+    },
+    {
+      "entity": "Melanie",
+      "property": "activity_type",
+      "search": "Any mention of Melanie participating in or planning travel or roadtrip activities"
+    },
+    {
+      "entity": "Melanie",
+      "property": "emotion",
+      "search": "Melanie's emotional state or feelings towards roadtrips or travel"
+    },
+    {
+      "entity": "Melanie",
+      "property": "expresses_anticipation",
+      "search": "Whether Melanie expresses excitement or eagerness about going on another roadtrip"
+    }
+  ]
+}

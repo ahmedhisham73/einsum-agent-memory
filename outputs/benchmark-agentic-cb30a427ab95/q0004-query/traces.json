@@ -1,0 +1,125 @@
+[
+  {
+    "stage": "agent_decision",
+    "call_id": "7cffdb5a-20a6-4d3a-92af-9b7598b2a975",
+    "response": {
+      "id": "chatcmpl-EbsPSl7LDURy7Cq10E73Zb2V0V3qq",
+      "object": "chat.completion",
+      "created": 1792695994,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"search\",\"query\":\"volunteering done by John and Maria\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 152,
+        "completion_tokens": 16,
+        "total_tokens": 168,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_b64959fd61"
+    },
+    "latency_seconds": 1.6525319170000001
+  },
+  {
+    "stage": "agent_decision",
+    "call_id": "a040bc94-870d-4060-8434-9d7c7fb69911",
+    "response": {
+      "id": "chatcmpl-EbsPVbuPzPepPqUuGjvWfcwKu8C8B",
+      "object": "chat.completion",
+      "created": 1792695997,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"ready\",\"reason\":\"The evidence shows John has volunteered at a food drive and started a petition campaign, while Maria has volunteered at a homeless shelter and helped link a homeless individual to services. The common volunteer type both have done is volunteering at local homeless shelters or helping the homeless community.\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3208,
+        "completion_tokens": 60,
+        "total_tokens": 3268,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_b64959fd61"
+    },
+    "latency_seconds": 2.085041834
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "6a075855-3d73-41be-ba79-ac8379c0c59a",
+    "response": {
+      "id": "chatcmpl-EbsPXC8xeRCahzX5G4FlJS9CuBSV5",
+      "object": "chat.completion",
+      "created": 1792695999,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Both John and Maria have volunteered at places providing food and shelter assistance. John has volunteered at a food bank and food drives helping people who lost jobs, while Maria has volunteered at homeless shelters and linked homeless individuals to support organizations. Thus, they both have done volunteering related to helping the homeless and those in need with food and shelter.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-41::session_6::chunk-0005\",\"turn_id\":\"D6:10\"},{\"episode_id\":\"conv-41::session_6::chunk-0005\",\"turn_id\":\"D6:7\"},{\"episode_id\":\"conv-41::session_9::chunk-0015\",\"turn_id\":\"D9:17\"},{\"episode_id\":\"conv-41::session_27::chunk-0000\",\"turn_id\":\"D27:2\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3135,
+        "completion_tokens": 175,
+        "total_tokens": 3310,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6a82cb19e8"
+    },
+    "latency_seconds": 2.821049833999999
+  }
+]

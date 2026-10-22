@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-26::q0090",
+  "category": 4,
+  "question": "What does Melanie think about Caroline's decision to adopt?",
+  "gold_answer": "she thinks Caroline is doing something amazing and will be an awesome mom",
+  "status": "failed",
+  "error": "Query failed. See q0090.log"
+}

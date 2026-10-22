@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-41::q0040",
+  "category": 3,
+  "question": "Around which US holiday did Maria get into a car accident?",
+  "gold_answer": "Independence Day",
+  "status": "scored",
+  "generated_answer": "Maria got into a car accident around the US Independence Day holiday (4th of July). The accident happened on July 2nd or 3rd, as she mentions it happened \"yesterday\" in the conversation observed on July 3, 2023.",
+  "citations": [
+    {
+      "episode_id": "conv-41::session_21::chunk-0000",
+      "turn_id": "D21:3"
+    }
+  ],
+  "query_elapsed_seconds": 7.150204,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer correctly identifies the US holiday as Independence Day and provides the relevant context regarding the timing of the accident."
+}

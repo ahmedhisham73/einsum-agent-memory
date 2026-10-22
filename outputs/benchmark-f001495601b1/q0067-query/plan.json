@@ -1,0 +1,45 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "John",
+      "property": "motivation_source",
+      "search": "What sparked John's interest in improving education and infrastructure in the community"
+    },
+    {
+      "entity": "John",
+      "property": "interest_areas",
+      "search": "Areas of interest related to education and infrastructure improvement for John"
+    },
+    {
+      "entity": "John",
+      "property": "activity_started",
+      "search": "When and why John started activities related to education and infrastructure"
+    },
+    {
+      "entity": "John",
+      "property": "experience",
+      "search": "Relevant past experiences that influenced John's interest in community improvement"
+    },
+    {
+      "entity": "John",
+      "property": "belief_about_progress",
+      "search": "John's beliefs about progress and community development"
+    },
+    {
+      "entity": "John",
+      "property": "observes_inequality",
+      "search": "Whether John observed inequality or problems that motivate his interest"
+    },
+    {
+      "entity": "John",
+      "property": "personal_feeling",
+      "search": "John's personal feelings or emotional triggers related to education and infrastructure"
+    },
+    {
+      "entity": "John",
+      "property": "inspiration_source",
+      "search": "Sources of inspiration that triggered John's community focus"
+    }
+  ]
+}

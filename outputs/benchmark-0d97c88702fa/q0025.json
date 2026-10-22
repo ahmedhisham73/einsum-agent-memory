@@ -1,0 +1,57 @@
+{
+  "question_id": "conv-26::q0025",
+  "category": 1,
+  "question": "What does Melanie do to destress?",
+  "gold_answer": "Running, pottery",
+  "status": "scored",
+  "generated_answer": "Melanie destresses through multiple activities including painting, running, playing clarinet, pottery (when not injured), camping and hiking with her family, and spending quality time in nature. Painting and art allow her to express her feelings and relax, running helps clear her mind, clarinet playing is a way to relax and express herself, and family camping trips provide peace and serenity.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_1::episode-004",
+      "turn_id": "D1:14"
+    },
+    {
+      "episode_id": "conv-26::session_1::episode-004",
+      "turn_id": "D1:16"
+    },
+    {
+      "episode_id": "conv-26::session_7::episode-004",
+      "turn_id": "D7:20"
+    },
+    {
+      "episode_id": "conv-26::session_7::episode-004",
+      "turn_id": "D7:22"
+    },
+    {
+      "episode_id": "conv-26::session_15::episode-005",
+      "turn_id": "D15:26"
+    },
+    {
+      "episode_id": "conv-26::session_17::episode-002",
+      "turn_id": "D17:8"
+    },
+    {
+      "episode_id": "conv-26::session_17::episode-002",
+      "turn_id": "D17:10"
+    },
+    {
+      "episode_id": "conv-26::session_8::episode-004",
+      "turn_id": "D8:32"
+    },
+    {
+      "episode_id": "conv-26::session_8::episode-004",
+      "turn_id": "D8:34"
+    },
+    {
+      "episode_id": "conv-26::session_18::episode-004",
+      "turn_id": "D18:19"
+    },
+    {
+      "episode_id": "conv-26::session_18::episode-004",
+      "turn_id": "D18:21"
+    }
+  ],
+  "query_elapsed_seconds": 5.458124833,
+  "label": "WRONG",
+  "judge_reason": "The generated answer includes unsupported activities (painting, playing clarinet, camping, hiking) and contradicts the reference answer by adding details that are not mentioned."
+}

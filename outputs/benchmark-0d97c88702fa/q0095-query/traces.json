@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "04814ee7-10ef-4dbe-b41d-da29737127f6",
+    "response": {
+      "id": "chatcmpl-EbsCpDGJzFkMJJi62sr5fmbGN3NCB",
+      "object": "chat.completion",
+      "created": 1792695211,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Melanie's hand-painted bowl\",\"property\":\"artwork_symbolism\",\"search\":\"standalone evidence search\"},{\"entity\":\"Melanie's hand-painted bowl\",\"property\":\"symbolism\",\"search\":\"standalone evidence search\"},{\"entity\":\"Melanie's hand-painted bowl\",\"property\":\"meaning\",\"search\":\"standalone evidence search\"},{\"entity\":\"Melanie's hand-painted bowl\",\"property\":\"reminder_of\",\"search\":\"standalone evidence search\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2682,
+        "completion_tokens": 95,
+        "total_tokens": 2777,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6cab07b253"
+    },
+    "latency_seconds": 1.949587458
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "caa7856d-7fe9-48b6-a24a-8d7c653553ba",
+    "response": {
+      "id": "chatcmpl-EbsCse1MqxEYt26KvpWkUNBjiMXdb",
+      "object": "chat.completion",
+      "created": 1792695214,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Melanie's hand-painted bowl is a reminder of family love.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_19::episode-001\",\"turn_id\":\"D19:2\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3789,
+        "completion_tokens": 49,
+        "total_tokens": 3838,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6a82cb19e8"
+    },
+    "latency_seconds": 1.7946852079999998
+  }
+]

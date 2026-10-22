@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "e5866295-6b8f-4ec4-9071-e423cb540995",
+    "response": {
+      "id": "chatcmpl-EbsME56OImZsF0qUE246o0Sl2ILwn",
+      "object": "chat.completion",
+      "created": 1792695794,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"all_matching\",\"requirements\":[{\"entity\":\"John\",\"property\":\"activity_type\",\"search\":\"martial arts experienced or practiced by John\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3704,
+        "completion_tokens": 30,
+        "total_tokens": 3734,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6cab07b253"
+    },
+    "latency_seconds": 2.2797607500000012
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "49ed9e05-43e9-4e47-9b17-06d544e4e99d",
+    "response": {
+      "id": "chatcmpl-EbsMHzfoFM6RpmtO4VOivPdmiwXVE",
+      "object": "chat.completion",
+      "created": 1792695797,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"John has practiced kickboxing, taekwondo, weight training, and yoga as martial arts or related fitness activities.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-41::session_1::episode-002\",\"turn_id\":\"D1:4\"},{\"episode_id\":\"conv-41::session_2::episode-005\",\"turn_id\":\"D2:28\"},{\"episode_id\":\"conv-41::session_25::episode-001\",\"turn_id\":\"D25:13\"},{\"episode_id\":\"conv-41::session_25::episode-002\",\"turn_id\":\"D25:13\"},{\"episode_id\":\"conv-41::session_25::episode-017\",\"turn_id\":\"D25:17\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 53557,
+        "completion_tokens": 151,
+        "total_tokens": 53708,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6a82cb19e8"
+    },
+    "latency_seconds": 4.601886790999998
+  }
+]

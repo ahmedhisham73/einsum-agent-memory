@@ -1,0 +1,37 @@
+{
+  "question_id": "conv-26::q0028",
+  "category": 3,
+  "question": "Would Caroline pursue writing as a career option?",
+  "gold_answer": "LIkely no; though she likes reading, she wants to be a counselor",
+  "status": "scored",
+  "generated_answer": "No, Caroline does not appear to pursue writing as a career option. Throughout the conversations, she expresses interest and plans related to counseling and mental health careers, supporting the LGBTQ+ community, adoption, and involvement in art (painting, poetry reading) for self-expression and advocacy. There is no direct evidence of Caroline intending to pursue writing professionally or as a career goal. Her career focus is primarily on counseling, mental health, and community support.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_1::episode-003",
+      "turn_id": "D1:10"
+    },
+    {
+      "episode_id": "conv-26::session_1::episode-003",
+      "turn_id": "D1:11"
+    },
+    {
+      "episode_id": "conv-26::session_4::episode-003",
+      "turn_id": "D4:11"
+    },
+    {
+      "episode_id": "conv-26::session_4::episode-003",
+      "turn_id": "D4:13"
+    },
+    {
+      "episode_id": "conv-26::session_7::episode-001",
+      "turn_id": "D7:5"
+    },
+    {
+      "episode_id": "conv-26::session_7::episode-001",
+      "turn_id": "D7:7"
+    }
+  ],
+  "query_elapsed_seconds": 6.647562959,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer accurately indicates that Caroline is not pursuing writing as a career and supports this with details about her interest in counseling and other related fields."
+}

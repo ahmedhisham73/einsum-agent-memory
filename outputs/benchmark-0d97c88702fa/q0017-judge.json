@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-EbsARhZd3I7jWqR6VOQibYsCHc6t2",
+  "object": "chat.completion",
+  "created": 1792695063,
+  "model": "gpt-4o-mini-2024-07-18",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\"label\":\"CORRECT\",\"reason\":\"The generated answer provides the correct date (2 July 2023) when Melanie signed up for the pottery class, consistent with the reference answer, and supports it with contextual information.\"}",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 176,
+    "completion_tokens": 45,
+    "total_tokens": 221,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_6548d98151"
+}

@@ -1,0 +1,41 @@
+{
+  "status": "completed",
+  "experiment_id": "q0006-query",
+  "memory_build": "offline-memory-48c46fbef6ca",
+  "embedding_fingerprint": "aeef69a047070b680431916bebb6e37b86666fa6863cb871795c9d11b344726a",
+  "question": "What Jon thinks the ideal dance studio should look like?",
+  "answer": "Jon thinks the ideal dance studio should have a beautiful view by the water to inspire creativity, as shown in a photo he shared of a studio overlooking the ocean with yoga mats. His design intention is to find a place that inspires both him and his students, creating a special experience that makes customers feel welcome and motivates them to return. He values creating the right atmosphere that supports passion for dance and business success. Jon describes the studio as a passion project he is determined to make work despite obstacles, emphasizing hard work, confidence, and support to keep going. He has put significant effort into the studio and is excited about its launch, seeing it as a place that energizes and balances his dual passions of dance and business.",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-30::session_1::episode-005",
+      "turn_id": "D1:20"
+    },
+    {
+      "episode_id": "conv-30::session_1::episode-005",
+      "turn_id": "D1:22"
+    },
+    {
+      "episode_id": "conv-30::session_3::episode-003",
+      "turn_id": "D3:9"
+    },
+    {
+      "episode_id": "conv-30::session_9::episode-001",
+      "turn_id": "D9:1"
+    },
+    {
+      "episode_id": "conv-30::session_4::episode-001",
+      "turn_id": "D4:9"
+    },
+    {
+      "episode_id": "conv-30::session_15::episode-003",
+      "turn_id": "D15:6"
+    }
+  ],
+  "elapsed_seconds": 6.379418709,
+  "implementation": {
+    "structured_matching": "literal entity / property-token overlap",
+    "all_matching": "all episodes; no optimized exhaustive retrieval",
+    "coverage": "answer-model sufficiency check with expansion"
+  }
+}

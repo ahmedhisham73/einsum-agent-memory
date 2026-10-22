@@ -1,0 +1,262 @@
+[
+  {
+    "episode_id": "conv-41::session_3::chunk-0000",
+    "session_id": "session_3",
+    "observed_at": "2023-01-01T20:30:00",
+    "source_timestamp": "8:30 pm on 1 January, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D3:1",
+        "speaker": "John",
+        "text": "Hey Maria, great to chat again! I joined a service-focused online group last week and it's been an emotional ride. Everyone there is incredible with their own inspiring stories. They've opened my eyes to new perspectives, and I'm feeling a sense of connection and purpose with them.",
+        "metadata": {
+          "blip_caption": "a photo of a man sitting on a bed using a laptop"
+        }
+      },
+      {
+        "turn_id": "D3:2",
+        "speaker": "Maria",
+        "text": "Wow, John! That's amazing news. It's great to see you finding such a supportive community that is making a difference.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:3",
+        "speaker": "John",
+        "text": "Thanks, Maria! It's great to have a group of people with the same passion for serving. It's been really inspiring sharing stories, advice, and encouragement.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:4",
+        "speaker": "Maria",
+        "text": "That's great to hear! It's always inspiring to share thos things with like-minded individuals. By the way, have you had the chance to meet any of them in person?\n",
+        "metadata": {
+          "blip_caption": "a photo of a poster on a table with a santa clause"
+        }
+      },
+      {
+        "turn_id": "D3:5",
+        "speaker": "John",
+        "text": "We held some events and got to meet some people. We went to a homeless shelter to give out food and supplies. Seeing the smiles on their faces, we knew we made a real difference. We also organized a toy drive for kids in need. It was amazing seeing the community come together to spread some joy.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:6",
+        "speaker": "Maria",
+        "text": "That sounds great, John. It's nice to see the difference you're making. Do you have any ideas for future projects?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_6::chunk-0015",
+    "session_id": "session_6",
+    "observed_at": "2023-02-05T14:33:00",
+    "source_timestamp": "2:33 pm on 5 February, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D6:16",
+        "speaker": "John",
+        "text": "Thanks, Maria! We've been overwhelmed by the response and the volunteers. Here's a photo of them at a recent event.",
+        "metadata": {
+          "img_url": [
+            "https://www.lifturbanportland.org/uploads/8/3/6/3/83630366/published/warehouse-volunteers.jpg"
+          ],
+          "blip_caption": "a photo of a woman in a face mask holding a bag of food",
+          "query": "group of volunteers food drive event"
+        }
+      },
+      {
+        "turn_id": "D6:17",
+        "speaker": "Maria",
+        "text": "Seeing so many people support the community is awesome. I'd love to lend a hand with networking or helping out at future events.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:18",
+        "speaker": "John",
+        "text": "That'd be great, Maria! Thanks for offering to help. Your assistance would be really appreciated.",
+        "metadata": {
+          "blip_caption": "a photo of a group of men working on a wall"
+        }
+      },
+      {
+        "turn_id": "D6:19",
+        "speaker": "Maria",
+        "text": "No worries, John. Whenever you need help, just let me know.",
+        "metadata": {
+          "blip_caption": "a photo of a group of people standing outside of a house"
+        }
+      },
+      {
+        "turn_id": "D6:20",
+        "speaker": "John",
+        "text": "Yep, definitely. Your support really means a lot, Maria. Thanks for always being there for me.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:21",
+        "speaker": "Maria",
+        "text": "Of course, John. You're a great friend to me. I'll always be there for you.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_6::chunk-0020",
+    "session_id": "session_6",
+    "observed_at": "2023-02-05T14:33:00",
+    "source_timestamp": "2:33 pm on 5 February, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D6:22",
+        "speaker": "John",
+        "text": "Thanks, Maria. Friendship means a lot to me. I'm glad we have each other's backs and can work towards a shared goal.",
+        "metadata": {
+          "blip_caption": "a photo of a group of people sitting in a park"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_8::chunk-0020",
+    "session_id": "session_8",
+    "observed_at": "2023-03-06T18:03:00",
+    "source_timestamp": "6:03 pm on 6 March, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D8:21",
+        "speaker": "Maria",
+        "text": "Glad you have a good support system, John. It's been great having people behind me while volunteering at the homeless shelter. Positive influences make a big impact.\n",
+        "metadata": {
+          "blip_caption": "a photo of a group of people standing around a table with food"
+        }
+      },
+      {
+        "turn_id": "D8:22",
+        "speaker": "John",
+        "text": "Cool, Maria! You've built some awesome connections and you're making a big impact at the homeless shelter - nice work! How did you manage to do that?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:23",
+        "speaker": "Maria",
+        "text": "Thanks, John! It took time and effort, but I slowly formed connections by listening and showing compassion. It's all about building trust and forming real relationships.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:24",
+        "speaker": "John",
+        "text": "Wow, Maria! I see, so that's the key to making a difference.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:25",
+        "speaker": "Maria",
+        "text": "Yeah, building those real connections and getting people to trust us is key. It's usually the little things, like taking the time to hear what they're saying, that make the biggest impact.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:26",
+        "speaker": "John",
+        "text": "Yeah, Maria, I agree. That can really make a difference. It's important to make people feel noticed and listened to.",
+        "metadata": {
+          "blip_caption": "a photo of a group of people sitting at a table with plates of food"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_11::chunk-0010",
+    "session_id": "session_11",
+    "observed_at": "2023-04-10T18:13:00",
+    "source_timestamp": "6:13 pm on 10 April, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D11:11",
+        "speaker": "John",
+        "text": "Way to go, Maria! You're making a real difference. It's awesome how connecting with and helping others brings you so much joy. Keep it up!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:12",
+        "speaker": "Maria",
+        "text": "Thanks, John! It's so great to make a real difference. Seeing the impact and hearing the gratitude fills me with so much joy. The people at the shelter have become like family to me. I feel really blessed to know them.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:13",
+        "speaker": "John",
+        "text": "Wow, Maria, what you're doing is truly amazing. Your kindness ripples and creates such incredible relationships!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:14",
+        "speaker": "Maria",
+        "text": "Thanks, John. Building relationships and seeing kindness really does make a difference. Here's a pic from last week. Seeing everyone come together warms my heart and fills me with hope.",
+        "metadata": {
+          "img_url": [
+            "https://portlandrescuemission.org/wp-content/uploads/2017/11/20160809_gc_0797-copy.jpg"
+          ],
+          "blip_caption": "a photo of a group of people standing around a table filled with food",
+          "query": "homeless shelter volunteers"
+        }
+      },
+      {
+        "turn_id": "D11:15",
+        "speaker": "John",
+        "text": "Wow, that's amazing how everyone came together. You must have had some great ideas! What do you do there?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:16",
+        "speaker": "Maria",
+        "text": "We organized a meal for the shelter residents and I helped with getting everything ready. It was cool to see everyone together, eating and supporting each other.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_11::chunk-0015",
+    "session_id": "session_11",
+    "observed_at": "2023-04-10T18:13:00",
+    "source_timestamp": "6:13 pm on 10 April, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D11:17",
+        "speaker": "John",
+        "text": "Wow, Maria, that's awesome! You made everyone so comfortable and it must have been so rewarding. You're really making a difference!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:18",
+        "speaker": "Maria",
+        "text": "Yeah, it was really nice to help bring people together and create a sense of comfort and community. It's something special to see people supporting each other.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:19",
+        "speaker": "John",
+        "text": "Definitely, Maria. That's great. It gives us hope and reminds us we're not alone. Thank you for being a positive force.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:20",
+        "speaker": "Maria",
+        "text": "No problem, John! It's great to feel this sense of community. Thanks for the kind words, they mean a lot.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:21",
+        "speaker": "John",
+        "text": "Glad I could help, Maria. Talk to you soon. Stay safe!",
+        "metadata": {}
+      }
+    ]
+  }
+]

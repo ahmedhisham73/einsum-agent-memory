@@ -1,0 +1,25 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Caroline",
+      "property": "career_interest",
+      "search": "Caroline's interest in counseling career"
+    },
+    {
+      "entity": "Caroline",
+      "property": "has_received_support_from",
+      "search": "support Caroline received growing up"
+    },
+    {
+      "entity": "Caroline",
+      "property": "motivation_for_career_choice",
+      "search": "motivation behind Caroline's choice for counseling career"
+    },
+    {
+      "entity": "Caroline",
+      "property": "personal_reflection",
+      "search": "Caroline's reflection or statement on pursuing counseling without support"
+    }
+  ]
+}

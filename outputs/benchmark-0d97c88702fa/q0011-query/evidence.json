@@ -1,0 +1,300 @@
+[
+  {
+    "episode_id": "conv-26::session_1::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_1",
+    "observed_at": "2023-05-08T13:56:00",
+    "source_timestamp": "1:56 pm on 8 May, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Greeting and sharing recent experience",
+    "turns": [
+      {
+        "turn_id": "D1:1",
+        "speaker": "Caroline",
+        "text": "Hey Mel! Good to see you! How have you been?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:2",
+        "speaker": "Melanie",
+        "text": "Hey Caroline! Good to see you! I'm swamped with the kids & work. What's up with you? Anything new?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:3",
+        "speaker": "Caroline",
+        "text": "I went to a LGBTQ support group yesterday and it was so powerful.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_3::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_3",
+    "observed_at": "2023-06-09T19:55:00",
+    "source_timestamp": "7:55 pm on 9 June, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Motivation and support systems in personal life",
+    "turns": [
+      {
+        "turn_id": "D3:10",
+        "speaker": "Melanie",
+        "text": "Yes, Caroline! We can do it. Your courage is inspiring. I want to be couragous for my family- they motivate me and give me love. What motivates you?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:11",
+        "speaker": "Caroline",
+        "text": "Thanks, Mel! My friends, family and mentors are my rocks – they motivate me and give me the strength to push on. Here's a pic from when we met up last week!",
+        "metadata": {
+          "img_url": [
+            "https://fox2now.com/wp-content/uploads/sites/14/2023/08/that-tall-family.jpg"
+          ],
+          "blip_caption": "a photo of a family posing for a picture in a yard",
+          "query": "group of friends and family"
+        }
+      },
+      {
+        "turn_id": "D3:12",
+        "speaker": "Melanie",
+        "text": "Wow, that photo is great! How long have you had such a great support system?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:13",
+        "speaker": "Caroline",
+        "text": "Yeah, I'm really lucky to have them. They've been there through everything, I've known these friends for 4 years, since I moved from my home country. Their love and help have been so important especially after that tough breakup. I'm super thankful. Who supports you, Mel?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_5::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_5",
+    "observed_at": "2023-07-03T13:36:00",
+    "source_timestamp": "1:36 pm on 3 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Upcoming plans and future events for Caroline and Melanie",
+    "turns": [
+      {
+        "turn_id": "D5:12",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! I'm excited to see where pottery takes me. Anything coming up you're looking forward to?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:13",
+        "speaker": "Caroline",
+        "text": "Thanks Mel! I'm going to a transgender conference this month. I'm so excited to meet other people in the community and learn more about advocacy. It's gonna be great!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:14",
+        "speaker": "Melanie",
+        "text": "Sounds awesome, Caroline! Have a great time and learn a lot. Have fun!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:15",
+        "speaker": "Caroline",
+        "text": "Cool, thanks Mel! Can't wait. I'll keep ya posted. Bye!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:16",
+        "speaker": "Melanie",
+        "text": "Bye, Caroline! Can't wait to hear about it. Have fun and stay safe!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_6::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_6",
+    "observed_at": "2023-07-06T20:18:00",
+    "source_timestamp": "8:18 pm on 6 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Caroline's transition and support network",
+    "turns": [
+      {
+        "turn_id": "D6:11",
+        "speaker": "Caroline",
+        "text": "Wow, that's great! It sure shows how important friendship and compassion are. It's made me appreciate how lucky I am to have my friends and family helping with my transition. They make all the difference. We even had a picnic last week!",
+        "metadata": {
+          "img_url": [
+            "https://i.pinimg.com/originals/41/d5/60/41d5601e4ab0959ce5e29683a2660938.jpg"
+          ],
+          "blip_caption": "a photo of a group of women sitting on a blanket in a park",
+          "query": "group friends picnic"
+        }
+      },
+      {
+        "turn_id": "D6:12",
+        "speaker": "Melanie",
+        "text": "That's a gorgeous photo, Caroline! Wow, the love around you is awesome. How have your friends and fam been helping you out with your transition?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:13",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! This support network has been amazing. They've been there for me every step of the way giving me love, guidance, and acceptance. I couldn't have done it without them.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:14",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! It's great you have people to support you, that's really awesome!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:15",
+        "speaker": "Caroline",
+        "text": "I'm so lucky to have such a great support system around me. Their love and encouragement has really helped me accept and grow into my true self. They've been instrumental in my transition.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_8::episode-005",
+    "conversation_id": "conv-26",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Expressing friendship appreciation and support",
+    "turns": [
+      {
+        "turn_id": "D8:37",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! Really glad to have you as a friend to share my journey. You're awesome!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:38",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! Appreciate your friendship. It's great to have a supporter!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:39",
+        "speaker": "Caroline",
+        "text": "No worries, Mel! Your friendship means so much to me. Enjoy your day!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_10::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_10",
+    "observed_at": "2023-07-20T20:56:00",
+    "source_timestamp": "8:56 pm on 20 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Caroline shares her involvement in a new LGBTQ activist group and discusses related events",
+    "turns": [
+      {
+        "turn_id": "D10:1",
+        "speaker": "Caroline",
+        "text": "Hey Melanie! Just wanted to say hi!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:2",
+        "speaker": "Melanie",
+        "text": "Hey Caroline! Good to talk to you again. What's up? Anything new since last time?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:3",
+        "speaker": "Caroline",
+        "text": "Hey Mel! A lot's happened since we last chatted - I just joined a new LGBTQ activist group last Tues. I'm meeting so many cool people who are as passionate as I am about rights and community support. I'm giving my voice and making a real difference, plus it's fulfilling in so many ways. It's just great, you know?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:4",
+        "speaker": "Melanie",
+        "text": "That's awesome, Caroline! Glad to hear you found a great group where you can have an impact. Bet it feels great to be able to speak your truth and stand up for what's right. Want to tell me a bit more about it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:5",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! It's awesome to have our own platform to be ourselves and support others' rights. Our group, 'Connected LGBTQ Activists', is made of all kinds of people investing in positive changes. We have regular meetings, plan events and campaigns, to get together and support each other.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:6",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, your group sounds awesome! Supporting each other and making good things happen - that's so inspiring! Have you been part of any events or campaigns lately?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:7",
+        "speaker": "Caroline",
+        "text": "Last weekend our city held a pride parade! So many people marched through the streets waving flags, holding signs and celebrating love and diversity. I missed it but it was a powerful reminder that we are not alone in this fight for equality and inclusivity. Change is possible!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_16::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_16",
+    "observed_at": "2023-09-13T00:09:00",
+    "source_timestamp": "12:09 am on 13 September, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Sharing recent outdoor experiences and photos",
+    "turns": [
+      {
+        "turn_id": "D16:1",
+        "speaker": "Caroline",
+        "text": "Hey Mel, long time no chat! I had a wicked day out with the gang last weekend - we went biking and saw some pretty cool stuff. It was so refreshing, and the pic I'm sending is just stunning, eh?",
+        "metadata": {
+          "img_url": [
+            "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_371,q_75,w_640/v1/crm/corpuschristitx/Sunset-Lake-Park_38118D81-5056-A36F-23E62D2F41525FF4-38118cb45056a36_381194bb-5056-a36f-23c599c63a3950d7.jpg"
+          ],
+          "blip_caption": "a photo of a beach with a fence and a sunset",
+          "query": "sunset lake"
+        }
+      },
+      {
+        "turn_id": "D16:2",
+        "speaker": "Melanie",
+        "text": "Hey Caroline! It's so good to hear from you! That pic is so beautiful, the colors really pop. Biking sounds like a great way to get out in nature. We went camping with the kids a few weeks ago, had a blast exploring the forest and hiking. Nature can be so refreshing for your soul. Any plans coming up?",
+        "metadata": {
+          "img_url": [
+            "https://exploringtheprime.com/wp-content/uploads/2019/10/IMG_6705-2.jpg"
+          ],
+          "blip_caption": "a photo of a dirt road surrounded by trees with yellow leaves",
+          "query": "family hiking trail vibrant autumn colors"
+        }
+      },
+      {
+        "turn_id": "D16:3",
+        "speaker": "Caroline",
+        "text": "Melanie, that photo's amazing! I love all the yellow leaves, it looks so cozy. That sounds like fun! Seeing how excited they get for the little things is awesome, it's so contagious.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_17::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_17",
+    "observed_at": "2023-10-13T10:31:00",
+    "source_timestamp": "10:31 am on 13 October, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Mutual appreciation of their life journey and friendship",
+    "turns": [
+      {
+        "turn_id": "D17:26",
+        "speaker": "Melanie",
+        "text": "Yep, Caroline. Life's about learning and exploring. Glad we can be on this trip together.",
+        "metadata": {}
+      }
+    ]
+  }
+]

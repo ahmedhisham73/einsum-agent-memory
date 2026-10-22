@@ -1,0 +1,25 @@
+{
+  "status": "completed",
+  "experiment_id": "q0009-query",
+  "memory_build": "offline-memory-622a0d5cec62",
+  "embedding_fingerprint": "e20e0db1c5c539f3d9c686830c120d4af7c61161a81b22b16c256a2aa59fef38",
+  "question": "What might John's financial status be?",
+  "answer": "John appears to be experiencing some financial strain due to unexpected expenses, such as his car breaking down and the cost of fixing it, which he mentions is putting a strain on his wallet. However, there is no detailed or comprehensive information about his overall financial status beyond this context of money worries related to specific incidents.",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-41::session_11::episode-001",
+      "turn_id": "D11:1"
+    },
+    {
+      "episode_id": "conv-41::session_11::episode-001",
+      "turn_id": "D11:3"
+    }
+  ],
+  "elapsed_seconds": 5.142112292,
+  "implementation": {
+    "structured_matching": "literal entity / property-token overlap",
+    "all_matching": "all episodes; no optimized exhaustive retrieval",
+    "coverage": "answer-model sufficiency check with expansion"
+  }
+}

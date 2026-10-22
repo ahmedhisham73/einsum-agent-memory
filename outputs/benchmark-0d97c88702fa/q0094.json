@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0094",
+  "category": 4,
+  "question": "What was grandma's gift to Caroline?",
+  "gold_answer": "necklace",
+  "status": "scored",
+  "generated_answer": "Grandma's gift to Caroline was a necklace with a cross and a heart, symbolizing love, faith, and strength. It was given to Caroline when she was young as a reminder of her roots and the love and support from her family.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_4::episode-001",
+      "turn_id": "D4:3"
+    }
+  ],
+  "query_elapsed_seconds": 5.490399958,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer includes 'necklace' as the gift, meeting the request while providing additional details that do not contradict the reference answer."
+}

@@ -1,0 +1,10 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Caroline",
+      "property": "reason_for_pick",
+      "search": "adoption agency"
+    }
+  ]
+}

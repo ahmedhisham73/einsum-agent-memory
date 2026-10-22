@@ -1,0 +1,97 @@
+Embeddings ready: 775
+Qdrant records: 775
+Planning question...
+Answering from 6 source episodes...
+
+ANSWER: John mentioned having a little doll as a child that made him feel better and reminded him to look out for others.
+CITATIONS: [
+  {
+    "episode_id": "conv-41::session_5::episode-003",
+    "turn_id": "D5:13"
+  }
+]
+Evidence sufficient: True
+Artifacts: /Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/benchmark-585a5ee8a534/q0008-query
+
+EMBEDDING BUILD USAGE:
+{
+  "experiment_id": "embedding-build-de9cda2f780d",
+  "recorded_calls": 25,
+  "groups": [
+    {
+      "approach": "ensimem",
+      "phase": "build",
+      "stage": "index_embedding",
+      "usage_kind": "embedding",
+      "provider": "openai",
+      "model": "text-embedding-3-small",
+      "calls": 25,
+      "retry_calls": 0,
+      "missing_usage_calls": 0,
+      "reported_input_tokens": 32918,
+      "reported_output_tokens": 0,
+      "total_tokens": 32918,
+      "cached_input_tokens": null,
+      "usage_complete": true
+    }
+  ]
+}
+
+QUERY USAGE:
+{
+  "experiment_id": "q0008-query",
+  "recorded_calls": 3,
+  "groups": [
+    {
+      "approach": "ensimem",
+      "phase": "query",
+      "stage": "grounded_answer",
+      "usage_kind": "generation",
+      "provider": "openai",
+      "model": "gpt-4.1-mini-2025-04-14",
+      "calls": 1,
+      "retry_calls": 0,
+      "missing_usage_calls": 0,
+      "reported_input_tokens": 3006,
+      "reported_output_tokens": 59,
+      "total_tokens": 3065,
+      "cached_input_tokens": 0,
+      "usage_complete": true
+    },
+    {
+      "approach": "ensimem",
+      "phase": "query",
+      "stage": "requirement_embedding",
+      "usage_kind": "embedding",
+      "provider": "openai",
+      "model": "text-embedding-3-small",
+      "calls": 1,
+      "retry_calls": 0,
+      "missing_usage_calls": 0,
+      "reported_input_tokens": 10,
+      "reported_output_tokens": 0,
+      "total_tokens": 10,
+      "cached_input_tokens": null,
+      "usage_complete": true
+    },
+    {
+      "approach": "ensimem",
+      "phase": "query",
+      "stage": "requirement_planning",
+      "usage_kind": "generation",
+      "provider": "openai",
+      "model": "gpt-4.1-mini-2025-04-14",
+      "calls": 1,
+      "retry_calls": 0,
+      "missing_usage_calls": 0,
+      "reported_input_tokens": 3707,
+      "reported_output_tokens": 34,
+      "total_tokens": 3741,
+      "cached_input_tokens": 0,
+      "usage_complete": true
+    }
+  ]
+}
+
+/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(

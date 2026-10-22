@@ -1,0 +1,10 @@
+{
+  "scope": "all_matching",
+  "requirements": [
+    {
+      "entity": "Melanie",
+      "property": "camping_activities",
+      "search": "where Melanie has camped or camping locations"
+    }
+  ]
+}

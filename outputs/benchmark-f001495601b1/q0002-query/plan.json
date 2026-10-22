@@ -1,0 +1,10 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Maria",
+      "property": "donated_vehicle",
+      "search": "search for statements or records describing the act of Maria donating her car, including date or time information"
+    }
+  ]
+}

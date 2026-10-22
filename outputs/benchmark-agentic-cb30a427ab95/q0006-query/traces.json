@@ -1,0 +1,125 @@
+[
+  {
+    "stage": "agent_decision",
+    "call_id": "a9868d84-8716-4636-8d20-887ff42bfa47",
+    "response": {
+      "id": "chatcmpl-EbsQnk1VQJYpq4dTJLamNaPhZR3Z6",
+      "object": "chat.completion",
+      "created": 1792696077,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"search\",\"query\":\"Maria beach visit date\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 149,
+        "completion_tokens": 12,
+        "total_tokens": 161,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_b64959fd61"
+    },
+    "latency_seconds": 1.22827725
+  },
+  {
+    "stage": "agent_decision",
+    "call_id": "d8968305-8f89-41ee-b7e6-a33bb4892db2",
+    "response": {
+      "id": "chatcmpl-EbsQpXAu1I06Id4rxLVwiNsTS6wX8",
+      "object": "chat.completion",
+      "created": 1792696079,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"ready\",\"reason\":\"Multiple conversations reference Maria discussing or sharing beach memories with John. Specifically, on 16 June 2023, Maria mentioned a beach vacation in Florida and shared a related picture. This is the closest and most specific information about Maria going to the beach.\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2881,
+        "completion_tokens": 58,
+        "total_tokens": 2939,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_b64959fd61"
+    },
+    "latency_seconds": 2.1518845420000003
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "d262dcd8-468e-4dd5-b304-411dc6244f94",
+    "response": {
+      "id": "chatcmpl-EbsQrhuwccPavmTmvkopOZqiUvmpE",
+      "object": "chat.completion",
+      "created": 1792696081,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Maria mentioned a beach vacation in Florida in June 2023, recalling a sunset and family time during that trip, indicating she went to the beach then.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-41::session_19::chunk-0020\",\"turn_id\":\"D19:23\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2658,
+        "completion_tokens": 68,
+        "total_tokens": 2726,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6a82cb19e8"
+    },
+    "latency_seconds": 1.575881292
+  }
+]

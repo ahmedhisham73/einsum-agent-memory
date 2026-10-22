@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0029",
+  "category": 2,
+  "question": "When did Caroline go to the adoption meeting?",
+  "gold_answer": "The friday before 15 July 2023",
+  "status": "scored",
+  "generated_answer": "Caroline went to the adoption meeting last Friday before 15 July 2023, as she said in the conversation on 15 July 2023 that she went to a council meeting for adoption last Friday.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_8::episode-002",
+      "turn_id": "D8:9"
+    }
+  ],
+  "query_elapsed_seconds": 5.481971375,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer provides the same timing for the adoption meeting as the reference answer, indicating it was the Friday before 15 July 2023."
+}

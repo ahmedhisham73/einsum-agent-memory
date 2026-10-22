@@ -1,0 +1,37 @@
+{
+  "question_id": "conv-26::q0044",
+  "category": 1,
+  "question": "What kind of art does Caroline make?",
+  "gold_answer": "abstract art",
+  "status": "scored",
+  "generated_answer": "Caroline creates various forms of art including stained glass windows, painting (both abstract and figurative), drawing (notably of flowers and transgender-themed subjects), and she expresses interest in trying pottery. Her art often explores themes of self-discovery, transition, acceptance, and celebrates individuality and diversity.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_11::episode-005",
+      "turn_id": "D11:14"
+    },
+    {
+      "episode_id": "conv-26::session_14::episode-005",
+      "turn_id": "D14:17"
+    },
+    {
+      "episode_id": "conv-26::session_14::episode-007",
+      "turn_id": "D14:27"
+    },
+    {
+      "episode_id": "conv-26::session_16::episode-004",
+      "turn_id": "D16:9"
+    },
+    {
+      "episode_id": "conv-26::session_16::episode-005",
+      "turn_id": "D16:11"
+    },
+    {
+      "episode_id": "conv-26::session_17::episode-003",
+      "turn_id": "D17:23"
+    }
+  ],
+  "query_elapsed_seconds": 5.574180792,
+  "label": "WRONG",
+  "judge_reason": "The generated answer includes information about various art forms Caroline creates, but it does not directly state that she makes abstract art as requested by the question."
+}

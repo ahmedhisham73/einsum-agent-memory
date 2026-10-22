@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "7d319565-54ad-4570-b590-e3754113810a",
+    "response": {
+      "id": "chatcmpl-EbsIA0BjC0i6Lp0ZXqqptXtamxQiA",
+      "object": "chat.completion",
+      "created": 1792695542,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Jon's group\",\"property\":\"upcoming_performance\",\"search\":\"standalone evidence search for scheduled festival performance date of Jon's group\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2189,
+        "completion_tokens": 38,
+        "total_tokens": 2227,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_f9f464a132"
+    },
+    "latency_seconds": 1.834240459
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "e38ce286-1f48-4a3d-8e8f-6b44a54bf9f5",
+    "response": {
+      "id": "chatcmpl-EbsIDQdRnrDlM0hMnI7XgUMZMiitc",
+      "object": "chat.completion",
+      "created": 1792695545,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Jon's group is performing at a nearby festival next month from the time of the conversation at 4:04 pm on 20 January 2023, which suggests the performance is scheduled for February 2023.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-30::session_1::episode-006\",\"turn_id\":\"D1:24\"},{\"episode_id\":\"conv-30::session_1::episode-006\",\"turn_id\":\"D1:26\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2770,
+        "completion_tokens": 102,
+        "total_tokens": 2872,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6a82cb19e8"
+    },
+    "latency_seconds": 2.5296353750000002
+  }
+]

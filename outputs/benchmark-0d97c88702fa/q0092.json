@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0092",
+  "category": 4,
+  "question": "What does Caroline's necklace symbolize?",
+  "gold_answer": "love, faith, and strength",
+  "status": "scored",
+  "generated_answer": "Caroline's necklace symbolizes love, faith, strength, a connection to her roots, and the love and support from her family. It is a special gift from her grandmother and serves as a reminder of these important values and support throughout her journey.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_4::episode-001",
+      "turn_id": "D4:3"
+    }
+  ],
+  "query_elapsed_seconds": 8.420200958,
+  "label": "WRONG",
+  "judge_reason": "The generated answer contains unsupported additions and contradictions, such as references to family support and roots, which are not part of the reference answer."
+}

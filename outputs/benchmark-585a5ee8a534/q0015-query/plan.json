@@ -1,0 +1,10 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "John",
+      "property": "patriotic",
+      "search": "search for evidence that indicates John’s patriotism or related attributes such as desire_to_serve_country, values, attitude_toward_military, commitment_to_be_there_for, or advocacy_goal with a focus on patriotism"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "question_id": "conv-41::q0004",
+  "category": 1,
+  "question": "What type of volunteering have John and Maria both done?",
+  "gold_answer": "Volunteering at a homeless shelter",
+  "status": "scored",
+  "generated_answer": "Both John and Maria have volunteered at places providing food and shelter assistance. John has volunteered at a food bank and food drives helping people who lost jobs, while Maria has volunteered at homeless shelters and linked homeless individuals to support organizations. Thus, they both have done volunteering related to helping the homeless and those in need with food and shelter.",
+  "citations": [
+    {
+      "episode_id": "conv-41::session_6::chunk-0005",
+      "turn_id": "D6:10"
+    },
+    {
+      "episode_id": "conv-41::session_6::chunk-0005",
+      "turn_id": "D6:7"
+    },
+    {
+      "episode_id": "conv-41::session_9::chunk-0015",
+      "turn_id": "D9:17"
+    },
+    {
+      "episode_id": "conv-41::session_27::chunk-0000",
+      "turn_id": "D27:2"
+    }
+  ],
+  "query_elapsed_seconds": 7.390299083,
+  "label": "CORRECT",
+  "judge_reason": "Both answers indicate that John and Maria volunteered in contexts related to homeless assistance and shelter."
+}

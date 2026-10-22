@@ -1,0 +1,38 @@
+{
+  "question_id": "conv-41::q0004",
+  "category": 1,
+  "question": "What type of volunteering have John and Maria both done?",
+  "gold_answer": "Volunteering at a homeless shelter",
+  "status": "scored",
+  "generated_answer": "John and Maria have both volunteered at homeless shelters.",
+  "citations": [
+    {
+      "episode_id": "conv-41::session_1::episode-001",
+      "turn_id": "D1:3"
+    },
+    {
+      "episode_id": "conv-41::session_7::episode-002",
+      "turn_id": "D7:3"
+    },
+    {
+      "episode_id": "conv-41::session_11::episode-003",
+      "turn_id": "D11:10"
+    },
+    {
+      "episode_id": "conv-41::session_26::episode-004",
+      "turn_id": "D26:13"
+    },
+    {
+      "episode_id": "conv-41::session_27::episode-002",
+      "turn_id": "D27:4"
+    },
+    {
+      "episode_id": "conv-41::session_32::episode-002",
+      "turn_id": "D32:14"
+    }
+  ],
+  "query_elapsed_seconds": null,
+  "recovery_source": "benchmark-204da9c8bb41",
+  "label": "CORRECT",
+  "judge_reason": "The generated answer specifies the same type of volunteering as the reference answer."
+}

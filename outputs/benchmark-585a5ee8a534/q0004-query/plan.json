@@ -1,0 +1,20 @@
+{
+  "scope": "all_matching",
+  "requirements": [
+    {
+      "entity": "John",
+      "property": "volunteering_activity",
+      "search": "search for any volunteering activities done by John"
+    },
+    {
+      "entity": "Maria",
+      "property": "volunteering_activity",
+      "search": "search for any volunteering activities done by Maria"
+    },
+    {
+      "entity": "John and Maria",
+      "property": "volunteering_activity",
+      "search": "search for volunteering activities both John and Maria have done"
+    }
+  ]
+}

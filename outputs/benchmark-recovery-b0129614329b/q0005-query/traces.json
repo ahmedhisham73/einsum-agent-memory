@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "7adb2926-e06f-4c7c-9c2a-98412196bdd7",
+    "response": {
+      "id": "chatcmpl-EbsNPPGCoJ9YslEJnq5lr4kAZMORk",
+      "object": "chat.completion",
+      "created": 1792695867,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"John\",\"property\":\"joined_online_group\",\"search\":\"standalone evidence search\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3706,
+        "completion_tokens": 26,
+        "total_tokens": 3732,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_f9f464a132"
+    },
+    "latency_seconds": 1.870567084
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "c08bae25-391e-41ec-bbb3-549428498620",
+    "response": {
+      "id": "chatcmpl-EbsNS52giHuvKY5VYjaOBAb8wg4MH",
+      "object": "chat.completion",
+      "created": 1792695870,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"John joined the online support group last week before the conversation on 1 January 2023 at 8:30 pm.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-41::session_3::episode-001\",\"turn_id\":\"D3:1\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 4215,
+        "completion_tokens": 61,
+        "total_tokens": 4276,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6a82cb19e8"
+    },
+    "latency_seconds": 1.684507375
+  }
+]

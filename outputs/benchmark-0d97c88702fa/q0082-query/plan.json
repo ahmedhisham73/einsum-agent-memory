@@ -1,0 +1,35 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Caroline",
+      "property": "intent",
+      "search": "Caroline intent to move back to her home country"
+    },
+    {
+      "entity": "Caroline",
+      "property": "future_plans",
+      "search": "Caroline future plans regarding residence"
+    },
+    {
+      "entity": "Caroline",
+      "property": "describes_Caroline",
+      "search": "any descriptions indicating Caroline's feelings about her home country and moving"
+    },
+    {
+      "entity": "Caroline",
+      "property": "anticipation",
+      "search": "Caroline expresses anticipation about moving or staying"
+    },
+    {
+      "entity": "Caroline",
+      "property": "emotion_state",
+      "search": "Caroline emotional state related to living in current country versus home country"
+    },
+    {
+      "entity": "Caroline",
+      "property": "plans",
+      "search": "Caroline plans for moving or relocation"
+    }
+  ]
+}

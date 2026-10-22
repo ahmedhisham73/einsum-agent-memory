@@ -1,0 +1,25 @@
+{
+  "question_id": "conv-26::q0078",
+  "category": 3,
+  "question": "Would Melanie go on another roadtrip soon?",
+  "gold_answer": "Likely no; since this one went badly",
+  "status": "scored",
+  "generated_answer": "Yes, Melanie plans to go on another roadtrip or outing soon. She mentioned thinking about going camping next month and also discussed planning a special trip with Caroline for the summer. She expresses positive anticipation and enjoyment about family camping and outdoor activities.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_2::episode-001",
+      "turn_id": "D2:7"
+    },
+    {
+      "episode_id": "conv-26::session_12::episode-005",
+      "turn_id": "D12:16"
+    },
+    {
+      "episode_id": "conv-26::session_18::episode-004",
+      "turn_id": "D18:17"
+    }
+  ],
+  "query_elapsed_seconds": 7.921323750000001,
+  "label": "WRONG",
+  "judge_reason": "The generated answer contradicts the reference answer by suggesting Melanie is planning future road trips despite the indication that she is unlikely to do so."
+}

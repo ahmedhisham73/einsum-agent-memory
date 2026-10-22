@@ -1,0 +1,288 @@
+[
+  {
+    "episode_id": "conv-30::session_1::chunk-0000",
+    "session_id": "session_1",
+    "observed_at": "2023-01-20T16:04:00",
+    "source_timestamp": "4:04 pm on 20 January, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D1:1",
+        "speaker": "Gina",
+        "text": "Hey Jon! Good to see you. What's up? Anything new?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:2",
+        "speaker": "Jon",
+        "text": "Hey Gina! Good to see you too. Lost my job as a banker yesterday, so I'm gonna take a shot at starting my own business.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:3",
+        "speaker": "Gina",
+        "text": "Sorry about your job Jon, but starting your own business sounds awesome! Unfortunately, I also lost my job at Door Dash this month. What business are you thinking of?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:4",
+        "speaker": "Jon",
+        "text": "Sorry to hear that! I'm starting a dance studio 'cause I'm passionate about dancing and it'd be great to share it with others.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:5",
+        "speaker": "Gina",
+        "text": "That's cool, Jon! What got you into this biz?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:6",
+        "speaker": "Jon",
+        "text": "I've been into dancing since I was a kid and it's been my passion and escape. I wanna start a dance studio so I can teach others the joy that dancing brings me.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_6::chunk-0010",
+    "session_id": "session_6",
+    "observed_at": "2023-03-16T14:35:00",
+    "source_timestamp": "2:35 pm on 16 March, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D6:11",
+        "speaker": "Jon",
+        "text": "Thanks for askin', Gina! Losing my job was hard, but I'm livin' my dreams now. Startin' my biz has been tough but I'm gonna make it! I keep facing new challenges, but I'm sure it'll be worth it in the end.",
+        "metadata": {
+          "blip_caption": "a photo of a laptop computer sitting on top of a table"
+        }
+      },
+      {
+        "turn_id": "D6:12",
+        "speaker": "Gina",
+        "text": "Yeah, starting and running my own biz has had its ups and downs - but it's been an amazing ride!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:13",
+        "speaker": "Jon",
+        "text": "Yeah, it's been a rollercoaster. But your success really inspires me to keep pushing forward. Your determination is awesome!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:14",
+        "speaker": "Gina",
+        "text": "Thanks, Jon! Your words are really encouraging. Glad my journey is inspiring others.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:15",
+        "speaker": "Jon",
+        "text": "Yeah, totally! It's great we both face the same challenges, it motivates us and it's like having a partner to dance with!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:16",
+        "speaker": "Gina",
+        "text": "Yep! We're both on different paths, but it's nice to have someone to root for us. We can do it!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_12::chunk-0000",
+    "session_id": "session_12",
+    "observed_at": "2023-05-27T19:18:00",
+    "source_timestamp": "7:18 pm on 27 May, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D12:1",
+        "speaker": "Gina",
+        "text": "Hey Jon! Long time no talk! A lot's happened - I just got accepted for a fashion internship!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:2",
+        "speaker": "Jon",
+        "text": "Congrats, Gina! That's awesome news about the fashion internship. 🎉 So stoked for you. Where is the internship and how're you feelin' about it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:3",
+        "speaker": "Gina",
+        "text": "Thanks! I'm excited and kinda nervous. Gonna be a big change. It's part-time position in the fashion department of an international company.",
+        "metadata": {
+          "blip_caption": "a photo of a laptop computer with a logo on the screen"
+        }
+      },
+      {
+        "turn_id": "D12:4",
+        "speaker": "Jon",
+        "text": "Way to go, Gina! You really stepped up. What's your plan for the future?",
+        "metadata": {
+          "blip_caption": "a photo of a book with a yellow and green cover"
+        }
+      },
+      {
+        "turn_id": "D12:5",
+        "speaker": "Gina",
+        "text": "Thanks! I'm a mix of excited and scared to get into fashion, but I'm trying to stay upbeat and learn as much as I can. What about you? Got something new?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:6",
+        "speaker": "Jon",
+        "text": "I'm currently reading \"The Lean Startup\" and hoping it'll give me tips for my biz.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_16::chunk-0005",
+    "session_id": "session_16",
+    "observed_at": "2023-06-21T14:15:00",
+    "source_timestamp": "2:15 pm on 21 June, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D16:6",
+        "speaker": "Jon",
+        "text": "That's awesome, Gina! Yesterday I chose to go to networking events to make things happen. It's been tough but I'm staying determined and focused.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:7",
+        "speaker": "Gina",
+        "text": "Way to go, Jon! Attending those networking events takes guts and drive. Keep it up!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:8",
+        "speaker": "Jon",
+        "text": "Thanks! It's been tough going since I lost my job, but I'm sure investing my time in my business will pay off eventually. I really appreciate your help.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:9",
+        "speaker": "Gina",
+        "text": "No worries, Jon! You got this! Let me know if you need anything.",
+        "metadata": {
+          "blip_caption": "a photo of a notepad with a pen and a pen on it"
+        }
+      },
+      {
+        "turn_id": "D16:10",
+        "speaker": "Jon",
+        "text": "Your help matters to me. I am writing all my plans down.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:11",
+        "speaker": "Gina",
+        "text": "Nice work! Tracking your plans and goals is key. It's like a picture of all your progress.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_17::chunk-0000",
+    "session_id": "session_17",
+    "observed_at": "2023-07-09T13:25:00",
+    "source_timestamp": "1:25 pm on 9 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D17:1",
+        "speaker": "Gina",
+        "text": "Hey Jon! Long time no chat! How's the dance studio? Last week was wild, I got noticed by fashion editors and it's been amazing but kinda scary. Everything's exciting but it's a lot of pressure to keep going up!",
+        "metadata": {
+          "blip_caption": "a photo of a mannequin in a room with a wood wall"
+        }
+      },
+      {
+        "turn_id": "D17:2",
+        "speaker": "Jon",
+        "text": "Hey Gina! Congrats on the fashion editors reach-out, that's awesome! Dance practice has been fun and exhausting. I'm gonna stay determined and make my own path by going full-time with my biz idea.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:3",
+        "speaker": "Gina",
+        "text": "Just remember that sometimes stumbling blocks can be opened doors. Keep going!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:4",
+        "speaker": "Jon",
+        "text": "Thanks! Your support and encouragement means a lot. Losing my job was a bummer, but it pushed me to take the plunge and go for my biz dreams. Started to learn all these marketing and analytics tools to push the biz forward today. It's been tricky, but I'm up for the challenge and I'm gonna make this work!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:5",
+        "speaker": "Gina",
+        "text": "Go get 'em, Jon!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:6",
+        "speaker": "Jon",
+        "text": "I'm also excited to guide and mentor aspiring dancers on their dreams.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_18::chunk-0000",
+    "session_id": "session_18",
+    "observed_at": "2023-07-21T17:44:00",
+    "source_timestamp": "5:44 pm on 21 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D18:1",
+        "speaker": "Gina",
+        "text": "Hey Jon! Long time no talk! Last week, I built a new website for customers to make orders. It's been a wild ride but I'm loving it. What's up with you? How's the dance studio?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:2",
+        "speaker": "Jon",
+        "text": "Hey Gina, congrats on the clothing store! The dance studio is on tenuous grounds right now, but I'm staying positive. I got a temp job to help cover expenses while I look for investors. It's tough, but I'm sure it'll be worth it.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:3",
+        "speaker": "Gina",
+        "text": "Thanks, Jon! Appreciate the kind words. Sorry to hear about the studio, but glad to see the positivity. Not easy facing setbacks but I believe in you. Finding investors can be tough, but you've got the passion and experience to make it happen. Rome wasn't built in a day so keep pushing on!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:4",
+        "speaker": "Jon",
+        "text": "Thanks for the support. Running a business isn't easy, but I'm determined to make it work. How have you tackled challenges in your business? Got any advice?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:5",
+        "speaker": "Gina",
+        "text": "I've had some tough times with my business, Jon. Sourcing trendy pieces for my store was a big hurdle. I had to do a lot of research and networking. My advice? Don't be scared to reach out to people in your field for help and contacts. Networking was a lifesaver for me and opened me up to amazing products that I might not have found otherwise.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:6",
+        "speaker": "Jon",
+        "text": "Awesome advice! Lately I've been networking and it's gotten me some good stuff. Really can't beat what connections can do. Check this pic I got from the last networking event!",
+        "metadata": {
+          "img_url": [
+            "https://live.staticflickr.com/7284/16241297914_14ea605e4b_b.jpg"
+          ],
+          "re-download": true,
+          "blip_caption": "a photography of a group of people standing in a room"
+        }
+      }
+    ]
+  }
+]

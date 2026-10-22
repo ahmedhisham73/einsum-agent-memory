@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "c863ec0d-47bf-4f2f-ab29-c8499bd0f652",
+    "response": {
+      "id": "chatcmpl-EbsChfAMyyS0j0LPckfSxAWGeMhDh",
+      "object": "chat.completion",
+      "created": 1792695203,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Caroline\",\"property\":\"intent\",\"search\":\"Caroline intent to move back to her home country\"},{\"entity\":\"Caroline\",\"property\":\"future_plans\",\"search\":\"Caroline future plans regarding residence\"},{\"entity\":\"Caroline\",\"property\":\"describes_Caroline\",\"search\":\"any descriptions indicating Caroline's feelings about her home country and moving\"},{\"entity\":\"Caroline\",\"property\":\"anticipation\",\"search\":\"Caroline expresses anticipation about moving or staying\"},{\"entity\":\"Caroline\",\"property\":\"emotion_state\",\"search\":\"Caroline emotional state related to living in current country versus home country\"},{\"entity\":\"Caroline\",\"property\":\"plans\",\"search\":\"Caroline plans for moving or relocation\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2683,
+        "completion_tokens": 145,
+        "total_tokens": 2828,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4ffa17cc03"
+    },
+    "latency_seconds": 2.402334208
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "561ac21c-3591-4f13-b064-a1cba3b447d1",
+    "response": {
+      "id": "chatcmpl-EbsClHUWlZbJxna94deC1VHvga0CJ",
+      "object": "chat.completion",
+      "created": 1792695207,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"No, Caroline does not want to move back to her home country soon. She has been living in her current country for over 4 years, has a strong support system there, and her plans focus on continuing her education, career in counseling and mental health, and adopting children to create a family. There is no mention of any intent or desire to move back to her home country; instead, she talks about feeling accepted and supported in her current community and is focused on building her life there.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_3::episode-002\",\"turn_id\":\"D3:13\"},{\"episode_id\":\"conv-26::session_3::episode-011\",\"turn_id\":\"D3:13\"},{\"episode_id\":\"conv-26::session_1::episode-003\",\"turn_id\":\"D1:13\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 9043,
+        "completion_tokens": 181,
+        "total_tokens": 9224,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6a82cb19e8"
+    },
+    "latency_seconds": 3.215778542
+  }
+]

@@ -1,0 +1,125 @@
+[
+  {
+    "stage": "agent_decision",
+    "call_id": "308edcdc-db84-4b31-a0da-75ad84069f4c",
+    "response": {
+      "id": "chatcmpl-EbsPvZLF5Org5eMs7NddWgaSHwzhY",
+      "object": "chat.completion",
+      "created": 1792696023,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"search\",\"query\":\"John's interest in improving education and infrastructure in the community\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 154,
+        "completion_tokens": 19,
+        "total_tokens": 173,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_b64959fd61"
+    },
+    "latency_seconds": 1.559839791
+  },
+  {
+    "stage": "agent_decision",
+    "call_id": "065ea80b-5492-4580-a1d4-438b5f99217f",
+    "response": {
+      "id": "chatcmpl-EbsPx7cBKBOgsqHe0aX8KnTAflwpw",
+      "object": "chat.completion",
+      "created": 1792696025,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"ready\",\"reason\":\"The conversation clearly indicates that John's interest in improving education and infrastructure in the community was sparked by his own experiences growing up, where he saw how lack of education and crumbling infrastructure affected his neighborhood. He does not want future generations to go through the same issues, motivating him to focus on properly funding schools and infrastructure.\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2900,
+        "completion_tokens": 71,
+        "total_tokens": 2971,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_b64959fd61"
+    },
+    "latency_seconds": 1.6608600409999998
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "93c0587e-2d78-460a-ade7-7d2dbe219cec",
+    "response": {
+      "id": "chatcmpl-EbsPzzxKlfXRo5RdNhvxFKM1O6JAy",
+      "object": "chat.completion",
+      "created": 1792696027,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"John's interest in improving education and infrastructure in the community was sparked by his experience growing up, where he saw how the lack of education and crumbling infrastructure affected his neighborhood. He does not want future generations to go through similar difficulties, motivating him to ensure schools and infrastructure are properly funded.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-41::session_1::chunk-0005\",\"turn_id\":\"D1:10\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2845,
+        "completion_tokens": 95,
+        "total_tokens": 2940,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6a82cb19e8"
+    },
+    "latency_seconds": 2.454723125
+  }
+]

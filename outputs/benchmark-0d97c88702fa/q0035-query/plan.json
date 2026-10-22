@@ -1,0 +1,10 @@
+{
+  "scope": "all_matching",
+  "requirements": [
+    {
+      "entity": "Caroline",
+      "property": "participated_in",
+      "search": "Caroline participated events helping children"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-41::q0008",
+  "category": 1,
+  "question": "What items des John mention having as a child?",
+  "gold_answer": "A doll, a film camera",
+  "status": "failed",
+  "error": "Query failed. See q0008.log"
+}

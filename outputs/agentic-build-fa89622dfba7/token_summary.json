@@ -1,0 +1,22 @@
+{
+  "experiment_id": "agentic-build-fa89622dfba7",
+  "recorded_calls": 3,
+  "groups": [
+    {
+      "approach": "agentic_rag",
+      "phase": "build",
+      "stage": "chunk_embedding",
+      "usage_kind": "embedding",
+      "provider": "openai",
+      "model": "text-embedding-3-small",
+      "calls": 3,
+      "retry_calls": 0,
+      "missing_usage_calls": 0,
+      "reported_input_tokens": 31838,
+      "reported_output_tokens": 0,
+      "total_tokens": 31838,
+      "cached_input_tokens": null,
+      "usage_complete": true
+    }
+  ]
+}

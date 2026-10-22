@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-30::q0001",
+  "category": 2,
+  "question": "When Jon has lost his job as a banker?",
+  "gold_answer": "19 January, 2023",
+  "status": "scored",
+  "generated_answer": "Jon lost his job as a banker the day before 20 January, 2023 (i.e., on 19 January, 2023).",
+  "citations": [
+    {
+      "episode_id": "conv-30::session_1::chunk-0000",
+      "turn_id": "D1:2"
+    }
+  ],
+  "query_elapsed_seconds": 6.27227725,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer accurately states the date Jon lost his job as a banker, aligning perfectly with the reference answer."
+}

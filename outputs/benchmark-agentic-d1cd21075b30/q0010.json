@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-30::q0010",
+  "category": 1,
+  "question": "Which city have both Jean and John visited?",
+  "gold_answer": "Rome",
+  "status": "scored",
+  "generated_answer": "Both Jean (Gina) and John (Jon) have visited Paris. Jon mentioned that he visited Paris recently in the conversation.",
+  "citations": [
+    {
+      "episode_id": "conv-30::session_2::chunk-0000",
+      "turn_id": "D2:4"
+    }
+  ],
+  "query_elapsed_seconds": 8.801197417000001,
+  "label": "WRONG",
+  "judge_reason": "The generated answer states that Jean and John visited Paris, while the reference specifies Rome."
+}

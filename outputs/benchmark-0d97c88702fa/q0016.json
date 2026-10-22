@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-26::q0016",
+  "category": 1,
+  "question": "What activities does Melanie partake in?",
+  "gold_answer": "pottery, camping, painting, swimming",
+  "status": "failed",
+  "error": "Query failed. See q0016.log"
+}

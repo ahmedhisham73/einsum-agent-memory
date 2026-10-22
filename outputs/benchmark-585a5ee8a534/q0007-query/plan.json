@@ -1,0 +1,10 @@
+{
+  "scope": "all_matching",
+  "requirements": [
+    {
+      "entity": "Maria",
+      "property": "made_friends_at",
+      "search": "evidence of locations or settings where Maria has made friends"
+    }
+  ]
+}

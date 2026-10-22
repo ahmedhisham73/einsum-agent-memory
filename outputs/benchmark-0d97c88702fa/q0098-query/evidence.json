@@ -1,0 +1,475 @@
+[
+  {
+    "episode_id": "conv-26::session_1::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_1",
+    "observed_at": "2023-05-08T13:56:00",
+    "source_timestamp": "1:56 pm on 8 May, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Greeting and sharing recent experience",
+    "turns": [
+      {
+        "turn_id": "D1:1",
+        "speaker": "Caroline",
+        "text": "Hey Mel! Good to see you! How have you been?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:2",
+        "speaker": "Melanie",
+        "text": "Hey Caroline! Good to see you! I'm swamped with the kids & work. What's up with you? Anything new?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:3",
+        "speaker": "Caroline",
+        "text": "I went to a LGBTQ support group yesterday and it was so powerful.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_4::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_4",
+    "observed_at": "2023-06-27T10:37:00",
+    "source_timestamp": "10:37 am on 27 June, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Caroline's career interest in counseling and mental health support for trans people",
+    "turns": [
+      {
+        "turn_id": "D4:11",
+        "speaker": "Caroline",
+        "text": "Lately, I've been looking into counseling and mental health as a career. I want to help people who have gone through the same things as me.",
+        "metadata": {
+          "blip_caption": "a photo of a book shelf with many books on it"
+        }
+      },
+      {
+        "turn_id": "D4:12",
+        "speaker": "Melanie",
+        "text": "Sounds great! What kind of counseling and mental health services do you want to persue?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:13",
+        "speaker": "Caroline",
+        "text": "I'm still figuring out the details, but I'm thinking of working with trans people, helping them accept themselves and supporting their mental health. Last Friday, I went to an LGBTQ+ counseling workshop and it was really enlightening. They talked about different therapeutic methods and how to best work with trans people. Seeing how passionate these pros were about making a safe space for people like me was amazing.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:14",
+        "speaker": "Melanie",
+        "text": "Woah, Caroline, it sounds like you're doing some impressive work. It's inspiring to see your dedication to helping others. What motivated you to pursue counseling?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:15",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie. It really mattered. My own journey and the support I got made a huge difference. Now I want to help people go through it too. I saw how counseling and support groups improved my life, so I started caring more about mental health and understanding myself. Now I'm passionate about creating a safe, inviting place for people to grow.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:16",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! You've gained so much from your own experience. Your passion and hard work to help others is awesome. Keep it up, you're making a big impact!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:17",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! Your kind words mean a lot.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:18",
+        "speaker": "Melanie",
+        "text": "Congrats Caroline! Good on you for going after what you really care about.",
+        "metadata": {
+          "blip_caption": "a photo of a book shelf filled with books in a room"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_7::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_7",
+    "observed_at": "2023-07-12T16:33:00",
+    "source_timestamp": "4:33 pm on 12 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Caroline's experience at an LGBTQ conference and her mental health career aspirations",
+    "turns": [
+      {
+        "turn_id": "D7:1",
+        "speaker": "Caroline",
+        "text": "Hey Mel, great to chat with you again! So much has happened since we last spoke - I went to an LGBTQ conference two days ago and it was really special. I got the chance to meet and connect with people who've gone through similar journeys. It was such a welcoming environment and I felt totally accepted. I'm really thankful for this amazing community - it's shown me how important it is to fight for trans rights and spread awareness.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:2",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, that sounds awesome! So glad you felt accepted and supported. Events like these are great for reminding us of how strong community can be!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:3",
+        "speaker": "Caroline",
+        "text": "Yeah, it's true! Having people who back you makes such a huge difference. It's great to see how far LGBTQ rights have come, but there's still plenty of progress to be made. I wanna help make a difference.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:4",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline. We've come so far, but there's more to do. Your drive to help is awesome! What's your plan to pitch in?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:5",
+        "speaker": "Caroline",
+        "text": "Thanks, Mell! I'm still looking into counseling and mental health jobs. It's important to me that people have someone to talk to, and I want to help make that happen.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:6",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! You're so inspiring for wanting to help others with their mental health. What's pushing you to keep going forward with it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:7",
+        "speaker": "Caroline",
+        "text": "I struggled with mental health, and support I got was really helpful. It made me realize how important it is for others to have a support system. So, I started looking into counseling and mental health career options, so I could help other people on their own journeys like I was helped.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_8::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Caroline's adoption council meeting and Melanie's wedding memories",
+    "turns": [
+      {
+        "turn_id": "D8:9",
+        "speaker": "Caroline",
+        "text": "That photo is stunning! So glad you bonded over our love of nature. Last Friday I went to a council meeting for adoption. It was inspiring and emotional - so many people wanted to create loving homes for children in need. It made me even more determined to adopt.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:10",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, way to go! Your future fam will get a kick out of having you. What do you think of these?",
+        "metadata": {
+          "img_url": [
+            "https://assets.eflorist.com/assets/products/PHR_/TEV57-5A.jpg"
+          ],
+          "blip_caption": "a photo of a blue vase with a bouquet of sunflowers and roses",
+          "query": "sunflower bouquet"
+        }
+      },
+      {
+        "turn_id": "D8:11",
+        "speaker": "Caroline",
+        "text": "Thanks Melanie - love the blue vase in the pic! Blue's my fave, it makes me feel relaxed. Sunflowers mean warmth and happiness, right? While roses stand for love and beauty? That's neat. What do flowers mean to you?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:12",
+        "speaker": "Melanie",
+        "text": "Flowers bring joy. They represent growth, beauty and reminding us to appreciate the small moments. They were an important part of my wedding decor and always remind me of that day.",
+        "metadata": {
+          "img_url": [
+            "https://blueblossomrentals.com/cdn/shop/products/image_909fb96b-4208-429b-9a6f-59dffa3cb546.jpg"
+          ],
+          "blip_caption": "a photo of a row of white chairs with flowers on them",
+          "query": "garden full of flowers wedding decorations"
+        }
+      },
+      {
+        "turn_id": "D8:13",
+        "speaker": "Caroline",
+        "text": "It must have been special at your wedding. I wish I had known you back then!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:14",
+        "speaker": "Melanie",
+        "text": "It was amazing, Caroline. The day was full of love and joy. Everyone we love was there to celebrate us - it was really special.",
+        "metadata": {
+          "img_url": [
+            "https://platinumnotary.files.wordpress.com/2023/03/img-6679.jpg"
+          ],
+          "blip_caption": "a photo of a wedding ceremony in a greenhouse with people taking pictures",
+          "query": "wedding ceremony"
+        }
+      },
+      {
+        "turn_id": "D8:15",
+        "speaker": "Caroline",
+        "text": "Wow, what a great day! Glad everyone could make it. What was your favorite part?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:16",
+        "speaker": "Melanie",
+        "text": "Marrying my partner and promising to be together forever was the best part.",
+        "metadata": {
+          "img_url": [
+            "https://s3-us-west-2.amazonaws.com/amm-prod/wedding_photos/photos/000/024/198/original/4B873921-0596-4A6B-8CD8-C6E5C2B024AF.png"
+          ],
+          "blip_caption": "a photo of a man and woman standing on a beach",
+          "query": "vows partner holding hands ceremony"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_8::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Caroline's pride parade experience and personal journey of acceptance and transition",
+    "turns": [
+      {
+        "turn_id": "D8:17",
+        "speaker": "Caroline",
+        "text": "Wow, nice pic! You both looked amazing. One special memory for me was this pride parade I went to a few weeks ago.",
+        "metadata": {
+          "img_url": [
+            "https://dynaimage.cdn.cnn.com/cnn/digital-images/org/dfc95f14-b325-431c-b977-5b6dc2d35f9c.jpg"
+          ],
+          "blip_caption": "a photo of a parade with people walking down the street",
+          "query": "rainbow flag pride march"
+        }
+      },
+      {
+        "turn_id": "D8:18",
+        "speaker": "Melanie",
+        "text": "Wow, looks awesome! Did you join in?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:19",
+        "speaker": "Caroline",
+        "text": "Yes, I did. It was amazing! I felt so accepted and happy, just being around people who accepted and celebrated me. It's definitely a top memory.",
+        "metadata": {
+          "img_url": [
+            "http://ninalemsparty.com/cdn/shop/collections/iStock-1292280203.jpg"
+          ],
+          "blip_caption": "a photo of a group of people holding up signs and smiling",
+          "query": "lgbtq+ pride parade vibrant flags smiling faces"
+        }
+      },
+      {
+        "turn_id": "D8:20",
+        "speaker": "Melanie",
+        "text": "Wow, what an experience! How did it make you feel?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:21",
+        "speaker": "Caroline",
+        "text": "I felt so proud and grateful - the vibes were amazing and it was comforting to know I'm not alone and have a great community around me.",
+        "metadata": {
+          "blip_caption": "a photo of a rainbow flag on a pole on a carpet"
+        }
+      },
+      {
+        "turn_id": "D8:22",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! That's huge! How did it feel to be around so much love and acceptance?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:23",
+        "speaker": "Caroline",
+        "text": "It was awesome, Melanie! Being around people who embrace and back me up is beyond words. It really inspired me.",
+        "metadata": {
+          "blip_caption": "a photo of a group of people sitting on the ground with a dog"
+        }
+      },
+      {
+        "turn_id": "D8:24",
+        "speaker": "Melanie",
+        "text": "Wow, that sounds awesome! Your friends and community really have your back. What's been the best part of it?",
+        "metadata": {
+          "blip_caption": "a photo of a girl sitting in a teepee with stuffed animals"
+        }
+      },
+      {
+        "turn_id": "D8:25",
+        "speaker": "Caroline",
+        "text": "Realizing I can be me without fear and having the courage to transition was the best part. It's so freeing to express myself authentically and have people back me up.",
+        "metadata": {
+          "blip_caption": "a photo of a teepee with a teddy bear and pillows"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_9::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_9",
+    "observed_at": "2023-07-17T14:31:00",
+    "source_timestamp": "2:31 pm on 17 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Weekend activities and updates",
+    "turns": [
+      {
+        "turn_id": "D9:1",
+        "speaker": "Melanie",
+        "text": "Hey Caroline, hope all's good! I had a quiet weekend after we went camping with my fam two weekends ago. It was great to unplug and hang with the kids. What've you been up to? Anything fun over the weekend?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:2",
+        "speaker": "Caroline",
+        "text": "Hey Melanie! That sounds great! Last weekend I joined a mentorship program for LGBTQ youth - it's really rewarding to help the community.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_9::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_9",
+    "observed_at": "2023-07-17T14:31:00",
+    "source_timestamp": "2:31 pm on 17 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Mentorship experience in LGBTQ community",
+    "turns": [
+      {
+        "turn_id": "D9:3",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! It's great that you're helping out. How's it going? Got any cool experiences you can share?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:4",
+        "speaker": "Caroline",
+        "text": "The mentoring is going great! I've met some amazing young folks and supported them along the way. It's inspiring to see how resilient and strong they are.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:5",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, that sounds super rewarding! Young people's resilience is amazing. Care to share some stories?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:6",
+        "speaker": "Caroline",
+        "text": "I mentor a transgender teen just like me. We've been working on building up confidence and finding positive strategies, and it's really been paying off! We had a great time at the LGBT pride event last month.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_11::episode-005",
+    "conversation_id": "conv-26",
+    "session_id": "session_11",
+    "observed_at": "2023-08-14T14:24:00",
+    "source_timestamp": "2:24 pm on 14 August, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Art as a medium for Caroline's self-discovery and acceptance journey",
+    "turns": [
+      {
+        "turn_id": "D11:13",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, that's gorgeous! I love the self-acceptance and love theme. How does art help you with your self-discovery and acceptance journey?",
+        "metadata": {
+          "blip_caption": "a photo of a woman is making a vase on a wheel"
+        }
+      },
+      {
+        "turn_id": "D11:14",
+        "speaker": "Caroline",
+        "text": "Art's allowed me to explore my transition and my changing body. It's been a great way to work through stuff I'm going through. I love that it teaches me to accept the beauty of imperfections.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:15",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, that's so cool! Art can be so healing and a way to really connect with who you are. It's awesome that beauty can be found in the imperfections. We're all individual and wonderfully imperfect. Thanks for sharing it with me!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:16",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie. It means a lot to share this with you.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_14::episode-005",
+    "conversation_id": "conv-26",
+    "session_id": "session_14",
+    "observed_at": "2023-08-25T13:33:00",
+    "source_timestamp": "1:33 pm on 25 August, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Stained glass artwork symbolizing growth and unity",
+    "turns": [
+      {
+        "turn_id": "D14:16",
+        "speaker": "Melanie",
+        "text": "I'm in awe of your courage as a trans person. Have you made any more art lately?",
+        "metadata": {
+          "blip_caption": "a photo of a stained glass window with a person holding a key"
+        }
+      },
+      {
+        "turn_id": "D14:17",
+        "speaker": "Caroline",
+        "text": "Thanks, Mel! I made this stained glass window to remind myself and others that within us all is the key to discovering our true potential and living our best life.",
+        "metadata": {
+          "img_url": [
+            "https://projects.history.qmul.ac.uk/thehistorian/wp-content/uploads/sites/24/2017/10/IMG_20170922_072615_165.jpg"
+          ],
+          "blip_caption": "a photo of three stained glass windows in a church with a clock",
+          "query": "stained glass window letter"
+        }
+      },
+      {
+        "turn_id": "D14:18",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, that looks amazing! What inspired it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:19",
+        "speaker": "Caroline",
+        "text": "Thanks! It was made for a local church and shows time changing our lives. I made it to show my own journey as a transgender woman and how we should accept growth and change.",
+        "metadata": {
+          "blip_caption": "a photo of a large stained glass window in a church"
+        }
+      },
+      {
+        "turn_id": "D14:20",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline!  All those colors are incredible and the story it tells is so inspiring.",
+        "metadata": {
+          "blip_caption": "a photo of a door with a stained glass window and a coat rack"
+        }
+      },
+      {
+        "turn_id": "D14:21",
+        "speaker": "Caroline",
+        "text": "Thanks, Mel! Glad you like it. It's a symbol of togetherness, to celebrate differences and be that much closer. I'd love to make something like this next!",
+        "metadata": {
+          "img_url": [
+            "https://i0.wp.com/marbleheadcurrent.org/wp-content/uploads/2023/07/rainbow.jpg"
+          ],
+          "blip_caption": "a photo of a painted sidewalk with a rainbow design on it",
+          "query": "painting rainbow flag unity acceptance"
+        }
+      }
+    ]
+  }
+]

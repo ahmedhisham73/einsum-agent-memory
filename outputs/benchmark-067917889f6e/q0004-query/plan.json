@@ -1,0 +1,45 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Jon",
+      "property": "values_social_support_from",
+      "search": "search for statements about Jon's social support values"
+    },
+    {
+      "entity": "Gina",
+      "property": "values_social_support_from",
+      "search": "search for statements about Gina's social support values"
+    },
+    {
+      "entity": "Jon",
+      "property": "belief",
+      "search": "search for Jon's beliefs relevant to shared traits or goals"
+    },
+    {
+      "entity": "Gina",
+      "property": "belief",
+      "search": "search for Gina's beliefs relevant to shared traits or goals"
+    },
+    {
+      "entity": "Jon",
+      "property": "attitude_towards_goal",
+      "search": "search for Jon's attitude towards goals or ambitions"
+    },
+    {
+      "entity": "Gina",
+      "property": "attitude_towards_goal",
+      "search": "search for Gina's attitude towards goals or ambitions"
+    },
+    {
+      "entity": "Jon",
+      "property": "activities",
+      "search": "search for activities Jon participates in or values"
+    },
+    {
+      "entity": "Gina",
+      "property": "activities",
+      "search": "search for activities Gina participates in or values"
+    }
+  ]
+}

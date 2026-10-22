@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "8a3e7b1f-018d-48de-9dd1-1929d6b897e3",
+    "response": {
+      "id": "chatcmpl-EbsN3X0biMjM3DhfEfUXu3uXp2U4L",
+      "object": "chat.completion",
+      "created": 1792695845,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"John\",\"property\":\"patriotic\",\"search\":\"search for evidence that indicates John’s patriotism or related attributes such as desire_to_serve_country, values, attitude_toward_military, commitment_to_be_there_for, or advocacy_goal with a focus on patriotism\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3705,
+        "completion_tokens": 67,
+        "total_tokens": 3772,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4ffa17cc03"
+    },
+    "latency_seconds": 2.173771584
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "1dee4eca-f351-41d1-99ed-5dac5e696800",
+    "response": {
+      "id": "chatcmpl-EbsN7Tdf2wHglqgkDmc8pSf5gD0cJ",
+      "object": "chat.completion",
+      "created": 1792695849,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Yes, John would be considered a patriotic person. He expresses a strong urge to serve his country and community, is drawn to serving his country through volunteering, actively supports military veterans through projects and activism, and has great respect and support for the military and veterans' rights.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-41::session_6::episode-002\",\"turn_id\":\"D6:4\"},{\"episode_id\":\"conv-41::session_8::episode-005\",\"turn_id\":\"D8:18\"},{\"episode_id\":\"conv-41::session_15::episode-001\",\"turn_id\":\"D15:1\"},{\"episode_id\":\"conv-41::session_15::episode-001\",\"turn_id\":\"D15:3\"},{\"episode_id\":\"conv-41::session_21::episode-005\",\"turn_id\":\"D21:22\"},{\"episode_id\":\"conv-41::session_21::episode-005\",\"turn_id\":\"D21:24\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1948,
+        "completion_tokens": 205,
+        "total_tokens": 2153,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6a82cb19e8"
+    },
+    "latency_seconds": 2.7596133750000007
+  }
+]

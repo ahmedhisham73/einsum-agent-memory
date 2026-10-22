@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-41::q0006",
+  "category": 2,
+  "question": "When did Maria go to the beach?",
+  "gold_answer": "December 2022",
+  "status": "scored",
+  "generated_answer": "Maria mentioned a beach vacation in Florida in June 2023, recalling a sunset and family time during that trip, indicating she went to the beach then.",
+  "citations": [
+    {
+      "episode_id": "conv-41::session_19::chunk-0020",
+      "turn_id": "D19:23"
+    }
+  ],
+  "query_elapsed_seconds": 5.687582667,
+  "label": "WRONG",
+  "judge_reason": "The generated answer provides a different date (June 2023) than the reference answer (December 2022) for when Maria went to the beach."
+}

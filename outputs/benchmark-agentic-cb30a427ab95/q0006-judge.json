@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-EbsQsRAmy1FTqS2PeZuKWPxPvfxLh",
+  "object": "chat.completion",
+  "created": 1792696082,
+  "model": "gpt-4o-mini-2024-07-18",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\"label\":\"WRONG\",\"reason\":\"The generated answer provides a different date (June 2023) than the reference answer (December 2022) for when Maria went to the beach.\"}",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 165,
+    "completion_tokens": 40,
+    "total_tokens": 205,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_01ca53b73a"
+}

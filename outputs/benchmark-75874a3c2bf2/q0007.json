@@ -1,0 +1,21 @@
+{
+  "question_id": "conv-30::q0007",
+  "category": 2,
+  "question": "When is Jon's group performing at a festival?",
+  "gold_answer": "February, 2023",
+  "status": "scored",
+  "generated_answer": "Jon's group is performing at a nearby festival next month from the time of the conversation at 4:04 pm on 20 January 2023, which suggests the performance is scheduled for February 2023.",
+  "citations": [
+    {
+      "episode_id": "conv-30::session_1::episode-006",
+      "turn_id": "D1:24"
+    },
+    {
+      "episode_id": "conv-30::session_1::episode-006",
+      "turn_id": "D1:26"
+    }
+  ],
+  "query_elapsed_seconds": 5.223338541,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer provides the correct date for Jon's group performance, matching the reference answer."
+}

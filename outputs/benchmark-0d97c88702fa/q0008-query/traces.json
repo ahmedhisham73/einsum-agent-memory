@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "ca7143c1-6559-49ff-942b-86115a4b24bd",
+    "response": {
+      "id": "chatcmpl-Ebs6pcPZf7Ax8pl7DiiS5qc4TLO0v",
+      "object": "chat.completion",
+      "created": 1792694839,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Caroline\",\"property\":\"marital_status\",\"search\":\"standalone evidence search\"},{\"entity\":\"Caroline\",\"property\":\"relationship_change_due_to_journey\",\"search\":\"standalone evidence search\"},{\"entity\":\"Caroline\",\"property\":\"relationship_support_experience\",\"search\":\"standalone evidence search\"},{\"entity\":\"Caroline\",\"property\":\"has_family\",\"search\":\"standalone evidence search\"},{\"entity\":\"Caroline\",\"property\":\"companionship_status\",\"search\":\"standalone evidence search\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2678,
+        "completion_tokens": 102,
+        "total_tokens": 2780,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6cab07b253"
+    },
+    "latency_seconds": 1.800964916
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "6fe709ae-6c2e-4918-9522-9fe727b8083b",
+    "response": {
+      "id": "chatcmpl-Ebs6r0A1Fn50XmaR65Rv2PGdm4WVV",
+      "object": "chat.completion",
+      "created": 1792694841,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Caroline is single and not married but actively pursuing adoption to build a family as a single parent. Her relationship status has shifted due to her journey, leading to some friends not being supportive while others remain loving and accepting, resulting in more genuine connections. She has a strong support system of friends and family who have been instrumental in her transition. Caroline is currently single but seeking companionship through starting a family via adoption, focusing on creating a loving home for children in need.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_2::episode-002\",\"turn_id\":\"D2:14\"},{\"episode_id\":\"conv-26::session_2::episode-002\",\"turn_id\":\"D2:10\"},{\"episode_id\":\"conv-26::session_6::episode-004\",\"turn_id\":\"D6:11\"},{\"episode_id\":\"conv-26::session_16::episode-006\",\"turn_id\":\"D16:15\"},{\"episode_id\":\"conv-26::session_17::episode-001\",\"turn_id\":\"D17:1\"},{\"episode_id\":\"conv-26::session_19::episode-001\",\"turn_id\":\"D19:1\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 4605,
+        "completion_tokens": 244,
+        "total_tokens": 4849,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6a82cb19e8"
+    },
+    "latency_seconds": 2.634434958
+  }
+]

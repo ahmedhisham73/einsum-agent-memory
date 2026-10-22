@@ -1,0 +1,34 @@
+{
+  "question_id": "conv-41::q0067",
+  "category": 4,
+  "question": "What sparked John's interest in improving education and infrastructure in the community?",
+  "gold_answer": "Seeing how lack of education and crumbling infrastructure affected his neighborhood while growing up.",
+  "status": "scored",
+  "generated_answer": "John's interest in improving education and infrastructure in the community was sparked by his personal experiences growing up, where he saw how lack of education and crumbling infrastructure negatively affected his neighborhood. This motivated him to ensure future generations would not face the same issues and to advocate for proper funding of schools and infrastructure. His passion grew through involvement in community meetings and networking with local leaders, hearing stories that fired up his drive to make education better. John also feels a strong urge to serve his community and believes investing in future generations is foundational to progress and opportunity. Additionally, his supportive family is a key personal motivation that keeps him determined to make a positive impact.",
+  "citations": [
+    {
+      "episode_id": "conv-41::session_1::episode-004",
+      "turn_id": "D1:10"
+    },
+    {
+      "episode_id": "conv-41::session_2::episode-001",
+      "turn_id": "D2:4"
+    },
+    {
+      "episode_id": "conv-41::session_2::episode-002",
+      "turn_id": "D2:10"
+    },
+    {
+      "episode_id": "conv-41::session_9::episode-003",
+      "turn_id": "D9:10"
+    },
+    {
+      "episode_id": "conv-41::session_22::episode-001",
+      "turn_id": "D22:1"
+    }
+  ],
+  "query_elapsed_seconds": 7.817466583000001,
+  "recovery_source": "benchmark-204da9c8bb41",
+  "label": "WRONG",
+  "judge_reason": "The generated answer adds unsupported details about John's motivations, family support, and involvement in community activities, which are not present in the reference answer."
+}

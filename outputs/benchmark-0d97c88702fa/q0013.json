@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0013",
+  "category": 2,
+  "question": "How long ago was Caroline's 18th birthday?",
+  "gold_answer": "10 years ago",
+  "status": "scored",
+  "generated_answer": "Caroline's 18th birthday was 10 years ago from the date of the conversation in episode \"conv-26::session_4::episode-001\" observed at 27 June 2023, as she mentions receiving a hand-painted bowl as a gift for her 18th birthday ten years ago. Therefore, her 18th birthday was approximately in 2013.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_4::episode-001",
+      "turn_id": "D4:5"
+    }
+  ],
+  "query_elapsed_seconds": 12.430941707999999,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer accurately states that Caroline's 18th birthday was 10 years ago, aligns with the context provided, and deduces the approximate year (2013) correctly."
+}

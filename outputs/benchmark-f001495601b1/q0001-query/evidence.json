@@ -1,0 +1,216 @@
+[
+  {
+    "episode_id": "conv-41::session_2::episode-004",
+    "conversation_id": "conv-41",
+    "session_id": "session_2",
+    "observed_at": "2022-12-22T18:10:00",
+    "source_timestamp": "6:10 pm on 22 December, 2022",
+    "timezone_status": "unspecified",
+    "theme": "Sharing family dinner moments and cooking experiences",
+    "turns": [
+      {
+        "turn_id": "D2:20",
+        "speaker": "John",
+        "text": "Yeah Maria, making memories with family is priceless! Life is so much more meaningful when we spend time together. Here's a pic of us at dinner.",
+        "metadata": {
+          "img_url": [
+            "https://images.pexels.com/photos/1655329/pexels-photo-1655329.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-lisa-fotios-1655329.jpg"
+          ],
+          "blip_caption": "a photo of a group of people standing around a kitchen table",
+          "query": "family dinner gathering"
+        }
+      },
+      {
+        "turn_id": "D2:21",
+        "speaker": "Maria",
+        "text": "Woah, that's a nice pic, John! You all obviously had a blast at dinner. Nothing beats getting together with loved ones for a good meal - it makes some awesome memories!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:22",
+        "speaker": "John",
+        "text": "Thanks, Maria! Meal times are always fun. Good food, laughs, and chats help us stay close.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:23",
+        "speaker": "Maria",
+        "text": "Yeah, John! It definitely builds a strong bond. Those shared meals really make life enjoyable and meaningful. What did you make?",
+        "metadata": {
+          "blip_caption": "a photo of a table with pizzas and salads on it"
+        }
+      },
+      {
+        "turn_id": "D2:24",
+        "speaker": "John",
+        "text": "We made pizza! We had so much fun making them together. It was great picking out toppings and sharing a tasty meal with family. Have you made anything lately?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:25",
+        "speaker": "Maria",
+        "text": "I can picture you all laughing and having a blast making your own pizzas - a great way to bond! I made some peach cobbler recently, it was great.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:26",
+        "speaker": "John",
+        "text": "Yeah Maria, it's awesome! We get our creative on and have a blast together.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:27",
+        "speaker": "Maria",
+        "text": "Sure, John! It's those moments of creativity and laughter that bring us closer. Let's make happy memories with our family and keep them close.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_11::episode-003",
+    "conversation_id": "conv-41",
+    "session_id": "session_11",
+    "observed_at": "2023-04-10T18:13:00",
+    "source_timestamp": "6:13 pm on 10 April, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Maria discusses her volunteer work at the homeless shelter and its impact",
+    "turns": [
+      {
+        "turn_id": "D11:10",
+        "speaker": "Maria",
+        "text": "I recently gave a few talks at the homeless shelter I volunteer at. It was really fulfilling and I received lots of compliments from other volunteers. It was a great reminder about why connecting with and helping others is so important. And, I bought a cross necklace to feel closer to my faith- which has made me happy.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:11",
+        "speaker": "John",
+        "text": "Way to go, Maria! You're making a real difference. It's awesome how connecting with and helping others brings you so much joy. Keep it up!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:12",
+        "speaker": "Maria",
+        "text": "Thanks, John! It's so great to make a real difference. Seeing the impact and hearing the gratitude fills me with so much joy. The people at the shelter have become like family to me. I feel really blessed to know them.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:13",
+        "speaker": "John",
+        "text": "Wow, Maria, what you're doing is truly amazing. Your kindness ripples and creates such incredible relationships!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:14",
+        "speaker": "Maria",
+        "text": "Thanks, John. Building relationships and seeing kindness really does make a difference. Here's a pic from last week. Seeing everyone come together warms my heart and fills me with hope.",
+        "metadata": {
+          "img_url": [
+            "https://portlandrescuemission.org/wp-content/uploads/2017/11/20160809_gc_0797-copy.jpg"
+          ],
+          "blip_caption": "a photo of a group of people standing around a table filled with food",
+          "query": "homeless shelter volunteers"
+        }
+      },
+      {
+        "turn_id": "D11:15",
+        "speaker": "John",
+        "text": "Wow, that's amazing how everyone came together. You must have had some great ideas! What do you do there?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:16",
+        "speaker": "Maria",
+        "text": "We organized a meal for the shelter residents and I helped with getting everything ready. It was cool to see everyone together, eating and supporting each other.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:17",
+        "speaker": "John",
+        "text": "Wow, Maria, that's awesome! You made everyone so comfortable and it must have been so rewarding. You're really making a difference!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:18",
+        "speaker": "Maria",
+        "text": "Yeah, it was really nice to help bring people together and create a sense of comfort and community. It's something special to see people supporting each other.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:19",
+        "speaker": "John",
+        "text": "Definitely, Maria. That's great. It gives us hope and reminds us we're not alone. Thank you for being a positive force.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:20",
+        "speaker": "Maria",
+        "text": "No problem, John! It's great to feel this sense of community. Thanks for the kind words, they mean a lot.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_13::episode-003",
+    "conversation_id": "conv-41",
+    "session_id": "session_13",
+    "observed_at": "2023-05-04T15:18:00",
+    "source_timestamp": "3:18 pm on 4 May, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Sharing family meal experiences and importance of finding joy and balance",
+    "turns": [
+      {
+        "turn_id": "D13:16",
+        "speaker": "Maria",
+        "text": "Wow, John! It's great when you have that kind of support. My mom and I made some dinner together last night!",
+        "metadata": {
+          "img_url": [
+            "https://i.pinimg.com/originals/2b/14/2b/2b142b420a54216cfc9432b6b35676b5.jpg"
+          ],
+          "blip_caption": "a photo of a table with a variety of food on it",
+          "query": "family gathering dinner home"
+        }
+      },
+      {
+        "turn_id": "D13:17",
+        "speaker": "John",
+        "text": "Thanks, Maria. Having good support is key. Appreciate you being there for me. What do you have in this spread? Looks delicious! I made this apple pie for the kids yesterday too!",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/tc1f75pa9df21.jpg"
+          ],
+          "blip_caption": "a photo of a person holding a plate with a banana split ice cream sundae",
+          "query": "homemade apple pie vanilla ice cream"
+        }
+      },
+      {
+        "turn_id": "D13:18",
+        "speaker": "Maria",
+        "text": "Thanks, John! It had lots of great things like salads, sandwiches, and homemade desserts. My favorite is the amazing banana split sundae - I enjoy it after a day of volunteering. It's a little moment of joy in life - balance is key!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D13:19",
+        "speaker": "John",
+        "text": "Mm, yum! A bit of joy is definitely important. How do you find balance in your life?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_23::episode-003",
+    "conversation_id": "conv-41",
+    "session_id": "session_23",
+    "observed_at": "2023-07-07T18:29:00",
+    "source_timestamp": "6:29 pm on 7 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Maria ends conversation to go meet friends",
+    "turns": [
+      {
+        "turn_id": "D23:14",
+        "speaker": "Maria",
+        "text": "For sure! We can keep doing great stuff and making a difference. Well, I'm off to have dinner with some friends from the gym. Talk to you later!",
+        "metadata": {}
+      }
+    ]
+  }
+]

@@ -1,0 +1,410 @@
+[
+  {
+    "episode_id": "conv-41::session_2::episode-001",
+    "conversation_id": "conv-41",
+    "session_id": "session_2",
+    "observed_at": "2022-12-22T18:10:00",
+    "source_timestamp": "6:10 pm on 22 December, 2022",
+    "timezone_status": "unspecified",
+    "theme": "Discussion about John's campaign and motivation for community improvement",
+    "turns": [
+      {
+        "turn_id": "D2:1",
+        "speaker": "Maria",
+        "text": "Hey John, been a few days since we chatted. In the meantime, I donated my old car to a homeless shelter I volunteer at yesterday. How's the campaign going? I'm keen to hearabout it.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:2",
+        "speaker": "John",
+        "text": "Hi Maria! It's been an interesting ride so far. I've been networking with some people to get their input.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:3",
+        "speaker": "Maria",
+        "text": "That's awesome, John! Networking is great for gaining new perspectives and insights. Have you had any interesting conversations or revelations so far?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:4",
+        "speaker": "John",
+        "text": "I just talked to someone who shared some amazing stories. It really fired up my passion to make education better in our area.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:5",
+        "speaker": "Maria",
+        "text": "Wow, John! Hearing that can really make an impact and get us fired up to make a difference. It's great to hear that you're feeling motivated to make improvements to our community's education!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:6",
+        "speaker": "John",
+        "text": "Definitely, Maria. Investing in our future generations is key, giving them the right tools for success. It's the foundation of progress and opportunity.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:7",
+        "speaker": "Maria",
+        "text": "Yeah, John. It's amazing how even minor tweaks to the system can make a big difference for lots of people. I'm really impressed with your enthusiasm and commitment to it!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:8",
+        "speaker": "John",
+        "text": "Thanks, Maria. Your encouragement means a lot to me. It's true that with effort and support, we can make a real difference in our community.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:9",
+        "speaker": "Maria",
+        "text": "You got this, John! I believe in your power to make a positive difference. Your passion inspires me. Keep going - I'm here for you.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_5::episode-003",
+    "conversation_id": "conv-41",
+    "session_id": "session_5",
+    "observed_at": "2023-01-28T13:17:00",
+    "source_timestamp": "1:17 pm on 28 January, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Reflection on kindness, support, and shared childhood memories",
+    "turns": [
+      {
+        "turn_id": "D5:11",
+        "speaker": "John",
+        "text": "Wow, what a touching moment, Maria. I'm glad you were there for her when she needed someone. I'm sure it made a big impact.",
+        "metadata": {
+          "img_url": [
+            "https://i2.pickpik.com/photos/428/450/411/girl-baby-doll-baby-girl-preview.jpg"
+          ],
+          "blip_caption": "a photography of a little girl kissing a doll with a doll in her lap",
+          "query": "smiling child toy",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D5:12",
+        "speaker": "Maria",
+        "text": "That's nice of you, John. What's the photo about?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:13",
+        "speaker": "John",
+        "text": "It reminds me of something from my childhood. I had a little doll like this and it always made me feel better. It reminds me to always look out for others, especially when they're feeling down.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:14",
+        "speaker": "Maria",
+        "text": "That's sweet. Spreading kindness and support can really make a difference, especially when someone is feeling down. Thanks for sharing.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:15",
+        "speaker": "John",
+        "text": "No problem, Maria. It's important to support each other when we're feeling down. You never know the difference a kind gesture can make.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:16",
+        "speaker": "Maria",
+        "text": "Yep, kindness is key and a little compassion can really turn someone's day around. So glad we're on the same page here.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_6::episode-002",
+    "conversation_id": "conv-41",
+    "session_id": "session_6",
+    "observed_at": "2023-02-05T14:33:00",
+    "source_timestamp": "2:33 pm on 5 February, 2023",
+    "timezone_status": "unspecified",
+    "theme": "John discusses his political motivations and they talk about helping a specific individual in need",
+    "turns": [
+      {
+        "turn_id": "D6:4",
+        "speaker": "John",
+        "text": "I feel a strong urge to serve my country and community. Running for office was my chance to make an impact. But anyway, tell me more about your charity event. Did something special happen that made it meaningful for you?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:5",
+        "speaker": "Maria",
+        "text": "Yeah, at the event, I had a conversation with someone named David. Hearing his story of hardship and how he ended up in difficult circumstances was so humbling. It just showed me that everyone has their own story and deserves understanding.",
+        "metadata": {
+          "blip_caption": "a photo of a man with a cell phone in his hand"
+        }
+      },
+      {
+        "turn_id": "D6:6",
+        "speaker": "John",
+        "text": "Wow, that's powerful. It just shows that everyone has their own story and deserves understanding. Do you know any organizations or services that could help him out?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:7",
+        "speaker": "Maria",
+        "text": "Yeah, I did. I talked to him afterwards and linked him up with a nearby organization that offers housing and support for homeless individuals. Hopefully, he'll find the help he needs.",
+        "metadata": {
+          "blip_caption": "a photo of a flyer with a group of people in a circle"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_19::episode-001",
+    "conversation_id": "conv-41",
+    "session_id": "session_19",
+    "observed_at": "2023-06-16T19:20:00",
+    "source_timestamp": "7:20 pm on 16 June, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Maria and John discuss their fitness routines and goals",
+    "turns": [
+      {
+        "turn_id": "D19:1",
+        "speaker": "Maria",
+        "text": "Hey John, been good since we talked? I got some great news to share - I joined a gym last week! It's been super positive - I'm sticking to my workout routine and the people are awesome. The atmosphere is so welcoming.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:2",
+        "speaker": "John",
+        "text": "Congrats, Maria! Sounds like it's been a great experience. Having a positive environment and supportive people can really help with motivation, right? So, do you have any fitness goals in mind?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:3",
+        "speaker": "Maria",
+        "text": "Thanks, John! Yeah, it's been awesome. I want to get stronger and improve my endurance, and I'm trying kundalini yoga. What about you? Do you have any goals or activities you want to try?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:4",
+        "speaker": "John",
+        "text": "Nice one, Maria! Staying in shape is important to me too. I'm trying out different workout regimes lately. Rock climbing sounds like a fun way to push my limits, have you ever given it a go?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:5",
+        "speaker": "Maria",
+        "text": "No, I haven't tried it yet. But it sounds like a great way to push yourself. Let me know how it goes if you give it a shot!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_19::episode-004",
+    "conversation_id": "conv-41",
+    "session_id": "session_19",
+    "observed_at": "2023-06-16T19:20:00",
+    "source_timestamp": "7:20 pm on 16 June, 2023",
+    "timezone_status": "unspecified",
+    "theme": "They reminisce about memorable beach vacations with family",
+    "turns": [
+      {
+        "turn_id": "D19:22",
+        "speaker": "John",
+        "text": "Yeah, Maria. Taking time off for ourselves and our fam is so important. It helps us stay connected and appreciate the simple things. That beach pic you shared reminded me of a special vacation we had to California- a gorgeous sunset and an awesome night strolling the shore, creating memories together. Do you have any special beach memories you'd like to share?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:23",
+        "speaker": "Maria",
+        "text": "Yeah, John! I have a picture from a vacation in Florida. The colors were amazing, and I had a feeling of gratitude just sitting there with my family. It's in moments like these we make the best memories, ya know?",
+        "metadata": {
+          "img_url": [
+            "https://live.staticflickr.com/3448/3279695354_16a66b5258_b.jpg"
+          ],
+          "blip_caption": "a photography of a sunset over a body of water with a bird flying in the distance",
+          "query": "beach sunset",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D19:24",
+        "speaker": "John",
+        "text": "Wow, Maria! That photo is so stunning. The colors there are so vivid - it must have been amazing! Trips like these are great - always full of amazing memories! Here's one from our vacation!",
+        "metadata": {
+          "img_url": [
+            "https://hips.hearstapps.com/hmg-prod/images/siblings-enjoying-in-sea-against-sky-royalty-free-image-1650652626.jpg"
+          ],
+          "blip_caption": "a photo of two children playing in the ocean waves",
+          "query": "beach vacation family"
+        }
+      },
+      {
+        "turn_id": "D19:25",
+        "speaker": "Maria",
+        "text": "Thanks, John. That picture is so cute! The kids look so happy splashing in the waves. It must have been such a joyful and carefree time!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:26",
+        "speaker": "John",
+        "text": "Yep, it was amazing. Enjoying these special family times is why life is great. Talk to you soon!",
+        "metadata": {
+          "blip_caption": "a photo of a football stadium with a lot of people"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_20::episode-001",
+    "conversation_id": "conv-41",
+    "session_id": "session_20",
+    "observed_at": "2023-06-27T00:21:00",
+    "source_timestamp": "12:21 am on 27 June, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Maria shares personal struggles and family support",
+    "turns": [
+      {
+        "turn_id": "D20:1",
+        "speaker": "Maria",
+        "text": "Hey John, long time no talk! A lot has happened since then. I've been struggling, but I'm focusing on the positive and relying on my friends and fam for support.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D20:2",
+        "speaker": "John",
+        "text": "Hey Maria, sorry to hear that. That's rough, but it's great that you're focusing on the positive. Having support from your loved ones can make a big difference. How have they been helping you out?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D20:3",
+        "speaker": "Maria",
+        "text": "Hey John, thanks. My family has been there for me all the way. They've been my rock, giving me words of encouragement and reminding me I'm not alone. It's a relief to have their support.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_21::episode-001",
+    "conversation_id": "conv-41",
+    "session_id": "session_21",
+    "observed_at": "2023-07-03T20:43:00",
+    "source_timestamp": "8:43 pm on 3 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Maria shares update about kids at shelter and a recent car accident",
+    "turns": [
+      {
+        "turn_id": "D21:1",
+        "speaker": "Maria",
+        "text": "Hey John, long time no see! Sorry I didn't get back to you sooner... So much has happened! Check out these kids I met at the shelter!",
+        "metadata": {
+          "img_url": [
+            "https://cdn.newswire.com/files/x/4b/eb/ec85ef6a588e010a38e5f40feeab.jpg"
+          ],
+          "blip_caption": "a photo of three children sitting on a step smiling",
+          "query": "group children shelter smiling"
+        }
+      },
+      {
+        "turn_id": "D21:2",
+        "speaker": "John",
+        "text": "Hey Maria! Good to hear from you. Those little ones are adorable, any updates on them? How have you been?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D21:3",
+        "speaker": "Maria",
+        "text": "Hey John! They were great, their smiles warmed my heart. But something not so great happened yesterday...",
+        "metadata": {
+          "img_url": [
+            "https://i2.pickpik.com/photos/866/469/190/crash-car-car-crash-accident-preview.jpg"
+          ],
+          "blip_caption": "a photography of a car that has been damaged and is sitting on a flatbed",
+          "query": "broken car homeless shelter kids",
+          "re-download": true
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_21::episode-002",
+    "conversation_id": "conv-41",
+    "session_id": "session_21",
+    "observed_at": "2023-07-03T20:43:00",
+    "source_timestamp": "8:43 pm on 3 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Discussion about helping Maria's cousin find a new home",
+    "turns": [
+      {
+        "turn_id": "D21:4",
+        "speaker": "John",
+        "text": "That's so sad. Can I do anything to help? What happened?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D21:5",
+        "speaker": "Maria",
+        "text": "A car ran a red light and hit us, but thankfully everyone is okay. Besides that, my cousin just had a tough time recently, so I'm lending a hand in helping her find a new place.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D21:6",
+        "speaker": "John",
+        "text": "That's really nice of you. It's important to help family during hard times. How is she doing now?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D21:7",
+        "speaker": "Maria",
+        "text": "Things have been tough for her lately. She had to leave and find a new place in a hurry, which has been really stressful, but she's making progress.",
+        "metadata": {
+          "img_url": [
+            "https://cdngeneral.rentcafe.com/dmslivecafe/3/524478/1(2).jpg"
+          ],
+          "blip_caption": "a photo of a row of houses with a sidewalk and trees",
+          "query": "apartments for rent list"
+        }
+      },
+      {
+        "turn_id": "D21:8",
+        "speaker": "John",
+        "text": "The houses look real nice. Hopefully, she finds a cozy spot soon.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D21:9",
+        "speaker": "Maria",
+        "text": "Yeah, that's important. A safe home is key.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_22::episode-005",
+    "conversation_id": "conv-41",
+    "session_id": "session_22",
+    "observed_at": "2023-07-05T18:59:00",
+    "source_timestamp": "6:59 pm on 5 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Concluding the conversation with well wishes and goodbyes",
+    "turns": [
+      {
+        "turn_id": "D22:19",
+        "speaker": "John",
+        "text": "Thanks, Maria. Appreciate it. Great talking to you. Gotta go. Stay safe and chat soon!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D22:20",
+        "speaker": "Maria",
+        "text": "Hey John, stay safe. Chat soon!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D22:21",
+        "speaker": "John",
+        "text": "Take care, Maria. Catch you soon!",
+        "metadata": {}
+      }
+    ]
+  }
+]

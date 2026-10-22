@@ -1,0 +1,10 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Caroline",
+      "property": "18th_birthday_date",
+      "search": "standalone evidence search"
+    }
+  ]
+}

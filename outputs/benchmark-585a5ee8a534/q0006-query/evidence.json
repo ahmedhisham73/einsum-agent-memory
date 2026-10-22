@@ -1,0 +1,708 @@
+[
+  {
+    "episode_id": "conv-41::session_2::episode-002",
+    "conversation_id": "conv-41",
+    "session_id": "session_2",
+    "observed_at": "2022-12-22T18:10:00",
+    "source_timestamp": "6:10 pm on 22 December, 2022",
+    "timezone_status": "unspecified",
+    "theme": "John shares family photo and reflects on family support and love",
+    "turns": [
+      {
+        "turn_id": "D2:10",
+        "speaker": "John",
+        "text": "Thanks a lot, Maria. Your help is really motivating and makes me more determined. Here's a pic of my family - they're the reason why I never give up. Their love gives me strength.",
+        "metadata": {
+          "img_url": [
+            "https://images.pexels.com/photos/5119595/pexels-photo-5119595.jpeg"
+          ],
+          "blip_caption": "a photography of a family having a picnic in the park",
+          "query": "family smiling hugging",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D2:11",
+        "speaker": "Maria",
+        "text": "Wow, John, that's a great pic! Your family looks so cheerful and loving. It's wonderful to have such a supportive and loving family.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:12",
+        "speaker": "John",
+        "text": "Thanks, Maria. They really help me stay centered. They remind me why I'm so passionate about making a positive impact.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:13",
+        "speaker": "Maria",
+        "text": "Family's love really grounds us and gives us strength. Their support certainly boosts your motivation.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_3::episode-002",
+    "conversation_id": "conv-41",
+    "session_id": "session_3",
+    "observed_at": "2023-01-01T20:30:00",
+    "source_timestamp": "8:30 pm on 1 January, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Support for John during personal challenges and appreciation of nature",
+    "turns": [
+      {
+        "turn_id": "D3:11",
+        "speaker": "John",
+        "text": "Thanks, Maria! I really appreciate your support, It means a lot to me. Especially after I failed the military aptitude test recently, I've been feeling a bit stressed out.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:12",
+        "speaker": "Maria",
+        "text": "No worries, John. I'm here for you and I got your back. Nature's beauty reminds me to slow down and enjoy the small stuff.",
+        "metadata": {
+          "img_url": [
+            "https://images.pexels.com/photos/10815424/pexels-photo-10815424.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-beyza-erdem-10815424.jpg"
+          ],
+          "blip_caption": "a photo of a sunset over the ocean with a wave coming in",
+          "query": "sunset ocean beauty nature"
+        }
+      },
+      {
+        "turn_id": "D3:13",
+        "speaker": "John",
+        "text": "That's a chill pic! Where did you find it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:14",
+        "speaker": "Maria",
+        "text": "I took it at the beach last month. Watching the sunset was so peaceful, it made me feel connected to nature and appreciate life's small moments.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:15",
+        "speaker": "John",
+        "text": "Wow, nature can be so beautiful! It reminds me of the film camera I had as a kid, I took plenty of beach pics. Thanks for sharing.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:16",
+        "speaker": "Maria",
+        "text": "Glad you enjoyed it, John! It's amazing how beautiful it can be.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:17",
+        "speaker": "John",
+        "text": "Yeah, it does. It helps us remember the small joys, especially when life gets busy.",
+        "metadata": {
+          "blip_caption": "a photo of a group of people standing around a field"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_10::episode-002",
+    "conversation_id": "conv-41",
+    "session_id": "session_10",
+    "observed_at": "2023-04-07T00:24:00",
+    "source_timestamp": "12:24 am on 7 April, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Maria's participation in a charity 5K run",
+    "turns": [
+      {
+        "turn_id": "D10:9",
+        "speaker": "John",
+        "text": "Thanks, Maria! I'm gonna keep it up. Not only for the physical benefits, but also for the peace of mind and mindfulness it brings. It's part of my daily routine now. Have you tried anything new lately that's had an impact on you?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:10",
+        "speaker": "Maria",
+        "text": "Last weekend I did something new that had an impact on me. I participated in a 5K charity run for a homeless shelter. It was awesome being surrounded by people all there for the same cause. There's something special about the energy and sense of unity. It was truly rewarding and reminded me why I'm passionate about charity work.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:11",
+        "speaker": "John",
+        "text": "Wow, Maria! It sounds awesome. I bet you felt so pumped running with everyone for the same cause. Events like these really energize us and remind us we can make a difference. Any pictures from the event?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:12",
+        "speaker": "Maria",
+        "text": "Here's a pic from the event! The energy was great, it was inspiring seeing everyone come together for a shared cause. It was awesome!",
+        "metadata": {
+          "img_url": [
+            "https://blog.myfitnesspal.com/wp-content/uploads/2019/06/8-Charity-Walking-Events-That-Give-Your-Steps-Extra-Meaning-1200x900.jpg"
+          ],
+          "blip_caption": "a photo of a large group of people walking down a street",
+          "query": "charity event running group of people"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_13::episode-004",
+    "conversation_id": "conv-41",
+    "session_id": "session_13",
+    "observed_at": "2023-05-04T15:18:00",
+    "source_timestamp": "3:18 pm on 4 May, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Maria discusses self-care, balance, and reflective solo trip to Spain",
+    "turns": [
+      {
+        "turn_id": "D13:20",
+        "speaker": "Maria",
+        "text": "Taking care of myself physically, emotionally, and mentally helps me. That includes things like exercise, music, and spending time with loved ones. It really helps me stay positive.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D13:21",
+        "speaker": "John",
+        "text": "Awesome, Maria! Taking care of ourselves and looking out for our well-being is key. Finding balance like you mentioned helps us out a lot.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D13:22",
+        "speaker": "Maria",
+        "text": "Yeah John, it's super important. Taking care of yourself helps us be strong for life's tough times - I learned that the hard way last year.",
+        "metadata": {
+          "img_url": [
+            "https://images.pexels.com/photos/1974521/pexels-photo-1974521.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-julia-kuzenkov-1974521.jpg"
+          ],
+          "blip_caption": "a photo of a beach with footprints in the sand and a blue sky",
+          "query": "sunrise beach"
+        }
+      },
+      {
+        "turn_id": "D13:23",
+        "speaker": "John",
+        "text": "That looks interesting. What's the story behind the picture?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D13:24",
+        "speaker": "Maria",
+        "text": "Last year I took a solo trip and took this pic in Spain. It reminded me that life is hard but there's still hope and beauty. It made me realize the importance of relying on my inner strength and appreciating small moments even more.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D13:25",
+        "speaker": "John",
+        "text": "That's a great pic, Maria. Yeah, life can be tough but finding beauty in the world can really make a difference. It sounds like your solo trip was a transformative experience.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_13::episode-005",
+    "conversation_id": "conv-41",
+    "session_id": "session_13",
+    "observed_at": "2023-05-04T15:18:00",
+    "source_timestamp": "3:18 pm on 4 May, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Maria’s learnings from solitude and trying new activities like surfing",
+    "turns": [
+      {
+        "turn_id": "D13:26",
+        "speaker": "Maria",
+        "text": "Yeah, it was great. It helped me grow and made me appreciate life more. Taking a step back can really show us the beauty of life.",
+        "metadata": {
+          "img_url": [
+            "https://images.pexels.com/photos/11663179/pexels-photo-11663179.jpeg?cs\\u003dsrgb\\u0026dl\\u003dpexels-serhat-tu%C4%9F-11663179.jpg"
+          ],
+          "blip_caption": "a photo of a small island with a lone boat in the water",
+          "query": "sunrise calm lake"
+        }
+      },
+      {
+        "turn_id": "D13:27",
+        "speaker": "John",
+        "text": "Wow, Maria, that's a really nice picture! Did you learn anything meaningful during your trip?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D13:28",
+        "speaker": "Maria",
+        "text": "Yeah, I realized that it's important to value different perspectives and the power of solitude. Plus, it reminded me of the importance of letting go and trusting life sometimes.",
+        "metadata": {
+          "img_url": [
+            "https://i.pinimg.com/originals/c8/d6/bc/c8d6bc6ad3b08172bdbc1665f3ed080b.jpg"
+          ],
+          "blip_caption": "a photo of a person walking on the beach with a surfboard",
+          "query": "sunset ocean"
+        }
+      },
+      {
+        "turn_id": "D13:29",
+        "speaker": "John",
+        "text": "The pic takes me back. Did you try anything new on your vacation?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D13:30",
+        "speaker": "Maria",
+        "text": "Yeah, I did! I tried my hand at surfing for the first time- it was so exciting! Even though I kept falling off, it taught me the power of not giving up and trying new things.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_18::episode-001",
+    "conversation_id": "conv-41",
+    "session_id": "session_18",
+    "observed_at": "2023-06-12T14:47:00",
+    "source_timestamp": "2:47 pm on 12 June, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Sharing recent outdoor adventures and coping with loss",
+    "turns": [
+      {
+        "turn_id": "D18:1",
+        "speaker": "Maria",
+        "text": "Hey John, how're you doing? I'm sorry about Max. Losing a pet is tough. Some friends from church and I went camping last weekend - it was a blast! Just something nice to take my mind off things. Anything fun in your life lately?",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/zcnesiymmou91.jpg"
+          ],
+          "blip_caption": "a photo of a group of men sitting around a campfire",
+          "query": "camping trip friends"
+        }
+      },
+      {
+        "turn_id": "D18:2",
+        "speaker": "John",
+        "text": "Hey Maria, thanks for your kind words. It's still tough, but I'm finding some comfort in the good memories. Wow, your camping trip sounds awesome! I went on a mountaineering trip last week with some workmates. It was great and helped clear my head. Anything else cool happening in your life?",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/q33cupol6fm51.jpg"
+          ],
+          "blip_caption": "a photo of a man standing on top of a mountain with a backpack",
+          "query": "mountaineering expedition standing on mountain peak"
+        }
+      },
+      {
+        "turn_id": "D18:3",
+        "speaker": "Maria",
+        "text": "Glad you're finding comfort, John. That mountaineering trip sounds amazing. Did you reach the summit? When I was younger, my family and I went on a road trip to Oregon.",
+        "metadata": {
+          "img_url": [
+            "https://fundiegofamily.com/wp-content/uploads/2019/10/grandcanyon1.jpg"
+          ],
+          "blip_caption": "a photo of a person standing on a cliff overlooking a canyon",
+          "query": "hiking trail beautiful scenery grand canyon road trip"
+        }
+      },
+      {
+        "turn_id": "D18:4",
+        "speaker": "John",
+        "text": "Thanks, Maria! Yeah, we made it to the top and the view was stunning. It was tough but awesome. Your family trip must have been great too, right? What was the prettiest spot?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_18::episode-002",
+    "conversation_id": "conv-41",
+    "session_id": "session_18",
+    "observed_at": "2023-06-12T14:47:00",
+    "source_timestamp": "2:47 pm on 12 June, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Describing a memorable nature experience and its calming effects",
+    "turns": [
+      {
+        "turn_id": "D18:5",
+        "speaker": "Maria",
+        "text": "Hiking to the top and seeing this was awesome! Breath-taking.",
+        "metadata": {
+          "img_url": [
+            "https://everydayrunaway.com/wp-content/uploads/2016/08/20140323-multnomahfalls.jpg"
+          ],
+          "blip_caption": "a photo of a waterfall with a bridge over it",
+          "query": "hiking trail waterfall"
+        }
+      },
+      {
+        "turn_id": "D18:6",
+        "speaker": "John",
+        "text": "Wow, Maria! That waterfall and bridge look amazing! What a view. How was it being there?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:7",
+        "speaker": "Maria",
+        "text": "I felt like I was in a fairy tale! The water sounded so calming and the surroundings were beautiful. It was truly magical!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:8",
+        "speaker": "John",
+        "text": "Wow, Maria, that sounds awesome! It seems like nature has a way of calming us down, huh?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:9",
+        "speaker": "Maria",
+        "text": "Yeah, it's like a natural soul-soother when things get tough.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_18::episode-004",
+    "conversation_id": "conv-41",
+    "session_id": "session_18",
+    "observed_at": "2023-06-12T14:47:00",
+    "source_timestamp": "2:47 pm on 12 June, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Finding personal peace through yoga and relaxation techniques",
+    "turns": [
+      {
+        "turn_id": "D18:14",
+        "speaker": "John",
+        "text": "Yeah, Maria. It's important to appreciate the small things and find moments of peace amidst chaos. Nature really helps with that. How about you? How do you find peaceful moments?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:15",
+        "speaker": "Maria",
+        "text": "Finding my Zen is a mix of things - a moment to myself plus favorite tunes is usually enough. I also enjoy aerial yoga, it's a great way to switch off and focus on my body.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:16",
+        "speaker": "John",
+        "text": "Cool, Maria! Glad you found something that gives you some peace. Do you have a favorite yoga pose?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:17",
+        "speaker": "Maria",
+        "text": "Thanks, John! It's tough to pick just one, but I really enjoy the upside-down poses. They make me feel free and light.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:18",
+        "speaker": "John",
+        "text": "Wow, Maria, that sounds awesome! I can imagine that must be challenging, but it's great to see you embracing them. Keep up the amazing work!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:19",
+        "speaker": "Maria",
+        "text": "Thanks, John! It can be tough, but aerial yoga is totally worth it. I love the freedom and connection it brings. Appreciate your support!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_19::episode-004",
+    "conversation_id": "conv-41",
+    "session_id": "session_19",
+    "observed_at": "2023-06-16T19:20:00",
+    "source_timestamp": "7:20 pm on 16 June, 2023",
+    "timezone_status": "unspecified",
+    "theme": "They reminisce about memorable beach vacations with family",
+    "turns": [
+      {
+        "turn_id": "D19:22",
+        "speaker": "John",
+        "text": "Yeah, Maria. Taking time off for ourselves and our fam is so important. It helps us stay connected and appreciate the simple things. That beach pic you shared reminded me of a special vacation we had to California- a gorgeous sunset and an awesome night strolling the shore, creating memories together. Do you have any special beach memories you'd like to share?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:23",
+        "speaker": "Maria",
+        "text": "Yeah, John! I have a picture from a vacation in Florida. The colors were amazing, and I had a feeling of gratitude just sitting there with my family. It's in moments like these we make the best memories, ya know?",
+        "metadata": {
+          "img_url": [
+            "https://live.staticflickr.com/3448/3279695354_16a66b5258_b.jpg"
+          ],
+          "blip_caption": "a photography of a sunset over a body of water with a bird flying in the distance",
+          "query": "beach sunset",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D19:24",
+        "speaker": "John",
+        "text": "Wow, Maria! That photo is so stunning. The colors there are so vivid - it must have been amazing! Trips like these are great - always full of amazing memories! Here's one from our vacation!",
+        "metadata": {
+          "img_url": [
+            "https://hips.hearstapps.com/hmg-prod/images/siblings-enjoying-in-sea-against-sky-royalty-free-image-1650652626.jpg"
+          ],
+          "blip_caption": "a photo of two children playing in the ocean waves",
+          "query": "beach vacation family"
+        }
+      },
+      {
+        "turn_id": "D19:25",
+        "speaker": "Maria",
+        "text": "Thanks, John. That picture is so cute! The kids look so happy splashing in the waves. It must have been such a joyful and carefree time!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:26",
+        "speaker": "John",
+        "text": "Yep, it was amazing. Enjoying these special family times is why life is great. Talk to you soon!",
+        "metadata": {
+          "blip_caption": "a photo of a football stadium with a lot of people"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_21::episode-001",
+    "conversation_id": "conv-41",
+    "session_id": "session_21",
+    "observed_at": "2023-07-03T20:43:00",
+    "source_timestamp": "8:43 pm on 3 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Maria shares update about kids at shelter and a recent car accident",
+    "turns": [
+      {
+        "turn_id": "D21:1",
+        "speaker": "Maria",
+        "text": "Hey John, long time no see! Sorry I didn't get back to you sooner... So much has happened! Check out these kids I met at the shelter!",
+        "metadata": {
+          "img_url": [
+            "https://cdn.newswire.com/files/x/4b/eb/ec85ef6a588e010a38e5f40feeab.jpg"
+          ],
+          "blip_caption": "a photo of three children sitting on a step smiling",
+          "query": "group children shelter smiling"
+        }
+      },
+      {
+        "turn_id": "D21:2",
+        "speaker": "John",
+        "text": "Hey Maria! Good to hear from you. Those little ones are adorable, any updates on them? How have you been?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D21:3",
+        "speaker": "Maria",
+        "text": "Hey John! They were great, their smiles warmed my heart. But something not so great happened yesterday...",
+        "metadata": {
+          "img_url": [
+            "https://i2.pickpik.com/photos/866/469/190/crash-car-car-crash-accident-preview.jpg"
+          ],
+          "blip_caption": "a photography of a car that has been damaged and is sitting on a flatbed",
+          "query": "broken car homeless shelter kids",
+          "re-download": true
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_22::episode-004",
+    "conversation_id": "conv-41",
+    "session_id": "session_22",
+    "observed_at": "2023-07-05T18:59:00",
+    "source_timestamp": "6:59 pm on 5 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Appreciation of nature and the calming effect of walks and sunsets",
+    "turns": [
+      {
+        "turn_id": "D22:15",
+        "speaker": "John",
+        "text": "Yeah, Maria. Little things like this can make a big impact in how we think. Oh, and here's a pic I got from my walk last week. It always reminds me to take a break, breathe, and appreciate nature.",
+        "metadata": {
+          "img_url": [
+            "https://get.pxhere.com/photo/beach-landscape-sea-coast-water-sand-ocean-horizon-cloud-sky-sun-sunrise-sunset-shore-wave-dawn-dusk-evening-relax-paradise-tropical-peaceful-blue-colorful-body-of-water-clouds-afterglow-sunset-beach-gulf-of-mexico-wind-wave-515918.jpg"
+          ],
+          "blip_caption": "a photo of a sunset over the ocean with a sailboat in the distance",
+          "query": "sunset beach colorful ocean"
+        }
+      },
+      {
+        "turn_id": "D22:16",
+        "speaker": "Maria",
+        "text": "That picture is amazing! The colors are so vibrant - really shows the calmness of the ocean. How often do you get to see sunsets like that on your walks?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D22:17",
+        "speaker": "John",
+        "text": "Thanks, Maria! I see them at least once a week. It's a good way to disconnect, think, and find peace in this crazy world.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D22:18",
+        "speaker": "Maria",
+        "text": "That's great practice, John. Taking time to detach and find peace is important in this crazy world. I've been taking regular \"me-time\" walks at the park nearby and It's made a big impact. Glad you have that to remind you.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_23::episode-003",
+    "conversation_id": "conv-41",
+    "session_id": "session_23",
+    "observed_at": "2023-07-07T18:29:00",
+    "source_timestamp": "6:29 pm on 7 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Maria ends conversation to go meet friends",
+    "turns": [
+      {
+        "turn_id": "D23:14",
+        "speaker": "Maria",
+        "text": "For sure! We can keep doing great stuff and making a difference. Well, I'm off to have dinner with some friends from the gym. Talk to you later!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_24::episode-002",
+    "conversation_id": "conv-41",
+    "session_id": "session_24",
+    "observed_at": "2023-07-17T15:34:00",
+    "source_timestamp": "3:34 pm on 17 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Casual conversation about recent fun activities and games",
+    "turns": [
+      {
+        "turn_id": "D24:5",
+        "speaker": "John",
+        "text": "Thanks, Maria! It's great to be part of this organization and work with such passionate people. We're like a family - always supporting each other. Do anything fun lately?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D24:6",
+        "speaker": "Maria",
+        "text": "Yeah, last weekend I had a picnic with some friends from church. We chilled under the trees, played games, and ate yummy food. It was great!",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/l77zoro8xt971.jpg"
+          ],
+          "blip_caption": "a photo of a picnic table with a drink, snacks and a cell phone",
+          "query": "picnic friends trees games food"
+        }
+      },
+      {
+        "turn_id": "D24:7",
+        "speaker": "John",
+        "text": "Looks fun! What games did you all play?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D24:8",
+        "speaker": "Maria",
+        "text": "Some fun ones like charades and a scavenger hunt. We all had a good laugh!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_25::episode-003",
+    "conversation_id": "conv-41",
+    "session_id": "session_25",
+    "observed_at": "2023-07-22T18:21:00",
+    "source_timestamp": "6:21 pm on 22 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Plans for future adventures and volunteering",
+    "turns": [
+      {
+        "turn_id": "D25:7",
+        "speaker": "John",
+        "text": "Wow, Maria, that sounds incredible! It's amazing how nature can make us feel so small and yet so connected to something greater. Do you have any plans for your next adventure yet?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D25:8",
+        "speaker": "Maria",
+        "text": "Gonna explore more and volunteer at shelters next month. Can't wait!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D25:9",
+        "speaker": "John",
+        "text": "Woohoo, Maria! Super pumped for your next adventure and for putting your positivity out there. Keep up the awesome work!",
+        "metadata": {
+          "img_url": [
+            "https://images.squarespace-cdn.com/content/v1/637bc5e7223fbf2204465446/9afdd8b3-6eae-4655-b4b8-5844b1ec1163/20190304-tpi-severe-weather-shelter-volunteers-mn-12_40329508153_o_0.jpg"
+          ],
+          "blip_caption": "a photo of two women standing in a room full of black mats",
+          "query": "volunteer orientation shelter"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_31::episode-002",
+    "conversation_id": "conv-41",
+    "session_id": "session_31",
+    "observed_at": "2023-08-13T15:14:00",
+    "source_timestamp": "3:14 pm on 13 August, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Conversation on mentoring program progress and joy of pets",
+    "turns": [
+      {
+        "turn_id": "D31:8",
+        "speaker": "Maria",
+        "text": "Yeah, John! Pets are great at making you feel loved. It's awesome having them around, they bring so much joy! How's everything going with the mentoring program? Are the students making progress?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D31:9",
+        "speaker": "John",
+        "text": "They're doing great - there's been a real improvement in their confidence and skills. It was so amazing to see one of them last week, so excited to show me their essay. It was a proud moment! How's your new pup doing, Maria?",
+        "metadata": {
+          "img_url": [
+            "https://createyourbalancewithliteracy.com/wp-content/uploads/2023/06/Science-Interactive-Notebook-6.jpg"
+          ],
+          "blip_caption": "a photo of a poster with a picture of a person and a child",
+          "query": "students mentoring program whiteboard project"
+        }
+      },
+      {
+        "turn_id": "D31:10",
+        "speaker": "Maria",
+        "text": "Awesome, John! Sounds like it's really making a difference. The little one is doing great - learning commands and house training.\n",
+        "metadata": {
+          "img_url": [
+            "https://hips.hearstapps.com/hmg-prod/images/side-view-of-young-man-training-his-dog-by-wall-royalty-free-image-717234545-1559064531.jpg"
+          ],
+          "blip_caption": "a photo of a man standing next to a dog pointing at something",
+          "query": "puppy new command training"
+        }
+      },
+      {
+        "turn_id": "D31:11",
+        "speaker": "John",
+        "text": "Wow, cool Maria! Your little one is so smart and keen to learn, must be awesome!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D31:12",
+        "speaker": "Maria",
+        "text": "She's an amazing learner - so much fun to work with and watch her grow. She's brought me so much joy!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D31:13",
+        "speaker": "John",
+        "text": "Animals are amazing— They can be incredible companions.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D31:14",
+        "speaker": "Maria",
+        "text": "Yeah, they can really comfort us and make us feel understood in ways others can't. It's amazing how they bring us so much happiness.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D31:15",
+        "speaker": "John",
+        "text": "Yeah, animals bring us peace and understanding, plus we can always count on them. That's so priceless.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D31:16",
+        "speaker": "Maria",
+        "text": "Absolutely, John. They're always there for us.",
+        "metadata": {}
+      }
+    ]
+  }
+]

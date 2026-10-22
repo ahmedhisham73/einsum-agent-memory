@@ -1,0 +1,30 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Maria",
+      "property": "made_friends_at",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Maria",
+      "property": "friendship_value",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Maria",
+      "property": "values_friendship_with",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Maria",
+      "property": "friend_of",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Maria",
+      "property": "relationship",
+      "search": "standalone evidence search"
+    }
+  ]
+}

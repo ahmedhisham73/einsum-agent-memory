@@ -1,0 +1,10 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Melanie",
+      "property": "realization_after_charity_race",
+      "search": "Melanie realization charity race"
+    }
+  ]
+}

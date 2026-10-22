@@ -1,0 +1,40 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Caroline",
+      "property": "career_interest",
+      "search": "evidence of Caroline's interest in writing as a career"
+    },
+    {
+      "entity": "Caroline",
+      "property": "career_goal_interest",
+      "search": "evidence of Caroline's career goals or interest that includes writing"
+    },
+    {
+      "entity": "Caroline",
+      "property": "intent",
+      "search": "evidence of Caroline's intentions regarding pursuing writing professionally"
+    },
+    {
+      "entity": "Caroline",
+      "property": "plans",
+      "search": "evidence of Caroline's plans that might include writing as a career option"
+    },
+    {
+      "entity": "Caroline",
+      "property": "motivation_for_career_choice",
+      "search": "evidence of Caroline's motivations for choosing writing or a creative career"
+    },
+    {
+      "entity": "",
+      "property": "action",
+      "search": "evidence of actual actions taken by Caroline towards a writing career"
+    },
+    {
+      "entity": "Caroline",
+      "property": "expresses_anticipation",
+      "search": "evidence of Caroline expressing anticipation or future outlook about a writing career"
+    }
+  ]
+}

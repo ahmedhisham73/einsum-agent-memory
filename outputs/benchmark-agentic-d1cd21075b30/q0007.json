@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-30::q0007",
+  "category": 2,
+  "question": "When is Jon's group performing at a festival?",
+  "gold_answer": "February, 2023",
+  "status": "scored",
+  "generated_answer": "Jon's group is performing at a nearby festival next month from the conversation dated 4:04 pm on 20 January, 2023.",
+  "citations": [
+    {
+      "episode_id": "conv-30::session_1::chunk-0020",
+      "turn_id": "D1:24"
+    }
+  ],
+  "query_elapsed_seconds": 5.731455042,
+  "label": "WRONG",
+  "judge_reason": "The generated answer provides a performance date in 'next month' relative to January, which would indicate February, but does not explicitly confirm the date as February 2023, as requested."
+}

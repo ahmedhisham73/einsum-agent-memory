@@ -1,0 +1,10 @@
+{
+  "scope": "all_matching",
+  "requirements": [
+    {
+      "entity": "Melanie",
+      "property": "read_book",
+      "search": "identify every book Melanie has read from all available sources"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-30::q0004",
+  "category": 1,
+  "question": "What do Jon and Gina both have in common?",
+  "gold_answer": "They lost their jobs and decided to start their own businesses.",
+  "status": "failed",
+  "error": "Query failed. See q0004.log"
+}

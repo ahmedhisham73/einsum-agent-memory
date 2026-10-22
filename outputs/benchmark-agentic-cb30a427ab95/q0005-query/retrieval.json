@@ -1,0 +1,21 @@
+[
+  {
+    "query": "John join online support group",
+    "returned_chunk_ids": [
+      "conv-41::session_14::chunk-0005",
+      "conv-41::session_23::chunk-0005",
+      "conv-41::session_27::chunk-0000",
+      "conv-41::session_28::chunk-0015",
+      "conv-41::session_3::chunk-0000",
+      "conv-41::session_9::chunk-0010"
+    ],
+    "cumulative_chunk_ids": [
+      "conv-41::session_14::chunk-0005",
+      "conv-41::session_23::chunk-0005",
+      "conv-41::session_27::chunk-0000",
+      "conv-41::session_28::chunk-0015",
+      "conv-41::session_3::chunk-0000",
+      "conv-41::session_9::chunk-0010"
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-30::q0002",
+  "category": 2,
+  "question": "When Gina has lost her job at Door Dash?",
+  "gold_answer": "January, 2023",
+  "status": "scored",
+  "generated_answer": "Gina lost her job at Door Dash in January 2023.",
+  "citations": [
+    {
+      "episode_id": "conv-30::session_1::episode-001",
+      "turn_id": "D1:3"
+    }
+  ],
+  "query_elapsed_seconds": 4.584269,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer provides the exact date when Gina lost her job, matching the reference answer."
+}

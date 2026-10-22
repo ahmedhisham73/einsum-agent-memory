@@ -1,0 +1,65 @@
+{
+  "question_id": "conv-26::q0040",
+  "category": 1,
+  "question": "In what ways is Caroline participating in the LGBTQ community?",
+  "gold_answer": "Joining activist group, going to pride parades, participating in an art show, mentoring program",
+  "status": "scored",
+  "generated_answer": "Caroline participates in the LGBTQ community in multiple ways: she attends LGBTQ support groups (D1:3), participates in pride parades (D5:1, D8:19, D11:4), and attends LGBTQ conferences (D7:1). She supports LGBTQ rights through advocacy by sharing her transgender journey at a school event to raise awareness and encourage involvement (D3:1-D3:7), and actively gives voice to the trans community. Caroline supports the community by mentoring transgender youth (D9:6) and volunteering at an LGBTQ+ youth center (D15:3, D15:5, D15:7). She expresses support by joining an LGBTQ activist group called 'Connected LGBTQ Activists' and participates in their meetings and campaigns (D10:3-D10:5). Caroline engages in advocacy focused on mental health and counseling for trans people, including attending LGBTQ+ counseling workshops and planning to pursue a career helping trans individuals with mental health (D4:13, D7:5, D7:7). She also organizes and participates in LGBTQ art shows to promote understanding and acceptance through art (D14:33-D14:35). Caroline shares her story publicly to inspire others and build community support (D3:1-D3:7, D15:5, D15:7). Overall, her membership includes affiliations with activist groups and participation in community events, counseling-focused workshops, and youth support networks, all contributing to community building and advocacy for LGBTQ rights and acceptance.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_1::episode-001",
+      "turn_id": "D1:3"
+    },
+    {
+      "episode_id": "conv-26::session_3::episode-001",
+      "turn_id": "D3:1"
+    },
+    {
+      "episode_id": "conv-26::session_3::episode-001",
+      "turn_id": "D3:3"
+    },
+    {
+      "episode_id": "conv-26::session_5::episode-001",
+      "turn_id": "D5:1"
+    },
+    {
+      "episode_id": "conv-26::session_7::episode-001",
+      "turn_id": "D7:1"
+    },
+    {
+      "episode_id": "conv-26::session_10::episode-001",
+      "turn_id": "D10:3"
+    },
+    {
+      "episode_id": "conv-26::session_10::episode-001",
+      "turn_id": "D10:5"
+    },
+    {
+      "episode_id": "conv-26::session_4::episode-003",
+      "turn_id": "D4:13"
+    },
+    {
+      "episode_id": "conv-26::session_9::episode-002",
+      "turn_id": "D9:6"
+    },
+    {
+      "episode_id": "conv-26::session_15::episode-001",
+      "turn_id": "D15:3"
+    },
+    {
+      "episode_id": "conv-26::session_15::episode-002",
+      "turn_id": "D15:5"
+    },
+    {
+      "episode_id": "conv-26::session_15::episode-002",
+      "turn_id": "D15:7"
+    },
+    {
+      "episode_id": "conv-26::session_14::episode-009",
+      "turn_id": "D14:33"
+    }
+  ],
+  "query_elapsed_seconds": 9.217630708,
+  "label": "WRONG",
+  "judge_reason": "The generated answer includes additional activities (support groups, conferences, mental health advocacy) not mentioned in the reference answer, and contradicts the requirement for only the ways listed in the reference."
+}

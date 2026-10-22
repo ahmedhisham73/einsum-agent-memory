@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-Ebs5vvttCL4VAQtxLH9lzrYWufAOp",
+  "object": "chat.completion",
+  "created": 1792694783,
+  "model": "gpt-4o-mini-2024-07-18",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\"label\":\"CORRECT\",\"reason\":\"The generated answer correctly states the date Caroline went to the LGBTQ support group as 7 May 2023, which matches the reference answer.\"}",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 174,
+    "completion_tokens": 37,
+    "total_tokens": 211,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_0e7150ae59"
+}

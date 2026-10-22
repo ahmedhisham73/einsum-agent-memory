@@ -1,0 +1,15 @@
+{
+  "scope": "all_matching",
+  "requirements": [
+    {
+      "entity": "Jean",
+      "property": "visited_place",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "John",
+      "property": "visited_place",
+      "search": "standalone evidence search"
+    }
+  ]
+}

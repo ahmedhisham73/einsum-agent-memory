@@ -1,0 +1,21 @@
+{
+  "question_id": "conv-26::q0097",
+  "category": 4,
+  "question": "What kind of counseling and mental health services is Caroline interested in pursuing?",
+  "gold_answer": "working with trans people, helping them accept themselves and supporting their mental health",
+  "status": "scored",
+  "generated_answer": "Caroline is interested in pursuing counseling and mental health services focused on supporting trans people, helping them accept themselves, and supporting their mental health. She has attended an LGBTQ+ counseling workshop to learn about therapeutic methods for working with trans people. Her motivation comes from her personal mental health journey and the positive impact that counseling and support groups had on her life.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_4::episode-003",
+      "turn_id": "D4:13"
+    },
+    {
+      "episode_id": "conv-26::session_4::episode-003",
+      "turn_id": "D4:15"
+    }
+  ],
+  "query_elapsed_seconds": 5.026304708,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer accurately captures the main focus of Caroline's interest in counseling and mental health services, which is working with trans people and supporting their mental health, as specified in the reference answer."
+}

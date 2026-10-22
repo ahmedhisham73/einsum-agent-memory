@@ -1,0 +1,277 @@
+[
+  {
+    "episode_id": "conv-41::session_1::chunk-0000",
+    "session_id": "session_1",
+    "observed_at": "2022-12-17T11:01:00",
+    "source_timestamp": "11:01 am on 17 December, 2022",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D1:1",
+        "speaker": "Maria",
+        "text": "Hey John! Long time no see! What's up?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:2",
+        "speaker": "John",
+        "text": "Hey Maria! Good to see you. Just got back from a family road trip yesterday, it was fun! Anything exciting happening for you?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:3",
+        "speaker": "Maria",
+        "text": "Been busy volunteering at the homeless shelter and keeping fit. Just started doing aerial yoga, it's great. Have you tried any other cool workout classes?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:4",
+        "speaker": "John",
+        "text": "Woah, Maria, that sounds cool! I'm doing kickboxing and it's giving me so much energy.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:5",
+        "speaker": "Maria",
+        "text": "Cool, John. Kickboxing is a perfect way to stay in shape and de-stress. Do you have any goals you're working towards?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:6",
+        "speaker": "John",
+        "text": "Yeah Maria, I'm really hoping to get into local politics. I love helping the community and making it a better place.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_10::chunk-0000",
+    "session_id": "session_10",
+    "observed_at": "2023-04-07T00:24:00",
+    "source_timestamp": "12:24 am on 7 April, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D10:1",
+        "speaker": "John",
+        "text": "Hey Maria, I'm so excited to tell you I started a weekend yoga class with a colleague - it's awesome! I feel great, both mentally and physically after each session. I'd been wanting to try yoga for a while and finally took the plunge. Simple stretching and breathing is having such a positive effect on my wellbeing. And the instructor is great too.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:2",
+        "speaker": "Maria",
+        "text": "Wow, John, glad to hear that! It's amazing how something like stretching and breathing can have such a positive effect on our wellbeing. What can you tell me about your instructor that makes them so great?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:3",
+        "speaker": "John",
+        "text": "They're awesome - they make sure we do the poses properly and encourage us to listen to our bodies. They create a great, relaxed environment that makes everyone feel welcome. Here's a photo from our last class.",
+        "metadata": {
+          "img_url": [
+            "https://images.pexels.com/photos/7721929/pexels-photo-7721929.jpeg"
+          ],
+          "blip_caption": "a photography of a man doing yoga outside on a blue mat",
+          "query": "yoga instructor relaxed yoga pose",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D10:4",
+        "speaker": "Maria",
+        "text": "Wow, that looks great! What kind of yoga is it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:5",
+        "speaker": "John",
+        "text": "It's a beginner yoga class, focusing on fundamentals like poses and breathing. I find it helps me relax and increase my flexibility.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:6",
+        "speaker": "Maria",
+        "text": "Nice one, John! Glad you're finding some chill with that. How are you feeling afterwards?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_13::chunk-0000",
+    "session_id": "session_13",
+    "observed_at": "2023-05-04T15:18:00",
+    "source_timestamp": "3:18 pm on 4 May, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D13:1",
+        "speaker": "John",
+        "text": "Hey Maria! Long time no see! Tons has gone down since then!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D13:2",
+        "speaker": "Maria",
+        "text": "Hey John! Nice to hear from you. What's new with you?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D13:3",
+        "speaker": "John",
+        "text": "I just started going to boot camps with my fam last month. It's good for bonding and getting fit.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D13:4",
+        "speaker": "Maria",
+        "text": "Sounds awesome, John! Working out together is a great way of bonding as a family. Have you noticed any changes in your fitness since you started?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D13:5",
+        "speaker": "John",
+        "text": "Yeah Maria! We've had lots more energy and noticed some gains in strength and endurance. We're pushing ourselves and supporting each other which is super motivating. Best of all, my kids are getting excited about staying active!",
+        "metadata": {
+          "blip_caption": "a photo of a white board with a list of workouts on it"
+        }
+      },
+      {
+        "turn_id": "D13:6",
+        "speaker": "Maria",
+        "text": "Great news John! It's important to teach them good habits early. How often do you all workout together?",
+        "metadata": {
+          "blip_caption": "a photo of a group of people standing around a table filled with food"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_25::chunk-0005",
+    "session_id": "session_25",
+    "observed_at": "2023-07-22T18:21:00",
+    "source_timestamp": "6:21 pm on 22 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D25:6",
+        "speaker": "Maria",
+        "text": "Thanks, John! Reaching the top was amazing - the view was breathtaking! Seeing how huge the world is made me feel like I'm part of something special - gave me a real sense of peace.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D25:7",
+        "speaker": "John",
+        "text": "Wow, Maria, that sounds incredible! It's amazing how nature can make us feel so small and yet so connected to something greater. Do you have any plans for your next adventure yet?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D25:8",
+        "speaker": "Maria",
+        "text": "Gonna explore more and volunteer at shelters next month. Can't wait!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D25:9",
+        "speaker": "John",
+        "text": "Woohoo, Maria! Super pumped for your next adventure and for putting your positivity out there. Keep up the awesome work!",
+        "metadata": {
+          "img_url": [
+            "https://images.squarespace-cdn.com/content/v1/637bc5e7223fbf2204465446/9afdd8b3-6eae-4655-b4b8-5844b1ec1163/20190304-tpi-severe-weather-shelter-volunteers-mn-12_40329508153_o_0.jpg"
+          ],
+          "blip_caption": "a photo of two women standing in a room full of black mats",
+          "query": "volunteer orientation shelter"
+        }
+      },
+      {
+        "turn_id": "D25:10",
+        "speaker": "Maria",
+        "text": "Thanks, John! Is it a martial arts place or a yoga studio? It looks awesome!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D25:11",
+        "speaker": "John",
+        "text": "Yup, it's a yoga studio I go to often. The vibe is really chill and the instructors are awesome.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_25::chunk-0010",
+    "session_id": "session_25",
+    "observed_at": "2023-07-22T18:21:00",
+    "source_timestamp": "6:21 pm on 22 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D25:12",
+        "speaker": "Maria",
+        "text": "Cool, John! That definitely makes the workout experience more enjoyable. Do they offer a variety of classes?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D25:13",
+        "speaker": "John",
+        "text": "Yeah, they offer a a bunch, like yoga, kickboxing, and circuit training. It keeps things interesting!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D25:14",
+        "speaker": "Maria",
+        "text": "Cool, John! Trying new classes sounds like a fun way to switch up your exercise routine - I should give it a go!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D25:15",
+        "speaker": "John",
+        "text": "Yeah, Maria! Trying new stuff is a great way to push yourself and mix things up. Let me know if you need any suggestions!",
+        "metadata": {
+          "img_url": [
+            "https://www.jewelyogapdx.com/wp-content/uploads/2015/02/home-join-us.jpg"
+          ],
+          "blip_caption": "a photo of a group of people doing yoga in a gym",
+          "query": "yoga class"
+        }
+      },
+      {
+        "turn_id": "D25:16",
+        "speaker": "Maria",
+        "text": "Looks fun! What other classes have you done?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_25::chunk-0015",
+    "session_id": "session_25",
+    "observed_at": "2023-07-22T18:21:00",
+    "source_timestamp": "6:21 pm on 22 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D25:17",
+        "speaker": "John",
+        "text": "I've done weight training so far too. It was challenging but peaceful, kinda like yoga.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D25:18",
+        "speaker": "Maria",
+        "text": "Wow, John! That's great. Yoga is a great way to relax and concentrate, and joining a new class might be a good option.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D25:19",
+        "speaker": "John",
+        "text": "Yeah, it's been great for me. Let me know if you need any advice to get started.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D25:20",
+        "speaker": "Maria",
+        "text": "Cheers, John! I'll let you know. I'm off to bake some cakes. Talk to you soon!",
+        "metadata": {}
+      }
+    ]
+  }
+]

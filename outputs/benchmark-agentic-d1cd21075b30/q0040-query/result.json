@@ -1,0 +1,27 @@
+{
+  "status": "completed",
+  "experiment_id": "q0040-query",
+  "memory_build": "offline-memory-48c46fbef6ca",
+  "baseline_build": "agentic-build-fa89622dfba7",
+  "question": "What is Gina's favorite style of dance?",
+  "answer": "Gina's favorite style of dance is contemporary dance.",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-30::session_1::chunk-0005",
+      "turn_id": "D1:9"
+    }
+  ],
+  "elapsed_seconds": 5.3877422909999995,
+  "stop_reason": "agent_ready",
+  "search_count": 1,
+  "selected_chunks": 6,
+  "unique_source_turns": 35,
+  "implementation": {
+    "chunk_turns": 6,
+    "overlap_turns": 1,
+    "top_k_per_search": 6,
+    "max_searches": 4,
+    "max_agent_decisions": 5
+  }
+}

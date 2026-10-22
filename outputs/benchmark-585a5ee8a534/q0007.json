@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-41::q0007",
+  "category": 1,
+  "question": "Where has Maria made friends?",
+  "gold_answer": "homeless shelter, gym, church",
+  "status": "failed",
+  "error": "Query failed. See q0007.log"
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "call_id": "77e4a95e-0507-4dcf-818e-940c1a6f728d",
+    "experiment_id": "benchmark-067917889f6e",
+    "approach": "ensimem",
+    "phase": "evaluation",
+    "stage": "answer_judging",
+    "provider": "openai",
+    "model": "gpt-4o-mini-2024-07-18",
+    "input_tokens": 179,
+    "output_tokens": 35,
+    "cached_input_tokens": 0,
+    "query_id": "conv-30::q0001",
+    "usage_kind": "generation",
+    "attempt": 1
+  }
+]

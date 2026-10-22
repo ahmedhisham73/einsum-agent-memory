@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-41::q0005",
+  "category": 2,
+  "question": "When did John join the online support group?",
+  "gold_answer": "The week before 1 January 2023",
+  "status": "scored",
+  "generated_answer": "John joined the online support group in the week before 8:30 pm on 1 January 2023.",
+  "citations": [
+    {
+      "episode_id": "conv-41::session_3::chunk-0000",
+      "turn_id": "D3:1"
+    }
+  ],
+  "query_elapsed_seconds": 5.647862917,
+  "label": "WRONG",
+  "judge_reason": "The generated answer specifies a time (8:30 pm) which is not in the reference answer and alters the meaning."
+}

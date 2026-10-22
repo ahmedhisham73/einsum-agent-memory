@@ -1,0 +1,10 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Mel and her husband",
+      "property": "marriage_duration",
+      "search": "evidence of how long Mel and her husband have been married"
+    }
+  ]
+}

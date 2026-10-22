@@ -1,0 +1,25 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Caroline",
+      "property": "favorite_childhood_book",
+      "search": "search for Caroline's favorite childhood book to see if Dr. Seuss books are mentioned"
+    },
+    {
+      "entity": "Caroline",
+      "property": "owns",
+      "search": "check if Caroline owns Dr. Seuss books"
+    },
+    {
+      "entity": "Caroline",
+      "property": "activities",
+      "search": "look for reading or book collecting activities or interests related to children's literature"
+    },
+    {
+      "entity": "Caroline",
+      "property": "children_interest",
+      "search": "find evidence of Caroline's interest in children's books or authors including Dr. Seuss"
+    }
+  ]
+}

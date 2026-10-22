@@ -1,0 +1,125 @@
+[
+  {
+    "stage": "agent_decision",
+    "call_id": "55d36589-e50a-45fb-a2cc-003a104b6f14",
+    "response": {
+      "id": "chatcmpl-EbsJH4UxgzhGM5aNpoUye4uQIyE59",
+      "object": "chat.completion",
+      "created": 1792695611,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"search\",\"query\":\"Jon's group performing festival date\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 14,
+        "total_tokens": 165,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_b64959fd61"
+    },
+    "latency_seconds": 1.1421166249999999
+  },
+  {
+    "stage": "agent_decision",
+    "call_id": "72581f0d-463e-408e-b7dd-cb440ce341ca",
+    "response": {
+      "id": "chatcmpl-EbsJJjaT6wz1X2BT7Q40tOfHsNfCZ",
+      "object": "chat.completion",
+      "created": 1792695613,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"ready\",\"reason\":\"Jon's group is performing at a nearby festival next month, as mentioned in the conversation on 20 January 2023.\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2197,
+        "completion_tokens": 33,
+        "total_tokens": 2230,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_b64959fd61"
+    },
+    "latency_seconds": 1.9268897919999994
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "447ff667-7634-460c-b67e-e2d3ef2ead52",
+    "response": {
+      "id": "chatcmpl-EbsJLzr4zvM7xuAjdRkAxI6EIQCun",
+      "object": "chat.completion",
+      "created": 1792695615,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Jon's group is performing at a nearby festival next month from the conversation dated 4:04 pm on 20 January, 2023.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-30::session_1::chunk-0020\",\"turn_id\":\"D1:24\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2086,
+        "completion_tokens": 66,
+        "total_tokens": 2152,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6a82cb19e8"
+    },
+    "latency_seconds": 1.9214413750000006
+  }
+]

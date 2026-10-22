@@ -1,0 +1,30 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Melanie's kids",
+      "property": "activities",
+      "search": "search for activities Melanie's kids engage in or enjoy"
+    },
+    {
+      "entity": "Melanie's kids",
+      "property": "activity_enjoyment",
+      "search": "search for mentions of activities Melanie's kids like or enjoy"
+    },
+    {
+      "entity": "Melanie's kids",
+      "property": "interest",
+      "search": "search for interests of Melanie's kids"
+    },
+    {
+      "entity": "Melanie's kids",
+      "property": "preference",
+      "search": "search for preferences or likes of Melanie's kids"
+    },
+    {
+      "entity": "Melanie's kids",
+      "property": "children_interest",
+      "search": "search for children's specific interests or likes relating to Melanie's kids"
+    }
+  ]
+}

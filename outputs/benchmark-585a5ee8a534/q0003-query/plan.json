@@ -1,0 +1,10 @@
+{
+  "scope": "all_matching",
+  "requirements": [
+    {
+      "entity": "John",
+      "property": "activity_type",
+      "search": "martial arts experienced or practiced by John"
+    }
+  ]
+}

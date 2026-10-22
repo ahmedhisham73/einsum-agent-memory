@@ -1,0 +1,35 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "school shown in the photo shared by John",
+      "property": "activity_effect",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "school shown in the photo shared by John",
+      "property": "improvement_effect",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "school shown in the photo shared by John",
+      "property": "support",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "school shown in the photo shared by John",
+      "property": "help_provided",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "school shown in the photo shared by John",
+      "property": "support_type",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "school shown in the photo shared by John",
+      "property": "benefit_from_class",
+      "search": "standalone evidence search"
+    }
+  ]
+}

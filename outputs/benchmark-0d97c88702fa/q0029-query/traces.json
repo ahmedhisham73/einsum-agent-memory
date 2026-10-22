@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "b68174ff-b94e-455f-b1fa-25f1a8eccba4",
+    "response": {
+      "id": "chatcmpl-EbsDZSBD5NMbySosFvbHQ3o7swnha",
+      "object": "chat.completion",
+      "created": 1792695257,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Caroline\",\"property\":\"attended_event\",\"search\":\"adoption meeting\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2680,
+        "completion_tokens": 26,
+        "total_tokens": 2706,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_f9f464a132"
+    },
+    "latency_seconds": 2.1647918749999997
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "b5c53644-c723-4c1f-9f02-f8571f07a601",
+    "response": {
+      "id": "chatcmpl-EbsDczPsHzETDnq1ewlbZdYho5hLI",
+      "object": "chat.completion",
+      "created": 1792695260,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Caroline went to the adoption meeting last Friday before 15 July 2023, as she said in the conversation on 15 July 2023 that she went to a council meeting for adoption last Friday.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_8::episode-002\",\"turn_id\":\"D8:9\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 4484,
+        "completion_tokens": 78,
+        "total_tokens": 4562,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6a82cb19e8"
+    },
+    "latency_seconds": 2.3752039170000003
+  }
+]

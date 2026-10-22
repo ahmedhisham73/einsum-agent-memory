@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-EbsInasPitnQo2X85WtZKpacLnK9s",
+  "object": "chat.completion",
+  "created": 1792695581,
+  "model": "gpt-4o-mini-2024-07-18",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\"label\":\"WRONG\",\"reason\":\"The generated answer introduces additional details about location and accessibility that are not present in the reference answer, which specifies only the location and features of the studio.\"}",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 196,
+    "completion_tokens": 39,
+    "total_tokens": 235,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_fa7dc80a62"
+}

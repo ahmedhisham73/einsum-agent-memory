@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-26::q0043",
+  "category": 3,
+  "question": "Would Melanie be more interested in going to a national park or a theme park?",
+  "gold_answer": "National park; she likes the outdoors",
+  "status": "failed",
+  "error": "Query failed. See q0043.log"
+}

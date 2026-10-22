@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "e72a896d-0d73-4146-a2cf-8234e9ba088a",
+    "response": {
+      "id": "chatcmpl-EbsMNfnWJ03InmJ4xDCOnXPkY7gLW",
+      "object": "chat.completion",
+      "created": 1792695803,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Maria\",\"property\":\"spent_time_with\",\"search\":\"evidence of dinner companions on May 3, 2023\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3712,
+        "completion_tokens": 35,
+        "total_tokens": 3747,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_58b0258a33"
+    },
+    "latency_seconds": 2.050454
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "9965bc42-5dcb-465d-843e-c56cf13b7686",
+    "response": {
+      "id": "chatcmpl-EbsMPYwJIIqdcZxS2TAMrlsq01CSz",
+      "object": "chat.completion",
+      "created": 1792695805,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Maria had dinner with her mom on May 3, 2023.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-41::session_13::episode-003\",\"turn_id\":\"D13:16\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2185,
+        "completion_tokens": 51,
+        "total_tokens": 2236,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6a82cb19e8"
+    },
+    "latency_seconds": 1.7019336659999995
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "question_id": "conv-26::q0020",
+  "category": 1,
+  "question": "What do Melanie's kids like?",
+  "gold_answer": "dinosaurs, nature",
+  "status": "scored",
+  "generated_answer": "Melanie's kids like a variety of activities including exploring nature, hiking, camping, roasting marshmallows around the campfire, visiting museums (especially enjoying the dinosaur exhibit), making pottery, painting nature-inspired artworks, playing games, going to the beach, and playing outdoors in parks. They enjoy creative and outdoor activities that involve family bonding and being in nature.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_3::episode-003",
+      "turn_id": "D3:20"
+    },
+    {
+      "episode_id": "conv-26::session_4::episode-002",
+      "turn_id": "D4:8"
+    },
+    {
+      "episode_id": "conv-26::session_6::episode-002",
+      "turn_id": "D6:4"
+    },
+    {
+      "episode_id": "conv-26::session_6::episode-002",
+      "turn_id": "D6:6"
+    },
+    {
+      "episode_id": "conv-26::session_8::episode-001",
+      "turn_id": "D8:2"
+    },
+    {
+      "episode_id": "conv-26::session_8::episode-001",
+      "turn_id": "D8:6"
+    },
+    {
+      "episode_id": "conv-26::session_10::episode-002",
+      "turn_id": "D10:8"
+    },
+    {
+      "episode_id": "conv-26::session_15::episode-001",
+      "turn_id": "D15:2"
+    },
+    {
+      "episode_id": "conv-26::session_18::episode-004",
+      "turn_id": "D18:17"
+    }
+  ],
+  "query_elapsed_seconds": 5.8986653339999995,
+  "label": "WRONG",
+  "judge_reason": "The generated answer expands on the kids' interests beyond the specific items asked for in the reference answer, and includes unsupported activities not mentioned as favorite pastimes."
+}

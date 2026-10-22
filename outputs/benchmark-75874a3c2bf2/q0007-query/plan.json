@@ -1,0 +1,10 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Jon's group",
+      "property": "upcoming_performance",
+      "search": "standalone evidence search for scheduled festival performance date of Jon's group"
+    }
+  ]
+}

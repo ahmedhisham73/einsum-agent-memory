@@ -1,0 +1,35 @@
+{
+  "scope": "all_matching",
+  "requirements": [
+    {
+      "entity": "Melanie",
+      "property": "interest",
+      "search": "search for Melanie's preferences or expressed interests related to national parks or theme parks"
+    },
+    {
+      "entity": "Melanie",
+      "property": "activity_enjoyment",
+      "search": "search for activities Melanie enjoys in nature or amusement settings"
+    },
+    {
+      "entity": "Melanie",
+      "property": "attitude_toward_trip",
+      "search": "search for Melanie's attitude or opinion about trips to national parks or theme parks"
+    },
+    {
+      "entity": "Melanie",
+      "property": "family_activity_preferences",
+      "search": "search for Melanie's family activity preferences if relevant to parks or theme parks"
+    },
+    {
+      "entity": "Melanie",
+      "property": "planned_activity",
+      "search": "search for any planned activities of Melanie involving national parks or theme parks"
+    },
+    {
+      "entity": "Melanie",
+      "property": "recent_activity",
+      "search": "search for recent activities of Melanie that might indicate preference for outdoor nature or amusement activities"
+    }
+  ]
+}

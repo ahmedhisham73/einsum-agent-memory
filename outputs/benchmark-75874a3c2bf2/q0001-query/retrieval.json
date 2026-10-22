@@ -1,0 +1,18 @@
+[
+  {
+    "budget": 8,
+    "structured_episode_ids": [
+      "conv-30::session_16::episode-002",
+      "conv-30::session_17::episode-001"
+    ],
+    "selected_episode_ids": [
+      "conv-30::session_1::episode-001",
+      "conv-30::session_5::episode-004",
+      "conv-30::session_6::episode-003",
+      "conv-30::session_9::episode-001",
+      "conv-30::session_11::episode-001",
+      "conv-30::session_16::episode-002",
+      "conv-30::session_17::episode-001"
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Caroline",
+      "property": "planned_activity",
+      "search": "Caroline planned to attend a transgender conference"
+    },
+    {
+      "entity": "Caroline",
+      "property": "scheduled_activity",
+      "search": "Caroline scheduled to attend transgender conference on a specific date"
+    }
+  ]
+}

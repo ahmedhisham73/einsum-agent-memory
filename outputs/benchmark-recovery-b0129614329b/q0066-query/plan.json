@@ -1,0 +1,10 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "John",
+      "property": "focus",
+      "search": "search for John's main focus in local politics"
+    }
+  ]
+}

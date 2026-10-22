@@ -1,0 +1,21 @@
+{
+  "question_id": "conv-41::q0018",
+  "category": 3,
+  "question": "What might John's degree be in?",
+  "gold_answer": "Political science, Public administration, Public affairs",
+  "status": "scored",
+  "generated_answer": "John graduated with a degree related to policymaking, focusing on improving education and infrastructure, as these topics align with his passion and career aspirations in local politics and community betterment.",
+  "citations": [
+    {
+      "episode_id": "conv-41::session_9::episode-002",
+      "turn_id": "D9:6"
+    },
+    {
+      "episode_id": "conv-41::session_9::episode-003",
+      "turn_id": "D9:8"
+    }
+  ],
+  "query_elapsed_seconds": 5.922509209,
+  "label": "WRONG",
+  "judge_reason": "The generated answer does not explicitly state the degree John obtained, nor does it directly match the reference answer."
+}

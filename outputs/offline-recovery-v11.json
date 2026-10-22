@@ -9,9 +9,8 @@
     "memory": "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/offline-memory-48c46fbef6ca"
   },
   "conv-41": {
-    "status": "incomplete",
-    "memory": "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/offline-memory-622a0d5cec62",
-    "error": "LLM request failed; call_id=aa90af27-f42f-4c17-84e1-5f6a586eca16; kind=URLError; <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    "status": "completed",
+    "memory": "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/offline-memory-622a0d5cec62"
   },
   "conv-42": {
     "status": "incomplete",

@@ -1,0 +1,22 @@
+{
+  "experiment_id": "embedding-build-3da74e3d052a",
+  "recorded_calls": 16,
+  "groups": [
+    {
+      "approach": "ensimem",
+      "phase": "build",
+      "stage": "index_embedding",
+      "usage_kind": "embedding",
+      "provider": "openai",
+      "model": "text-embedding-3-small",
+      "calls": 16,
+      "retry_calls": 0,
+      "missing_usage_calls": 0,
+      "reported_input_tokens": 19943,
+      "reported_output_tokens": 0,
+      "total_tokens": 19943,
+      "cached_input_tokens": null,
+      "usage_complete": true
+    }
+  ]
+}

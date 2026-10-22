@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "30505cef-ddeb-4866-8f08-5fb213f5caae",
+    "response": {
+      "id": "chatcmpl-EbsDqDX3afjiqvrIE1PVKgLithKiK",
+      "object": "chat.completion",
+      "created": 1792695274,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Melanie\",\"property\":\"beach_visit_frequency\",\"search\":\"times Melanie has gone to the beach in 2023\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2685,
+        "completion_tokens": 35,
+        "total_tokens": 2720,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_b00c9abe04"
+    },
+    "latency_seconds": 1.5858499579999998
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "4eec5c83-4385-4f1b-9c03-ab0cb1c51671",
+    "response": {
+      "id": "chatcmpl-EbsDsF9iwRSy61Hux4AK2DZRrg63l",
+      "object": "chat.completion",
+      "created": 1792695276,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Melanie has gone to the beach once in 2023 according to the conversations. She mentioned a recent beach visit with the kids during a July 20, 2023 conversation, stating they don't go often, usually only once or twice a year, implying just one beach visit so far this year is explicitly referenced.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_10::episode-002\",\"turn_id\":\"D10:8\"},{\"episode_id\":\"conv-26::session_10::episode-002\",\"turn_id\":\"D10:10\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1876,
+        "completion_tokens": 123,
+        "total_tokens": 1999,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6a82cb19e8"
+    },
+    "latency_seconds": 2.7301036659999998
+  }
+]

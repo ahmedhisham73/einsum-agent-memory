@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "fc120bd2-7ace-4419-8c7e-43bf6c230f29",
+    "response": {
+      "id": "chatcmpl-Ebs9QzCZW0o2sOU2ZwCNp1lnIf6l1",
+      "object": "chat.completion",
+      "created": 1792695000,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Caroline\",\"property\":\"emotional_state\",\"search\":\"Caroline excited about adoption process emotional state\"},{\"entity\":\"Caroline\",\"property\":\"adoption_process_experience\",\"search\":\"Caroline excitement in adoption process experience\"},{\"entity\":\"Caroline\",\"property\":\"anticipated_events\",\"search\":\"Caroline anticipation in adoption process\"},{\"entity\":\"Caroline\",\"property\":\"motivation\",\"search\":\"Caroline motivation related to adoption process\"},{\"entity\":\"Caroline\",\"property\":\"plans_to_adopt\",\"search\":\"Caroline plans and excitement about adoption process\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2681,
+        "completion_tokens": 116,
+        "total_tokens": 2797,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6cab07b253"
+    },
+    "latency_seconds": 2.466681916
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "a1d782c0-f215-4469-a7c9-a2248a23798a",
+    "response": {
+      "id": "chatcmpl-Ebs9Tli3iIOSHdYYrjf0I0zOj8A4S",
+      "object": "chat.completion",
+      "created": 1792695003,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Caroline is excited about creating a family and giving a loving home to kids who need it. She feels hopeful and optimistic about the adoption process despite the challenges of being a single parent. She is motivated by her dream to provide a safe and loving home and is grateful for the support she has received. Caroline is thrilled to take concrete steps like researching adoption agencies, applying, and passing adoption interviews, viewing adoption as a way to give back and show love and acceptance. Overall, she is hopeful, optimistic, thrilled, and excited about the new family she will create through adoption.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_2::episode-002\",\"turn_id\":\"D2:8\"},{\"episode_id\":\"conv-26::session_2::episode-002\",\"turn_id\":\"D2:10\"},{\"episode_id\":\"conv-26::session_2::episode-002\",\"turn_id\":\"D2:14\"},{\"episode_id\":\"conv-26::session_13::episode-001\",\"turn_id\":\"D13:1\"},{\"episode_id\":\"conv-26::session_17::episode-001\",\"turn_id\":\"D17:3\"},{\"episode_id\":\"conv-26::session_19::episode-001\",\"turn_id\":\"D19:1\"},{\"episode_id\":\"conv-26::session_19::episode-001\",\"turn_id\":\"D19:3\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 4629,
+        "completion_tokens": 289,
+        "total_tokens": 4918,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6a82cb19e8"
+    },
+    "latency_seconds": 3.8082637079999992
+  }
+]

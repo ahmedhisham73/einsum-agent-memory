@@ -1,0 +1,323 @@
+[
+  {
+    "episode_id": "conv-30::session_3::chunk-0000",
+    "session_id": "session_3",
+    "observed_at": "2023-02-01T00:48:00",
+    "source_timestamp": "12:48 am on 1 February, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D3:1",
+        "speaker": "Jon",
+        "text": "Hey Gina, hope you're doing ok! Still following my passion for dance. It's been bumpy, but I'm determined to make it work. I'm still searching for a place to open my dance studio.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:2",
+        "speaker": "Gina",
+        "text": "Hi Jon! So happy you're pushing forward with dancing! Inspiring 💪 I emailed some wholesalers and one replied and said yes today! I'm over the moon because now I can expand my clothing store and get closer to my customers. Check it out - here's a pic!",
+        "metadata": {
+          "img_url": [
+            "https://s0.geograph.org.uk/photos/44/02/440245_a865f9d5.jpg"
+          ],
+          "re-download": true,
+          "blip_caption": "a photography of a shopping mall with a glass entrance and a sign"
+        }
+      },
+      {
+        "turn_id": "D3:3",
+        "speaker": "Jon",
+        "text": "Wow, Gina! You found the perfect spot for your store. Way to go, hard work's paying off!",
+        "metadata": {
+          "blip_caption": "a photo of a room with a mirror and a wooden floor"
+        }
+      },
+      {
+        "turn_id": "D3:4",
+        "speaker": "Gina",
+        "text": "Thanks! Glad you like it. Yeah, it's a great spot. Here's a peek at the space I designed. Cozy and inviting - perfect for customers to check out all the trendy pieces.",
+        "metadata": {
+          "img_url": [
+            "https://live.staticflickr.com/610/23124623885_9aab7b3e2e_b.jpg"
+          ],
+          "blip_caption": "a photography of a clothing store with a lot of clothes on display",
+          "query": "inside of store cozy inviting atmosphere trendy pieces",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D3:5",
+        "speaker": "Jon",
+        "text": "Wow, it looks great! Must've taken you ages to design it. What made you pick out the furniture and decor?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:6",
+        "speaker": "Gina",
+        "text": "Thanks! It took a bit of time but I wanted to make the place look like my own style and make my customers feel cozy. I chose furniture that looks great and is comfy too. The chandelier adds a nice glam feel while matching the style of the store.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_5::chunk-0000",
+    "session_id": "session_5",
+    "observed_at": "2023-02-08T09:32:00",
+    "source_timestamp": "9:32 am on 8 February, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D5:1",
+        "speaker": "Gina",
+        "text": "Hey Jon! Great hearing from you again. How have you been? BTW, I found a cool new fashion piece for my store. Can't wait to share with my customers.",
+        "metadata": {
+          "blip_caption": "a photo of a group of women posing with a giant balloon",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D5:2",
+        "speaker": "Jon",
+        "text": "Hey Gina! Congrats on the new fashion piece! Looks like your store is growing. Remenber the festival I told you about? Had that performance and it was awesome - so many people there complementing my dance moves. Dancing brings me joy and it was nice to be reminded why I'm passionate about it.",
+        "metadata": {
+          "blip_caption": "a photo of a group of young girls in a dance studio",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D5:3",
+        "speaker": "Gina",
+        "text": "Wow! That looks great. You look badass on stage. BTW, what's your favorite part of running your own studio?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:4",
+        "speaker": "Jon",
+        "text": "Thanks, Gina! I love running my own studio. It's great having the freedom to create a space and help dancers of all ages and levels express themselves. I'm super thrilled about dancing each day and seeing my students progress. It's so fulfilling.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:5",
+        "speaker": "Gina",
+        "text": "That's awesome! I'm sure you feel great knowing your students are doing so well with dance. It's amazing what it can do for people! Oh, and btw - I've been working hard on my online store and just teamed up with a local artist for some cool designs. Check 'em out!",
+        "metadata": {
+          "img_url": [
+            "https://circlecraftmarket.files.wordpress.com/2017/11/adhesif-3.jpg"
+          ],
+          "blip_caption": "a photo of a rack of clothes with a coat and a dress",
+          "query": "unique artwork clothing"
+        }
+      },
+      {
+        "turn_id": "D5:6",
+        "speaker": "Jon",
+        "text": "It looks awesome. Your commitment and creativity in your business really stands out. How'd you come up with these cool designs?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_6::chunk-0005",
+    "session_id": "session_6",
+    "observed_at": "2023-03-16T14:35:00",
+    "source_timestamp": "2:35 pm on 16 March, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D6:6",
+        "speaker": "Gina",
+        "text": "Yay! My online clothes store is open! I've been dreaming of this for a while now - can't wait to see what happens!",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/i9k97vw6pgs51.jpg"
+          ],
+          "blip_caption": "a photo of a computer screen showing a book and a pair of shoes",
+          "query": "online clothing store website screenshot"
+        }
+      },
+      {
+        "turn_id": "D6:7",
+        "speaker": "Jon",
+        "text": "Congrats! That's awesome! What gave you the idea to start the online store?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:8",
+        "speaker": "Gina",
+        "text": "Thanks! I'm passionate about fashion trends and finding unique pieces. Plus, I wanted to blend my love for dance and fashion, so it was a perfect match.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:9",
+        "speaker": "Jon",
+        "text": "Wow, that's awesome! Combining your two interests into a store is super cool. Best of luck with it!",
+        "metadata": {
+          "blip_caption": "a photo of three young girls standing next to each other with trophies"
+        }
+      },
+      {
+        "turn_id": "D6:10",
+        "speaker": "Gina",
+        "text": "Thanks! How is biz going? I hope it's going well!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:11",
+        "speaker": "Jon",
+        "text": "Thanks for askin', Gina! Losing my job was hard, but I'm livin' my dreams now. Startin' my biz has been tough but I'm gonna make it! I keep facing new challenges, but I'm sure it'll be worth it in the end.",
+        "metadata": {
+          "blip_caption": "a photo of a laptop computer sitting on top of a table"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_7::chunk-0000",
+    "session_id": "session_7",
+    "observed_at": "2023-03-23T19:28:00",
+    "source_timestamp": "7:28 pm on 23 March, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D7:1",
+        "speaker": "Jon",
+        "text": "Hey Gina, how's it going?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:2",
+        "speaker": "Gina",
+        "text": "Hey Jon, my online clothing store has been a roller coaster but rewarding. Starting a business takes courage - you hang in there too!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:3",
+        "speaker": "Jon",
+        "text": "Thanks Gina! It's been tough, but I'm gonna make it happen. It's been great! And hey, you're awesome with your store. How's it going?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:4",
+        "speaker": "Gina",
+        "text": "Thanks! Appreciate your kind words. Store's going good, just been keeping up with fashion trends so I can offer the best pieces to customers. It's been a lot of work, but really enjoying it. Got any advice or tips on running a successful biz?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:5",
+        "speaker": "Jon",
+        "text": "Yeah, brand identity is key. Make sure yours stands out. Also be sure to build relationships with your customers – let them know you care. And don't forget to stay positive and motivate others. Your energy will be contagious!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:6",
+        "speaker": "Gina",
+        "text": "Thanks for the advice, Jon! Building relationships and creating a strong brand image for my store is something I'm always working on. You're right, staying positive is key. What helps you stay motivated with your dance studio business?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_8::chunk-0005",
+    "session_id": "session_8",
+    "observed_at": "2023-04-03T13:26:00",
+    "source_timestamp": "1:26 pm on 3 April, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D8:6",
+        "speaker": "Gina",
+        "text": "Thanks Jon! Dance is my stress relief and fashion fuels my creativity. I love finding new trends for my store. It keeps me motivated to keep growing. Check out this pic of my fave dance session!",
+        "metadata": {
+          "img_url": [
+            "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_2151,w_2403,x_0,y_1044/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/export-1-37_l33gst.jpg"
+          ],
+          "blip_caption": "a photo of a man and woman doing a yoga pose",
+          "query": "dance studio session"
+        }
+      },
+      {
+        "turn_id": "D8:7",
+        "speaker": "Jon",
+        "text": "Wow, that's great! What made you combine clothing biz and dance?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:8",
+        "speaker": "Gina",
+        "text": "Thanks! I'm passionate about dance and fashion so combining them lets me show my creativity and share my love with others. Plus, I can add dance-inspired items to my store!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:9",
+        "speaker": "Jon",
+        "text": "Nice work! Combining passions is always cool. How's it going?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:10",
+        "speaker": "Gina",
+        "text": "Thanks! So far, so good - customers love the new offers and promotions, which means I'm seeing more sales. People seem to really like my designs, so I'm always on the hunt for unique, trendy pieces. Growing my customer base is the main focus right now.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:11",
+        "speaker": "Jon",
+        "text": "Sounds like all your effort's paying off. Anything planned to grow your customer base?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_16::chunk-0000",
+    "session_id": "session_16",
+    "observed_at": "2023-06-21T14:15:00",
+    "source_timestamp": "2:15 pm on 21 June, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D16:1",
+        "speaker": "Gina",
+        "text": "Hey Jon, what's been up? Some pretty cool stuff happened since we talked. I have acquired some new unique pieces for my store.",
+        "metadata": {
+          "img_url": [
+            "https://www.staycoldapparel.com/cdn/shop/files/Foto28.09.23_122631.jpg"
+          ],
+          "blip_caption": "a photo of a woman in a black hoodie posing for a picture",
+          "query": "online clothing store logo fashion unique pieces"
+        }
+      },
+      {
+        "turn_id": "D16:2",
+        "speaker": "Jon",
+        "text": "Congrats on your store, Gina! Happy for you! It looks sick - is it a unique piece you're selling?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:3",
+        "speaker": "Gina",
+        "text": "Thanks! This hoodie isn't for sale, it's from my own collection. I made a limited edition line last week to show off my style and creativity - it was tough but worth it!",
+        "metadata": {
+          "blip_caption": "a photo of a hoodie with a camouflage print on it"
+        }
+      },
+      {
+        "turn_id": "D16:4",
+        "speaker": "Jon",
+        "text": "What gave you the idea?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:5",
+        "speaker": "Gina",
+        "text": "This design reminds me of the grit it takes to stand out and face challenges.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:6",
+        "speaker": "Jon",
+        "text": "That's awesome, Gina! Yesterday I chose to go to networking events to make things happen. It's been tough but I'm staying determined and focused.",
+        "metadata": {}
+      }
+    ]
+  }
+]

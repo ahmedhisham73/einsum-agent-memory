@@ -1,0 +1,21 @@
+{
+  "question_id": "conv-41::q0018",
+  "category": 3,
+  "question": "What might John's degree be in?",
+  "gold_answer": "Political science, Public administration, Public affairs",
+  "status": "scored",
+  "generated_answer": "John's degree might be in a field related to policymaking or mechanical engineering. He graduated recently and is interested in policymaking due to his passion for making a positive impact, focusing on education and infrastructure improvement. However, he also had a job at a mechanical engineering company before it closed.",
+  "citations": [
+    {
+      "episode_id": "conv-41::session_9::chunk-0000",
+      "turn_id": "D9:6"
+    },
+    {
+      "episode_id": "conv-41::session_28::chunk-0000",
+      "turn_id": "D28:1"
+    }
+  ],
+  "query_elapsed_seconds": 8.48182725,
+  "label": "WRONG",
+  "judge_reason": "The generated answer includes unrelated fields such as mechanical engineering and does not match the specified degrees in political science, public administration, or public affairs."
+}

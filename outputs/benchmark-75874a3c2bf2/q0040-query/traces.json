@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "757a00f3-03d0-46f3-b73d-a2611a6c6d7d",
+    "response": {
+      "id": "chatcmpl-EbsIIAvSbqeXJscRybduNlVS0pyEI",
+      "object": "chat.completion",
+      "created": 1792695550,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Gina\",\"property\":\"favorite_dance_style\",\"search\":\"search for Gina's favorite dance style or favorite style of dance mentioned\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2188,
+        "completion_tokens": 37,
+        "total_tokens": 2225,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6cab07b253"
+    },
+    "latency_seconds": 1.871391667
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "c6d3d9de-d167-4718-a2bc-c7b508fe64f4",
+    "response": {
+      "id": "chatcmpl-EbsIKY0S6jcbZIIaoZZYF6C1QmIom",
+      "object": "chat.completion",
+      "created": 1792695552,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Gina's favorite style of dance is contemporary dance, described as expressive, graceful, and speaking to her.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-30::session_1::episode-002\",\"turn_id\":\"D1:9\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3344,
+        "completion_tokens": 58,
+        "total_tokens": 3402,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6a82cb19e8"
+    },
+    "latency_seconds": 1.4954472089999995
+  }
+]

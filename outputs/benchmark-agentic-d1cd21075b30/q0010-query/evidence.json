@@ -1,0 +1,304 @@
+[
+  {
+    "episode_id": "conv-30::session_1::chunk-0020",
+    "session_id": "session_1",
+    "observed_at": "2023-01-20T16:04:00",
+    "source_timestamp": "4:04 pm on 20 January, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D1:21",
+        "speaker": "Gina",
+        "text": "Cool setup! Man, you can't deny that view! Got time to rehearse with a biz and a new store?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:22",
+        "speaker": "Jon",
+        "text": "Hopefully, we will find a place like this that will inspire us!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:23",
+        "speaker": "Gina",
+        "text": "Wow, it looks great! What dances do you practice? Got any projects planned?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:24",
+        "speaker": "Jon",
+        "text": "Thanks! I rehearsed with a small group of dancers after work. We do all kinds of dances, from contemporary to hip-hop. We've got some cool projects in the works. Finishing up choreography to perform at a nearby festival next month. Can't wait!",
+        "metadata": {
+          "img_url": [
+            "https://markmorrisdancegroup.org/wp-content/uploads/2021/04/MM0108_JesuMeineFreude_Boston_BrazilTom_02.jpg"
+          ],
+          "blip_caption": "a photo of a group of dancers in white dresses on a stage",
+          "query": "group dancers performing on stage"
+        }
+      },
+      {
+        "turn_id": "D1:25",
+        "speaker": "Gina",
+        "text": "Wow, it looks awesome! Are they yours at the festival? They're so graceful!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:26",
+        "speaker": "Jon",
+        "text": "Yeah, they're the ones performing at the festival! They've been practicing hard and will definitely impress with their grace and skill.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_2::chunk-0000",
+    "session_id": "session_2",
+    "observed_at": "2023-01-29T14:32:00",
+    "source_timestamp": "2:32 pm on 29 January, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D2:1",
+        "speaker": "Gina",
+        "text": "Hey Jon! Long time no see! Things have been hectic lately. I just launched an ad campaign for my clothing store in hopes of growing the business. Starting my own store and taking risks is both scary and rewarding. I'm excited to see where it takes me!",
+        "metadata": {
+          "blip_caption": "a photo of a clothing store with a variety of clothes on display",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D2:2",
+        "speaker": "Jon",
+        "text": "Hey Gina! Whoa, your store looks great! All your hard work really paid off - congrats! Must be awesome to see your stuff on display.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:3",
+        "speaker": "Gina",
+        "text": "Thanks a bunch! It's awesome seeing my vision happen. How's the dance studio going? Did you find the right spot?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:4",
+        "speaker": "Jon",
+        "text": "Hey Gina! Thanks for asking. I'm on the hunt for the ideal spot for my dance studio and it's been quite a journey! I've been looking at different places and picturing how the space would look. I even found a place with great natural light! Oh, I've been to Paris yesterday! It was sooo cool.",
+        "metadata": {
+          "img_url": [
+            "https://avvay-aws-production.imgix.net/space-media/space-media-422692-prod.jpg"
+          ],
+          "blip_caption": "a photo of a bathroom with a blue floor and a pink wall",
+          "query": "dance studio natural lighting spacious room large windows dance mirrors"
+        }
+      },
+      {
+        "turn_id": "D2:5",
+        "speaker": "Gina",
+        "text": "Wow, nice spot! Where is it? Got any other features you want to think about before you decide? Paris?! That is really great Jon! Never had a chance to visit it. Been only to Rome once.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:6",
+        "speaker": "Jon",
+        "text": "It's downtown which is awesome cuz it's easy to get to. Plus the natural light! Gotta check the size & floor quality too. We need a good dance floor with enough bounce for me & my students to dance safely.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_3::chunk-0000",
+    "session_id": "session_3",
+    "observed_at": "2023-02-01T00:48:00",
+    "source_timestamp": "12:48 am on 1 February, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D3:1",
+        "speaker": "Jon",
+        "text": "Hey Gina, hope you're doing ok! Still following my passion for dance. It's been bumpy, but I'm determined to make it work. I'm still searching for a place to open my dance studio.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:2",
+        "speaker": "Gina",
+        "text": "Hi Jon! So happy you're pushing forward with dancing! Inspiring 💪 I emailed some wholesalers and one replied and said yes today! I'm over the moon because now I can expand my clothing store and get closer to my customers. Check it out - here's a pic!",
+        "metadata": {
+          "img_url": [
+            "https://s0.geograph.org.uk/photos/44/02/440245_a865f9d5.jpg"
+          ],
+          "re-download": true,
+          "blip_caption": "a photography of a shopping mall with a glass entrance and a sign"
+        }
+      },
+      {
+        "turn_id": "D3:3",
+        "speaker": "Jon",
+        "text": "Wow, Gina! You found the perfect spot for your store. Way to go, hard work's paying off!",
+        "metadata": {
+          "blip_caption": "a photo of a room with a mirror and a wooden floor"
+        }
+      },
+      {
+        "turn_id": "D3:4",
+        "speaker": "Gina",
+        "text": "Thanks! Glad you like it. Yeah, it's a great spot. Here's a peek at the space I designed. Cozy and inviting - perfect for customers to check out all the trendy pieces.",
+        "metadata": {
+          "img_url": [
+            "https://live.staticflickr.com/610/23124623885_9aab7b3e2e_b.jpg"
+          ],
+          "blip_caption": "a photography of a clothing store with a lot of clothes on display",
+          "query": "inside of store cozy inviting atmosphere trendy pieces",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D3:5",
+        "speaker": "Jon",
+        "text": "Wow, it looks great! Must've taken you ages to design it. What made you pick out the furniture and decor?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:6",
+        "speaker": "Gina",
+        "text": "Thanks! It took a bit of time but I wanted to make the place look like my own style and make my customers feel cozy. I chose furniture that looks great and is comfy too. The chandelier adds a nice glam feel while matching the style of the store.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_3::chunk-0005",
+    "session_id": "session_3",
+    "observed_at": "2023-02-01T00:48:00",
+    "source_timestamp": "12:48 am on 1 February, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D3:7",
+        "speaker": "Jon",
+        "text": "Your store looks great - your customers will be so comfy.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:8",
+        "speaker": "Gina",
+        "text": "Thanks! Making my spot comfortable and inviting for my customers is key. I want 'em to feel like they're in a cool oasis. Just creating an experience that'll make 'em wanna come back.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:9",
+        "speaker": "Jon",
+        "text": "That's a great goal! Creating a special experience for customers is the key to making them feel welcome and coming back. I think you can create that space you're imagining.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:10",
+        "speaker": "Gina",
+        "text": "Thanks. Your support means a lot. I'm sure with my hard work and effort, I can make a special shopping experience for my customers. It's tough but I'm up for the challenge!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:11",
+        "speaker": "Jon",
+        "text": "I'm always here to support you! Go create something awesome with your store. Keep it up!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_18::chunk-0000",
+    "session_id": "session_18",
+    "observed_at": "2023-07-21T17:44:00",
+    "source_timestamp": "5:44 pm on 21 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D18:1",
+        "speaker": "Gina",
+        "text": "Hey Jon! Long time no talk! Last week, I built a new website for customers to make orders. It's been a wild ride but I'm loving it. What's up with you? How's the dance studio?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:2",
+        "speaker": "Jon",
+        "text": "Hey Gina, congrats on the clothing store! The dance studio is on tenuous grounds right now, but I'm staying positive. I got a temp job to help cover expenses while I look for investors. It's tough, but I'm sure it'll be worth it.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:3",
+        "speaker": "Gina",
+        "text": "Thanks, Jon! Appreciate the kind words. Sorry to hear about the studio, but glad to see the positivity. Not easy facing setbacks but I believe in you. Finding investors can be tough, but you've got the passion and experience to make it happen. Rome wasn't built in a day so keep pushing on!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:4",
+        "speaker": "Jon",
+        "text": "Thanks for the support. Running a business isn't easy, but I'm determined to make it work. How have you tackled challenges in your business? Got any advice?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:5",
+        "speaker": "Gina",
+        "text": "I've had some tough times with my business, Jon. Sourcing trendy pieces for my store was a big hurdle. I had to do a lot of research and networking. My advice? Don't be scared to reach out to people in your field for help and contacts. Networking was a lifesaver for me and opened me up to amazing products that I might not have found otherwise.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:6",
+        "speaker": "Jon",
+        "text": "Awesome advice! Lately I've been networking and it's gotten me some good stuff. Really can't beat what connections can do. Check this pic I got from the last networking event!",
+        "metadata": {
+          "img_url": [
+            "https://live.staticflickr.com/7284/16241297914_14ea605e4b_b.jpg"
+          ],
+          "re-download": true,
+          "blip_caption": "a photography of a group of people standing in a room"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_18::chunk-0005",
+    "session_id": "session_18",
+    "observed_at": "2023-07-21T17:44:00",
+    "source_timestamp": "5:44 pm on 21 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D18:7",
+        "speaker": "Gina",
+        "text": "Nice one, Jon! Networking really pays off. Connecting with like-minded people is key. How was the event?",
+        "metadata": {
+          "blip_caption": "a photo of a clothing store with a wall of pictures and clothes"
+        }
+      },
+      {
+        "turn_id": "D18:8",
+        "speaker": "Jon",
+        "text": "Thanks! The event was awesome. I met some investors and got some good advice. The energy was really motivating, it gave me a boost to go after my goals.",
+        "metadata": {
+          "img_url": [
+            "https://cress.gigsalad.com/s3/attachments/61/02/47/610247e1e1a92f951cf413a4cdedcde0.jpg"
+          ],
+          "blip_caption": "a photo of a man signing a card at a table",
+          "query": "crowded networking event people mingling business cards"
+        }
+      },
+      {
+        "turn_id": "D18:9",
+        "speaker": "Gina",
+        "text": "Wow, Jon! Congrats on the successful night! What are your plans now with the advice you got?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:10",
+        "speaker": "Jon",
+        "text": "Taking your advice, I'm sprucing up my biz plan and tweaking my pitch to investors. I'm also working on an online platform to show off the dance studio's stuff.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:11",
+        "speaker": "Gina",
+        "text": "Sounds like a great plan, Jon! An online platform can really show off your studio and get investors. Need help with anything?",
+        "metadata": {}
+      }
+    ]
+  }
+]

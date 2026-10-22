@@ -1,0 +1,282 @@
+[
+  {
+    "episode_id": "conv-41::session_1::chunk-0005",
+    "session_id": "session_1",
+    "observed_at": "2022-12-17T11:01:00",
+    "source_timestamp": "11:01 am on 17 December, 2022",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D1:6",
+        "speaker": "John",
+        "text": "Yeah Maria, I'm really hoping to get into local politics. I love helping the community and making it a better place.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:7",
+        "speaker": "Maria",
+        "text": "Woohoo, John! That's awesome! Any specific areas you want to tackle?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:8",
+        "speaker": "John",
+        "text": "I'm passionate about improving education and infrastructure in our community. Those are my main focuses.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:9",
+        "speaker": "Maria",
+        "text": "Wow, John! It's great to hear that. Could you tell me what got you interested in those topics?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:10",
+        "speaker": "John",
+        "text": "Growing up, I saw how lack of education and crumbling infrastructure affected my neighborhood. I don't want future generations to go through that, so I think schools and infrastructure should be funded properly. Here's a pic of a school last year, after they got the funding.",
+        "metadata": {
+          "img_url": [
+            "https://www.greenbaypressgazette.com/gcdn/presto/2019/07/16/PGRB/fa8d60a1-0a21-421c-b36d-31f4bc2d2b6d-KEW_0720_LC_referendum_Peters_Concrete_pour.png"
+          ],
+          "blip_caption": "a photo of a group of men working on a building",
+          "query": "school building renovation"
+        }
+      },
+      {
+        "turn_id": "D1:11",
+        "speaker": "Maria",
+        "text": "Looks good! How did the extra funding help with building the school?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_1::chunk-0010",
+    "session_id": "session_1",
+    "observed_at": "2022-12-17T11:01:00",
+    "source_timestamp": "11:01 am on 17 December, 2022",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D1:12",
+        "speaker": "John",
+        "text": "It enabled needed repairs and renovations, making the learning environment safer and more modern for students.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:13",
+        "speaker": "Maria",
+        "text": "Wow John, it really made a difference for schools and students! It must have been great to be involved. What's your next move in politics?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:14",
+        "speaker": "John",
+        "text": "I'm gonna chat with local leaders and organizations, get support and gather ideas for my next move.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:15",
+        "speaker": "Maria",
+        "text": "Sounds good, John. Let's get support and great ideas from local leaders and organizations. Keep me posted on how your campaign is going.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:16",
+        "speaker": "John",
+        "text": "Got it! Thanks, Maria. I definitely will.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_4::chunk-0010",
+    "session_id": "session_4",
+    "observed_at": "2023-01-09T19:06:00",
+    "source_timestamp": "7:06 pm on 9 January, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D4:11",
+        "speaker": "Maria",
+        "text": "It's great to hear that you appreciate the beauty of sunsets! By the way, have there been any developments regarding your political goals?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:12",
+        "speaker": "John",
+        "text": "I've been keeping busy since we last talked! I've been looking into local politics, talking to community leaders, and getting to know the needs and hopes of our neighborhood. It's been super informative, and I'm feeling optimistic about it all.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:13",
+        "speaker": "Maria",
+        "text": "Wow, John! Your dedication to our community is amazing. Keep up the great work! I've been taking some notes about local politics in my notebook.",
+        "metadata": {
+          "img_url": [
+            "https://media2.inlander.com/inlander/imager/u/original/27047427/1.jpg"
+          ],
+          "blip_caption": "a photo of a notebook with a pencil and a notepad on a table",
+          "query": "notebook local politics"
+        }
+      },
+      {
+        "turn_id": "D4:14",
+        "speaker": "John",
+        "text": "Thanks, Maria! You're super helpful. That gives me some new ideas and plans for our community!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:15",
+        "speaker": "Maria",
+        "text": "Glad I could help, John. What's up next for you?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:16",
+        "speaker": "John",
+        "text": "Next week I have a community meeting coming up, we'll be discussing education and infrastructure upgrades.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_7::chunk-0000",
+    "session_id": "session_7",
+    "observed_at": "2023-02-25T20:55:00",
+    "source_timestamp": "8:55 pm on 25 February, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D7:1",
+        "speaker": "Maria",
+        "text": "Hey John, how's it going? Just wanted to give you the heads up on what's been happening lately- I took a creative writing class recently, and it was super enlightening!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:2",
+        "speaker": "John",
+        "text": "Hey Maria! Wanted to let you know that I'm running for office again. It's been a wild ride, but I'm more excited than ever! How have you been?",
+        "metadata": {
+          "blip_caption": "a photo of a crowd of people sitting on a sidewalk with umbrellas"
+        }
+      },
+      {
+        "turn_id": "D7:3",
+        "speaker": "Maria",
+        "text": "Congrats, John! What made you decide to run again? As for me, I've been volunteering at a homeless shelter and it's really rewarding.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:4",
+        "speaker": "John",
+        "text": "Thanks, Maria! After my last run, I saw the impact I could make in the community through politics. It's rewarding to work towards positive changes and a better future.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:5",
+        "speaker": "Maria",
+        "text": "Wow John, your enthusiasm for making a better future is inspiring. Making a positive impact is so rewarding! While volunteering yesterday, I met this amazing woman, Jean, who had been through a lot, yet stayed optimistic and resilient. She showed me the importance of gratitude and connection.",
+        "metadata": {
+          "blip_caption": "a photo of a woman with a blue shirt and a ring on her neck"
+        }
+      },
+      {
+        "turn_id": "D7:6",
+        "speaker": "John",
+        "text": "Wow, Maria! How did she end up in such a situation, and how did she remain positive throughout?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_9::chunk-0005",
+    "session_id": "session_9",
+    "observed_at": "2023-04-02T09:36:00",
+    "source_timestamp": "9:36 am on 2 April, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D9:6",
+        "speaker": "John",
+        "text": "Thanks! I'm considering going into policymaking because of my degree and my passion for making a positive impact. There are many opportunities to make improvements.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:7",
+        "speaker": "Maria",
+        "text": "Sounds great, John! That seems perfect for you with your passion and dedication. Are there any specific areas you're particularly interested in?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:8",
+        "speaker": "John",
+        "text": "Thanks, Maria! Improving education and infrastructure is particularly interesting to me. It's important for our community.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:9",
+        "speaker": "Maria",
+        "text": "Yeah, I remember you mentioning those areas. How have your experiences in the community meeting and involvement shaped your views on them?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:10",
+        "speaker": "John",
+        "text": "Going to community meetings and getting involved in my community has given me a better understanding of the challenges our education and infrastructure systems face. It has also shown me the impact these issues have on our neighbors, highlighting the need for us to work towards finding solutions.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:11",
+        "speaker": "Maria",
+        "text": "Way to go, John! You're really showing dedication and commitment. Gaining first-hand experience and working to find solutions is awesome!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_12::chunk-0000",
+    "session_id": "session_12",
+    "observed_at": "2023-04-18T19:34:00",
+    "source_timestamp": "7:34 pm on 18 April, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D12:1",
+        "speaker": "John",
+        "text": "Hey Maria, hope you're doing okay. Since we chatted last, I've been blogging about politics and the government. It's been a really satisfying experience and I care about making a real impact. We need way better education and infrastructure and I know firsthand how this impacts neighborhoods.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:2",
+        "speaker": "Maria",
+        "text": "Hey John, glad to hear you're fired up about something! Blogging can really make a difference. I agree that education and infrastructure are key to our community's growth.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:3",
+        "speaker": "John",
+        "text": "Thanks, Maria! It's been great to talk to someone who understands the importance of these issues. Digging deeper into the political system has been eye-opening, so I'm researching policies and writing about my thoughts and ideas. Hoping to raise awareness and start conversations to create positive change.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:4",
+        "speaker": "Maria",
+        "text": "Wow, John! Your hard work will definitely start conversations and create positive change. What policies have you been focusing on lately?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:5",
+        "speaker": "John",
+        "text": "Recently, education reform and infrastructure development. Good access to quality education and updated infrastructure are key to a thriving and successful community. My goal is to get conversations going and get people involved by sharing ideas and taking action. It's really empowering to know I can help make a difference in people's lives.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:6",
+        "speaker": "Maria",
+        "text": "Wow, John! Your passion and dedication is inspiring. It's great to see you taking the lead and making a difference. Keep up the amazing work!",
+        "metadata": {}
+      }
+    ]
+  }
+]

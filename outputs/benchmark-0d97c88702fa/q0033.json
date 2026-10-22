@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-26::q0033",
+  "category": 1,
+  "question": "What LGBTQ+ events has Caroline participated in?",
+  "gold_answer": "Pride parade, school speech, support group",
+  "status": "failed",
+  "error": "Query failed. See q0033.log"
+}

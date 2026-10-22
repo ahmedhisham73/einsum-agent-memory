@@ -1,0 +1,51 @@
+{
+  "status": "completed",
+  "experiment_id": "q0015-query",
+  "memory_build": "offline-memory-622a0d5cec62",
+  "baseline_build": "agentic-build-736fe53c3604",
+  "question": "Would John be considered a patriotic person?",
+  "answer": "Yes, John would be considered a patriotic person because he demonstrates strong respect and active support for military veterans through various initiatives such as organizing petitions, charity runs, marching for veterans' rights, and fostering community events honoring veterans. His actions and statements show a clear dedication to appreciating and supporting those who served the country.",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-41::session_15::chunk-0000",
+      "turn_id": "D15:1"
+    },
+    {
+      "episode_id": "conv-41::session_15::chunk-0000",
+      "turn_id": "D15:3"
+    },
+    {
+      "episode_id": "conv-41::session_15::chunk-0005",
+      "turn_id": "D15:7"
+    },
+    {
+      "episode_id": "conv-41::session_21::chunk-0020",
+      "turn_id": "D21:22"
+    },
+    {
+      "episode_id": "conv-41::session_21::chunk-0020",
+      "turn_id": "D21:24"
+    },
+    {
+      "episode_id": "conv-41::session_29::chunk-0000",
+      "turn_id": "D29:4"
+    },
+    {
+      "episode_id": "conv-41::session_29::chunk-0000",
+      "turn_id": "D29:6"
+    }
+  ],
+  "elapsed_seconds": 6.923317708,
+  "stop_reason": "agent_ready",
+  "search_count": 1,
+  "selected_chunks": 6,
+  "unique_source_turns": 34,
+  "implementation": {
+    "chunk_turns": 6,
+    "overlap_turns": 1,
+    "top_k_per_search": 6,
+    "max_searches": 4,
+    "max_agent_decisions": 5
+  }
+}

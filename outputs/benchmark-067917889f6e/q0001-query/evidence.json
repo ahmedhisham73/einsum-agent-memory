@@ -1,0 +1,324 @@
+[
+  {
+    "episode_id": "conv-30::session_1::episode-001",
+    "conversation_id": "conv-30",
+    "session_id": "session_1",
+    "observed_at": "2023-01-20T16:04:00",
+    "source_timestamp": "4:04 pm on 20 January, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Job losses and new business plans",
+    "turns": [
+      {
+        "turn_id": "D1:1",
+        "speaker": "Gina",
+        "text": "Hey Jon! Good to see you. What's up? Anything new?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:2",
+        "speaker": "Jon",
+        "text": "Hey Gina! Good to see you too. Lost my job as a banker yesterday, so I'm gonna take a shot at starting my own business.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:3",
+        "speaker": "Gina",
+        "text": "Sorry about your job Jon, but starting your own business sounds awesome! Unfortunately, I also lost my job at Door Dash this month. What business are you thinking of?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_5::episode-004",
+    "conversation_id": "conv-30",
+    "session_id": "session_5",
+    "observed_at": "2023-02-08T09:32:00",
+    "source_timestamp": "9:32 am on 8 February, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Jon's journey leaving banking for dance business and mutual encouragement",
+    "turns": [
+      {
+        "turn_id": "D5:10",
+        "speaker": "Jon",
+        "text": "Yeah, I totally agree - taking risks is key for success. It's made me grow, and even got me out of my secure 9-5 as a banker. Now, I'm aiming to turn my dancing passion into a business. I'm determined to make it work, I just know it! That being said, I definitely don't underestimate the difficulties - it ain't been a walk in the park, that's for sure.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:11",
+        "speaker": "Gina",
+        "text": "It's tough starting a biz, but don't let it get you down. You can make your studio work, I'm sure. And remember, I'm always here for you.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:12",
+        "speaker": "Jon",
+        "text": "Thanks, Gina. Your help means a lot. I'll keep plugging away and stay optimistic.",
+        "metadata": {
+          "img_url": [
+            "https://live.staticflickr.com/381/19379909243_9683e023fc_z.jpg"
+          ],
+          "blip_caption": "a photography of a cartoon character with a quote about fear",
+          "query": "motivational quote \"everything you want is on the other side of fear\"",
+          "re-download": true
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_6::episode-003",
+    "conversation_id": "conv-30",
+    "session_id": "session_6",
+    "observed_at": "2023-03-16T14:35:00",
+    "source_timestamp": "2:35 pm on 16 March, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Discussing business challenges and mutual inspiration",
+    "turns": [
+      {
+        "turn_id": "D6:10",
+        "speaker": "Gina",
+        "text": "Thanks! How is biz going? I hope it's going well!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:11",
+        "speaker": "Jon",
+        "text": "Thanks for askin', Gina! Losing my job was hard, but I'm livin' my dreams now. Startin' my biz has been tough but I'm gonna make it! I keep facing new challenges, but I'm sure it'll be worth it in the end.",
+        "metadata": {
+          "blip_caption": "a photo of a laptop computer sitting on top of a table"
+        }
+      },
+      {
+        "turn_id": "D6:12",
+        "speaker": "Gina",
+        "text": "Yeah, starting and running my own biz has had its ups and downs - but it's been an amazing ride!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:13",
+        "speaker": "Jon",
+        "text": "Yeah, it's been a rollercoaster. But your success really inspires me to keep pushing forward. Your determination is awesome!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_9::episode-001",
+    "conversation_id": "conv-30",
+    "session_id": "session_9",
+    "observed_at": "2023-04-09T10:33:00",
+    "source_timestamp": "10:33 am on 9 April, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Jon starting a dance studio business after job loss",
+    "turns": [
+      {
+        "turn_id": "D9:1",
+        "speaker": "Jon",
+        "text": "Hey Gina! I'm turning my loves of dance into a business. I'm sunk tons of time into the studio lately, and look at my students - they're already killing it. I'm even learning with them!",
+        "metadata": {
+          "img_url": [
+            "https://college.lclark.edu/live/image/gid/664/width/720/height/690/crop/1/87150_Dance_main_image.rev.1613000755.jpg"
+          ],
+          "blip_caption": "a photo of a group of dancers on a stage with a red background",
+          "query": "dance studio class collage rehearsal students"
+        }
+      },
+      {
+        "turn_id": "D9:2",
+        "speaker": "Gina",
+        "text": "Hey Jon! Wow, way to take your passion and make it into a biz! The dance studio looks awesome.",
+        "metadata": {
+          "blip_caption": "a photo of a display of a dress and a flamingo"
+        }
+      },
+      {
+        "turn_id": "D9:3",
+        "speaker": "Jon",
+        "text": "Thanks, Gina! I'm determined to make this studio work. Losing my job was tough but it gave me the push I needed to do what I love.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_11::episode-001",
+    "conversation_id": "conv-30",
+    "session_id": "session_11",
+    "observed_at": "2023-05-11T15:14:00",
+    "source_timestamp": "3:14 pm on 11 May, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Jon shares updates and motivation about opening his dance studio, and Gina offers encouragement",
+    "turns": [
+      {
+        "turn_id": "D11:1",
+        "speaker": "Jon",
+        "text": "Hi! Since we last spoke I am still working on the dance studio and things are looking up!",
+        "metadata": {
+          "blip_caption": "a photo of a woman in a short skirt with her hands on her hips"
+        }
+      },
+      {
+        "turn_id": "D11:2",
+        "speaker": "Gina",
+        "text": "Hi! You're so inspiring taking it on and opening your own studio!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:3",
+        "speaker": "Jon",
+        "text": "Thanks! Losing my job gave me the push to finally start my dream business: my own dance studio! Now I'm stepping into the unknown and hoping for the best.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:4",
+        "speaker": "Gina",
+        "text": "It must be scary stepping into the unknown but I know you can do it, Jon. With your determination and drive, your dance studio will be a huge success. Keep that positive outlook and keep going!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:5",
+        "speaker": "Jon",
+        "text": "Thanks! It's a bit scary, but I just think about my love for dance and how it makes me feel. It's been my stress-buster since childhood!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:6",
+        "speaker": "Gina",
+        "text": "Gotcha, Jon! Dance is my stress fix too. As soon as I start, all my worries vanish. It's amazing what we can do for our own mental health with something we enjoy.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:7",
+        "speaker": "Jon",
+        "text": "Yeah, Gina! Dancing helps me de-stress. It's where I'm most alive. It's a must-have in my life.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:8",
+        "speaker": "Gina",
+        "text": "I get it, Jon. Dance is just me -- I can't picture life without it. It's like air.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:9",
+        "speaker": "Jon",
+        "text": "Yep! Dancing is like second nature to me. I'm living my dream by having my own dance studio and teaching others.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:10",
+        "speaker": "Gina",
+        "text": "You're living the dream and inspiring others too! Your studio will totally change things for lots of folks.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:11",
+        "speaker": "Jon",
+        "text": "I hope so, Gina. I want to create a place for people to dance and express themselves - it's been a dream of mine.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:12",
+        "speaker": "Gina",
+        "text": "That's a great dream, Jon! Giving people a place to express themselves with dance is really important. Your studio is gonna make a huge difference. Can't wait to see it happen!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:13",
+        "speaker": "Jon",
+        "text": "Thanks! Your help means a lot. Keep you posted on the dance studio progress.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_16::episode-002",
+    "conversation_id": "conv-30",
+    "session_id": "session_16",
+    "observed_at": "2023-06-21T14:15:00",
+    "source_timestamp": "2:15 pm on 21 June, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Jon sharing his efforts and challenges with networking and job loss",
+    "turns": [
+      {
+        "turn_id": "D16:6",
+        "speaker": "Jon",
+        "text": "That's awesome, Gina! Yesterday I chose to go to networking events to make things happen. It's been tough but I'm staying determined and focused.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:7",
+        "speaker": "Gina",
+        "text": "Way to go, Jon! Attending those networking events takes guts and drive. Keep it up!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:8",
+        "speaker": "Jon",
+        "text": "Thanks! It's been tough going since I lost my job, but I'm sure investing my time in my business will pay off eventually. I really appreciate your help.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_17::episode-001",
+    "conversation_id": "conv-30",
+    "session_id": "session_17",
+    "observed_at": "2023-07-09T13:25:00",
+    "source_timestamp": "1:25 pm on 9 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Gina and Jon discuss recent personal progress and motivations",
+    "turns": [
+      {
+        "turn_id": "D17:1",
+        "speaker": "Gina",
+        "text": "Hey Jon! Long time no chat! How's the dance studio? Last week was wild, I got noticed by fashion editors and it's been amazing but kinda scary. Everything's exciting but it's a lot of pressure to keep going up!",
+        "metadata": {
+          "blip_caption": "a photo of a mannequin in a room with a wood wall"
+        }
+      },
+      {
+        "turn_id": "D17:2",
+        "speaker": "Jon",
+        "text": "Hey Gina! Congrats on the fashion editors reach-out, that's awesome! Dance practice has been fun and exhausting. I'm gonna stay determined and make my own path by going full-time with my biz idea.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:3",
+        "speaker": "Gina",
+        "text": "Just remember that sometimes stumbling blocks can be opened doors. Keep going!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:4",
+        "speaker": "Jon",
+        "text": "Thanks! Your support and encouragement means a lot. Losing my job was a bummer, but it pushed me to take the plunge and go for my biz dreams. Started to learn all these marketing and analytics tools to push the biz forward today. It's been tricky, but I'm up for the challenge and I'm gonna make this work!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:5",
+        "speaker": "Gina",
+        "text": "Go get 'em, Jon!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:6",
+        "speaker": "Jon",
+        "text": "I'm also excited to guide and mentor aspiring dancers on their dreams.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:7",
+        "speaker": "Gina",
+        "text": "Wow, Jon! That's awesome. Loving what you do and bringing joy to others is so rewarding. You're definitely the perfect mentor & guide. Your positivity and determination will make your dance studio a hit!",
+        "metadata": {
+          "blip_caption": "a photo of a drawing of a couple dancing"
+        }
+      },
+      {
+        "turn_id": "D17:8",
+        "speaker": "Jon",
+        "text": "Thanks, Gina - really appreciate your words and encouragement! Dance has the power to bring us together and create sweet moments. Moments like this remind me why I'm chasing my dream and keep me pushing through any struggles.",
+        "metadata": {}
+      }
+    ]
+  }
+]

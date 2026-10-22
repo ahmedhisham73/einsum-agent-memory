@@ -1,0 +1,284 @@
+[
+  {
+    "episode_id": "conv-30::session_2::chunk-0010",
+    "session_id": "session_2",
+    "observed_at": "2023-01-29T14:32:00",
+    "source_timestamp": "2:32 pm on 29 January, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D2:11",
+        "speaker": "Gina",
+        "text": "Believe in yourself, Jon! The process may be tough, but you got this. Push through and it'll be worth it. Don't forget to take breaks and dance it out when you need to destress!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:12",
+        "speaker": "Jon",
+        "text": "Glad I have you in my corner! Gotta make time to dance and vent, that's for sure. We'll make it through this - hang in there!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:13",
+        "speaker": "Gina",
+        "text": "Thanks, Jon! Appreciate your support!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:14",
+        "speaker": "Jon",
+        "text": "Let's keep going and chase our dreams!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:15",
+        "speaker": "Gina",
+        "text": "Yeah! We've done so much, and there's nothing but good stuff coming. Let's keep going after our goals and making them happen.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:16",
+        "speaker": "Jon",
+        "text": "Success is almost here. We got this!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_8::chunk-0000",
+    "session_id": "session_8",
+    "observed_at": "2023-04-03T13:26:00",
+    "source_timestamp": "1:26 pm on 3 April, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D8:1",
+        "speaker": "Jon",
+        "text": "Hey Gina, I had to shut down my bank account. It was tough, but I needed to do it for my biz.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:2",
+        "speaker": "Gina",
+        "text": "Oh no, Jon! Sorry to hear that. Tough decision for you? How're you handling the changes?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:3",
+        "speaker": "Jon",
+        "text": "It was a tough call, but I thought it'd help my biz grow. Handling changes has been hard, but I'm staying positive and looking ahead. Anything new for you?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:4",
+        "speaker": "Gina",
+        "text": "Oof, that's tough, Jon. I got some new offers and promotions going on my online store to try and bring in new customers. It's been a wild ride starting my business, but I'm not giving up!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:5",
+        "speaker": "Jon",
+        "text": "Nice one, Gina! Love how you never give up. What helps you stay motivated?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:6",
+        "speaker": "Gina",
+        "text": "Thanks Jon! Dance is my stress relief and fashion fuels my creativity. I love finding new trends for my store. It keeps me motivated to keep growing. Check out this pic of my fave dance session!",
+        "metadata": {
+          "img_url": [
+            "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_2151,w_2403,x_0,y_1044/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/export-1-37_l33gst.jpg"
+          ],
+          "blip_caption": "a photo of a man and woman doing a yoga pose",
+          "query": "dance studio session"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_11::chunk-0000",
+    "session_id": "session_11",
+    "observed_at": "2023-05-11T15:14:00",
+    "source_timestamp": "3:14 pm on 11 May, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D11:1",
+        "speaker": "Jon",
+        "text": "Hi! Since we last spoke I am still working on the dance studio and things are looking up!",
+        "metadata": {
+          "blip_caption": "a photo of a woman in a short skirt with her hands on her hips"
+        }
+      },
+      {
+        "turn_id": "D11:2",
+        "speaker": "Gina",
+        "text": "Hi! You're so inspiring taking it on and opening your own studio!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:3",
+        "speaker": "Jon",
+        "text": "Thanks! Losing my job gave me the push to finally start my dream business: my own dance studio! Now I'm stepping into the unknown and hoping for the best.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:4",
+        "speaker": "Gina",
+        "text": "It must be scary stepping into the unknown but I know you can do it, Jon. With your determination and drive, your dance studio will be a huge success. Keep that positive outlook and keep going!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:5",
+        "speaker": "Jon",
+        "text": "Thanks! It's a bit scary, but I just think about my love for dance and how it makes me feel. It's been my stress-buster since childhood!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:6",
+        "speaker": "Gina",
+        "text": "Gotcha, Jon! Dance is my stress fix too. As soon as I start, all my worries vanish. It's amazing what we can do for our own mental health with something we enjoy.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_11::chunk-0005",
+    "session_id": "session_11",
+    "observed_at": "2023-05-11T15:14:00",
+    "source_timestamp": "3:14 pm on 11 May, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D11:7",
+        "speaker": "Jon",
+        "text": "Yeah, Gina! Dancing helps me de-stress. It's where I'm most alive. It's a must-have in my life.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:8",
+        "speaker": "Gina",
+        "text": "I get it, Jon. Dance is just me -- I can't picture life without it. It's like air.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:9",
+        "speaker": "Jon",
+        "text": "Yep! Dancing is like second nature to me. I'm living my dream by having my own dance studio and teaching others.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:10",
+        "speaker": "Gina",
+        "text": "You're living the dream and inspiring others too! Your studio will totally change things for lots of folks.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:11",
+        "speaker": "Jon",
+        "text": "I hope so, Gina. I want to create a place for people to dance and express themselves - it's been a dream of mine.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_16::chunk-0005",
+    "session_id": "session_16",
+    "observed_at": "2023-06-21T14:15:00",
+    "source_timestamp": "2:15 pm on 21 June, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D16:6",
+        "speaker": "Jon",
+        "text": "That's awesome, Gina! Yesterday I chose to go to networking events to make things happen. It's been tough but I'm staying determined and focused.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:7",
+        "speaker": "Gina",
+        "text": "Way to go, Jon! Attending those networking events takes guts and drive. Keep it up!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:8",
+        "speaker": "Jon",
+        "text": "Thanks! It's been tough going since I lost my job, but I'm sure investing my time in my business will pay off eventually. I really appreciate your help.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:9",
+        "speaker": "Gina",
+        "text": "No worries, Jon! You got this! Let me know if you need anything.",
+        "metadata": {
+          "blip_caption": "a photo of a notepad with a pen and a pen on it"
+        }
+      },
+      {
+        "turn_id": "D16:10",
+        "speaker": "Jon",
+        "text": "Your help matters to me. I am writing all my plans down.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:11",
+        "speaker": "Gina",
+        "text": "Nice work! Tracking your plans and goals is key. It's like a picture of all your progress.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_17::chunk-0015",
+    "session_id": "session_17",
+    "observed_at": "2023-07-09T13:25:00",
+    "source_timestamp": "1:25 pm on 9 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D17:16",
+        "speaker": "Jon",
+        "text": "Thanks, Gina! Your belief in me means the world. I'm not gonna let anything or anyone stop me. I'll keep pushing and make my dreams come true. Thanks for being a great friend. You rock!",
+        "metadata": {
+          "blip_caption": "a photo of a chalkboard with a quote written on it"
+        }
+      },
+      {
+        "turn_id": "D17:17",
+        "speaker": "Gina",
+        "text": "Hey Jon, glad I could help! Always here to cheer you on.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:18",
+        "speaker": "Jon",
+        "text": "Thanks! Glad that you are on my side.",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/1jjaus9f0sab1.jpg"
+          ],
+          "blip_caption": "a photo of a drawing of a smiley face floating in the water",
+          "query": "childhood drawing soaring sky"
+        }
+      },
+      {
+        "turn_id": "D17:19",
+        "speaker": "Gina",
+        "text": "Sure, see ya. Bye!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:20",
+        "speaker": "Jon",
+        "text": "Bye!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:21",
+        "speaker": "Gina",
+        "text": ";)",
+        "metadata": {}
+      }
+    ]
+  }
+]

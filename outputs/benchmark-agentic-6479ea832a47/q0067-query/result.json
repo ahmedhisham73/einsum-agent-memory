@@ -1,0 +1,27 @@
+{
+  "status": "completed",
+  "experiment_id": "q0067-query",
+  "memory_build": "offline-memory-622a0d5cec62",
+  "baseline_build": "agentic-build-736fe53c3604",
+  "question": "What sparked John's interest in improving education and infrastructure in the community?",
+  "answer": "John's interest in improving education and infrastructure in the community was sparked by his experience growing up, where he saw how the lack of education and crumbling infrastructure affected his neighborhood. He does not want future generations to go through similar difficulties, motivating him to ensure schools and infrastructure are properly funded.",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-41::session_1::chunk-0005",
+      "turn_id": "D1:10"
+    }
+  ],
+  "elapsed_seconds": 6.388721917,
+  "stop_reason": "agent_ready",
+  "search_count": 1,
+  "selected_chunks": 6,
+  "unique_source_turns": 35,
+  "implementation": {
+    "chunk_turns": 6,
+    "overlap_turns": 1,
+    "top_k_per_search": 6,
+    "max_searches": 4,
+    "max_agent_decisions": 5
+  }
+}

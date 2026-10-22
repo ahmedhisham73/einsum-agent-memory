@@ -1,0 +1,15 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Jon",
+      "property": "stress_relief_activity",
+      "search": "How does Jon like to destress?"
+    },
+    {
+      "entity": "Gina",
+      "property": "stress_relief_activity",
+      "search": "How does Gina like to destress?"
+    }
+  ]
+}

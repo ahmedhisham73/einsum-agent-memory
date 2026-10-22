@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "eb1b1b4f-d26c-4063-9edf-e714ac437acc",
+    "response": {
+      "id": "chatcmpl-EbsBlZ2AoqJvxz6CgUAA7DstND57w",
+      "object": "chat.completion",
+      "created": 1792695145,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Caroline's grandma\",\"property\":\"residence_country\",\"search\":\"standalone evidence search\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2679,
+        "completion_tokens": 29,
+        "total_tokens": 2708,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6cab07b253"
+    },
+    "latency_seconds": 1.863995666
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "f36b7c05-207b-4c55-99d7-29abc7aca583",
+    "response": {
+      "id": "chatcmpl-EbsBnT6mTVveM6jppuyI48xnNtfR4",
+      "object": "chat.completion",
+      "created": 1792695147,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Caroline's grandma is from Sweden.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_4::episode-001\",\"turn_id\":\"D4:3\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 4172,
+        "completion_tokens": 44,
+        "total_tokens": 4216,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6a82cb19e8"
+    },
+    "latency_seconds": 1.758014583
+  }
+]

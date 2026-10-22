@@ -1,0 +1,10 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Jon",
+      "property": "motivation_reason",
+      "search": "why Jon decided to start his dance studio"
+    }
+  ]
+}

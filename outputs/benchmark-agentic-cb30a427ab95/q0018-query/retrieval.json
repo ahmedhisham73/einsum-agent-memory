@@ -1,0 +1,21 @@
+[
+  {
+    "query": "John's degree",
+    "returned_chunk_ids": [
+      "conv-41::session_12::chunk-0000",
+      "conv-41::session_28::chunk-0000",
+      "conv-41::session_28::chunk-0005",
+      "conv-41::session_9::chunk-0000",
+      "conv-41::session_9::chunk-0005",
+      "conv-41::session_9::chunk-0010"
+    ],
+    "cumulative_chunk_ids": [
+      "conv-41::session_12::chunk-0000",
+      "conv-41::session_28::chunk-0000",
+      "conv-41::session_28::chunk-0005",
+      "conv-41::session_9::chunk-0000",
+      "conv-41::session_9::chunk-0005",
+      "conv-41::session_9::chunk-0010"
+    ]
+  }
+]

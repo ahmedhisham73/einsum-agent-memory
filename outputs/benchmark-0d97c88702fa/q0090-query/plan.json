@@ -1,0 +1,10 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Melanie",
+      "property": "attitude",
+      "search": "Melanie's opinion or attitude about Caroline's decision to adopt"
+    }
+  ]
+}

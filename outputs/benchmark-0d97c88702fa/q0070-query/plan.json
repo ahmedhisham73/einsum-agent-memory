@@ -1,0 +1,35 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Melanie",
+      "property": "said",
+      "search": "Melanie's statements about Caroline's personality traits"
+    },
+    {
+      "entity": "Melanie",
+      "property": "describes_Caroline",
+      "search": "Descriptions of Caroline by Melanie"
+    },
+    {
+      "entity": "Melanie",
+      "property": "characteristic",
+      "search": "Personality traits Melanie attributes to Caroline"
+    },
+    {
+      "entity": "Melanie",
+      "property": "appreciates_Caroline",
+      "search": "Melanie's descriptions or appreciation of Caroline's qualities"
+    },
+    {
+      "entity": "Melanie",
+      "property": "values_friendship_of",
+      "search": "Traits Melanie values in Caroline"
+    },
+    {
+      "entity": "Melanie",
+      "property": "view_of_Melanie",
+      "search": "How Melanie views Caroline’s personality traits"
+    }
+  ]
+}

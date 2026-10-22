@@ -1,0 +1,30 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "John",
+      "property": "degree_completion_status",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "John",
+      "property": "focus_area",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "John",
+      "property": "interest_areas",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "John",
+      "property": "education",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "John",
+      "property": "career_aspiration",
+      "search": "standalone evidence search"
+    }
+  ]
+}

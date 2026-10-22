@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "b531f283-5825-48ce-96e5-ae2c080f152c",
+    "response": {
+      "id": "chatcmpl-Ebs6YS6wnU7U2Fgql5EDuuM7qPlYs",
+      "object": "chat.completion",
+      "created": 1792694822,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Caroline\",\"property\":\"career_interest\",\"search\":\"Caroline's interest in counseling career\"},{\"entity\":\"Caroline\",\"property\":\"has_received_support_from\",\"search\":\"support Caroline received growing up\"},{\"entity\":\"Caroline\",\"property\":\"motivation_for_career_choice\",\"search\":\"motivation behind Caroline's choice for counseling career\"},{\"entity\":\"Caroline\",\"property\":\"personal_reflection\",\"search\":\"Caroline's reflection or statement on pursuing counseling without support\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2689,
+        "completion_tokens": 100,
+        "total_tokens": 2789,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4ffa17cc03"
+    },
+    "latency_seconds": 2.273018292
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "e4090b3c-dc74-4787-9a98-cfde70310753",
+    "response": {
+      "id": "chatcmpl-Ebs6bnHiVG3GAbYwwylD93Xkk3NvB",
+      "object": "chat.completion",
+      "created": 1792694825,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"No evidence explicitly states whether Caroline would still want to pursue counseling as a career if she hadn't received support growing up. However, she emphasizes that the support she received was crucial and motivated her career interest in counseling and mental health, as it made a huge difference and inspired her to help others with similar experiences.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_4::episode-003\",\"turn_id\":\"D4:15\"},{\"episode_id\":\"conv-26::session_19::episode-003\",\"turn_id\":\"D19:9\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 6110,
+        "completion_tokens": 120,
+        "total_tokens": 6230,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6a82cb19e8"
+    },
+    "latency_seconds": 2.075357917
+  }
+]

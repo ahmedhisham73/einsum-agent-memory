@@ -1,0 +1,21 @@
+[
+  {
+    "query": "Maria beach visit date",
+    "returned_chunk_ids": [
+      "conv-41::session_11::chunk-0000",
+      "conv-41::session_16::chunk-0005",
+      "conv-41::session_16::chunk-0010",
+      "conv-41::session_19::chunk-0015",
+      "conv-41::session_19::chunk-0020",
+      "conv-41::session_31::chunk-0020"
+    ],
+    "cumulative_chunk_ids": [
+      "conv-41::session_11::chunk-0000",
+      "conv-41::session_16::chunk-0005",
+      "conv-41::session_16::chunk-0010",
+      "conv-41::session_19::chunk-0015",
+      "conv-41::session_19::chunk-0020",
+      "conv-41::session_31::chunk-0020"
+    ]
+  }
+]

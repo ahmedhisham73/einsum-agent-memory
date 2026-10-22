@@ -1,0 +1,5 @@
+ANSWER: Both John and Maria have volunteered at places providing food and shelter assistance. John has volunteered at a food bank and food drives helping people who lost jobs, while Maria has volunteered at homeless shelters and linked homeless individuals to support organizations. Thus, they both have done volunteering related to helping the homeless and those in need with food and shelter.
+SEARCHES: 1
+
+/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(

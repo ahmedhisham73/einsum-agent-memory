@@ -1,0 +1,47 @@
+[
+  {
+    "call_id": "c863ec0d-47bf-4f2f-ab29-c8499bd0f652",
+    "experiment_id": "q0082-query",
+    "approach": "ensimem",
+    "phase": "query",
+    "stage": "requirement_planning",
+    "provider": "openai",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "input_tokens": 2683,
+    "output_tokens": 145,
+    "cached_input_tokens": 0,
+    "query_id": "conv-26::q0082",
+    "usage_kind": "generation",
+    "attempt": 1
+  },
+  {
+    "call_id": "4678159c-4d8e-4da4-92ef-ad892a81f50e",
+    "experiment_id": "q0082-query",
+    "approach": "ensimem",
+    "phase": "query",
+    "stage": "requirement_embedding",
+    "provider": "openai",
+    "model": "text-embedding-3-small",
+    "input_tokens": 56,
+    "output_tokens": 0,
+    "cached_input_tokens": null,
+    "query_id": "conv-26::q0082",
+    "usage_kind": "embedding",
+    "attempt": 1
+  },
+  {
+    "call_id": "561ac21c-3591-4f13-b064-a1cba3b447d1",
+    "experiment_id": "q0082-query",
+    "approach": "ensimem",
+    "phase": "query",
+    "stage": "grounded_answer",
+    "provider": "openai",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "input_tokens": 9043,
+    "output_tokens": 181,
+    "cached_input_tokens": 0,
+    "query_id": "conv-26::q0082",
+    "usage_kind": "generation",
+    "attempt": 1
+  }
+]

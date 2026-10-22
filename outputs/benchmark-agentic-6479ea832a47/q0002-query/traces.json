@@ -1,0 +1,125 @@
+[
+  {
+    "stage": "agent_decision",
+    "call_id": "de560952-a346-4024-bc8f-79d2f857187c",
+    "response": {
+      "id": "chatcmpl-EbsPclV6OiMkLswpnVQonzpHTBAVW",
+      "object": "chat.completion",
+      "created": 1792696004,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"search\",\"query\":\"Maria donate her car\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 148,
+        "completion_tokens": 12,
+        "total_tokens": 160,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_b64959fd61"
+    },
+    "latency_seconds": 1.6935149580000002
+  },
+  {
+    "stage": "agent_decision",
+    "call_id": "a09dc740-2bb0-461c-b5e1-6f01413796b8",
+    "response": {
+      "id": "chatcmpl-EbsPeHwshRr0g0pak0VXUpA60yThg",
+      "object": "chat.completion",
+      "created": 1792696006,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"ready\",\"reason\":\"No mention of Maria donating her car in the gathered conversation chunks from February to August 2023.\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3150,
+        "completion_tokens": 28,
+        "total_tokens": 3178,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_b64959fd61"
+    },
+    "latency_seconds": 1.8748570420000004
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "96c9702f-20cc-4ef2-93f8-c4a8c97d9f5d",
+    "response": {
+      "id": "chatcmpl-EbsPhsDsljCRUzwr2CtSBkbWbjccD",
+      "object": "chat.completion",
+      "created": 1792696009,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"There is no information in the provided conversations about Maria donating her car.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-41::session_21::chunk-0000\",\"turn_id\":\"D21:3\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2972,
+        "completion_tokens": 51,
+        "total_tokens": 3023,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6a82cb19e8"
+    },
+    "latency_seconds": 2.9650972499999995
+  }
+]

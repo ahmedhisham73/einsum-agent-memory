@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-41::q0002",
+  "category": 2,
+  "question": "When did Maria donate her car?",
+  "gold_answer": "21 December 2022",
+  "status": "scored",
+  "generated_answer": "Maria donated her old car to a homeless shelter she volunteers at on 21 December 2022 (yesterday relative to the 22 December 2022 conversation).",
+  "citations": [
+    {
+      "episode_id": "conv-41::session_2::episode-001",
+      "turn_id": "D2:1"
+    }
+  ],
+  "query_elapsed_seconds": 5.658786458000001,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer provides the exact date of Maria's car donation, matching the reference answer."
+}

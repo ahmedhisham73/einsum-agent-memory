@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-26::q0047",
+  "category": 3,
+  "question": "Would Melanie be considered an ally to the transgender community?",
+  "gold_answer": "Yes, she is supportive",
+  "status": "failed",
+  "error": "Query failed. See q0047.log"
+}

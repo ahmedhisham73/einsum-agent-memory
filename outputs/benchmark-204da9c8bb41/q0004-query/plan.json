@@ -1,0 +1,15 @@
+{
+  "scope": "all_matching",
+  "requirements": [
+    {
+      "entity": "John",
+      "property": "volunteering_activity",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Maria",
+      "property": "volunteering_activity",
+      "search": "standalone evidence search"
+    }
+  ]
+}

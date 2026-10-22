@@ -1,0 +1,30 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Caroline",
+      "property": "support_received",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Caroline",
+      "property": "support_system",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Caroline",
+      "property": "support_network_role",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Caroline",
+      "property": "has_received_support_from",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Caroline",
+      "property": "received_help_from",
+      "search": "standalone evidence search"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "experiment_id": "offline-memory-56eff758b0c3",
   "status": "incomplete",
-  "stage": "partitioning",
+  "stage": "extraction",
   "source_kind": "locomo_benchmark",
   "conversation_id": "conv-42",
   "session_count": 29,
@@ -11,8 +11,7 @@
   "requested_model": "gpt-4.1-mini",
   "timezone_policy": "Source timezone unspecified",
   "media_policy": "Textual metadata retained; no image URLs fetched",
-  "episode_count": 123,
-  "record_count": 0,
-  "recovery_version": "v1.1",
-  "recovery_error": "LLM request failed; call_id=be493ca4-d7bc-4e12-abc1-2169a4f4c771; kind=URLError; <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  "episode_count": 127,
+  "record_count": 385,
+  "recovery_version": "v1.1"
 }

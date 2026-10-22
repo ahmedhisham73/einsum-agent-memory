@@ -1,0 +1,29 @@
+{
+  "question_id": "conv-26::q0086",
+  "category": 4,
+  "question": "What are Caroline's plans for the summer?",
+  "gold_answer": "researching adoption agencies",
+  "status": "scored",
+  "generated_answer": "Caroline plans for the summer include attending a transgender conference to meet community members and learn about advocacy, hosting an LGBTQ art show featuring her paintings, considering a family or special outing with Melanie to catch up and explore nature, and continuing her volunteering at a youth center with an upcoming talent show for the kids.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_5::episode-003",
+      "turn_id": "D5:13"
+    },
+    {
+      "episode_id": "conv-26::session_9::episode-004",
+      "turn_id": "D9:12"
+    },
+    {
+      "episode_id": "conv-26::session_12::episode-005",
+      "turn_id": "D12:17"
+    },
+    {
+      "episode_id": "conv-26::session_15::episode-002",
+      "turn_id": "D15:11"
+    }
+  ],
+  "query_elapsed_seconds": 4.903487625,
+  "label": "WRONG",
+  "judge_reason": "The generated answer does not mention Caroline's plans related to 'researching adoption agencies' and instead provides unrelated activities."
+}

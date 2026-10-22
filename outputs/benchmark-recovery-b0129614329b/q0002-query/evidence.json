@@ -1,0 +1,283 @@
+[
+  {
+    "episode_id": "conv-41::session_1::episode-001",
+    "conversation_id": "conv-41",
+    "session_id": "session_1",
+    "observed_at": "2022-12-17T11:01:00",
+    "source_timestamp": "11:01 am on 17 December, 2022",
+    "timezone_status": "unspecified",
+    "theme": "Casual catch-up and personal updates",
+    "turns": [
+      {
+        "turn_id": "D1:1",
+        "speaker": "Maria",
+        "text": "Hey John! Long time no see! What's up?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:2",
+        "speaker": "John",
+        "text": "Hey Maria! Good to see you. Just got back from a family road trip yesterday, it was fun! Anything exciting happening for you?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:3",
+        "speaker": "Maria",
+        "text": "Been busy volunteering at the homeless shelter and keeping fit. Just started doing aerial yoga, it's great. Have you tried any other cool workout classes?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_2::episode-001",
+    "conversation_id": "conv-41",
+    "session_id": "session_2",
+    "observed_at": "2022-12-22T18:10:00",
+    "source_timestamp": "6:10 pm on 22 December, 2022",
+    "timezone_status": "unspecified",
+    "theme": "Discussion about John's campaign and motivation for community improvement",
+    "turns": [
+      {
+        "turn_id": "D2:1",
+        "speaker": "Maria",
+        "text": "Hey John, been a few days since we chatted. In the meantime, I donated my old car to a homeless shelter I volunteer at yesterday. How's the campaign going? I'm keen to hearabout it.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:2",
+        "speaker": "John",
+        "text": "Hi Maria! It's been an interesting ride so far. I've been networking with some people to get their input.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:3",
+        "speaker": "Maria",
+        "text": "That's awesome, John! Networking is great for gaining new perspectives and insights. Have you had any interesting conversations or revelations so far?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:4",
+        "speaker": "John",
+        "text": "I just talked to someone who shared some amazing stories. It really fired up my passion to make education better in our area.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:5",
+        "speaker": "Maria",
+        "text": "Wow, John! Hearing that can really make an impact and get us fired up to make a difference. It's great to hear that you're feeling motivated to make improvements to our community's education!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:6",
+        "speaker": "John",
+        "text": "Definitely, Maria. Investing in our future generations is key, giving them the right tools for success. It's the foundation of progress and opportunity.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:7",
+        "speaker": "Maria",
+        "text": "Yeah, John. It's amazing how even minor tweaks to the system can make a big difference for lots of people. I'm really impressed with your enthusiasm and commitment to it!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:8",
+        "speaker": "John",
+        "text": "Thanks, Maria. Your encouragement means a lot to me. It's true that with effort and support, we can make a real difference in our community.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:9",
+        "speaker": "Maria",
+        "text": "You got this, John! I believe in your power to make a positive difference. Your passion inspires me. Keep going - I'm here for you.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_6::episode-001",
+    "conversation_id": "conv-41",
+    "session_id": "session_6",
+    "observed_at": "2023-02-05T14:33:00",
+    "source_timestamp": "2:33 pm on 5 February, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Maria shares her experience volunteering at a charity event and its emotional impact",
+    "turns": [
+      {
+        "turn_id": "D6:1",
+        "speaker": "Maria",
+        "text": "Hey John! Long time no talk. I just wanted to let you know I challenged myself last Friday and did a charity event. It was great! I truly felt the power of our collective effort to help people in need, so heartwarming.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:2",
+        "speaker": "John",
+        "text": "Wow, Maria! Truly inspiring! It's so cool to see how our community can make a difference. How did it feel to be part of that event?",
+        "metadata": {
+          "blip_caption": "a photo of a woman handing a plate of food to a man"
+        }
+      },
+      {
+        "turn_id": "D6:3",
+        "speaker": "Maria",
+        "text": "Thanks, John! It was such a rewarding experience. Just the act of serving meals and seeing the gratitude on their faces was truly heartwarming. It reminded me of how powerful compassion can be. So, tell me, what made you get into politics?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_7::episode-003",
+    "conversation_id": "conv-41",
+    "session_id": "session_7",
+    "observed_at": "2023-02-25T20:55:00",
+    "source_timestamp": "8:55 pm on 25 February, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Maria's volunteer experience and story of resilience",
+    "turns": [
+      {
+        "turn_id": "D7:5",
+        "speaker": "Maria",
+        "text": "Wow John, your enthusiasm for making a better future is inspiring. Making a positive impact is so rewarding! While volunteering yesterday, I met this amazing woman, Jean, who had been through a lot, yet stayed optimistic and resilient. She showed me the importance of gratitude and connection.",
+        "metadata": {
+          "blip_caption": "a photo of a woman with a blue shirt and a ring on her neck"
+        }
+      },
+      {
+        "turn_id": "D7:6",
+        "speaker": "John",
+        "text": "Wow, Maria! How did she end up in such a situation, and how did she remain positive throughout?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:7",
+        "speaker": "Maria",
+        "text": "She had a tough time, going through a divorce, losing her job, and ending up homeless. Yet, she still values the little things and believes in the good of kindness.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:8",
+        "speaker": "John",
+        "text": "It's really inspiring to see someone staying optimistic even when things get tough.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:9",
+        "speaker": "Maria",
+        "text": "Yeah, sure is. It's a reminder that, no matter what, we can still find joy and hope.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_14::episode-002",
+    "conversation_id": "conv-41",
+    "session_id": "session_14",
+    "observed_at": "2023-05-06T17:04:00",
+    "source_timestamp": "5:04 pm on 6 May, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Conversation about personal well-being and Maria's involvement in charity and church",
+    "turns": [
+      {
+        "turn_id": "D14:7",
+        "speaker": "John",
+        "text": "Thanks, Maria. Got it. It's easy to get lost and forget that. Appreciate your support. How's that going for you?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:8",
+        "speaker": "Maria",
+        "text": "Hey John, I've been doing great lately. I've been involved in some charity work and it's been really rewarding. I feel connected and it's really fulfilling.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:9",
+        "speaker": "John",
+        "text": "Wow, Maria! Glad you found something that brings you so much joy. What kind of work have you been doing?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:10",
+        "speaker": "Maria",
+        "text": "Just yesterday I joined a nearby church. I wanted to feel closer to a community and my faith. So far it's been really great!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:11",
+        "speaker": "John",
+        "text": "That's great, Maria! Joining a church can be really encouraging. I'm thrilled for you. How's everything been going?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:12",
+        "speaker": "Maria",
+        "text": "Life's been a bit rough lately but I'm doing alright. I'm taking the time to reflect and find some balance. How about you? What's been going on since we last talked?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_16::episode-002",
+    "conversation_id": "conv-41",
+    "session_id": "session_16",
+    "observed_at": "2023-05-25T13:24:00",
+    "source_timestamp": "1:24 pm on 25 May, 2023",
+    "timezone_status": "unspecified",
+    "theme": "John offers help and Maria shares fundraiser details",
+    "turns": [
+      {
+        "turn_id": "D16:3",
+        "speaker": "John",
+        "text": "Wow, Maria! Raising money is crucial for those in need. Is there any way I can help out with your fundraiser?",
+        "metadata": {
+          "blip_caption": "a photo of a poster for a chili cook off event"
+        }
+      },
+      {
+        "turn_id": "D16:4",
+        "speaker": "Maria",
+        "text": "Thanks, John! Appreciate your help. We need to get the word out about the chili cook-off at the fundraiser. Here's the poster!",
+        "metadata": {
+          "img_url": [
+            "https://patch.com/img/cdn20/users/26387059/20221221/113941/bbd143cd-d2aa-4d9f-8547-6f333402e7aa___21113933647.jpg"
+          ],
+          "blip_caption": "a photo of a poster for a chili cook off event",
+          "query": "chili cook off poster event"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_17::episode-003",
+    "conversation_id": "conv-41",
+    "session_id": "session_17",
+    "observed_at": "2023-06-03T11:51:00",
+    "source_timestamp": "11:51 am on 3 June, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Discussing plans to adopt a rescue dog and offering help",
+    "turns": [
+      {
+        "turn_id": "D17:10",
+        "speaker": "Maria",
+        "text": "That's a great lesson to pass on to your kids, John. Both are really important for strong relationships. Any plans to give another pet a loving home?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:11",
+        "speaker": "John",
+        "text": "We're considering adopting a rescue dog - for love and to teach our kids responsibility and compassion.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:12",
+        "speaker": "Maria",
+        "text": "John, that's such a great idea! It gives the pup a loving home and teaches your kids important values. If you need any help, let me know! I just started volunteering at a local dog shelter once a month.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:13",
+        "speaker": "John",
+        "text": "Thanks for the offer, Maria! It's so awesome to have friends like you. If we need help, we'll let you know. Appreciate it!",
+        "metadata": {}
+      }
+    ]
+  }
+]

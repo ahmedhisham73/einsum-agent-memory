@@ -1,7 +1,7 @@
 {
   "experiment_id": "offline-memory-622a0d5cec62",
-  "status": "incomplete",
-  "stage": "extraction",
+  "status": "completed",
+  "stage": "finished",
   "source_kind": "locomo_benchmark",
   "conversation_id": "conv-41",
   "session_count": 32,
@@ -12,6 +12,6 @@
   "timezone_policy": "Source timezone unspecified",
   "media_policy": "Textual metadata retained; no image URLs fetched",
   "episode_count": 133,
-  "record_count": 303,
+  "record_count": 775,
   "recovery_version": "v1.1"
 }

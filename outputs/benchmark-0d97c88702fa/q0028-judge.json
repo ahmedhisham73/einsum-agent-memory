@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-Ebs7lD1KsstBrHR9ZZYrVDAiK5idL",
+  "object": "chat.completion",
+  "created": 1792694897,
+  "model": "gpt-4o-mini-2024-07-18",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\"label\":\"CORRECT\",\"reason\":\"The generated answer accurately indicates that Caroline is not pursuing writing as a career and supports this with details about her interest in counseling and other related fields.\"}",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 235,
+    "completion_tokens": 38,
+    "total_tokens": 273,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_2851888338"
+}

@@ -1,0 +1,40 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Melanie",
+      "property": "membership_description",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Melanie",
+      "property": "gender_identity_path",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Melanie",
+      "property": "views_being_oneself",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Melanie",
+      "property": "expresses_support_for",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Melanie",
+      "property": "feelings_about_LGBTQ+ community",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Melanie",
+      "property": "started_transition",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Melanie",
+      "property": "status",
+      "search": "standalone evidence search"
+    }
+  ]
+}

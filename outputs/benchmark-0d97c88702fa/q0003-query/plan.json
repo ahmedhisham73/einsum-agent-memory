@@ -1,0 +1,10 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Caroline",
+      "property": "career_interest",
+      "search": "evidence of fields Caroline is interested in pursuing in her education or career"
+    }
+  ]
+}

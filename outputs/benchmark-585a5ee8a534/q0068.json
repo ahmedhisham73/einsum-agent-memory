@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-41::q0068",
+  "category": 4,
+  "question": "How did the extra funding help the school shown in the photo shared by John?",
+  "gold_answer": "Enabled needed repairs and renovations, making the learning environment safer and more modern for students.",
+  "status": "scored",
+  "generated_answer": "The extra funding helped the school shown in the photo by enabling needed repairs and renovations, which made the learning environment safer and more modern for students.",
+  "citations": [
+    {
+      "episode_id": "conv-41::session_1::episode-004",
+      "turn_id": "D1:12"
+    }
+  ],
+  "query_elapsed_seconds": 5.550504583,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer captures the essence and details of the reference answer without any contradictions or unsupported additions."
+}

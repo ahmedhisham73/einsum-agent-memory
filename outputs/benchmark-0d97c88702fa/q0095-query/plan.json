@@ -1,0 +1,25 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Melanie's hand-painted bowl",
+      "property": "artwork_symbolism",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Melanie's hand-painted bowl",
+      "property": "symbolism",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Melanie's hand-painted bowl",
+      "property": "meaning",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Melanie's hand-painted bowl",
+      "property": "reminder_of",
+      "search": "standalone evidence search"
+    }
+  ]
+}

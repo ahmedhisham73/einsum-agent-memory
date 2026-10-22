@@ -1,0 +1,39 @@
+{
+  "status": "completed",
+  "experiment_id": "q0004-query",
+  "memory_build": "offline-memory-622a0d5cec62",
+  "baseline_build": "agentic-build-736fe53c3604",
+  "question": "What type of volunteering have John and Maria both done?",
+  "answer": "Both John and Maria have volunteered at places providing food and shelter assistance. John has volunteered at a food bank and food drives helping people who lost jobs, while Maria has volunteered at homeless shelters and linked homeless individuals to support organizations. Thus, they both have done volunteering related to helping the homeless and those in need with food and shelter.",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-41::session_6::chunk-0005",
+      "turn_id": "D6:10"
+    },
+    {
+      "episode_id": "conv-41::session_6::chunk-0005",
+      "turn_id": "D6:7"
+    },
+    {
+      "episode_id": "conv-41::session_9::chunk-0015",
+      "turn_id": "D9:17"
+    },
+    {
+      "episode_id": "conv-41::session_27::chunk-0000",
+      "turn_id": "D27:2"
+    }
+  ],
+  "elapsed_seconds": 7.390299083,
+  "stop_reason": "agent_ready",
+  "search_count": 1,
+  "selected_chunks": 6,
+  "unique_source_turns": 32,
+  "implementation": {
+    "chunk_turns": 6,
+    "overlap_turns": 1,
+    "top_k_per_search": 6,
+    "max_searches": 4,
+    "max_agent_decisions": 5
+  }
+}

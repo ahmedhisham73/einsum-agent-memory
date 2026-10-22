@@ -1,0 +1,10 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Melanie",
+      "property": "signed_up_for_class",
+      "search": "standalone evidence search"
+    }
+  ]
+}

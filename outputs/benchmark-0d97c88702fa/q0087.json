@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0087",
+  "category": 4,
+  "question": "What type of individuals does the adoption agency Caroline is considering support?",
+  "gold_answer": "LGBTQ+ individuals",
+  "status": "scored",
+  "generated_answer": "The adoption agency Caroline is considering supports LGBTQ+ individuals.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_2::episode-002",
+      "turn_id": "D2:12"
+    }
+  ],
+  "query_elapsed_seconds": 4.825512875,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer accurately states that the adoption agency supports LGBTQ+ individuals, matching the reference answer."
+}

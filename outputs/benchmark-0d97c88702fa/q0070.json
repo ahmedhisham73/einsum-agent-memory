@@ -1,0 +1,29 @@
+{
+  "question_id": "conv-26::q0070",
+  "category": 3,
+  "question": "What personality traits might Melanie say Caroline has?",
+  "gold_answer": "Thoughtful, authentic, driven",
+  "status": "scored",
+  "generated_answer": "Melanie might say Caroline has personality traits such as strength, courage, bravery, inspiring nature, thoughtfulness, kindness, and being supportive. Melanie appreciates Caroline's ability to spread awareness, encourage inclusivity and acceptance, and her bravery in speaking up for the trans community. Melanie also views Caroline as someone who creates love, acceptance, and hope for others, and values their friendship and mutual support.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_3::episode-001",
+      "turn_id": "D3:2"
+    },
+    {
+      "episode_id": "conv-26::session_3::episode-001",
+      "turn_id": "D3:4"
+    },
+    {
+      "episode_id": "conv-26::session_19::episode-003",
+      "turn_id": "D19:8"
+    },
+    {
+      "episode_id": "conv-26::session_19::episode-003",
+      "turn_id": "D19:10"
+    }
+  ],
+  "query_elapsed_seconds": 6.464634042,
+  "label": "WRONG",
+  "judge_reason": "The generated answer includes additional traits and descriptions not mentioned in the reference answer and expands beyond the three specified traits."
+}

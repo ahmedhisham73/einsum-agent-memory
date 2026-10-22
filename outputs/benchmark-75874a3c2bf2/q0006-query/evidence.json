@@ -1,0 +1,619 @@
+[
+  {
+    "episode_id": "conv-30::session_1::episode-005",
+    "conversation_id": "conv-30",
+    "session_id": "session_1",
+    "observed_at": "2023-01-20T16:04:00",
+    "source_timestamp": "4:04 pm on 20 January, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Dance performances and ideal dance studio environment",
+    "turns": [
+      {
+        "turn_id": "D1:19",
+        "speaker": "Gina",
+        "text": "Thanks! We just did a contemporary piece called \"Finding Freedom.\" It was really emotional and powerful.",
+        "metadata": {
+          "blip_caption": "a photo of a large open porch with a fireplace and a view of the water"
+        }
+      },
+      {
+        "turn_id": "D1:20",
+        "speaker": "Jon",
+        "text": "Wow, that must've been great! Check my ideal dance studio by the water.",
+        "metadata": {
+          "img_url": [
+            "https://live.staticflickr.com/2730/4360526470_6bee96b5d7_b.jpg"
+          ],
+          "blip_caption": "a photography of a room with a view of the ocean and a few yoga mats",
+          "query": "dance studio overlooking ocean",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D1:21",
+        "speaker": "Gina",
+        "text": "Cool setup! Man, you can't deny that view! Got time to rehearse with a biz and a new store?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:22",
+        "speaker": "Jon",
+        "text": "Hopefully, we will find a place like this that will inspire us!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:23",
+        "speaker": "Gina",
+        "text": "Wow, it looks great! What dances do you practice? Got any projects planned?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_3::episode-001",
+    "conversation_id": "conv-30",
+    "session_id": "session_3",
+    "observed_at": "2023-02-01T00:48:00",
+    "source_timestamp": "12:48 am on 1 February, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Jon shares update about dance studio search; Gina responds with news about expanding her clothing store",
+    "turns": [
+      {
+        "turn_id": "D3:1",
+        "speaker": "Jon",
+        "text": "Hey Gina, hope you're doing ok! Still following my passion for dance. It's been bumpy, but I'm determined to make it work. I'm still searching for a place to open my dance studio.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:2",
+        "speaker": "Gina",
+        "text": "Hi Jon! So happy you're pushing forward with dancing! Inspiring 💪 I emailed some wholesalers and one replied and said yes today! I'm over the moon because now I can expand my clothing store and get closer to my customers. Check it out - here's a pic!",
+        "metadata": {
+          "img_url": [
+            "https://s0.geograph.org.uk/photos/44/02/440245_a865f9d5.jpg"
+          ],
+          "re-download": true,
+          "blip_caption": "a photography of a shopping mall with a glass entrance and a sign"
+        }
+      },
+      {
+        "turn_id": "D3:3",
+        "speaker": "Jon",
+        "text": "Wow, Gina! You found the perfect spot for your store. Way to go, hard work's paying off!",
+        "metadata": {
+          "blip_caption": "a photo of a room with a mirror and a wooden floor"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_3::episode-003",
+    "conversation_id": "conv-30",
+    "session_id": "session_3",
+    "observed_at": "2023-02-01T00:48:00",
+    "source_timestamp": "12:48 am on 1 February, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Mutual encouragement and support for each other's entrepreneurial goals",
+    "turns": [
+      {
+        "turn_id": "D3:9",
+        "speaker": "Jon",
+        "text": "That's a great goal! Creating a special experience for customers is the key to making them feel welcome and coming back. I think you can create that space you're imagining.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:10",
+        "speaker": "Gina",
+        "text": "Thanks. Your support means a lot. I'm sure with my hard work and effort, I can make a special shopping experience for my customers. It's tough but I'm up for the challenge!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:11",
+        "speaker": "Jon",
+        "text": "I'm always here to support you! Go create something awesome with your store. Keep it up!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:12",
+        "speaker": "Gina",
+        "text": "Thanks, Jon! I'll try my best. You're gonna do great with your dance studio, just keep going and stay positive! We'll get through this!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:13",
+        "speaker": "Jon",
+        "text": "Thanks! Your words mean a lot. I'm staying positive and pushing forward. We've put our hearts into our dreams and I'm sure we'll make it.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:14",
+        "speaker": "Gina",
+        "text": "Sure thing, Jon! Stay motivated and keep going. Hard work pays off eventually. We can do this!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_4::episode-001",
+    "conversation_id": "conv-30",
+    "session_id": "session_4",
+    "observed_at": "2023-02-04T10:43:00",
+    "source_timestamp": "10:43 am on 4 February, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Jon and Gina discuss Jon's business challenges and store updates",
+    "turns": [
+      {
+        "turn_id": "D4:1",
+        "speaker": "Jon",
+        "text": "Hey Gina! What's up? How's the store going? I gotta tell you about this thing with my biz.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:2",
+        "speaker": "Gina",
+        "text": "Hey Jon! The store's doing great! It's a wild ride. How's the biz?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:3",
+        "speaker": "Jon",
+        "text": "Hey Gina! I'm putting in a lot of work on my business even with the obstacles. I'm gonna make it happen!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:4",
+        "speaker": "Gina",
+        "text": "Wow! You've got drive! Keep it up and you'll definitely make a splash.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:5",
+        "speaker": "Jon",
+        "text": "Thanks Gina! Your help really means a lot. Sometimes it's hard when things don't go my way, but I'm sure if I keep pushing, I'll reach my dreams!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:6",
+        "speaker": "Gina",
+        "text": "Understand where you're at, Jon. Setbacks are just opportunities for comebacks. You got the skills, passion, and drive. Plus my full support. Don't give up, buddy!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:7",
+        "speaker": "Jon",
+        "text": "Thanks! Setbacks can be tough, but with your support, I can handle anything. Appreciate you having my back!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:8",
+        "speaker": "Gina",
+        "text": "I'm here for you no matter what! Anything you want to say about your biz?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:9",
+        "speaker": "Jon",
+        "text": "Searching for a dance studio location has been tricky, but I'm determined to find the right spot - when I do, I'm sure the rest will follow!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:10",
+        "speaker": "Gina",
+        "text": "Searching for the perfect dance studio's a tough job, Jon. Hang in there and you'll find it soon!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_5::episode-006",
+    "conversation_id": "conv-30",
+    "session_id": "session_5",
+    "observed_at": "2023-02-08T09:32:00",
+    "source_timestamp": "9:32 am on 8 February, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Balancing dance passion with business goals and continued mutual support",
+    "turns": [
+      {
+        "turn_id": "D5:18",
+        "speaker": "Jon",
+        "text": "Thanks, Gina! Your support means so much. I'm gonna keep chasing after those dreams. Dance is my passion, and I'm gonna keep working hard to make it a success!",
+        "metadata": {
+          "blip_caption": "a photo of a trophy with a glass globe on top"
+        }
+      },
+      {
+        "turn_id": "D5:19",
+        "speaker": "Gina",
+        "text": "This is the right attitude! How have you been juggling dance and business goals?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:20",
+        "speaker": "Jon",
+        "text": "Thanks! Juggling both my passions can be tricky, but so rewarding. Dancing and running my biz need hard work, plus they give me energy for each other. My dance moves get me pumped to tackle my business goals, and successes there boost my drive to keep dreaming on the dance floor. It's a balancing act, but fun.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:21",
+        "speaker": "Gina",
+        "text": "Wow, Jon! You're amazing at juggling both your passions. Finding that happy medium is key - keep going and don't stop dreaming, buddy!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:22",
+        "speaker": "Jon",
+        "text": "Thanks, Gina! Your pep-talk really meant a lot. I'm not gonna give up on my dreams - my dance studio and biz ventures need the hard work I'm putting in. Love having you in my corner, thanks for always being there!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:23",
+        "speaker": "Gina",
+        "text": "Yeah Jon, I'm here for you! Chasing our dreams and helping each other out. Let's keep movin' forward!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_7::episode-003",
+    "conversation_id": "conv-30",
+    "session_id": "session_7",
+    "observed_at": "2023-03-23T19:28:00",
+    "source_timestamp": "7:28 pm on 23 March, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Mutual encouragement and motivation support",
+    "turns": [
+      {
+        "turn_id": "D7:8",
+        "speaker": "Gina",
+        "text": "That's awesome, Jon! Seeing your students grow and succeed must be really fulfilling. Glad I can be part of this journey!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:9",
+        "speaker": "Jon",
+        "text": "Thanks for being there for me! It's really made a huge difference and it feels great.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:10",
+        "speaker": "Gina",
+        "text": "Glad I could help, Jon! It's nice to be part of something positive. Supporting your dreams is awesome!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:11",
+        "speaker": "Jon",
+        "text": "Thanks for being there for me. Your help means a lot.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:12",
+        "speaker": "Gina",
+        "text": "I'm here for you, rooting for you all the way.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:13",
+        "speaker": "Jon",
+        "text": "Thanks, I'm really grateful for your help with staying motivated.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:14",
+        "speaker": "Gina",
+        "text": "Glad to cheer you on. Keep going and never give up!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:15",
+        "speaker": "Jon",
+        "text": "Thanks, Gina! I won't quit - your words motivate me to keep going!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:16",
+        "speaker": "Gina",
+        "text": "Believe in yourself. Even when it's tough, you got this! Keep going!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:17",
+        "speaker": "Jon",
+        "text": "I'm gonna keep on believing in myself. Thanks for the kind words!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_9::episode-001",
+    "conversation_id": "conv-30",
+    "session_id": "session_9",
+    "observed_at": "2023-04-09T10:33:00",
+    "source_timestamp": "10:33 am on 9 April, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Jon starting a dance studio business after job loss",
+    "turns": [
+      {
+        "turn_id": "D9:1",
+        "speaker": "Jon",
+        "text": "Hey Gina! I'm turning my loves of dance into a business. I'm sunk tons of time into the studio lately, and look at my students - they're already killing it. I'm even learning with them!",
+        "metadata": {
+          "img_url": [
+            "https://college.lclark.edu/live/image/gid/664/width/720/height/690/crop/1/87150_Dance_main_image.rev.1613000755.jpg"
+          ],
+          "blip_caption": "a photo of a group of dancers on a stage with a red background",
+          "query": "dance studio class collage rehearsal students"
+        }
+      },
+      {
+        "turn_id": "D9:2",
+        "speaker": "Gina",
+        "text": "Hey Jon! Wow, way to take your passion and make it into a biz! The dance studio looks awesome.",
+        "metadata": {
+          "blip_caption": "a photo of a display of a dress and a flamingo"
+        }
+      },
+      {
+        "turn_id": "D9:3",
+        "speaker": "Jon",
+        "text": "Thanks, Gina! I'm determined to make this studio work. Losing my job was tough but it gave me the push I needed to do what I love.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_10::episode-001",
+    "conversation_id": "conv-30",
+    "session_id": "session_10",
+    "observed_at": "2023-04-25T11:24:00",
+    "source_timestamp": "11:24 am on 25 April, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Sharing updates on new business ventures and personal challenges",
+    "turns": [
+      {
+        "turn_id": "D10:1",
+        "speaker": "Jon",
+        "text": "Hi Gina! I just wanted to fill you in on my business. Yesterday, I went to a fair to show off my studio, it was both stressful and great! I got some possible leads, so that was awesome. But overall, I've learned that this biz is no cakewalk and having confidence in yourself is important for making it successful!",
+        "metadata": {
+          "img_url": [
+            "https://www.samfsn.org/images/samsfn-events/WNYD2.jpg"
+          ],
+          "blip_caption": "a photo of a group of women performing a dance on a stage",
+          "query": "fair booth flyers brochures dance studio"
+        }
+      },
+      {
+        "turn_id": "D10:2",
+        "speaker": "Gina",
+        "text": "Hey Jon, congrats on the fair! It's awesome to see your hard work paying off. Keep on pushing, pal, you're headed for greatness. Oh, and BTW, I started my own online clothing store not so long ago - pretty cool, huh?",
+        "metadata": {
+          "img_url": [
+            "https://images.squarespace-cdn.com/content/v1/5ad8eb7f506fbec1f61b54ea/1539686276776-HPK5GWLCBQ0MHE5GSE6S/web_homepage_mock.jpg"
+          ],
+          "blip_caption": "a photography of a laptop with a sale ad on the screen",
+          "query": "clothing store website",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D10:3",
+        "speaker": "Jon",
+        "text": "Thanks, Gina! Appreciate your support. Your store looks great, I remember it!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:4",
+        "speaker": "Gina",
+        "text": "Thanks, Jon! After losing my job, I wanted to take control of my own destiny and this seemed like the perfect way to do it. It's been a tough journey, but very rewarding.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_10::episode-004",
+    "conversation_id": "conv-30",
+    "session_id": "session_10",
+    "observed_at": "2023-04-25T11:24:00",
+    "source_timestamp": "11:24 am on 25 April, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Mutual encouragement and commitment to persevere and support each other",
+    "turns": [
+      {
+        "turn_id": "D10:9",
+        "speaker": "Jon",
+        "text": "Thanks! Your words mean a lot. Gotta focus on success and why I started. You're right, I love it and that'll keep my confidence up.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:10",
+        "speaker": "Gina",
+        "text": "No worries, Jon! Sounds like what I said was helpful. You're incredibly talented and passionate about dance. Don't forget, believe in yourself and your abilities. Tackle any obstacle that comes your way and keep shining!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:11",
+        "speaker": "Jon",
+        "text": "Thanks! Your support means a lot. I'm gonna keep going and reach my dreams no matter what.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:12",
+        "speaker": "Gina",
+        "text": "Go for it, Jon! You got this! Don't let anything stop you. We're in this together!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:13",
+        "speaker": "Jon",
+        "text": "Appreciate your encouragement. We'll keep pushing each other on this path.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:14",
+        "speaker": "Gina",
+        "text": "Yeah! Let's keep each other going. We can do it!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_12::episode-003",
+    "conversation_id": "conv-30",
+    "session_id": "session_12",
+    "observed_at": "2023-05-27T19:18:00",
+    "source_timestamp": "7:18 pm on 27 May, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Jon explains his business planning and investor search progress",
+    "turns": [
+      {
+        "turn_id": "D12:10",
+        "speaker": "Jon",
+        "text": "Thanks, Gina! It helps me keep track of ideas and milestones. Gives me a visual of my progress and keeps me organized.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:11",
+        "speaker": "Gina",
+        "text": "Nice idea! Having something visual can help with organizing and motivation. What're you working on currently?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:12",
+        "speaker": "Jon",
+        "text": "I'm wrapping up the business plan and looking for investors. My passion for the project and belief in its success are driving me.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:13",
+        "speaker": "Gina",
+        "text": "Wow, Jon! Impressed by your commitment. How's the hunt for investors going?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:14",
+        "speaker": "Jon",
+        "text": "Thanks! Searching for investors has been tough, but I'm staying hopeful. It's all a process and I'm learning a ton.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_15::episode-003",
+    "conversation_id": "conv-30",
+    "session_id": "session_15",
+    "observed_at": "2023-06-19T10:04:00",
+    "source_timestamp": "10:04 am on 19 June, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Gina congratulates Jon and they express excitement for the studio launch",
+    "turns": [
+      {
+        "turn_id": "D15:6",
+        "speaker": "Gina",
+        "text": "Congrats, Jon! The studio looks amazing. You've put a lot of work into this and I'm so pumped for the launch tomorrow. Don't miss a beat!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:7",
+        "speaker": "Jon",
+        "text": "Thanks, Gina! I'm excited! It's been a wild ride, but I'm feeling good and ready to give it my best.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:8",
+        "speaker": "Gina",
+        "text": "Wow, Jon, you must be so excited! You've come so far since we last talked, and tomorrow's gonna be a blast! All those long nights were worth it - so take some time to savor it. Capture the joy and thrill that dance brings - it's magical!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:9",
+        "speaker": "Jon",
+        "text": "Tomorrow's gonna be an awesome night and I'm not gonna forget a second of it. I put so much into this and I want to savor all the good vibes. Thanks for always having my back. You're the best!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:10",
+        "speaker": "Gina",
+        "text": "I'm always proud of you. Enjoy the good feels tomorrow, you earned it!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:11",
+        "speaker": "Jon",
+        "text": "Thanks! Your pride and support mean a lot. Looking forward to enjoying the moment with you.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:12",
+        "speaker": "Gina",
+        "text": "I'll be right by your side, Jon. Let's live it up and make some great memories tomorrow. So excited!",
+        "metadata": {
+          "blip_caption": "a photo of a group of people in a dance studio"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_18::episode-001",
+    "conversation_id": "conv-30",
+    "session_id": "session_18",
+    "observed_at": "2023-07-21T17:44:00",
+    "source_timestamp": "5:44 pm on 21 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Updates and encouragement about their businesses",
+    "turns": [
+      {
+        "turn_id": "D18:1",
+        "speaker": "Gina",
+        "text": "Hey Jon! Long time no talk! Last week, I built a new website for customers to make orders. It's been a wild ride but I'm loving it. What's up with you? How's the dance studio?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:2",
+        "speaker": "Jon",
+        "text": "Hey Gina, congrats on the clothing store! The dance studio is on tenuous grounds right now, but I'm staying positive. I got a temp job to help cover expenses while I look for investors. It's tough, but I'm sure it'll be worth it.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:3",
+        "speaker": "Gina",
+        "text": "Thanks, Jon! Appreciate the kind words. Sorry to hear about the studio, but glad to see the positivity. Not easy facing setbacks but I believe in you. Finding investors can be tough, but you've got the passion and experience to make it happen. Rome wasn't built in a day so keep pushing on!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-30::session_18::episode-002",
+    "conversation_id": "conv-30",
+    "session_id": "session_18",
+    "observed_at": "2023-07-21T17:44:00",
+    "source_timestamp": "5:44 pm on 21 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Discussion about overcoming business challenges and networking",
+    "turns": [
+      {
+        "turn_id": "D18:4",
+        "speaker": "Jon",
+        "text": "Thanks for the support. Running a business isn't easy, but I'm determined to make it work. How have you tackled challenges in your business? Got any advice?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:5",
+        "speaker": "Gina",
+        "text": "I've had some tough times with my business, Jon. Sourcing trendy pieces for my store was a big hurdle. I had to do a lot of research and networking. My advice? Don't be scared to reach out to people in your field for help and contacts. Networking was a lifesaver for me and opened me up to amazing products that I might not have found otherwise.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:6",
+        "speaker": "Jon",
+        "text": "Awesome advice! Lately I've been networking and it's gotten me some good stuff. Really can't beat what connections can do. Check this pic I got from the last networking event!",
+        "metadata": {
+          "img_url": [
+            "https://live.staticflickr.com/7284/16241297914_14ea605e4b_b.jpg"
+          ],
+          "re-download": true,
+          "blip_caption": "a photography of a group of people standing in a room"
+        }
+      }
+    ]
+  }
+]

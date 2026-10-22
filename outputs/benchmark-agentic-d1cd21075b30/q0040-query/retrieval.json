@@ -1,0 +1,21 @@
+[
+  {
+    "query": "Gina favorite style of dance",
+    "returned_chunk_ids": [
+      "conv-30::session_11::chunk-0005",
+      "conv-30::session_19::chunk-0000",
+      "conv-30::session_1::chunk-0005",
+      "conv-30::session_5::chunk-0015",
+      "conv-30::session_9::chunk-0000",
+      "conv-30::session_9::chunk-0005"
+    ],
+    "cumulative_chunk_ids": [
+      "conv-30::session_11::chunk-0005",
+      "conv-30::session_19::chunk-0000",
+      "conv-30::session_1::chunk-0005",
+      "conv-30::session_5::chunk-0015",
+      "conv-30::session_9::chunk-0000",
+      "conv-30::session_9::chunk-0005"
+    ]
+  }
+]

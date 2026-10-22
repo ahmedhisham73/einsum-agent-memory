@@ -1,0 +1,310 @@
+[
+  {
+    "episode_id": "conv-41::session_4::chunk-0000",
+    "session_id": "session_4",
+    "observed_at": "2023-01-09T19:06:00",
+    "source_timestamp": "7:06 pm on 9 January, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D4:1",
+        "speaker": "Maria",
+        "text": "Hey John, great news - I'm now friends with one of my fellow volunteers! We both love helping others. How have you been since we last chatted?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:2",
+        "speaker": "John",
+        "text": "Hey Maria, I've been busy with work and family, but last week I had an unexpected incident on my way home. It reminded me how life can throw unexpected troubles our way.",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/njxp1ep8bse71.jpg"
+          ],
+          "blip_caption": "a photo of a car with a broken windshield and a broken windshield",
+          "query": "shattered windshield"
+        }
+      },
+      {
+        "turn_id": "D4:3",
+        "speaker": "Maria",
+        "text": "Oh John, that sounds tough. I'm glad you're alright. Life does throw us some surprises, doesn't it?\n\n",
+        "metadata": {
+          "blip_caption": "a photo of a tattoo with a quote on it"
+        }
+      },
+      {
+        "turn_id": "D4:4",
+        "speaker": "John",
+        "text": "Thanks, Maria. This is a reminder to stay strong during tough times.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:5",
+        "speaker": "Maria",
+        "text": "Yeah John, when stuff like that happens, it's good to tap into our own inner strength. How did you handle it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:6",
+        "speaker": "John",
+        "text": "I tried to stay calm and asked for assistance, which helped me handle the situation and make it back safely.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_11::chunk-0000",
+    "session_id": "session_11",
+    "observed_at": "2023-04-10T18:13:00",
+    "source_timestamp": "6:13 pm on 10 April, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D11:1",
+        "speaker": "John",
+        "text": "Hey Maria, haven't talked for a few days. Had a wild week, my car broke down last Fri on my way to work. Trying to get it fixed but it's tough & putting a strain on my wallet. Staying positive & looking for a solution though.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:2",
+        "speaker": "Maria",
+        "text": "Aww John, bummer about that. No doubt it's been tough, but I'm impressed by how positive you're being. Keep it up - tough times pass, but you're tough enough to get through 'em!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:3",
+        "speaker": "John",
+        "text": "Thanks, Maria. Your kind words mean a lot. Yeah, it's been tough with car trouble and money problems, but I stay positive and find a way. This picture reminds me of a road trip we took last year; even with bumps along the way, there's still beauty and hope.",
+        "metadata": {
+          "img_url": [
+            "https://images.pexels.com/photos/1266810/pexels-photo-1266810.jpeg"
+          ],
+          "blip_caption": "a photography of a mountain with a sunset and flowers in the foreground",
+          "query": "road beautiful sunset",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D11:4",
+        "speaker": "Maria",
+        "text": "Wow, great pic! Where did you go on that road trip?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:5",
+        "speaker": "John",
+        "text": "Thanks! We explored the coast up in the Pacific Northwest and hit some cool national parks. The beauty of nature was absolutely breathtaking!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:6",
+        "speaker": "Maria",
+        "text": "Wow, that must've been great! It's so nice to appreciate nature and find peace. Lucky you got to experience that.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_18::chunk-0000",
+    "session_id": "session_18",
+    "observed_at": "2023-06-12T14:47:00",
+    "source_timestamp": "2:47 pm on 12 June, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D18:1",
+        "speaker": "Maria",
+        "text": "Hey John, how're you doing? I'm sorry about Max. Losing a pet is tough. Some friends from church and I went camping last weekend - it was a blast! Just something nice to take my mind off things. Anything fun in your life lately?",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/zcnesiymmou91.jpg"
+          ],
+          "blip_caption": "a photo of a group of men sitting around a campfire",
+          "query": "camping trip friends"
+        }
+      },
+      {
+        "turn_id": "D18:2",
+        "speaker": "John",
+        "text": "Hey Maria, thanks for your kind words. It's still tough, but I'm finding some comfort in the good memories. Wow, your camping trip sounds awesome! I went on a mountaineering trip last week with some workmates. It was great and helped clear my head. Anything else cool happening in your life?",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/q33cupol6fm51.jpg"
+          ],
+          "blip_caption": "a photo of a man standing on top of a mountain with a backpack",
+          "query": "mountaineering expedition standing on mountain peak"
+        }
+      },
+      {
+        "turn_id": "D18:3",
+        "speaker": "Maria",
+        "text": "Glad you're finding comfort, John. That mountaineering trip sounds amazing. Did you reach the summit? When I was younger, my family and I went on a road trip to Oregon.",
+        "metadata": {
+          "img_url": [
+            "https://fundiegofamily.com/wp-content/uploads/2019/10/grandcanyon1.jpg"
+          ],
+          "blip_caption": "a photo of a person standing on a cliff overlooking a canyon",
+          "query": "hiking trail beautiful scenery grand canyon road trip"
+        }
+      },
+      {
+        "turn_id": "D18:4",
+        "speaker": "John",
+        "text": "Thanks, Maria! Yeah, we made it to the top and the view was stunning. It was tough but awesome. Your family trip must have been great too, right? What was the prettiest spot?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:5",
+        "speaker": "Maria",
+        "text": "Hiking to the top and seeing this was awesome! Breath-taking.",
+        "metadata": {
+          "img_url": [
+            "https://everydayrunaway.com/wp-content/uploads/2016/08/20140323-multnomahfalls.jpg"
+          ],
+          "blip_caption": "a photo of a waterfall with a bridge over it",
+          "query": "hiking trail waterfall"
+        }
+      },
+      {
+        "turn_id": "D18:6",
+        "speaker": "John",
+        "text": "Wow, Maria! That waterfall and bridge look amazing! What a view. How was it being there?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_21::chunk-0000",
+    "session_id": "session_21",
+    "observed_at": "2023-07-03T20:43:00",
+    "source_timestamp": "8:43 pm on 3 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D21:1",
+        "speaker": "Maria",
+        "text": "Hey John, long time no see! Sorry I didn't get back to you sooner... So much has happened! Check out these kids I met at the shelter!",
+        "metadata": {
+          "img_url": [
+            "https://cdn.newswire.com/files/x/4b/eb/ec85ef6a588e010a38e5f40feeab.jpg"
+          ],
+          "blip_caption": "a photo of three children sitting on a step smiling",
+          "query": "group children shelter smiling"
+        }
+      },
+      {
+        "turn_id": "D21:2",
+        "speaker": "John",
+        "text": "Hey Maria! Good to hear from you. Those little ones are adorable, any updates on them? How have you been?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D21:3",
+        "speaker": "Maria",
+        "text": "Hey John! They were great, their smiles warmed my heart. But something not so great happened yesterday...",
+        "metadata": {
+          "img_url": [
+            "https://i2.pickpik.com/photos/866/469/190/crash-car-car-crash-accident-preview.jpg"
+          ],
+          "blip_caption": "a photography of a car that has been damaged and is sitting on a flatbed",
+          "query": "broken car homeless shelter kids",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D21:4",
+        "speaker": "John",
+        "text": "That's so sad. Can I do anything to help? What happened?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D21:5",
+        "speaker": "Maria",
+        "text": "A car ran a red light and hit us, but thankfully everyone is okay. Besides that, my cousin just had a tough time recently, so I'm lending a hand in helping her find a new place.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D21:6",
+        "speaker": "John",
+        "text": "That's really nice of you. It's important to help family during hard times. How is she doing now?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_29::chunk-0005",
+    "session_id": "session_29",
+    "observed_at": "2023-08-09T20:06:00",
+    "source_timestamp": "8:06 pm on 9 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D29:6",
+        "speaker": "John",
+        "text": "Thanks, Maria! It means a lot to me. It was hard work - getting sponsors, coordinating with the city, and spreading the word. But seeing everyone come together to support our veterans made it worth it.",
+        "metadata": {
+          "blip_caption": "a photo of a map of the streets of downtown"
+        }
+      },
+      {
+        "turn_id": "D29:7",
+        "speaker": "Maria",
+        "text": "Wow, John, that sounds like a lot of effort! Your dedication definitely paid off. Were there any challenges along the way?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D29:8",
+        "speaker": "John",
+        "text": "Definitely, Maria! Getting sponsors was difficult. I had to reach out to several businesses through different means, but it paid off. We ended up with some awesome sponsors that made the event a hit.",
+        "metadata": {
+          "blip_caption": "a photo of a sign on a door that says domestic abuse"
+        }
+      },
+      {
+        "turn_id": "D29:9",
+        "speaker": "Maria",
+        "text": "Wow, John! You really overcame those challenges. Have you done events for any other causes?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D29:10",
+        "speaker": "John",
+        "text": "Yep, we worked with a local organization that helps victims of domestic abuse. We raised awareness and funds at the event for the cause — it's unfortunate how many people suffer from it.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D29:11",
+        "speaker": "Maria",
+        "text": "Oof, John, that's really sad. Domestic abuse is horrible. You did great raising awareness and funds. It's important we support the organizations fighting against it.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_31::chunk-0020",
+    "session_id": "session_31",
+    "observed_at": "2023-08-13T15:14:00",
+    "source_timestamp": "3:14 pm on 13 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D31:21",
+        "speaker": "John",
+        "text": "Thanks, Maria! I'm off to spend some time with them now. Have a good day!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D31:22",
+        "speaker": "Maria",
+        "text": "Enjoy your family time, John! Have a great day!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D31:23",
+        "speaker": "John",
+        "text": "Thanks, Maria! You too! Stay safe!",
+        "metadata": {}
+      }
+    ]
+  }
+]

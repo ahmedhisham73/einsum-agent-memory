@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-41::q0006",
+  "category": 2,
+  "question": "When did Maria go to the beach?",
+  "gold_answer": "December 2022",
+  "status": "scored",
+  "generated_answer": "Maria went to the beach last month and took a photo of the sunset there, as she mentioned in conversation on 1 January 2023.",
+  "citations": [
+    {
+      "episode_id": "conv-41::session_3::episode-002",
+      "turn_id": "D3:14"
+    }
+  ],
+  "query_elapsed_seconds": 5.040866458,
+  "label": "WRONG",
+  "judge_reason": "The generated answer implies Maria went to the beach in January 2023, not December 2022 as stated in the reference answer."
+}

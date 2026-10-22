@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "18988378-f6fc-42b5-ba4b-712113c24054",
+    "response": {
+      "id": "chatcmpl-EbsAtzuKxjtUbASf06EyIYPLg3iYz",
+      "object": "chat.completion",
+      "created": 1792695091,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Caroline\",\"property\":\"planned_activity\",\"search\":\"Caroline planned to attend a transgender conference\"},{\"entity\":\"Caroline\",\"property\":\"scheduled_activity\",\"search\":\"Caroline scheduled to attend transgender conference on a specific date\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2680,
+        "completion_tokens": 54,
+        "total_tokens": 2734,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_f9f464a132"
+    },
+    "latency_seconds": 1.7637519170000002
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "18c43914-281c-4025-be0d-691942cae676",
+    "response": {
+      "id": "chatcmpl-EbsAwVXnSeTaKBhCbB0PKkd3C3tL1",
+      "object": "chat.completion",
+      "created": 1792695094,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Caroline is going to the transgender conference in July 2023. She mentions attending it 'this month' in a conversation dated 3 July 2023 and then says she went to the conference two days ago in a conversation dated 12 July 2023.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_5::episode-003\",\"turn_id\":\"D5:13\"},{\"episode_id\":\"conv-26::session_7::episode-001\",\"turn_id\":\"D7:1\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 4684,
+        "completion_tokens": 113,
+        "total_tokens": 4797,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6a82cb19e8"
+    },
+    "latency_seconds": 2.1455624589999998
+  }
+]

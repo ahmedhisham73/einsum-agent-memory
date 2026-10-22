@@ -1,0 +1,21 @@
+[
+  {
+    "query": "John patriotic person evidence",
+    "returned_chunk_ids": [
+      "conv-41::session_15::chunk-0000",
+      "conv-41::session_15::chunk-0005",
+      "conv-41::session_15::chunk-0010",
+      "conv-41::session_21::chunk-0020",
+      "conv-41::session_27::chunk-0010",
+      "conv-41::session_29::chunk-0000"
+    ],
+    "cumulative_chunk_ids": [
+      "conv-41::session_15::chunk-0000",
+      "conv-41::session_15::chunk-0005",
+      "conv-41::session_15::chunk-0010",
+      "conv-41::session_21::chunk-0020",
+      "conv-41::session_27::chunk-0010",
+      "conv-41::session_29::chunk-0000"
+    ]
+  }
+]

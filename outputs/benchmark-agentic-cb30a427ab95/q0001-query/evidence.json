@@ -1,0 +1,335 @@
+[
+  {
+    "episode_id": "conv-41::session_2::chunk-0020",
+    "session_id": "session_2",
+    "observed_at": "2022-12-22T18:10:00",
+    "source_timestamp": "6:10 pm on 22 December, 2022",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D2:21",
+        "speaker": "Maria",
+        "text": "Woah, that's a nice pic, John! You all obviously had a blast at dinner. Nothing beats getting together with loved ones for a good meal - it makes some awesome memories!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:22",
+        "speaker": "John",
+        "text": "Thanks, Maria! Meal times are always fun. Good food, laughs, and chats help us stay close.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:23",
+        "speaker": "Maria",
+        "text": "Yeah, John! It definitely builds a strong bond. Those shared meals really make life enjoyable and meaningful. What did you make?",
+        "metadata": {
+          "blip_caption": "a photo of a table with pizzas and salads on it"
+        }
+      },
+      {
+        "turn_id": "D2:24",
+        "speaker": "John",
+        "text": "We made pizza! We had so much fun making them together. It was great picking out toppings and sharing a tasty meal with family. Have you made anything lately?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:25",
+        "speaker": "Maria",
+        "text": "I can picture you all laughing and having a blast making your own pizzas - a great way to bond! I made some peach cobbler recently, it was great.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:26",
+        "speaker": "John",
+        "text": "Yeah Maria, it's awesome! We get our creative on and have a blast together.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_6::chunk-0020",
+    "session_id": "session_6",
+    "observed_at": "2023-02-05T14:33:00",
+    "source_timestamp": "2:33 pm on 5 February, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D6:21",
+        "speaker": "Maria",
+        "text": "Of course, John. You're a great friend to me. I'll always be there for you.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:22",
+        "speaker": "John",
+        "text": "Thanks, Maria. Friendship means a lot to me. I'm glad we have each other's backs and can work towards a shared goal.",
+        "metadata": {
+          "blip_caption": "a photo of a group of people sitting in a park"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_11::chunk-0015",
+    "session_id": "session_11",
+    "observed_at": "2023-04-10T18:13:00",
+    "source_timestamp": "6:13 pm on 10 April, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D11:16",
+        "speaker": "Maria",
+        "text": "We organized a meal for the shelter residents and I helped with getting everything ready. It was cool to see everyone together, eating and supporting each other.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:17",
+        "speaker": "John",
+        "text": "Wow, Maria, that's awesome! You made everyone so comfortable and it must have been so rewarding. You're really making a difference!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:18",
+        "speaker": "Maria",
+        "text": "Yeah, it was really nice to help bring people together and create a sense of comfort and community. It's something special to see people supporting each other.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:19",
+        "speaker": "John",
+        "text": "Definitely, Maria. That's great. It gives us hope and reminds us we're not alone. Thank you for being a positive force.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:20",
+        "speaker": "Maria",
+        "text": "No problem, John! It's great to feel this sense of community. Thanks for the kind words, they mean a lot.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:21",
+        "speaker": "John",
+        "text": "Glad I could help, Maria. Talk to you soon. Stay safe!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_16::chunk-0005",
+    "session_id": "session_16",
+    "observed_at": "2023-05-25T13:24:00",
+    "source_timestamp": "1:24 pm on 25 May, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D16:6",
+        "speaker": "Maria",
+        "text": "Thanks, John! Your help is really appreciated. If you know anyone who might be interested in volunteering for the event, let me know. We can do this!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:7",
+        "speaker": "John",
+        "text": "Yep, Maria! I'll ask around to see if anyone I know wants to help. We'll find some awesome people for the cause. Let's make a change!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:8",
+        "speaker": "Maria",
+        "text": "Way to go, John! Let's help those in need. Thanks for your support!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:9",
+        "speaker": "John",
+        "text": "No problem, Maria! Working together with passionate people like you is awesome! Let's make a difference.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:10",
+        "speaker": "Maria",
+        "text": "Yeah, working with passionate people like you is really motivating.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:11",
+        "speaker": "John",
+        "text": "Yeah, Maria! We're making a difference and we'll keep it up! Here's a pic of my fam at the beach.",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/cuurrb4qyl961.jpg"
+          ],
+          "blip_caption": "a photo of a couple walking into the ocean at sunset",
+          "query": "kids holding hands sunset"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_16::chunk-0010",
+    "session_id": "session_16",
+    "observed_at": "2023-05-25T13:24:00",
+    "source_timestamp": "1:24 pm on 25 May, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D16:12",
+        "speaker": "Maria",
+        "text": "Wow, John, that pic is gorgeous! It really gives me hope to appreciate the little moments.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:13",
+        "speaker": "John",
+        "text": "Thanks, Maria! It's moments like these that give me hope too.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:14",
+        "speaker": "Maria",
+        "text": "Yeah, John! They give me peace and make me appreciate life.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:15",
+        "speaker": "John",
+        "text": "Glad the photo made you feel that way, Maria. Cherish those little moments!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:16",
+        "speaker": "Maria",
+        "text": "Thanks, John. I definitely will!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_21::chunk-0025",
+    "session_id": "session_21",
+    "observed_at": "2023-07-03T20:43:00",
+    "source_timestamp": "8:43 pm on 3 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D21:26",
+        "speaker": "John",
+        "text": "Thanks Maria, it was amazing being around others who shared the same values and passion as me. It reminded me how important it is to try and make a difference through activism. It really motivated me.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D21:27",
+        "speaker": "Maria",
+        "text": "That's awesome, John! Surrounding yourself with determined people striving for the same goals can be really motivating. Keep it up!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D21:28",
+        "speaker": "John",
+        "text": "Thanks, Maria! It really is. Striving for progress is crucial.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D21:29",
+        "speaker": "Maria",
+        "text": "Yep John, Let's keep up the good work and make a difference. Talk to you soon!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_23::chunk-0000",
+    "session_id": "session_23",
+    "observed_at": "2023-07-07T18:29:00",
+    "source_timestamp": "6:29 pm on 7 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D23:1",
+        "speaker": "John",
+        "text": "Maria, since we talked, it's been tough. My old area was hit by a nasty flood last week. The infrastructure wasn't great so lots of homes were ruined. It's reminding me we need to fix things up in our community.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D23:2",
+        "speaker": "Maria",
+        "text": "Sorry to hear about what happened in your area, John. That must have been tough for you and everyone there. Is there anything I can do to help?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D23:3",
+        "speaker": "John",
+        "text": "Thanks a lot, Maria. Your offer means a lot to me. I'm getting people together to chat about this and discuss potential solutions. I'd really appreciate your thoughts.\n",
+        "metadata": {
+          "blip_caption": "a photo of a party invitation on a table with a pen and paper"
+        }
+      },
+      {
+        "turn_id": "D23:4",
+        "speaker": "Maria",
+        "text": "Hey John, I'm down to join the meeting and contribute to making our community better. Let's do this!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D23:5",
+        "speaker": "John",
+        "text": "Nice work, Maria! Your determination never ceases to amaze me. Let's get to work!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D23:6",
+        "speaker": "Maria",
+        "text": "Definitely, John! Your commitment to helping others is inspiring. It's great to have a friend like you who shares the same passion. Let's join forces and make the change we desire in our community.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_26::chunk-0015",
+    "session_id": "session_26",
+    "observed_at": "2023-07-31T13:59:00",
+    "source_timestamp": "1:59 pm on 31 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D26:16",
+        "speaker": "John",
+        "text": "Way to go, Maria! Keep on being positive and making a difference. You're doing great!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D26:17",
+        "speaker": "Maria",
+        "text": "Thanks John! Your support means a lot to me. I'll definitely keep on going. Talk to you soon!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-41::session_31::chunk-0020",
+    "session_id": "session_31",
+    "observed_at": "2023-08-13T15:14:00",
+    "source_timestamp": "3:14 pm on 13 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D31:21",
+        "speaker": "John",
+        "text": "Thanks, Maria! I'm off to spend some time with them now. Have a good day!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D31:22",
+        "speaker": "Maria",
+        "text": "Enjoy your family time, John! Have a great day!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D31:23",
+        "speaker": "John",
+        "text": "Thanks, Maria! You too! Stay safe!",
+        "metadata": {}
+      }
+    ]
+  }
+]

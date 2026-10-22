@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "7a184f9b-6186-4538-8807-9bf2100afa02",
+    "response": {
+      "id": "chatcmpl-EbsMVDN8d4LQEhOF6pBte4a23xO10",
+      "object": "chat.completion",
+      "created": 1792695811,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"John\",\"property\":\"financial_status\",\"search\":\"standalone evidence search\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3704,
+        "completion_tokens": 25,
+        "total_tokens": 3729,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6cab07b253"
+    },
+    "latency_seconds": 1.69245425
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "b5096046-7a7c-463a-8858-af2b015eeab5",
+    "response": {
+      "id": "chatcmpl-EbsMXl9Lq1WvHROlKD4nWmsJkQG7V",
+      "object": "chat.completion",
+      "created": 1792695813,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"John appears to be experiencing some financial strain due to unexpected expenses, such as his car breaking down and the cost of fixing it, which he mentions is putting a strain on his wallet. However, there is no detailed or comprehensive information about his overall financial status beyond this context of money worries related to specific incidents.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-41::session_11::episode-001\",\"turn_id\":\"D11:1\"},{\"episode_id\":\"conv-41::session_11::episode-001\",\"turn_id\":\"D11:3\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3855,
+        "completion_tokens": 121,
+        "total_tokens": 3976,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6a82cb19e8"
+    },
+    "latency_seconds": 1.9718175420000001
+  }
+]

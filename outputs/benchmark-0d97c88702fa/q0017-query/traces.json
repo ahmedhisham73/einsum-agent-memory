@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "93e2117f-2149-4cbd-ae9a-7f0d8045a8b4",
+    "response": {
+      "id": "chatcmpl-EbsAMiuoEq0pJgXJYlCchq5weDs9I",
+      "object": "chat.completion",
+      "created": 1792695058,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Melanie\",\"property\":\"signed_up_for_class\",\"search\":\"standalone evidence search\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2681,
+        "completion_tokens": 28,
+        "total_tokens": 2709,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_f9f464a132"
+    },
+    "latency_seconds": 1.7873258330000001
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "184e3432-5912-4f33-beb7-1fff773ab9f7",
+    "response": {
+      "id": "chatcmpl-EbsAPPohOYRd1loIj7yN8d7oehkMi",
+      "object": "chat.completion",
+      "created": 1792695061,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Melanie signed up for a pottery class on 2 July 2023, as she mentioned she signed up for it 'yesterday' in the conversation on 3 July 2023.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_5::episode-002\",\"turn_id\":\"D5:4\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 4342,
+        "completion_tokens": 75,
+        "total_tokens": 4417,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6a82cb19e8"
+    },
+    "latency_seconds": 2.271168459
+  }
+]

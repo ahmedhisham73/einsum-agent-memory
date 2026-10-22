@@ -1,0 +1,30 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Caroline",
+      "property": "marital_status",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Caroline",
+      "property": "relationship_change_due_to_journey",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Caroline",
+      "property": "relationship_support_experience",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Caroline",
+      "property": "has_family",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Caroline",
+      "property": "companionship_status",
+      "search": "standalone evidence search"
+    }
+  ]
+}

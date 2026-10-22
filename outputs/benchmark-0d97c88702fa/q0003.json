@@ -1,0 +1,45 @@
+{
+  "question_id": "conv-26::q0003",
+  "category": 3,
+  "question": "What fields would Caroline be likely to pursue in her educaton?",
+  "gold_answer": "Psychology, counseling certification",
+  "status": "scored",
+  "generated_answer": "Caroline is likely to pursue education and a career in counseling or mental health, specifically working with trans people and supporting their mental health and self-acceptance, inspired by her own experiences and the desire to help others in similar situations.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_1::episode-003",
+      "turn_id": "D1:11"
+    },
+    {
+      "episode_id": "conv-26::session_4::episode-003",
+      "turn_id": "D4:11"
+    },
+    {
+      "episode_id": "conv-26::session_4::episode-003",
+      "turn_id": "D4:13"
+    },
+    {
+      "episode_id": "conv-26::session_4::episode-003",
+      "turn_id": "D4:15"
+    },
+    {
+      "episode_id": "conv-26::session_5::episode-001",
+      "turn_id": "D5:3"
+    },
+    {
+      "episode_id": "conv-26::session_6::episode-001",
+      "turn_id": "D6:3"
+    },
+    {
+      "episode_id": "conv-26::session_7::episode-001",
+      "turn_id": "D7:5"
+    },
+    {
+      "episode_id": "conv-26::session_7::episode-001",
+      "turn_id": "D7:7"
+    }
+  ],
+  "query_elapsed_seconds": 6.341647792,
+  "label": "WRONG",
+  "judge_reason": "The generated answer mentions counseling but adds unsupported details about working with trans people, which is not in the reference answer."
+}

@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "c38a3738-f98c-416e-a799-a1c418c22bba",
+    "response": {
+      "id": "chatcmpl-Ebs7orbE3THxVn8p9CK4v7dPEO3WY",
+      "object": "chat.completion",
+      "created": 1792694900,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Caroline\",\"property\":\"plans\",\"search\":\"Caroline summer plans\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2680,
+        "completion_tokens": 25,
+        "total_tokens": 2705,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6cab07b253"
+    },
+    "latency_seconds": 1.6510563329999999
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "fb521498-6997-47f5-82b0-2532ad1cf64b",
+    "response": {
+      "id": "chatcmpl-Ebs7qbiBmLC0n8igrJzYduEDHIcJI",
+      "object": "chat.completion",
+      "created": 1792694902,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Caroline plans for the summer include attending a transgender conference to meet community members and learn about advocacy, hosting an LGBTQ art show featuring her paintings, considering a family or special outing with Melanie to catch up and explore nature, and continuing her volunteering at a youth center with an upcoming talent show for the kids.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_5::episode-003\",\"turn_id\":\"D5:13\"},{\"episode_id\":\"conv-26::session_9::episode-004\",\"turn_id\":\"D9:12\"},{\"episode_id\":\"conv-26::session_12::episode-005\",\"turn_id\":\"D12:17\"},{\"episode_id\":\"conv-26::session_15::episode-002\",\"turn_id\":\"D15:11\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2301,
+        "completion_tokens": 166,
+        "total_tokens": 2467,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6a82cb19e8"
+    },
+    "latency_seconds": 2.3479434589999997
+  }
+]

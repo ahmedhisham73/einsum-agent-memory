@@ -8,3 +8,11 @@ dist/
 .DS_Store
 data/
 !**/.gitkeep
+
+# Backup / recovery copies (kept locally, not versioned)
+*-backup-*/
+recovery-backup-*/
+runtime-backup-*/
+compatibility-backup-*/
+*.backup-*
+*.bak

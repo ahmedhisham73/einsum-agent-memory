@@ -1,0 +1,21 @@
+{
+  "question_id": "conv-26::q0010",
+  "category": 2,
+  "question": "When did Caroline meet up with her friends, family, and mentors?",
+  "gold_answer": "The week before 9 June 2023",
+  "status": "scored",
+  "generated_answer": "Caroline met up with her friends, family, and mentors last week prior to 9 June 2023, as indicated by her statement about a photo from their meetup last week. Additionally, she mentioned a picnic with friends and family last week around 6 July 2023. These occasions highlight times when she met up with her support network including friends, family, and mentors. Specific mentions include a meetup depicted in a family photo from early June 2023 and a picnic with friends on 6 July 2023.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_3::episode-002",
+      "turn_id": "D3:11"
+    },
+    {
+      "episode_id": "conv-26::session_6::episode-004",
+      "turn_id": "D6:11"
+    }
+  ],
+  "query_elapsed_seconds": 6.359514,
+  "label": "WRONG",
+  "judge_reason": "The generated answer provides conflicting dates and mentions events on 6 July 2023, which is after the reference date of 9 June 2023, failing to accurately reflect the timing of the intended meetup."
+}

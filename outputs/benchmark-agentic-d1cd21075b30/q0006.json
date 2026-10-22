@@ -1,0 +1,21 @@
+{
+  "question_id": "conv-30::q0006",
+  "category": 1,
+  "question": "What Jon thinks the ideal dance studio should look like?",
+  "gold_answer": "By the water, with natural light and Marley flooring",
+  "status": "scored",
+  "generated_answer": "Jon thinks the ideal dance studio should be downtown for accessibility, have plenty of natural light, and feature a good quality floor with enough bounce for safe dancing. He prefers Marley flooring because it provides the right grip, allows movement, is durable, and easy to clean.",
+  "citations": [
+    {
+      "episode_id": "conv-30::session_2::chunk-0005",
+      "turn_id": "D2:6"
+    },
+    {
+      "episode_id": "conv-30::session_2::chunk-0005",
+      "turn_id": "D2:8"
+    }
+  ],
+  "query_elapsed_seconds": 6.799302667,
+  "label": "WRONG",
+  "judge_reason": "The generated answer introduces additional details about location and accessibility that are not present in the reference answer, which specifies only the location and features of the studio."
+}

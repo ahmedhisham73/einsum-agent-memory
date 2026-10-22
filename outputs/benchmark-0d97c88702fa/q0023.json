@@ -1,0 +1,21 @@
+{
+  "question_id": "conv-26::q0023",
+  "category": 3,
+  "question": "Would Caroline likely have Dr. Seuss books on her bookshelf?",
+  "gold_answer": "Yes, since she collects classic children's books",
+  "status": "scored",
+  "generated_answer": "No direct evidence indicates that Caroline has or favors Dr. Seuss books specifically. Caroline mentioned having a library with lots of kids' books including classics, stories from different cultures, and educational books, but Dr. Seuss is not explicitly mentioned. She also shared that her favorite inspiring book recently was \"Becoming Nicole,\" a memoir unrelated to children's literature. Therefore, it is not confirmed if Caroline would have Dr. Seuss books on her bookshelf.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_6::episode-003",
+      "turn_id": "D6:7"
+    },
+    {
+      "episode_id": "conv-26::session_6::episode-003",
+      "turn_id": "D6:9"
+    }
+  ],
+  "query_elapsed_seconds": 5.765753292,
+  "label": "WRONG",
+  "judge_reason": "The generated answer provides a contradictory conclusion by stating there is no indication Caroline would have Dr. Seuss books, despite the reference answer suggesting that her collection of classic children's books implies she likely does."
+}

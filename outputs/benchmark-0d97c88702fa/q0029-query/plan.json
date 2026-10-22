@@ -1,0 +1,10 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Caroline",
+      "property": "attended_event",
+      "search": "adoption meeting"
+    }
+  ]
+}
