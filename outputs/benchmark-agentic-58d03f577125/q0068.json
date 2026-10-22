@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0068",
+  "category": 2,
+  "question": "When did Caroline go biking with friends?",
+  "gold_answer": "The weekend before 13 September 2023",
+  "status": "scored",
+  "generated_answer": "The conversations do not mention Caroline going biking with friends at any specific time.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_3::chunk-0005",
+      "turn_id": "D3:11"
+    }
+  ],
+  "query_elapsed_seconds": 5.961749375,
+  "label": "WRONG",
+  "judge_reason": "The generated answer fails to provide the specific time mentioned in the reference answer."
+}

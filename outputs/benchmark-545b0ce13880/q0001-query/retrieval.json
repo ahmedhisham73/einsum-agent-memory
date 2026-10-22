@@ -1,0 +1,23 @@
+[
+  {
+    "budget": 8,
+    "structured_episode_ids": [
+      "conv-26::session_11::episode-002",
+      "conv-26::session_17::episode-003",
+      "conv-26::session_5::episode-001",
+      "conv-26::session_7::episode-001"
+    ],
+    "selected_episode_ids": [
+      "conv-26::session_1::episode-001",
+      "conv-26::session_1::episode-002",
+      "conv-26::session_4::episode-003",
+      "conv-26::session_5::episode-001",
+      "conv-26::session_7::episode-001",
+      "conv-26::session_9::episode-002",
+      "conv-26::session_10::episode-001",
+      "conv-26::session_11::episode-002",
+      "conv-26::session_11::episode-003",
+      "conv-26::session_17::episode-003"
+    ]
+  }
+]

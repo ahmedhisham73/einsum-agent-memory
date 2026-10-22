@@ -1,0 +1,125 @@
+[
+  {
+    "stage": "agent_decision",
+    "call_id": "b2d9b3d6-8b19-44ab-8d35-c30934412349",
+    "response": {
+      "id": "chatcmpl-EZrG578juTrIeRFtqGg1iJRpYkYl0",
+      "object": "chat.completion",
+      "created": 1792214913,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"search\",\"query\":\"Melanie family camping trip last year what did they see\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 155,
+        "completion_tokens": 19,
+        "total_tokens": 174,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f810e81ea"
+    },
+    "latency_seconds": 1.1324073749999999
+  },
+  {
+    "stage": "agent_decision",
+    "call_id": "381d04c9-fca6-4705-9372-2ef4e61be852",
+    "response": {
+      "id": "chatcmpl-EZrG6gPCWL7PKvATao54l48vab7Tt",
+      "object": "chat.completion",
+      "created": 1792214914,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"ready\",\"reason\":\"Melanie and her family during their camping trip last year saw the Perseid meteor shower, with a clear, star-filled sky and amazing streaks of light, which created a memorable and awe-inspiring experience for them.\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2903,
+        "completion_tokens": 52,
+        "total_tokens": 2955,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f810e81ea"
+    },
+    "latency_seconds": 1.0990252500000004
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "b2798ccc-0d13-4478-b74a-024968eed3c0",
+    "response": {
+      "id": "chatcmpl-EZrG769v0L45ounqvfbhmdAd2vcoJ",
+      "object": "chat.completion",
+      "created": 1792214915,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"During their camping trip last year, Melanie and her family saw the Perseid meteor shower. They watched the sky light up with streaks of light, made wishes, and experienced an awe-inspiring clear star-filled night sky.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_10::chunk-0010\",\"turn_id\":\"D10:14\"},{\"episode_id\":\"conv-26::session_10::chunk-0010\",\"turn_id\":\"D10:16\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2839,
+        "completion_tokens": 106,
+        "total_tokens": 2945,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_802f1283f8"
+    },
+    "latency_seconds": 1.779984625
+  }
+]

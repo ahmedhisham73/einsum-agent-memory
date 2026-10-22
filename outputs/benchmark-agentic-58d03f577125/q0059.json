@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0059",
+  "category": 2,
+  "question": "When did Melanie make a plate in pottery class?",
+  "gold_answer": "24 August 2023",
+  "status": "scored",
+  "generated_answer": "Melanie made a plate in pottery class on 24 August 2023, as mentioned in the conversation turn dated 25 August 2023 where she says she made the plate \"yesterday.\"",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_14::chunk-0000",
+      "turn_id": "D14:4"
+    }
+  ],
+  "query_elapsed_seconds": 4.7860405,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer correctly identifies the date when Melanie made a plate in pottery class as 24 August 2023, matching the reference answer."
+}

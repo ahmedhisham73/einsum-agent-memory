@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0136",
+  "category": 4,
+  "question": "What setback did Melanie face in October 2023?",
+  "gold_answer": "She got hurt and had to take a break from pottery.",
+  "status": "scored",
+  "generated_answer": "In October 2023, Melanie faced a setback when she got hurt in the previous month, requiring her to take a break from pottery, which she uses for self-expression and peace.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_17::episode-002",
+      "turn_id": "D17:8"
+    }
+  ],
+  "query_elapsed_seconds": 8.496854292,
+  "label": "WRONG",
+  "judge_reason": "The generated answer includes a contradiction about when she got hurt, stating it was in the previous month, not in October 2023 as the question specifies."
+}

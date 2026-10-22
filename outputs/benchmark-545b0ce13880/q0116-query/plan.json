@@ -1,0 +1,30 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Melanie",
+      "property": "associates_flowers_with",
+      "search": "Why does Melanie consider flowers important?"
+    },
+    {
+      "entity": "Melanie",
+      "property": "used_flowers_for",
+      "search": "Uses or purposes of flowers by Melanie"
+    },
+    {
+      "entity": "Melanie",
+      "property": "emotional_connection_to_art",
+      "search": "Emotional or symbolic meaning of flowers to Melanie"
+    },
+    {
+      "entity": "Melanie",
+      "property": "feels_joy_from",
+      "search": "Does Melanie feel joy from flowers?"
+    },
+    {
+      "entity": "Melanie",
+      "property": "value",
+      "search": "Values Melanie associates with flowers"
+    }
+  ]
+}

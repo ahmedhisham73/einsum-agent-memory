@@ -1,0 +1,21 @@
+{
+  "question_id": "conv-26::q0129",
+  "category": 4,
+  "question": "What did Caroline find in her neighborhood during her walk?",
+  "gold_answer": "a rainbow sidewalk",
+  "status": "scored",
+  "generated_answer": "The conversations provided do not mention Caroline finding anything specific in her neighborhood during her walk.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_9::chunk-0000",
+      "turn_id": "D9:2"
+    },
+    {
+      "episode_id": "conv-26::session_16::chunk-0015",
+      "turn_id": "D16:17"
+    }
+  ],
+  "query_elapsed_seconds": 5.200131917,
+  "label": "WRONG",
+  "judge_reason": "The generated answer fails to identify that Caroline found a 'rainbow sidewalk,' which is an important fact requested by the question."
+}

@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0056",
+  "category": 1,
+  "question": "What subject have Caroline and Melanie both painted?",
+  "gold_answer": "Sunsets",
+  "status": "scored",
+  "generated_answer": "Both Caroline and Melanie have painted horses.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_13::chunk-0005",
+      "turn_id": "D13:8"
+    }
+  ],
+  "query_elapsed_seconds": 4.777998792,
+  "label": "WRONG",
+  "judge_reason": "The generated answer does not provide the subject 'Sunsets' as stated in the reference answer and instead gives a different subject."
+}

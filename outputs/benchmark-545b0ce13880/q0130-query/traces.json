@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "3bb20da1-1240-4e44-bddb-59bfa8f360d6",
+    "response": {
+      "id": "chatcmpl-EZkoGgGO4vrJoLCCEdzdB1MI0aFPz",
+      "object": "chat.completion",
+      "created": 1792190124,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Caroline\",\"property\":\"song_motivates_courage\",\"search\":\"search for song associated with Caroline that motivates courage or bravery\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2679,
+        "completion_tokens": 37,
+        "total_tokens": 2716,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_eb8f688690"
+    },
+    "latency_seconds": 5.251012458
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "5b43dd01-6861-4433-9e0f-4a2e52e9df9f",
+    "response": {
+      "id": "chatcmpl-EZkoMs1pnQ5NQyvXSc0Q3Y3Rx9To1",
+      "object": "chat.completion",
+      "created": 1792190130,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"The song \\\"Brave\\\" by Sara Bareilles motivates Caroline to be courageous.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_15::episode-004\",\"turn_id\":\"D15:23\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2485,
+        "completion_tokens": 52,
+        "total_tokens": 2537,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_38f508f26a"
+    },
+    "latency_seconds": 2.804967834000001
+  }
+]

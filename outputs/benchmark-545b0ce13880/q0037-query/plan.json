@@ -1,0 +1,30 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Caroline",
+      "property": "joined_group",
+      "search": "evidence of Caroline joining mentorship program or group"
+    },
+    {
+      "entity": "Caroline",
+      "property": "recent_joined_program",
+      "search": "evidence about the date or time Caroline joined a mentorship program"
+    },
+    {
+      "entity": "Caroline",
+      "property": "mentee",
+      "search": "evidence Caroline is a mentee in a mentorship program"
+    },
+    {
+      "entity": "Caroline",
+      "property": "activities",
+      "search": "evidence of Caroline's participation in mentorship activities or programs"
+    },
+    {
+      "entity": "Caroline",
+      "property": "action",
+      "search": "evidence describing the action of joining a mentorship program"
+    }
+  ]
+}

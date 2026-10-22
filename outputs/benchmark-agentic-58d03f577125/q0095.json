@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0095",
+  "category": 4,
+  "question": "What is Melanie's hand-painted bowl a reminder of?",
+  "gold_answer": "art and self-expression",
+  "status": "scored",
+  "generated_answer": "Melanie's hand-painted bowl is a reminder of her creativity, her feelings, and a part of herself she expresses through painting and pottery.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_12::chunk-0000",
+      "turn_id": "D12:6"
+    }
+  ],
+  "query_elapsed_seconds": 4.632803459,
+  "label": "WRONG",
+  "judge_reason": "The generated answer goes beyond the reference answer by adding details about feelings and self and does not match the simplicity of 'art and self-expression'."
+}

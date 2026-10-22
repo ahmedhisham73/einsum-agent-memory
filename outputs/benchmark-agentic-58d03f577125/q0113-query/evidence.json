@@ -1,0 +1,310 @@
+[
+  {
+    "episode_id": "conv-26::session_2::chunk-0005",
+    "session_id": "session_2",
+    "observed_at": "2023-05-25T13:14:00",
+    "source_timestamp": "1:14 pm on 25 May, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D2:6",
+        "speaker": "Caroline",
+        "text": "That's great, Mel! Taking time for yourself is so important. You're doing an awesome job looking after yourself and your family!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:7",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline. It's still a work in progress, but I'm doing my best. My kids are so excited about summer break! We're thinking about going camping next month. Any fun plans for the summer?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:8",
+        "speaker": "Caroline",
+        "text": "Researching adoption agencies — it's been a dream to have a family and give a loving home to kids who need it.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:9",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! That's awesome! Taking in kids in need - you're so kind. Your future family is gonna be so lucky to have you!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:10",
+        "speaker": "Caroline",
+        "text": "Thanks, Mel! My goal is to give kids a loving home. I'm truly grateful for all the support I've got from friends and mentors. Now the hard work starts to turn my dream into a reality. And here's one of the adoption agencies I'm looking into. It's a lot to take in, but I'm feeling hopeful and optimistic.",
+        "metadata": {
+          "img_url": [
+            "https://live.staticflickr.com/3437/3935231341_b2955b00dd_b.jpg"
+          ],
+          "blip_caption": "a photography of a sign for a new arrival and an information and domestic building",
+          "query": "adoption agency brochure",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D2:11",
+        "speaker": "Melanie",
+        "text": "Wow, that agency looks great! What made you pick it?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_8::chunk-0000",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D8:1",
+        "speaker": "Caroline",
+        "text": "Hey Mel, what's up? Been a busy week since we talked.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:2",
+        "speaker": "Melanie",
+        "text": "Hey Caroline, it's been super busy here. So much since we talked! Last Fri I finally took my kids to a pottery workshop. We all made our own pots, it was fun and therapeutic!",
+        "metadata": {
+          "img_url": [
+            "https://images.rawpixel.com/image_social_landscape/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTExL2ZsNDg2NDgxOTYyMDMtaW1hZ2UuanBn.jpg"
+          ],
+          "blip_caption": "a photography of a group of children making clay sculptures in a classroom",
+          "query": "pottery workshop family making clay pots",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D8:3",
+        "speaker": "Caroline",
+        "text": "Wow, Mel! Sounds like you and the kids had a blast. How'd they like it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:4",
+        "speaker": "Melanie",
+        "text": "The kids loved it! They were so excited to get their hands dirty and make something with clay. It was special to watch their creativity and imagination come to life, they made this!",
+        "metadata": {
+          "img_url": [
+            "https://monstermonster.shop/cdn/shop/products/mug-class_5000x.jpg"
+          ],
+          "blip_caption": "a photo of a cup with a dog face on it",
+          "query": "kids pottery finished pieces"
+        }
+      },
+      {
+        "turn_id": "D8:5",
+        "speaker": "Caroline",
+        "text": "Aww, that's so sweet! That cup is so cute. It's awesome to see how kids show their personalities through art. What other creative projects do you do with them, besides pottery?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:6",
+        "speaker": "Melanie",
+        "text": "We love painting together lately, especially nature-inspired ones. Here's our latest work from last weekend.",
+        "metadata": {
+          "img_url": [
+            "https://i.pinimg.com/originals/ea/d9/d7/ead9d79b58ca80a38a744b5ab70482db.jpg"
+          ],
+          "blip_caption": "a photo of a painting of a sunset with a palm tree",
+          "query": "painting vibrant flowers sunset sky"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_9::chunk-0015",
+    "session_id": "session_9",
+    "observed_at": "2023-07-17T14:31:00",
+    "source_timestamp": "2:31 pm on 17 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D9:16",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! I painted this after I visited a LGBTQ center. I wanted to capture everyone's unity and strength.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:17",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! It really conveys unity and strength - such a gorgeous piece! My kids and I just finished another painting like our last one.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_11::chunk-0005",
+    "session_id": "session_11",
+    "observed_at": "2023-08-14T14:24:00",
+    "source_timestamp": "2:24 pm on 14 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D11:6",
+        "speaker": "Caroline",
+        "text": "It was so inspiring, Mel! Check out the crowd. People of all kinds celebrating love and acceptance - it really pushed me to keep fighting for LGBTQ rights.",
+        "metadata": {
+          "img_url": [
+            "https://cloudfront-us-east-1.images.arcpublishing.com/opb/35SV3NIC4ZBRTLDGHUJ5QWU5WY.jpg"
+          ],
+          "blip_caption": "a photo of a group of people walking down a street with balloons",
+          "query": "pride parade crowd"
+        }
+      },
+      {
+        "turn_id": "D11:7",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! That sounds awesome. This pic's from last night - looks like everyone was having a blast! Reminds me it's important to cultivate a loving and accepting environment for our kids. How do you stay inclusive in your work as an artist?",
+        "metadata": {
+          "img_url": [
+            "https://livingmividaloca.com/wp-content/uploads/2023/06/anaheim-town-square-concert.jpg"
+          ],
+          "blip_caption": "a photo of a group of people sitting on chairs watching a band",
+          "query": "outdoor concert family loving accepting environment"
+        }
+      },
+      {
+        "turn_id": "D11:8",
+        "speaker": "Caroline",
+        "text": "That pic is cool! Representing inclusivity and diversity in my art is important to me. I also use it to speak up for the LGBTQ+ community and push for acceptance. Here's a recent painting!",
+        "metadata": {
+          "img_url": [
+            "https://www.dawnsilerart.com/wp-content/uploads/sites/3130/2020/11/YCNHTMC-CU9.jpg"
+          ],
+          "blip_caption": "a photo of a painting with a painting brush and paint on it",
+          "query": "painting vibrant colors diverse representation"
+        }
+      },
+      {
+        "turn_id": "D11:9",
+        "speaker": "Melanie",
+        "text": "Wow, that rocks! What's the main idea of your art?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:10",
+        "speaker": "Caroline",
+        "text": "My art is about expressing my trans experience. It's my way of showing my story and helping people understand the trans community.",
+        "metadata": {
+          "blip_caption": "a photo of a painting of a woman with a cow in her lap"
+        }
+      },
+      {
+        "turn_id": "D11:11",
+        "speaker": "Melanie",
+        "text": "Your art's amazing, Caroline. I love how you use it to tell your stories and teach people about trans folks. I'd love to see another painting of yours!",
+        "metadata": {
+          "blip_caption": "a photo of a person holding a purple bowl in their hand"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_14::chunk-0030",
+    "session_id": "session_14",
+    "observed_at": "2023-08-25T13:33:00",
+    "source_timestamp": "1:33 pm on 25 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D14:31",
+        "speaker": "Caroline",
+        "text": "Wow, Mel! Any more paintings coming up?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:32",
+        "speaker": "Melanie",
+        "text": "I'm feeling inspired by autumn so I'm planning a few. You got any cool art projects coming up?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:33",
+        "speaker": "Caroline",
+        "text": "I'm putting together an LGBTQ art show next month and I'm gonna show my paintings. Super stoked!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:34",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, that's awesome! Can't wait to see your show - the LGBTQ community needs more platforms like this!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:35",
+        "speaker": "Caroline",
+        "text": "Yeah Mel, stoked! Gonna be a great night featuring LGBTQ artists and their awesome talents. We want it to spread understanding and acceptance - let's make it happen!",
+        "metadata": {
+          "blip_caption": "a photo of a poster for a concert with a man in a cowboy hat"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_16::chunk-0000",
+    "session_id": "session_16",
+    "observed_at": "2023-09-13T00:09:00",
+    "source_timestamp": "12:09 am on 13 September, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D16:1",
+        "speaker": "Caroline",
+        "text": "Hey Mel, long time no chat! I had a wicked day out with the gang last weekend - we went biking and saw some pretty cool stuff. It was so refreshing, and the pic I'm sending is just stunning, eh?",
+        "metadata": {
+          "img_url": [
+            "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_371,q_75,w_640/v1/crm/corpuschristitx/Sunset-Lake-Park_38118D81-5056-A36F-23E62D2F41525FF4-38118cb45056a36_381194bb-5056-a36f-23c599c63a3950d7.jpg"
+          ],
+          "blip_caption": "a photo of a beach with a fence and a sunset",
+          "query": "sunset lake"
+        }
+      },
+      {
+        "turn_id": "D16:2",
+        "speaker": "Melanie",
+        "text": "Hey Caroline! It's so good to hear from you! That pic is so beautiful, the colors really pop. Biking sounds like a great way to get out in nature. We went camping with the kids a few weeks ago, had a blast exploring the forest and hiking. Nature can be so refreshing for your soul. Any plans coming up?",
+        "metadata": {
+          "img_url": [
+            "https://exploringtheprime.com/wp-content/uploads/2019/10/IMG_6705-2.jpg"
+          ],
+          "blip_caption": "a photo of a dirt road surrounded by trees with yellow leaves",
+          "query": "family hiking trail vibrant autumn colors"
+        }
+      },
+      {
+        "turn_id": "D16:3",
+        "speaker": "Caroline",
+        "text": "Melanie, that photo's amazing! I love all the yellow leaves, it looks so cozy. That sounds like fun! Seeing how excited they get for the little things is awesome, it's so contagious.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:4",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! It's awesome seeing the kids get excited learning something new about nature. Those moments make being a parent worth it. We roasted marshmallows and shared stories around the campfire. Those simple moments make the best memories. What inspires you with your volunteering?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:5",
+        "speaker": "Caroline",
+        "text": "I'm inspired seeing my work make a difference for the LGBTQ+ community. Knowing I'm helping create a more loving world is amazing. I'm really thankful for my friends, family and mentors' support. It inspires me to keep making art, too.",
+        "metadata": {
+          "img_url": [
+            "https://i.pinimg.com/originals/34/2e/72/342e72b194865e01a38af86c307e95c7.jpg"
+          ],
+          "blip_caption": "a photo of a painting of a heart on a table",
+          "query": "canvas painting rainbow colors"
+        }
+      },
+      {
+        "turn_id": "D16:6",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, that looks awesome! I love how it shows the togetherness and power you were talking about. How long have you been creating art?",
+        "metadata": {}
+      }
+    ]
+  }
+]

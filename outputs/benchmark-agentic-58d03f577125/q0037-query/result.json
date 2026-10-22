@@ -1,0 +1,27 @@
+{
+  "status": "completed",
+  "experiment_id": "q0037-query",
+  "memory_build": "offline-memory-a5e48166f56e",
+  "baseline_build": "agentic-build-300877917378",
+  "question": "When did Caroline join a mentorship program?",
+  "answer": "Caroline joined a mentorship program for LGBTQ youth last weekend before 17 July 2023, as she mentioned it in a conversation on 17 July 2023.",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-26::session_9::chunk-0000",
+      "turn_id": "D9:2"
+    }
+  ],
+  "elapsed_seconds": 4.8799335,
+  "stop_reason": "agent_ready",
+  "search_count": 1,
+  "selected_chunks": 6,
+  "unique_source_turns": 32,
+  "implementation": {
+    "chunk_turns": 6,
+    "overlap_turns": 1,
+    "top_k_per_search": 6,
+    "max_searches": 4,
+    "max_agent_decisions": 5
+  }
+}

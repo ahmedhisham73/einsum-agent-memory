@@ -1,0 +1,35 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Caroline's necklace",
+      "property": "symbolism",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Caroline's necklace",
+      "property": "symbolizes",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Caroline's necklace",
+      "property": "meaning",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Caroline",
+      "property": "appreciates_Caroline",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Caroline",
+      "property": "appreciation_supporters",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Caroline",
+      "property": "significance",
+      "search": "standalone evidence search"
+    }
+  ]
+}

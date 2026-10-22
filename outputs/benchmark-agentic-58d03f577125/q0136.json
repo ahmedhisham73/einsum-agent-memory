@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-26::q0136",
+  "category": 4,
+  "question": "What setback did Melanie face in October 2023?",
+  "gold_answer": "She got hurt and had to take a break from pottery.",
+  "status": "failed",
+  "error": "Query failed. See q0136.log"
+}

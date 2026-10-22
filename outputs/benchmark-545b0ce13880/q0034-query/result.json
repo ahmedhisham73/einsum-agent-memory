@@ -1,0 +1,25 @@
+{
+  "status": "completed",
+  "experiment_id": "q0034-query",
+  "memory_build": "offline-memory-a5e48166f56e",
+  "embedding_fingerprint": "264e45d8331b217a87fc15e35db2c614b32e9c572d0bbb53fe9bcc90dda3a8a6",
+  "question": "When did Caroline go to a pride parade during the summer?",
+  "answer": "Caroline went to a pride parade during the summer at least twice: once \"last week\" relative to 3 July 2023 (thus late June or early July 2023) and once last Friday relative to 14 August 2023 (which would be 11 August 2023).",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-26::session_5::episode-001",
+      "turn_id": "D5:1"
+    },
+    {
+      "episode_id": "conv-26::session_11::episode-002",
+      "turn_id": "D11:4"
+    }
+  ],
+  "elapsed_seconds": 4.25291675,
+  "implementation": {
+    "structured_matching": "literal entity / property-token overlap",
+    "all_matching": "all episodes; no optimized exhaustive retrieval",
+    "coverage": "answer-model sufficiency check with expansion"
+  }
+}

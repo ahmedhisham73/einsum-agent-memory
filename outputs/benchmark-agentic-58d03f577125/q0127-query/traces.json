@@ -1,0 +1,125 @@
+[
+  {
+    "stage": "agent_decision",
+    "call_id": "7a4f171f-11b1-43f0-8be0-2260587bb132",
+    "response": {
+      "id": "chatcmpl-EZrGvJsGViaOwux6iM1mXB22TDLVW",
+      "object": "chat.completion",
+      "created": 1792214965,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"search\",\"query\":\"Caroline activity with her dad\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 152,
+        "completion_tokens": 14,
+        "total_tokens": 166,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f810e81ea"
+    },
+    "latency_seconds": 1.0088629999999998
+  },
+  {
+    "stage": "agent_decision",
+    "call_id": "a0d0e7fe-4149-4f80-b9c1-327f5d2e12ce",
+    "response": {
+      "id": "chatcmpl-EZrGxeqWEh9r2ibOhzm7SAlDvL7gR",
+      "object": "chat.completion",
+      "created": 1792214967,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"search\",\"query\":\"Caroline activity with her dad\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2909,
+        "completion_tokens": 14,
+        "total_tokens": 2923,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f810e81ea"
+    },
+    "latency_seconds": 1.0230234999999999
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "241a7bc6-dbce-4ce4-9162-3b5f4e9850f5",
+    "response": {
+      "id": "chatcmpl-EZrGyuCabTsrQZj5BIFd2J90j7J9l",
+      "object": "chat.completion",
+      "created": 1792214968,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"The activity Caroline used to do with her dad is not mentioned in the provided conversations.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_2::chunk-0000\",\"turn_id\":\"D2:1\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2896,
+        "completion_tokens": 54,
+        "total_tokens": 2950,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_802f1283f8"
+    },
+    "latency_seconds": 1.246835667
+  }
+]

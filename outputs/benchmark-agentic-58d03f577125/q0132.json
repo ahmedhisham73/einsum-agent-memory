@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0132",
+  "category": 4,
+  "question": "Who is Melanie a fan of in terms of modern music?",
+  "gold_answer": "Ed Sheeran",
+  "status": "scored",
+  "generated_answer": "Melanie is a fan of modern music including Ed Sheeran's song \"Perfect\".",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_15::chunk-0025",
+      "turn_id": "D15:28"
+    }
+  ],
+  "query_elapsed_seconds": 4.348954458000001,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer identifies Ed Sheeran as the artist Melanie is a fan of, which matches the reference answer."
+}

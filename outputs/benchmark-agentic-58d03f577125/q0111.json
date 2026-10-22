@@ -1,0 +1,21 @@
+{
+  "question_id": "conv-26::q0111",
+  "category": 4,
+  "question": "What kind of pot did Mel and her kids make with clay?",
+  "gold_answer": "a cup with a dog face on it",
+  "status": "scored",
+  "generated_answer": "Mel and her kids made clay pots including a cup with a dog face on it.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_8::chunk-0000",
+      "turn_id": "D8:2"
+    },
+    {
+      "episode_id": "conv-26::session_8::chunk-0000",
+      "turn_id": "D8:4"
+    }
+  ],
+  "query_elapsed_seconds": 4.894480166,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer includes the specific type of pot (a cup with a dog face on it) mentioned in the reference answer."
+}

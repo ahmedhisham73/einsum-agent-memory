@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-EZqa1ulT2FdaWQNUgH4VGSxUNUOnc",
+  "object": "chat.completion",
+  "created": 1792212305,
+  "model": "gpt-4o-mini-2024-07-18",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\"label\":\"WRONG\",\"reason\":\"The generated answer provides a list of events that are not included in the reference answer, which only specifies 'Poetry reading' and 'conference'.\"}",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 197,
+    "completion_tokens": 39,
+    "total_tokens": 236,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_07d47c81e6"
+}

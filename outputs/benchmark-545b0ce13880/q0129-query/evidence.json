@@ -1,0 +1,414 @@
+[
+  {
+    "episode_id": "conv-26::session_5::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_5",
+    "observed_at": "2023-07-03T13:36:00",
+    "source_timestamp": "1:36 pm on 3 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Upcoming plans and future events for Caroline and Melanie",
+    "turns": [
+      {
+        "turn_id": "D5:12",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! I'm excited to see where pottery takes me. Anything coming up you're looking forward to?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:13",
+        "speaker": "Caroline",
+        "text": "Thanks Mel! I'm going to a transgender conference this month. I'm so excited to meet other people in the community and learn more about advocacy. It's gonna be great!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:14",
+        "speaker": "Melanie",
+        "text": "Sounds awesome, Caroline! Have a great time and learn a lot. Have fun!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:15",
+        "speaker": "Caroline",
+        "text": "Cool, thanks Mel! Can't wait. I'll keep ya posted. Bye!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:16",
+        "speaker": "Melanie",
+        "text": "Bye, Caroline! Can't wait to hear about it. Have fun and stay safe!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_8::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Caroline's pride parade experience and personal journey of acceptance and transition",
+    "turns": [
+      {
+        "turn_id": "D8:17",
+        "speaker": "Caroline",
+        "text": "Wow, nice pic! You both looked amazing. One special memory for me was this pride parade I went to a few weeks ago.",
+        "metadata": {
+          "img_url": [
+            "https://dynaimage.cdn.cnn.com/cnn/digital-images/org/dfc95f14-b325-431c-b977-5b6dc2d35f9c.jpg"
+          ],
+          "blip_caption": "a photo of a parade with people walking down the street",
+          "query": "rainbow flag pride march"
+        }
+      },
+      {
+        "turn_id": "D8:18",
+        "speaker": "Melanie",
+        "text": "Wow, looks awesome! Did you join in?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:19",
+        "speaker": "Caroline",
+        "text": "Yes, I did. It was amazing! I felt so accepted and happy, just being around people who accepted and celebrated me. It's definitely a top memory.",
+        "metadata": {
+          "img_url": [
+            "http://ninalemsparty.com/cdn/shop/collections/iStock-1292280203.jpg"
+          ],
+          "blip_caption": "a photo of a group of people holding up signs and smiling",
+          "query": "lgbtq+ pride parade vibrant flags smiling faces"
+        }
+      },
+      {
+        "turn_id": "D8:20",
+        "speaker": "Melanie",
+        "text": "Wow, what an experience! How did it make you feel?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:21",
+        "speaker": "Caroline",
+        "text": "I felt so proud and grateful - the vibes were amazing and it was comforting to know I'm not alone and have a great community around me.",
+        "metadata": {
+          "blip_caption": "a photo of a rainbow flag on a pole on a carpet"
+        }
+      },
+      {
+        "turn_id": "D8:22",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! That's huge! How did it feel to be around so much love and acceptance?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:23",
+        "speaker": "Caroline",
+        "text": "It was awesome, Melanie! Being around people who embrace and back me up is beyond words. It really inspired me.",
+        "metadata": {
+          "blip_caption": "a photo of a group of people sitting on the ground with a dog"
+        }
+      },
+      {
+        "turn_id": "D8:24",
+        "speaker": "Melanie",
+        "text": "Wow, that sounds awesome! Your friends and community really have your back. What's been the best part of it?",
+        "metadata": {
+          "blip_caption": "a photo of a girl sitting in a teepee with stuffed animals"
+        }
+      },
+      {
+        "turn_id": "D8:25",
+        "speaker": "Caroline",
+        "text": "Realizing I can be me without fear and having the courage to transition was the best part. It's so freeing to express myself authentically and have people back me up.",
+        "metadata": {
+          "blip_caption": "a photo of a teepee with a teddy bear and pillows"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_14::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_14",
+    "observed_at": "2023-08-25T13:33:00",
+    "source_timestamp": "1:33 pm on 25 August, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Personal experience and pottery art introduction",
+    "turns": [
+      {
+        "turn_id": "D14:1",
+        "speaker": "Caroline",
+        "text": "Hey, Mel! How's it going? There's something I want to tell you. I went hiking last week and got into a bad spot with some people. It really bugged me, so I tried to apologize to them.",
+        "metadata": {
+          "img_url": [
+            "https://photos.thetrek.co/wp-content/uploads/2017/11/IMG_1742-e1509796327550.jpg"
+          ],
+          "blip_caption": "a photo of a woman sitting on a sign on top of a mountain",
+          "query": "letter apology hike encounter"
+        }
+      },
+      {
+        "turn_id": "D14:2",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! Sorry that happened to you. It's tough when those things happen, but it's great you apologized. Takes a lot of courage and maturity! What do you think of this?",
+        "metadata": {
+          "img_url": [
+            "https://i0.wp.com/bardith.com/wp-content/uploads/2022/05/IMG_4371-1.jpg"
+          ],
+          "blip_caption": "a photo of a plate with a bunch of flowers on it",
+          "query": "pottery purple bowl floral patterns"
+        }
+      },
+      {
+        "turn_id": "D14:3",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! That plate is awesome! Did you make it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:4",
+        "speaker": "Melanie",
+        "text": "Yeah, I made it in pottery class yesterday. I love it! Pottery's so relaxing and creative. Have you tried it yet?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_14::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_14",
+    "observed_at": "2023-08-25T13:33:00",
+    "source_timestamp": "1:33 pm on 25 August, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Joining and finding meaning in the transgender community",
+    "turns": [
+      {
+        "turn_id": "D14:12",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! I really appreciate your help and motivation. What made you decide to transition and join the transgender community?",
+        "metadata": {
+          "blip_caption": "a photo of a bulletin board with a rainbow flag and a don't ever be afraid to"
+        }
+      },
+      {
+        "turn_id": "D14:13",
+        "speaker": "Caroline",
+        "text": "Finding a community where I'm accepted, loved and supported has really meant a lot to me. It's made a huge difference to have people who get what I'm going through. Stuff like this mural are really special to me!",
+        "metadata": {
+          "img_url": [
+            "https://npr.brightspotcdn.com/legacy/sites/wuwm/files/201811/20181029_095916.jpg"
+          ],
+          "blip_caption": "a photo of a building with a large eagle painted on it",
+          "query": "rainbow flag painting unity acceptance"
+        }
+      },
+      {
+        "turn_id": "D14:14",
+        "speaker": "Melanie",
+        "text": "Caroline, glad you found a supportive community! Can you tell me more about why it's special to you?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:15",
+        "speaker": "Caroline",
+        "text": "The rainbow flag mural is important to me as it reflects the courage and strength of the trans community. The eagle symbolizes freedom and pride, representing my own resilience and that of others.",
+        "metadata": {
+          "blip_caption": "a photo of a stained glass window with a picture of a person on a horse"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_14::episode-006",
+    "conversation_id": "conv-26",
+    "session_id": "session_14",
+    "observed_at": "2023-08-25T13:33:00",
+    "source_timestamp": "1:33 pm on 25 August, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Street art and everyday creativity spreading positivity",
+    "turns": [
+      {
+        "turn_id": "D14:22",
+        "speaker": "Melanie",
+        "text": "Wow, that's gorgeous! Where did you find it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:23",
+        "speaker": "Caroline",
+        "text": "I was out walking in my neighborhood when I came across this cool rainbow sidewalk for Pride Month. It was so vibrant and welcoming, I had to take a picture! It reminds us that love and acceptance are everywhere—even where we least expect it.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:24",
+        "speaker": "Melanie",
+        "text": "That's so nice, Caroline! Art can be in the most unlikely places. Love and acceptance really can be found everywhere.",
+        "metadata": {
+          "blip_caption": "a photo of a person drawing a flower on the ground"
+        }
+      },
+      {
+        "turn_id": "D14:25",
+        "speaker": "Caroline",
+        "text": "Agreed, Mel! Art can be a real mood-booster - I saw someone drawing on the ground the other day and it made me so happy. Creativity sure can lighten someone's day.",
+        "metadata": {
+          "img_url": [
+            "https://static.skillshare.com/uploads/project/281358/cover_full_592aef91cce2432e71c739804161e0fb.jpg"
+          ],
+          "blip_caption": "a photo of a painting of flowers and a watercolor palette",
+          "query": "drawing flower ground colored chalk simple act creativity"
+        }
+      },
+      {
+        "turn_id": "D14:26",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, that's so nice! The colors are so bright and the flowers are so pretty. Art is such a source of joy.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_15::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_15",
+    "observed_at": "2023-08-28T15:19:00",
+    "source_timestamp": "3:19 pm on 28 August, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Volunteering experience and upcoming talent show",
+    "turns": [
+      {
+        "turn_id": "D15:4",
+        "speaker": "Melanie",
+        "text": "That sounds great, Caroline. Volunteering is a great way to meet people. Creating community and supporting each other, especially for kids, is really important. How did you feel about your time there? Anything that sticks out to you?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:5",
+        "speaker": "Caroline",
+        "text": "I loved it. It was awesome to see how strong the young people were, with all the challenges they face. I felt fulfilled guiding and supporting them. I even got to let them know they're not alone by sharing my story. Such a powerful, emotional experience.",
+        "metadata": {
+          "blip_caption": "a photo of a table with a black table cloth and a group of people"
+        }
+      },
+      {
+        "turn_id": "D15:6",
+        "speaker": "Melanie",
+        "text": "Was connecting with those young folks meaningful for you? ",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:7",
+        "speaker": "Caroline",
+        "text": "It was so special to me. It reminded me of my own struggles in the past and how I felt alone. I was glad I could share my story and offer them support - it felt like I could make a difference.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:8",
+        "speaker": "Melanie",
+        "text": "That's great. Sharing your story and support might make a difference for a long time. What do you hope to do next time?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:9",
+        "speaker": "Caroline",
+        "text": "I'm definitely carrying on volunteering at the youth center. It's an important part of my life and I've made strong connections with people there. I really believe in community and supporting each other. So I wanna keep making a difference.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:10",
+        "speaker": "Melanie",
+        "text": "That's great news, Caroline! Love seeing your dedication to helping others. Any specific projects or activities you're looking forward to there?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:11",
+        "speaker": "Caroline",
+        "text": "We're putting together a talent show for the kids next month. I'm looking forward to seeing how much fun everyone has and how proud they'll feel of their talents!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_16::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_16",
+    "observed_at": "2023-09-13T00:09:00",
+    "source_timestamp": "12:09 am on 13 September, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Sharing recent outdoor experiences and photos",
+    "turns": [
+      {
+        "turn_id": "D16:1",
+        "speaker": "Caroline",
+        "text": "Hey Mel, long time no chat! I had a wicked day out with the gang last weekend - we went biking and saw some pretty cool stuff. It was so refreshing, and the pic I'm sending is just stunning, eh?",
+        "metadata": {
+          "img_url": [
+            "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_371,q_75,w_640/v1/crm/corpuschristitx/Sunset-Lake-Park_38118D81-5056-A36F-23E62D2F41525FF4-38118cb45056a36_381194bb-5056-a36f-23c599c63a3950d7.jpg"
+          ],
+          "blip_caption": "a photo of a beach with a fence and a sunset",
+          "query": "sunset lake"
+        }
+      },
+      {
+        "turn_id": "D16:2",
+        "speaker": "Melanie",
+        "text": "Hey Caroline! It's so good to hear from you! That pic is so beautiful, the colors really pop. Biking sounds like a great way to get out in nature. We went camping with the kids a few weeks ago, had a blast exploring the forest and hiking. Nature can be so refreshing for your soul. Any plans coming up?",
+        "metadata": {
+          "img_url": [
+            "https://exploringtheprime.com/wp-content/uploads/2019/10/IMG_6705-2.jpg"
+          ],
+          "blip_caption": "a photo of a dirt road surrounded by trees with yellow leaves",
+          "query": "family hiking trail vibrant autumn colors"
+        }
+      },
+      {
+        "turn_id": "D16:3",
+        "speaker": "Caroline",
+        "text": "Melanie, that photo's amazing! I love all the yellow leaves, it looks so cozy. That sounds like fun! Seeing how excited they get for the little things is awesome, it's so contagious.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_19::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_19",
+    "observed_at": "2023-10-22T09:55:00",
+    "source_timestamp": "9:55 am on 22 October, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Caroline's personal journey of self-acceptance and desire to support others",
+    "turns": [
+      {
+        "turn_id": "D19:7",
+        "speaker": "Caroline",
+        "text": "Thanks, Mel. Finding self-acceptance was a long process, but now I'm ready to offer love and support to those who need it. It's empowering to make a positive difference in someone's life.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:8",
+        "speaker": "Melanie",
+        "text": "That must have been tough for you, Caroline. Respect for finding acceptance and helping others with what you've been through. You're so strong and inspiring.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:9",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie. Transitioning wasn't easy and acceptance wasn't either, but the help I got from friends, family and people I looked up to was invaluable. They boosted me through tough times and helped me find out who I really am. That's why I want to pass that same support to anyone who needs it. Bringing others comfort and helping them grow brings me such joy.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:10",
+        "speaker": "Melanie",
+        "text": "I'm so happy for you, Caroline. You found your true self and now you're helping others. You're so inspiring!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:11",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie. Your support really means a lot. This journey has been amazing and I'm grateful I get to share it and help others with theirs. It's a real gift.",
+        "metadata": {
+          "blip_caption": "a photo of a clock with a green and yellow design on it"
+        }
+      }
+    ]
+  }
+]

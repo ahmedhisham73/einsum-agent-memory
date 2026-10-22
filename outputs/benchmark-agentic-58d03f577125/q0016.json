@@ -1,0 +1,33 @@
+{
+  "question_id": "conv-26::q0016",
+  "category": 1,
+  "question": "What activities does Melanie partake in?",
+  "gold_answer": "pottery, camping, painting, swimming",
+  "status": "scored",
+  "generated_answer": "Melanie partakes in running charity races for mental health, daily activities such as running, reading, and playing the violin, and pottery making. She has completed pottery projects and finds painting on pottery a way to express her feelings and creativity.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_2::chunk-0000",
+      "turn_id": "D2:1"
+    },
+    {
+      "episode_id": "conv-26::session_2::chunk-0000",
+      "turn_id": "D2:5"
+    },
+    {
+      "episode_id": "conv-26::session_12::chunk-0000",
+      "turn_id": "D12:2"
+    },
+    {
+      "episode_id": "conv-26::session_12::chunk-0000",
+      "turn_id": "D12:4"
+    },
+    {
+      "episode_id": "conv-26::session_12::chunk-0000",
+      "turn_id": "D12:6"
+    }
+  ],
+  "query_elapsed_seconds": 9.013610917000001,
+  "label": "WRONG",
+  "judge_reason": "The generated answer introduces additional activities and details not present in the reference answer, which contradicts the request for the specific activities Melanie partakes in."
+}

@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "66cc7e7c-1dfb-483d-9935-f33818cd8c2d",
+    "response": {
+      "id": "chatcmpl-EZj5Al5Lm6gj9cVBExBBAwj7g35os",
+      "object": "chat.completion",
+      "created": 1792183484,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Melanie's daughter\",\"property\":\"birthday\",\"search\":\"search for Melanie's daughter's birthday date or month in text\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2678,
+        "completion_tokens": 34,
+        "total_tokens": 2712,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f111b06a9"
+    },
+    "latency_seconds": 2.204462791
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "f29ed689-a9c5-4a5e-8a8c-0617c6f654aa",
+    "response": {
+      "id": "chatcmpl-EZj5CB3kxhlgAErCqR8Zo3fam6IT0",
+      "object": "chat.completion",
+      "created": 1792183486,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Melanie's daughter's birthday was celebrated with a concert on the evening before 14 August 2023, implying her birthday is around mid-August.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_11::episode-001\",\"turn_id\":\"D11:1\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3778,
+        "completion_tokens": 66,
+        "total_tokens": 3844,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_38f508f26a"
+    },
+    "latency_seconds": 1.594575334
+  }
+]

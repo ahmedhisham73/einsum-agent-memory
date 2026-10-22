@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-26::q0039",
+  "category": 1,
+  "question": "What activities has Melanie done with her family?",
+  "gold_answer": "Pottery, painting, camping, museum, swimming, hiking",
+  "status": "failed",
+  "error": "Query failed. See q0039.log"
+}

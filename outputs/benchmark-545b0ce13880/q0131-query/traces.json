@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "a9666e82-0be5-466e-9c3e-d126bae3dd04",
+    "response": {
+      "id": "chatcmpl-EZkoWbo6UQmYTgdxV1ZOR2R0E6SrF",
+      "object": "chat.completion",
+      "created": 1792190140,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"all_matching\",\"requirements\":[{\"entity\":\"Melanie\",\"property\":\"activity_enjoyment\",\"search\":\"Melanie enjoys listening to classical musicians\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2681,
+        "completion_tokens": 32,
+        "total_tokens": 2713,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_eb8f688690"
+    },
+    "latency_seconds": 4.502414042
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "5a03c9d6-8055-4777-a611-9b07bca48e0a",
+    "response": {
+      "id": "chatcmpl-EZkodXgBHDo8odgvrlcUEQbXqiVBj",
+      "object": "chat.completion",
+      "created": 1792190147,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Melanie enjoys listening to classical musicians Bach and Mozart.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_15::episode-005\",\"turn_id\":\"D15:28\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 36948,
+        "completion_tokens": 47,
+        "total_tokens": 36995,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_38f508f26a"
+    },
+    "latency_seconds": 6.088238667
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "status": "completed",
+  "experiment_id": "q0095-query",
+  "memory_build": "offline-memory-a5e48166f56e",
+  "baseline_build": "agentic-build-300877917378",
+  "question": "What is Melanie's hand-painted bowl a reminder of?",
+  "answer": "Melanie's hand-painted bowl is a reminder of her creativity, her feelings, and a part of herself she expresses through painting and pottery.",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-26::session_12::chunk-0000",
+      "turn_id": "D12:6"
+    }
+  ],
+  "elapsed_seconds": 4.632803459,
+  "stop_reason": "agent_ready",
+  "search_count": 1,
+  "selected_chunks": 6,
+  "unique_source_turns": 36,
+  "implementation": {
+    "chunk_turns": 6,
+    "overlap_turns": 1,
+    "top_k_per_search": 6,
+    "max_searches": 4,
+    "max_agent_decisions": 5
+  }
+}

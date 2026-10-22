@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0079",
+  "category": 1,
+  "question": "What items has Melanie bought?",
+  "gold_answer": "Figurines, shoes",
+  "status": "scored",
+  "generated_answer": "Melanie has bought some figurines that remind her of family love.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_19::chunk-0000",
+      "turn_id": "D19:2"
+    }
+  ],
+  "query_elapsed_seconds": 3.899706333,
+  "label": "WRONG",
+  "judge_reason": "The generated answer does not include all items from the reference answer, specifically it omits 'shoes'."
+}

@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0116",
+  "category": 4,
+  "question": "Why are flowers important to Melanie?",
+  "gold_answer": "They remind her to appreciate the small moments and were a part of her wedding decor",
+  "status": "scored",
+  "generated_answer": "Flowers are important to Melanie because they bring her joy and represent growth, beauty, and a reminder to appreciate the small moments in life. They hold emotional significance as they were an important part of her wedding decor and remind her of that special day filled with love and joy.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_8::episode-002",
+      "turn_id": "D8:12"
+    }
+  ],
+  "query_elapsed_seconds": 7.236831042,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer incorporates the key elements from the reference, including the appreciation of small moments and the significance of flowers in her wedding decor, while adding emotional context."
+}

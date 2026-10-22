@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-26::q0101",
+  "category": 4,
+  "question": "What kind of place does Caroline want to create for people?",
+  "gold_answer": "a safe and inviting place for people to grow",
+  "status": "failed",
+  "error": "Query failed. See q0101.log"
+}

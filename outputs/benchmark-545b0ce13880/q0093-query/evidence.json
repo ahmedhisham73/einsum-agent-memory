@@ -1,0 +1,299 @@
+[
+  {
+    "episode_id": "conv-26::session_2::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_2",
+    "observed_at": "2023-05-25T13:14:00",
+    "source_timestamp": "1:14 pm on 25 May, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Caroline talks about her adoption plans and the supportive adoption agency",
+    "turns": [
+      {
+        "turn_id": "D2:8",
+        "speaker": "Caroline",
+        "text": "Researching adoption agencies — it's been a dream to have a family and give a loving home to kids who need it.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:9",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! That's awesome! Taking in kids in need - you're so kind. Your future family is gonna be so lucky to have you!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:10",
+        "speaker": "Caroline",
+        "text": "Thanks, Mel! My goal is to give kids a loving home. I'm truly grateful for all the support I've got from friends and mentors. Now the hard work starts to turn my dream into a reality. And here's one of the adoption agencies I'm looking into. It's a lot to take in, but I'm feeling hopeful and optimistic.",
+        "metadata": {
+          "img_url": [
+            "https://live.staticflickr.com/3437/3935231341_b2955b00dd_b.jpg"
+          ],
+          "blip_caption": "a photography of a sign for a new arrival and an information and domestic building",
+          "query": "adoption agency brochure",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D2:11",
+        "speaker": "Melanie",
+        "text": "Wow, that agency looks great! What made you pick it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:12",
+        "speaker": "Caroline",
+        "text": "I chose them 'cause they help LGBTQ+ folks with adoption. Their inclusivity and support really spoke to me.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:13",
+        "speaker": "Melanie",
+        "text": "That's great, Caroline! Loving the inclusivity and support. Anything you're excited for in the adoption process?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:14",
+        "speaker": "Caroline",
+        "text": "I'm thrilled to make a family for kids who need one. It'll be tough as a single parent, but I'm up for the challenge!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:15",
+        "speaker": "Melanie",
+        "text": "You're doing something amazing! Creating a family for those kids is so lovely. You'll be an awesome mom! Good luck!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:16",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! Your kind words really mean a lot. I'll do my best to make sure these kids have a safe and loving home.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:17",
+        "speaker": "Melanie",
+        "text": "No doubts, Caroline. You have such a caring heart - they'll get all the love and stability they need! Excited for this new chapter!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_3::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_3",
+    "observed_at": "2023-06-09T19:55:00",
+    "source_timestamp": "7:55 pm on 9 June, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Motivation and support systems in personal life",
+    "turns": [
+      {
+        "turn_id": "D3:10",
+        "speaker": "Melanie",
+        "text": "Yes, Caroline! We can do it. Your courage is inspiring. I want to be couragous for my family- they motivate me and give me love. What motivates you?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:11",
+        "speaker": "Caroline",
+        "text": "Thanks, Mel! My friends, family and mentors are my rocks – they motivate me and give me the strength to push on. Here's a pic from when we met up last week!",
+        "metadata": {
+          "img_url": [
+            "https://fox2now.com/wp-content/uploads/sites/14/2023/08/that-tall-family.jpg"
+          ],
+          "blip_caption": "a photo of a family posing for a picture in a yard",
+          "query": "group of friends and family"
+        }
+      },
+      {
+        "turn_id": "D3:12",
+        "speaker": "Melanie",
+        "text": "Wow, that photo is great! How long have you had such a great support system?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:13",
+        "speaker": "Caroline",
+        "text": "Yeah, I'm really lucky to have them. They've been there through everything, I've known these friends for 4 years, since I moved from my home country. Their love and help have been so important especially after that tough breakup. I'm super thankful. Who supports you, Mel?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_4::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_4",
+    "observed_at": "2023-06-27T10:37:00",
+    "source_timestamp": "10:37 am on 27 June, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Sharing and discussing meaningful personal items",
+    "turns": [
+      {
+        "turn_id": "D4:1",
+        "speaker": "Caroline",
+        "text": "Hey Melanie! Long time no talk! A lot's been going on in my life! Take a look at this.",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/67uas3gnmz7b1.jpg"
+          ],
+          "blip_caption": "a photo of a person holding a necklace with a cross and a heart",
+          "query": "pendant transgender symbol"
+        }
+      },
+      {
+        "turn_id": "D4:2",
+        "speaker": "Melanie",
+        "text": "Hey, Caroline! Nice to hear from you! Love the necklace, any special meaning to it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:3",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! This necklace is super special to me - a gift from my grandma in my home country, Sweden. She gave it to me when I was young, and it stands for love, faith and strength. It's like a reminder of my roots and all the love and support I get from my family.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:4",
+        "speaker": "Melanie",
+        "text": "That's gorgeous, Caroline! It's awesome what items can mean so much to us, right? Got any other objects that you treasure, like that necklace?",
+        "metadata": {
+          "blip_caption": "a photo of a stack of bowls with different designs on them"
+        }
+      },
+      {
+        "turn_id": "D4:5",
+        "speaker": "Caroline",
+        "text": "Yep, Melanie! I've got some other stuff with sentimental value, like my hand-painted bowl. A friend made it for my 18th birthday ten years ago. The pattern and colors are awesome-- it reminds me of art and self-expression.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_6::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_6",
+    "observed_at": "2023-07-06T20:18:00",
+    "source_timestamp": "8:18 pm on 6 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Caroline's transition and support network",
+    "turns": [
+      {
+        "turn_id": "D6:11",
+        "speaker": "Caroline",
+        "text": "Wow, that's great! It sure shows how important friendship and compassion are. It's made me appreciate how lucky I am to have my friends and family helping with my transition. They make all the difference. We even had a picnic last week!",
+        "metadata": {
+          "img_url": [
+            "https://i.pinimg.com/originals/41/d5/60/41d5601e4ab0959ce5e29683a2660938.jpg"
+          ],
+          "blip_caption": "a photo of a group of women sitting on a blanket in a park",
+          "query": "group friends picnic"
+        }
+      },
+      {
+        "turn_id": "D6:12",
+        "speaker": "Melanie",
+        "text": "That's a gorgeous photo, Caroline! Wow, the love around you is awesome. How have your friends and fam been helping you out with your transition?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:13",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! This support network has been amazing. They've been there for me every step of the way giving me love, guidance, and acceptance. I couldn't have done it without them.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:14",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! It's great you have people to support you, that's really awesome!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:15",
+        "speaker": "Caroline",
+        "text": "I'm so lucky to have such a great support system around me. Their love and encouragement has really helped me accept and grow into my true self. They've been instrumental in my transition.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_13::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_13",
+    "observed_at": "2023-08-23T15:31:00",
+    "source_timestamp": "3:31 pm on 23 August, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Shared love and experiences with horses",
+    "turns": [
+      {
+        "turn_id": "D13:7",
+        "speaker": "Caroline",
+        "text": "That's so funny! I used to go horseback riding with my dad when I was a kid, we'd go through the fields, feeling the wind. It was so special. I've always had a love for horses!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D13:8",
+        "speaker": "Melanie",
+        "text": "Wow, that sounds great - I agree, they're awesome. Here's a photo of my horse painting I did recently.",
+        "metadata": {
+          "img_url": [
+            "https://warpedtable.com/cdn/shop/products/F331B563-AB73-430A-A6DF-3C5E0F91A4D8.jpg"
+          ],
+          "blip_caption": "a photo of a horse painted on a wooden wall",
+          "query": "horse painting"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_17::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_17",
+    "observed_at": "2023-10-13T10:31:00",
+    "source_timestamp": "10:31 am on 13 October, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Discussion about adoption plans and advice",
+    "turns": [
+      {
+        "turn_id": "D17:1",
+        "speaker": "Caroline",
+        "text": "Hey Mel, what's up? Long time no see! I just contacted my mentor for adoption advice. I'm ready to be a mom and share my love and family. It's a great feeling. Anything new with you? Anything exciting going on?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:2",
+        "speaker": "Melanie",
+        "text": "Hey Caroline! Great to hear from you! Wow, what an amazing journey. Congrats!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:3",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! I'm stoked to start this new chapter. It's been a dream to adopt and provide a safe, loving home for kids who need it. Do you have any experience with adoption, or know anyone who's gone through the process?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:4",
+        "speaker": "Melanie",
+        "text": "Yeah, a buddy of mine adopted last year. It was a long process, but now they're super happy with their new kid. Makes me feel like maybe I should do it too!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:5",
+        "speaker": "Caroline",
+        "text": "That's great news about your friend! It can be tough, but so worth it. It's a great way to add to your family and show your love. If you ever do it, let me know — I'd love to help in any way I can.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:6",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! Appreciate your help. Got any tips for getting started on it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:7",
+        "speaker": "Caroline",
+        "text": "Yep! Do your research and find an adoption agency or lawyer. They'll help with the process and provide all the info. Gather documents like references, financial info and medical checks. Don't forget to prepare emotionally, since the wait can be hard. It's all worth it in the end though.",
+        "metadata": {}
+      }
+    ]
+  }
+]

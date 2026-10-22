@@ -1,0 +1,40 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Melanie and her family",
+      "property": "family_camping_trip",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Melanie and her family",
+      "property": "family_camping_experience",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Melanie and her family",
+      "property": "camping_view_experience",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Melanie and her family",
+      "property": "observed_activity",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Melanie and her family",
+      "property": "observed_artwork",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Melanie and her family",
+      "property": "nature",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Melanie and her family",
+      "property": "emotional_reaction_to_event",
+      "search": "standalone evidence search"
+    }
+  ]
+}

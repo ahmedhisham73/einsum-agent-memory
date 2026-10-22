@@ -1,0 +1,125 @@
+[
+  {
+    "stage": "agent_decision",
+    "call_id": "04c5ba75-fbc5-4953-a9dc-0f3ac24ad131",
+    "response": {
+      "id": "chatcmpl-EZqMJNeHE5v63JKKS9drLIYVsZdrz",
+      "object": "chat.completion",
+      "created": 1792211455,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"search\",\"query\":\"symbols important to Caroline\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 148,
+        "completion_tokens": 12,
+        "total_tokens": 160,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f810e81ea"
+    },
+    "latency_seconds": 1.222527959
+  },
+  {
+    "stage": "agent_decision",
+    "call_id": "c076a470-6b6a-4fb5-9298-2734f226af86",
+    "response": {
+      "id": "chatcmpl-EZqMKbJ8nAP5gCZfiS1zOaxQfxYVr",
+      "object": "chat.completion",
+      "created": 1792211456,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"ready\",\"reason\":\"The evidence contains multiple mentions by Caroline of important symbols: a special necklace given by her grandma symbolizing love, faith, and strength; a hand-painted bowl representing art and self-expression; a rainbow flag mural symbolizing courage, strength, and pride of the trans community; and the eagle symbolizing freedom and resilience.\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3344,
+        "completion_tokens": 71,
+        "total_tokens": 3415,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f810e81ea"
+    },
+    "latency_seconds": 1.48806475
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "8eea9ce6-7064-4bbd-9cce-5645c2911d4c",
+    "response": {
+      "id": "chatcmpl-EZqMMrCYZmAiiGPx0DKVTDJFzgeuC",
+      "object": "chat.completion",
+      "created": 1792211458,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Important symbols to Caroline include a special necklace with a cross and heart given by her grandmother symbolizing love, faith, and strength; a hand-painted bowl from a friend representing art and self-expression; a rainbow flag mural symbolizing courage and strength of the trans community; and an eagle symbolizing freedom, pride, and resilience. These symbols reflect her roots, support from family, community acceptance, and personal resilience.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_4::chunk-0000\",\"turn_id\":\"D4:1\"},{\"episode_id\":\"conv-26::session_4::chunk-0000\",\"turn_id\":\"D4:3\"},{\"episode_id\":\"conv-26::session_4::chunk-0000\",\"turn_id\":\"D4:5\"},{\"episode_id\":\"conv-26::session_14::chunk-0010\",\"turn_id\":\"D14:13\"},{\"episode_id\":\"conv-26::session_14::chunk-0010\",\"turn_id\":\"D14:15\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3329,
+        "completion_tokens": 215,
+        "total_tokens": 3544,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_802f1283f8"
+    },
+    "latency_seconds": 2.4406053329999997
+  }
+]

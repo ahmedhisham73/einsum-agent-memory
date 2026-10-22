@@ -1,0 +1,25 @@
+{
+  "question_id": "conv-26::q0120",
+  "category": 4,
+  "question": "How did Melanie feel while watching the meteor shower?",
+  "gold_answer": "in awe of the universe",
+  "status": "scored",
+  "generated_answer": "Melanie felt amazed, tiny, and in awe of the universe while watching the meteor shower, experiencing it as a huge and awe-inspiring moment that reminded her how awesome life is with many little moments like that.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_10::episode-003",
+      "turn_id": "D10:14"
+    },
+    {
+      "episode_id": "conv-26::session_10::episode-003",
+      "turn_id": "D10:16"
+    },
+    {
+      "episode_id": "conv-26::session_10::episode-003",
+      "turn_id": "D10:18"
+    }
+  ],
+  "query_elapsed_seconds": 7.510683457999999,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer captures the essence of awe expressed in the reference answer, along with additional details that do not contradict the core feeling."
+}

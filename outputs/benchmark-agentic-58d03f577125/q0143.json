@@ -1,0 +1,29 @@
+{
+  "question_id": "conv-26::q0143",
+  "category": 4,
+  "question": "How do Melanie and Caroline describe their journey through life together?",
+  "gold_answer": "An ongoing adventure of learning and growing.",
+  "status": "scored",
+  "generated_answer": "Melanie and Caroline describe their journey through life together as one of mutual support, inspiration, and shared courage. They acknowledge their unique paths, emphasizing the importance of sharing their stories to promote understanding, acceptance, and hope within the LGBTQ community. Both value the love and support from their families and friends as crucial motivators. They see their friendship as a source of strength to face life's challenges together and make a positive impact, fostering inclusivity and encouragement for others.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_3::chunk-0000",
+      "turn_id": "D3:6"
+    },
+    {
+      "episode_id": "conv-26::session_3::chunk-0005",
+      "turn_id": "D3:8"
+    },
+    {
+      "episode_id": "conv-26::session_8::chunk-0035",
+      "turn_id": "D8:37"
+    },
+    {
+      "episode_id": "conv-26::session_19::chunk-0005",
+      "turn_id": "D19:11"
+    }
+  ],
+  "query_elapsed_seconds": 5.840121540999999,
+  "label": "WRONG",
+  "judge_reason": "The generated answer is too detailed and includes unsupported information beyond the simple description of their journey as an adventure of learning and growing."
+}

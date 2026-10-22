@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "a6f10524-f93e-4ecb-8060-5b31caad5019",
+    "response": {
+      "id": "chatcmpl-EZiGr60htXfBVUVqaj5vQlibNNcPL",
+      "object": "chat.completion",
+      "created": 1792180365,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Caroline\",\"property\":\"career_interest\",\"search\":\"evidence on Caroline's interest in counseling as a career\"},{\"entity\":\"Caroline\",\"property\":\"career_motivation\",\"search\":\"evidence on Caroline's motivation to pursue counseling career\"},{\"entity\":\"Caroline\",\"property\":\"has_received_support_from\",\"search\":\"evidence on Caroline's experiences of receiving support growing up\"},{\"entity\":\"Caroline\",\"property\":\"personal_motivation\",\"search\":\"evidence on Caroline's personal motivation related to counseling career\"},{\"entity\":\"Caroline\",\"property\":\"personal_reflection\",\"search\":\"evidence where Caroline reflects on how lack of support might have influenced her career choice\"},{\"entity\":\"Caroline\",\"property\":\"career_goal_interest\",\"search\":\"evidence on Caroline's career goals or interests in counseling under different conditions\"},{\"entity\":\"Caroline\",\"property\":\"career_plan_detail\",\"search\":\"evidence on Caroline's plans or intentions for career if without support growing up\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2689,
+        "completion_tokens": 197,
+        "total_tokens": 2886,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_f71325c40d"
+    },
+    "latency_seconds": 2.6833540840000003
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "5da19a36-9e38-42be-99e2-8059a2226510",
+    "response": {
+      "id": "chatcmpl-EZiGuQpTt6p1aLCkyyLkmgxuaCPBw",
+      "object": "chat.completion",
+      "created": 1792180368,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Caroline's motivation to pursue a counseling career is deeply tied to the support she received growing up and during her transition. She credits the support from friends, family, and mentors as invaluable and says it made a huge difference in her life, inspiring her to help others through counseling. Although there is no explicit hypothetical reflection from Caroline about whether she would still want to pursue counseling if she hadn't received support growing up, her statements emphasize that the support she received played a crucial role in her decision and passion to help others with similar struggles.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_4::episode-003\",\"turn_id\":\"D4:15\"},{\"episode_id\":\"conv-26::session_19::episode-003\",\"turn_id\":\"D19:9\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 5646,
+        "completion_tokens": 165,
+        "total_tokens": 5811,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_38f508f26a"
+    },
+    "latency_seconds": 2.2466635419999994
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "question_id": "conv-26::q0142",
+  "category": 4,
+  "question": "What does Caroline's drawing symbolize for her?",
+  "gold_answer": "Freedom and being true to herself.",
+  "status": "scored",
+  "generated_answer": "Caroline's drawing symbolizes her journey of self-acceptance and embracing her authentic self. It represents finding comfort, love, and warmth in being true to herself, celebrating her womanhood, and rejecting rigid gender norms. Art helps her explore her transition, accept imperfections, and express her feelings, serving as a reminder to love and be proud of who she is.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_11::chunk-0010",
+      "turn_id": "D11:12"
+    },
+    {
+      "episode_id": "conv-26::session_16::chunk-0010",
+      "turn_id": "D16:13"
+    },
+    {
+      "episode_id": "conv-26::session_17::chunk-0020",
+      "turn_id": "D17:23"
+    }
+  ],
+  "query_elapsed_seconds": 5.7022379579999996,
+  "label": "WRONG",
+  "judge_reason": "The generated answer adds additional information about Caroline's journey, gender norms, and emotional experiences not present in the reference answer."
+}

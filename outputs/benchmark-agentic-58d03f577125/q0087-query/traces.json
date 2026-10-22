@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "agent_decision",
+    "call_id": "1866fc30-af7e-42e3-b28c-2e5cc6999357",
+    "response": {
+      "id": "chatcmpl-EZm1PtNxPNF5XeTk9W3O8onbBr1s6",
+      "object": "chat.completion",
+      "created": 1792194783,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"search\",\"query\":\"caroline adoption agency type of individuals supported\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 154,
+        "completion_tokens": 16,
+        "total_tokens": 170,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_2738b29278"
+    },
+    "latency_seconds": 1.4101605
+  },
+  {
+    "stage": "agent_decision",
+    "call_id": "aa892bba-ab3e-4169-b02b-8ac3c34dd7d9",
+    "response": {
+      "id": "chatcmpl-EZm1RGUYwsxlHnFBKdlD7xKylcsVy",
+      "object": "chat.completion",
+      "created": 1792194785,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"ready\",\"reason\":\"The evidence from the conversation indicates that the adoption agency Caroline is considering supports LGBTQ+ individuals, emphasizing inclusivity and support for them.\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2942,
+        "completion_tokens": 34,
+        "total_tokens": 2976,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_2738b29278"
+    },
+    "latency_seconds": 1.213019041
+  }
+]

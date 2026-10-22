@@ -1,0 +1,16 @@
+Embeddings ready: 526
+Qdrant records: 526
+Planning question...
+
+/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+Traceback (most recent call last):
+  File "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/scripts/run_memory_experiment.py", line 518, in <module>
+    main()
+  File "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/scripts/run_memory_experiment.py", line 320, in main
+    plan = chat(
+  File "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/scripts/run_memory_experiment.py", line 284, in chat
+    result = complete_chat(
+  File "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/services/llm-gateway/app/providers/openai_compatible.py", line 166, in complete_chat
+    raise RuntimeError(
+RuntimeError: LLM request failed; call_id=a78ad1a4-0a54-4253-9545-d47fed12c15c. Usage is unknown.

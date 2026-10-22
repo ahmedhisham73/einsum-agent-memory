@@ -1,0 +1,25 @@
+{
+  "question_id": "conv-26::q0137",
+  "category": 4,
+  "question": "What does Melanie do to keep herself busy during her pottery break?",
+  "gold_answer": "Read a book and paint.",
+  "status": "scored",
+  "generated_answer": "Melanie keeps herself busy during her pottery break by signing up for pottery classes, which she finds therapeutic and allows her to express herself creatively. She also involves her kids in pottery workshops, and they enjoy making their own pots together. Besides pottery, Melanie and her kids do painting projects, especially nature-inspired artwork. This combination of creative activities helps Melanie express emotions, feel calm, and stay engaged.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_5::chunk-0000",
+      "turn_id": "D5:4"
+    },
+    {
+      "episode_id": "conv-26::session_8::chunk-0000",
+      "turn_id": "D8:2"
+    },
+    {
+      "episode_id": "conv-26::session_8::chunk-0000",
+      "turn_id": "D8:6"
+    }
+  ],
+  "query_elapsed_seconds": 6.471556792,
+  "label": "WRONG",
+  "judge_reason": "The generated answer includes activities unrelated to the reference answer, such as pottery classes and involving kids, which are not mentioned in the reference."
+}

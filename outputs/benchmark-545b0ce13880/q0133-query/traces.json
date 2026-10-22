@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "5d875e7f-2da8-4cf1-ab6e-5c7905881898",
+    "response": {
+      "id": "chatcmpl-EZkp2tBOC6ei6z26ifkygSQnJg8cS",
+      "object": "chat.completion",
+      "created": 1792190172,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Melanie\",\"property\":\"art_involvement_duration\",\"search\":\"duration Melanie has been creating art\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2679,
+        "completion_tokens": 31,
+        "total_tokens": 2710,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_f95c341f4b"
+    },
+    "latency_seconds": 3.938727208
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "c7eb0a24-a336-4319-a7cb-acb78d0ed81a",
+    "response": {
+      "id": "chatcmpl-EZkp6DiinVnkcBNyThBEAxWw6jnTR",
+      "object": "chat.completion",
+      "created": 1792190176,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Melanie has been creating art for seven years.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_16::episode-003\",\"turn_id\":\"D16:8\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2407,
+        "completion_tokens": 46,
+        "total_tokens": 2453,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_38f508f26a"
+    },
+    "latency_seconds": 4.064693917
+  }
+]

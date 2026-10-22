@@ -1,0 +1,13 @@
+name: sample-experiment
+approach: ensimem
+dataset_snapshot: null
+model: null
+embedding_model: null
+judge_model: null
+repetitions: 1
+seed: 42
+limits:
+  max_queries: 10
+  max_retrieval_steps: 5
+  max_output_tokens: 1024
+# This is a configuration draft, not yet executable.

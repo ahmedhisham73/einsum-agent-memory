@@ -1,0 +1,306 @@
+[
+  {
+    "episode_id": "conv-26::session_4::chunk-0010",
+    "session_id": "session_4",
+    "observed_at": "2023-06-27T10:37:00",
+    "source_timestamp": "10:37 am on 27 June, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D4:11",
+        "speaker": "Caroline",
+        "text": "Lately, I've been looking into counseling and mental health as a career. I want to help people who have gone through the same things as me.",
+        "metadata": {
+          "blip_caption": "a photo of a book shelf with many books on it"
+        }
+      },
+      {
+        "turn_id": "D4:12",
+        "speaker": "Melanie",
+        "text": "Sounds great! What kind of counseling and mental health services do you want to persue?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:13",
+        "speaker": "Caroline",
+        "text": "I'm still figuring out the details, but I'm thinking of working with trans people, helping them accept themselves and supporting their mental health. Last Friday, I went to an LGBTQ+ counseling workshop and it was really enlightening. They talked about different therapeutic methods and how to best work with trans people. Seeing how passionate these pros were about making a safe space for people like me was amazing.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:14",
+        "speaker": "Melanie",
+        "text": "Woah, Caroline, it sounds like you're doing some impressive work. It's inspiring to see your dedication to helping others. What motivated you to pursue counseling?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:15",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie. It really mattered. My own journey and the support I got made a huge difference. Now I want to help people go through it too. I saw how counseling and support groups improved my life, so I started caring more about mental health and understanding myself. Now I'm passionate about creating a safe, inviting place for people to grow.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:16",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! You've gained so much from your own experience. Your passion and hard work to help others is awesome. Keep it up, you're making a big impact!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_5::chunk-0000",
+    "session_id": "session_5",
+    "observed_at": "2023-07-03T13:36:00",
+    "source_timestamp": "1:36 pm on 3 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D5:1",
+        "speaker": "Caroline",
+        "text": "Since we last spoke, some big things have happened. Last week I went to an LGBTQ+ pride parade. Everyone was so happy and it made me feel like I belonged. It showed me how much our community has grown, it was amazing!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:2",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, sounds like the parade was an awesome experience! It's great to see the love and support for the LGBTQ+ community. Congrats! Has this experience influenced your goals at all?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:3",
+        "speaker": "Caroline",
+        "text": "Thanks, Mel! It really motivated me for sure. Talking to the community made me want to use my story to help others too - I'm still thinking that counseling and mental health is the way to go. I'm super excited to give back. ",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:4",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! That's great! I just signed up for a pottery class yesterday. It's like therapy for me, letting me express myself and get creative. Have you found any activities that make you feel the same way?",
+        "metadata": {
+          "img_url": [
+            "https://m.media-amazon.com/images/I/A1uELSr5rgL.jpg"
+          ],
+          "blip_caption": "a photo of a person holding a frisbee in their hand",
+          "query": "family frisbee game"
+        }
+      },
+      {
+        "turn_id": "D5:5",
+        "speaker": "Caroline",
+        "text": "Wow, Melanie! I'm getting creative too, just learning the piano. What made you try pottery?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:6",
+        "speaker": "Melanie",
+        "text": "I'm a big fan of pottery - the creativity and skill is awesome. Plus, making it is so calming. Look at this!",
+        "metadata": {
+          "img_url": [
+            "https://therusticbarnct.com/cdn/shop/files/image_05483f46-4845-433b-a4cf-0fc61fe1aa79.jpg"
+          ],
+          "blip_caption": "a photo of a bowl with a black and white flower design",
+          "query": "pottery painted bowl intricate design"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_7::chunk-0000",
+    "session_id": "session_7",
+    "observed_at": "2023-07-12T16:33:00",
+    "source_timestamp": "4:33 pm on 12 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D7:1",
+        "speaker": "Caroline",
+        "text": "Hey Mel, great to chat with you again! So much has happened since we last spoke - I went to an LGBTQ conference two days ago and it was really special. I got the chance to meet and connect with people who've gone through similar journeys. It was such a welcoming environment and I felt totally accepted. I'm really thankful for this amazing community - it's shown me how important it is to fight for trans rights and spread awareness.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:2",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, that sounds awesome! So glad you felt accepted and supported. Events like these are great for reminding us of how strong community can be!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:3",
+        "speaker": "Caroline",
+        "text": "Yeah, it's true! Having people who back you makes such a huge difference. It's great to see how far LGBTQ rights have come, but there's still plenty of progress to be made. I wanna help make a difference.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:4",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline. We've come so far, but there's more to do. Your drive to help is awesome! What's your plan to pitch in?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:5",
+        "speaker": "Caroline",
+        "text": "Thanks, Mell! I'm still looking into counseling and mental health jobs. It's important to me that people have someone to talk to, and I want to help make that happen.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:6",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! You're so inspiring for wanting to help others with their mental health. What's pushing you to keep going forward with it?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_8::chunk-0015",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D8:16",
+        "speaker": "Melanie",
+        "text": "Marrying my partner and promising to be together forever was the best part.",
+        "metadata": {
+          "img_url": [
+            "https://s3-us-west-2.amazonaws.com/amm-prod/wedding_photos/photos/000/024/198/original/4B873921-0596-4A6B-8CD8-C6E5C2B024AF.png"
+          ],
+          "blip_caption": "a photo of a man and woman standing on a beach",
+          "query": "vows partner holding hands ceremony"
+        }
+      },
+      {
+        "turn_id": "D8:17",
+        "speaker": "Caroline",
+        "text": "Wow, nice pic! You both looked amazing. One special memory for me was this pride parade I went to a few weeks ago.",
+        "metadata": {
+          "img_url": [
+            "https://dynaimage.cdn.cnn.com/cnn/digital-images/org/dfc95f14-b325-431c-b977-5b6dc2d35f9c.jpg"
+          ],
+          "blip_caption": "a photo of a parade with people walking down the street",
+          "query": "rainbow flag pride march"
+        }
+      },
+      {
+        "turn_id": "D8:18",
+        "speaker": "Melanie",
+        "text": "Wow, looks awesome! Did you join in?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:19",
+        "speaker": "Caroline",
+        "text": "Yes, I did. It was amazing! I felt so accepted and happy, just being around people who accepted and celebrated me. It's definitely a top memory.",
+        "metadata": {
+          "img_url": [
+            "http://ninalemsparty.com/cdn/shop/collections/iStock-1292280203.jpg"
+          ],
+          "blip_caption": "a photo of a group of people holding up signs and smiling",
+          "query": "lgbtq+ pride parade vibrant flags smiling faces"
+        }
+      },
+      {
+        "turn_id": "D8:20",
+        "speaker": "Melanie",
+        "text": "Wow, what an experience! How did it make you feel?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:21",
+        "speaker": "Caroline",
+        "text": "I felt so proud and grateful - the vibes were amazing and it was comforting to know I'm not alone and have a great community around me.",
+        "metadata": {
+          "blip_caption": "a photo of a rainbow flag on a pole on a carpet"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_9::chunk-0000",
+    "session_id": "session_9",
+    "observed_at": "2023-07-17T14:31:00",
+    "source_timestamp": "2:31 pm on 17 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D9:1",
+        "speaker": "Melanie",
+        "text": "Hey Caroline, hope all's good! I had a quiet weekend after we went camping with my fam two weekends ago. It was great to unplug and hang with the kids. What've you been up to? Anything fun over the weekend?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:2",
+        "speaker": "Caroline",
+        "text": "Hey Melanie! That sounds great! Last weekend I joined a mentorship program for LGBTQ youth - it's really rewarding to help the community.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:3",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! It's great that you're helping out. How's it going? Got any cool experiences you can share?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:4",
+        "speaker": "Caroline",
+        "text": "The mentoring is going great! I've met some amazing young folks and supported them along the way. It's inspiring to see how resilient and strong they are.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:5",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, that sounds super rewarding! Young people's resilience is amazing. Care to share some stories?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:6",
+        "speaker": "Caroline",
+        "text": "I mentor a transgender teen just like me. We've been working on building up confidence and finding positive strategies, and it's really been paying off! We had a great time at the LGBT pride event last month.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_9::chunk-0005",
+    "session_id": "session_9",
+    "observed_at": "2023-07-17T14:31:00",
+    "source_timestamp": "2:31 pm on 17 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D9:7",
+        "speaker": "Melanie",
+        "text": "Caroline, awesome news that you two are getting along! What was it like for you both? Care to fill me in?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:8",
+        "speaker": "Caroline",
+        "text": "The pride event was awesome! It was so encouraging to be surrounded by so much love and acceptance.",
+        "metadata": {
+          "img_url": [
+            "https://res.cloudinary.com/dragonspell/images/w_1440,h_864,c_fill,dpr_auto,fl_progressive:steep,f_auto/w_1440,h_864/v1571420662/www.travelportland.com/Portland-Pride-Parade-Downtown/Portland-Pride-Parade-Downtown.jpg"
+          ],
+          "blip_caption": "a photo of a woman holding a rainbow umbrella in the air",
+          "query": "lgbt pride event"
+        }
+      },
+      {
+        "turn_id": "D9:9",
+        "speaker": "Melanie",
+        "text": "Wow! What's the best part you remember from it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:10",
+        "speaker": "Caroline",
+        "text": "Seeing my mentee's face light up when they saw the support was the best! Such a special moment.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:11",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! They must have felt so appreciated. It's awesome to see the difference we can make in each other's lives. Any other exciting LGBTQ advocacy stuff coming up?",
+        "metadata": {}
+      }
+    ]
+  }
+]

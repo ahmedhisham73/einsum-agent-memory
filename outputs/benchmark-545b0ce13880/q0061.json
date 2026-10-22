@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0061",
+  "category": 1,
+  "question": "What instruments does Melanie play?",
+  "gold_answer": "clarinet and violin",
+  "status": "scored",
+  "generated_answer": "Melanie plays the clarinet.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_15::episode-005",
+      "turn_id": "D15:26"
+    }
+  ],
+  "query_elapsed_seconds": 4.038459208,
+  "label": "WRONG",
+  "judge_reason": "The generated answer is incomplete as it only mentions one instrument, while the reference answer lists two instruments."
+}

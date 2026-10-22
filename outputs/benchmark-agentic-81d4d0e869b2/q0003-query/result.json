@@ -1,0 +1,31 @@
+{
+  "status": "completed",
+  "experiment_id": "q0003-query",
+  "memory_build": "offline-memory-a5e48166f56e",
+  "baseline_build": "agentic-build-300877917378",
+  "question": "What fields would Caroline be likely to pursue in her educaton?",
+  "answer": "Caroline is likely to pursue education in counseling and mental health, with a focus on supporting transgender people and the LGBTQ+ community.",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-26::session_4::chunk-0010",
+      "turn_id": "D4:11"
+    },
+    {
+      "episode_id": "conv-26::session_4::chunk-0010",
+      "turn_id": "D4:13"
+    }
+  ],
+  "elapsed_seconds": 5.3715160829999995,
+  "stop_reason": "agent_ready",
+  "search_count": 1,
+  "selected_chunks": 6,
+  "unique_source_turns": 29,
+  "implementation": {
+    "chunk_turns": 6,
+    "overlap_turns": 1,
+    "top_k_per_search": 6,
+    "max_searches": 4,
+    "max_agent_decisions": 5
+  }
+}

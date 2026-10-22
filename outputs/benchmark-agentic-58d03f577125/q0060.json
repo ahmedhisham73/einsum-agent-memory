@@ -1,0 +1,33 @@
+{
+  "question_id": "conv-26::q0060",
+  "category": 3,
+  "question": "Would Caroline be considered religious?",
+  "gold_answer": "Somewhat, but not extremely religious",
+  "status": "scored",
+  "generated_answer": "No, there is no evidence that Caroline would be considered religious in the provided conversations. She discusses art, self-acceptance, LGBTQ advocacy, family support, and mental health, but there are no mentions of religion or religious beliefs.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_8::chunk-0025",
+      "turn_id": "D8:26"
+    },
+    {
+      "episode_id": "conv-26::session_9::chunk-0010",
+      "turn_id": "D9:16"
+    },
+    {
+      "episode_id": "conv-26::session_11::chunk-0010",
+      "turn_id": "D11:14"
+    },
+    {
+      "episode_id": "conv-26::session_13::chunk-0010",
+      "turn_id": "D13:13"
+    },
+    {
+      "episode_id": "conv-26::session_19::chunk-0005",
+      "turn_id": "D19:9"
+    }
+  ],
+  "query_elapsed_seconds": 5.304737458,
+  "label": "WRONG",
+  "judge_reason": "The generated answer contradicts the reference answer which states she is somewhat religious."
+}

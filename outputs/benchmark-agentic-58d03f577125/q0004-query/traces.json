@@ -1,0 +1,125 @@
+[
+  {
+    "stage": "agent_decision",
+    "call_id": "6cee2a0c-f61f-4461-80fd-239da5fee151",
+    "response": {
+      "id": "chatcmpl-EZiU15thrb34EKrTnZlNlyXaXyRmv",
+      "object": "chat.completion",
+      "created": 1792181181,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"search\",\"query\":\"Caroline research\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 146,
+        "completion_tokens": 11,
+        "total_tokens": 157,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_d81cb94320"
+    },
+    "latency_seconds": 1.409443165999999
+  },
+  {
+    "stage": "agent_decision",
+    "call_id": "f91b3545-8c2c-4bfd-b9e2-dec94485379a",
+    "response": {
+      "id": "chatcmpl-EZiU3Ics1dKTCfpxq3lODLT1b34T1",
+      "object": "chat.completion",
+      "created": 1792181183,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"ready\",\"reason\":\"Caroline researched counseling and mental health as a career to help people who have gone through similar experiences as her.\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2397,
+        "completion_tokens": 30,
+        "total_tokens": 2427,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_d81cb94320"
+    },
+    "latency_seconds": 1.7785035420000028
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "4ee77f69-9aa0-4d08-bff8-a3ad5bf9dc99",
+    "response": {
+      "id": "chatcmpl-EZiU5vRuaLacg6dMEp9MaNU4kW47c",
+      "object": "chat.completion",
+      "created": 1792181185,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Caroline has been researching counseling and mental health as a career, motivated by her own experiences, with the goal of helping people who have gone through similar challenges.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_4::chunk-0005\",\"turn_id\":\"D4:11\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2381,
+        "completion_tokens": 69,
+        "total_tokens": 2450,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_38f508f26a"
+    },
+    "latency_seconds": 2.6980479170000002
+  }
+]

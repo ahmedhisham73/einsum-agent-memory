@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-26::q0130",
+  "category": 4,
+  "question": "Which song motivates Caroline to be courageous?",
+  "gold_answer": "Brave by Sara Bareilles",
+  "status": "failed",
+  "error": "Query failed. See q0130.log"
+}

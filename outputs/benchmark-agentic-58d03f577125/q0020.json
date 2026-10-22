@@ -1,0 +1,29 @@
+{
+  "question_id": "conv-26::q0020",
+  "category": 1,
+  "question": "What do Melanie's kids like?",
+  "gold_answer": "dinosaurs, nature",
+  "status": "scored",
+  "generated_answer": "Melanie's kids like nature, camping, hiking, roasting marshmallows around the campfire, the dinosaur exhibit at the museum, making pottery, and painting, especially nature-inspired artwork.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_4::chunk-0005",
+      "turn_id": "D4:8"
+    },
+    {
+      "episode_id": "conv-26::session_6::chunk-0000",
+      "turn_id": "D6:6"
+    },
+    {
+      "episode_id": "conv-26::session_8::chunk-0000",
+      "turn_id": "D8:4"
+    },
+    {
+      "episode_id": "conv-26::session_8::chunk-0030",
+      "turn_id": "D8:34"
+    }
+  ],
+  "query_elapsed_seconds": 5.535303833,
+  "label": "WRONG",
+  "judge_reason": "The generated answer includes additional unrelated activities and only partially matches the reference answer, which specifically lists 'dinosaurs' and 'nature'."
+}

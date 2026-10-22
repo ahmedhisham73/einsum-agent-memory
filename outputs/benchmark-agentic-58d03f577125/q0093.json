@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0093",
+  "category": 4,
+  "question": "What country is Caroline's grandma from?",
+  "gold_answer": "Sweden",
+  "status": "scored",
+  "generated_answer": "Caroline's grandma is from Sweden.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_4::chunk-0000",
+      "turn_id": "D4:3"
+    }
+  ],
+  "query_elapsed_seconds": 5.066506959,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer matches the reference answer precisely."
+}

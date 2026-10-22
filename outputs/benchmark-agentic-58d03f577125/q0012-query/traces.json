@@ -1,0 +1,207 @@
+[
+  {
+    "stage": "agent_decision",
+    "call_id": "ac54f96b-0db9-4963-a0b9-1e6a7d9302be",
+    "response": {
+      "id": "chatcmpl-EZksRhikUOyaTayLuoz3X4VPbOknS",
+      "object": "chat.completion",
+      "created": 1792190383,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"search\",\"query\":\"Caroline move 4 years ago location\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 16,
+        "total_tokens": 167,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_d81cb94320"
+    },
+    "latency_seconds": 0.865779042
+  },
+  {
+    "stage": "agent_decision",
+    "call_id": "1349196b-8ffc-4b3e-b84c-430b302de968",
+    "response": {
+      "id": "chatcmpl-EZksTFhvbWvUrVAibnYszEh1MjA5E",
+      "object": "chat.completion",
+      "created": 1792190385,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"search\",\"query\":\"Caroline previous residence 4 years ago\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2680,
+        "completion_tokens": 16,
+        "total_tokens": 2696,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_d81cb94320"
+    },
+    "latency_seconds": 1.445521375
+  },
+  {
+    "stage": "agent_decision",
+    "call_id": "d85aea27-484e-44c8-b0f5-8e620c1ccb74",
+    "response": {
+      "id": "chatcmpl-EZksVJMsfLbYxrd2yKsNfx5aJ9slQ",
+      "object": "chat.completion",
+      "created": 1792190387,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"search\",\"query\":\"Caroline previous city or place lived four years ago\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 4686,
+        "completion_tokens": 18,
+        "total_tokens": 4704,
+        "prompt_tokens_details": {
+          "cached_tokens": 2560,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_d81cb94320"
+    },
+    "latency_seconds": 1.2101997499999997
+  },
+  {
+    "stage": "agent_decision",
+    "call_id": "c42e32b6-f3ef-4bcb-b86f-7079ea0e05c5",
+    "response": {
+      "id": "chatcmpl-EZksWOkXnH1YSuHS3cf5H47zlkYZG",
+      "object": "chat.completion",
+      "created": 1792190388,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"ready\",\"reason\":\"No information references Caroline moving or her previous residence 4 years ago in the provided source material.\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 6776,
+        "completion_tokens": 27,
+        "total_tokens": 6803,
+        "prompt_tokens_details": {
+          "cached_tokens": 4480,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_d81cb94320"
+    },
+    "latency_seconds": 0.9609795830000003
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "3d5da35a-d993-4e5b-a48d-f39bf678f81a",
+    "response": {
+      "id": "chatcmpl-EZksX3PJcR9q848fpcAWIMErRSTR7",
+      "object": "chat.completion",
+      "created": 1792190389,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Unknown\",\"sufficient\":false,\"citations\":[]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 4551,
+        "completion_tokens": 14,
+        "total_tokens": 4565,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_38f508f26a"
+    },
+    "latency_seconds": 1.0970257090000004
+  }
+]

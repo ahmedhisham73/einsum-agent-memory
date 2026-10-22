@@ -1,0 +1,21 @@
+{
+  "question_id": "conv-26::q0041",
+  "category": 1,
+  "question": "How many times has Melanie gone to the beach in 2023?",
+  "gold_answer": 2,
+  "status": "scored",
+  "generated_answer": "Melanie has gone to the beach once in 2023, as she mentioned going recently and that they usually go only once or twice a year.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_10::chunk-0005",
+      "turn_id": "D10:8"
+    },
+    {
+      "episode_id": "conv-26::session_10::chunk-0005",
+      "turn_id": "D10:10"
+    }
+  ],
+  "query_elapsed_seconds": 4.525659875,
+  "label": "WRONG",
+  "judge_reason": "The generated answer states Melanie went to the beach once, contradicting the reference answer of twice."
+}

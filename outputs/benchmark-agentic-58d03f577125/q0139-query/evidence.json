@@ -1,0 +1,277 @@
+[
+  {
+    "episode_id": "conv-26::session_9::chunk-0010",
+    "session_id": "session_9",
+    "observed_at": "2023-07-17T14:31:00",
+    "source_timestamp": "2:31 pm on 17 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D9:11",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! They must have felt so appreciated. It's awesome to see the difference we can make in each other's lives. Any other exciting LGBTQ advocacy stuff coming up?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:12",
+        "speaker": "Caroline",
+        "text": "Yay! Next month I'm having an LGBTQ art show with my paintings - can't wait!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:13",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, that sounds awesome! Can't wait to see your art - got any previews?",
+        "metadata": {
+          "blip_caption": "a photo of a painting with a blue and yellow design"
+        }
+      },
+      {
+        "turn_id": "D9:14",
+        "speaker": "Caroline",
+        "text": "Check out my painting for the art show! Hope you like it.",
+        "metadata": {
+          "img_url": [
+            "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/abstract-landscape-bold-colorful-painting-megan-duncanson.jpg"
+          ],
+          "blip_caption": "a photography of a painting of a tree with a bright sun in the background",
+          "query": "preview painting art show",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D9:15",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, that painting is awesome! Those colors are so vivid and the whole thing looks really unified. What inspired you?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:16",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! I painted this after I visited a LGBTQ center. I wanted to capture everyone's unity and strength.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_9::chunk-0015",
+    "session_id": "session_9",
+    "observed_at": "2023-07-17T14:31:00",
+    "source_timestamp": "2:31 pm on 17 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D9:17",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! It really conveys unity and strength - such a gorgeous piece! My kids and I just finished another painting like our last one.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_11::chunk-0005",
+    "session_id": "session_11",
+    "observed_at": "2023-08-14T14:24:00",
+    "source_timestamp": "2:24 pm on 14 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D11:6",
+        "speaker": "Caroline",
+        "text": "It was so inspiring, Mel! Check out the crowd. People of all kinds celebrating love and acceptance - it really pushed me to keep fighting for LGBTQ rights.",
+        "metadata": {
+          "img_url": [
+            "https://cloudfront-us-east-1.images.arcpublishing.com/opb/35SV3NIC4ZBRTLDGHUJ5QWU5WY.jpg"
+          ],
+          "blip_caption": "a photo of a group of people walking down a street with balloons",
+          "query": "pride parade crowd"
+        }
+      },
+      {
+        "turn_id": "D11:7",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! That sounds awesome. This pic's from last night - looks like everyone was having a blast! Reminds me it's important to cultivate a loving and accepting environment for our kids. How do you stay inclusive in your work as an artist?",
+        "metadata": {
+          "img_url": [
+            "https://livingmividaloca.com/wp-content/uploads/2023/06/anaheim-town-square-concert.jpg"
+          ],
+          "blip_caption": "a photo of a group of people sitting on chairs watching a band",
+          "query": "outdoor concert family loving accepting environment"
+        }
+      },
+      {
+        "turn_id": "D11:8",
+        "speaker": "Caroline",
+        "text": "That pic is cool! Representing inclusivity and diversity in my art is important to me. I also use it to speak up for the LGBTQ+ community and push for acceptance. Here's a recent painting!",
+        "metadata": {
+          "img_url": [
+            "https://www.dawnsilerart.com/wp-content/uploads/sites/3130/2020/11/YCNHTMC-CU9.jpg"
+          ],
+          "blip_caption": "a photo of a painting with a painting brush and paint on it",
+          "query": "painting vibrant colors diverse representation"
+        }
+      },
+      {
+        "turn_id": "D11:9",
+        "speaker": "Melanie",
+        "text": "Wow, that rocks! What's the main idea of your art?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:10",
+        "speaker": "Caroline",
+        "text": "My art is about expressing my trans experience. It's my way of showing my story and helping people understand the trans community.",
+        "metadata": {
+          "blip_caption": "a photo of a painting of a woman with a cow in her lap"
+        }
+      },
+      {
+        "turn_id": "D11:11",
+        "speaker": "Melanie",
+        "text": "Your art's amazing, Caroline. I love how you use it to tell your stories and teach people about trans folks. I'd love to see another painting of yours!",
+        "metadata": {
+          "blip_caption": "a photo of a person holding a purple bowl in their hand"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_11::chunk-0010",
+    "session_id": "session_11",
+    "observed_at": "2023-08-14T14:24:00",
+    "source_timestamp": "2:24 pm on 14 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D11:12",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie. Here's one- 'Embracing Identity' is all about finding comfort and love in being yourself. The woman in the painting stands for the journey of acceptance. My aim was to show warmth, love and self-acceptance.",
+        "metadata": {
+          "img_url": [
+            "https://media.artsper.com/artwork/2013795_1_l.jpg"
+          ],
+          "blip_caption": "a photo of a painting of a woman with a red shirt",
+          "query": "painting embracing identity purple blue"
+        }
+      },
+      {
+        "turn_id": "D11:13",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, that's gorgeous! I love the self-acceptance and love theme. How does art help you with your self-discovery and acceptance journey?",
+        "metadata": {
+          "blip_caption": "a photo of a woman is making a vase on a wheel"
+        }
+      },
+      {
+        "turn_id": "D11:14",
+        "speaker": "Caroline",
+        "text": "Art's allowed me to explore my transition and my changing body. It's been a great way to work through stuff I'm going through. I love that it teaches me to accept the beauty of imperfections.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:15",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, that's so cool! Art can be so healing and a way to really connect with who you are. It's awesome that beauty can be found in the imperfections. We're all individual and wonderfully imperfect. Thanks for sharing it with me!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:16",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie. It means a lot to share this with you.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_13::chunk-0010",
+    "session_id": "session_13",
+    "observed_at": "2023-08-23T15:31:00",
+    "source_timestamp": "3:31 pm on 23 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D13:11",
+        "speaker": "Caroline",
+        "text": "Painting's great for expressing myself. I love creating art! Here's a recent self-portrait I made last week.",
+        "metadata": {
+          "img_url": [
+            "https://cdn.shopify.com/s/files/1/0302/3968/6755/files/IMG_8385_a145b124-53ab-4b3c-8f1a-497fa2d39a49.jpg"
+          ],
+          "blip_caption": "a photo of a painting of a woman with a blue face",
+          "query": "self-portrait painting vibrant colors"
+        }
+      },
+      {
+        "turn_id": "D13:12",
+        "speaker": "Melanie",
+        "text": "Caroline, that's great! The blue's really powerful, huh? How'd you feel while painting it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D13:13",
+        "speaker": "Caroline",
+        "text": "Thanks, Mel! I felt liberated and empowered doing it. Painting helps me explore my identity and be true to myself. It's definitely therapeutic.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D13:14",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, that's great! Art's awesome for showing us who we really are and getting in touch with ourselves. What else helps you out?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D13:15",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie. Art gives me a sense of freedom, but so does having supportive people around, promoting LGBTQ rights and being true to myself. I want to live authentically and help others to do the same.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D13:16",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! That's amazing. You really care about being real and helping others. Wishing you the best on your adoption journey!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_14::chunk-0030",
+    "session_id": "session_14",
+    "observed_at": "2023-08-25T13:33:00",
+    "source_timestamp": "1:33 pm on 25 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D14:31",
+        "speaker": "Caroline",
+        "text": "Wow, Mel! Any more paintings coming up?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:32",
+        "speaker": "Melanie",
+        "text": "I'm feeling inspired by autumn so I'm planning a few. You got any cool art projects coming up?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:33",
+        "speaker": "Caroline",
+        "text": "I'm putting together an LGBTQ art show next month and I'm gonna show my paintings. Super stoked!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:34",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, that's awesome! Can't wait to see your show - the LGBTQ community needs more platforms like this!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:35",
+        "speaker": "Caroline",
+        "text": "Yeah Mel, stoked! Gonna be a great night featuring LGBTQ artists and their awesome talents. We want it to spread understanding and acceptance - let's make it happen!",
+        "metadata": {
+          "blip_caption": "a photo of a poster for a concert with a man in a cowboy hat"
+        }
+      }
+    ]
+  }
+]

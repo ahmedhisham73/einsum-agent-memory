@@ -1,0 +1,37 @@
+{
+  "question_id": "conv-26::q0086",
+  "category": 4,
+  "question": "What are Caroline's plans for the summer?",
+  "gold_answer": "researching adoption agencies",
+  "status": "scored",
+  "generated_answer": "Caroline plans to adopt children to create a loving family home, focusing on giving kids who need it a safe, supportive family environment. She has been researching adoption agencies, especially those supporting LGBTQ+ folks, and has passed adoption agency interviews. She is excited and hopeful for this new chapter in her life.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_2::episode-002",
+      "turn_id": "D2:8"
+    },
+    {
+      "episode_id": "conv-26::session_2::episode-002",
+      "turn_id": "D2:10"
+    },
+    {
+      "episode_id": "conv-26::session_2::episode-002",
+      "turn_id": "D2:12"
+    },
+    {
+      "episode_id": "conv-26::session_2::episode-002",
+      "turn_id": "D2:14"
+    },
+    {
+      "episode_id": "conv-26::session_17::episode-001",
+      "turn_id": "D17:1"
+    },
+    {
+      "episode_id": "conv-26::session_19::episode-001",
+      "turn_id": "D19:1"
+    }
+  ],
+  "query_elapsed_seconds": 5.414768125,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer includes the important fact that Caroline is researching adoption agencies, which aligns with the reference answer."
+}

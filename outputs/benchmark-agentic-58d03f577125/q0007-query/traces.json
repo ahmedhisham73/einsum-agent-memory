@@ -1,0 +1,125 @@
+[
+  {
+    "stage": "agent_decision",
+    "call_id": "2adbe7c6-ec0d-47f0-82fb-e2b9c70c6794",
+    "response": {
+      "id": "chatcmpl-EZksaBxh4P5jTtJv5fiTFe0kg9fmx",
+      "object": "chat.completion",
+      "created": 1792190392,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"search\",\"query\":\"Melanie camping plans\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 149,
+        "completion_tokens": 12,
+        "total_tokens": 161,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_d81cb94320"
+    },
+    "latency_seconds": 1.0679299169999998
+  },
+  {
+    "stage": "agent_decision",
+    "call_id": "50e06d3b-7afe-46ee-9074-062379e00ab2",
+    "response": {
+      "id": "chatcmpl-EZkscY7j53k8RQJjjiBCBciJ5teTm",
+      "object": "chat.completion",
+      "created": 1792190394,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"ready\",\"reason\":\"Melanie mentioned initially planning to go camping next month from a conversation on 25 May 2023, and later described camping trips she took in recent months, including one last week from 27 June 2023 and another recent trip noted on 20 October 2023. This shows a consistent pattern of camping planned and done around summer and later months.\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2876,
+        "completion_tokens": 80,
+        "total_tokens": 2956,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_d81cb94320"
+    },
+    "latency_seconds": 1.629800375
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "c36c04a1-fd56-4d19-a40a-e5c44b0bc3b2",
+    "response": {
+      "id": "chatcmpl-EZksdkhbHGuDWBkgk305YXug6ORV9",
+      "object": "chat.completion",
+      "created": 1792190395,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Melanie was planning on going camping next month as of 25 May 2023.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_2::chunk-0005\",\"turn_id\":\"D2:7\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2862,
+        "completion_tokens": 55,
+        "total_tokens": 2917,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_38f508f26a"
+    },
+    "latency_seconds": 1.4530032919999996
+  }
+]

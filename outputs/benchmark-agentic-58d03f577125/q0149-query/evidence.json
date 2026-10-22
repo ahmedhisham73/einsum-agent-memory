@@ -1,0 +1,296 @@
+[
+  {
+    "episode_id": "conv-26::session_4::chunk-0005",
+    "session_id": "session_4",
+    "observed_at": "2023-06-27T10:37:00",
+    "source_timestamp": "10:37 am on 27 June, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D4:6",
+        "speaker": "Melanie",
+        "text": "That sounds great, Caroline! It's awesome having stuff around that make us think of good connections and times. Actually, I just took my fam camping in the mountains last week - it was a really nice time together!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:7",
+        "speaker": "Caroline",
+        "text": "Sounds great, Mel. Glad you made some new family mems. How was it? Anything fun?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:8",
+        "speaker": "Melanie",
+        "text": "It was an awesome time, Caroline! We explored nature, roasted marshmallows around the campfire and even went on a hike. The view from the top was amazing! The 2 younger kids love nature. It was so special having these moments together as a family - I'll never forget it!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:9",
+        "speaker": "Caroline",
+        "text": "That's awesome, Melanie! Family moments like that are so special. Glad y'all had such a great time.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:10",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! Family time matters to me. What's up with you lately?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:11",
+        "speaker": "Caroline",
+        "text": "Lately, I've been looking into counseling and mental health as a career. I want to help people who have gone through the same things as me.",
+        "metadata": {
+          "blip_caption": "a photo of a book shelf with many books on it"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_6::chunk-0000",
+    "session_id": "session_6",
+    "observed_at": "2023-07-06T20:18:00",
+    "source_timestamp": "8:18 pm on 6 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D6:1",
+        "speaker": "Caroline",
+        "text": "Hey Mel! Long time no talk. Lots has been going on since then!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:2",
+        "speaker": "Melanie",
+        "text": "Hey Caroline! Missed you. Anything new? Spill the beans!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:3",
+        "speaker": "Caroline",
+        "text": "Since our last chat, I've been looking into counseling or mental health work more. I'm passionate about helping people and making a positive impact. It's tough, but really rewarding too. Anything new happening with you?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:4",
+        "speaker": "Melanie",
+        "text": "That's awesome, Caroline! Congrats on following your dreams. Yesterday I took the kids to the museum - it was so cool spending time with them and seeing their eyes light up!",
+        "metadata": {
+          "img_url": [
+            "https://live.staticflickr.com/3201/2867258131_2d8bc22859_b.jpg"
+          ],
+          "blip_caption": "a photography of two children playing in a water play area",
+          "query": "kids laughing dinosaur exhibit museum",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D6:5",
+        "speaker": "Caroline",
+        "text": "Melanie, that's a great pic! That must have been awesome. What were they so stoked about?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:6",
+        "speaker": "Melanie",
+        "text": "They were stoked for the dinosaur exhibit! They love learning about animals and the bones were so cool. It reminds me why I love being a mom.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_8::chunk-0030",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D8:31",
+        "speaker": "Caroline",
+        "text": "Wow, Mel, family love and support is the best!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:32",
+        "speaker": "Melanie",
+        "text": "Yeah, Caroline, my family's been great - their love and support really helped me through tough times. It's awesome! We even went on another camping trip in the forest.",
+        "metadata": {
+          "img_url": [
+            "http://cragmama.com/wp-content/uploads//2016/10/IMG_4568.jpg"
+          ],
+          "blip_caption": "a photo of a man and two children sitting around a campfire",
+          "query": "family camping trip roasting marshmallows campfire"
+        }
+      },
+      {
+        "turn_id": "D8:33",
+        "speaker": "Caroline",
+        "text": "Awesome, Mel! Family support's huge. What else do you guys like doing together?",
+        "metadata": {
+          "blip_caption": "a photo of a family walking through a forest with a toddler"
+        }
+      },
+      {
+        "turn_id": "D8:34",
+        "speaker": "Melanie",
+        "text": "We enjoy hiking in the mountains and exploring forests. It's a cool way to connect with nature and each other.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:35",
+        "speaker": "Caroline",
+        "text": "Wow, Mel, that sounds awesome! Exploring nature and family time is so special.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:36",
+        "speaker": "Melanie",
+        "text": "Yeah, Caroline, they're some of my fave memories. It brings us together and brings us happiness. Glad you're here to share in it.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_18::chunk-0000",
+    "session_id": "session_18",
+    "observed_at": "2023-10-20T18:55:00",
+    "source_timestamp": "6:55 pm on 20 October, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D18:1",
+        "speaker": "Melanie",
+        "text": "Hey Caroline, that roadtrip this past weekend was insane! We were all freaked when my son got into an accident. We were so lucky he was okay. It was a real scary experience. Thankfully it's over now. What's been up since we last talked?",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/dl8dki2hm3k81.jpg"
+          ],
+          "blip_caption": "a photo of a car dashboard with a white cloth and a steering wheel",
+          "query": "car accident damaged car airbags deployed roadtrip"
+        }
+      },
+      {
+        "turn_id": "D18:2",
+        "speaker": "Caroline",
+        "text": "Oops, sorry 'bout the accident! Must have been traumatizing for you guys. Thank goodness your son's okay. Life sure can be a roller coaster.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:3",
+        "speaker": "Melanie",
+        "text": "Yeah, our trip got off to a bad start. I was really scared when we got into the accident. Thankfully, my son's ok and that was a reminder that life is precious and to cherish our family.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:4",
+        "speaker": "Caroline",
+        "text": "Glad your son is okay, Melanie. Life's unpredictable, but moments like these remind us how important our loved ones are. Family's everything.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:5",
+        "speaker": "Melanie",
+        "text": "Yeah, you're right, Caroline. Family's super important to me. Especially after the accident, I've thought a lot about how much I need them. They mean the world to me and I'm so thankful to have them. Thankfully, they enjoyed the Grand Canyon a lot!",
+        "metadata": {
+          "img_url": [
+            "https://familyadventuresva.files.wordpress.com/2022/03/img_5030.jpg"
+          ],
+          "blip_caption": "a photo of two children standing on a rocky cliff overlooking a canyon",
+          "query": "grand canyon family photo"
+        }
+      },
+      {
+        "turn_id": "D18:6",
+        "speaker": "Caroline",
+        "text": "The kids look so cute, Mel! I bet they bring lots of joy. How did they handle the accident?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_18::chunk-0005",
+    "session_id": "session_18",
+    "observed_at": "2023-10-20T18:55:00",
+    "source_timestamp": "6:55 pm on 20 October, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D18:7",
+        "speaker": "Melanie",
+        "text": "Thanks! They were scared but we reassured them and explained their brother would be OK. They're tough kids.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:8",
+        "speaker": "Caroline",
+        "text": "Kids are amazingly resilient in tough situations. They have an amazing ability to bounce back.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:9",
+        "speaker": "Melanie",
+        "text": "They're really amazing. Wish I was that resilient too. But they give me the strength to keep going.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:10",
+        "speaker": "Caroline",
+        "text": "Our loved ones give us strength to tackle any challenge - it's amazing!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:11",
+        "speaker": "Melanie",
+        "text": "Yeah, Caroline. Totally agree. They're my biggest motivation and support.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_18::chunk-0010",
+    "session_id": "session_18",
+    "observed_at": "2023-10-20T18:55:00",
+    "source_timestamp": "6:55 pm on 20 October, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D18:12",
+        "speaker": "Caroline",
+        "text": "It's so sweet to see your love for your family, Melanie. They really are your rock.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:13",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline. They're a real support. Appreciate them a lot.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:14",
+        "speaker": "Caroline",
+        "text": "Glad you've got people to lean on, Melanie. It helps during tougher times.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:15",
+        "speaker": "Melanie",
+        "text": "Yeah for sure. Having my fam around helps a lot. It makes hard times easier.",
+        "metadata": {
+          "img_url": [
+            "https://live.staticflickr.com/8358/29211988243_82023c5524_b.jpg"
+          ],
+          "blip_caption": "a photography of a woman and a child walking on a trail",
+          "query": "family hiking mountains",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D18:16",
+        "speaker": "Caroline",
+        "text": "Wow, great pic! Is that recent? Looks like you all had fun!",
+        "metadata": {}
+      }
+    ]
+  }
+]

@@ -1,0 +1,125 @@
+[
+  {
+    "stage": "agent_decision",
+    "call_id": "025533ab-3a93-4e74-9cd7-44b3bdc057d6",
+    "response": {
+      "id": "chatcmpl-EZqLRiXwnlam1F9TjSpfBTJpy5WS2",
+      "object": "chat.completion",
+      "created": 1792211401,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"search\",\"query\":\"Caroline join mentorship program\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 149,
+        "completion_tokens": 13,
+        "total_tokens": 162,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f810e81ea"
+    },
+    "latency_seconds": 1.068582166
+  },
+  {
+    "stage": "agent_decision",
+    "call_id": "2ad2ac6a-da6d-441e-bb2b-5e99a89a9014",
+    "response": {
+      "id": "chatcmpl-EZqLSHV08FHMN4cjh28wQrH2QTQzx",
+      "object": "chat.completion",
+      "created": 1792211402,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"ready\",\"reason\":\"Caroline mentioned joining a mentorship program for LGBTQ youth in a conversation on 17 July 2023. This is the clearest evidence of when she joined a mentorship program.\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2886,
+        "completion_tokens": 43,
+        "total_tokens": 2929,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f810e81ea"
+    },
+    "latency_seconds": 1.537410584
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "1964e39e-ac5b-468c-9620-4a70eeaf43a7",
+    "response": {
+      "id": "chatcmpl-EZqLUV9z2s9V2TdRIKSujm2C1sI4s",
+      "object": "chat.completion",
+      "created": 1792211404,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Caroline joined a mentorship program for LGBTQ youth last weekend before 17 July 2023, as she mentioned it in a conversation on 17 July 2023.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_9::chunk-0000\",\"turn_id\":\"D9:2\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2804,
+        "completion_tokens": 71,
+        "total_tokens": 2875,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_802f1283f8"
+    },
+    "latency_seconds": 1.786764334
+  }
+]

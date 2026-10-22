@@ -1,0 +1,64 @@
+<!doctype html><html><head><meta charset="utf-8">
+<title>Full LoCoMo comparison</title>
+<style>
+body{font:16px/1.6 system-ui;margin:40px;color:#18324b;background:#f5f7fb}
+table{border-collapse:collapse;background:white;width:100%}
+td,th{padding:14px;border-bottom:1px solid #dde5ee;text-align:left}
+th{background:#18324b;color:white}
+pre{white-space:pre-wrap;background:white;padding:20px}
+</style></head><body>
+<h1>Full LoCoMo comparison</h1>
+<p>Status: <strong>incomplete</strong></p>
+<p>10 conversations · Categories 1–4 · Custom judge rubric</p>
+<p>Original development questions are included; this is not a pure held-out score.</p>
+<table><tr><th>Approach</th><th>Scored / eligible</th><th>Correct</th>
+<th>Accuracy on scored</th><th>Query generation tokens*</th>
+<th>Query embedding tokens*</th><th>Judge tokens*</th></tr><tr><td>ensimem</td><td>110 / 1540</td><td>75</td><td>68.18%</td><td>1,421,661</td><td>2,212</td><td>24,130</td></tr><tr><td>agentic_rag</td><td>140 / 1540</td><td>77</td><td>55.00%</td><td>994,118</td><td>1,048</td><td>29,825</td></tr></table>
+<p>*Reported usage. Check usage_complete in the JSON; unknown usage is not zero.</p>
+<p>Build usage is separate. Retrieval budgets differ between implementations.</p>
+<h2>Execution state</h2>
+<pre>{
+  &quot;conv-26&quot;: {
+    &quot;status&quot;: &quot;incomplete&quot;,
+    &quot;memory&quot;: &quot;/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/offline-memory-a5e48166f56e&quot;,
+    &quot;ensimem&quot;: &quot;/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/benchmark-545b0ce13880&quot;,
+    &quot;agentic_rag&quot;: &quot;/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/benchmark-agentic-58d03f577125&quot;
+  },
+  &quot;conv-30&quot;: {
+    &quot;status&quot;: &quot;incomplete&quot;,
+    &quot;error&quot;: &quot;Build incomplete; inspect /Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/full-locomo-v1/conv-30-build.log&quot;
+  },
+  &quot;conv-41&quot;: {
+    &quot;status&quot;: &quot;incomplete&quot;,
+    &quot;error&quot;: &quot;Build incomplete; inspect /Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/full-locomo-v1/conv-41-build.log&quot;
+  },
+  &quot;conv-42&quot;: {
+    &quot;status&quot;: &quot;incomplete&quot;,
+    &quot;error&quot;: &quot;Build incomplete; inspect /Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/full-locomo-v1/conv-42-build.log&quot;
+  },
+  &quot;conv-43&quot;: {
+    &quot;status&quot;: &quot;incomplete&quot;,
+    &quot;error&quot;: &quot;Extraction incomplete; saved data preserved. Inspect /Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/full-locomo-v1/conv-43-build.log&quot;
+  },
+  &quot;conv-44&quot;: {
+    &quot;status&quot;: &quot;incomplete&quot;,
+    &quot;error&quot;: &quot;Extraction incomplete; saved data preserved. Inspect /Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/full-locomo-v1/conv-44-build.log&quot;
+  },
+  &quot;conv-47&quot;: {
+    &quot;status&quot;: &quot;incomplete&quot;,
+    &quot;error&quot;: &quot;Build incomplete; inspect /Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/full-locomo-v1/conv-47-build.log&quot;
+  },
+  &quot;conv-48&quot;: {
+    &quot;status&quot;: &quot;incomplete&quot;,
+    &quot;error&quot;: &quot;Extraction incomplete; saved data preserved. Inspect /Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/full-locomo-v1/conv-48-build.log&quot;
+  },
+  &quot;conv-49&quot;: {
+    &quot;status&quot;: &quot;incomplete&quot;,
+    &quot;error&quot;: &quot;Build incomplete; inspect /Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/full-locomo-v1/conv-49-build.log&quot;
+  },
+  &quot;conv-50&quot;: {
+    &quot;status&quot;: &quot;incomplete&quot;,
+    &quot;error&quot;: &quot;Extraction incomplete; saved data preserved. Inspect /Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/full-locomo-v1/conv-50-build.log&quot;
+  }
+}</pre>
+</body></html>

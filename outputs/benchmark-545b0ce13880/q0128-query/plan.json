@@ -1,0 +1,25 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Caroline",
+      "property": "made_object",
+      "search": "Caroline made for a local church"
+    },
+    {
+      "entity": "Caroline",
+      "property": "artwork_commissioned_for",
+      "search": "artwork Caroline made for a local church"
+    },
+    {
+      "entity": "Caroline",
+      "property": "art_created",
+      "search": "art Caroline created for a local church"
+    },
+    {
+      "entity": "Caroline",
+      "property": "artwork_purpose",
+      "search": "purpose of artwork Caroline made for a local church"
+    }
+  ]
+}

@@ -1,0 +1,436 @@
+[
+  {
+    "episode_id": "conv-26::session_4::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_4",
+    "observed_at": "2023-06-27T10:37:00",
+    "source_timestamp": "10:37 am on 27 June, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Caroline's career interest in counseling and mental health support for trans people",
+    "turns": [
+      {
+        "turn_id": "D4:11",
+        "speaker": "Caroline",
+        "text": "Lately, I've been looking into counseling and mental health as a career. I want to help people who have gone through the same things as me.",
+        "metadata": {
+          "blip_caption": "a photo of a book shelf with many books on it"
+        }
+      },
+      {
+        "turn_id": "D4:12",
+        "speaker": "Melanie",
+        "text": "Sounds great! What kind of counseling and mental health services do you want to persue?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:13",
+        "speaker": "Caroline",
+        "text": "I'm still figuring out the details, but I'm thinking of working with trans people, helping them accept themselves and supporting their mental health. Last Friday, I went to an LGBTQ+ counseling workshop and it was really enlightening. They talked about different therapeutic methods and how to best work with trans people. Seeing how passionate these pros were about making a safe space for people like me was amazing.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:14",
+        "speaker": "Melanie",
+        "text": "Woah, Caroline, it sounds like you're doing some impressive work. It's inspiring to see your dedication to helping others. What motivated you to pursue counseling?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:15",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie. It really mattered. My own journey and the support I got made a huge difference. Now I want to help people go through it too. I saw how counseling and support groups improved my life, so I started caring more about mental health and understanding myself. Now I'm passionate about creating a safe, inviting place for people to grow.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:16",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! You've gained so much from your own experience. Your passion and hard work to help others is awesome. Keep it up, you're making a big impact!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:17",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! Your kind words mean a lot.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:18",
+        "speaker": "Melanie",
+        "text": "Congrats Caroline! Good on you for going after what you really care about.",
+        "metadata": {
+          "blip_caption": "a photo of a book shelf filled with books in a room"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_6::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_6",
+    "observed_at": "2023-07-06T20:18:00",
+    "source_timestamp": "8:18 pm on 6 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Children's books and reading memories",
+    "turns": [
+      {
+        "turn_id": "D6:7",
+        "speaker": "Caroline",
+        "text": "Being a mom is awesome. I'm creating a library for when I have kids. I'm really looking forward to reading to them and opening up their minds.",
+        "metadata": {
+          "img_url": [
+            "https://i.pinimg.com/originals/02/94/c3/0294c3460b66d1fd50530e4bd5a2e1f5.jpg"
+          ],
+          "blip_caption": "a photo of a bookcase filled with books and toys",
+          "query": "bookshelf childrens books library"
+        }
+      },
+      {
+        "turn_id": "D6:8",
+        "speaker": "Melanie",
+        "text": "Sounds great! What kind of books you got in your library?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:9",
+        "speaker": "Caroline",
+        "text": "I've got lots of kids' books- classics, stories from different cultures, educational books, all of that. What's a favorite book you remember from your childhood?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:10",
+        "speaker": "Melanie",
+        "text": "I loved reading \"Charlotte's Web\" as a kid. It was so cool seeing how friendship and compassion can make a difference.",
+        "metadata": {
+          "img_url": [
+            "http://bookworm-detective.myshopify.com/cdn/shop/products/PXL_20210428_222022427.jpg"
+          ],
+          "blip_caption": "a photo of a book cover with a picture of a girl and a cat",
+          "query": "charlotte's web book"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_7::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_7",
+    "observed_at": "2023-07-12T16:33:00",
+    "source_timestamp": "4:33 pm on 12 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Inspirational books and the importance of self-acceptance and support, including pets bringing joy",
+    "turns": [
+      {
+        "turn_id": "D7:8",
+        "speaker": "Melanie",
+        "text": "Caroline, so glad you got the support! Your experience really brought you to where you need to be. You're gonna make a huge difference! This book I read last year reminds me to always pursue my dreams, just like you are doing!🌟",
+        "metadata": {
+          "img_url": [
+            "https://www.speakers.co.uk/microsites/tom-oliver/wp-content/uploads/2014/11/Book-Cover-3D1.jpg"
+          ],
+          "blip_caption": "a photography of a book cover with a gold coin on it",
+          "query": "painted canvas follow your dreams",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D7:9",
+        "speaker": "Caroline",
+        "text": "Thanks so much, Mel! Seeing this pic just made me appreciate my love of reading even more. Books guide me, motivate me and help me discover who I am. They're a huge part of my journey, and this one's reminding me to keep going and never give up!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:10",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! Books have such an awesome power! Which one has been your favorite guide?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:11",
+        "speaker": "Caroline",
+        "text": "I loved \"Becoming Nicole\" by Amy Ellis Nutt. It's a real inspiring true story about a trans girl and her family. It made me feel connected and gave me a lot of hope for my own path. Highly recommend it for sure!",
+        "metadata": {
+          "img_url": [
+            "https://m.media-amazon.com/images/I/A1CPpaLFR2L.jpg"
+          ],
+          "blip_caption": "a photo of a dog sitting in a boat on the water",
+          "query": "becoming nicole book amy ellis nutt"
+        }
+      },
+      {
+        "turn_id": "D7:12",
+        "speaker": "Melanie",
+        "text": "That sounds awesome! What did you take away from it to use in your life?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:13",
+        "speaker": "Caroline",
+        "text": "It taught me self-acceptance and how to find support. It also showed me that tough times don't last - hope and love exist. Pets bring so much joy too, though.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:14",
+        "speaker": "Melanie",
+        "text": "Caroline, those lessons are great - self-acceptance and finding support are key. Plus pets are awesome for joy and comfort, can't agree more! ",
+        "metadata": {
+          "img_url": [
+            "https://st3.depositphotos.com/12674628/16006/i/1600/depositphotos_160060676-stock-photo-multiethnic-girls-with-puppy.jpg"
+          ],
+          "blip_caption": "a photography of two little girls sitting on the steps with a dog",
+          "query": "daughters playing with pet dog backyard",
+          "re-download": true
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_8::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Caroline's pride parade experience and personal journey of acceptance and transition",
+    "turns": [
+      {
+        "turn_id": "D8:17",
+        "speaker": "Caroline",
+        "text": "Wow, nice pic! You both looked amazing. One special memory for me was this pride parade I went to a few weeks ago.",
+        "metadata": {
+          "img_url": [
+            "https://dynaimage.cdn.cnn.com/cnn/digital-images/org/dfc95f14-b325-431c-b977-5b6dc2d35f9c.jpg"
+          ],
+          "blip_caption": "a photo of a parade with people walking down the street",
+          "query": "rainbow flag pride march"
+        }
+      },
+      {
+        "turn_id": "D8:18",
+        "speaker": "Melanie",
+        "text": "Wow, looks awesome! Did you join in?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:19",
+        "speaker": "Caroline",
+        "text": "Yes, I did. It was amazing! I felt so accepted and happy, just being around people who accepted and celebrated me. It's definitely a top memory.",
+        "metadata": {
+          "img_url": [
+            "http://ninalemsparty.com/cdn/shop/collections/iStock-1292280203.jpg"
+          ],
+          "blip_caption": "a photo of a group of people holding up signs and smiling",
+          "query": "lgbtq+ pride parade vibrant flags smiling faces"
+        }
+      },
+      {
+        "turn_id": "D8:20",
+        "speaker": "Melanie",
+        "text": "Wow, what an experience! How did it make you feel?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:21",
+        "speaker": "Caroline",
+        "text": "I felt so proud and grateful - the vibes were amazing and it was comforting to know I'm not alone and have a great community around me.",
+        "metadata": {
+          "blip_caption": "a photo of a rainbow flag on a pole on a carpet"
+        }
+      },
+      {
+        "turn_id": "D8:22",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! That's huge! How did it feel to be around so much love and acceptance?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:23",
+        "speaker": "Caroline",
+        "text": "It was awesome, Melanie! Being around people who embrace and back me up is beyond words. It really inspired me.",
+        "metadata": {
+          "blip_caption": "a photo of a group of people sitting on the ground with a dog"
+        }
+      },
+      {
+        "turn_id": "D8:24",
+        "speaker": "Melanie",
+        "text": "Wow, that sounds awesome! Your friends and community really have your back. What's been the best part of it?",
+        "metadata": {
+          "blip_caption": "a photo of a girl sitting in a teepee with stuffed animals"
+        }
+      },
+      {
+        "turn_id": "D8:25",
+        "speaker": "Caroline",
+        "text": "Realizing I can be me without fear and having the courage to transition was the best part. It's so freeing to express myself authentically and have people back me up.",
+        "metadata": {
+          "blip_caption": "a photo of a teepee with a teddy bear and pillows"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_9::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_9",
+    "observed_at": "2023-07-17T14:31:00",
+    "source_timestamp": "2:31 pm on 17 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "LGBTQ pride event experience",
+    "turns": [
+      {
+        "turn_id": "D9:7",
+        "speaker": "Melanie",
+        "text": "Caroline, awesome news that you two are getting along! What was it like for you both? Care to fill me in?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:8",
+        "speaker": "Caroline",
+        "text": "The pride event was awesome! It was so encouraging to be surrounded by so much love and acceptance.",
+        "metadata": {
+          "img_url": [
+            "https://res.cloudinary.com/dragonspell/images/w_1440,h_864,c_fill,dpr_auto,fl_progressive:steep,f_auto/w_1440,h_864/v1571420662/www.travelportland.com/Portland-Pride-Parade-Downtown/Portland-Pride-Parade-Downtown.jpg"
+          ],
+          "blip_caption": "a photo of a woman holding a rainbow umbrella in the air",
+          "query": "lgbt pride event"
+        }
+      },
+      {
+        "turn_id": "D9:9",
+        "speaker": "Melanie",
+        "text": "Wow! What's the best part you remember from it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:10",
+        "speaker": "Caroline",
+        "text": "Seeing my mentee's face light up when they saw the support was the best! Such a special moment.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_11::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_11",
+    "observed_at": "2023-08-14T14:24:00",
+    "source_timestamp": "2:24 pm on 14 August, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Caroline explains the message of her art and shares specific paintings",
+    "turns": [
+      {
+        "turn_id": "D11:9",
+        "speaker": "Melanie",
+        "text": "Wow, that rocks! What's the main idea of your art?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:10",
+        "speaker": "Caroline",
+        "text": "My art is about expressing my trans experience. It's my way of showing my story and helping people understand the trans community.",
+        "metadata": {
+          "blip_caption": "a photo of a painting of a woman with a cow in her lap"
+        }
+      },
+      {
+        "turn_id": "D11:11",
+        "speaker": "Melanie",
+        "text": "Your art's amazing, Caroline. I love how you use it to tell your stories and teach people about trans folks. I'd love to see another painting of yours!",
+        "metadata": {
+          "blip_caption": "a photo of a person holding a purple bowl in their hand"
+        }
+      },
+      {
+        "turn_id": "D11:12",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie. Here's one- 'Embracing Identity' is all about finding comfort and love in being yourself. The woman in the painting stands for the journey of acceptance. My aim was to show warmth, love and self-acceptance.",
+        "metadata": {
+          "img_url": [
+            "https://media.artsper.com/artwork/2013795_1_l.jpg"
+          ],
+          "blip_caption": "a photo of a painting of a woman with a red shirt",
+          "query": "painting embracing identity purple blue"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_17::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_17",
+    "observed_at": "2023-10-13T10:31:00",
+    "source_timestamp": "10:31 am on 13 October, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Conversation about attending a transgender poetry reading and related artistic inspiration",
+    "turns": [
+      {
+        "turn_id": "D17:17",
+        "speaker": "Caroline",
+        "text": "Yeah, it's very calming. It's awesome how art can show emotions. By the way, I went to a poetry reading last Fri - it was really powerful! Ever been to one?",
+        "metadata": {
+          "blip_caption": "a photo of a poster on a wall in a classroom"
+        }
+      },
+      {
+        "turn_id": "D17:18",
+        "speaker": "Melanie",
+        "text": "Nope, never been to something like that. What was it about? What made it so special?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:19",
+        "speaker": "Caroline",
+        "text": "It was a transgender poetry reading where transgender people shared their stories through poetry. It was extra special 'cause it was a safe place for self-expression and it was really empowering to hear others share and celebrate their identities.",
+        "metadata": {
+          "img_url": [
+            "https://hips.hearstapps.com/hmg-prod/images/gettyimages-1675780954.jpg"
+          ],
+          "blip_caption": "a photography of a sign that says trans lives matter",
+          "query": "transgender poetry reading trans pride flags",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D17:20",
+        "speaker": "Melanie",
+        "text": "Wow, sounds amazing! What was the event like? Those posters are great!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:21",
+        "speaker": "Caroline",
+        "text": "The room was electric with energy and support! The posters were amazing, so much pride and strength! It inspired me to make some art.",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/50qvgfuva33b1.jpg"
+          ],
+          "blip_caption": "a photo of a drawing of a woman in a dress",
+          "query": "transgender flag drawing"
+        }
+      },
+      {
+        "turn_id": "D17:22",
+        "speaker": "Melanie",
+        "text": "That's awesome, Caroline! You drew it? What does it mean to you?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:23",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! Yeah, I drew it. It stands for freedom and being real. It's like a nudge to always stay true to myself and embrace my womanhood.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:24",
+        "speaker": "Melanie",
+        "text": "I love it. Showing off our true selves is the best thing ever.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:25",
+        "speaker": "Caroline",
+        "text": "Yep, Melanie! Being ourselves is such a great feeling. It's an ongoing adventure of learning and growing.",
+        "metadata": {}
+      }
+    ]
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-26::q0142",
+  "category": 4,
+  "question": "What does Caroline's drawing symbolize for her?",
+  "gold_answer": "Freedom and being true to herself.",
+  "status": "failed",
+  "error": "Query failed. See q0142.log"
+}

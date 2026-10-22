@@ -1,0 +1,2102 @@
+[
+  {
+    "source_id": "session_1",
+    "stage": "episode_partitioning",
+    "call_id": "284cef27-93d5-4acc-aea6-cea6eae0e561",
+    "latency_seconds": 1.982955125,
+    "response": {
+      "id": "chatcmpl-EZuoGCSFRdPXnLt1Ijy7HjVFA4dI2",
+      "object": "chat.completion",
+      "created": 1792228564,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D1:1\",\n      \"end_turn_id\": \"D1:6\",\n      \"theme\": \"Catch-up and Evan's recent trip to the Rockies\"\n    },\n    {\n      \"start_turn_id\": \"D1:7\",\n      \"end_turn_id\": \"D1:9\",\n      \"theme\": \"Sam's hiking memories and experience\"\n    },\n    {\n      \"start_turn_id\": \"D1:10\",\n      \"end_turn_id\": \"D1:20\",\n      \"theme\": \"Discussion about hobbies, particularly painting and watercolor\"\n    },\n    {\n      \"start_turn_id\": \"D1:21\",\n      \"end_turn_id\": \"D1:22\",\n      \"theme\": \"Closing remarks and plans to catch up again\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1583,
+        "completion_tokens": 177,
+        "total_tokens": 1760,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_2",
+    "stage": "episode_partitioning",
+    "call_id": "5fd98776-c6e2-48e1-9018-3507ca710845",
+    "latency_seconds": 2.3303176249999997,
+    "response": {
+      "id": "chatcmpl-EZuoIyCiqnPadxRSZnamVHCtYQ5JP",
+      "object": "chat.completion",
+      "created": 1792228566,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D2:1\",\n      \"end_turn_id\": \"D2:3\",\n      \"theme\": \"Evan shares Jasper road trip experience\"\n    },\n    {\n      \"start_turn_id\": \"D2:4\",\n      \"end_turn_id\": \"D2:6\",\n      \"theme\": \"Sam discusses personal challenges and health concerns\"\n    },\n    {\n      \"start_turn_id\": \"D2:7\",\n      \"end_turn_id\": \"D2:9\",\n      \"theme\": \"Evan offers support and advice for healthier lifestyle changes\"\n    },\n    {\n      \"start_turn_id\": \"D2:10\",\n      \"end_turn_id\": \"D2:15\",\n      \"theme\": \"Sam explores de-stressing hobbies and Evan encourages painting and exercise\"\n    },\n    {\n      \"start_turn_id\": \"D2:16\",\n      \"end_turn_id\": \"D2:17\",\n      \"theme\": \"Closing well-wishes and plans to catch up later\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1374,
+        "completion_tokens": 225,
+        "total_tokens": 1599,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_3",
+    "stage": "episode_partitioning",
+    "call_id": "ff6a32c7-212f-4784-b453-ff84cd7198f0",
+    "latency_seconds": 1.9906967910000004,
+    "response": {
+      "id": "chatcmpl-EZuoLyzKNRCqCERUncylUReuRysD2",
+      "object": "chat.completion",
+      "created": 1792228569,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D3:1\",\n      \"end_turn_id\": \"D3:12\",\n      \"theme\": \"Discussion about health scare and dietary changes\"\n    },\n    {\n      \"start_turn_id\": \"D3:13\",\n      \"end_turn_id\": \"D3:15\",\n      \"theme\": \"Plans and encouragement for starting fitness exercises\"\n    },\n    {\n      \"start_turn_id\": \"D3:16\",\n      \"end_turn_id\": \"D3:18\",\n      \"theme\": \"Sam's supermarket issue and closing well wishes\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1430,
+        "completion_tokens": 133,
+        "total_tokens": 1563,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_4",
+    "stage": "episode_partitioning",
+    "call_id": "ab59f4cb-e057-4ab8-a2e1-81cde9af5590",
+    "latency_seconds": 2.205260041,
+    "response": {
+      "id": "chatcmpl-EZuoMd88PNcD0cG6aaLrdIYeMguII",
+      "object": "chat.completion",
+      "created": 1792228570,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D4:1\",\n      \"end_turn_id\": \"D4:3\",\n      \"theme\": \"Discussing feelings about weight and motivation to improve health\"\n    },\n    {\n      \"start_turn_id\": \"D4:4\",\n      \"end_turn_id\": \"D4:7\",\n      \"theme\": \"Sharing personal health journey and dietary changes\"\n    },\n    {\n      \"start_turn_id\": \"D4:8\",\n      \"end_turn_id\": \"D4:13\",\n      \"theme\": \"Suggestions for healthy snack alternatives and encouragement\"\n    },\n    {\n      \"start_turn_id\": \"D4:14\",\n      \"end_turn_id\": \"D4:16\",\n      \"theme\": \"Importance of exercise and commitment to gym routine\"\n    },\n    {\n      \"start_turn_id\": \"D4:17\",\n      \"end_turn_id\": \"D4:20\",\n      \"theme\": \"Offering ongoing support and encouragement\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1624,
+        "completion_tokens": 216,
+        "total_tokens": 1840,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_5",
+    "stage": "episode_partitioning",
+    "call_id": "25dfd3d6-8dd1-4c46-9aed-5917e24370d3",
+    "latency_seconds": 3.011879917,
+    "response": {
+      "id": "chatcmpl-EZuoP1OD4Sddpe8PjjDrJpBpkjTZF",
+      "object": "chat.completion",
+      "created": 1792228573,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D5:1\",\n      \"end_turn_id\": \"D5:3\",\n      \"theme\": \"Evan shares his recent trip to Canada and meeting a special woman amidst health challenges\"\n    },\n    {\n      \"start_turn_id\": \"D5:4\",\n      \"end_turn_id\": \"D5:5\",\n      \"theme\": \"Discussing the impact of health issues and small joys like ginger snaps\"\n    },\n    {\n      \"start_turn_id\": \"D5:6\",\n      \"end_turn_id\": \"D5:7\",\n      \"theme\": \"Talking about Evan's kids and his ongoing health journey\"\n    },\n    {\n      \"start_turn_id\": \"D5:8\",\n      \"end_turn_id\": \"D5:11\",\n      \"theme\": \"Conversation about fitness trackers and motivation for health\"\n    },\n    {\n      \"start_turn_id\": \"D5:12\",\n      \"end_turn_id\": \"D5:15\",\n      \"theme\": \"Evan describes his motivation through adventure and meaningful symbols\"\n    },\n    {\n      \"start_turn_id\": \"D5:16\",\n      \"end_turn_id\": \"D5:22\",\n      \"theme\": \"Symbolism of the bonsai tree and reflections on resilience and small consistent steps\"\n    },\n    {\n      \"start_turn_id\": \"D5:23\",\n      \"end_turn_id\": \"D5:25\",\n      \"theme\": \"Closing remarks and friendly goodbyes\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2060,
+        "completion_tokens": 326,
+        "total_tokens": 2386,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_6",
+    "stage": "episode_partitioning",
+    "call_id": "773580ca-6e8d-47f6-b95e-3255595c1ff0",
+    "latency_seconds": 2.436817207999999,
+    "response": {
+      "id": "chatcmpl-EZuoSk9m6v91JJboagdK7olzz9U0V",
+      "object": "chat.completion",
+      "created": 1792228576,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D6:1\",\n      \"end_turn_id\": \"D6:2\",\n      \"theme\": \"Evan shares recent vacation experience and Sam mentions health challenges\"\n    },\n    {\n      \"start_turn_id\": \"D6:3\",\n      \"end_turn_id\": \"D6:6\",\n      \"theme\": \"Support through health struggles and motivation through quotes\"\n    },\n    {\n      \"start_turn_id\": \"D6:7\",\n      \"end_turn_id\": \"D6:12\",\n      \"theme\": \"Sharing motivational quote and encouragement to celebrate small victories\"\n    },\n    {\n      \"start_turn_id\": \"D6:13\",\n      \"end_turn_id\": \"D6:17\",\n      \"theme\": \"Lighthearted exchange about ongoing challenges and a dream discussion\"\n    },\n    {\n      \"start_turn_id\": \"D6:18\",\n      \"end_turn_id\": \"D6:19\",\n      \"theme\": \"Friendly closing wishes and care\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1472,
+        "completion_tokens": 222,
+        "total_tokens": 1694,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_7",
+    "stage": "episode_partitioning",
+    "call_id": "9887610a-da66-409a-b408-95fa9461b9a8",
+    "latency_seconds": 1.9165048329999976,
+    "response": {
+      "id": "chatcmpl-EZuoU5iNk6uY6YhTrQUp0n3NMtzpW",
+      "object": "chat.completion",
+      "created": 1792228578,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D7:1\",\n      \"end_turn_id\": \"D7:2\",\n      \"theme\": \"Sharing personal challenges and health concerns\"\n    },\n    {\n      \"start_turn_id\": \"D7:3\",\n      \"end_turn_id\": \"D7:8\",\n      \"theme\": \"Discussing healthy cooking and recipe exchange\"\n    },\n    {\n      \"start_turn_id\": \"D7:9\",\n      \"end_turn_id\": \"D7:10\",\n      \"theme\": \"Updating on son's ankle recovery and mutual care advice\"\n    },\n    {\n      \"start_turn_id\": \"D7:11\",\n      \"end_turn_id\": \"D7:16\",\n      \"theme\": \"Emotional support and encouragement for health and well-being\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1396,
+        "completion_tokens": 177,
+        "total_tokens": 1573,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_8",
+    "stage": "episode_partitioning",
+    "call_id": "7cebdf92-050c-491e-9d70-511277728ddb",
+    "latency_seconds": 1.6088218329999968,
+    "response": {
+      "id": "chatcmpl-EZuoWFHyJg9K3gdDYdRULHEzU9L1s",
+      "object": "chat.completion",
+      "created": 1792228580,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D8:1\",\n      \"end_turn_id\": \"D8:11\",\n      \"theme\": \"Sam discusses starting a healthy diet and shares a favorite recipe with Evan\"\n    },\n    {\n      \"start_turn_id\": \"D8:12\",\n      \"end_turn_id\": \"D8:22\",\n      \"theme\": \"Evan talks about taking painting classes and his passion for nature-inspired watercolor paintings\"\n    },\n    {\n      \"start_turn_id\": \"D8:23\",\n      \"end_turn_id\": \"D8:32\",\n      \"theme\": \"Evan shares experiences about road trips and winter sports like skiing\"\n    },\n    {\n      \"start_turn_id\": \"D8:33\",\n      \"end_turn_id\": \"D8:33\",\n      \"theme\": \"Sam reflects on challenges with winter sports and appreciates Evan's support\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2650,
+        "completion_tokens": 197,
+        "total_tokens": 2847,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_9",
+    "stage": "episode_partitioning",
+    "call_id": "a2e470d4-da60-4c92-bc32-7bd573937e6d",
+    "latency_seconds": 1.3054391669999994,
+    "response": {
+      "id": "chatcmpl-EZuoYAkdsOxpU2Iev6kvTCK0y4TEJ",
+      "object": "chat.completion",
+      "created": 1792228582,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D9:1\",\n      \"end_turn_id\": \"D9:7\",\n      \"theme\": \"Discussion about recent fitness routines and injury recovery\"\n    },\n    {\n      \"start_turn_id\": \"D9:8\",\n      \"end_turn_id\": \"D9:19\",\n      \"theme\": \"Sharing and planning nature outings and road trips\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1604,
+        "completion_tokens": 93,
+        "total_tokens": 1697,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_10",
+    "stage": "episode_partitioning",
+    "call_id": "f6b01965-dcfc-4afa-9e71-a04ab2b04c6c",
+    "latency_seconds": 2.013946749999999,
+    "response": {
+      "id": "chatcmpl-EZuoZ8djoBYfDG7Szosqbmza7RKkz",
+      "object": "chat.completion",
+      "created": 1792228583,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D10:1\",\n      \"end_turn_id\": \"D10:2\",\n      \"theme\": \"Initial greetings and update sharing\"\n    },\n    {\n      \"start_turn_id\": \"D10:3\",\n      \"end_turn_id\": \"D10:6\",\n      \"theme\": \"Discussion of healthy choices and struggles with cravings\"\n    },\n    {\n      \"start_turn_id\": \"D10:7\",\n      \"end_turn_id\": \"D10:8\",\n      \"theme\": \"Using painting as a stress-relief method\"\n    },\n    {\n      \"start_turn_id\": \"D10:9\",\n      \"end_turn_id\": \"D10:14\",\n      \"theme\": \"Planning and preparing for a painting session\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1383,
+        "completion_tokens": 173,
+        "total_tokens": 1556,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_11",
+    "stage": "episode_partitioning",
+    "call_id": "2cb96b24-688b-4f10-91a1-9fbdb9017ae0",
+    "latency_seconds": 2.1729109589999993,
+    "response": {
+      "id": "chatcmpl-EZuoc2A2X42IWIPNKdIZHF7uWf7hs",
+      "object": "chat.completion",
+      "created": 1792228586,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D11:1\",\n      \"end_turn_id\": \"D11:2\",\n      \"theme\": \"Initial catching up and personal updates about health and activities\"\n    },\n    {\n      \"start_turn_id\": \"D11:3\",\n      \"end_turn_id\": \"D11:5\",\n      \"theme\": \"Discussion about knee injury recovery and staying active\"\n    },\n    {\n      \"start_turn_id\": \"D11:6\",\n      \"end_turn_id\": \"D11:8\",\n      \"theme\": \"Watercolor painting hobby and recent unexpected adventure\"\n    },\n    {\n      \"start_turn_id\": \"D11:9\",\n      \"end_turn_id\": \"D11:14\",\n      \"theme\": \"Art as self-expression and inspiration behind paintings\"\n    },\n    {\n      \"start_turn_id\": \"D11:15\",\n      \"end_turn_id\": \"D11:20\",\n      \"theme\": \"Expressing oneself through writing and managing phone issues\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1689,
+        "completion_tokens": 222,
+        "total_tokens": 1911,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_12",
+    "stage": "episode_partitioning",
+    "call_id": "6245448c-357b-4de2-85c1-ecec9e4fdb19",
+    "latency_seconds": 2.1967030419999993,
+    "response": {
+      "id": "chatcmpl-EZuoeoBp6qvZ60Oqv6fWCnrLlU2t4",
+      "object": "chat.completion",
+      "created": 1792228588,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D12:1\",\n      \"end_turn_id\": \"D12:3\",\n      \"theme\": \"Sam shares health concerns and expresses interest in weight training\"\n    },\n    {\n      \"start_turn_id\": \"D12:4\",\n      \"end_turn_id\": \"D12:6\",\n      \"theme\": \"Evan gives advice on starting weight training and encouragement\"\n    },\n    {\n      \"start_turn_id\": \"D12:7\",\n      \"end_turn_id\": \"D12:9\",\n      \"theme\": \"Sam thanks Evan and expresses appreciation for support\"\n    },\n    {\n      \"start_turn_id\": \"D12:10\",\n      \"end_turn_id\": \"D12:14\",\n      \"theme\": \"Evan provides motivational support and encouragement to Sam\"\n    },\n    {\n      \"start_turn_id\": \"D12:15\",\n      \"end_turn_id\": \"D12:17\",\n      \"theme\": \"Sam and Evan affirm ongoing support and commitment to progress\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1316,
+        "completion_tokens": 226,
+        "total_tokens": 1542,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_13",
+    "stage": "episode_partitioning",
+    "call_id": "aeac6d44-f845-4b8c-a82a-50e3475c7714",
+    "latency_seconds": 1.5025008329999991,
+    "response": {
+      "id": "chatcmpl-EZuogsfsjXnvnl9Vw4kwAFS8X0buA",
+      "object": "chat.completion",
+      "created": 1792228590,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D13:1\",\n      \"end_turn_id\": \"D13:4\",\n      \"theme\": \"Catch-up and personal challenges\"\n    },\n    {\n      \"start_turn_id\": \"D13:5\",\n      \"end_turn_id\": \"D13:12\",\n      \"theme\": \"Discussion about de-stressing and trying kayaking\"\n    },\n    {\n      \"start_turn_id\": \"D13:13\",\n      \"end_turn_id\": \"D13:16\",\n      \"theme\": \"Planning kayaking trip to Lake Tahoe\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1332,
+        "completion_tokens": 130,
+        "total_tokens": 1462,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_14",
+    "stage": "episode_partitioning",
+    "call_id": "55fa6dc7-9b2c-4bd7-87b2-c8acce10ca77",
+    "latency_seconds": 2.1561999169999986,
+    "response": {
+      "id": "chatcmpl-EZuoigIywhuczXha7CKkR41Hj4XWt",
+      "object": "chat.completion",
+      "created": 1792228592,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D14:1\",\n      \"end_turn_id\": \"D14:2\",\n      \"theme\": \"Health concerns and personal updates\"\n    },\n    {\n      \"start_turn_id\": \"D14:3\",\n      \"end_turn_id\": \"D14:5\",\n      \"theme\": \"Motivation and advice for fitness\"\n    },\n    {\n      \"start_turn_id\": \"D14:6\",\n      \"end_turn_id\": \"D14:9\",\n      \"theme\": \"Planning and excitement for hiking and fitness activities\"\n    },\n    {\n      \"start_turn_id\": \"D14:10\",\n      \"end_turn_id\": \"D14:16\",\n      \"theme\": \"Expressions of support and friendly goodbyes\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1291,
+        "completion_tokens": 172,
+        "total_tokens": 1463,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_15",
+    "stage": "episode_partitioning",
+    "call_id": "2da136ed-4062-44f8-be65-f85d7d6cf1b8",
+    "latency_seconds": 1.9302062920000012,
+    "response": {
+      "id": "chatcmpl-EZuokIawAxH2LIQQU1hDncvgm5V1l",
+      "object": "chat.completion",
+      "created": 1792228594,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D15:1\",\n      \"end_turn_id\": \"D15:7\",\n      \"theme\": \"Discussing challenges and support in maintaining a new health routine\"\n    },\n    {\n      \"start_turn_id\": \"D15:8\",\n      \"end_turn_id\": \"D15:18\",\n      \"theme\": \"Sharing personal experience and mindset advice on health transformation\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1229,
+        "completion_tokens": 97,
+        "total_tokens": 1326,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_16",
+    "stage": "episode_partitioning",
+    "call_id": "c1bd33f7-9b12-420c-8a5a-eb2c2c2388cf",
+    "latency_seconds": 1.7241925410000007,
+    "response": {
+      "id": "chatcmpl-EZuolMrmPyw9wQfMPZUNfv9UEReob",
+      "object": "chat.completion",
+      "created": 1792228595,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D16:1\",\n      \"end_turn_id\": \"D16:7\",\n      \"theme\": \"Sam shares achievement of becoming a Weight Watchers coach and discusses health journey\"\n    },\n    {\n      \"start_turn_id\": \"D16:8\",\n      \"end_turn_id\": \"D16:16\",\n      \"theme\": \"Evan opens up about personal challenges including job loss and shares a vintage guitar gift\"\n    },\n    {\n      \"start_turn_id\": \"D16:17\",\n      \"end_turn_id\": \"D16:24\",\n      \"theme\": \"Evan shares a calming beach sunset spot and both plan a visit together\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1823,
+        "completion_tokens": 155,
+        "total_tokens": 1978,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_17",
+    "stage": "episode_partitioning",
+    "call_id": "dd5fba35-3734-4b1a-845f-6a541235cecc",
+    "latency_seconds": 2.391149750000004,
+    "response": {
+      "id": "chatcmpl-EZuon6df3nTqC7MFu4v4ILgVUF5Gi",
+      "object": "chat.completion",
+      "created": 1792228597,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D17:1\",\n      \"end_turn_id\": \"D17:3\",\n      \"theme\": \"Catch-up and sharing recent health concerns\"\n    },\n    {\n      \"start_turn_id\": \"D17:4\",\n      \"end_turn_id\": \"D17:6\",\n      \"theme\": \"Support and recovery after health scare\"\n    },\n    {\n      \"start_turn_id\": \"D17:7\",\n      \"end_turn_id\": \"D17:12\",\n      \"theme\": \"Mutual support and appreciation of life and friendship\"\n    },\n    {\n      \"start_turn_id\": \"D17:13\",\n      \"end_turn_id\": \"D17:16\",\n      \"theme\": \"Discussion about fitness and staying healthy\"\n    },\n    {\n      \"start_turn_id\": \"D17:17\",\n      \"end_turn_id\": \"D17:25\",\n      \"theme\": \"Sharing about a peaceful island hometown and its beauty\"\n    },\n    {\n      \"start_turn_id\": \"D17:26\",\n      \"end_turn_id\": \"D17:28\",\n      \"theme\": \"Closing remarks and continued emotional support\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2112,
+        "completion_tokens": 256,
+        "total_tokens": 2368,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_18",
+    "stage": "episode_partitioning",
+    "call_id": "9edbf1da-9176-4aae-b71f-8b8159511813",
+    "latency_seconds": 1.5724714580000025,
+    "response": {
+      "id": "chatcmpl-EZuoqfnrR5PF78MeEljkILJ0HRH6p",
+      "object": "chat.completion",
+      "created": 1792228600,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D18:1\",\n      \"end_turn_id\": \"D18:5\",\n      \"theme\": \"Evan's new Prius breakdown and coping with setbacks\"\n    },\n    {\n      \"start_turn_id\": \"D18:6\",\n      \"end_turn_id\": \"D18:8\",\n      \"theme\": \"Sam's Weight Watchers meeting and yoga discussion\"\n    },\n    {\n      \"start_turn_id\": \"D18:9\",\n      \"end_turn_id\": \"D18:15\",\n      \"theme\": \"Encouragement, support, and future plans about yoga\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1149,
+        "completion_tokens": 141,
+        "total_tokens": 1290,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_19",
+    "stage": "episode_partitioning",
+    "call_id": "b0f9f2d5-a1b0-4b7c-8b3d-2cec1ec3f685",
+    "latency_seconds": 1.9643278329999987,
+    "response": {
+      "id": "chatcmpl-EZuosJ83MusbSWOApVu7FXEhqfTGc",
+      "object": "chat.completion",
+      "created": 1792228602,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D19:1\",\n      \"end_turn_id\": \"D19:4\",\n      \"theme\": \"Evan shares news about upcoming parenthood and discusses feelings\"\n    },\n    {\n      \"start_turn_id\": \"D19:5\",\n      \"end_turn_id\": \"D19:9\",\n      \"theme\": \"Evan shows family photo collage and explains its meaning\"\n    },\n    {\n      \"start_turn_id\": \"D19:10\",\n      \"end_turn_id\": \"D19:15\",\n      \"theme\": \"Discussion about future family plans and organizing a reunion\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1216,
+        "completion_tokens": 141,
+        "total_tokens": 1357,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_20",
+    "stage": "episode_partitioning",
+    "call_id": "a033647d-5501-4ba6-a928-f980266b18fd",
+    "latency_seconds": 2.179142917,
+    "response": {
+      "id": "chatcmpl-EZuouMsr19hakC6MsOUDE5nSBedbx",
+      "object": "chat.completion",
+      "created": 1792228604,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D20:1\",\n      \"end_turn_id\": \"D20:4\",\n      \"theme\": \"Reunion and personal challenges discussion\"\n    },\n    {\n      \"start_turn_id\": \"D20:5\",\n      \"end_turn_id\": \"D20:7\",\n      \"theme\": \"Discussing hobbies and planning hiking\"\n    },\n    {\n      \"start_turn_id\": \"D20:8\",\n      \"end_turn_id\": \"D20:13\",\n      \"theme\": \"Motivation, self-confidence, and encouragement to try new things\"\n    },\n    {\n      \"start_turn_id\": \"D20:14\",\n      \"end_turn_id\": \"D20:17\",\n      \"theme\": \"Discussion about Evan's painting and its background\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1316,
+        "completion_tokens": 177,
+        "total_tokens": 1493,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_21",
+    "stage": "episode_partitioning",
+    "call_id": "6096fb04-7b16-4b5b-9330-006a05a60967",
+    "latency_seconds": 2.9661292500000016,
+    "response": {
+      "id": "chatcmpl-EZuowJGFo9RlPl2lR1BWlKZ4rJbVp",
+      "object": "chat.completion",
+      "created": 1792228606,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D21:1\",\n      \"end_turn_id\": \"D21:4\",\n      \"theme\": \"Reunion and Evan's recent wedding\"\n    },\n    {\n      \"start_turn_id\": \"D21:5\",\n      \"end_turn_id\": \"D21:8\",\n      \"theme\": \"Discussion about love and its emotional impact\"\n    },\n    {\n      \"start_turn_id\": \"D21:9\",\n      \"end_turn_id\": \"D21:10\",\n      \"theme\": \"Finding personal fulfillment through activities beyond love\"\n    },\n    {\n      \"start_turn_id\": \"D21:11\",\n      \"end_turn_id\": \"D21:16\",\n      \"theme\": \"Evan's abstract paintings and art as emotional expression\"\n    },\n    {\n      \"start_turn_id\": \"D21:17\",\n      \"end_turn_id\": \"D21:19\",\n      \"theme\": \"Sam's interest in art and exchanging inspiration\"\n    },\n    {\n      \"start_turn_id\": \"D21:20\",\n      \"end_turn_id\": \"D21:22\",\n      \"theme\": \"Casual chat about daily life mishaps and solutions\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1834,
+        "completion_tokens": 262,
+        "total_tokens": 2096,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_22",
+    "stage": "episode_partitioning",
+    "call_id": "c1770bda-2307-47f2-8662-5ec7434f018a",
+    "latency_seconds": 2.2331474590000013,
+    "response": {
+      "id": "chatcmpl-EZuozqaQwQafisY4nCPfTcCusMSGH",
+      "object": "chat.completion",
+      "created": 1792228609,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D22:1\",\n      \"end_turn_id\": \"D22:9\",\n      \"theme\": \"Outdoor activities, hiking, and reflections on nature and life events\"\n    },\n    {\n      \"start_turn_id\": \"D22:10\",\n      \"end_turn_id\": \"D22:18\",\n      \"theme\": \"Discussion about healthy snacks and recipes\"\n    },\n    {\n      \"start_turn_id\": \"D22:19\",\n      \"end_turn_id\": \"D22:21\",\n      \"theme\": \"Issues with self-checkout and store experiences\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1659,
+        "completion_tokens": 137,
+        "total_tokens": 1796,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_23",
+    "stage": "episode_partitioning",
+    "call_id": "104a879a-87dc-4acc-b6d4-be0843787a76",
+    "latency_seconds": 1.5702797499999974,
+    "response": {
+      "id": "chatcmpl-EZup1QEJXESEuf0Vaw6kldc3XNYO8",
+      "object": "chat.completion",
+      "created": 1792228611,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D23:1\",\n      \"end_turn_id\": \"D23:13\",\n      \"theme\": \"Sharing and celebrating marriage announcement and family support\"\n    },\n    {\n      \"start_turn_id\": \"D23:14\",\n      \"end_turn_id\": \"D23:20\",\n      \"theme\": \"Discussing family gathering, meals, and desserts\"\n    },\n    {\n      \"start_turn_id\": \"D23:21\",\n      \"end_turn_id\": \"D23:33\",\n      \"theme\": \"Talking about wedding memories, honeymoon plans, and Canadian trip excitement\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2333,
+        "completion_tokens": 140,
+        "total_tokens": 2473,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_24",
+    "stage": "episode_partitioning",
+    "call_id": "7fca906d-d7d2-49f3-aac4-89a49eba1f71",
+    "latency_seconds": 1.6040220000000005,
+    "response": {
+      "id": "chatcmpl-EZup2McquMSKLMlqSdZ9XmnpkOJ83",
+      "object": "chat.completion",
+      "created": 1792228612,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D24:1\",\n      \"end_turn_id\": \"D24:8\",\n      \"theme\": \"Evan shares an embarrassing incident from a night out and its resolution\"\n    },\n    {\n      \"start_turn_id\": \"D24:9\",\n      \"end_turn_id\": \"D24:24\",\n      \"theme\": \"Discussion about health, fitness plans, and motivation including low-impact exercises and dreams\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1873,
+        "completion_tokens": 105,
+        "total_tokens": 1978,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_25",
+    "stage": "episode_partitioning",
+    "call_id": "6a91c9f9-4d8d-4b3b-b28e-9a711b96fe1c",
+    "latency_seconds": 2.094583958000001,
+    "response": {
+      "id": "chatcmpl-EZup4lDeY6ErXIjBBLb7RsDFImvCX",
+      "object": "chat.completion",
+      "created": 1792228614,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "```json\n{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D25:1\",\n      \"end_turn_id\": \"D25:4\",\n      \"theme\": \"Health challenges and personal apologies\"\n    },\n    {\n      \"start_turn_id\": \"D25:5\",\n      \"end_turn_id\": \"D25:7\",\n      \"theme\": \"Relaxation through nature and countryside drives\"\n    },\n    {\n      \"start_turn_id\": \"D25:8\",\n      \"end_turn_id\": \"D25:13\",\n      \"theme\": \"Sharing nature photos and the calming effect of the outdoors\"\n    },\n    {\n      \"start_turn_id\": \"D25:14\",\n      \"end_turn_id\": \"D25:20\",\n      \"theme\": \"Appreciating small joyful moments amid difficulties\"\n    }\n  ]\n}\n```",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1590,
+        "completion_tokens": 179,
+        "total_tokens": 1769,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "conv-49::session_1::episode-001",
+    "stage": "entity_property_extraction",
+    "call_id": "efa93183-52ee-413b-b57b-7490ba268a2b",
+    "latency_seconds": 3.5445088750000195,
+    "response": {
+      "id": "chatcmpl-EZz6mqhvlRqQ8VDRtutB9NJ2aCxIN",
+      "object": "chat.completion",
+      "created": 1792245088,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"traveled_with_family_in\",\n      \"value\": \"new Prius\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"recently before 2023-05-18\",\n      \"evidence_turn_ids\": [\"D1:2\"]\n    },\n    {\n      \"entity\": \"Evan's old Prius\",\n      \"entity_type\": \"object\",\n      \"property\": \"status\",\n      \"value\": \"broke down\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"recently before 2023-05-18\",\n      \"evidence_turn_ids\": [\"D1:4\"]\n    },\n    {\n      \"entity\": \"Evan's old Prius\",\n      \"entity_type\": \"object\",\n      \"property\": \"was_repaired_then_sold\",\n      \"value\": \"true\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"recently before 2023-05-18\",\n      \"evidence_turn_ids\": [\"D1:4\"]\n    },\n    {\n      \"entity\": \"Evan's family trip\",\n      \"entity_type\": \"event\",\n      \"property\": \"destination\",\n      \"value\": \"Rockies\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"recently before 2023-05-18\",\n      \"evidence_turn_ids\": [\"D1:4\"]\n    },\n    {\n      \"entity\": \"Evan's family trip\",\n      \"entity_type\": \"event\",\n      \"property\": \"activity\",\n      \"value\": \"hiked trails\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"approximately last week before 2023-05-18\",\n      \"evidence_turn_ids\": [\"D1:6\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 875,
+        "completion_tokens": 402,
+        "total_tokens": 1277,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-49::session_1::episode-002",
+    "stage": "entity_property_extraction",
+    "call_id": "d16cabbb-5067-4bc6-ab2e-72c69e472dc4",
+    "latency_seconds": 78.09975550000001,
+    "response": {
+      "id": "chatcmpl-EZz83zxh7QbpzQXfn6IUEgJiN1qXy",
+      "object": "chat.completion",
+      "created": 1792245167,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Sam\",\n      \"entity_type\": \"person\",\n      \"property\": \"likes_activity\",\n      \"value\": \"hiking\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D1:7\"]\n    },\n    {\n      \"entity\": \"Sam\",\n      \"entity_type\": \"person\",\n      \"property\": \"hiking_experience_age\",\n      \"value\": \"10 years old\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D1:7\"]\n    },\n    {\n      \"entity\": \"Sam and dad\",\n      \"entity_type\": \"other\",\n      \"property\": \"shared_hiking_activity\",\n      \"value\": \"went hiking together\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"when Sam was ten\",\n      \"evidence_turn_ids\": [\"D1:7\"]\n    },\n    {\n      \"entity\": \"Sam\",\n      \"entity_type\": \"person\",\n      \"property\": \"hiking_memory_quality\",\n      \"value\": \"great fun and really special\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"when Sam was ten\",\n      \"evidence_turn_ids\": [\"D1:7\"]\n    },\n    {\n      \"entity\": \"Sam\",\n      \"entity_type\": \"person\",\n      \"property\": \"distance_hiked_as_child\",\n      \"value\": \"a good distance\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"when Sam was ten\",\n      \"evidence_turn_ids\": [\"D1:9\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 702,
+        "completion_tokens": 357,
+        "total_tokens": 1059,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-49::session_1::episode-003",
+    "stage": "entity_property_extraction",
+    "call_id": "09659822-5fa9-4345-aa99-5d36bbe0a333",
+    "latency_seconds": 6.227491584000063,
+    "response": {
+      "id": "chatcmpl-EZz86SJp7h2UjfuAL5BIn2ms0JuVn",
+      "object": "chat.completion",
+      "created": 1792245170,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Sam\",\n      \"entity_type\": \"person\",\n      \"property\": \"current hobbies\",\n      \"value\": \"none so far\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"at 1:47 pm on 18 May, 2023\",\n      \"evidence_turn_ids\": [\"D1:11\"]\n    },\n    {\n      \"entity\": \"Sam\",\n      \"entity_type\": \"person\",\n      \"property\": \"considering hobby\",\n      \"value\": \"painting\",\n      \"modality\": \"planned\",\n      \"valid_time\": \"at 1:47 pm on 18 May, 2023\",\n      \"evidence_turn_ids\": [\"D1:11\"]\n    },\n    {\n      \"entity\": \"Sam\",\n      \"entity_type\": \"person\",\n      \"property\": \"past experience with painting\",\n      \"value\": \"not tried yet\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"at 1:47 pm on 18 May, 2023\",\n      \"evidence_turn_ids\": [\"D1:13\"]\n    },\n    {\n      \"entity\": \"Sam\",\n      \"entity_type\": \"person\",\n      \"property\": \"attitude toward trying painting\",\n      \"value\": \"keen to give it a go; sees it as a nice way to chill and get creative\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"at 1:47 pm on 18 May, 2023\",\n      \"evidence_turn_ids\": [\"D1:13\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"hobby\",\n      \"value\": \"watercolor painting\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"a few years before 1:47 pm on 18 May, 2023\",\n      \"evidence_turn_ids\": [\"D1:14\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"attitude toward painting\",\n      \"value\": \"loves it; finds it a great stress-buster\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"a few years before 1:47 pm on 18 May, 2023\",\n      \"evidence_turn_ids\": [\"D1:14\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"introduction to watercolor painting\",\n      \"value\": \"introduced by a friend who gave advice\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"before 1:47 pm on 18 May, 2023\",\n      \"evidence_turn_ids\": [\"D1:16\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"encouragement to Sam\",\n      \"value\": \"Keep trying new things until something sparks excitement\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"at 1:47 pm on 18 May, 2023\",\n      \"evidence_turn_ids\": [\"D1:18\"]\n    },\n    {\n      \"entity\": \"Sam\",\n      \"entity_type\": \"person\",\n      \"property\": \"hope\",\n      \"value\": \"to find a hobby as passionate as Evan is about watercolor painting\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"at 1:47 pm on 18 May, 2023\",\n      \"evidence_turn_ids\": [\"D1:17\"]\n    },\n    {\n      \"entity\": \"Sam\",\n      \"entity_type\": \"person\",\n      \"property\": \"attitude toward trying new hobbies\",\n      \"value\": \"excited and thinks it should be fun\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"at 1:47 pm on 18 May, 2023\",\n      \"evidence_turn_ids\": [\"D1:19\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1073,
+        "completion_tokens": 869,
+        "total_tokens": 1942,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-49::session_1::episode-004",
+    "stage": "entity_property_extraction",
+    "call_id": "c9c38b3d-23e0-4648-9fed-0d820a398a8c",
+    "latency_seconds": 1.1866237500000807,
+    "response": {
+      "id": "chatcmpl-EZz8CV7m1iWv5GKKIoNHVNEFcBGkx",
+      "object": "chat.completion",
+      "created": 1792245176,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": []\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 564,
+        "completion_tokens": 7,
+        "total_tokens": 571,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-49::session_2::episode-001",
+    "stage": "entity_property_extraction",
+    "call_id": "0a6e66c1-2a74-426f-b044-ea7033676efc",
+    "latency_seconds": 4.071560417000001,
+    "response": {
+      "id": "chatcmpl-EZz8DMDMtZUU5y05yNpkadIfWMmPp",
+      "object": "chat.completion",
+      "created": 1792245177,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"took_family_on_trip_to\",\n      \"value\": \"Jasper\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last weekend before 7:11 pm on 24 May, 2023\",\n      \"evidence_turn_ids\": [\"D2:1\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"drove_through\",\n      \"value\": \"Icefields Parkway\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last weekend before 7:11 pm on 24 May, 2023\",\n      \"evidence_turn_ids\": [\"D2:1\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"saw_natural_features\",\n      \"value\": \"glaciers and lakes described as gorgeous\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last weekend before 7:11 pm on 24 May, 2023\",\n      \"evidence_turn_ids\": [\"D2:1\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"photographed\",\n      \"value\": \"a glacier\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last weekend before 7:11 pm on 24 May, 2023\",\n      \"evidence_turn_ids\": [\"D2:1\"]\n    },\n    {\n      \"entity\": \"Evan's road trip\",\n      \"entity_type\": \"activity\",\n      \"property\": \"included\",\n      \"value\": \"fresh air, peacefulness, and a cozy cabin surrounded by mountains and forests\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last weekend before 7:11 pm on 24 May, 2023\",\n      \"evidence_turn_ids\": [\"D2:3\"]\n    },\n    {\n      \"entity\": \"Evan's road trip\",\n      \"entity_type\": \"activity\",\n      \"property\": \"felt_like\",\n      \"value\": \"a real retreat\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last weekend before 7:11 pm on 24 May, 2023\",\n      \"evidence_turn_ids\": [\"D2:3\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 792,
+        "completion_tokens": 530,
+        "total_tokens": 1322,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-49::session_2::episode-002",
+    "stage": "entity_property_extraction",
+    "call_id": "3db8ab2f-c849-4239-ac74-478aeff11392",
+    "latency_seconds": 2.3079120840000087,
+    "response": {
+      "id": "chatcmpl-EZz8H1ZLF0UOtaDKuebu8YB2D2KRI",
+      "object": "chat.completion",
+      "created": 1792245181,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Sam\",\n      \"entity_type\": \"person\",\n      \"property\": \"recent_week_quality\",\n      \"value\": \"tough\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"week before 7:11 pm on 24 May, 2023\",\n      \"evidence_turn_ids\": [\"D2:4\"]\n    },\n    {\n      \"entity\": \"Sam\",\n      \"entity_type\": \"person\",\n      \"property\": \"doctor_checkup_timing\",\n      \"value\": \"a few days before 7:11 pm on 24 May, 2023\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"a few days before 7:11 pm on 24 May, 2023\",\n      \"evidence_turn_ids\": [\"D2:6\"]\n    },\n    {\n      \"entity\": \"Sam\",\n      \"entity_type\": \"person\",\n      \"property\": \"doctor_checkup_weight_result\",\n      \"value\": \"not great\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"a few days before 7:11 pm on 24 May, 2023\",\n      \"evidence_turn_ids\": [\"D2:6\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 642,
+        "completion_tokens": 272,
+        "total_tokens": 914,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-49::session_2::episode-003",
+    "stage": "entity_property_extraction",
+    "call_id": "28f2ba19-c4fb-47dc-9536-4dd637db2ff0",
+    "latency_seconds": 3.204818166999985,
+    "response": {
+      "id": "chatcmpl-EZz8Kh1dDONM5sgr2eRfQJhLTtkRc",
+      "object": "chat.completion",
+      "created": 1792245184,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Sam\",\n      \"entity_type\": \"person\",\n      \"property\": \"facing challenge\",\n      \"value\": \"confront own health challenges\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"before 7:11 pm on 24 May, 2023\",\n      \"evidence_turn_ids\": [\"D2:7\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"strategy_for_health\",\n      \"value\": \"finding a fitness routine he really enjoys\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"before 7:11 pm on 24 May, 2023\",\n      \"evidence_turn_ids\": [\"D2:9\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"attitude_towards_health\",\n      \"value\": \"loves feeling healthy and strong\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"before 7:11 pm on 24 May, 2023\",\n      \"evidence_turn_ids\": [\"D2:9\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"diet_approach\",\n      \"value\": \"making little ways to make smarter choices in diet\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"before 7:11 pm on 24 May, 2023\",\n      \"evidence_turn_ids\": [\"D2:9\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 687,
+        "completion_tokens": 351,
+        "total_tokens": 1038,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-49::session_2::episode-004",
+    "stage": "entity_property_extraction",
+    "call_id": "86d75c46-0fb8-4589-aff8-2f464b59358c",
+    "latency_seconds": 4.541941500000007,
+    "response": {
+      "id": "chatcmpl-EZz8NWPy2rreydpZcLcfyjIenUKHI",
+      "object": "chat.completion",
+      "created": 1792245187,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Sam\",\n      \"entity_type\": \"person\",\n      \"property\": \"considering_hobby\",\n      \"value\": \"painting\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"7:11 pm on 24 May, 2023\",\n      \"evidence_turn_ids\": [\"D2:10\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"activity\",\n      \"value\": \"painting\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"recent years before 7:11 pm on 24 May, 2023\",\n      \"evidence_turn_ids\": [\"D2:11\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"activity_benefit\",\n      \"value\": \"painting helps relieve stress, be creative, explore colors and textures, express feelings, and find peace\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"7:11 pm on 24 May, 2023\",\n      \"evidence_turn_ids\": [\"D2:11\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"painting_effect_on_weight_problem\",\n      \"value\": \"won't help with weight problem\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"7:11 pm on 24 May, 2023\",\n      \"evidence_turn_ids\": [\"D2:11\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"recommended_activity_for_weight_problem\",\n      \"value\": \"exercising\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"7:11 pm on 24 May, 2023\",\n      \"evidence_turn_ids\": [\"D2:11\"]\n    },\n    {\n      \"entity\": \"Sam\",\n      \"entity_type\": \"person\",\n      \"property\": \"intended_action\",\n      \"value\": \"try painting and report back\",\n      \"modality\": \"planned\",\n      \"valid_time\": \"after 7:11 pm on 24 May, 2023\",\n      \"evidence_turn_ids\": [\"D2:12\"]\n    },\n    {\n      \"entity\": \"Sam\",\n      \"entity_type\": \"person\",\n      \"property\": \"intended_emotional_approach_to_painting\",\n      \"value\": \"not stress, just enjoy\",\n      \"modality\": \"planned\",\n      \"valid_time\": \"after 7:11 pm on 24 May, 2023\",\n      \"evidence_turn_ids\": [\"D2:14\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 810,
+        "completion_tokens": 596,
+        "total_tokens": 1406,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-49::session_2::episode-005",
+    "stage": "entity_property_extraction",
+    "call_id": "1c83c26c-ca0a-49b9-8e65-4af82996b609",
+    "latency_seconds": 2.9131335000000718,
+    "response": {
+      "id": "chatcmpl-EZz8S9P33Kx3SJFXp5G532eTchasC",
+      "object": "chat.completion",
+      "created": 1792245192,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Sam\",\n      \"entity_type\": \"person\",\n      \"property\": \"addressed\",\n      \"value\": \"Evan\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"7:11 pm on 24 May, 2023\",\n      \"evidence_turn_ids\": [\"D2:16\"]\n    },\n    {\n      \"entity\": \"Sam\",\n      \"entity_type\": \"person\",\n      \"property\": \"farewell\",\n      \"value\": \"Bye for now\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"7:11 pm on 24 May, 2023\",\n      \"evidence_turn_ids\": [\"D2:16\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"addressed\",\n      \"value\": \"Sam\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"7:11 pm on 24 May, 2023\",\n      \"evidence_turn_ids\": [\"D2:17\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"farewell\",\n      \"value\": \"I'll catch up with you later\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"7:11 pm on 24 May, 2023\",\n      \"evidence_turn_ids\": [\"D2:17\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 559,
+        "completion_tokens": 319,
+        "total_tokens": 878,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-49::session_3::episode-001",
+    "stage": "entity_property_extraction",
+    "call_id": "ce831375-299d-4847-b77f-38369e7ea47f",
+    "latency_seconds": 6.644541457999935,
+    "response": {
+      "id": "chatcmpl-EZz8VtJwsCdzmr6CP3ppMqhLdWqaA",
+      "object": "chat.completion",
+      "created": 1792245195,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"health_incident\",\n      \"value\": \"heart palpitation incident\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last week relative to 6 June 2023\",\n      \"evidence_turn_ids\": [\"D3:1\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"health_implication\",\n      \"value\": \"wake-up call about lifestyle\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"since heart palpitation incident\",\n      \"evidence_turn_ids\": [\"D3:1\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"diet_change\",\n      \"value\": \"eating less processed food and sugary snacks\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"currently as of 6 June 2023\",\n      \"evidence_turn_ids\": [\"D3:3\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"dietary_preference\",\n      \"value\": \"likes ginger snaps\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D3:3\"]\n    },\n    {\n      \"entity\": \"Sam\",\n      \"entity_type\": \"person\",\n      \"property\": \"diet_change\",\n      \"value\": \"no recent changes; still enjoys soda and candy\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"as of 6 June 2023\",\n      \"evidence_turn_ids\": [\"D3:4\"]\n    },\n    {\n      \"entity\": \"Sam\",\n      \"entity_type\": \"person\",\n      \"property\": \"diet_plan\",\n      \"value\": \"will try swapping soda for flavored seltzer water and candy for dark chocolate\",\n      \"modality\": \"planned\",\n      \"valid_time\": \"planned after 6 June 2023\",\n      \"evidence_turn_ids\": [\"D3:6\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"advice_given\",\n      \"value\": \"suggested swapping soda for flavored seltzer water and candy for dark chocolate\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"6 June 2023\",\n      \"evidence_turn_ids\": [\"D3:5\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"health_care_attitude\",\n      \"value\": \"being extra careful with health; advocating small changes\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"6 June 2023\",\n      \"evidence_turn_ids\": [\"D3:3\",\"D3:7\",\"D3:9\",\"D3:11\"]\n    },\n    {\n      \"entity\": \"Sam\",\n      \"entity_type\": \"person\",\n      \"property\": \"attitude_towards_diet_change\",\n      \"value\": \"open and willing to try small changes\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"6 June 2023\",\n      \"evidence_turn_ids\": [\"D3:6\",\"D3:8\",\"D3:10\",\"D3:12\"]\n    },\n    {\n      \"entity\": \"Sam\",\n      \"entity_type\": \"person\",\n      \"property\": \"current_diet_habits\",\n      \"value\": \"enjoys soda and candy despite knowing it's not best habit\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"6 June 2023\",\n      \"evidence_turn_ids\": [\"D3:4\"]\n    },\n    {\n      \"entity\": \"Sam\",\n      \"entity_type\": \"person\",\n      \"property\": \"support_received\",\n      \"value\": \"appreciates Evan's moral support on health journey\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"6 June 2023\",\n      \"evidence_turn_ids\": [\"D3:12\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1256,
+        "completion_tokens": 905,
+        "total_tokens": 2161,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-49::session_3::episode-002",
+    "stage": "entity_property_extraction",
+    "call_id": "018e7d7e-497a-42b1-a646-5f405057417b",
+    "latency_seconds": 2.5443132090000518,
+    "response": {
+      "id": "chatcmpl-EZz8bDfFbAkLHvObYkkJpdM15j7h3",
+      "object": "chat.completion",
+      "created": 1792245201,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"support_for_Sam\",\n      \"value\": \"Evan is here for Sam and ready to help with workouts\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"3:55 pm on 6 June, 2023\",\n      \"evidence_turn_ids\": [\"D3:13\", \"D3:15\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"belief_exercise_benefit\",\n      \"value\": \"Exercise clears the mind and is amazing\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"3:55 pm on 6 June, 2023\",\n      \"evidence_turn_ids\": [\"D3:13\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"plan_with_Sam\",\n      \"value\": \"Get together and show Sam some basic exercises\",\n      \"modality\": \"planned\",\n      \"valid_time\": \"after 3:55 pm on 6 June, 2023\",\n      \"evidence_turn_ids\": [\"D3:15\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 693,
+        "completion_tokens": 276,
+        "total_tokens": 969,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-49::session_3::episode-003",
+    "stage": "entity_property_extraction",
+    "call_id": "a2cd87b7-dd71-4a0a-b59c-c0845c77abdd",
+    "latency_seconds": 3.239092874999983,
+    "response": {
+      "id": "chatcmpl-EZz8eOzKGncVWTjYrhPI82I865zeY",
+      "object": "chat.completion",
+      "created": 1792245204,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Sam\",\n      \"entity_type\": \"person\",\n      \"property\": \"current_location\",\n      \"value\": \"coming from the shop\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"3:55 pm on 6 June, 2023\",\n      \"evidence_turn_ids\": [\"D3:16\"]\n    },\n    {\n      \"entity\": \"supermarket\",\n      \"entity_type\": \"place\",\n      \"property\": \"self_checkout_status\",\n      \"value\": \"all broken\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"3:55 pm on 6 June, 2023\",\n      \"evidence_turn_ids\": [\"D3:16\"]\n    },\n    {\n      \"entity\": \"Sam\",\n      \"entity_type\": \"person\",\n      \"property\": \"mood\",\n      \"value\": \"terrible\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"3:55 pm on 6 June, 2023\",\n      \"evidence_turn_ids\": [\"D3:16\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"response_to_Sam\",\n      \"value\": \"Sorry you were in that situation, hopefully it won't happen again\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"3:55 pm on 6 June, 2023\",\n      \"evidence_turn_ids\": [\"D3:17\"]\n    },\n    {\n      \"entity\": \"Sam\",\n      \"entity_type\": \"person\",\n      \"property\": \"farewell_to_Evan\",\n      \"value\": \"Yeah, I hope so, take care of yourself\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"3:55 pm on 6 June, 2023\",\n      \"evidence_turn_ids\": [\"D3:18\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 627,
+        "completion_tokens": 417,
+        "total_tokens": 1044,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-49::session_4::episode-001",
+    "stage": "entity_property_extraction",
+    "call_id": "1b0bbb6f-a12a-4f6a-8c23-d845be44f482",
+    "latency_seconds": 4.418257208,
+    "response": {
+      "id": "chatcmpl-EZz8hSEpcXmgLXZGUJF86TCUeaHvH",
+      "object": "chat.completion",
+      "created": 1792245207,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "```json\n{\n  \"records\": [\n    {\n      \"entity\": \"Sam\",\n      \"entity_type\": \"person\",\n      \"property\": \"experienced_mocking\",\n      \"value\": \"friends mocked Sam's weight last Friday\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last Friday before 2023-07-27\",\n      \"evidence_turn_ids\": [\"D4:1\"]\n    },\n    {\n      \"entity\": \"Sam\",\n      \"entity_type\": \"person\",\n      \"property\": \"felt_hurt\",\n      \"value\": \"hurt by friends mocking weight\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last Friday before 2023-07-27\",\n      \"evidence_turn_ids\": [\"D4:1\"]\n    },\n    {\n      \"entity\": \"Sam\",\n      \"entity_type\": \"person\",\n      \"property\": \"realized_need_change\",\n      \"value\": \"realized need to make changes after being mocked\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"after last Friday before 2023-07-27\",\n      \"evidence_turn_ids\": [\"D4:1\"]\n    },\n    {\n      \"entity\": \"Sam\",\n      \"entity_type\": \"person\",\n      \"property\": \"working_on_health\",\n      \"value\": \"working on health and getting active\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current as of 2023-07-27\",\n      \"evidence_turn_ids\": [\"D4:3\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"offered_support\",\n      \"value\": \"offered to work together with Sam on progress\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"2023-07-27\",\n      \"evidence_turn_ids\": [\"D4:2\"]\n    }\n  ]\n}\n```",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 629,
+        "completion_tokens": 413,
+        "total_tokens": 1042,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-49::session_4::episode-002",
+    "stage": "entity_property_extraction",
+    "call_id": "9ae92d2d-1c2d-4789-8273-b4004d65627e",
+    "latency_seconds": 3.210351875000015,
+    "response": {
+      "id": "chatcmpl-EZz8lTPPYHlEce5duIVR9WJgirPlA",
+      "object": "chat.completion",
+      "created": 1792245211,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"health_struggle\",\n      \"value\": \"struggled with health a few years ago\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"a few years ago\",\n      \"evidence_turn_ids\": [\"D4:4\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"commitment_reminder\",\n      \"value\": \"gym membership card\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D4:4\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"belief\",\n      \"value\": \"exercise, diet and lifestyle changes all play a big role in health\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D4:4\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"dietary_change\",\n      \"value\": \"cut down sugary snacks and eat more vegetables and fruit\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"during health journey\",\n      \"evidence_turn_ids\": [\"D4:6\"]\n    },\n    {\n      \"entity\": \"Sam\",\n      \"entity_type\": \"person\",\n      \"property\": \"dietary_change_plan\",\n      \"value\": \"reducing soda and candy intake\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current\",\n      \"evidence_turn_ids\": [\"D4:7\"]\n    },\n    {\n      \"entity\": \"Sam\",\n      \"entity_type\": \"person\",\n      \"property\": \"attitude\",\n      \"value\": \"determined to make a change despite difficulty\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current\",\n      \"evidence_turn_ids\": [\"D4:7\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 829,
+        "completion_tokens": 446,
+        "total_tokens": 1275,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-49::session_4::episode-003",
+    "stage": "entity_property_extraction",
+    "call_id": "d788c1af-5ed8-4ce2-9df6-7158e289f909",
+    "latency_seconds": 4.604938917000027,
+    "response": {
+      "id": "chatcmpl-EZz8p5xdMNsaEZ0KzI3FY3ePlEF9k",
+      "object": "chat.completion",
+      "created": 1792245215,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"suggestion\",\n      \"value\": \"try flavored seltzer water as a great alternative to soda\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"10:52 am on 27 July, 2023\",\n      \"evidence_turn_ids\": [\"D4:8\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"current_novel\",\n      \"value\": \"\\\"The Great Gatsby\\\"\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"10:52 am on 27 July, 2023\",\n      \"evidence_turn_ids\": [\"D4:8\", \"D4:10\"]\n    },\n    {\n      \"entity\": \"Sam\",\n      \"entity_type\": \"person\",\n      \"property\": \"past_experience\",\n      \"value\": \"tried flavored seltzer water before and it was nice\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"10:52 am on 27 July, 2023\",\n      \"evidence_turn_ids\": [\"D4:9\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"suggested_snacks\",\n      \"value\": \"air-popped popcorn or fruit as low-calorie snacks to pair with flavored seltzer\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"10:52 am on 27 July, 2023\",\n      \"evidence_turn_ids\": [\"D4:10\"]\n    },\n    {\n      \"entity\": \"Sam\",\n      \"entity_type\": \"person\",\n      \"property\": \"intent_to_read\",\n      \"value\": \"intend to read \\\"The Great Gatsby\\\" sometime\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"10:52 am on 27 July, 2023\",\n      \"evidence_turn_ids\": [\"D4:11\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"advice\",\n      \"value\": \"focus on healthy swaps and taking small steps\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"10:52 am on 27 July, 2023\",\n      \"evidence_turn_ids\": [\"D4:12\"]\n    },\n    {\n      \"entity\": \"Sam\",\n      \"entity_type\": \"person\",\n      \"property\": \"reaction_to_advice\",\n      \"value\": \"feels inspired by reminder to focus on progress, not perfection\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"10:52 am on 27 July, 2023\",\n      \"evidence_turn_ids\": [\"D4:13\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1001,
+        "completion_tokens": 619,
+        "total_tokens": 1620,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-49::session_4::episode-004",
+    "stage": "entity_property_extraction",
+    "call_id": "52668b10-e580-46fc-8ccd-c7616b178677",
+    "latency_seconds": 2.3132226670001046,
+    "response": {
+      "id": "chatcmpl-EZz8tJCG0bfO2syhVamlIyH5iL4OB",
+      "object": "chat.completion",
+      "created": 1792245219,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"exercise\",\n      \"entity_type\": \"activity\",\n      \"property\": \"importance\",\n      \"value\": \"just as important as eating right\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D4:14\"]\n    },\n    {\n      \"entity\": \"Sam\",\n      \"entity_type\": \"person\",\n      \"property\": \"plan\",\n      \"value\": \"go to the gym and exercise regularly starting tomorrow\",\n      \"modality\": \"planned\",\n      \"valid_time\": \"starting tomorrow from 10:52 am on 27 July, 2023\",\n      \"evidence_turn_ids\": [\"D4:15\"]\n    },\n    {\n      \"entity\": \"exercise\",\n      \"entity_type\": \"activity\",\n      \"property\": \"characteristic\",\n      \"value\": \"rewarding and tough\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D4:16\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 648,
+        "completion_tokens": 225,
+        "total_tokens": 873,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-49::session_4::episode-005",
+    "stage": "entity_property_extraction",
+    "call_id": "8c9f8bf0-56e5-4632-b068-ebed4289d2ec",
+    "latency_seconds": 1.8046435410001322,
+    "response": {
+      "id": "chatcmpl-EZz8vrniL7pltR431OI1L1LwH90Jk",
+      "object": "chat.completion",
+      "created": 1792245221,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"provides_support_to\",\n      \"value\": \"Sam\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"10:52 am on 27 July, 2023\",\n      \"evidence_turn_ids\": [\"D4:17\", \"D4:18\", \"D4:20\"]\n    },\n    {\n      \"entity\": \"Sam\",\n      \"entity_type\": \"person\",\n      \"property\": \"expresses_appreciation_to\",\n      \"value\": \"Evan\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"10:52 am on 27 July, 2023\",\n      \"evidence_turn_ids\": [\"D4:17\", \"D4:19\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 633,
+        "completion_tokens": 185,
+        "total_tokens": 818,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-49::session_5::episode-001",
+    "stage": "entity_property_extraction",
+    "call_id": "98cd3bd0-b7b4-422a-886c-1e5b14fc09a6",
+    "latency_seconds": 3.54145795799991,
+    "response": {
+      "id": "chatcmpl-EZz8xtx85tKVk5RjVblcMAJrYr6a1",
+      "object": "chat.completion",
+      "created": 1792245223,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"trip_location\",\n      \"value\": \"Canada\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last week before 7 August 2023\",\n      \"evidence_turn_ids\": [\"D5:1\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"met_person\",\n      \"value\": \"awesome Canadian woman\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last week before 7 August 2023\",\n      \"evidence_turn_ids\": [\"D5:1\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"feeling_with_person\",\n      \"value\": \"makes me feel alive\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last week before 7 August 2023\",\n      \"evidence_turn_ids\": [\"D5:1\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"dealing_with\",\n      \"value\": \"health issues lately\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"recently before 7 August 2023\",\n      \"evidence_turn_ids\": [\"D5:2\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"experience_with_person\",\n      \"value\": \"every moment with her is really fun and energizing\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current as of 7 August 2023\",\n      \"evidence_turn_ids\": [\"D5:3\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"feeling_change\",\n      \"value\": \"nice change especially after dealing with health issues\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current as of 7 August 2023\",\n      \"evidence_turn_ids\": [\"D5:3\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 905,
+        "completion_tokens": 475,
+        "total_tokens": 1380,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-49::session_5::episode-002",
+    "stage": "entity_property_extraction",
+    "call_id": "99281ff8-ea7e-4f68-bdb1-d1e2f9d84b6c",
+    "latency_seconds": 3.453917833000105,
+    "response": {
+      "id": "chatcmpl-EZz91F4CVbO8nkoLdQIOdizrxWjmR",
+      "object": "chat.completion",
+      "created": 1792245227,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Sam\",\n      \"entity_type\": \"person\",\n      \"property\": \"opinion_health_problems\",\n      \"value\": \"Dealing with health problems can be challenging and take away from enjoyable experiences\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D5:4\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"favorite_snack\",\n      \"value\": \"Ginger snaps\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D5:5\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"experience_health_issues\",\n      \"value\": \"Dealing with health issues has been tough\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D5:5\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"appreciation_good_moments\",\n      \"value\": \"Health issues have made me appreciate the good moments more\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D5:5\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"source_of_joy\",\n      \"value\": \"These (the good moments) bring lots of joy even through the hard times\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D5:5\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 687,
+        "completion_tokens": 381,
+        "total_tokens": 1068,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-49::session_5::episode-003",
+    "stage": "entity_property_extraction",
+    "call_id": "a922b053-ceff-4633-8b1d-2a5edb913c67",
+    "latency_seconds": 1.6611406660001649,
+    "response": {
+      "id": "chatcmpl-EZz943wPeD8jRm2jTWoBTm34nh1eW",
+      "object": "chat.completion",
+      "created": 1792245230,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"child_emotional_impact\",\n      \"value\": \"Evan's kids bring him such joy\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current\",\n      \"evidence_turn_ids\": [\"D5:7\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"health_prioritization_duration\",\n      \"value\": \"two years with ups and downs\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last two years\",\n      \"evidence_turn_ids\": [\"D5:7\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 650,
+        "completion_tokens": 159,
+        "total_tokens": 809,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-49::session_5::episode-004",
+    "stage": "entity_property_extraction",
+    "call_id": "03df7ec1-d60b-4306-adf1-f437e50bc7b5",
+    "latency_seconds": 2.992754290999983,
+    "response": {
+      "id": "chatcmpl-EZz96xhXdAwjv8W2ZvOdKYRZ1PWef",
+      "object": "chat.completion",
+      "created": 1792245232,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"motivated_by\",\n      \"value\": \"family\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current\",\n      \"evidence_turn_ids\": [\"D5:9\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"uses_device\",\n      \"value\": \"fitness tracker\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current\",\n      \"evidence_turn_ids\": [\"D5:9\"]\n    },\n    {\n      \"entity\": \"fitness tracker\",\n      \"entity_type\": \"object\",\n      \"property\": \"function\",\n      \"value\": \"tracks progress and serves as a constant reminder for health goals\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current\",\n      \"evidence_turn_ids\": [\"D5:9\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"health_goal_tracking_effectiveness\",\n      \"value\": \"helps a lot\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current\",\n      \"evidence_turn_ids\": [\"D5:9\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"motivated_by_device\",\n      \"value\": \"visual reminder\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current\",\n      \"evidence_turn_ids\": [\"D5:11\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 744,
+        "completion_tokens": 353,
+        "total_tokens": 1097,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-49::session_5::episode-005",
+    "stage": "entity_property_extraction",
+    "call_id": "01a0e296-5914-46d8-8e41-18709bf9b2ee",
+    "latency_seconds": 2.78211254200005,
+    "response": {
+      "id": "chatcmpl-EZz99YSwzhUaHyf560eDpYWFa5UsX",
+      "object": "chat.completion",
+      "created": 1792245235,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"motivation\",\n      \"value\": \"a thirst for adventure on interesting hikes\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"at 7:52 pm on 7 August, 2023\",\n      \"evidence_turn_ids\": [\"D5:13\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"advice_about_motivation\",\n      \"value\": \"Find something that motivates you and makes you happy, whether it's large or tiny\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"at 7:52 pm on 7 August, 2023\",\n      \"evidence_turn_ids\": [\"D5:15\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"motivation_effect\",\n      \"value\": \"It'll help us conquer the struggles we encounter\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"at 7:52 pm on 7 August, 2023\",\n      \"evidence_turn_ids\": [\"D5:15\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 795,
+        "completion_tokens": 276,
+        "total_tokens": 1071,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-49::session_5::episode-006",
+    "stage": "entity_property_extraction",
+    "call_id": "bce8b062-ca06-445c-85f8-6cd1c0b4d501",
+    "latency_seconds": 13.890806417000022,
+    "response": {
+      "id": "chatcmpl-EZz9NuBpzVAwbBYFHmGHcewBIyDu3",
+      "object": "chat.completion",
+      "created": 1792245249,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"has_object\",\n      \"value\": \"an object symbolizing strength and resilience\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"at the time of conversation\",\n      \"evidence_turn_ids\": [\"D5:17\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"reason_for_getting_object\",\n      \"value\": \"symbolizes strength and resilience\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"at the time of conversation\",\n      \"evidence_turn_ids\": [\"D5:17\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"object_care_effect\",\n      \"value\": \"motivates me to keep going through tough times\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"at the time of conversation\",\n      \"evidence_turn_ids\": [\"D5:17\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"object_reminder_message\",\n      \"value\": \"even in little things, we can be tough\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"at the time of conversation\",\n      \"evidence_turn_ids\": [\"D5:19\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 766,
+        "completion_tokens": 318,
+        "total_tokens": 1084,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-49::session_5::episode-007",
+    "stage": "entity_property_extraction",
+    "call_id": "122523f3-274c-4cc2-957a-91be6b9e9810",
+    "latency_seconds": 3.5195937089999916,
+    "response": {
+      "id": "chatcmpl-EZz9QcTtgpc1GtEphJKrwLHRWCS09",
+      "object": "chat.completion",
+      "created": 1792245252,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"expressed_support_to\",\n      \"value\": \"Sam\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"7:52 pm on 7 August, 2023\",\n      \"evidence_turn_ids\": [\"D5:23\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"stated_importance_of\",\n      \"value\": \"consistency and perseverance\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"7:52 pm on 7 August, 2023\",\n      \"evidence_turn_ids\": [\"D5:23\"]\n    },\n    {\n      \"entity\": \"Evan and Sam\",\n      \"entity_type\": \"person\",\n      \"property\": \"had_chat\",\n      \"value\": \"great chat\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"7:52 pm on 7 August, 2023\",\n      \"evidence_turn_ids\": [\"D5:23\"]\n    },\n    {\n      \"entity\": \"Sam\",\n      \"entity_type\": \"person\",\n      \"property\": \"said_goodbye_to\",\n      \"value\": \"Sam\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"7:52 pm on 7 August, 2023\",\n      \"evidence_turn_ids\": [\"D5:24\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"said_goodbye\",\n      \"value\": \"Catch ya later\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"7:52 pm on 7 August, 2023\",\n      \"evidence_turn_ids\": [\"D5:25\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 595,
+        "completion_tokens": 404,
+        "total_tokens": 999,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-49::session_6::episode-001",
+    "stage": "entity_property_extraction",
+    "call_id": "bb8612b0-8c78-4d56-aca4-e39012c9243d",
+    "latency_seconds": 3.522767040999952,
+    "response": {
+      "id": "chatcmpl-EZz9TzvKeGP80rW4WYyCMnvkb3rTN",
+      "object": "chat.completion",
+      "created": 1792245255,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"recent_activity\",\n      \"value\": \"vacation in Canada\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"recent past before 4:09 pm on 13 August, 2023\",\n      \"evidence_turn_ids\": [\"D6:1\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"travel_companion\",\n      \"value\": \"new significant other\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"recent past before 4:09 pm on 13 August, 2023\",\n      \"evidence_turn_ids\": [\"D6:1\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"activities_done\",\n      \"value\": [\"hiking\", \"biking\"],\n      \"modality\": \"observed\",\n      \"valid_time\": \"recent past before 4:09 pm on 13 August, 2023\",\n      \"evidence_turn_ids\": [\"D6:1\"]\n    },\n    {\n      \"entity\": \"Evan\",\n      \"entity_type\": \"person\",\n      \"property\": \"experience\",\n      \"value\": \"enjoyed exploring outdoors in Canada\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"recent past before 4:09 pm on 13 August, 2023\",\n      \"evidence_turn_ids\": [\"D6:1\"]\n    },\n    {\n      \"entity\": \"Sam\",\n      \"entity_type\": \"person\",\n      \"property\": \"health_status\",\n      \"value\": \"challenging recently\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"recent past as of 4:09 pm on 13 August, 2023\",\n      \"evidence_turn_ids\": [\"D6:2\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 694,
+        "completion_tokens": 427,
+        "total_tokens": 1121,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  }
+]

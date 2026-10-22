@@ -1,0 +1,542 @@
+[
+  {
+    "entity": "Tim",
+    "entity_type": "person",
+    "property": "working_on_project",
+    "value": "Harry Potter fan project",
+    "modality": "observed",
+    "valid_time": "around 7:48 pm on 21 May, 2023",
+    "evidence_turn_ids": [
+      "D1:2"
+    ],
+    "record_id": "offline-memory-4950e293ffa6::r000001",
+    "episode_id": "conv-43::session_1::episode-001",
+    "conversation_id": "conv-43",
+    "session_id": "session_1",
+    "observed_at": "2023-05-21T19:48:00",
+    "source_timestamp": "7:48 pm on 21 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Tim",
+    "entity_type": "person",
+    "property": "discussing",
+    "value": "collaborations for Harry Potter fan project",
+    "modality": "observed",
+    "valid_time": "around 7:48 pm on 21 May, 2023",
+    "evidence_turn_ids": [
+      "D1:2"
+    ],
+    "record_id": "offline-memory-4950e293ffa6::r000002",
+    "episode_id": "conv-43::session_1::episode-001",
+    "conversation_id": "conv-43",
+    "session_id": "session_1",
+    "observed_at": "2023-05-21T19:48:00",
+    "source_timestamp": "7:48 pm on 21 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "John",
+    "entity_type": "person",
+    "property": "signed_with",
+    "value": "new team",
+    "modality": "observed",
+    "valid_time": "around 7:48 pm on 21 May, 2023",
+    "evidence_turn_ids": [
+      "D1:3"
+    ],
+    "record_id": "offline-memory-4950e293ffa6::r000003",
+    "episode_id": "conv-43::session_1::episode-001",
+    "conversation_id": "conv-43",
+    "session_id": "session_1",
+    "observed_at": "2023-05-21T19:48:00",
+    "source_timestamp": "7:48 pm on 21 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "John",
+    "entity_type": "person",
+    "property": "feeling",
+    "value": "excited for the season",
+    "modality": "observed",
+    "valid_time": "around 7:48 pm on 21 May, 2023",
+    "evidence_turn_ids": [
+      "D1:3"
+    ],
+    "record_id": "offline-memory-4950e293ffa6::r000004",
+    "episode_id": "conv-43::session_1::episode-001",
+    "conversation_id": "conv-43",
+    "session_id": "session_1",
+    "observed_at": "2023-05-21T19:48:00",
+    "source_timestamp": "7:48 pm on 21 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "John",
+    "entity_type": "person",
+    "property": "signed_with_team",
+    "value": "Minnesota Wolves",
+    "modality": "observed",
+    "valid_time": "at conversation time",
+    "evidence_turn_ids": [
+      "D1:5"
+    ],
+    "record_id": "offline-memory-4950e293ffa6::r000005",
+    "episode_id": "conv-43::session_1::episode-002",
+    "conversation_id": "conv-43",
+    "session_id": "session_1",
+    "observed_at": "2023-05-21T19:48:00",
+    "source_timestamp": "7:48 pm on 21 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "John",
+    "entity_type": "person",
+    "property": "position",
+    "value": "shooting guard",
+    "modality": "observed",
+    "valid_time": "at conversation time",
+    "evidence_turn_ids": [
+      "D1:7"
+    ],
+    "record_id": "offline-memory-4950e293ffa6::r000006",
+    "episode_id": "conv-43::session_1::episode-002",
+    "conversation_id": "conv-43",
+    "session_id": "session_1",
+    "observed_at": "2023-05-21T19:48:00",
+    "source_timestamp": "7:48 pm on 21 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "John",
+    "entity_type": "person",
+    "property": "season_opener_time",
+    "value": "next week",
+    "modality": "observed",
+    "valid_time": "relative to conversation time",
+    "evidence_turn_ids": [
+      "D1:7"
+    ],
+    "record_id": "offline-memory-4950e293ffa6::r000007",
+    "episode_id": "conv-43::session_1::episode-002",
+    "conversation_id": "conv-43",
+    "session_id": "session_1",
+    "observed_at": "2023-05-21T19:48:00",
+    "source_timestamp": "7:48 pm on 21 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "John",
+    "entity_type": "person",
+    "property": "goal",
+    "value": "improve shooting percentage",
+    "modality": "observed",
+    "valid_time": "at conversation time",
+    "evidence_turn_ids": [
+      "D1:9"
+    ],
+    "record_id": "offline-memory-4950e293ffa6::r000008",
+    "episode_id": "conv-43::session_1::episode-002",
+    "conversation_id": "conv-43",
+    "session_id": "session_1",
+    "observed_at": "2023-05-21T19:48:00",
+    "source_timestamp": "7:48 pm on 21 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "John",
+    "entity_type": "person",
+    "property": "preseason_challenge",
+    "value": "fitting into the new team's style of play",
+    "modality": "observed",
+    "valid_time": "pre-season",
+    "evidence_turn_ids": [
+      "D1:11"
+    ],
+    "record_id": "offline-memory-4950e293ffa6::r000009",
+    "episode_id": "conv-43::session_1::episode-002",
+    "conversation_id": "conv-43",
+    "session_id": "session_1",
+    "observed_at": "2023-05-21T19:48:00",
+    "source_timestamp": "7:48 pm on 21 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "John",
+    "entity_type": "person",
+    "property": "team_relationship",
+    "value": "team has been really nice and having fun",
+    "modality": "observed",
+    "valid_time": "at conversation time",
+    "evidence_turn_ids": [
+      "D1:13"
+    ],
+    "record_id": "offline-memory-4950e293ffa6::r000010",
+    "episode_id": "conv-43::session_1::episode-002",
+    "conversation_id": "conv-43",
+    "session_id": "session_1",
+    "observed_at": "2023-05-21T19:48:00",
+    "source_timestamp": "7:48 pm on 21 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Tim",
+    "entity_type": "person",
+    "property": "fan_project_topic",
+    "value": "Harry Potter universe",
+    "modality": "observed",
+    "valid_time": "last week before 7:48 pm on 21 May, 2023",
+    "evidence_turn_ids": [
+      "D1:14"
+    ],
+    "record_id": "offline-memory-4950e293ffa6::r000011",
+    "episode_id": "conv-43::session_1::episode-003",
+    "conversation_id": "conv-43",
+    "session_id": "session_1",
+    "observed_at": "2023-05-21T19:48:00",
+    "source_timestamp": "7:48 pm on 21 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Tim",
+    "entity_type": "person",
+    "property": "fan_project_collaborators",
+    "value": "a friend who is a fan of Harry Potter",
+    "modality": "observed",
+    "valid_time": "last week before 7:48 pm on 21 May, 2023",
+    "evidence_turn_ids": [
+      "D1:14"
+    ],
+    "record_id": "offline-memory-4950e293ffa6::r000012",
+    "episode_id": "conv-43::session_1::episode-003",
+    "conversation_id": "conv-43",
+    "session_id": "session_1",
+    "observed_at": "2023-05-21T19:48:00",
+    "source_timestamp": "7:48 pm on 21 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Tim",
+    "entity_type": "person",
+    "property": "fan_project_discussion_topics",
+    "value": "characters, spells, and magical creatures",
+    "modality": "observed",
+    "valid_time": "around 7:48 pm on 21 May, 2023",
+    "evidence_turn_ids": [
+      "D1:16"
+    ],
+    "record_id": "offline-memory-4950e293ffa6::r000013",
+    "episode_id": "conv-43::session_1::episode-003",
+    "conversation_id": "conv-43",
+    "session_id": "session_1",
+    "observed_at": "2023-05-21T19:48:00",
+    "source_timestamp": "7:48 pm on 21 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Tim",
+    "entity_type": "person",
+    "property": "visited_place",
+    "value": "a Harry Potter-related place in London",
+    "modality": "observed",
+    "valid_time": "a few years ago before 7:48 pm on 21 May, 2023",
+    "evidence_turn_ids": [
+      "D1:18"
+    ],
+    "record_id": "offline-memory-4950e293ffa6::r000014",
+    "episode_id": "conv-43::session_1::episode-003",
+    "conversation_id": "conv-43",
+    "session_id": "session_1",
+    "observed_at": "2023-05-21T19:48:00",
+    "source_timestamp": "7:48 pm on 21 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Tim",
+    "entity_type": "person",
+    "property": "visited_activity",
+    "value": "Harry Potter tour",
+    "modality": "observed",
+    "valid_time": "a few years ago before 7:48 pm on 21 May, 2023",
+    "evidence_turn_ids": [
+      "D1:18"
+    ],
+    "record_id": "offline-memory-4950e293ffa6::r000015",
+    "episode_id": "conv-43::session_1::episode-003",
+    "conversation_id": "conv-43",
+    "session_id": "session_1",
+    "observed_at": "2023-05-21T19:48:00",
+    "source_timestamp": "7:48 pm on 21 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "John",
+    "entity_type": "person",
+    "property": "visited_place",
+    "value": "no Harry Potter-related places",
+    "modality": "negated",
+    "valid_time": "as of 7:48 pm on 21 May, 2023",
+    "evidence_turn_ids": [
+      "D1:19"
+    ],
+    "record_id": "offline-memory-4950e293ffa6::r000016",
+    "episode_id": "conv-43::session_1::episode-003",
+    "conversation_id": "conv-43",
+    "session_id": "session_1",
+    "observed_at": "2023-05-21T19:48:00",
+    "source_timestamp": "7:48 pm on 21 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "John",
+    "entity_type": "person",
+    "property": "planned_places_to_visit",
+    "value": "Harry Potter-related places",
+    "modality": "planned",
+    "valid_time": "future relative to 7:48 pm on 21 May, 2023",
+    "evidence_turn_ids": [
+      "D1:19"
+    ],
+    "record_id": "offline-memory-4950e293ffa6::r000017",
+    "episode_id": "conv-43::session_1::episode-003",
+    "conversation_id": "conv-43",
+    "session_id": "session_1",
+    "observed_at": "2023-05-21T19:48:00",
+    "source_timestamp": "7:48 pm on 21 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Tim",
+    "entity_type": "person",
+    "property": "joined_forum",
+    "value": "fantasy literature forum",
+    "modality": "observed",
+    "valid_time": "last night relative to 2023-06-15T17:08:00",
+    "evidence_turn_ids": [
+      "D2:1"
+    ],
+    "record_id": "offline-memory-4950e293ffa6::r000018",
+    "episode_id": "conv-43::session_2::episode-001",
+    "conversation_id": "conv-43",
+    "session_id": "session_2",
+    "observed_at": "2023-06-15T17:08:00",
+    "source_timestamp": "5:08 pm on 15 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Tim",
+    "entity_type": "person",
+    "property": "participated_in",
+    "value": "great talk about his favorite books",
+    "modality": "observed",
+    "valid_time": "last night relative to 2023-06-15T17:08:00",
+    "evidence_turn_ids": [
+      "D2:1"
+    ],
+    "record_id": "offline-memory-4950e293ffa6::r000019",
+    "episode_id": "conv-43::session_2::episode-001",
+    "conversation_id": "conv-43",
+    "session_id": "session_2",
+    "observed_at": "2023-06-15T17:08:00",
+    "source_timestamp": "5:08 pm on 15 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Tim",
+    "entity_type": "person",
+    "property": "felt_enriched",
+    "value": "great talk about favorite books",
+    "modality": "observed",
+    "valid_time": "last night relative to 2023-06-15T17:08:00",
+    "evidence_turn_ids": [
+      "D2:1"
+    ],
+    "record_id": "offline-memory-4950e293ffa6::r000020",
+    "episode_id": "conv-43::session_2::episode-001",
+    "conversation_id": "conv-43",
+    "session_id": "session_2",
+    "observed_at": "2023-06-15T17:08:00",
+    "source_timestamp": "5:08 pm on 15 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "John",
+    "entity_type": "person",
+    "property": "exploring_endorsement_opportunities",
+    "value": "true",
+    "modality": "observed",
+    "valid_time": "around 5:08 pm on 15 June, 2023",
+    "evidence_turn_ids": [
+      "D2:2"
+    ],
+    "record_id": "offline-memory-4950e293ffa6::r000021",
+    "episode_id": "conv-43::session_2::episode-002",
+    "conversation_id": "conv-43",
+    "session_id": "session_2",
+    "observed_at": "2023-06-15T17:08:00",
+    "source_timestamp": "5:08 pm on 15 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "John",
+    "entity_type": "person",
+    "property": "interested_brands",
+    "value": "sports brands like Nike and Under Armour",
+    "modality": "observed",
+    "valid_time": "around 5:08 pm on 15 June, 2023",
+    "evidence_turn_ids": [
+      "D2:4"
+    ],
+    "record_id": "offline-memory-4950e293ffa6::r000022",
+    "episode_id": "conv-43::session_2::episode-002",
+    "conversation_id": "conv-43",
+    "session_id": "session_2",
+    "observed_at": "2023-06-15T17:08:00",
+    "source_timestamp": "5:08 pm on 15 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "John",
+    "entity_type": "person",
+    "property": "open_to_other_brands",
+    "value": "brands that align with his values and interests",
+    "modality": "observed",
+    "valid_time": "around 5:08 pm on 15 June, 2023",
+    "evidence_turn_ids": [
+      "D2:4"
+    ],
+    "record_id": "offline-memory-4950e293ffa6::r000023",
+    "episode_id": "conv-43::session_2::episode-002",
+    "conversation_id": "conv-43",
+    "session_id": "session_2",
+    "observed_at": "2023-06-15T17:08:00",
+    "source_timestamp": "5:08 pm on 15 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "John",
+    "entity_type": "person",
+    "property": "intention_to_update",
+    "value": "will keep Tim updated on which brands he chooses",
+    "modality": "observed",
+    "valid_time": "around 5:08 pm on 15 June, 2023",
+    "evidence_turn_ids": [
+      "D2:6"
+    ],
+    "record_id": "offline-memory-4950e293ffa6::r000024",
+    "episode_id": "conv-43::session_2::episode-002",
+    "conversation_id": "conv-43",
+    "session_id": "session_2",
+    "observed_at": "2023-06-15T17:08:00",
+    "source_timestamp": "5:08 pm on 15 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Tim",
+    "entity_type": "person",
+    "property": "book_collection",
+    "value": "a collection of books visible on a bookshelf",
+    "modality": "observed",
+    "valid_time": "around 5:08 pm on 15 June, 2023",
+    "evidence_turn_ids": [
+      "D2:7"
+    ],
+    "record_id": "offline-memory-4950e293ffa6::r000025",
+    "episode_id": "conv-43::session_2::episode-003",
+    "conversation_id": "conv-43",
+    "session_id": "session_2",
+    "observed_at": "2023-06-15T17:08:00",
+    "source_timestamp": "5:08 pm on 15 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Tim",
+    "entity_type": "person",
+    "property": "picture_origin",
+    "value": "a picture from MinaLima, creators of all props for the Harry Potter films",
+    "modality": "observed",
+    "valid_time": "around 5:08 pm on 15 June, 2023",
+    "evidence_turn_ids": [
+      "D2:9"
+    ],
+    "record_id": "offline-memory-4950e293ffa6::r000026",
+    "episode_id": "conv-43::session_2::episode-003",
+    "conversation_id": "conv-43",
+    "session_id": "session_2",
+    "observed_at": "2023-06-15T17:08:00",
+    "source_timestamp": "5:08 pm on 15 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Tim",
+    "entity_type": "person",
+    "property": "enthusiasm_for_props",
+    "value": "loves the work of MinaLima and enjoys having a piece of the wizarding world at home",
+    "modality": "observed",
+    "valid_time": "around 5:08 pm on 15 June, 2023",
+    "evidence_turn_ids": [
+      "D2:9"
+    ],
+    "record_id": "offline-memory-4950e293ffa6::r000027",
+    "episode_id": "conv-43::session_2::episode-003",
+    "conversation_id": "conv-43",
+    "session_id": "session_2",
+    "observed_at": "2023-06-15T17:08:00",
+    "source_timestamp": "5:08 pm on 15 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Tim",
+    "entity_type": "person",
+    "property": "reminder_purpose",
+    "value": "has lots of reminders to escape reality",
+    "modality": "observed",
+    "valid_time": "around 5:08 pm on 15 June, 2023",
+    "evidence_turn_ids": [
+      "D2:11"
+    ],
+    "record_id": "offline-memory-4950e293ffa6::r000028",
+    "episode_id": "conv-43::session_2::episode-003",
+    "conversation_id": "conv-43",
+    "session_id": "session_2",
+    "observed_at": "2023-06-15T17:08:00",
+    "source_timestamp": "5:08 pm on 15 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Tim",
+    "entity_type": "person",
+    "property": "reminder_help",
+    "value": "reminders really help him escape the daily grind",
+    "modality": "observed",
+    "valid_time": "around 5:08 pm on 15 June, 2023",
+    "evidence_turn_ids": [
+      "D2:13"
+    ],
+    "record_id": "offline-memory-4950e293ffa6::r000029",
+    "episode_id": "conv-43::session_2::episode-003",
+    "conversation_id": "conv-43",
+    "session_id": "session_2",
+    "observed_at": "2023-06-15T17:08:00",
+    "source_timestamp": "5:08 pm on 15 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Tim",
+    "entity_type": "person",
+    "property": "future_visits_planned",
+    "value": "plans to visit more Harry Potter related spots in the future",
+    "modality": "planned",
+    "valid_time": "future relative to 5:08 pm on 15 June, 2023",
+    "evidence_turn_ids": [
+      "D2:13"
+    ],
+    "record_id": "offline-memory-4950e293ffa6::r000030",
+    "episode_id": "conv-43::session_2::episode-003",
+    "conversation_id": "conv-43",
+    "session_id": "session_2",
+    "observed_at": "2023-06-15T17:08:00",
+    "source_timestamp": "5:08 pm on 15 June, 2023",
+    "timezone_status": "unspecified"
+  }
+]

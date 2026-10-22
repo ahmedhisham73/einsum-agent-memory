@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "08ad48b3-ae66-4524-aa48-0baf9b8b24bb",
+    "response": {
+      "id": "chatcmpl-EZiztYl4qo1rgGXLmBMjDTsxFvX2v",
+      "object": "chat.completion",
+      "created": 1792183157,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Caroline\",\"property\":\"belief\",\"search\":\"search for statements or descriptions indicating Caroline's religious beliefs or spirituality\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2677,
+        "completion_tokens": 33,
+        "total_tokens": 2710,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_f71325c40d"
+    },
+    "latency_seconds": 1.5565619169999998
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "701a4b91-b6df-460b-80a0-173924e97623",
+    "response": {
+      "id": "chatcmpl-EZizvm0NGT6VqT0vcDxrwdhpF3ype",
+      "object": "chat.completion",
+      "created": 1792183159,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"No, there is no information indicating Caroline is religious or holds specific religious beliefs.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_14::episode-005\",\"turn_id\":\"D14:19\"},{\"episode_id\":\"conv-26::session_14::episode-005\",\"turn_id\":\"D14:17\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3973,
+        "completion_tokens": 75,
+        "total_tokens": 4048,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_38f508f26a"
+    },
+    "latency_seconds": 1.9021698339999995
+  }
+]

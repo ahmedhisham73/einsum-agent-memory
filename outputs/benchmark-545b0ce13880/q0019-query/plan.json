@@ -1,0 +1,20 @@
+{
+  "scope": "all_matching",
+  "requirements": [
+    {
+      "entity": "Melanie",
+      "property": "camping_activities",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Melanie",
+      "property": "family_camping_trip",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Melanie",
+      "property": "enjoyed_place",
+      "search": "standalone evidence search"
+    }
+  ]
+}

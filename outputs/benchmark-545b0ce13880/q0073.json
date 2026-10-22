@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-26::q0073",
+  "category": 2,
+  "question": "When did Melanie's friend adopt a child?",
+  "gold_answer": 2022,
+  "status": "failed",
+  "error": "Query failed. See q0073.log"
+}

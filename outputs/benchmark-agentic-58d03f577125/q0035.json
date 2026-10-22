@@ -1,0 +1,25 @@
+{
+  "question_id": "conv-26::q0035",
+  "category": 1,
+  "question": "What events has Caroline participated in to help children?",
+  "gold_answer": "Mentoring program, school speech",
+  "status": "scored",
+  "generated_answer": "Caroline has participated in events and activities to help children by researching adoption agencies to give loving homes to kids in need, volunteering at an LGBTQ+ youth center where she supports and guides young people facing challenges, and organizing a talent show for the kids at the youth center. These activities demonstrate her commitment to creating a supportive community and making a positive difference in children's lives.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_2::chunk-0005",
+      "turn_id": "D2:8"
+    },
+    {
+      "episode_id": "conv-26::session_15::chunk-0000",
+      "turn_id": "D15:3"
+    },
+    {
+      "episode_id": "conv-26::session_15::chunk-0005",
+      "turn_id": "D15:11"
+    }
+  ],
+  "query_elapsed_seconds": 5.368625583,
+  "label": "WRONG",
+  "judge_reason": "The generated answer provides activities that are not mentioned in the reference answer and does not align with the specific events listed."
+}

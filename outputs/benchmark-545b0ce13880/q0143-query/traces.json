@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "aabdcbfe-cdd6-4343-b107-a56c633d7000",
+    "response": {
+      "id": "chatcmpl-EZkr2zsXZe9L7e4ipbuuWtL8cBgfO",
+      "object": "chat.completion",
+      "created": 1792190296,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Melanie and Caroline\",\"property\":\"shares_journey_with\",\"search\":\"standalone evidence search\"},{\"entity\":\"Melanie and Caroline\",\"property\":\"says\",\"search\":\"description of their journey through life together\"},{\"entity\":\"\",\"property\":\"relationship_support_experience\",\"search\":\"how Melanie and Caroline experienced support in their journey\"},{\"entity\":\"\",\"property\":\"emotional_state_about_relationships\",\"search\":\"emotional description of their journey together\"},{\"entity\":\"\",\"property\":\"personal_reflection\",\"search\":\"Melanie and Caroline's personal reflections on life journey together\"},{\"entity\":\"\",\"property\":\"relationship_change_due_to_journey\",\"search\":\"any changes in their relationship due to their journey\"},{\"entity\":\"\",\"property\":\"sentiment\",\"search\":\"sentiments expressed by Melanie and Caroline about life together\"},{\"entity\":\"\",\"property\":\"emotional_reaction\",\"search\":\"emotional reactions from Melanie and Caroline regarding their shared life journey\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2683,
+        "completion_tokens": 183,
+        "total_tokens": 2866,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_f95c341f4b"
+    },
+    "latency_seconds": 2.0642207499999996
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "0c3c9d6b-c232-488c-b7ce-aecd7e3d6350",
+    "response": {
+      "id": "chatcmpl-EZkr417pozBifiMKRRG9cAWmOQ1Dq",
+      "object": "chat.completion",
+      "created": 1792190298,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Melanie and Caroline describe their journey through life together as one of mutual support, acceptance, and shared growth. They express a deep appreciation for friendship and community, helping each other through challenges like transition and family-building journeys. Caroline reflects on how her journey has changed her relationships, making them more genuine and supported by love. They both highlight the importance of sharing stories, creating memories, and supporting each other to foster happiness, peace, and resilience. Their sentiments about life are positive, hopeful, and motivated by love, acceptance, and a desire to give back to others, especially through Caroline's adoption process and advocacy efforts. They experience emotional reactions of pride, joy, hope, and gratitude in their shared journey, noting how difficult moments are made easier with support and how their friendship gives strength and encouragement.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_3::episode-001\",\"turn_id\":\"D3:1\"},{\"episode_id\":\"conv-26::session_3::episode-001\",\"turn_id\":\"D3:5\"},{\"episode_id\":\"conv-26::session_3::episode-001\",\"turn_id\":\"D3:9\"},{\"episode_id\":\"conv-26::session_6::episode-016\",\"turn_id\":\"D6:16\"},{\"episode_id\":\"conv-26::session_16::episode-006\",\"turn_id\":\"D16:15\"},{\"episode_id\":\"conv-26::session_19::episode-003\",\"turn_id\":\"D19:9\"},{\"episode_id\":\"conv-26::session_19::episode-003\",\"turn_id\":\"D19:11\"},{\"episode_id\":\"conv-26::session_3::episode-001\",\"turn_id\":\"D3:8\"},{\"episode_id\":\"conv-26::session_8::episode-005\",\"turn_id\":\"D8:37\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 13555,
+        "completion_tokens": 380,
+        "total_tokens": 13935,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_38f508f26a"
+    },
+    "latency_seconds": 3.5962042919999995
+  }
+]

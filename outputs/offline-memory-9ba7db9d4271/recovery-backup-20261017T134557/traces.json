@@ -1,0 +1,2900 @@
+[
+  {
+    "source_id": "session_1",
+    "stage": "episode_partitioning",
+    "call_id": "3330b3b1-93c9-457e-9cbf-7f6d4b79ad2e",
+    "latency_seconds": 2.404908083,
+    "response": {
+      "id": "chatcmpl-EZtPG0KDQRLHASWvAM2L1PjtxAS4o",
+      "object": "chat.completion",
+      "created": 1792223170,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D1:1\",\n      \"end_turn_id\": \"D1:3\",\n      \"theme\": \"Introductions and recent activities\"\n    },\n    {\n      \"start_turn_id\": \"D1:4\",\n      \"end_turn_id\": \"D1:7\",\n      \"theme\": \"Memories connected to mothers' houses\"\n    },\n    {\n      \"start_turn_id\": \"D1:8\",\n      \"end_turn_id\": \"D1:11\",\n      \"theme\": \"Meaning and symbolism of keepsake pendants\"\n    },\n    {\n      \"start_turn_id\": \"D1:12\",\n      \"end_turn_id\": \"D1:16\",\n      \"theme\": \"Goals and inspiration from yoga practice\"\n    },\n    {\n      \"start_turn_id\": \"D1:17\",\n      \"end_turn_id\": \"D1:18\",\n      \"theme\": \"Farewell and plans for future conversation\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1320,
+        "completion_tokens": 212,
+        "total_tokens": 1532,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_2",
+    "stage": "episode_partitioning",
+    "call_id": "ac75eb09-88a5-49e5-9bb4-870de28ff2f5",
+    "latency_seconds": 2.071398625,
+    "response": {
+      "id": "chatcmpl-EZtPJNwOy2iLGIs3pkxgbxeacdbKk",
+      "object": "chat.completion",
+      "created": 1792223173,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D2:1\",\n      \"end_turn_id\": \"D2:3\",\n      \"theme\": \"Deborah shares news of her father's passing and reflects on family memories\"\n    },\n    {\n      \"start_turn_id\": \"D2:4\",\n      \"end_turn_id\": \"D2:9\",\n      \"theme\": \"Discussion about Deborah's parents and her relationship, including a heartfelt letter\"\n    },\n    {\n      \"start_turn_id\": \"D2:10\",\n      \"end_turn_id\": \"D2:17\",\n      \"theme\": \"Yoga practice and sentimental connection to Deborah’s old home and her mother\"\n    },\n    {\n      \"start_turn_id\": \"D2:18\",\n      \"end_turn_id\": \"D2:25\",\n      \"theme\": \"Jolene shares about her pet snakes and their comforting role\"\n    },\n    {\n      \"start_turn_id\": \"D2:26\",\n      \"end_turn_id\": \"D2:30\",\n      \"theme\": \"Jolene discusses gaming activities with her partner\"\n    },\n    {\n      \"start_turn_id\": \"D2:31\",\n      \"end_turn_id\": \"D2:32\",\n      \"theme\": \"Closing well-wishes and farewells\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2190,
+        "completion_tokens": 281,
+        "total_tokens": 2471,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_3",
+    "stage": "episode_partitioning",
+    "call_id": "602d472b-8be0-4259-878d-b19d05b32cc7",
+    "latency_seconds": 1.85644,
+    "response": {
+      "id": "chatcmpl-EZtPLz92VYleWiKmy0BZThcYlgeBu",
+      "object": "chat.completion",
+      "created": 1792223175,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D3:1\",\n      \"end_turn_id\": \"D3:3\",\n      \"theme\": \"Jolene discusses her challenging but enjoyable robotics project\"\n    },\n    {\n      \"start_turn_id\": \"D3:4\",\n      \"end_turn_id\": \"D3:8\",\n      \"theme\": \"Deborah talks about meeting her new neighbor Anna at yoga\"\n    },\n    {\n      \"start_turn_id\": \"D3:9\",\n      \"end_turn_id\": \"D3:13\",\n      \"theme\": \"Discussion about yoga and Jolene's plans to play console games\"\n    },\n    {\n      \"start_turn_id\": \"D3:14\",\n      \"end_turn_id\": \"D3:15\",\n      \"theme\": \"Conversation closing and farewells\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1072,
+        "completion_tokens": 184,
+        "total_tokens": 1256,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_4",
+    "stage": "episode_partitioning",
+    "call_id": "85984b75-16a3-47aa-8416-3b6a88446924",
+    "latency_seconds": 3.4309466670000006,
+    "response": {
+      "id": "chatcmpl-EZtPOqOqpvJHdx8RuLgs8rwKfRjx0",
+      "object": "chat.completion",
+      "created": 1792223178,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D4:1\",\n      \"end_turn_id\": \"D4:11\",\n      \"theme\": \"Jolene's engineering milestone and career aspirations\"\n    },\n    {\n      \"start_turn_id\": \"D4:12\",\n      \"end_turn_id\": \"D4:18\",\n      \"theme\": \"Deborah's yoga practice and explaining poses\"\n    },\n    {\n      \"start_turn_id\": \"D4:19\",\n      \"end_turn_id\": \"D4:25\",\n      \"theme\": \"Books discussion and inspirational stories\"\n    },\n    {\n      \"start_turn_id\": \"D4:26\",\n      \"end_turn_id\": \"D4:30\",\n      \"theme\": \"Deborah's bouquet of flowers and their meaning\"\n    },\n    {\n      \"start_turn_id\": \"D4:31\",\n      \"end_turn_id\": \"D4:34\",\n      \"theme\": \"Favorite nature spots and the calming effect of nature\"\n    },\n    {\n      \"start_turn_id\": \"D4:35\",\n      \"end_turn_id\": \"D4:41\",\n      \"theme\": \"Personal reflections and sentimental keepsakes relating to family\"\n    },\n    {\n      \"start_turn_id\": \"D4:42\",\n      \"end_turn_id\": \"D4:44\",\n      \"theme\": \"Mutual encouragement and closing the conversation\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3116,
+        "completion_tokens": 303,
+        "total_tokens": 3419,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_5",
+    "stage": "episode_partitioning",
+    "call_id": "3369cd75-8753-4e47-ad93-cb137c88f07d",
+    "latency_seconds": 1.5779870000000003,
+    "response": {
+      "id": "chatcmpl-EZtPQ20Ly2wbr6dPXOl1qiiYyl1JI",
+      "object": "chat.completion",
+      "created": 1792223180,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D5:1\",\n      \"end_turn_id\": \"D5:5\",\n      \"theme\": \"Jolene shares her mini retreat experience and engineering accomplishments\"\n    },\n    {\n      \"start_turn_id\": \"D5:6\",\n      \"end_turn_id\": \"D5:13\",\n      \"theme\": \"Discussion and planning of a volunteer STEM program for underprivileged kids\"\n    },\n    {\n      \"start_turn_id\": \"D5:14\",\n      \"end_turn_id\": \"D5:17\",\n      \"theme\": \"Encouragement and mutual appreciation between Jolene and Deborah\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1246,
+        "completion_tokens": 146,
+        "total_tokens": 1392,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_6",
+    "stage": "episode_partitioning",
+    "call_id": "23e416e8-db7d-46ad-9489-6e2e1c5c5dab",
+    "latency_seconds": 2.4049457919999995,
+    "response": {
+      "id": "chatcmpl-EZtPShSt8wrLSzyAPG6Qdniunbl6W",
+      "object": "chat.completion",
+      "created": 1792223182,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D6:1\",\n      \"end_turn_id\": \"D6:3\",\n      \"theme\": \"Sharing recent personal experiences and appreciation of nature\"\n    },\n    {\n      \"start_turn_id\": \"D6:4\",\n      \"end_turn_id\": \"D6:8\",\n      \"theme\": \"Discussions on grief, memories, and coping with loss\"\n    },\n    {\n      \"start_turn_id\": \"D6:9\",\n      \"end_turn_id\": \"D6:15\",\n      \"theme\": \"Talking about travel experiences and interest in yoga on the beach\"\n    },\n    {\n      \"start_turn_id\": \"D6:16\",\n      \"end_turn_id\": \"D6:16\",\n      \"theme\": \"Closing remarks and well wishes\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1421,
+        "completion_tokens": 180,
+        "total_tokens": 1601,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_7",
+    "stage": "episode_partitioning",
+    "call_id": "6942b8fc-918b-4c03-94be-b720570a5c88",
+    "latency_seconds": 2.5169397919999987,
+    "response": {
+      "id": "chatcmpl-EZtPUeZ5IAQX5Y5JPbl1E3D26AJnq",
+      "object": "chat.completion",
+      "created": 1792223184,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D7:1\",\n      \"end_turn_id\": \"D7:3\",\n      \"theme\": \"Jolene's update on balancing engineering school, partner, and yoga practice\"\n    },\n    {\n      \"start_turn_id\": \"D7:4\",\n      \"end_turn_id\": \"D7:7\",\n      \"theme\": \"Discussion about Jolene's partner and their relationship status\"\n    },\n    {\n      \"start_turn_id\": \"D7:8\",\n      \"end_turn_id\": \"D7:11\",\n      \"theme\": \"How Jolene and her partner met and their collaboration in engineering projects\"\n    },\n    {\n      \"start_turn_id\": \"D7:12\",\n      \"end_turn_id\": \"D7:15\",\n      \"theme\": \"Benefits of yoga and meditation for stress relief and encouragement\"\n    },\n    {\n      \"start_turn_id\": \"D7:16\",\n      \"end_turn_id\": \"D7:22\",\n      \"theme\": \"Deborah's reflection on self-care routine and importance of exercise\"\n    },\n    {\n      \"start_turn_id\": \"D7:23\",\n      \"end_turn_id\": \"D7:23\",\n      \"theme\": \"Jolene acknowledges Deborah's support about self-care\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1708,
+        "completion_tokens": 283,
+        "total_tokens": 1991,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_8",
+    "stage": "episode_partitioning",
+    "call_id": "6fbff324-ee53-427b-92dc-e0529128d484",
+    "latency_seconds": 2.658798042000001,
+    "response": {
+      "id": "chatcmpl-EZtPXDOGIORnB9RL8EnXDpdjkfVMz",
+      "object": "chat.completion",
+      "created": 1792223187,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D8:1\",\n      \"end_turn_id\": \"D8:2\",\n      \"theme\": \"Favorite comforting dishes and food as pleasure\"\n    },\n    {\n      \"start_turn_id\": \"D8:3\",\n      \"end_turn_id\": \"D8:6\",\n      \"theme\": \"Finding personal time and relaxation practices\"\n    },\n    {\n      \"start_turn_id\": \"D8:7\",\n      \"end_turn_id\": \"D8:12\",\n      \"theme\": \"Enjoying the outdoors and appreciating nature\"\n    },\n    {\n      \"start_turn_id\": \"D8:13\",\n      \"end_turn_id\": \"D8:16\",\n      \"theme\": \"Mindfulness, stress, and managing overwhelming studies\"\n    },\n    {\n      \"start_turn_id\": \"D8:17\",\n      \"end_turn_id\": \"D8:20\",\n      \"theme\": \"Encouragement and study/time management advice\"\n    },\n    {\n      \"start_turn_id\": \"D8:21\",\n      \"end_turn_id\": \"D8:23\",\n      \"theme\": \"Well-wishing and exchanging motivational gifts\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1590,
+        "completion_tokens": 257,
+        "total_tokens": 1847,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_9",
+    "stage": "episode_partitioning",
+    "call_id": "3ae457cd-0286-4ce5-a1a4-f489fe97cac4",
+    "latency_seconds": 1.7202105000000003,
+    "response": {
+      "id": "chatcmpl-EZtPaD16XlcG4azsjb9kirZloUUJ1",
+      "object": "chat.completion",
+      "created": 1792223190,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D9:1\",\n      \"end_turn_id\": \"D9:11\",\n      \"theme\": \"Reconnecting and sharing about neighborhood yoga class and its benefits\"\n    },\n    {\n      \"start_turn_id\": \"D9:12\",\n      \"end_turn_id\": \"D9:20\",\n      \"theme\": \"Jolene discussing struggle with engineering assignments and arranging time management support\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1268,
+        "completion_tokens": 101,
+        "total_tokens": 1369,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_10",
+    "stage": "episode_partitioning",
+    "call_id": "6ff03e5b-ef7d-4c35-8c0a-bdebe6c35974",
+    "latency_seconds": 2.6296721250000026,
+    "response": {
+      "id": "chatcmpl-EZtPc2lGnkqSVxljTScYmvars1yXU",
+      "object": "chat.completion",
+      "created": 1792223192,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D10:1\",\n      \"end_turn_id\": \"D10:16\",\n      \"theme\": \"Discussion on managing time and prioritizing tasks with the Eisenhower Matrix\"\n    },\n    {\n      \"start_turn_id\": \"D10:17\",\n      \"end_turn_id\": \"D10:24\",\n      \"theme\": \"Inspiration and encouragement about personal goals, specifically learning to surf\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1776,
+        "completion_tokens": 102,
+        "total_tokens": 1878,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_11",
+    "stage": "episode_partitioning",
+    "call_id": "c4ae8849-563f-412b-a168-3c9efacd66ca",
+    "latency_seconds": 2.0260357089999985,
+    "response": {
+      "id": "chatcmpl-EZtPeGOqaygX2zHpIv6AcV8vzd6B6",
+      "object": "chat.completion",
+      "created": 1792223194,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D11:1\",\n      \"end_turn_id\": \"D11:3\",\n      \"theme\": \"Sharing personal updates and new purchases\"\n    },\n    {\n      \"start_turn_id\": \"D11:4\",\n      \"end_turn_id\": \"D11:6\",\n      \"theme\": \"Discussion about yoga props and calming scents\"\n    },\n    {\n      \"start_turn_id\": \"D11:7\",\n      \"end_turn_id\": \"D11:12\",\n      \"theme\": \"Exchanging music recommendations for yoga practice\"\n    },\n    {\n      \"start_turn_id\": \"D11:13\",\n      \"end_turn_id\": \"D11:14\",\n      \"theme\": \"Farewell and encouragement\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1267,
+        "completion_tokens": 169,
+        "total_tokens": 1436,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_12",
+    "stage": "episode_partitioning",
+    "call_id": "dfb35bfc-f24e-45e5-abd3-8d93c17342cd",
+    "latency_seconds": 2.194634209,
+    "response": {
+      "id": "chatcmpl-EZtPg4fTXaTvAEujpFCUD2kIPNu6P",
+      "object": "chat.completion",
+      "created": 1792223196,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D12:1\",\n      \"end_turn_id\": \"D12:5\",\n      \"theme\": \"Deborah shares experiences with biking, art, and memories of her mother\"\n    },\n    {\n      \"start_turn_id\": \"D12:6\",\n      \"end_turn_id\": \"D12:9\",\n      \"theme\": \"Jolene discusses personal relaxation activities and mutual comfort\"\n    },\n    {\n      \"start_turn_id\": \"D12:10\",\n      \"end_turn_id\": \"D12:13\",\n      \"theme\": \"Jolene talks about a challenging project with Deborah's encouragement\"\n    },\n    {\n      \"start_turn_id\": \"D12:14\",\n      \"end_turn_id\": \"D12:16\",\n      \"theme\": \"Friendly farewells and well-wishes\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1157,
+        "completion_tokens": 189,
+        "total_tokens": 1346,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_13",
+    "stage": "episode_partitioning",
+    "call_id": "ff68b041-4874-4138-b9f2-4c3764924925",
+    "latency_seconds": 2.5765895000000008,
+    "response": {
+      "id": "chatcmpl-EZtPjZwd9baTvcNEKW3iJW3Dp1kme",
+      "object": "chat.completion",
+      "created": 1792223199,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D13:1\",\n      \"end_turn_id\": \"D13:3\",\n      \"theme\": \"Jolene shares completion of engineering project\"\n    },\n    {\n      \"start_turn_id\": \"D13:4\",\n      \"end_turn_id\": \"D13:11\",\n      \"theme\": \"Discussion about Jolene's engineering internship experience and inspiration\"\n    },\n    {\n      \"start_turn_id\": \"D13:12\",\n      \"end_turn_id\": \"D13:21\",\n      \"theme\": \"Work-life balance struggles and practicing yoga for stress relief\"\n    },\n    {\n      \"start_turn_id\": \"D13:22\",\n      \"end_turn_id\": \"D13:26\",\n      \"theme\": \"Deborah gives yoga advice and mindfulness breathing tips\"\n    },\n    {\n      \"start_turn_id\": \"D13:27\",\n      \"end_turn_id\": \"D13:27\",\n      \"theme\": \"Session closing farewell\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1803,
+        "completion_tokens": 219,
+        "total_tokens": 2022,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_14",
+    "stage": "episode_partitioning",
+    "call_id": "2117709d-ba4f-4dd8-94cc-3bd85f3cdaa3",
+    "latency_seconds": 2.2104979170000014,
+    "response": {
+      "id": "chatcmpl-EZtPlnRoqDagK382RiAitxUHccidG",
+      "object": "chat.completion",
+      "created": 1792223201,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D14:1\",\n      \"end_turn_id\": \"D14:3\",\n      \"theme\": \"Deborah sharing about her yoga retreat and new yoga pose\"\n    },\n    {\n      \"start_turn_id\": \"D14:4\",\n      \"end_turn_id\": \"D14:8\",\n      \"theme\": \"Jolene showing her new pet snake and discussing its comforting presence\"\n    },\n    {\n      \"start_turn_id\": \"D14:9\",\n      \"end_turn_id\": \"D14:13\",\n      \"theme\": \"Jolene updating Deborah on her intense internship and project success\"\n    },\n    {\n      \"start_turn_id\": \"D14:14\",\n      \"end_turn_id\": \"D14:21\",\n      \"theme\": \"Discussion about Deborah's yoga retreat, poses, and the peaceful atmosphere\"\n    },\n    {\n      \"start_turn_id\": \"D14:22\",\n      \"end_turn_id\": \"D14:23\",\n      \"theme\": \"Conversation closing and farewells\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1721,
+        "completion_tokens": 234,
+        "total_tokens": 1955,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_15",
+    "stage": "episode_partitioning",
+    "call_id": "94585be8-8416-4c84-b4e5-512b0b9a7554",
+    "latency_seconds": 2.4644112909999976,
+    "response": {
+      "id": "chatcmpl-EZtPn1JevbA3Wy7bebsSd8WlbtZKk",
+      "object": "chat.completion",
+      "created": 1792223203,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D15:1\",\n      \"end_turn_id\": \"D15:5\",\n      \"theme\": \"Deborah and Jolene discuss their fitness routines and support networks\"\n    },\n    {\n      \"start_turn_id\": \"D15:6\",\n      \"end_turn_id\": \"D15:10\",\n      \"theme\": \"Jolene shares about gaming with her partner as a bonding activity\"\n    },\n    {\n      \"start_turn_id\": \"D15:11\",\n      \"end_turn_id\": \"D15:15\",\n      \"theme\": \"Deborah talks about yoga, meditation workshops, and community building\"\n    },\n    {\n      \"start_turn_id\": \"D15:16\",\n      \"end_turn_id\": \"D15:24\",\n      \"theme\": \"Conversation about Jolene's pet snake and shared feelings about animals\"\n    },\n    {\n      \"start_turn_id\": \"D15:25\",\n      \"end_turn_id\": \"D15:31\",\n      \"theme\": \"Deborah describes her cats, their routines, and the role of nature and exercise\"\n    },\n    {\n      \"start_turn_id\": \"D15:32\",\n      \"end_turn_id\": \"D15:39\",\n      \"theme\": \"Jolene and Deborah reflect on nature spots and the calming effects of outdoor experiences\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2991,
+        "completion_tokens": 294,
+        "total_tokens": 3285,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_16",
+    "stage": "episode_partitioning",
+    "call_id": "09da921a-d346-487e-8918-5e2dea67f895",
+    "latency_seconds": 2.3650690830000016,
+    "response": {
+      "id": "chatcmpl-EZtPq5Ny5TduKyT45y284w1mc4uyu",
+      "object": "chat.completion",
+      "created": 1792223206,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D16:1\",\n      \"end_turn_id\": \"D16:3\",\n      \"theme\": \"Project updates and emotional support\"\n    },\n    {\n      \"start_turn_id\": \"D16:4\",\n      \"end_turn_id\": \"D16:8\",\n      \"theme\": \"Discussion about pet companionship and coping\"\n    },\n    {\n      \"start_turn_id\": \"D16:9\",\n      \"end_turn_id\": \"D16:12\",\n      \"theme\": \"Self-care practices and routines\"\n    },\n    {\n      \"start_turn_id\": \"D16:13\",\n      \"end_turn_id\": \"D16:17\",\n      \"theme\": \"Yoga recommendations and sharing routines\"\n    },\n    {\n      \"start_turn_id\": \"D16:18\",\n      \"end_turn_id\": \"D16:20\",\n      \"theme\": \"Plans to try yoga and future communication\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1524,
+        "completion_tokens": 207,
+        "total_tokens": 1731,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_17",
+    "stage": "episode_partitioning",
+    "call_id": "db0a8355-c71c-44ce-ba02-93fd66dab55d",
+    "latency_seconds": 1.6642573750000054,
+    "response": {
+      "id": "chatcmpl-EZtPsZYqMvU1hQp1emGSMxAnlwKNk",
+      "object": "chat.completion",
+      "created": 1792223208,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D17:1\",\n      \"end_turn_id\": \"D17:3\",\n      \"theme\": \"Sharing experiences with meditation and offering support\"\n    },\n    {\n      \"start_turn_id\": \"D17:4\",\n      \"end_turn_id\": \"D17:8\",\n      \"theme\": \"Creative meditation-inspired notebooks and artistic influence on engineering\"\n    },\n    {\n      \"start_turn_id\": \"D17:9\",\n      \"end_turn_id\": \"D17:15\",\n      \"theme\": \"Discussion about Jolene's aerial surveillance project and mutual encouragement\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1090,
+        "completion_tokens": 138,
+        "total_tokens": 1228,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_18",
+    "stage": "episode_partitioning",
+    "call_id": "6d4bdfac-ea4a-468a-9fe1-4518df071cec",
+    "latency_seconds": 2.1161074999999983,
+    "response": {
+      "id": "chatcmpl-EZtPu3Y9mZe63JBMUHa2XIb8zkjhG",
+      "object": "chat.completion",
+      "created": 1792223210,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D18:1\",\n      \"end_turn_id\": \"D18:5\",\n      \"theme\": \"Jolene discusses balancing life demands and using a bullet journal\"\n    },\n    {\n      \"start_turn_id\": \"D18:6\",\n      \"end_turn_id\": \"D18:7\",\n      \"theme\": \"Discussion about motivational quotes and their impact\"\n    },\n    {\n      \"start_turn_id\": \"D18:8\",\n      \"end_turn_id\": \"D18:12\",\n      \"theme\": \"Deborah shares mindfulness and meditation experiences and encourages Jolene to try\"\n    },\n    {\n      \"start_turn_id\": \"D18:13\",\n      \"end_turn_id\": \"D18:15\",\n      \"theme\": \"Closing remarks and offers of support\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1348,
+        "completion_tokens": 183,
+        "total_tokens": 1531,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_19",
+    "stage": "episode_partitioning",
+    "call_id": "2b882441-5cb1-439e-942b-960e103c52c2",
+    "latency_seconds": 2.6638135419999998,
+    "response": {
+      "id": "chatcmpl-EZtPwLdPGb1KDbV01UPO5M8snS4sD",
+      "object": "chat.completion",
+      "created": 1792223212,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D19:1\",\n      \"end_turn_id\": \"D19:3\",\n      \"theme\": \"Catch-up and life updates including mindfulness workshops and teaching yoga\"\n    },\n    {\n      \"start_turn_id\": \"D19:4\",\n      \"end_turn_id\": \"D19:5\",\n      \"theme\": \"Organizing a yoga event and balancing hobbies with studies\"\n    },\n    {\n      \"start_turn_id\": \"D19:6\",\n      \"end_turn_id\": \"D19:8\",\n      \"theme\": \"Video games discussion and recommendations\"\n    },\n    {\n      \"start_turn_id\": \"D19:9\",\n      \"end_turn_id\": \"D19:13\",\n      \"theme\": \"Favorite gaming memories and playing games as a couple\"\n    },\n    {\n      \"start_turn_id\": \"D19:14\",\n      \"end_turn_id\": \"D19:23\",\n      \"theme\": \"Outdoor activities, special places, and meaningful memories with loved ones\"\n    },\n    {\n      \"start_turn_id\": \"D19:24\",\n      \"end_turn_id\": \"D19:24\",\n      \"theme\": \"Summary reflection on cherishing important memories\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1815,
+        "completion_tokens": 267,
+        "total_tokens": 2082,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_20",
+    "stage": "episode_partitioning",
+    "call_id": "676de846-097c-4069-89ea-7c99e1c4e8ac",
+    "latency_seconds": 2.7335652920000015,
+    "response": {
+      "id": "chatcmpl-EZtPzTioanUfAzv8TxeD7zmMpaZsM",
+      "object": "chat.completion",
+      "created": 1792223215,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D20:1\",\n      \"end_turn_id\": \"D20:2\",\n      \"theme\": \"Opening greetings and recent personal reflections\"\n    },\n    {\n      \"start_turn_id\": \"D20:3\",\n      \"end_turn_id\": \"D20:6\",\n      \"theme\": \"Discussing memories and flowers related to Deborah's mother\"\n    },\n    {\n      \"start_turn_id\": \"D20:7\",\n      \"end_turn_id\": \"D20:10\",\n      \"theme\": \"Appreciation for life's small joys and slowing down\"\n    },\n    {\n      \"start_turn_id\": \"D20:11\",\n      \"end_turn_id\": \"D20:17\",\n      \"theme\": \"Talking about relaxation, yoga, meditation, and peaceful activities\"\n    },\n    {\n      \"start_turn_id\": \"D20:18\",\n      \"end_turn_id\": \"D20:25\",\n      \"theme\": \"Sharing favorite yoga poses, experience, and mutual encouragement\"\n    },\n    {\n      \"start_turn_id\": \"D20:26\",\n      \"end_turn_id\": \"D20:26\",\n      \"theme\": \"Closing well wishes and farewells\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1845,
+        "completion_tokens": 267,
+        "total_tokens": 2112,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_21",
+    "stage": "episode_partitioning",
+    "call_id": "d3c5b60b-c5e1-413f-aea1-87ad94826608",
+    "latency_seconds": 1.7984467080000002,
+    "response": {
+      "id": "chatcmpl-EZtQ1dB8OhFwMQ0EMfcPn2veLBE5E",
+      "object": "chat.completion",
+      "created": 1792223217,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D21:1\",\n      \"end_turn_id\": \"D21:3\",\n      \"theme\": \"Deborah's transformative yoga retreat experience and reflections on life\"\n    },\n    {\n      \"start_turn_id\": \"D21:4\",\n      \"end_turn_id\": \"D21:8\",\n      \"theme\": \"Jolene's career goals, progress, and achievements\"\n    },\n    {\n      \"start_turn_id\": \"D21:9\",\n      \"end_turn_id\": \"D21:17\",\n      \"theme\": \"Mutual encouragement and support in pursuing personal and professional goals\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1380,
+        "completion_tokens": 144,
+        "total_tokens": 1524,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_22",
+    "stage": "episode_partitioning",
+    "call_id": "ab3cac98-7214-4758-ba11-1d21f7bbbb2e",
+    "latency_seconds": 2.084140000000005,
+    "response": {
+      "id": "chatcmpl-EZtQ3vDonXQKjQm4HA9S68cgCCqBl",
+      "object": "chat.completion",
+      "created": 1792223219,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D22:1\",\n      \"end_turn_id\": \"D22:12\",\n      \"theme\": \"Reflecting on loved ones' values and their influence on personal and professional goals\"\n    },\n    {\n      \"start_turn_id\": \"D22:13\",\n      \"end_turn_id\": \"D22:18\",\n      \"theme\": \"Discussing stress relief, relaxation techniques, and the role of pets in wellbeing\"\n    },\n    {\n      \"start_turn_id\": \"D22:19\",\n      \"end_turn_id\": \"D22:30\",\n      \"theme\": \"Sharing stories about pet cats and their significance in family life\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2278,
+        "completion_tokens": 152,
+        "total_tokens": 2430,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_23",
+    "stage": "episode_partitioning",
+    "call_id": "50b5f37f-ebdb-42d7-b320-baca2c240e61",
+    "latency_seconds": 3.430211082999996,
+    "response": {
+      "id": "chatcmpl-EZtQ6OPoM1pTUxhutepqXYPFbCzXy",
+      "object": "chat.completion",
+      "created": 1792223222,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D23:1\",\n      \"end_turn_id\": \"D23:3\",\n      \"theme\": \"Jolene shares her trip to Rio de Janeiro and yoga experiences\"\n    },\n    {\n      \"start_turn_id\": \"D23:4\",\n      \"end_turn_id\": \"D23:8\",\n      \"theme\": \"Deborah talks about visiting her mother's house and discusses relaxing places\"\n    },\n    {\n      \"start_turn_id\": \"D23:9\",\n      \"end_turn_id\": \"D23:14\",\n      \"theme\": \"Jolene and Deborah share their favorite peaceful spots and relaxation routines\"\n    },\n    {\n      \"start_turn_id\": \"D23:15\",\n      \"end_turn_id\": \"D23:19\",\n      \"theme\": \"Discussion about excursions and historical exploration in Rio de Janeiro\"\n    },\n    {\n      \"start_turn_id\": \"D23:20\",\n      \"end_turn_id\": \"D23:22\",\n      \"theme\": \"Deborah shares a meaningful handwritten note and its emotional significance\"\n    },\n    {\n      \"start_turn_id\": \"D23:23\",\n      \"end_turn_id\": \"D23:26\",\n      \"theme\": \"Jolene and Deborah exchange inspirational quotes about letting go and positivity\"\n    },\n    {\n      \"start_turn_id\": \"D23:27\",\n      \"end_turn_id\": \"D23:30\",\n      \"theme\": \"Jolene discusses her new plant symbolizing nurturing and fresh starts\"\n    },\n    {\n      \"start_turn_id\": \"D23:31\",\n      \"end_turn_id\": \"D23:32\",\n      \"theme\": \"Closing pleasantries and well wishes\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2371,
+        "completion_tokens": 373,
+        "total_tokens": 2744,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_24",
+    "stage": "episode_partitioning",
+    "call_id": "e7df58b9-fc62-4344-8441-4e1b6b9f2b29",
+    "latency_seconds": 1.8607640419999996,
+    "response": {
+      "id": "chatcmpl-EZtQ9ySIAOF5UcP9Fva7R7rp5xamJ",
+      "object": "chat.completion",
+      "created": 1792223225,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D24:1\",\n      \"end_turn_id\": \"D24:5\",\n      \"theme\": \"Catching up on personal events and support in relationships\"\n    },\n    {\n      \"start_turn_id\": \"D24:6\",\n      \"end_turn_id\": \"D24:12\",\n      \"theme\": \"Sharing childhood memories and gaming experiences with family\"\n    },\n    {\n      \"start_turn_id\": \"D24:13\",\n      \"end_turn_id\": \"D24:15\",\n      \"theme\": \"Current month plans and offering support\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1315,
+        "completion_tokens": 135,
+        "total_tokens": 1450,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_25",
+    "stage": "episode_partitioning",
+    "call_id": "21bfc926-7b18-4261-aaaa-b7d2b1501fe0",
+    "latency_seconds": 1.8034056249999963,
+    "response": {
+      "id": "chatcmpl-EZtQBgXbeNU48e2QO9LmFmb58aUBL",
+      "object": "chat.completion",
+      "created": 1792223227,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D25:1\",\n      \"end_turn_id\": \"D25:5\",\n      \"theme\": \"Meditation course and benefits\"\n    },\n    {\n      \"start_turn_id\": \"D25:6\",\n      \"end_turn_id\": \"D25:10\",\n      \"theme\": \"Project challenges and mutual support\"\n    },\n    {\n      \"start_turn_id\": \"D25:11\",\n      \"end_turn_id\": \"D25:18\",\n      \"theme\": \"Recent activities and shared appreciation of nature\"\n    },\n    {\n      \"start_turn_id\": \"D25:19\",\n      \"end_turn_id\": \"D25:20\",\n      \"theme\": \"Farewell exchange\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1255,
+        "completion_tokens": 165,
+        "total_tokens": 1420,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_26",
+    "stage": "episode_partitioning",
+    "call_id": "66582e78-25a8-42b3-af7f-c138a5ec067b",
+    "latency_seconds": 2.3690422499999997,
+    "response": {
+      "id": "chatcmpl-EZtQDcwXtYXoNL6eAOtYwag7QUUxu",
+      "object": "chat.completion",
+      "created": 1792223229,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D26:1\",\n      \"end_turn_id\": \"D26:3\",\n      \"theme\": \"Deborah shares recent disappointment due to canceled yoga getaway and coping with it\"\n    },\n    {\n      \"start_turn_id\": \"D26:4\",\n      \"end_turn_id\": \"D26:8\",\n      \"theme\": \"Jolene discusses her camping and yoga plans and strategies for managing a busy schedule\"\n    },\n    {\n      \"start_turn_id\": \"D26:9\",\n      \"end_turn_id\": \"D26:14\",\n      \"theme\": \"Planning a coffee date to discuss routines and favorite coffee shops\"\n    },\n    {\n      \"start_turn_id\": \"D26:15\",\n      \"end_turn_id\": \"D26:17\",\n      \"theme\": \"Deborah cancels initial coffee date plan and Jolene responds\"\n    },\n    {\n      \"start_turn_id\": \"D26:18\",\n      \"end_turn_id\": \"D26:21\",\n      \"theme\": \"Rescheduling coffee date and casual closing conversation\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1563,
+        "completion_tokens": 240,
+        "total_tokens": 1803,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_27",
+    "stage": "episode_partitioning",
+    "call_id": "7958d430-7800-4745-825d-af2f9290f9f8",
+    "latency_seconds": 1.5775981249999944,
+    "response": {
+      "id": "chatcmpl-EZtQFHsebGqzpLnLPIINDm4HTkNTU",
+      "object": "chat.completion",
+      "created": 1792223231,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D27:1\",\n      \"end_turn_id\": \"D27:11\",\n      \"theme\": \"Jolene's meditation retreat experience and reflections on mindfulness and gratitude\"\n    },\n    {\n      \"start_turn_id\": \"D27:12\",\n      \"end_turn_id\": \"D27:13\",\n      \"theme\": \"Introducing and planning to play a cat card game\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1127,
+        "completion_tokens": 99,
+        "total_tokens": 1226,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_28",
+    "stage": "episode_partitioning",
+    "call_id": "8b07357a-83c4-46c0-bf4b-cf5cd7cf9d63",
+    "latency_seconds": 2.1291966249999987,
+    "response": {
+      "id": "chatcmpl-EZtQH7JUG1Ccfz2usTeYvyYTXJca1",
+      "object": "chat.completion",
+      "created": 1792223233,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D28:1\",\n      \"end_turn_id\": \"D28:5\",\n      \"theme\": \"Deborah reconnecting with her mom's friends and sharing emotional stories\"\n    },\n    {\n      \"start_turn_id\": \"D28:6\",\n      \"end_turn_id\": \"D28:9\",\n      \"theme\": \"Reminiscing with mom's friends through photos and appreciating memories\"\n    },\n    {\n      \"start_turn_id\": \"D28:10\",\n      \"end_turn_id\": \"D28:15\",\n      \"theme\": \"Deborah discussing meaningful beach memories and yoga practice\"\n    },\n    {\n      \"start_turn_id\": \"D28:16\",\n      \"end_turn_id\": \"D28:23\",\n      \"theme\": \"Jolene sharing her meditation routines and creating a relaxing home environment\"\n    },\n    {\n      \"start_turn_id\": \"D28:24\",\n      \"end_turn_id\": \"D28:30\",\n      \"theme\": \"Jolene introducing her pet snake and reflecting on the comfort pets bring\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2177,
+        "completion_tokens": 240,
+        "total_tokens": 2417,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_29",
+    "stage": "episode_partitioning",
+    "call_id": "67a897db-73ae-4170-bb59-d0215b631666",
+    "latency_seconds": 2.8313799579999923,
+    "response": {
+      "id": "chatcmpl-EZtQJg2RAQfyomC02pKFv3NXCdKP1",
+      "object": "chat.completion",
+      "created": 1792223235,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D29:1\",\n      \"end_turn_id\": \"D29:3\",\n      \"theme\": \"Deborah shares about hosting a community gardening class\"\n    },\n    {\n      \"start_turn_id\": \"D29:4\",\n      \"end_turn_id\": \"D29:5\",\n      \"theme\": \"Jolene talks about scuba diving and Deborah reflects on personal memories\"\n    },\n    {\n      \"start_turn_id\": \"D29:6\",\n      \"end_turn_id\": \"D29:11\",\n      \"theme\": \"Conversation about Deborah's mother, cooking memories, and shared baking experiences\"\n    },\n    {\n      \"start_turn_id\": \"D29:12\",\n      \"end_turn_id\": \"D29:15\",\n      \"theme\": \"Jolene and Deborah discuss favorite cookies and craving baked goods\"\n    },\n    {\n      \"start_turn_id\": \"D29:16\",\n      \"end_turn_id\": \"D29:23\",\n      \"theme\": \"Discussion about memory books, cozy reading spaces, and meaningful books\"\n    },\n    {\n      \"start_turn_id\": \"D29:24\",\n      \"end_turn_id\": \"D29:27\",\n      \"theme\": \"Chat about the beach, surfing experiences, and possible future activities together\"\n    },\n    {\n      \"start_turn_id\": \"D29:28\",\n      \"end_turn_id\": \"D29:34\",\n      \"theme\": \"Planning to try surfing together and scheduling the adventure\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2538,
+        "completion_tokens": 328,
+        "total_tokens": 2866,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_30",
+    "stage": "episode_partitioning",
+    "call_id": "9d5a1495-4dd0-43cf-b502-78baa514a91f",
+    "latency_seconds": 1.916152542000006,
+    "response": {
+      "id": "chatcmpl-EZtQMbNzWRPEui4E55qPgVwxNMVCO",
+      "object": "chat.completion",
+      "created": 1792223238,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D30:1\",\n      \"end_turn_id\": \"D30:3\",\n      \"theme\": \"Discussion about music festivals and a shared experience photo\"\n    },\n    {\n      \"start_turn_id\": \"D30:4\",\n      \"end_turn_id\": \"D30:10\",\n      \"theme\": \"Yoga retreat experience and connection with nature\"\n    },\n    {\n      \"start_turn_id\": \"D30:11\",\n      \"end_turn_id\": \"D30:17\",\n      \"theme\": \"Reflection on natural beauty and resilience symbolized by blossoms and plant growth\"\n    },\n    {\n      \"start_turn_id\": \"D30:18\",\n      \"end_turn_id\": \"D30:18\",\n      \"theme\": \"Concluding remarks and positive affirmations\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1570,
+        "completion_tokens": 181,
+        "total_tokens": 1751,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "conv-48::session_1::episode-001",
+    "stage": "entity_property_extraction",
+    "call_id": "bf0349ac-1c13-4ec8-9918-7c4ce188275c",
+    "latency_seconds": 2.1976641249999886,
+    "response": {
+      "id": "chatcmpl-EZtQOoMYxxdMpEmFD4Nc32mWiFLKE",
+      "object": "chat.completion",
+      "created": 1792223240,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"finished_project\",\n      \"value\": \"electrical engineering project\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last week\",\n      \"evidence_turn_ids\": [\"D1:2\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"project_workload\",\n      \"value\": \"took a lot of work\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last week\",\n      \"evidence_turn_ids\": [\"D1:2\"]\n    },\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"visited_place\",\n      \"value\": \"mother's old house\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last week\",\n      \"evidence_turn_ids\": [\"D1:3\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 649,
+        "completion_tokens": 221,
+        "total_tokens": 870,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-48::session_1::episode-002",
+    "stage": "entity_property_extraction",
+    "call_id": "0fb7001e-aae1-4b20-9c19-0aad4600bef0",
+    "latency_seconds": 4.433898499999998,
+    "response": {
+      "id": "chatcmpl-EZtQQ6Qqv7kgCWoVl10i8utqabZCV",
+      "object": "chat.completion",
+      "created": 1792223242,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"mother_status\",\n      \"value\": \"passed away a few years ago\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"a few years before 23 January 2023\",\n      \"evidence_turn_ids\": [\"D1:5\"]\n    },\n    {\n      \"entity\": \"Deborah and her mother\",\n      \"entity_type\": \"person\",\n      \"property\": \"last_photo_together\",\n      \"value\": \"there is a last photo together\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"before 23 January 2023\",\n      \"evidence_turn_ids\": [\"D1:5\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"mother_status\",\n      \"value\": \"passed away last year\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last year before 23 January 2023\",\n      \"evidence_turn_ids\": [\"D1:6\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"room_location\",\n      \"value\": \"room in her mother's house\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"at time of conversation\",\n      \"evidence_turn_ids\": [\"D1:6\"]\n    },\n    {\n      \"entity\": \"Deborah's mother's house\",\n      \"entity_type\": \"place\",\n      \"property\": \"special_furniture\",\n      \"value\": \"a bench near the window\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"at time before 23 January 2023\",\n      \"evidence_turn_ids\": [\"D1:7\"]\n    },\n    {\n      \"entity\": \"Deborah's mother\",\n      \"entity_type\": \"person\",\n      \"property\": \"favorite_spot\",\n      \"value\": \"sat every morning on a bench near the window\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"before she passed away\",\n      \"evidence_turn_ids\": [\"D1:7\"]\n    },\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"memory_practice\",\n      \"value\": \"sits on the bench near the window sometimes to stay connected to her mother\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"at time of conversation\",\n      \"evidence_turn_ids\": [\"D1:7\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 812,
+        "completion_tokens": 562,
+        "total_tokens": 1374,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-48::session_1::episode-003",
+    "stage": "entity_property_extraction",
+    "call_id": "c92bb68e-9b03-4544-ab43-905f5bc0e736",
+    "latency_seconds": 3.584425207999999,
+    "response": {
+      "id": "chatcmpl-EZtQVTmQZQV5UAEaomMXKJItwU0nV",
+      "object": "chat.completion",
+      "created": 1792223247,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"keepsake\",\n      \"value\": \"pendant\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"2010\",\n      \"evidence_turn_ids\": [\"D1:8\"]\n    },\n    {\n      \"entity\": \"Jolene's pendant\",\n      \"entity_type\": \"object\",\n      \"property\": \"gifted_by\",\n      \"value\": \"Jolene's mother\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"2010\",\n      \"evidence_turn_ids\": [\"D1:8\"]\n    },\n    {\n      \"entity\": \"Jolene's pendant\",\n      \"entity_type\": \"object\",\n      \"property\": \"gift_location\",\n      \"value\": \"Paris\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"2010\",\n      \"evidence_turn_ids\": [\"D1:8\"]\n    },\n    {\n      \"entity\": \"Jolene's pendant\",\n      \"entity_type\": \"object\",\n      \"property\": \"symbol_meaning\",\n      \"value\": \"freedom\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D1:10\"]\n    },\n    {\n      \"entity\": \"Jolene's pendant\",\n      \"entity_type\": \"object\",\n      \"property\": \"symbol_function\",\n      \"value\": \"reminder to pursue goals and not get held back\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D1:10\"]\n    },\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"keepsake\",\n      \"value\": \"pendant\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D1:9\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 741,
+        "completion_tokens": 429,
+        "total_tokens": 1170,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-48::session_1::episode-004",
+    "stage": "entity_property_extraction",
+    "call_id": "e7166a40-2b85-48d5-b0df-f71259e4092d",
+    "latency_seconds": 2.3403145420000016,
+    "response": {
+      "id": "chatcmpl-EZtQYhOfCL8rEHq22AjcylXNJOBpu",
+      "object": "chat.completion",
+      "created": 1792223250,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"goal\",\n      \"value\": \"keep teaching yoga and supporting community\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"as of 23 January 2023\",\n      \"evidence_turn_ids\": [\"D1:13\"]\n    },\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"passion\",\n      \"value\": \"helping people find peace and joy through yoga\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"as of 23 January 2023\",\n      \"evidence_turn_ids\": [\"D1:13\"]\n    },\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"inspiration\",\n      \"value\": \"yoga helped her find peace during a rough time\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"before 23 January 2023\",\n      \"evidence_turn_ids\": [\"D1:15\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 683,
+        "completion_tokens": 245,
+        "total_tokens": 928,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-48::session_1::episode-005",
+    "stage": "entity_property_extraction",
+    "call_id": "1532bed2-4c36-4351-9dc6-bc49cb0e87f8",
+    "latency_seconds": 2.1608250000000027,
+    "response": {
+      "id": "chatcmpl-EZtQbcRevJ45aWmmU6s4dHMZRztOV",
+      "object": "chat.completion",
+      "created": 1792223253,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"ending conversation\",\n      \"value\": \"Deborah has to leave now\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"4:06 pm on 23 January, 2023\",\n      \"evidence_turn_ids\": [\"D1:17\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"anticipation\",\n      \"value\": \"looking forward to the next chat\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"4:06 pm on 23 January, 2023\",\n      \"evidence_turn_ids\": [\"D1:18\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 551,
+        "completion_tokens": 172,
+        "total_tokens": 723,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-48::session_2::episode-001",
+    "stage": "entity_property_extraction",
+    "call_id": "f3194359-e561-4f16-8a31-56e1ffff7d35",
+    "latency_seconds": 3.263730541000001,
+    "response": {
+      "id": "chatcmpl-EZtQc133MyJilu5oh518G4n787OqF",
+      "object": "chat.completion",
+      "created": 1792223254,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Deborah's dad\",\n      \"entity_type\": \"person\",\n      \"property\": \"death\",\n      \"value\": \"passed away two days ago, sudden death\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"two days before 9:49 am on 27 January, 2023\",\n      \"evidence_turn_ids\": [\"D2:1\"]\n    },\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"emotional_state\",\n      \"value\": \"grieving, trying to channel grief by spending time with family and cherishing memories\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"around 9:49 am on 27 January, 2023\",\n      \"evidence_turn_ids\": [\"D2:1\"]\n    },\n    {\n      \"entity\": \"Deborah's family\",\n      \"entity_type\": \"other\",\n      \"property\": \"emotional_state\",\n      \"value\": \"shell-shocked by sudden death\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"around 9:49 am on 27 January, 2023\",\n      \"evidence_turn_ids\": [\"D2:1\"]\n    },\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"coping_method\",\n      \"value\": \"looking at family album and photos for comfort and peace\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"around 9:49 am on 27 January, 2023\",\n      \"evidence_turn_ids\": [\"D2:3\"]\n    },\n    {\n      \"entity\": \"Deborah's parents\",\n      \"entity_type\": \"person\",\n      \"property\": \"wedding_date\",\n      \"value\": \"1993\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D2:3\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 760,
+        "completion_tokens": 432,
+        "total_tokens": 1192,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-48::session_2::episode-002",
+    "stage": "entity_property_extraction",
+    "call_id": "8b96c4c8-85ba-4493-bdbd-413c38e79ec1",
+    "latency_seconds": 4.1284145830000085,
+    "response": {
+      "id": "chatcmpl-EZtQgAunfkebKxIvLFBbymI0psbdJ",
+      "object": "chat.completion",
+      "created": 1792223258,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"opinion_about_couple\",\n      \"value\": \"They were a beautiful couple\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D2:4\"]\n    },\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"family_goal\",\n      \"value\": \"trying to be as good a family as my parents were\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"present\",\n      \"evidence_turn_ids\": [\"D2:5\"]\n    },\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"relationship_value\",\n      \"value\": \"love and openness have kept us close all these years\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"up to present\",\n      \"evidence_turn_ids\": [\"D2:7\"]\n    },\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"relationship_happiness_cause\",\n      \"value\": \"Being there for each other has made us both happy\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"up to present\",\n      \"evidence_turn_ids\": [\"D2:7\"]\n    },\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"letter_receipt\",\n      \"value\": \"received a letter yesterday\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"yesterday relative to source time\",\n      \"evidence_turn_ids\": [\"D2:7\"]\n    },\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"letter_sender\",\n      \"value\": \"group members\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"recent\",\n      \"evidence_turn_ids\": [\"D2:9\"]\n    },\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"letter_content_summary\",\n      \"value\": \"thanked me for the positive influence I had on them\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"recent\",\n      \"evidence_turn_ids\": [\"D2:9\"]\n    },\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"passion\",\n      \"value\": \"passionate about yoga\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"present\",\n      \"evidence_turn_ids\": [\"D2:9\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 801,
+        "completion_tokens": 594,
+        "total_tokens": 1395,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-48::session_2::episode-003",
+    "stage": "entity_property_extraction",
+    "call_id": "a3898c75-d1b7-43dc-a5a6-7510e557effd",
+    "latency_seconds": 3.874340457999992,
+    "response": {
+      "id": "chatcmpl-EZtQkXAwxhI94TyPKk4VWnEaNaEuf",
+      "object": "chat.completion",
+      "created": 1792223262,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"yoga_location\",\n      \"value\": \"her old home\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"present\",\n      \"evidence_turn_ids\": [\"D2:11\", \"D2:13\"]\n    },\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"old_home_reason_to_visit\",\n      \"value\": \"to visit her mom who passed away\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"present\",\n      \"evidence_turn_ids\": [\"D2:13\"]\n    },\n    {\n      \"entity\": \"window spot in Deborah's old home\",\n      \"entity_type\": \"place\",\n      \"property\": \"emotional_effect\",\n      \"value\": \"gives Deborah peace and comforts her with presence of her mom\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"present\",\n      \"evidence_turn_ids\": [\"D2:13\", \"D2:15\"]\n    },\n    {\n      \"entity\": \"Deborah's mom\",\n      \"entity_type\": \"person\",\n      \"property\": \"status\",\n      \"value\": \"passed away\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"present\",\n      \"evidence_turn_ids\": [\"D2:13\"]\n    },\n    {\n      \"entity\": \"Deborah's mom\",\n      \"entity_type\": \"person\",\n      \"property\": \"habitual_spot\",\n      \"value\": \"sat by the window every night reading a book and smiling\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"past\",\n      \"evidence_turn_ids\": [\"D2:17\"]\n    },\n    {\n      \"entity\": \"Deborah's mom\",\n      \"entity_type\": \"person\",\n      \"property\": \"hobby\",\n      \"value\": \"reading\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"past\",\n      \"evidence_turn_ids\": [\"D2:17\"]\n    },\n    {\n      \"entity\": \"Deborah's mom\",\n      \"entity_type\": \"person\",\n      \"property\": \"favorite_place_in_house\",\n      \"value\": \"window spot\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"past\",\n      \"evidence_turn_ids\": [\"D2:17\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 980,
+        "completion_tokens": 528,
+        "total_tokens": 1508,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-48::session_2::episode-004",
+    "stage": "entity_property_extraction",
+    "call_id": "806a47fa-db06-4a3f-b9ed-80b8cb11eaa7",
+    "latency_seconds": 4.922576500000001,
+    "response": {
+      "id": "chatcmpl-EZumPYpC7cTOAh8nS4Q0PIg0puPMC",
+      "object": "chat.completion",
+      "created": 1792228449,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Deborah's mother\",\n      \"entity_type\": \"person\",\n      \"property\": \"hobby\",\n      \"value\": \"travel\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D2:19\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"pet\",\n      \"value\": \"snake named Susie\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D2:20\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"pet\",\n      \"value\": \"snake named Seraphim\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D2:22\"]\n    },\n    {\n      \"entity\": \"Seraphim\",\n      \"entity_type\": \"object\",\n      \"property\": \"behavior\",\n      \"value\": \"slinked out of her cage and coiled up next to Jolene while she was playing video games\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D2:22\"]\n    },\n    {\n      \"entity\": \"Susie\",\n      \"entity_type\": \"object\",\n      \"property\": \"effect on Jolene\",\n      \"value\": \"calms Jolene down and makes her happy\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D2:20\"]\n    },\n    {\n      \"entity\": \"Seraphim\",\n      \"entity_type\": \"object\",\n      \"property\": \"appearance detail\",\n      \"value\": \"has sly eyes\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D2:22\"]\n    },\n    {\n      \"entity\": \"Seraphim\",\n      \"entity_type\": \"object\",\n      \"property\": \"purchase time and place\",\n      \"value\": \"bought a year ago in Paris\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"about a year before 27 January, 2023\",\n      \"evidence_turn_ids\": [\"D2:24\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 941,
+        "completion_tokens": 512,
+        "total_tokens": 1453,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-48::session_2::episode-005",
+    "stage": "entity_property_extraction",
+    "call_id": "377f8bbe-2ada-43e2-b17d-a4edae07860a",
+    "latency_seconds": 2.822042209,
+    "response": {
+      "id": "chatcmpl-EZumTKKgToLs8dYMz3m6FTLIK2SNS",
+      "object": "chat.completion",
+      "created": 1792228453,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"activity\",\n      \"value\": \"playing the game \\\"Detroit\\\" on console with partner\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last week\",\n      \"evidence_turn_ids\": [\"D2:26\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"attitude_towards_activity\",\n      \"value\": \"both are crazy about gaming\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last week\",\n      \"evidence_turn_ids\": [\"D2:26\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"gaming_skill_learning\",\n      \"value\": \"learned to play games on own since childhood\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"since childhood\",\n      \"evidence_turn_ids\": [\"D2:28\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"planned_activity\",\n      \"value\": \"playing \\\"Walking Dead\\\"\",\n      \"modality\": \"planned\",\n      \"valid_time\": \"next Saturday (from 27 January 2023)\",\n      \"evidence_turn_ids\": [\"D2:30\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 747,
+        "completion_tokens": 313,
+        "total_tokens": 1060,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-48::session_2::episode-006",
+    "stage": "entity_property_extraction",
+    "call_id": "229e6db5-5bcf-4ddc-acfc-301c143afd96",
+    "latency_seconds": 3.150803,
+    "response": {
+      "id": "chatcmpl-EZumXzu3rvK29L16j5xCxHogrSJKt",
+      "object": "chat.completion",
+      "created": 1792228457,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"farewell_greeting\",\n      \"value\": \"Take care and keep spreading those good vibes!\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"9:49 am on 27 January, 2023\",\n      \"evidence_turn_ids\": [\"D2:31\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"farewell_response\",\n      \"value\": \"Thanks, Deb! You too, take care. See ya!\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"9:49 am on 27 January, 2023\",\n      \"evidence_turn_ids\": [\"D2:32\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 560,
+        "completion_tokens": 183,
+        "total_tokens": 743,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-48::session_3::episode-001",
+    "stage": "entity_property_extraction",
+    "call_id": "77290b7f-9a9e-4d36-a10e-ba311c4a0a9c",
+    "latency_seconds": 3.6152990419999984,
+    "response": {
+      "id": "chatcmpl-EZumZgfWLSWZc0KpL8SH815sdcPt1",
+      "object": "chat.completion",
+      "created": 1792228459,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"engineering professor assigned project\",\n      \"value\": \"a huge robotics project\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current semester before 7:03 pm on 1 February, 2023\",\n      \"evidence_turn_ids\": [\"D3:1\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"feelings on receiving project\",\n      \"value\": \"a mix of emotions - excited and nervous\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"at project assignment time before 7:03 pm on 1 February, 2023\",\n      \"evidence_turn_ids\": [\"D3:3\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"current feelings about project\",\n      \"value\": \"really enjoying it, like solving a puzzle, figuring out best design and programming, seeing robot come together\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"7:03 pm on 1 February, 2023\",\n      \"evidence_turn_ids\": [\"D3:3\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"project effects\",\n      \"value\": \"making me get creative and problem-solve\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"7:03 pm on 1 February, 2023\",\n      \"evidence_turn_ids\": [\"D3:1\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 748,
+        "completion_tokens": 370,
+        "total_tokens": 1118,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-48::session_3::episode-002",
+    "stage": "entity_property_extraction",
+    "call_id": "ddc3a10c-20fd-4a0c-85e8-a08e7f4973a1",
+    "latency_seconds": 3.322537708999999,
+    "response": {
+      "id": "chatcmpl-EZumdw7R2cTucKyZSXpalQAh5O3Tq",
+      "object": "chat.completion",
+      "created": 1792228463,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"met_neighbor\",\n      \"value\": \"Anna\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"yesterday before 7:03 pm on 1 February, 2023\",\n      \"evidence_turn_ids\": [\"D3:4\"]\n    },\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"meeting_place\",\n      \"value\": \"yoga in the park\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"before 7:03 pm on 1 February, 2023\",\n      \"evidence_turn_ids\": [\"D3:6\"]\n    },\n    {\n      \"entity\": \"Deborah and Anna\",\n      \"entity_type\": \"concept\",\n      \"property\": \"talked_about\",\n      \"value\": \"how yoga in the park improved their lives and the sense of community it gives\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"before 7:03 pm on 1 February, 2023\",\n      \"evidence_turn_ids\": [\"D3:8\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 732,
+        "completion_tokens": 266,
+        "total_tokens": 998,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-48::session_3::episode-003",
+    "stage": "entity_property_extraction",
+    "call_id": "a5bea07e-1e5d-44e5-8d7c-d7eb74be74cf",
+    "latency_seconds": 1.9953581249999992,
+    "response": {
+      "id": "chatcmpl-EZumgi5wdkw0bXFxDiLuP62cwOhMY",
+      "object": "chat.completion",
+      "created": 1792228466,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"planned_activity\",\n      \"value\": \"play the console with my partner\",\n      \"modality\": \"planned\",\n      \"valid_time\": \"current\",\n      \"evidence_turn_ids\": [\"D3:11\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"partner\",\n      \"value\": \"Jolene's partner\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current\",\n      \"evidence_turn_ids\": [\"D3:11\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 676,
+        "completion_tokens": 148,
+        "total_tokens": 824,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-48::session_3::episode-004",
+    "stage": "entity_property_extraction",
+    "call_id": "4342169b-4305-4e15-ab61-c7a43bde23a3",
+    "latency_seconds": 1.9062313329999974,
+    "response": {
+      "id": "chatcmpl-EZumiSRnzg17LSDLPCWCLvmhf4SJi",
+      "object": "chat.completion",
+      "created": 1792228468,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"parting_words\",\n      \"value\": \"Gotta run bye!\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"7:03 pm on 1 February, 2023\",\n      \"evidence_turn_ids\": [\"D3:14\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"parting_words\",\n      \"value\": \"See you soon!\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"7:03 pm on 1 February, 2023\",\n      \"evidence_turn_ids\": [\"D3:15\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 547,
+        "completion_tokens": 169,
+        "total_tokens": 716,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-48::session_4::episode-001",
+    "stage": "entity_property_extraction",
+    "call_id": "2755afd8-c543-47f0-b5e1-e81dc716eb1d",
+    "latency_seconds": 5.795512000000002,
+    "response": {
+      "id": "chatcmpl-EZumklKpQoycbp1cm7fy02gQp4cAM",
+      "object": "chat.completion",
+      "created": 1792228470,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"emotional_state\",\n      \"value\": \"on an emotional rollercoaster but coping\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"lately\",\n      \"evidence_turn_ids\": [\"D4:1\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"recent_milestone\",\n      \"value\": \"major milestone as an engineer last week\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last week\",\n      \"evidence_turn_ids\": [\"D4:3\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"milestone_outcome\",\n      \"value\": \"went really well; huge accomplishment\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last week\",\n      \"evidence_turn_ids\": [\"D4:3\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"milestone_project\",\n      \"value\": \"designed and built a sustainable water purifier for a rural community in need\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"recently\",\n      \"evidence_turn_ids\": [\"D4:5\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"milestone_project_difficulty\",\n      \"value\": \"tough but loved the experience\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"recently\",\n      \"evidence_turn_ids\": [\"D4:5\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"reaction_to_project_success\",\n      \"value\": \"surreal, incredibly satisfying to see it working and providing clean water\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"after completion\",\n      \"evidence_turn_ids\": [\"D4:7\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"sense_of_purpose\",\n      \"value\": \"felt purposeful and that she did something good through engineering\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"after project success\",\n      \"evidence_turn_ids\": [\"D4:7\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"career_aspirations\",\n      \"value\": \"to continue working in engineering to make a positive impact on communities by creating sustainable solutions\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current\",\n      \"evidence_turn_ids\": [\"D4:9\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"goal\",\n      \"value\": \"contribute towards making the world a better place with work\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current\",\n      \"evidence_turn_ids\": [\"D4:9\"]\n    },\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"emotional_state\",\n      \"value\": \"all good here\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current\",\n      \"evidence_turn_ids\": [\"D4:2\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1091,
+        "completion_tokens": 776,
+        "total_tokens": 1867,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-48::session_4::episode-002",
+    "stage": "entity_property_extraction",
+    "call_id": "8747fa8e-60a2-450d-bc5d-743d3ee0e92e",
+    "latency_seconds": 4.893445207999999,
+    "response": {
+      "id": "chatcmpl-EZumq8zRYrpa4chAnwntOviXdsIbF",
+      "object": "chat.completion",
+      "created": 1792228476,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"activity\",\n      \"value\": \"teaching yoga\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current\",\n      \"evidence_turn_ids\": [\"D4:12\"]\n    },\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"time_spent\",\n      \"value\": \"a lot of time teaching yoga\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current\",\n      \"evidence_turn_ids\": [\"D4:12\"]\n    },\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"relationship\",\n      \"value\": \"bonded with Anna during yoga class\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"yesterday\",\n      \"evidence_turn_ids\": [\"D4:12\"]\n    },\n    {\n      \"entity\": \"Deborah and Anna\",\n      \"entity_type\": \"person\",\n      \"property\": \"activity\",\n      \"value\": \"supporting each other in yoga practice\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"recent yoga class\",\n      \"evidence_turn_ids\": [\"D4:16\"]\n    },\n    {\n      \"entity\": \"Yoga poses\",\n      \"entity_type\": \"concept\",\n      \"property\": \"type\",\n      \"value\": \"different dance poses\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current\",\n      \"evidence_turn_ids\": [\"D4:14\"]\n    },\n    {\n      \"entity\": \"Warrior II pose\",\n      \"entity_type\": \"concept\",\n      \"property\": \"effects\",\n      \"value\": \"builds strength and boosts focus\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current\",\n      \"evidence_turn_ids\": [\"D4:14\"]\n    },\n    {\n      \"entity\": \"Warrior II pose (modified)\",\n      \"entity_type\": \"concept\",\n      \"property\": \"difficulty\",\n      \"value\": \"difficult to do\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current\",\n      \"evidence_turn_ids\": [\"D4:16\"]\n    },\n    {\n      \"entity\": \"Warrior II pose (modified)\",\n      \"entity_type\": \"concept\",\n      \"property\": \"instructions\",\n      \"value\": \"sit on edge of chair with feet planted, twist torso to one side, use hand on knee for support, hold for a few breaths, switch sides\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current\",\n      \"evidence_turn_ids\": [\"D4:18\"]\n    },\n    {\n      \"entity\": \"Warrior II pose (modified)\",\n      \"entity_type\": \"concept\",\n      \"property\": \"benefit\",\n      \"value\": \"relaxes tense muscles, stretches back and shoulders\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current\",\n      \"evidence_turn_ids\": [\"D4:18\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 976,
+        "completion_tokens": 673,
+        "total_tokens": 1649,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-48::session_4::episode-003",
+    "stage": "entity_property_extraction",
+    "call_id": "266082d9-097d-4e22-83e6-7f50477fac7f",
+    "latency_seconds": 3.648653541999998,
+    "response": {
+      "id": "chatcmpl-EZumv4RPsTdHfLVm6e9a4BXYKd3jb",
+      "object": "chat.completion",
+      "created": 1792228481,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"bookshelf_contents\",\n      \"value\": \"a lot of books\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"9:48 am on 4 February, 2023\",\n      \"evidence_turn_ids\": [\"D4:19\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"favorite_book_recent\",\n      \"value\": \"\\\"Sapiens\\\"\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"9:48 am on 4 February, 2023\",\n      \"evidence_turn_ids\": [\"D4:21\"]\n    },\n    {\n      \"entity\": \"\\\"Sapiens\\\"\",\n      \"entity_type\": \"object\",\n      \"property\": \"topic\",\n      \"value\": \"human history and how technology has affected us\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"9:48 am on 4 February, 2023\",\n      \"evidence_turn_ids\": [\"D4:21\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"recently_read_book\",\n      \"value\": \"\\\"Avalanche\\\" by Neal Stephenson\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"approximately two weeks before 9:48 am on 4 February, 2023\",\n      \"evidence_turn_ids\": [\"D4:23\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"insight_from_story\",\n      \"value\": \"success is possible if you believe and work hard despite challenges\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"up to 9:48 am on 4 February, 2023\",\n      \"evidence_turn_ids\": [\"D4:25\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 882,
+        "completion_tokens": 437,
+        "total_tokens": 1319,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-48::session_4::episode-004",
+    "stage": "entity_property_extraction",
+    "call_id": "039312b6-de0c-4ac3-a202-eec1ac8f6cf7",
+    "latency_seconds": 2.2784786670000017,
+    "response": {
+      "id": "chatcmpl-EZumy6uAXbOdbEPxsyJ4LNQ37sUZ4",
+      "object": "chat.completion",
+      "created": 1792228484,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"bouquet\",\n      \"entity_type\": \"object\",\n      \"property\": \"appearance\",\n      \"value\": \"a bouquet of flowers in a vase on a table\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"9:48 am on 4 February, 2023\",\n      \"evidence_turn_ids\": [\"D4:26\"]\n    },\n    {\n      \"entity\": \"bouquet\",\n      \"entity_type\": \"object\",\n      \"property\": \"origin\",\n      \"value\": \"given to Deborah by her friend during Deborah's struggle\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current time of conversation\",\n      \"evidence_turn_ids\": [\"D4:28\"]\n    },\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"emotional_response_to_bouquet\",\n      \"value\": \"hope and courage; warmth and appreciation\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current time of conversation\",\n      \"evidence_turn_ids\": [\"D4:28\"]\n    },\n    {\n      \"entity\": \"flowers\",\n      \"entity_type\": \"object\",\n      \"property\": \"impact\",\n      \"value\": \"can make a real difference\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current time of conversation\",\n      \"evidence_turn_ids\": [\"D4:29\", \"D4:30\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 778,
+        "completion_tokens": 324,
+        "total_tokens": 1102,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-48::session_4::episode-005",
+    "stage": "entity_property_extraction",
+    "call_id": "4610244d-7b28-4179-9259-9024b69f80f5",
+    "latency_seconds": 4.703363374999995,
+    "response": {
+      "id": "chatcmpl-EZun1JAzwddOipE4bEdDQ4lyOtQT5",
+      "object": "chat.completion",
+      "created": 1792228487,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"favorite_nature_spot_1\",\n      \"value\": \"a park with a forest trail\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D4:32\"]\n    },\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"favorite_nature_spot_2\",\n      \"value\": \"a beach nearby\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D4:32\"]\n    },\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"favorite_nature_spot_3\",\n      \"value\": \"a spot by the water near her mom's old house\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D4:34\"]\n    },\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"purpose_of_spot_near_moms_house\",\n      \"value\": \"reflect on her mom's life and find some peace\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D4:34\"]\n    },\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"effect_of_nature\",\n      \"value\": \"helps forget daily craziness and find inner peace\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D4:34\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"vacation_photo_location\",\n      \"value\": \"Bogota\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last summer (relative to D4:33)\",\n      \"evidence_turn_ids\": [\"D4:33\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"vacation_photo_subject\",\n      \"value\": \"sunset over the water\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last summer (relative to D4:33)\",\n      \"evidence_turn_ids\": [\"D4:33\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"vacation_feeling\",\n      \"value\": \"nature's calming power\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last summer (relative to D4:33)\",\n      \"evidence_turn_ids\": [\"D4:33\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 937,
+        "completion_tokens": 618,
+        "total_tokens": 1555,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-48::session_4::episode-006",
+    "stage": "entity_property_extraction",
+    "call_id": "4caacf54-17da-4f5a-96d8-61bcbd10c636",
+    "latency_seconds": 4.049683250000001,
+    "response": {
+      "id": "chatcmpl-EZun6de1V7cttt9sRdm1RAT870clq",
+      "object": "chat.completion",
+      "created": 1792228492,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"amulet_origin\",\n      \"value\": \"from her mom\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D4:36\"]\n    },\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"amulet_usage\",\n      \"value\": \"brings it when she comes here to reflect on her mom\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D4:36\"]\n    },\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"amulet_function\",\n      \"value\": \"feels her mom's love and stays close to her; brings comfort when held\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D4:36\"]\n    },\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"reflective_tradition\",\n      \"value\": \"bringing the amulet from her mom\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D4:36\"]\n    },\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"belief_about_small_things\",\n      \"value\": \"small things like the amulet make a big difference by reminding of love and strength inside\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D4:38\"]\n    },\n    {\n      \"entity\": \"Anna\",\n      \"entity_type\": \"person\",\n      \"property\": \"pendant_usage\",\n      \"value\": \"wears a pendant in memory of her mother\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D4:40\"]\n    },\n    {\n      \"entity\": \"Deborah and Anna\",\n      \"entity_type\": \"other\",\n      \"property\": \"bonding_reason\",\n      \"value\": \"Anna's pendant brought them closer\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D4:40\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 903,
+        "completion_tokens": 525,
+        "total_tokens": 1428,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-48::session_4::episode-007",
+    "stage": "entity_property_extraction",
+    "call_id": "291a9d32-0bab-4861-9e80-84a913fccaca",
+    "latency_seconds": 3.8835357080000037,
+    "response": {
+      "id": "chatcmpl-EZunALowpDCQgeOQ3EnKJxS4lkWtl",
+      "object": "chat.completion",
+      "created": 1792228496,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"encouragement_given_to\",\n      \"value\": \"Jolene\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"9:48 am on 4 February, 2023\",\n      \"evidence_turn_ids\": [\"D4:42\"]\n    },\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"availability_for_support\",\n      \"value\": \"always here to cheer Jolene on\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"9:48 am on 4 February, 2023\",\n      \"evidence_turn_ids\": [\"D4:42\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"appreciation_for\",\n      \"value\": \"Deborah's encouragement\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"9:48 am on 4 February, 2023\",\n      \"evidence_turn_ids\": [\"D4:43\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"intended_action\",\n      \"value\": \"stay in touch with Deborah\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"9:48 am on 4 February, 2023\",\n      \"evidence_turn_ids\": [\"D4:43\"]\n    },\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"farewell\",\n      \"value\": \"Stay safe, Bye\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"9:48 am on 4 February, 2023\",\n      \"evidence_turn_ids\": [\"D4:44\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 634,
+        "completion_tokens": 416,
+        "total_tokens": 1050,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-48::session_5::episode-001",
+    "stage": "entity_property_extraction",
+    "call_id": "91ff2e26-9a0d-4f87-aa6f-478902682edd",
+    "latency_seconds": 3.716154834000001,
+    "response": {
+      "id": "chatcmpl-EZunEAHOOyCb175v0q4bc6PrPEfLM",
+      "object": "chat.completion",
+      "created": 1792228500,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"did_activity\",\n      \"value\": \"mini retreat to assess life\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last Wednesday before 9 Feb 2023\",\n      \"evidence_turn_ids\": [\"D5:1\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"experience_quality\",\n      \"value\": \"dope, gave a new outlook\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last Wednesday before 9 Feb 2023\",\n      \"evidence_turn_ids\": [\"D5:1\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"retreat_outcome\",\n      \"value\": \"achieved more than imagined\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last Wednesday before 9 Feb 2023\",\n      \"evidence_turn_ids\": [\"D5:3\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"retreat_outcome\",\n      \"value\": \"real confidence boost\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last Wednesday before 9 Feb 2023\",\n      \"evidence_turn_ids\": [\"D5:3\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"engineering_project_progress\",\n      \"value\": \"came up with some neat solutions\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"during or before 9 Feb 2023\",\n      \"evidence_turn_ids\": [\"D5:5\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"engineering_project_feeling\",\n      \"value\": \"really excited about progress\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"during or before 9 Feb 2023\",\n      \"evidence_turn_ids\": [\"D5:5\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 759,
+        "completion_tokens": 484,
+        "total_tokens": 1243,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-48::session_5::episode-002",
+    "stage": "entity_property_extraction",
+    "call_id": "c59197bf-e062-4bfa-97ab-1a9f5628c21f",
+    "latency_seconds": 5.507551833000001,
+    "response": {
+      "id": "chatcmpl-EZunIJ7s7mcQ4Dk4HbneKNsYXSWRg",
+      "object": "chat.completion",
+      "created": 1792228504,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"interest\",\n      \"value\": \"green tech could make a difference in disadvantaged areas\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"9:03 pm on 9 February, 2023\",\n      \"evidence_turn_ids\": [\"D5:7\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"idea\",\n      \"value\": \"volunteer program where engineers teach STEM to underprivileged kids\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"9:03 pm on 9 February, 2023\",\n      \"evidence_turn_ids\": [\"D5:7\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"plan_status\",\n      \"value\": \"not finished planning yet\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"9:03 pm on 9 February, 2023\",\n      \"evidence_turn_ids\": [\"D5:9\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"planning_details\",\n      \"value\": \"teaming up with local schools/centers to do workshops\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"9:03 pm on 9 February, 2023\",\n      \"evidence_turn_ids\": [\"D5:9\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"planning_details\",\n      \"value\": \"invite engineers as guest speakers to show kids career options\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"9:03 pm on 9 February, 2023\",\n      \"evidence_turn_ids\": [\"D5:9\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"outreach_status\",\n      \"value\": \"not reached out to any schools or centers yet\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"9:03 pm on 9 February, 2023\",\n      \"evidence_turn_ids\": [\"D5:11\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"planning_intent\",\n      \"value\": \"want to solidify the plan first before outreach\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"9:03 pm on 9 February, 2023\",\n      \"evidence_turn_ids\": [\"D5:11\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"planner_content\",\n      \"value\": \"sketches in the planner including notes\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"9:03 pm on 9 February, 2023\",\n      \"evidence_turn_ids\": [\"D5:13\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 996,
+        "completion_tokens": 690,
+        "total_tokens": 1686,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-48::session_5::episode-003",
+    "stage": "entity_property_extraction",
+    "call_id": "8c3ac3c7-f52a-4ad3-90b8-644c197ebe56",
+    "latency_seconds": 3.1609775829999975,
+    "response": {
+      "id": "chatcmpl-EZunNf9dJ8ehXV0SRnXyNPqzSflGH",
+      "object": "chat.completion",
+      "created": 1792228509,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"offers_help\",\n      \"value\": \"let me know if you need more tips or information\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"9:03 pm on 9 February, 2023\",\n      \"evidence_turn_ids\": [\"D5:14\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"expresses_gratitude\",\n      \"value\": \"Thanks, Deb! If I need anything else, I'll let you know.\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"9:03 pm on 9 February, 2023\",\n      \"evidence_turn_ids\": [\"D5:15\"]\n    },\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"expresses_affirmation\",\n      \"value\": \"You're awesome too! Take care!\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"9:03 pm on 9 February, 2023\",\n      \"evidence_turn_ids\": [\"D5:16\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"expresses_well_wishes\",\n      \"value\": \"Stay safe!\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"9:03 pm on 9 February, 2023\",\n      \"evidence_turn_ids\": [\"D5:17\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 636,
+        "completion_tokens": 353,
+        "total_tokens": 989,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-48::session_6::episode-001",
+    "stage": "entity_property_extraction",
+    "call_id": "c9308f69-a258-434b-a06b-1114e1e79526",
+    "latency_seconds": 3.237904874999998,
+    "response": {
+      "id": "chatcmpl-EZunQcet2WBkDOKAjO80W5kjpFOIe",
+      "object": "chat.completion",
+      "created": 1792228512,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"activity_last_night\",\n      \"value\": \"dinner and drinks with friends\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"night before 4:12 pm on 22 February, 2023\",\n      \"evidence_turn_ids\": [\"D6:1\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"emotional_state_after_activity\",\n      \"value\": \"totally buzzing, glad to let hair down\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"night before 4:12 pm on 22 February, 2023\",\n      \"evidence_turn_ids\": [\"D6:1\"]\n    },\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"recent_visit_place\",\n      \"value\": \"a place that was calming and nostalgic\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"shortly before 4:12 pm on 22 February, 2023\",\n      \"evidence_turn_ids\": [\"D6:2\"]\n    },\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"reaction_to_place\",\n      \"value\": \"calming and nostalgic\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"shortly before 4:12 pm on 22 February, 2023\",\n      \"evidence_turn_ids\": [\"D6:2\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 874,
+        "completion_tokens": 358,
+        "total_tokens": 1232,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-48::session_6::episode-002",
+    "stage": "entity_property_extraction",
+    "call_id": "5a53af9b-57be-403e-a2a2-8e7c365e06c0",
+    "latency_seconds": 4.937197375000011,
+    "response": {
+      "id": "chatcmpl-EZunU495Wj1vmN9aoWeuyitJEsZ3X",
+      "object": "chat.completion",
+      "created": 1792228516,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"feels_peace_from\",\n      \"value\": \"roses and dahlias\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last week to present\",\n      \"evidence_turn_ids\": [\"D6:4\"]\n    },\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"lost_friend\",\n      \"value\": \"one friend\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last week\",\n      \"evidence_turn_ids\": [\"D6:4\"]\n    },\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"spends_time_in\",\n      \"value\": \"garden for comfort\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"after friend's death, last week to present\",\n      \"evidence_turn_ids\": [\"D6:4\"]\n    },\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"is_comforted_by\",\n      \"value\": \"memories with lost friend\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"present\",\n      \"evidence_turn_ids\": [\"D6:6\"]\n    },\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"remembers\",\n      \"value\": \"Karlie\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"present\",\n      \"evidence_turn_ids\": [\"D6:8\"]\n    },\n    {\n      \"entity\": \"photo\",\n      \"entity_type\": \"object\",\n      \"property\": \"depicts\",\n      \"value\": \"Karlie and Deborah on a hike\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last summer\",\n      \"evidence_turn_ids\": [\"D6:8\"]\n    },\n    {\n      \"entity\": \"Karlie\",\n      \"entity_type\": \"person\",\n      \"property\": \"was_friend_of\",\n      \"value\": \"Deborah\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"before death\",\n      \"evidence_turn_ids\": [\"D6:8\"]\n    },\n    {\n      \"entity\": \"Karlie\",\n      \"entity_type\": \"person\",\n      \"property\": \"died_before\",\n      \"value\": \"February 22, 2023\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"before 22 February 2023\",\n      \"evidence_turn_ids\": [\"D6:8\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 826,
+        "completion_tokens": 582,
+        "total_tokens": 1408,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-48::session_6::episode-003",
+    "stage": "entity_property_extraction",
+    "call_id": "2e6ff8bd-b394-4c68-b174-1f1154dead5d",
+    "latency_seconds": 2.3223459579999997,
+    "response": {
+      "id": "chatcmpl-EZunYPqInUDKV8ouDtepqupZA6Sw3",
+      "object": "chat.completion",
+      "created": 1792228520,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"traveled_to\",\n      \"value\": \"Bali\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last year\",\n      \"evidence_turn_ids\": [\"D6:10\"]\n    },\n    {\n      \"entity\": \"Bali\",\n      \"entity_type\": \"place\",\n      \"property\": \"description\",\n      \"value\": \"gorgeous island that gave Deborah peace, great for yoga\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D6:10\"]\n    },\n    {\n      \"entity\": \"yoga on the beach\",\n      \"entity_type\": \"activity\",\n      \"property\": \"experience\",\n      \"value\": \"sound of the waves and the fresh air is wonderful\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D6:12\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 837,
+        "completion_tokens": 223,
+        "total_tokens": 1060,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-48::session_6::episode-004",
+    "stage": "entity_property_extraction",
+    "call_id": "033193cc-c11a-4c9b-9f21-5721bfbd20b6",
+    "latency_seconds": 1.7332111249999969,
+    "response": {
+      "id": "chatcmpl-EZunbmKl7bSm8fgmXRdB41BzcJbRZ",
+      "object": "chat.completion",
+      "created": 1792228523,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"utterance\",\n      \"value\": \"Take care!\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"4:12 pm on 22 February, 2023\",\n      \"evidence_turn_ids\": [\"D6:16\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 514,
+        "completion_tokens": 86,
+        "total_tokens": 600,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-48::session_7::episode-001",
+    "stage": "entity_property_extraction",
+    "call_id": "2f8b4b62-578a-4072-979f-ef8c4cafb4b9",
+    "latency_seconds": 6.368669000000011,
+    "response": {
+      "id": "chatcmpl-EZundXUUqPXNcjuc4U1r669jvcJRL",
+      "object": "chat.completion",
+      "created": 1792228525,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"education\",\n      \"value\": \"engineering school student\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"since last conversation before 2023-02-25\",\n      \"evidence_turn_ids\": [\"D7:1\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"partner's hobby\",\n      \"value\": \"video games\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"since last conversation before 2023-02-25\",\n      \"evidence_turn_ids\": [\"D7:1\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"personal wellness activities\",\n      \"value\": \"yoga and meditation\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"since last conversation before 2023-02-25\",\n      \"evidence_turn_ids\": [\"D7:1\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"effect of yoga and meditation\",\n      \"value\": \"provides calm amid craziness\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"since last conversation before 2023-02-25\",\n      \"evidence_turn_ids\": [\"D7:1\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"effect of yoga\",\n      \"value\": \"helps chill out and gain perspective\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"since last conversation before 2023-02-25\",\n      \"evidence_turn_ids\": [\"D7:3\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"effect of yoga after practice\",\n      \"value\": \"feels more alert and motivated\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"since last conversation before 2023-02-25\",\n      \"evidence_turn_ids\": [\"D7:3\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"latest yoga photo\",\n      \"value\": \"a woman sitting on a yoga mat doing a yoga pose\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"since last conversation before 2023-02-25\",\n      \"evidence_turn_ids\": [\"D7:3\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 741,
+        "completion_tokens": 581,
+        "total_tokens": 1322,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-48::session_7::episode-002",
+    "stage": "entity_property_extraction",
+    "call_id": "cfe2aa4a-2b90-42f2-a854-ec79c55b1f9f",
+    "latency_seconds": 2.880518207999998,
+    "response": {
+      "id": "chatcmpl-EZunjbOhe6Q1zCNI1KT2zPW78Q4VY",
+      "object": "chat.completion",
+      "created": 1792228531,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"does_yoga\",\n      \"value\": \"yes\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"2023-02-25\",\n      \"evidence_turn_ids\": [\"D7:5\"]\n    },\n    {\n      \"entity\": \"Jolene's partner\",\n      \"entity_type\": \"person\",\n      \"property\": \"does_yoga_with_Jolene\",\n      \"value\": \"started joining sometimes for bonding and relaxing\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"2023-02-25\",\n      \"evidence_turn_ids\": [\"D7:5\"]\n    },\n    {\n      \"entity\": \"Jolene and her partner\",\n      \"entity_type\": \"other\",\n      \"property\": \"relationship_duration\",\n      \"value\": \"together for three years\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"2023-02-25\",\n      \"evidence_turn_ids\": [\"D7:7\"]\n    },\n    {\n      \"entity\": \"Jolene and her partner\",\n      \"entity_type\": \"other\",\n      \"property\": \"marital_status\",\n      \"value\": \"not married yet\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"2023-02-25\",\n      \"evidence_turn_ids\": [\"D7:7\"]\n    },\n    {\n      \"entity\": \"Jolene's partner\",\n      \"entity_type\": \"person\",\n      \"property\": \"ring_on_hand_meaning\",\n      \"value\": \"decoration, not a wedding ring\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"2023-02-25\",\n      \"evidence_turn_ids\": [\"D7:7\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 753,
+        "completion_tokens": 402,
+        "total_tokens": 1155,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-48::session_7::episode-003",
+    "stage": "entity_property_extraction",
+    "call_id": "bc3dfde8-67fb-4d00-b5f7-d2f07eeb12e4",
+    "latency_seconds": 3.279337666999993,
+    "response": {
+      "id": "chatcmpl-EZunndpyxv6KoiZvAoI4KQVNthLbm",
+      "object": "chat.completion",
+      "created": 1792228535,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Jolene and her partner\",\n      \"entity_type\": \"person\",\n      \"property\": \"met_location\",\n      \"value\": \"engineering class in college\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"before February 25, 2023\",\n      \"evidence_turn_ids\": [\"D7:9\"]\n    },\n    {\n      \"entity\": \"Jolene and her partner\",\n      \"entity_type\": \"person\",\n      \"property\": \"relationship_origin\",\n      \"value\": \"started as friends\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"before February 25, 2023\",\n      \"evidence_turn_ids\": [\"D7:9\", \"D7:10\"]\n    },\n    {\n      \"entity\": \"Jolene and her partner\",\n      \"entity_type\": \"person\",\n      \"property\": \"relationship_status\",\n      \"value\": \"great\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"at February 25, 2023\",\n      \"evidence_turn_ids\": [\"D7:9\"]\n    },\n    {\n      \"entity\": \"Jolene and her partner\",\n      \"entity_type\": \"person\",\n      \"property\": \"collaboration\",\n      \"value\": \"work together on engineering projects\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"at February 25, 2023\",\n      \"evidence_turn_ids\": [\"D7:11\"]\n    },\n    {\n      \"entity\": \"Jolene and her partner\",\n      \"entity_type\": \"person\",\n      \"property\": \"shared_emotion_about_projects\",\n      \"value\": \"feel great about teaming up and understand each other's struggles\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"at February 25, 2023\",\n      \"evidence_turn_ids\": [\"D7:11\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 715,
+        "completion_tokens": 416,
+        "total_tokens": 1131,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-48::session_7::episode-004",
+    "stage": "entity_property_extraction",
+    "call_id": "6ab1e884-c977-448f-a5df-aa850484a675",
+    "latency_seconds": 2.4452633329999998,
+    "response": {
+      "id": "chatcmpl-EZunqKbJHSuAr76WiJf2aIhIvDh3I",
+      "object": "chat.completion",
+      "created": 1792228538,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"coping_method\",\n      \"value\": \"taking breaks to do breathing or meditate when overwhelmed\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current\",\n      \"evidence_turn_ids\": [\"D7:13\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"effect_of_meditation\",\n      \"value\": \"helps feel calmer and clearer, enabling easier handling of challenges\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current\",\n      \"evidence_turn_ids\": [\"D7:13\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"intent\",\n      \"value\": \"continue taking time for herself and keep pushing forward\",\n      \"modality\": \"desired\",\n      \"valid_time\": \"future\",\n      \"evidence_turn_ids\": [\"D7:15\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 673,
+        "completion_tokens": 235,
+        "total_tokens": 908,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-48::session_7::episode-005",
+    "stage": "entity_property_extraction",
+    "call_id": "5b91caac-78b0-44ce-82a7-18c5e1dafd01",
+    "latency_seconds": 5.606372958000009,
+    "response": {
+      "id": "chatcmpl-EZunsQ5foHzNHx1pRoVXWhNAnQZz8",
+      "object": "chat.completion",
+      "created": 1792228540,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"supports\",\n      \"value\": \"Jolene\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"4:50 pm on 25 February, 2023\",\n      \"evidence_turn_ids\": [\"D7:16\"]\n    },\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"practices_morning_routine\",\n      \"value\": \"meditation, yoga, teaching classes\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"morning before 4:50 pm on 25 February, 2023\",\n      \"evidence_turn_ids\": [\"D7:18\"]\n    },\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"completed_first_morning_jog\",\n      \"value\": \"yesterday at a nearby park\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"yesterday before 4:50 pm on 25 February, 2023\",\n      \"evidence_turn_ids\": [\"D7:18\"]\n    },\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"plans_daily_morning_jog\",\n      \"value\": \"incorporate morning jog into daily routine\",\n      \"modality\": \"planned\",\n      \"valid_time\": \"after yesterday before 4:50 pm on 25 February, 2023\",\n      \"evidence_turn_ids\": [\"D7:18\"]\n    },\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"spends_evening_time_with\",\n      \"value\": \"loved ones\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"evenings before 4:50 pm on 25 February, 2023\",\n      \"evidence_turn_ids\": [\"D7:18\"]\n    },\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"feels_exercise_effect\",\n      \"value\": \"makes her feel connected to her body\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"4:50 pm on 25 February, 2023\",\n      \"evidence_turn_ids\": [\"D7:20\"]\n    },\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"believes_self_care_benefit\",\n      \"value\": \"looking out for ourselves gives energy to help others\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"4:50 pm on 25 February, 2023\",\n      \"evidence_turn_ids\": [\"D7:22\"]\n    },\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"encourages_self_worth\",\n      \"value\": \"You are worth it too\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"4:50 pm on 25 February, 2023\",\n      \"evidence_turn_ids\": [\"D7:22\"]\n    },\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"photo_description\",\n      \"value\": \"person sitting on a bench looking at the sunset outdoors\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"4:50 pm on 25 February, 2023\",\n      \"evidence_turn_ids\": [\"D7:16\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 893,
+        "completion_tokens": 786,
+        "total_tokens": 1679,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-48::session_7::episode-006",
+    "stage": "entity_property_extraction",
+    "call_id": "75f164ee-29eb-4dec-8f05-814b260479fa",
+    "latency_seconds": 1.9090287919999867,
+    "response": {
+      "id": "chatcmpl-EZunyiTnbuZaNRTLnSE4DrBORBz9D",
+      "object": "chat.completion",
+      "created": 1792228546,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"feeling_about_Deb_words\",\n      \"value\": \"They really mean something to me\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"4:50 pm on 25 February, 2023\",\n      \"evidence_turn_ids\": [\"D7:23\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"intention\",\n      \"value\": \"I'll keep remembering to prioritize self-care\",\n      \"modality\": \"planned\",\n      \"valid_time\": \"after 4:50 pm on 25 February, 2023\",\n      \"evidence_turn_ids\": [\"D7:23\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 532,
+        "completion_tokens": 179,
+        "total_tokens": 711,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-48::session_8::episode-001",
+    "stage": "entity_property_extraction",
+    "call_id": "2110c52d-36a8-4c95-bdad-e57f177f23a4",
+    "latency_seconds": 4.418498332999988,
+    "response": {
+      "id": "chatcmpl-EZuo03udKjj2IfoLavmIZMlITJjQw",
+      "object": "chat.completion",
+      "created": 1792228548,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Anna\",\n      \"entity_type\": \"person\",\n      \"property\": \"gave_food_to\",\n      \"value\": \"Deborah\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"recently before 7:18 pm on 2 March, 2023\",\n      \"evidence_turn_ids\": [\"D8:1\"]\n    },\n    {\n      \"entity\": \"Anna\",\n      \"entity_type\": \"person\",\n      \"property\": \"food_given\",\n      \"value\": \"vegan stir-fry with tofu, vegetables, ginger, and soy sauce\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"recently before 7:18 pm on 2 March, 2023\",\n      \"evidence_turn_ids\": [\"D8:1\"]\n    },\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"food_taste_experience\",\n      \"value\": \"vegan stir-fry with tofu and veg with ginger and soy sauce was really tasty\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"recently before 7:18 pm on 2 March, 2023\",\n      \"evidence_turn_ids\": [\"D8:1\"]\n    },\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"belief_about_food\",\n      \"value\": \"food is a source of pleasure and nourishment\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D8:1\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"favorite_dish\",\n      \"value\": \"lasagna\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D8:2\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"current_life_status\",\n      \"value\": \"busy with studies and exams\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"at 7:18 pm on 2 March, 2023\",\n      \"evidence_turn_ids\": [\"D8:2\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 617,
+        "completion_tokens": 504,
+        "total_tokens": 1121,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-48::session_8::episode-002",
+    "stage": "entity_property_extraction",
+    "call_id": "6091c148-5d1e-464b-b22d-43397fa6a76e",
+    "latency_seconds": 3.933261041999998,
+    "response": {
+      "id": "chatcmpl-EZuo4w3vXxpK62DAm8fRsGFz5q4V3",
+      "object": "chat.completion",
+      "created": 1792228552,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"activity_done\",\n      \"value\": \"yoga and meditation\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last Friday before 7:18 pm on 2 March, 2023\",\n      \"evidence_turn_ids\": [\"D8:4\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"reason_for_activity\",\n      \"value\": \"to relax\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last Friday before 7:18 pm on 2 March, 2023\",\n      \"evidence_turn_ids\": [\"D8:4\"]\n    },\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"activity_done\",\n      \"value\": \"yoga and meditation\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"recently before 7:18 pm on 2 March, 2023\",\n      \"evidence_turn_ids\": [\"D8:5\"]\n    },\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"effect_of_activity\",\n      \"value\": \"helped reset mind\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"recently before 7:18 pm on 2 March, 2023\",\n      \"evidence_turn_ids\": [\"D8:5\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"feeling_after_activity\",\n      \"value\": \"amazing; quiet moments work wonders for the soul\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"recently before 7:18 pm on 2 March, 2023\",\n      \"evidence_turn_ids\": [\"D8:6\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 699,
+        "completion_tokens": 435,
+        "total_tokens": 1134,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-48::session_8::episode-003",
+    "stage": "entity_property_extraction",
+    "call_id": "d42c120a-0caf-4ccb-b53e-06e7bfc9acd3",
+    "latency_seconds": 4.368704125000008,
+    "response": {
+      "id": "chatcmpl-EZuo8q1h64FzfO5uAGQ1WiwPD30Dv",
+      "object": "chat.completion",
+      "created": 1792228556,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"took_to_park\",\n      \"value\": \"Seraphim\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last Sunday before 7:18 pm on 2 March, 2023\",\n      \"evidence_turn_ids\": [\"D8:8\"]\n    },\n    {\n      \"entity\": \"Seraphim\",\n      \"entity_type\": \"other\",\n      \"property\": \"species\",\n      \"value\": \"snake\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D8:8\", \"D8:10\"]\n    },\n    {\n      \"entity\": \"Seraphim\",\n      \"entity_type\": \"other\",\n      \"property\": \"temperament\",\n      \"value\": \"tamed\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D8:10\"]\n    },\n    {\n      \"entity\": \"Jolene and Seraphim\",\n      \"entity_type\": \"other\",\n      \"property\": \"activity\",\n      \"value\": \"explored new places outdoors\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last Sunday before 7:18 pm on 2 March, 2023\",\n      \"evidence_turn_ids\": [\"D8:8\", \"D8:10\"]\n    },\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"likes_about_outdoors\",\n      \"value\": \"birds chirping and the breeze gently blowing\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"at 7:18 pm on 2 March, 2023\",\n      \"evidence_turn_ids\": [\"D8:11\"]\n    },\n    {\n      \"entity\": \"Deborah\",\n      \"entity_type\": \"person\",\n      \"property\": \"feelings_about_outdoors\",\n      \"value\": \"reminded of what really matters\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"at 7:18 pm on 2 March, 2023\",\n      \"evidence_turn_ids\": [\"D8:11\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"outdoor_experience_meaning\",\n      \"value\": \"reminder to slow down and appreciate the little things\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"at 7:18 pm on 2 March, 2023\",\n      \"evidence_turn_ids\": [\"D8:12\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 791,
+        "completion_tokens": 588,
+        "total_tokens": 1379,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_2738b29278"
+    }
+  },
+  {
+    "source_id": "conv-48::session_8::episode-004",
+    "stage": "entity_property_extraction",
+    "call_id": "58a9435c-76fe-4bbc-93a8-8a9589238979",
+    "latency_seconds": 3.231689375000002,
+    "response": {
+      "id": "chatcmpl-EZuoD8u3ELPO4JQuhKrnq2H281Zl3",
+      "object": "chat.completion",
+      "created": 1792228561,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "```json\n{\n  \"records\": [\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"mindfulness_focus\",\n      \"value\": \"stress levels and mental health care\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current\",\n      \"evidence_turn_ids\": [\"D8:14\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"challenge\",\n      \"value\": \"getting too caught up in studies and forgetting self-care\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current\",\n      \"evidence_turn_ids\": [\"D8:14\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"feeling\",\n      \"value\": \"overwhelmed by exams and deadlines\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current\",\n      \"evidence_turn_ids\": [\"D8:16\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"task_load\",\n      \"value\": \"never-ending to-do list related to exams and deadlines\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current\",\n      \"evidence_turn_ids\": [\"D8:16\"]\n    },\n    {\n      \"entity\": \"Jolene\",\n      \"entity_type\": \"person\",\n      \"property\": \"effort\",\n      \"value\": \"trying best despite challenges\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current\",\n      \"evidence_turn_ids\": [\"D8:16\"]\n    }\n  ]\n}\n```",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 730,
+        "completion_tokens": 375,
+        "total_tokens": 1105,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  }
+]

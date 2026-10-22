@@ -1,0 +1,45 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Caroline",
+      "property": "intent",
+      "search": "evidence showing if Caroline intends to move back to her home country soon"
+    },
+    {
+      "entity": "Caroline",
+      "property": "plans",
+      "search": "statements or indications of Caroline's future plans related to moving"
+    },
+    {
+      "entity": "Caroline",
+      "property": "future_plans",
+      "search": "any mention of Caroline's expectations or goals regarding relocation"
+    },
+    {
+      "entity": "Caroline",
+      "property": "desire_to",
+      "search": "expressions of desire or intent to relocate to her home country"
+    },
+    {
+      "entity": "Caroline",
+      "property": "anticipation",
+      "search": "signs of anticipation or emotional readiness to move back"
+    },
+    {
+      "entity": "Caroline",
+      "property": "expresses_anticipation",
+      "search": "direct expressions of looking forward to moving back"
+    },
+    {
+      "entity": "Caroline",
+      "property": "future_expectation_family_years",
+      "search": "expectations about family life that might indicate moving soon"
+    },
+    {
+      "entity": "Caroline",
+      "property": "emotion_about_sharing_with_Melanie",
+      "search": "emotional expressions that might infer wish to move based on relevant relationships"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0075",
+  "category": 2,
+  "question": "When did Melanie's family go on a roadtrip?",
+  "gold_answer": "The weekend before 20 October 2023",
+  "status": "scored",
+  "generated_answer": "Melanie's family went on a road trip around early to mid October 2023, as Melanie mentioned in a conversation on 20 October 2023 that they just completed the road trip the day before (19 October 2023).",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_18::episode-004",
+      "turn_id": "D18:17"
+    }
+  ],
+  "query_elapsed_seconds": 4.6148201250000005,
+  "label": "WRONG",
+  "judge_reason": "The generated answer specifies the road trip was completed on 19 October 2023, which contradicts the reference's timeframe of the weekend before 20 October 2023."
+}

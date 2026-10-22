@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-EZrJIRT3jkBXUyVBDOJ5VfGV01NHs",
+  "object": "chat.completion",
+  "created": 1792215112,
+  "model": "gpt-4o-mini-2024-07-18",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\"label\":\"CORRECT\",\"reason\":\"The generated answer captures Melanie's feelings of gratitude and thankfulness for her family after the accident, while also reflecting her initial fear, which adds depth to her emotional response.\"}",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 209,
+    "completion_tokens": 43,
+    "total_tokens": 252,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_d3b38c8dc1"
+}

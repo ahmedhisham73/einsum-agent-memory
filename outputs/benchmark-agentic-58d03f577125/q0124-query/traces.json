@@ -1,0 +1,125 @@
+[
+  {
+    "stage": "agent_decision",
+    "call_id": "19448323-e913-47ea-9cbf-660c717d336c",
+    "response": {
+      "id": "chatcmpl-EZrGbpC9hVamyetLWBtgwir9XYFCm",
+      "object": "chat.completion",
+      "created": 1792214945,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"search\",\"query\":\"Caroline pet\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 147,
+        "completion_tokens": 11,
+        "total_tokens": 158,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f810e81ea"
+    },
+    "latency_seconds": 1.13442025
+  },
+  {
+    "stage": "agent_decision",
+    "call_id": "85c34227-8c85-471f-8caa-e4d301d8e55f",
+    "response": {
+      "id": "chatcmpl-EZrGd7EYJNLfGEiYuVSFZTlBdITJL",
+      "object": "chat.completion",
+      "created": 1792214947,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"ready\",\"reason\":\"Caroline has a pet guinea pig named Oscar, as mentioned in conversation chunk from session_13.\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3164,
+        "completion_tokens": 28,
+        "total_tokens": 3192,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f810e81ea"
+    },
+    "latency_seconds": 1.477566666
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "44858be9-7d38-4052-8176-dd38367d09ec",
+    "response": {
+      "id": "chatcmpl-EZrGfOjMrqZlnpjjhE3Y2srFU20z8",
+      "object": "chat.completion",
+      "created": 1792214949,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Caroline has a guinea pig named Oscar.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_13::chunk-0000\",\"turn_id\":\"D13:3\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2933,
+        "completion_tokens": 46,
+        "total_tokens": 2979,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_802f1283f8"
+    },
+    "latency_seconds": 1.5360707909999998
+  }
+]

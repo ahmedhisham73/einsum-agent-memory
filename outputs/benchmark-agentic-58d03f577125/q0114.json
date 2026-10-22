@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-26::q0114",
+  "category": 4,
+  "question": "What did Caroline see at the council meeting for adoption?",
+  "gold_answer": "many people wanting to create loving homes for children in need",
+  "status": "failed",
+  "error": "Query failed. See q0114.log"
+}

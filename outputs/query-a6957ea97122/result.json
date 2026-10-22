@@ -1,0 +1,33 @@
+{
+  "status": "completed",
+  "experiment_id": "query-a6957ea97122",
+  "memory_build": "offline-memory-a5e48166f56e",
+  "embedding_fingerprint": "264e45d8331b217a87fc15e35db2c614b32e9c572d0bbb53fe9bcc90dda3a8a6",
+  "question": "What did Caroline research?",
+  "answer": "Caroline researched adoption agencies, particularly those that support LGBTQ+ individuals, with a goal of providing a loving home to kids who need it. She also researched counseling and mental health, focusing on helping trans people accept themselves and support their mental health, inspired by her own experiences and passion for creating safe, supportive spaces.",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-26::session_2::episode-002",
+      "turn_id": "D2:8"
+    },
+    {
+      "episode_id": "conv-26::session_2::episode-002",
+      "turn_id": "D2:12"
+    },
+    {
+      "episode_id": "conv-26::session_4::episode-003",
+      "turn_id": "D4:11"
+    },
+    {
+      "episode_id": "conv-26::session_4::episode-003",
+      "turn_id": "D4:13"
+    }
+  ],
+  "elapsed_seconds": 5.59462649999999,
+  "implementation": {
+    "structured_matching": "literal entity / property-token overlap",
+    "all_matching": "all episodes; no optimized exhaustive retrieval",
+    "coverage": "answer-model sufficiency check with expansion"
+  }
+}

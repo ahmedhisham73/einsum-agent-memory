@@ -1,0 +1,10 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Melanie",
+      "property": "has_pets",
+      "search": "search for types or names of pets owned by Melanie"
+    }
+  ]
+}

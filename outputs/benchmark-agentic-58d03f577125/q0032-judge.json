@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-EZqKVEMhfas7gW20GMkMIXBzSLVUb",
+  "object": "chat.completion",
+  "created": 1792211343,
+  "model": "gpt-4o-mini-2024-07-18",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\"label\":\"WRONG\",\"reason\":\"The generated answer states that the camping trip was the week before 27 June 2023, which is a contradiction as it incorrectly places the trip in the third week of June.\"}",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 168,
+    "completion_tokens": 45,
+    "total_tokens": 213,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_2d0a3f9b7e"
+}

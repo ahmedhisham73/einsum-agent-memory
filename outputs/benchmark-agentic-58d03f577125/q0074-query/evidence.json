@@ -1,0 +1,308 @@
+[
+  {
+    "episode_id": "conv-26::session_7::chunk-0000",
+    "session_id": "session_7",
+    "observed_at": "2023-07-12T16:33:00",
+    "source_timestamp": "4:33 pm on 12 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D7:1",
+        "speaker": "Caroline",
+        "text": "Hey Mel, great to chat with you again! So much has happened since we last spoke - I went to an LGBTQ conference two days ago and it was really special. I got the chance to meet and connect with people who've gone through similar journeys. It was such a welcoming environment and I felt totally accepted. I'm really thankful for this amazing community - it's shown me how important it is to fight for trans rights and spread awareness.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:2",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, that sounds awesome! So glad you felt accepted and supported. Events like these are great for reminding us of how strong community can be!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:3",
+        "speaker": "Caroline",
+        "text": "Yeah, it's true! Having people who back you makes such a huge difference. It's great to see how far LGBTQ rights have come, but there's still plenty of progress to be made. I wanna help make a difference.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:4",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline. We've come so far, but there's more to do. Your drive to help is awesome! What's your plan to pitch in?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:5",
+        "speaker": "Caroline",
+        "text": "Thanks, Mell! I'm still looking into counseling and mental health jobs. It's important to me that people have someone to talk to, and I want to help make that happen.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:6",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! You're so inspiring for wanting to help others with their mental health. What's pushing you to keep going forward with it?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_12::chunk-0000",
+    "session_id": "session_12",
+    "observed_at": "2023-08-17T13:50:00",
+    "source_timestamp": "1:50 pm on 17 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D12:1",
+        "speaker": "Caroline",
+        "text": "Hey Mel! How're ya doin'? Recently, I had a not-so-great experience on a hike. I ran into a group of religious conservatives who said something that really upset me. It made me think how much work we still have to do for LGBTQ rights. It's been so helpful to have people around me who accept and support me, so I know I'll be ok!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:2",
+        "speaker": "Melanie",
+        "text": "Hey Caroline, sorry about the hike. It sucks when people are so closed-minded. Strong support really helps. FYI, I finished another pottery project - want to see a pic?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:3",
+        "speaker": "Caroline",
+        "text": "Sure thing, Melanie! Can't wait to see your pottery project.  I'm happy you found something that makes you happy. Show me when you can!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:4",
+        "speaker": "Melanie",
+        "text": "Here it is. Pretty proud of it! It was a great experience. Thoughts?",
+        "metadata": {
+          "img_url": [
+            "https://omceramic.com/cdn/shop/products/IMG_0022.jpg"
+          ],
+          "blip_caption": "a photo of a bowl with a colorful design on it",
+          "query": "pottery project ceramic bowl"
+        }
+      },
+      {
+        "turn_id": "D12:5",
+        "speaker": "Caroline",
+        "text": "That bowl is awesome, Mel! What gave you the idea for all the colors and patterns?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:6",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! I'm obsessed with those, so I made something to catch the eye and make people smile. Plus, painting helps me express my feelings and be creative. Each stroke carries a part of me.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_12::chunk-0010",
+    "session_id": "session_12",
+    "observed_at": "2023-08-17T13:50:00",
+    "source_timestamp": "1:50 pm on 17 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D12:11",
+        "speaker": "Caroline",
+        "text": "Definitely, Mel! Finding those happy moments and clinging to them is key. It's what keeps us going, even when life's hard. I'm lucky to have people like you to remind me.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:12",
+        "speaker": "Melanie",
+        "text": "Yeah, same here Caroline. You make life's struggles more bearable.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:13",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! It means a lot having you in my corner. Appreciate our friendship!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:14",
+        "speaker": "Melanie",
+        "text": "I appreciate our friendship too, Caroline. You've always been there for me.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:15",
+        "speaker": "Caroline",
+        "text": "I'm always here for you, Mel! We had a blast last year at the Pride fest. Those supportive friends definitely make everything worth it!",
+        "metadata": {
+          "img_url": [
+            "https://media2.fdncms.com/portmerc/imager/u/large/46577490/pride2022-2-jankowski.jpg"
+          ],
+          "blip_caption": "a photo of a group of people walking down a street with balloons",
+          "query": "friends pride festival"
+        }
+      },
+      {
+        "turn_id": "D12:16",
+        "speaker": "Melanie",
+        "text": "That was a blast! So much fun with the whole gang! Wanna do a family outing this summer?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_14::chunk-0000",
+    "session_id": "session_14",
+    "observed_at": "2023-08-25T13:33:00",
+    "source_timestamp": "1:33 pm on 25 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D14:1",
+        "speaker": "Caroline",
+        "text": "Hey, Mel! How's it going? There's something I want to tell you. I went hiking last week and got into a bad spot with some people. It really bugged me, so I tried to apologize to them.",
+        "metadata": {
+          "img_url": [
+            "https://photos.thetrek.co/wp-content/uploads/2017/11/IMG_1742-e1509796327550.jpg"
+          ],
+          "blip_caption": "a photo of a woman sitting on a sign on top of a mountain",
+          "query": "letter apology hike encounter"
+        }
+      },
+      {
+        "turn_id": "D14:2",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! Sorry that happened to you. It's tough when those things happen, but it's great you apologized. Takes a lot of courage and maturity! What do you think of this?",
+        "metadata": {
+          "img_url": [
+            "https://i0.wp.com/bardith.com/wp-content/uploads/2022/05/IMG_4371-1.jpg"
+          ],
+          "blip_caption": "a photo of a plate with a bunch of flowers on it",
+          "query": "pottery purple bowl floral patterns"
+        }
+      },
+      {
+        "turn_id": "D14:3",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! That plate is awesome! Did you make it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:4",
+        "speaker": "Melanie",
+        "text": "Yeah, I made it in pottery class yesterday. I love it! Pottery's so relaxing and creative. Have you tried it yet?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:5",
+        "speaker": "Caroline",
+        "text": "Nah, I haven't. I've been busy painting - here's something I just finished.",
+        "metadata": {
+          "img_url": [
+            "https://i0.wp.com/makesomethingmondays.com/wp-content/uploads/2017/07/mini-beach-sunset-painting-diy.jpg"
+          ],
+          "blip_caption": "a photo of a painting of a sunset on a small easel",
+          "query": "vibrant sunset beach painting"
+        }
+      },
+      {
+        "turn_id": "D14:6",
+        "speaker": "Melanie",
+        "text": "Wow Caroline, that looks amazing! Those colors are so vivid, it really looks like a real sunset. What gave you the idea to paint it?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_18::chunk-0000",
+    "session_id": "session_18",
+    "observed_at": "2023-10-20T18:55:00",
+    "source_timestamp": "6:55 pm on 20 October, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D18:1",
+        "speaker": "Melanie",
+        "text": "Hey Caroline, that roadtrip this past weekend was insane! We were all freaked when my son got into an accident. We were so lucky he was okay. It was a real scary experience. Thankfully it's over now. What's been up since we last talked?",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/dl8dki2hm3k81.jpg"
+          ],
+          "blip_caption": "a photo of a car dashboard with a white cloth and a steering wheel",
+          "query": "car accident damaged car airbags deployed roadtrip"
+        }
+      },
+      {
+        "turn_id": "D18:2",
+        "speaker": "Caroline",
+        "text": "Oops, sorry 'bout the accident! Must have been traumatizing for you guys. Thank goodness your son's okay. Life sure can be a roller coaster.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:3",
+        "speaker": "Melanie",
+        "text": "Yeah, our trip got off to a bad start. I was really scared when we got into the accident. Thankfully, my son's ok and that was a reminder that life is precious and to cherish our family.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:4",
+        "speaker": "Caroline",
+        "text": "Glad your son is okay, Melanie. Life's unpredictable, but moments like these remind us how important our loved ones are. Family's everything.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:5",
+        "speaker": "Melanie",
+        "text": "Yeah, you're right, Caroline. Family's super important to me. Especially after the accident, I've thought a lot about how much I need them. They mean the world to me and I'm so thankful to have them. Thankfully, they enjoyed the Grand Canyon a lot!",
+        "metadata": {
+          "img_url": [
+            "https://familyadventuresva.files.wordpress.com/2022/03/img_5030.jpg"
+          ],
+          "blip_caption": "a photo of two children standing on a rocky cliff overlooking a canyon",
+          "query": "grand canyon family photo"
+        }
+      },
+      {
+        "turn_id": "D18:6",
+        "speaker": "Caroline",
+        "text": "The kids look so cute, Mel! I bet they bring lots of joy. How did they handle the accident?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_18::chunk-0005",
+    "session_id": "session_18",
+    "observed_at": "2023-10-20T18:55:00",
+    "source_timestamp": "6:55 pm on 20 October, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D18:7",
+        "speaker": "Melanie",
+        "text": "Thanks! They were scared but we reassured them and explained their brother would be OK. They're tough kids.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:8",
+        "speaker": "Caroline",
+        "text": "Kids are amazingly resilient in tough situations. They have an amazing ability to bounce back.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:9",
+        "speaker": "Melanie",
+        "text": "They're really amazing. Wish I was that resilient too. But they give me the strength to keep going.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:10",
+        "speaker": "Caroline",
+        "text": "Our loved ones give us strength to tackle any challenge - it's amazing!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:11",
+        "speaker": "Melanie",
+        "text": "Yeah, Caroline. Totally agree. They're my biggest motivation and support.",
+        "metadata": {}
+      }
+    ]
+  }
+]

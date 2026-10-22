@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "280e011c-376b-48cc-b0c5-e77fd54af2cf",
+    "response": {
+      "id": "chatcmpl-EZjmJJvwYM5tV5ZGEHoJlnwdFv24b",
+      "object": "chat.completion",
+      "created": 1792186159,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Melanie's family\",\"property\":\"action\",\"search\":\"search evidence of a roadtrip involving Melanie's family including date or time information\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2682,
+        "completion_tokens": 38,
+        "total_tokens": 2720,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f111b06a9"
+    },
+    "latency_seconds": 1.916661417
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "d1886ada-6a50-4c25-b207-6c492cdbf5a6",
+    "response": {
+      "id": "chatcmpl-EZjmLo6ikcvtpM77ghW82Ht9iMgMF",
+      "object": "chat.completion",
+      "created": 1792186161,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Melanie's family went on a road trip around early to mid October 2023, as Melanie mentioned in a conversation on 20 October 2023 that they just completed the road trip the day before (19 October 2023).\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_18::episode-004\",\"turn_id\":\"D18:17\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3947,
+        "completion_tokens": 85,
+        "total_tokens": 4032,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_38f508f26a"
+    },
+    "latency_seconds": 1.5093066669999997
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "status": "completed",
+  "experiment_id": "q0001-query",
+  "memory_build": "offline-memory-a5e48166f56e",
+  "baseline_build": "agentic-build-300877917378",
+  "question": "When did Caroline go to the LGBTQ support group?",
+  "answer": "Caroline went to the LGBTQ support group on 7 May, 2023 (the day before 8 May, 2023).",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-26::session_1::chunk-0000",
+      "turn_id": "D1:3"
+    }
+  ],
+  "elapsed_seconds": 6.744872083,
+  "stop_reason": "agent_ready",
+  "search_count": 1,
+  "selected_chunks": 6,
+  "unique_source_turns": 34,
+  "implementation": {
+    "chunk_turns": 6,
+    "overlap_turns": 1,
+    "top_k_per_search": 6,
+    "max_searches": 4,
+    "max_agent_decisions": 5
+  }
+}

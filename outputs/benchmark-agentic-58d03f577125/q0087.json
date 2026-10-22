@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-26::q0087",
+  "category": 4,
+  "question": "What type of individuals does the adoption agency Caroline is considering support?",
+  "gold_answer": "LGBTQ+ individuals",
+  "status": "failed",
+  "error": "Query failed. See q0087.log"
+}

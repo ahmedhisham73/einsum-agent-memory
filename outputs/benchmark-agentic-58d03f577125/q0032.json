@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0032",
+  "category": 2,
+  "question": "When did Melanie go camping in June?",
+  "gold_answer": "The week before 27 June 2023",
+  "status": "scored",
+  "generated_answer": "Melanie went camping in the mountains last week from 27 June 2023, which places the camping trip around the third week of June.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_4::chunk-0005",
+      "turn_id": "D4:6"
+    }
+  ],
+  "query_elapsed_seconds": 4.1953869169999995,
+  "label": "WRONG",
+  "judge_reason": "The generated answer states that the camping trip was the week before 27 June 2023, which is a contradiction as it incorrectly places the trip in the third week of June."
+}

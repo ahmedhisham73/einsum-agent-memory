@@ -1,0 +1,25 @@
+{
+  "question_id": "conv-26::q0148",
+  "category": 4,
+  "question": "How did Melanie feel after the accident?",
+  "gold_answer": "Grateful and thankful for her family",
+  "status": "scored",
+  "generated_answer": "Melanie felt really scared when the accident happened, describing the experience as 'real scary,' but she was also thankful that her son was okay. The accident made her reflect on how precious life is and how much she cherishes her family. Afterward, she felt thankful for her family and recognized how important they are to her, expressing gratitude for having them.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_18::chunk-0000",
+      "turn_id": "D18:1"
+    },
+    {
+      "episode_id": "conv-26::session_18::chunk-0000",
+      "turn_id": "D18:3"
+    },
+    {
+      "episode_id": "conv-26::session_18::chunk-0000",
+      "turn_id": "D18:5"
+    }
+  ],
+  "query_elapsed_seconds": 5.964548165999999,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer captures Melanie's feelings of gratitude and thankfulness for her family after the accident, while also reflecting her initial fear, which adds depth to her emotional response."
+}

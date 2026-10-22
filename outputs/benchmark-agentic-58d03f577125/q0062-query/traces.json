@@ -1,0 +1,125 @@
+[
+  {
+    "stage": "agent_decision",
+    "call_id": "76b7cdea-5906-4a31-bd10-2851d8c10dcb",
+    "response": {
+      "id": "chatcmpl-EZqYtKsZnd66iS6wXeD6zltpOEaLH",
+      "object": "chat.completion",
+      "created": 1792212235,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"search\",\"query\":\"musical artists bands Melanie has seen\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 150,
+        "completion_tokens": 15,
+        "total_tokens": 165,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f810e81ea"
+    },
+    "latency_seconds": 1.2527964580000002
+  },
+  {
+    "stage": "agent_decision",
+    "call_id": "f8e1e588-9340-4242-97ff-284abf4a3ee1",
+    "response": {
+      "id": "chatcmpl-EZqYut1y0lXZMI2YDTqiYfOFeQMgI",
+      "object": "chat.completion",
+      "created": 1792212236,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"ready\",\"reason\":\"Melanie has mentioned seeing Matt Patterson at a concert, and she also mentioned attending a show by the band 'Summer Sounds.' These references provide evidence of the musical artists/bands Melanie has seen.\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2860,
+        "completion_tokens": 47,
+        "total_tokens": 2907,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f810e81ea"
+    },
+    "latency_seconds": 1.6243959590000001
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "1d8e173e-e544-412a-b382-f865da11b55f",
+    "response": {
+      "id": "chatcmpl-EZqYwtZJHz5zwdA8Lz2y2VJ2ESRka",
+      "object": "chat.completion",
+      "created": 1792212238,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Melanie has seen Matt Patterson perform live at a concert. She also mentioned seeing a band called 'Summer Sounds' at a show she went to.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_11::chunk-0000\",\"turn_id\":\"D11:3\"},{\"episode_id\":\"conv-26::session_15::chunk-0010\",\"turn_id\":\"D15:16\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2650,
+        "completion_tokens": 91,
+        "total_tokens": 2741,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_802f1283f8"
+    },
+    "latency_seconds": 1.435068791
+  }
+]

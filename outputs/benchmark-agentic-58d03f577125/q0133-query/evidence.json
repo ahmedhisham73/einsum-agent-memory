@@ -1,0 +1,302 @@
+[
+  {
+    "episode_id": "conv-26::session_9::chunk-0015",
+    "session_id": "session_9",
+    "observed_at": "2023-07-17T14:31:00",
+    "source_timestamp": "2:31 pm on 17 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D9:16",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! I painted this after I visited a LGBTQ center. I wanted to capture everyone's unity and strength.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:17",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! It really conveys unity and strength - such a gorgeous piece! My kids and I just finished another painting like our last one.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_11::chunk-0005",
+    "session_id": "session_11",
+    "observed_at": "2023-08-14T14:24:00",
+    "source_timestamp": "2:24 pm on 14 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D11:6",
+        "speaker": "Caroline",
+        "text": "It was so inspiring, Mel! Check out the crowd. People of all kinds celebrating love and acceptance - it really pushed me to keep fighting for LGBTQ rights.",
+        "metadata": {
+          "img_url": [
+            "https://cloudfront-us-east-1.images.arcpublishing.com/opb/35SV3NIC4ZBRTLDGHUJ5QWU5WY.jpg"
+          ],
+          "blip_caption": "a photo of a group of people walking down a street with balloons",
+          "query": "pride parade crowd"
+        }
+      },
+      {
+        "turn_id": "D11:7",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! That sounds awesome. This pic's from last night - looks like everyone was having a blast! Reminds me it's important to cultivate a loving and accepting environment for our kids. How do you stay inclusive in your work as an artist?",
+        "metadata": {
+          "img_url": [
+            "https://livingmividaloca.com/wp-content/uploads/2023/06/anaheim-town-square-concert.jpg"
+          ],
+          "blip_caption": "a photo of a group of people sitting on chairs watching a band",
+          "query": "outdoor concert family loving accepting environment"
+        }
+      },
+      {
+        "turn_id": "D11:8",
+        "speaker": "Caroline",
+        "text": "That pic is cool! Representing inclusivity and diversity in my art is important to me. I also use it to speak up for the LGBTQ+ community and push for acceptance. Here's a recent painting!",
+        "metadata": {
+          "img_url": [
+            "https://www.dawnsilerart.com/wp-content/uploads/sites/3130/2020/11/YCNHTMC-CU9.jpg"
+          ],
+          "blip_caption": "a photo of a painting with a painting brush and paint on it",
+          "query": "painting vibrant colors diverse representation"
+        }
+      },
+      {
+        "turn_id": "D11:9",
+        "speaker": "Melanie",
+        "text": "Wow, that rocks! What's the main idea of your art?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:10",
+        "speaker": "Caroline",
+        "text": "My art is about expressing my trans experience. It's my way of showing my story and helping people understand the trans community.",
+        "metadata": {
+          "blip_caption": "a photo of a painting of a woman with a cow in her lap"
+        }
+      },
+      {
+        "turn_id": "D11:11",
+        "speaker": "Melanie",
+        "text": "Your art's amazing, Caroline. I love how you use it to tell your stories and teach people about trans folks. I'd love to see another painting of yours!",
+        "metadata": {
+          "blip_caption": "a photo of a person holding a purple bowl in their hand"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_11::chunk-0010",
+    "session_id": "session_11",
+    "observed_at": "2023-08-14T14:24:00",
+    "source_timestamp": "2:24 pm on 14 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D11:12",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie. Here's one- 'Embracing Identity' is all about finding comfort and love in being yourself. The woman in the painting stands for the journey of acceptance. My aim was to show warmth, love and self-acceptance.",
+        "metadata": {
+          "img_url": [
+            "https://media.artsper.com/artwork/2013795_1_l.jpg"
+          ],
+          "blip_caption": "a photo of a painting of a woman with a red shirt",
+          "query": "painting embracing identity purple blue"
+        }
+      },
+      {
+        "turn_id": "D11:13",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, that's gorgeous! I love the self-acceptance and love theme. How does art help you with your self-discovery and acceptance journey?",
+        "metadata": {
+          "blip_caption": "a photo of a woman is making a vase on a wheel"
+        }
+      },
+      {
+        "turn_id": "D11:14",
+        "speaker": "Caroline",
+        "text": "Art's allowed me to explore my transition and my changing body. It's been a great way to work through stuff I'm going through. I love that it teaches me to accept the beauty of imperfections.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:15",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, that's so cool! Art can be so healing and a way to really connect with who you are. It's awesome that beauty can be found in the imperfections. We're all individual and wonderfully imperfect. Thanks for sharing it with me!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:16",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie. It means a lot to share this with you.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_12::chunk-0005",
+    "session_id": "session_12",
+    "observed_at": "2023-08-17T13:50:00",
+    "source_timestamp": "1:50 pm on 17 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D12:6",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! I'm obsessed with those, so I made something to catch the eye and make people smile. Plus, painting helps me express my feelings and be creative. Each stroke carries a part of me.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:7",
+        "speaker": "Caroline",
+        "text": "That's amazing! You put so much effort and passion into it. Your creativity really shines. Seeing how art can be a source of self-expression and growth is truly inspiring. You're killing it!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:8",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! Your words really mean a lot. I've always felt a strong connection to art, and it's been a huge learning experience. It's both a sanctuary and a source of comfort. I'm so glad to have something that brings me so much happiness and fulfillment.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:9",
+        "speaker": "Caroline",
+        "text": "Glad you found something that makes you so happy! Surrounding ourselves with things that bring us joy is important. Life's too short to do anything else!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:10",
+        "speaker": "Melanie",
+        "text": "Agreed, Caroline. Life's tough but it's worth it when we have things that make us happy.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:11",
+        "speaker": "Caroline",
+        "text": "Definitely, Mel! Finding those happy moments and clinging to them is key. It's what keeps us going, even when life's hard. I'm lucky to have people like you to remind me.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_14::chunk-0015",
+    "session_id": "session_14",
+    "observed_at": "2023-08-25T13:33:00",
+    "source_timestamp": "1:33 pm on 25 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D14:16",
+        "speaker": "Melanie",
+        "text": "I'm in awe of your courage as a trans person. Have you made any more art lately?",
+        "metadata": {
+          "blip_caption": "a photo of a stained glass window with a person holding a key"
+        }
+      },
+      {
+        "turn_id": "D14:17",
+        "speaker": "Caroline",
+        "text": "Thanks, Mel! I made this stained glass window to remind myself and others that within us all is the key to discovering our true potential and living our best life.",
+        "metadata": {
+          "img_url": [
+            "https://projects.history.qmul.ac.uk/thehistorian/wp-content/uploads/sites/24/2017/10/IMG_20170922_072615_165.jpg"
+          ],
+          "blip_caption": "a photo of three stained glass windows in a church with a clock",
+          "query": "stained glass window letter"
+        }
+      },
+      {
+        "turn_id": "D14:18",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, that looks amazing! What inspired it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:19",
+        "speaker": "Caroline",
+        "text": "Thanks! It was made for a local church and shows time changing our lives. I made it to show my own journey as a transgender woman and how we should accept growth and change.",
+        "metadata": {
+          "blip_caption": "a photo of a large stained glass window in a church"
+        }
+      },
+      {
+        "turn_id": "D14:20",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline!  All those colors are incredible and the story it tells is so inspiring.",
+        "metadata": {
+          "blip_caption": "a photo of a door with a stained glass window and a coat rack"
+        }
+      },
+      {
+        "turn_id": "D14:21",
+        "speaker": "Caroline",
+        "text": "Thanks, Mel! Glad you like it. It's a symbol of togetherness, to celebrate differences and be that much closer. I'd love to make something like this next!",
+        "metadata": {
+          "img_url": [
+            "https://i0.wp.com/marbleheadcurrent.org/wp-content/uploads/2023/07/rainbow.jpg"
+          ],
+          "blip_caption": "a photo of a painted sidewalk with a rainbow design on it",
+          "query": "painting rainbow flag unity acceptance"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_16::chunk-0005",
+    "session_id": "session_16",
+    "observed_at": "2023-09-13T00:09:00",
+    "source_timestamp": "12:09 am on 13 September, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D16:6",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, that looks awesome! I love how it shows the togetherness and power you were talking about. How long have you been creating art?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:7",
+        "speaker": "Caroline",
+        "text": "Since I was 17 or so. I find it soempowering and cathartic. It's amazing how art can show things that are hard to put into words. How long have you been into art?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:8",
+        "speaker": "Melanie",
+        "text": "Seven years now, and I've finally found my real muses: painting and pottery. It's so calming and satisfying. Check out my pottery creation in the pic!",
+        "metadata": {
+          "img_url": [
+            "https://www.1hotpieceofglass.com/cdn/shop/files/image_93ad5985-ff65-4b93-877b-3ee948ac5641_5000x.jpg"
+          ],
+          "blip_caption": "a photo of a group of bowls and a starfish on a white surface",
+          "query": "pottery bowl intricate patterns purple glaze"
+        }
+      },
+      {
+        "turn_id": "D16:9",
+        "speaker": "Caroline",
+        "text": "Melanie, those bowls are amazing! They each have such cool designs. I love that you chose pottery for your art. Painting and drawing have helped me express my feelings and explore my gender identity. Creating art was really important to me during my transition - it helped me understand and accept myself. I'm so grateful.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:10",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! It has really helped me out. I love how it's both a creative outlet and a form of therapy. Have you ever thought about trying it or another art form?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:11",
+        "speaker": "Caroline",
+        "text": "I haven't done pottery yet, but I'm game for trying new art. I might try it sometime! Check out this piece I made!",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/z8zsh53ycfvb1.jpg"
+          ],
+          "blip_caption": "a photo of a painting on a easel with a red and blue background",
+          "query": "canvas colourful brush strokes"
+        }
+      }
+    ]
+  }
+]

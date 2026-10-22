@@ -1,0 +1,742 @@
+[
+  {
+    "entity": "Jolene",
+    "entity_type": "person",
+    "property": "finished_project",
+    "value": "electrical engineering project",
+    "modality": "observed",
+    "valid_time": "last week",
+    "evidence_turn_ids": [
+      "D1:2"
+    ],
+    "record_id": "offline-memory-9ba7db9d4271::r000001",
+    "episode_id": "conv-48::session_1::episode-001",
+    "conversation_id": "conv-48",
+    "session_id": "session_1",
+    "observed_at": "2023-01-23T16:06:00",
+    "source_timestamp": "4:06 pm on 23 January, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Jolene",
+    "entity_type": "person",
+    "property": "project_workload",
+    "value": "took a lot of work",
+    "modality": "observed",
+    "valid_time": "last week",
+    "evidence_turn_ids": [
+      "D1:2"
+    ],
+    "record_id": "offline-memory-9ba7db9d4271::r000002",
+    "episode_id": "conv-48::session_1::episode-001",
+    "conversation_id": "conv-48",
+    "session_id": "session_1",
+    "observed_at": "2023-01-23T16:06:00",
+    "source_timestamp": "4:06 pm on 23 January, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Deborah",
+    "entity_type": "person",
+    "property": "visited_place",
+    "value": "mother's old house",
+    "modality": "observed",
+    "valid_time": "last week",
+    "evidence_turn_ids": [
+      "D1:3"
+    ],
+    "record_id": "offline-memory-9ba7db9d4271::r000003",
+    "episode_id": "conv-48::session_1::episode-001",
+    "conversation_id": "conv-48",
+    "session_id": "session_1",
+    "observed_at": "2023-01-23T16:06:00",
+    "source_timestamp": "4:06 pm on 23 January, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Deborah",
+    "entity_type": "person",
+    "property": "mother_status",
+    "value": "passed away a few years ago",
+    "modality": "observed",
+    "valid_time": "a few years before 23 January 2023",
+    "evidence_turn_ids": [
+      "D1:5"
+    ],
+    "record_id": "offline-memory-9ba7db9d4271::r000004",
+    "episode_id": "conv-48::session_1::episode-002",
+    "conversation_id": "conv-48",
+    "session_id": "session_1",
+    "observed_at": "2023-01-23T16:06:00",
+    "source_timestamp": "4:06 pm on 23 January, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Deborah and her mother",
+    "entity_type": "person",
+    "property": "last_photo_together",
+    "value": "there is a last photo together",
+    "modality": "observed",
+    "valid_time": "before 23 January 2023",
+    "evidence_turn_ids": [
+      "D1:5"
+    ],
+    "record_id": "offline-memory-9ba7db9d4271::r000005",
+    "episode_id": "conv-48::session_1::episode-002",
+    "conversation_id": "conv-48",
+    "session_id": "session_1",
+    "observed_at": "2023-01-23T16:06:00",
+    "source_timestamp": "4:06 pm on 23 January, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Jolene",
+    "entity_type": "person",
+    "property": "mother_status",
+    "value": "passed away last year",
+    "modality": "observed",
+    "valid_time": "last year before 23 January 2023",
+    "evidence_turn_ids": [
+      "D1:6"
+    ],
+    "record_id": "offline-memory-9ba7db9d4271::r000006",
+    "episode_id": "conv-48::session_1::episode-002",
+    "conversation_id": "conv-48",
+    "session_id": "session_1",
+    "observed_at": "2023-01-23T16:06:00",
+    "source_timestamp": "4:06 pm on 23 January, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Jolene",
+    "entity_type": "person",
+    "property": "room_location",
+    "value": "room in her mother's house",
+    "modality": "observed",
+    "valid_time": "at time of conversation",
+    "evidence_turn_ids": [
+      "D1:6"
+    ],
+    "record_id": "offline-memory-9ba7db9d4271::r000007",
+    "episode_id": "conv-48::session_1::episode-002",
+    "conversation_id": "conv-48",
+    "session_id": "session_1",
+    "observed_at": "2023-01-23T16:06:00",
+    "source_timestamp": "4:06 pm on 23 January, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Deborah's mother's house",
+    "entity_type": "place",
+    "property": "special_furniture",
+    "value": "a bench near the window",
+    "modality": "observed",
+    "valid_time": "at time before 23 January 2023",
+    "evidence_turn_ids": [
+      "D1:7"
+    ],
+    "record_id": "offline-memory-9ba7db9d4271::r000008",
+    "episode_id": "conv-48::session_1::episode-002",
+    "conversation_id": "conv-48",
+    "session_id": "session_1",
+    "observed_at": "2023-01-23T16:06:00",
+    "source_timestamp": "4:06 pm on 23 January, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Deborah's mother",
+    "entity_type": "person",
+    "property": "favorite_spot",
+    "value": "sat every morning on a bench near the window",
+    "modality": "observed",
+    "valid_time": "before she passed away",
+    "evidence_turn_ids": [
+      "D1:7"
+    ],
+    "record_id": "offline-memory-9ba7db9d4271::r000009",
+    "episode_id": "conv-48::session_1::episode-002",
+    "conversation_id": "conv-48",
+    "session_id": "session_1",
+    "observed_at": "2023-01-23T16:06:00",
+    "source_timestamp": "4:06 pm on 23 January, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Deborah",
+    "entity_type": "person",
+    "property": "memory_practice",
+    "value": "sits on the bench near the window sometimes to stay connected to her mother",
+    "modality": "observed",
+    "valid_time": "at time of conversation",
+    "evidence_turn_ids": [
+      "D1:7"
+    ],
+    "record_id": "offline-memory-9ba7db9d4271::r000010",
+    "episode_id": "conv-48::session_1::episode-002",
+    "conversation_id": "conv-48",
+    "session_id": "session_1",
+    "observed_at": "2023-01-23T16:06:00",
+    "source_timestamp": "4:06 pm on 23 January, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Jolene",
+    "entity_type": "person",
+    "property": "keepsake",
+    "value": "pendant",
+    "modality": "observed",
+    "valid_time": "2010",
+    "evidence_turn_ids": [
+      "D1:8"
+    ],
+    "record_id": "offline-memory-9ba7db9d4271::r000011",
+    "episode_id": "conv-48::session_1::episode-003",
+    "conversation_id": "conv-48",
+    "session_id": "session_1",
+    "observed_at": "2023-01-23T16:06:00",
+    "source_timestamp": "4:06 pm on 23 January, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Jolene's pendant",
+    "entity_type": "object",
+    "property": "gifted_by",
+    "value": "Jolene's mother",
+    "modality": "observed",
+    "valid_time": "2010",
+    "evidence_turn_ids": [
+      "D1:8"
+    ],
+    "record_id": "offline-memory-9ba7db9d4271::r000012",
+    "episode_id": "conv-48::session_1::episode-003",
+    "conversation_id": "conv-48",
+    "session_id": "session_1",
+    "observed_at": "2023-01-23T16:06:00",
+    "source_timestamp": "4:06 pm on 23 January, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Jolene's pendant",
+    "entity_type": "object",
+    "property": "gift_location",
+    "value": "Paris",
+    "modality": "observed",
+    "valid_time": "2010",
+    "evidence_turn_ids": [
+      "D1:8"
+    ],
+    "record_id": "offline-memory-9ba7db9d4271::r000013",
+    "episode_id": "conv-48::session_1::episode-003",
+    "conversation_id": "conv-48",
+    "session_id": "session_1",
+    "observed_at": "2023-01-23T16:06:00",
+    "source_timestamp": "4:06 pm on 23 January, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Jolene's pendant",
+    "entity_type": "object",
+    "property": "symbol_meaning",
+    "value": "freedom",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D1:10"
+    ],
+    "record_id": "offline-memory-9ba7db9d4271::r000014",
+    "episode_id": "conv-48::session_1::episode-003",
+    "conversation_id": "conv-48",
+    "session_id": "session_1",
+    "observed_at": "2023-01-23T16:06:00",
+    "source_timestamp": "4:06 pm on 23 January, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Jolene's pendant",
+    "entity_type": "object",
+    "property": "symbol_function",
+    "value": "reminder to pursue goals and not get held back",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D1:10"
+    ],
+    "record_id": "offline-memory-9ba7db9d4271::r000015",
+    "episode_id": "conv-48::session_1::episode-003",
+    "conversation_id": "conv-48",
+    "session_id": "session_1",
+    "observed_at": "2023-01-23T16:06:00",
+    "source_timestamp": "4:06 pm on 23 January, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Deborah",
+    "entity_type": "person",
+    "property": "keepsake",
+    "value": "pendant",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D1:9"
+    ],
+    "record_id": "offline-memory-9ba7db9d4271::r000016",
+    "episode_id": "conv-48::session_1::episode-003",
+    "conversation_id": "conv-48",
+    "session_id": "session_1",
+    "observed_at": "2023-01-23T16:06:00",
+    "source_timestamp": "4:06 pm on 23 January, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Deborah",
+    "entity_type": "person",
+    "property": "goal",
+    "value": "keep teaching yoga and supporting community",
+    "modality": "observed",
+    "valid_time": "as of 23 January 2023",
+    "evidence_turn_ids": [
+      "D1:13"
+    ],
+    "record_id": "offline-memory-9ba7db9d4271::r000017",
+    "episode_id": "conv-48::session_1::episode-004",
+    "conversation_id": "conv-48",
+    "session_id": "session_1",
+    "observed_at": "2023-01-23T16:06:00",
+    "source_timestamp": "4:06 pm on 23 January, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Deborah",
+    "entity_type": "person",
+    "property": "passion",
+    "value": "helping people find peace and joy through yoga",
+    "modality": "observed",
+    "valid_time": "as of 23 January 2023",
+    "evidence_turn_ids": [
+      "D1:13"
+    ],
+    "record_id": "offline-memory-9ba7db9d4271::r000018",
+    "episode_id": "conv-48::session_1::episode-004",
+    "conversation_id": "conv-48",
+    "session_id": "session_1",
+    "observed_at": "2023-01-23T16:06:00",
+    "source_timestamp": "4:06 pm on 23 January, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Deborah",
+    "entity_type": "person",
+    "property": "inspiration",
+    "value": "yoga helped her find peace during a rough time",
+    "modality": "observed",
+    "valid_time": "before 23 January 2023",
+    "evidence_turn_ids": [
+      "D1:15"
+    ],
+    "record_id": "offline-memory-9ba7db9d4271::r000019",
+    "episode_id": "conv-48::session_1::episode-004",
+    "conversation_id": "conv-48",
+    "session_id": "session_1",
+    "observed_at": "2023-01-23T16:06:00",
+    "source_timestamp": "4:06 pm on 23 January, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Deborah",
+    "entity_type": "person",
+    "property": "ending conversation",
+    "value": "Deborah has to leave now",
+    "modality": "observed",
+    "valid_time": "4:06 pm on 23 January, 2023",
+    "evidence_turn_ids": [
+      "D1:17"
+    ],
+    "record_id": "offline-memory-9ba7db9d4271::r000020",
+    "episode_id": "conv-48::session_1::episode-005",
+    "conversation_id": "conv-48",
+    "session_id": "session_1",
+    "observed_at": "2023-01-23T16:06:00",
+    "source_timestamp": "4:06 pm on 23 January, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Jolene",
+    "entity_type": "person",
+    "property": "anticipation",
+    "value": "looking forward to the next chat",
+    "modality": "observed",
+    "valid_time": "4:06 pm on 23 January, 2023",
+    "evidence_turn_ids": [
+      "D1:18"
+    ],
+    "record_id": "offline-memory-9ba7db9d4271::r000021",
+    "episode_id": "conv-48::session_1::episode-005",
+    "conversation_id": "conv-48",
+    "session_id": "session_1",
+    "observed_at": "2023-01-23T16:06:00",
+    "source_timestamp": "4:06 pm on 23 January, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Deborah's dad",
+    "entity_type": "person",
+    "property": "death",
+    "value": "passed away two days ago, sudden death",
+    "modality": "observed",
+    "valid_time": "two days before 9:49 am on 27 January, 2023",
+    "evidence_turn_ids": [
+      "D2:1"
+    ],
+    "record_id": "offline-memory-9ba7db9d4271::r000022",
+    "episode_id": "conv-48::session_2::episode-001",
+    "conversation_id": "conv-48",
+    "session_id": "session_2",
+    "observed_at": "2023-01-27T09:49:00",
+    "source_timestamp": "9:49 am on 27 January, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Deborah",
+    "entity_type": "person",
+    "property": "emotional_state",
+    "value": "grieving, trying to channel grief by spending time with family and cherishing memories",
+    "modality": "observed",
+    "valid_time": "around 9:49 am on 27 January, 2023",
+    "evidence_turn_ids": [
+      "D2:1"
+    ],
+    "record_id": "offline-memory-9ba7db9d4271::r000023",
+    "episode_id": "conv-48::session_2::episode-001",
+    "conversation_id": "conv-48",
+    "session_id": "session_2",
+    "observed_at": "2023-01-27T09:49:00",
+    "source_timestamp": "9:49 am on 27 January, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Deborah's family",
+    "entity_type": "other",
+    "property": "emotional_state",
+    "value": "shell-shocked by sudden death",
+    "modality": "observed",
+    "valid_time": "around 9:49 am on 27 January, 2023",
+    "evidence_turn_ids": [
+      "D2:1"
+    ],
+    "record_id": "offline-memory-9ba7db9d4271::r000024",
+    "episode_id": "conv-48::session_2::episode-001",
+    "conversation_id": "conv-48",
+    "session_id": "session_2",
+    "observed_at": "2023-01-27T09:49:00",
+    "source_timestamp": "9:49 am on 27 January, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Deborah",
+    "entity_type": "person",
+    "property": "coping_method",
+    "value": "looking at family album and photos for comfort and peace",
+    "modality": "observed",
+    "valid_time": "around 9:49 am on 27 January, 2023",
+    "evidence_turn_ids": [
+      "D2:3"
+    ],
+    "record_id": "offline-memory-9ba7db9d4271::r000025",
+    "episode_id": "conv-48::session_2::episode-001",
+    "conversation_id": "conv-48",
+    "session_id": "session_2",
+    "observed_at": "2023-01-27T09:49:00",
+    "source_timestamp": "9:49 am on 27 January, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Deborah's parents",
+    "entity_type": "person",
+    "property": "wedding_date",
+    "value": "1993",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D2:3"
+    ],
+    "record_id": "offline-memory-9ba7db9d4271::r000026",
+    "episode_id": "conv-48::session_2::episode-001",
+    "conversation_id": "conv-48",
+    "session_id": "session_2",
+    "observed_at": "2023-01-27T09:49:00",
+    "source_timestamp": "9:49 am on 27 January, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Jolene",
+    "entity_type": "person",
+    "property": "opinion_about_couple",
+    "value": "They were a beautiful couple",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D2:4"
+    ],
+    "record_id": "offline-memory-9ba7db9d4271::r000027",
+    "episode_id": "conv-48::session_2::episode-002",
+    "conversation_id": "conv-48",
+    "session_id": "session_2",
+    "observed_at": "2023-01-27T09:49:00",
+    "source_timestamp": "9:49 am on 27 January, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Deborah",
+    "entity_type": "person",
+    "property": "family_goal",
+    "value": "trying to be as good a family as my parents were",
+    "modality": "observed",
+    "valid_time": "present",
+    "evidence_turn_ids": [
+      "D2:5"
+    ],
+    "record_id": "offline-memory-9ba7db9d4271::r000028",
+    "episode_id": "conv-48::session_2::episode-002",
+    "conversation_id": "conv-48",
+    "session_id": "session_2",
+    "observed_at": "2023-01-27T09:49:00",
+    "source_timestamp": "9:49 am on 27 January, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Deborah",
+    "entity_type": "person",
+    "property": "relationship_value",
+    "value": "love and openness have kept us close all these years",
+    "modality": "observed",
+    "valid_time": "up to present",
+    "evidence_turn_ids": [
+      "D2:7"
+    ],
+    "record_id": "offline-memory-9ba7db9d4271::r000029",
+    "episode_id": "conv-48::session_2::episode-002",
+    "conversation_id": "conv-48",
+    "session_id": "session_2",
+    "observed_at": "2023-01-27T09:49:00",
+    "source_timestamp": "9:49 am on 27 January, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Deborah",
+    "entity_type": "person",
+    "property": "relationship_happiness_cause",
+    "value": "Being there for each other has made us both happy",
+    "modality": "observed",
+    "valid_time": "up to present",
+    "evidence_turn_ids": [
+      "D2:7"
+    ],
+    "record_id": "offline-memory-9ba7db9d4271::r000030",
+    "episode_id": "conv-48::session_2::episode-002",
+    "conversation_id": "conv-48",
+    "session_id": "session_2",
+    "observed_at": "2023-01-27T09:49:00",
+    "source_timestamp": "9:49 am on 27 January, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Deborah",
+    "entity_type": "person",
+    "property": "letter_receipt",
+    "value": "received a letter yesterday",
+    "modality": "observed",
+    "valid_time": "yesterday relative to source time",
+    "evidence_turn_ids": [
+      "D2:7"
+    ],
+    "record_id": "offline-memory-9ba7db9d4271::r000031",
+    "episode_id": "conv-48::session_2::episode-002",
+    "conversation_id": "conv-48",
+    "session_id": "session_2",
+    "observed_at": "2023-01-27T09:49:00",
+    "source_timestamp": "9:49 am on 27 January, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Deborah",
+    "entity_type": "person",
+    "property": "letter_sender",
+    "value": "group members",
+    "modality": "observed",
+    "valid_time": "recent",
+    "evidence_turn_ids": [
+      "D2:9"
+    ],
+    "record_id": "offline-memory-9ba7db9d4271::r000032",
+    "episode_id": "conv-48::session_2::episode-002",
+    "conversation_id": "conv-48",
+    "session_id": "session_2",
+    "observed_at": "2023-01-27T09:49:00",
+    "source_timestamp": "9:49 am on 27 January, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Deborah",
+    "entity_type": "person",
+    "property": "letter_content_summary",
+    "value": "thanked me for the positive influence I had on them",
+    "modality": "observed",
+    "valid_time": "recent",
+    "evidence_turn_ids": [
+      "D2:9"
+    ],
+    "record_id": "offline-memory-9ba7db9d4271::r000033",
+    "episode_id": "conv-48::session_2::episode-002",
+    "conversation_id": "conv-48",
+    "session_id": "session_2",
+    "observed_at": "2023-01-27T09:49:00",
+    "source_timestamp": "9:49 am on 27 January, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Deborah",
+    "entity_type": "person",
+    "property": "passion",
+    "value": "passionate about yoga",
+    "modality": "observed",
+    "valid_time": "present",
+    "evidence_turn_ids": [
+      "D2:9"
+    ],
+    "record_id": "offline-memory-9ba7db9d4271::r000034",
+    "episode_id": "conv-48::session_2::episode-002",
+    "conversation_id": "conv-48",
+    "session_id": "session_2",
+    "observed_at": "2023-01-27T09:49:00",
+    "source_timestamp": "9:49 am on 27 January, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Deborah",
+    "entity_type": "person",
+    "property": "yoga_location",
+    "value": "her old home",
+    "modality": "observed",
+    "valid_time": "present",
+    "evidence_turn_ids": [
+      "D2:11",
+      "D2:13"
+    ],
+    "record_id": "offline-memory-9ba7db9d4271::r000035",
+    "episode_id": "conv-48::session_2::episode-003",
+    "conversation_id": "conv-48",
+    "session_id": "session_2",
+    "observed_at": "2023-01-27T09:49:00",
+    "source_timestamp": "9:49 am on 27 January, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Deborah",
+    "entity_type": "person",
+    "property": "old_home_reason_to_visit",
+    "value": "to visit her mom who passed away",
+    "modality": "observed",
+    "valid_time": "present",
+    "evidence_turn_ids": [
+      "D2:13"
+    ],
+    "record_id": "offline-memory-9ba7db9d4271::r000036",
+    "episode_id": "conv-48::session_2::episode-003",
+    "conversation_id": "conv-48",
+    "session_id": "session_2",
+    "observed_at": "2023-01-27T09:49:00",
+    "source_timestamp": "9:49 am on 27 January, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "window spot in Deborah's old home",
+    "entity_type": "place",
+    "property": "emotional_effect",
+    "value": "gives Deborah peace and comforts her with presence of her mom",
+    "modality": "observed",
+    "valid_time": "present",
+    "evidence_turn_ids": [
+      "D2:13",
+      "D2:15"
+    ],
+    "record_id": "offline-memory-9ba7db9d4271::r000037",
+    "episode_id": "conv-48::session_2::episode-003",
+    "conversation_id": "conv-48",
+    "session_id": "session_2",
+    "observed_at": "2023-01-27T09:49:00",
+    "source_timestamp": "9:49 am on 27 January, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Deborah's mom",
+    "entity_type": "person",
+    "property": "status",
+    "value": "passed away",
+    "modality": "observed",
+    "valid_time": "present",
+    "evidence_turn_ids": [
+      "D2:13"
+    ],
+    "record_id": "offline-memory-9ba7db9d4271::r000038",
+    "episode_id": "conv-48::session_2::episode-003",
+    "conversation_id": "conv-48",
+    "session_id": "session_2",
+    "observed_at": "2023-01-27T09:49:00",
+    "source_timestamp": "9:49 am on 27 January, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Deborah's mom",
+    "entity_type": "person",
+    "property": "habitual_spot",
+    "value": "sat by the window every night reading a book and smiling",
+    "modality": "observed",
+    "valid_time": "past",
+    "evidence_turn_ids": [
+      "D2:17"
+    ],
+    "record_id": "offline-memory-9ba7db9d4271::r000039",
+    "episode_id": "conv-48::session_2::episode-003",
+    "conversation_id": "conv-48",
+    "session_id": "session_2",
+    "observed_at": "2023-01-27T09:49:00",
+    "source_timestamp": "9:49 am on 27 January, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Deborah's mom",
+    "entity_type": "person",
+    "property": "hobby",
+    "value": "reading",
+    "modality": "observed",
+    "valid_time": "past",
+    "evidence_turn_ids": [
+      "D2:17"
+    ],
+    "record_id": "offline-memory-9ba7db9d4271::r000040",
+    "episode_id": "conv-48::session_2::episode-003",
+    "conversation_id": "conv-48",
+    "session_id": "session_2",
+    "observed_at": "2023-01-27T09:49:00",
+    "source_timestamp": "9:49 am on 27 January, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Deborah's mom",
+    "entity_type": "person",
+    "property": "favorite_place_in_house",
+    "value": "window spot",
+    "modality": "observed",
+    "valid_time": "past",
+    "evidence_turn_ids": [
+      "D2:17"
+    ],
+    "record_id": "offline-memory-9ba7db9d4271::r000041",
+    "episode_id": "conv-48::session_2::episode-003",
+    "conversation_id": "conv-48",
+    "session_id": "session_2",
+    "observed_at": "2023-01-27T09:49:00",
+    "source_timestamp": "9:49 am on 27 January, 2023",
+    "timezone_status": "unspecified"
+  }
+]

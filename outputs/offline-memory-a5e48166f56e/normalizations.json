@@ -1,0 +1,9 @@
+[
+  {
+    "episode_id": "conv-26::session_12::episode-001",
+    "record_position": 1,
+    "field": "entity_type",
+    "from": "group",
+    "to": "other"
+  }
+]

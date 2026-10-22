@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-26::q0019",
+  "category": 1,
+  "question": "Where has Melanie camped?",
+  "gold_answer": "beach, mountains, forest",
+  "status": "failed",
+  "error": "Query failed. See q0019.log"
+}

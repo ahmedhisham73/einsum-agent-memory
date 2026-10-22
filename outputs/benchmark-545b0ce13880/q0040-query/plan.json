@@ -1,0 +1,40 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Caroline",
+      "property": "participation",
+      "search": "Caroline participation LGBTQ community"
+    },
+    {
+      "entity": "Caroline",
+      "property": "activities",
+      "search": "Caroline activities related to LGBTQ community"
+    },
+    {
+      "entity": "Caroline",
+      "property": "advocacy_focus",
+      "search": "Caroline advocacy focus on LGBTQ issues"
+    },
+    {
+      "entity": "Caroline",
+      "property": "supports",
+      "search": "Caroline supports LGBTQ community"
+    },
+    {
+      "entity": "Caroline",
+      "property": "event_participation",
+      "search": "Caroline event participation related to LGBTQ community"
+    },
+    {
+      "entity": "Caroline",
+      "property": "membership_description",
+      "search": "Caroline membership description in LGBTQ organizations"
+    },
+    {
+      "entity": "Caroline",
+      "property": "expresses_support_for",
+      "search": "Caroline expresses support for LGBTQ community"
+    }
+  ]
+}

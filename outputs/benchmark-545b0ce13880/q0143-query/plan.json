@@ -1,0 +1,45 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Melanie and Caroline",
+      "property": "shares_journey_with",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Melanie and Caroline",
+      "property": "says",
+      "search": "description of their journey through life together"
+    },
+    {
+      "entity": "",
+      "property": "relationship_support_experience",
+      "search": "how Melanie and Caroline experienced support in their journey"
+    },
+    {
+      "entity": "",
+      "property": "emotional_state_about_relationships",
+      "search": "emotional description of their journey together"
+    },
+    {
+      "entity": "",
+      "property": "personal_reflection",
+      "search": "Melanie and Caroline's personal reflections on life journey together"
+    },
+    {
+      "entity": "",
+      "property": "relationship_change_due_to_journey",
+      "search": "any changes in their relationship due to their journey"
+    },
+    {
+      "entity": "",
+      "property": "sentiment",
+      "search": "sentiments expressed by Melanie and Caroline about life together"
+    },
+    {
+      "entity": "",
+      "property": "emotional_reaction",
+      "search": "emotional reactions from Melanie and Caroline regarding their shared life journey"
+    }
+  ]
+}

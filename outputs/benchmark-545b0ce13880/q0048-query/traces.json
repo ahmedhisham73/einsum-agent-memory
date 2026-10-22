@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "c2de5296-3fb5-479c-883a-e47020de00b9",
+    "response": {
+      "id": "chatcmpl-EZj3bf4txE4eOSg2PEmiqanjByZnk",
+      "object": "chat.completion",
+      "created": 1792183387,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Caroline\",\"property\":\"supports\",\"search\":\"evidence of who supports Caroline when she has a negative experience\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2681,
+        "completion_tokens": 33,
+        "total_tokens": 2714,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_dcc937c348"
+    },
+    "latency_seconds": 1.2759000839999999
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "a4ed4a89-8fb1-4268-b192-9445bd68686e",
+    "response": {
+      "id": "chatcmpl-EZj3dWVczbOPN0zdSQ0Lk1DeqQHvB",
+      "object": "chat.completion",
+      "created": 1792183389,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Caroline receives support from her friends and the transgender and LGBTQ+ community, with Melanie being a key supportive person who encourages her throughout her experiences, including after a negative experience with religious conservatives. She also mentions support groups and the larger LGBTQ+ community as important sources of acceptance and encouragement.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_12::episode-001\",\"turn_id\":\"D12:1\"},{\"episode_id\":\"conv-26::session_1::episode-002\",\"turn_id\":\"D1:5\"},{\"episode_id\":\"conv-26::session_1::episode-002\",\"turn_id\":\"D1:7\"},{\"episode_id\":\"conv-26::session_3::episode-001\",\"turn_id\":\"D3:2\"},{\"episode_id\":\"conv-26::session_3::episode-001\",\"turn_id\":\"D3:6\"},{\"episode_id\":\"conv-26::session_8::episode-003\",\"turn_id\":\"D8:23\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 4613,
+        "completion_tokens": 208,
+        "total_tokens": 4821,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_38f508f26a"
+    },
+    "latency_seconds": 2.499451084
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "poster",
+      "property": "said",
+      "search": "posters poetry reading"
+    }
+  ]
+}

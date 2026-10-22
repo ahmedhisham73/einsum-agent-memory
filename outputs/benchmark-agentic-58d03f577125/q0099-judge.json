@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-EZqKc7mP5uGJS5RWEpjA5YsETjaRL",
+  "object": "chat.completion",
+  "created": 1792211350,
+  "model": "gpt-4o-mini-2024-07-18",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\"label\":\"CORRECT\",\"reason\":\"The generated answer accurately summarizes the key topics of the workshop, including therapeutic methods and working with trans individuals, while providing relevant additional context.\"}",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 193,
+    "completion_tokens": 36,
+    "total_tokens": 229,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_7caa1ae073"
+}

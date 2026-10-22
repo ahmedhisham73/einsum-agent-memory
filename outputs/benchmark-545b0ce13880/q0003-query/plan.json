@@ -1,0 +1,30 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Caroline",
+      "property": "career_interest",
+      "search": "Caroline's interests in fields of study or career."
+    },
+    {
+      "entity": "Caroline",
+      "property": "interest_in_field",
+      "search": "Specific academic or professional fields Caroline has shown interest in."
+    },
+    {
+      "entity": "Caroline",
+      "property": "career_goal_interest",
+      "search": "Career goals or educational goals Caroline aims to pursue."
+    },
+    {
+      "entity": "Caroline",
+      "property": "plans",
+      "search": "Future educational or career plans Caroline has expressed."
+    },
+    {
+      "entity": "Caroline",
+      "property": "activity_goal",
+      "search": "Goals related to activities that might reflect educational interests."
+    }
+  ]
+}

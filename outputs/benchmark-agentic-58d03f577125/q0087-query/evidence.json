@@ -1,0 +1,286 @@
+[
+  {
+    "episode_id": "conv-26::session_2::chunk-0005",
+    "session_id": "session_2",
+    "observed_at": "2023-05-25T13:14:00",
+    "source_timestamp": "1:14 pm on 25 May, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D2:6",
+        "speaker": "Caroline",
+        "text": "That's great, Mel! Taking time for yourself is so important. You're doing an awesome job looking after yourself and your family!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:7",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline. It's still a work in progress, but I'm doing my best. My kids are so excited about summer break! We're thinking about going camping next month. Any fun plans for the summer?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:8",
+        "speaker": "Caroline",
+        "text": "Researching adoption agencies — it's been a dream to have a family and give a loving home to kids who need it.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:9",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! That's awesome! Taking in kids in need - you're so kind. Your future family is gonna be so lucky to have you!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:10",
+        "speaker": "Caroline",
+        "text": "Thanks, Mel! My goal is to give kids a loving home. I'm truly grateful for all the support I've got from friends and mentors. Now the hard work starts to turn my dream into a reality. And here's one of the adoption agencies I'm looking into. It's a lot to take in, but I'm feeling hopeful and optimistic.",
+        "metadata": {
+          "img_url": [
+            "https://live.staticflickr.com/3437/3935231341_b2955b00dd_b.jpg"
+          ],
+          "blip_caption": "a photography of a sign for a new arrival and an information and domestic building",
+          "query": "adoption agency brochure",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D2:11",
+        "speaker": "Melanie",
+        "text": "Wow, that agency looks great! What made you pick it?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_2::chunk-0010",
+    "session_id": "session_2",
+    "observed_at": "2023-05-25T13:14:00",
+    "source_timestamp": "1:14 pm on 25 May, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D2:12",
+        "speaker": "Caroline",
+        "text": "I chose them 'cause they help LGBTQ+ folks with adoption. Their inclusivity and support really spoke to me.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:13",
+        "speaker": "Melanie",
+        "text": "That's great, Caroline! Loving the inclusivity and support. Anything you're excited for in the adoption process?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:14",
+        "speaker": "Caroline",
+        "text": "I'm thrilled to make a family for kids who need one. It'll be tough as a single parent, but I'm up for the challenge!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:15",
+        "speaker": "Melanie",
+        "text": "You're doing something amazing! Creating a family for those kids is so lovely. You'll be an awesome mom! Good luck!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:16",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! Your kind words really mean a lot. I'll do my best to make sure these kids have a safe and loving home.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_13::chunk-0000",
+    "session_id": "session_13",
+    "observed_at": "2023-08-23T15:31:00",
+    "source_timestamp": "3:31 pm on 23 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D13:1",
+        "speaker": "Caroline",
+        "text": "Hi Melanie! Hope you're doing good. Guess what I did this week? I took the first step towards becoming a mom - I applied to adoption agencies! It's a big decision, but I think I'm ready to give all my love to a child. I got lots of help from this adoption advice/assistance group I attended. It was great!",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/pyq31v7eh6ra1.jpg"
+          ],
+          "blip_caption": "a photo of a sign with a picture of a guinea pig",
+          "query": "adoption brochures application forms external adoption advice assistance group"
+        }
+      },
+      {
+        "turn_id": "D13:2",
+        "speaker": "Melanie",
+        "text": "Caroline, congrats! So proud of you for taking this step. How does it feel? Also, do you have any pets?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D13:3",
+        "speaker": "Caroline",
+        "text": "Thanks, Mel! Exciting but kinda nerve-wracking. Parenting's such a big responsibility. And yup, I do- Oscar, my guinea pig. He's been great. How are your pets?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D13:4",
+        "speaker": "Melanie",
+        "text": "Yeah, it's normal to be both excited and nervous with a big decision. And thanks for asking, they're good- we got another cat named Bailey too. Here's a pic of Oliver. Can you show me one of Oscar?",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/kgggim1gom951.jpg"
+          ],
+          "blip_caption": "a photo of a black dog laying in the grass with a frisbee",
+          "query": "pets Luna Oliver playing frisbee backyard"
+        }
+      },
+      {
+        "turn_id": "D13:5",
+        "speaker": "Caroline",
+        "text": "He's so cute! What’s the funniest thing Oliver's done? And sure, check out this pic of him eating parsley! Veggies are his fave!",
+        "metadata": {
+          "img_url": [
+            "https://cdn.i-scmp.com/sites/default/files/styles/landscape/public/d8/yp/images/shutterstock533807500.jpg"
+          ],
+          "blip_caption": "a photography of a guinea in a cage with hay and hay",
+          "query": "oscar munching parsley playpen",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D13:6",
+        "speaker": "Melanie",
+        "text": "Oliver's hilarious! He hid his bone in my slipper once! Cute, right? Almost as silly as when I got to feed a horse a carrot. ",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/fgv0i3nzo7541.jpg"
+          ],
+          "blip_caption": "a photo of a person holding a carrot in front of a horse",
+          "query": "oscar carrot in mouth"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_13::chunk-0015",
+    "session_id": "session_13",
+    "observed_at": "2023-08-23T15:31:00",
+    "source_timestamp": "3:31 pm on 23 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D13:16",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! That's amazing. You really care about being real and helping others. Wishing you the best on your adoption journey!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D13:17",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! I really appreciate it. Excited for the future! Bye!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D13:18",
+        "speaker": "Melanie",
+        "text": "Bye Caroline. I'm here for you. Take care of yourself.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_17::chunk-0000",
+    "session_id": "session_17",
+    "observed_at": "2023-10-13T10:31:00",
+    "source_timestamp": "10:31 am on 13 October, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D17:1",
+        "speaker": "Caroline",
+        "text": "Hey Mel, what's up? Long time no see! I just contacted my mentor for adoption advice. I'm ready to be a mom and share my love and family. It's a great feeling. Anything new with you? Anything exciting going on?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:2",
+        "speaker": "Melanie",
+        "text": "Hey Caroline! Great to hear from you! Wow, what an amazing journey. Congrats!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:3",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! I'm stoked to start this new chapter. It's been a dream to adopt and provide a safe, loving home for kids who need it. Do you have any experience with adoption, or know anyone who's gone through the process?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:4",
+        "speaker": "Melanie",
+        "text": "Yeah, a buddy of mine adopted last year. It was a long process, but now they're super happy with their new kid. Makes me feel like maybe I should do it too!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:5",
+        "speaker": "Caroline",
+        "text": "That's great news about your friend! It can be tough, but so worth it. It's a great way to add to your family and show your love. If you ever do it, let me know — I'd love to help in any way I can.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:6",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! Appreciate your help. Got any tips for getting started on it?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_19::chunk-0000",
+    "session_id": "session_19",
+    "observed_at": "2023-10-22T09:55:00",
+    "source_timestamp": "9:55 am on 22 October, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D19:1",
+        "speaker": "Caroline",
+        "text": "Woohoo Melanie! I passed the adoption agency interviews last Friday! I'm so excited and thankful. This is a big move towards my goal of having a family.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:2",
+        "speaker": "Melanie",
+        "text": "Congrats, Caroline! Adoption sounds awesome. I'm so happy for you. These figurines I bought yesterday remind me of family love. Tell me, what's your vision for the future?",
+        "metadata": {
+          "img_url": [
+            "https://imgur.com/oGlhL5J.jpg"
+          ],
+          "blip_caption": "a photo of a couple of wooden dolls sitting on top of a table",
+          "query": "painted ceramic family figurine"
+        }
+      },
+      {
+        "turn_id": "D19:3",
+        "speaker": "Caroline",
+        "text": "Thanks so much, Melanie! It's beautiful! It really brings home how much love's in families - both blood and the ones we choose. I hope to build my own family and put a roof over kids who haven't had that before. For me, adoption is a way of giving back and showing love and acceptance.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:4",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, that's awesome. Giving a home to needy kids is such a loving way to build a family. Those kids will be so supported and happy in their new home.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:5",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie. My dream is to create a safe and loving home for these kids. Love and acceptance should be everyone's right, and I want them to experience it.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:6",
+        "speaker": "Melanie",
+        "text": "I totally agree, Caroline. Everyone deserves that. It's awesome to see how passionate you are about helping these kids.",
+        "metadata": {}
+      }
+    ]
+  }
+]

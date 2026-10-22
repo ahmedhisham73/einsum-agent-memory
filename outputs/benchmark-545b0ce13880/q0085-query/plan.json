@@ -1,0 +1,35 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Melanie",
+      "property": "attitude_toward_self_care",
+      "search": "Melanie's approach or attitude towards self-care"
+    },
+    {
+      "entity": "Melanie",
+      "property": "daily_me_time_activities",
+      "search": "Regular activities Melanie engages in for self-care"
+    },
+    {
+      "entity": "Melanie",
+      "property": "strategy",
+      "search": "Specific strategies Melanie uses to prioritize self-care"
+    },
+    {
+      "entity": "Melanie",
+      "property": "activities",
+      "search": "Activities Melanie participates in related to self-care"
+    },
+    {
+      "entity": "Melanie",
+      "property": "value_quality_time",
+      "search": "Melanie's view on the importance of quality time for self-care"
+    },
+    {
+      "entity": "Melanie",
+      "property": "effect_of_self_care",
+      "search": "Impacts or benefits Melanie experiences from self-care"
+    }
+  ]
+}

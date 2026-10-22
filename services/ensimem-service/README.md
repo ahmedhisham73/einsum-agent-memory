@@ -1,0 +1,3 @@
+# ensimem-service
+
+Status: scaffold.

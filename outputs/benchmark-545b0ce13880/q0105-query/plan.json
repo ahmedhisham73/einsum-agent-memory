@@ -1,0 +1,30 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Caroline",
+      "property": "advises",
+      "search": "Caroline recommended book to Melanie"
+    },
+    {
+      "entity": "Caroline",
+      "property": "suggests",
+      "search": "Caroline suggested book to Melanie"
+    },
+    {
+      "entity": "Caroline",
+      "property": "said",
+      "search": "Caroline mentioned book recommendation for Melanie"
+    },
+    {
+      "entity": "Melanie",
+      "property": "read_book",
+      "search": "Books Melanie has read based on Caroline's recommendation"
+    },
+    {
+      "entity": "Conversation between Caroline and Melanie",
+      "property": "content",
+      "search": "Details of book Caroline recommended to Melanie"
+    }
+  ]
+}

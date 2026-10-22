@@ -1,0 +1,29 @@
+{
+  "question_id": "conv-26::q0066",
+  "category": 1,
+  "question": "What are some changes Caroline has faced during her transition journey?",
+  "gold_answer": "Changes to her body, losing unsupportive friends",
+  "status": "scored",
+  "generated_answer": "Caroline has faced several changes during her transition journey, including personal growth and development since coming out, struggles and challenges related to her gender identity, and the process of finding self-acceptance. She has experienced the importance of having a strong support network of friends, family, and mentors who have given her love, guidance, and acceptance. Caroline also found strength and empowerment in sharing her story publicly, such as giving talks about her transgender journey and encouraging LGBTQ involvement, which helped her inspire others and build a supportive community. Additionally, she has become motivated to help others by pursuing roles in counseling and mental health to provide support to those facing similar challenges. Her journey also involved appreciating the significance of community events and symbols representing courage, resilience, freedom, and pride within the trans and LGBTQ communities.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_3::chunk-0000",
+      "turn_id": "D3:1"
+    },
+    {
+      "episode_id": "conv-26::session_3::chunk-0000",
+      "turn_id": "D3:3"
+    },
+    {
+      "episode_id": "conv-26::session_6::chunk-0010",
+      "turn_id": "D6:13"
+    },
+    {
+      "episode_id": "conv-26::session_19::chunk-0005",
+      "turn_id": "D19:9"
+    }
+  ],
+  "query_elapsed_seconds": 5.931137333000001,
+  "label": "WRONG",
+  "judge_reason": "The generated answer adds unsupported details about personal growth, community involvement, and future aspirations, diverging from the specific changes to her body and friendships mentioned in the reference answer."
+}

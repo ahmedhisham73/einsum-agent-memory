@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0113",
+  "category": 4,
+  "question": "What did Mel and her kids paint in their latest project in July 2023?",
+  "gold_answer": "a sunset with a palm tree",
+  "status": "scored",
+  "generated_answer": "In their latest project in July 2023, Mel and her kids painted a nature-inspired scene featuring vibrant flowers and a sunset sky.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_8::chunk-0000",
+      "turn_id": "D8:6"
+    }
+  ],
+  "query_elapsed_seconds": 5.394275917,
+  "label": "WRONG",
+  "judge_reason": "The generated answer includes additional details and a different subject (vibrant flowers) instead of only mentioning a sunset with a palm tree."
+}

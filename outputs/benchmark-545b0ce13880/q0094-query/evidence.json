@@ -1,0 +1,389 @@
+[
+  {
+    "episode_id": "conv-26::session_3::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_3",
+    "observed_at": "2023-06-09T19:55:00",
+    "source_timestamp": "7:55 pm on 9 June, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Caroline's school event and discussion about transgender journey and LGBTQ community",
+    "turns": [
+      {
+        "turn_id": "D3:1",
+        "speaker": "Caroline",
+        "text": "Hey Melanie! How's it going? I wanted to tell you about my school event last week. It was awesome! I talked about my transgender journey and encouraged students to get involved in the LGBTQ community. It was great to see their reactions. It made me reflect on how far I've come since I started transitioning three years ago.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:2",
+        "speaker": "Melanie",
+        "text": "Hey Caroline! Great to hear from you. Sounds like your event was amazing! I'm so proud of you for spreading awareness and getting others involved in the LGBTQ community. You've come a long way since your transition - keep on inspiring people with your strength and courage!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:3",
+        "speaker": "Caroline",
+        "text": "Thanks, Mel! Your backing really means a lot. I felt super powerful giving my talk. I shared my own journey, the struggles I had and how much I've developed since coming out. It was wonderful to see how the audience related to what I said and how it inspired them to be better allies. Conversations about gender identity and inclusion are so necessary and I'm thankful for being able to give a voice to the trans community.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:4",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, you're doing an awesome job of inspiring others with your journey. It's great to be part of it and see how you're positively affecting so many. Talking about inclusivity and acceptance is crucial, and you're so brave to speak up for the trans community. Keep up the great work!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:5",
+        "speaker": "Caroline",
+        "text": "Thanks Mel! Your kind words mean a lot. Sharing our experiences isn't always easy, but I feel it's important to help promote understanding and acceptance. I've been blessed with loads of love and support throughout this journey, and I want to pass it on to others. By sharing our stories, we can build a strong, supportive community of hope.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:6",
+        "speaker": "Melanie",
+        "text": "Yeah, Caroline! It takes courage to talk about our own stories. But it's in these vulnerable moments that we bond and understand each other. We all have our different paths, but if we share them, we show people that they're not alone. Our stories can be so inspiring and encouraging to others who are facing the same challenges. Thank you for using your voice to create love, acceptance, and hope. You're doing amazing!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:7",
+        "speaker": "Caroline",
+        "text": "Your words mean a lot to me. I'm grateful for the chance to share my story and give others hope. We all have unique paths, and by working together we can build a more inclusive and understanding world. I'm going to keep using my voice to make a change and lift others up. And you're part of that!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:8",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline, for letting me join your journey. I'm so proud to be part of the difference you're making. Let's keep motivating and helping each other out as we journey through life. We can make a real impact together!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:9",
+        "speaker": "Caroline",
+        "text": "Yeah Mel, let's spread love and understanding! Thanks for the support and encouragement. We can tackle life's challenges together! We got this!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_4::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_4",
+    "observed_at": "2023-06-27T10:37:00",
+    "source_timestamp": "10:37 am on 27 June, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Sharing and discussing meaningful personal items",
+    "turns": [
+      {
+        "turn_id": "D4:1",
+        "speaker": "Caroline",
+        "text": "Hey Melanie! Long time no talk! A lot's been going on in my life! Take a look at this.",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/67uas3gnmz7b1.jpg"
+          ],
+          "blip_caption": "a photo of a person holding a necklace with a cross and a heart",
+          "query": "pendant transgender symbol"
+        }
+      },
+      {
+        "turn_id": "D4:2",
+        "speaker": "Melanie",
+        "text": "Hey, Caroline! Nice to hear from you! Love the necklace, any special meaning to it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:3",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! This necklace is super special to me - a gift from my grandma in my home country, Sweden. She gave it to me when I was young, and it stands for love, faith and strength. It's like a reminder of my roots and all the love and support I get from my family.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:4",
+        "speaker": "Melanie",
+        "text": "That's gorgeous, Caroline! It's awesome what items can mean so much to us, right? Got any other objects that you treasure, like that necklace?",
+        "metadata": {
+          "blip_caption": "a photo of a stack of bowls with different designs on them"
+        }
+      },
+      {
+        "turn_id": "D4:5",
+        "speaker": "Caroline",
+        "text": "Yep, Melanie! I've got some other stuff with sentimental value, like my hand-painted bowl. A friend made it for my 18th birthday ten years ago. The pattern and colors are awesome-- it reminds me of art and self-expression.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_14::episode-005",
+    "conversation_id": "conv-26",
+    "session_id": "session_14",
+    "observed_at": "2023-08-25T13:33:00",
+    "source_timestamp": "1:33 pm on 25 August, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Stained glass artwork symbolizing growth and unity",
+    "turns": [
+      {
+        "turn_id": "D14:16",
+        "speaker": "Melanie",
+        "text": "I'm in awe of your courage as a trans person. Have you made any more art lately?",
+        "metadata": {
+          "blip_caption": "a photo of a stained glass window with a person holding a key"
+        }
+      },
+      {
+        "turn_id": "D14:17",
+        "speaker": "Caroline",
+        "text": "Thanks, Mel! I made this stained glass window to remind myself and others that within us all is the key to discovering our true potential and living our best life.",
+        "metadata": {
+          "img_url": [
+            "https://projects.history.qmul.ac.uk/thehistorian/wp-content/uploads/sites/24/2017/10/IMG_20170922_072615_165.jpg"
+          ],
+          "blip_caption": "a photo of three stained glass windows in a church with a clock",
+          "query": "stained glass window letter"
+        }
+      },
+      {
+        "turn_id": "D14:18",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, that looks amazing! What inspired it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:19",
+        "speaker": "Caroline",
+        "text": "Thanks! It was made for a local church and shows time changing our lives. I made it to show my own journey as a transgender woman and how we should accept growth and change.",
+        "metadata": {
+          "blip_caption": "a photo of a large stained glass window in a church"
+        }
+      },
+      {
+        "turn_id": "D14:20",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline!  All those colors are incredible and the story it tells is so inspiring.",
+        "metadata": {
+          "blip_caption": "a photo of a door with a stained glass window and a coat rack"
+        }
+      },
+      {
+        "turn_id": "D14:21",
+        "speaker": "Caroline",
+        "text": "Thanks, Mel! Glad you like it. It's a symbol of togetherness, to celebrate differences and be that much closer. I'd love to make something like this next!",
+        "metadata": {
+          "img_url": [
+            "https://i0.wp.com/marbleheadcurrent.org/wp-content/uploads/2023/07/rainbow.jpg"
+          ],
+          "blip_caption": "a photo of a painted sidewalk with a rainbow design on it",
+          "query": "painting rainbow flag unity acceptance"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_14::episode-007",
+    "conversation_id": "conv-26",
+    "session_id": "session_14",
+    "observed_at": "2023-08-25T13:33:00",
+    "source_timestamp": "1:33 pm on 25 August, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Flower drawings and appreciation of nature through art",
+    "turns": [
+      {
+        "turn_id": "D14:27",
+        "speaker": "Caroline",
+        "text": "Thanks, Mel! Art gives me so much joy. It helps me show my feelings and freeze gorgeous moments, like a bouquet of flowers. ",
+        "metadata": {
+          "img_url": [
+            "https://i.pinimg.com/originals/3d/e3/b8/3de3b8a013be3eec63cc454cb0c63536.jpg"
+          ],
+          "blip_caption": "a photo of a drawing of a bunch of flowers on a table",
+          "query": "bouquet wildflowers art"
+        }
+      },
+      {
+        "turn_id": "D14:28",
+        "speaker": "Melanie",
+        "text": "Wow, did you make that? It looks so real!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:29",
+        "speaker": "Caroline",
+        "text": "Yeah, definitely! Drawing flowers is one of my faves. Appreciating nature and sharing it is great. What about you, Mel? What type of art do you love?",
+        "metadata": {
+          "blip_caption": "a photo of a drawing of a flower bouquet with a person holding it"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_15::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_15",
+    "observed_at": "2023-08-28T15:19:00",
+    "source_timestamp": "3:19 pm on 28 August, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Reconnecting and sharing recent life updates",
+    "turns": [
+      {
+        "turn_id": "D15:1",
+        "speaker": "Caroline",
+        "text": "Hey Melanie, great to hear from you. What's been up since we talked?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:2",
+        "speaker": "Melanie",
+        "text": "Hey Caroline! Since we last spoke, I took my kids to a park yesterday. They had fun exploring and playing. It was nice seeing them have a good time outdoors. Time flies, huh? What's new with you?",
+        "metadata": {
+          "img_url": [
+            "https://img-aws.ehowcdn.com/1280x/www.onlyinyourstate.com/wp-content/uploads/2022/12/gym8.jpg"
+          ],
+          "blip_caption": "a photo of a playground with a climbing net and a slide",
+          "query": "kids climbing jungle gym park"
+        }
+      },
+      {
+        "turn_id": "D15:3",
+        "speaker": "Caroline",
+        "text": "Wow, your kids had so much fun at the park! Being outdoors can be really enjoyable. A lot happened since our last chat. I've been chasing my ambitions and had the chance to volunteer at an LGBTQ+ youth center. It was so gratifying to talk to similar young people. It made me remember how essential it is to be kind and show support.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_16::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_16",
+    "observed_at": "2023-09-13T00:09:00",
+    "source_timestamp": "12:09 am on 13 September, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Discussing inspirations from parenting and volunteering",
+    "turns": [
+      {
+        "turn_id": "D16:4",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! It's awesome seeing the kids get excited learning something new about nature. Those moments make being a parent worth it. We roasted marshmallows and shared stories around the campfire. Those simple moments make the best memories. What inspires you with your volunteering?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:5",
+        "speaker": "Caroline",
+        "text": "I'm inspired seeing my work make a difference for the LGBTQ+ community. Knowing I'm helping create a more loving world is amazing. I'm really thankful for my friends, family and mentors' support. It inspires me to keep making art, too.",
+        "metadata": {
+          "img_url": [
+            "https://i.pinimg.com/originals/34/2e/72/342e72b194865e01a38af86c307e95c7.jpg"
+          ],
+          "blip_caption": "a photo of a painting of a heart on a table",
+          "query": "canvas painting rainbow colors"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_19::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_19",
+    "observed_at": "2023-10-22T09:55:00",
+    "source_timestamp": "9:55 am on 22 October, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Caroline's adoption interview success and vision for building a loving family",
+    "turns": [
+      {
+        "turn_id": "D19:1",
+        "speaker": "Caroline",
+        "text": "Woohoo Melanie! I passed the adoption agency interviews last Friday! I'm so excited and thankful. This is a big move towards my goal of having a family.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:2",
+        "speaker": "Melanie",
+        "text": "Congrats, Caroline! Adoption sounds awesome. I'm so happy for you. These figurines I bought yesterday remind me of family love. Tell me, what's your vision for the future?",
+        "metadata": {
+          "img_url": [
+            "https://imgur.com/oGlhL5J.jpg"
+          ],
+          "blip_caption": "a photo of a couple of wooden dolls sitting on top of a table",
+          "query": "painted ceramic family figurine"
+        }
+      },
+      {
+        "turn_id": "D19:3",
+        "speaker": "Caroline",
+        "text": "Thanks so much, Melanie! It's beautiful! It really brings home how much love's in families - both blood and the ones we choose. I hope to build my own family and put a roof over kids who haven't had that before. For me, adoption is a way of giving back and showing love and acceptance.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_19::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_19",
+    "observed_at": "2023-10-22T09:55:00",
+    "source_timestamp": "9:55 am on 22 October, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Support and affirmation for Caroline's goal of creating a loving home for children",
+    "turns": [
+      {
+        "turn_id": "D19:4",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, that's awesome. Giving a home to needy kids is such a loving way to build a family. Those kids will be so supported and happy in their new home.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:5",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie. My dream is to create a safe and loving home for these kids. Love and acceptance should be everyone's right, and I want them to experience it.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:6",
+        "speaker": "Melanie",
+        "text": "I totally agree, Caroline. Everyone deserves that. It's awesome to see how passionate you are about helping these kids.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_19::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_19",
+    "observed_at": "2023-10-22T09:55:00",
+    "source_timestamp": "9:55 am on 22 October, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Caroline's personal journey of self-acceptance and desire to support others",
+    "turns": [
+      {
+        "turn_id": "D19:7",
+        "speaker": "Caroline",
+        "text": "Thanks, Mel. Finding self-acceptance was a long process, but now I'm ready to offer love and support to those who need it. It's empowering to make a positive difference in someone's life.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:8",
+        "speaker": "Melanie",
+        "text": "That must have been tough for you, Caroline. Respect for finding acceptance and helping others with what you've been through. You're so strong and inspiring.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:9",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie. Transitioning wasn't easy and acceptance wasn't either, but the help I got from friends, family and people I looked up to was invaluable. They boosted me through tough times and helped me find out who I really am. That's why I want to pass that same support to anyone who needs it. Bringing others comfort and helping them grow brings me such joy.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:10",
+        "speaker": "Melanie",
+        "text": "I'm so happy for you, Caroline. You found your true self and now you're helping others. You're so inspiring!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:11",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie. Your support really means a lot. This journey has been amazing and I'm grateful I get to share it and help others with theirs. It's a real gift.",
+        "metadata": {
+          "blip_caption": "a photo of a clock with a green and yellow design on it"
+        }
+      }
+    ]
+  }
+]

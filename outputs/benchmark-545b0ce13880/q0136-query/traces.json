@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "61f836ab-6f21-42c9-a17c-dff39f0ebf7d",
+    "response": {
+      "id": "chatcmpl-EZkpjIPphMzb2rhdWFDGdCCsX4bcA",
+      "object": "chat.completion",
+      "created": 1792190215,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Melanie\",\"property\":\"recent_setback\",\"search\":\"Melanie setback October 2023\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2682,
+        "completion_tokens": 30,
+        "total_tokens": 2712,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_5002831302"
+    },
+    "latency_seconds": 3.1977944579999997
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "9af982cb-641f-474b-a937-9d12b14a76d3",
+    "response": {
+      "id": "chatcmpl-EZkpnyYUIAVr9WtU5HGHihDiefL52",
+      "object": "chat.completion",
+      "created": 1792190219,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"In October 2023, Melanie faced a setback when she got hurt in the previous month, requiring her to take a break from pottery, which she uses for self-expression and peace.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_17::episode-002\",\"turn_id\":\"D17:8\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3718,
+        "completion_tokens": 73,
+        "total_tokens": 3791,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_38f508f26a"
+    },
+    "latency_seconds": 4.498669209
+  }
+]

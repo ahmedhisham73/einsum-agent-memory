@@ -1,0 +1,21 @@
+{
+  "question_id": "conv-26::q0015",
+  "category": 3,
+  "question": "Would Caroline still want to pursue counseling as a career if she hadn't received support growing up?",
+  "gold_answer": "Likely no",
+  "status": "scored",
+  "generated_answer": "Caroline's motivation to pursue a counseling career is deeply tied to the support she received growing up and during her transition. She credits the support from friends, family, and mentors as invaluable and says it made a huge difference in her life, inspiring her to help others through counseling. Although there is no explicit hypothetical reflection from Caroline about whether she would still want to pursue counseling if she hadn't received support growing up, her statements emphasize that the support she received played a crucial role in her decision and passion to help others with similar struggles.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_4::episode-003",
+      "turn_id": "D4:15"
+    },
+    {
+      "episode_id": "conv-26::session_19::episode-003",
+      "turn_id": "D19:9"
+    }
+  ],
+  "query_elapsed_seconds": 5.970174291999999,
+  "label": "WRONG",
+  "judge_reason": "The generated answer does not directly address the question, which asks whether Caroline would pursue counseling without support. It implies that support is crucial but does not explicitly state 'likely no' as the reference answer does."
+}

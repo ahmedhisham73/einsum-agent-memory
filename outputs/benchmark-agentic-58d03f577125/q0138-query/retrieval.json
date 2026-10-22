@@ -1,0 +1,21 @@
+[
+  {
+    "query": "Melanie painting shown to Caroline on October 13, 2023",
+    "returned_chunk_ids": [
+      "conv-26::session_11::chunk-0005",
+      "conv-26::session_11::chunk-0010",
+      "conv-26::session_14::chunk-0030",
+      "conv-26::session_17::chunk-0010",
+      "conv-26::session_9::chunk-0010",
+      "conv-26::session_9::chunk-0015"
+    ],
+    "cumulative_chunk_ids": [
+      "conv-26::session_11::chunk-0005",
+      "conv-26::session_11::chunk-0010",
+      "conv-26::session_14::chunk-0030",
+      "conv-26::session_17::chunk-0010",
+      "conv-26::session_9::chunk-0010",
+      "conv-26::session_9::chunk-0015"
+    ]
+  }
+]

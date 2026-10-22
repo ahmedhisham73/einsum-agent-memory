@@ -1,0 +1,21 @@
+{
+  "status": "completed",
+  "experiment_id": "q0140-query",
+  "memory_build": "offline-memory-a5e48166f56e",
+  "embedding_fingerprint": "264e45d8331b217a87fc15e35db2c614b32e9c572d0bbb53fe9bcc90dda3a8a6",
+  "question": "What was the poetry reading that Caroline attended about?",
+  "answer": "The poetry reading Caroline attended was a transgender poetry reading where transgender people shared their stories through poetry. It was a safe and empowering space for self-expression and celebrating transgender identities.",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-26::session_17::episode-003",
+      "turn_id": "D17:19"
+    }
+  ],
+  "elapsed_seconds": 9.388495375,
+  "implementation": {
+    "structured_matching": "literal entity / property-token overlap",
+    "all_matching": "all episodes; no optimized exhaustive retrieval",
+    "coverage": "answer-model sufficiency check with expansion"
+  }
+}

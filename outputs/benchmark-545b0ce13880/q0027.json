@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0027",
+  "category": 2,
+  "question": "When did Melanie read the book \"nothing is impossible\"?",
+  "gold_answer": 2022,
+  "status": "scored",
+  "generated_answer": "Melanie read the book \"Nothing is Impossible\" last year, as mentioned in the conversation on 12 July 2023 (turn D7:8) where she refers to a book she read last year that reminds her to always pursue her dreams.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_7::episode-002",
+      "turn_id": "D7:8"
+    }
+  ],
+  "query_elapsed_seconds": 6.747179458,
+  "label": "WRONG",
+  "judge_reason": "The generated answer implies Melanie read the book in 2022, but it does not explicitly state this nor align perfectly with the reference."
+}

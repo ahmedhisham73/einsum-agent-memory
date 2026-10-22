@@ -1,0 +1,25 @@
+{
+  "question_id": "conv-26::q0058",
+  "category": 2,
+  "question": "When did Caroline encounter people on a hike and have a negative experience?",
+  "gold_answer": "The week before 25 August 2023",
+  "status": "scored",
+  "generated_answer": "No evidence found that Caroline encountered people on a hike and had a negative experience at any time in the provided conversations.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_4::chunk-0005",
+      "turn_id": "D4:6"
+    },
+    {
+      "episode_id": "conv-26::session_8::chunk-0030",
+      "turn_id": "D8:31"
+    },
+    {
+      "episode_id": "conv-26::session_18::chunk-0015",
+      "turn_id": "D18:17"
+    }
+  ],
+  "query_elapsed_seconds": 5.008647583,
+  "label": "WRONG",
+  "judge_reason": "The generated answer contradicts the reference by stating that no evidence was found, while the reference specifies a specific time."
+}

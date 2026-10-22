@@ -1,0 +1,21 @@
+{
+  "question_id": "conv-26::q0008",
+  "category": 1,
+  "question": "What is Caroline's relationship status?",
+  "gold_answer": "Single",
+  "status": "scored",
+  "generated_answer": "Caroline is single; she is pursuing adoption as a single parent to create a loving family for children in need, and she describes it as a tough but welcomed challenge.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_2::episode-002",
+      "turn_id": "D2:14"
+    },
+    {
+      "episode_id": "conv-26::session_17::episode-001",
+      "turn_id": "D17:1"
+    }
+  ],
+  "query_elapsed_seconds": 4.505368417,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer confirms that Caroline is single, aligning with the reference answer."
+}

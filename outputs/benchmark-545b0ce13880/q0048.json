@@ -1,0 +1,37 @@
+{
+  "question_id": "conv-26::q0048",
+  "category": 1,
+  "question": "Who supports Caroline when she has a negative experience?",
+  "gold_answer": "Her mentors, family, and friends",
+  "status": "scored",
+  "generated_answer": "Caroline receives support from her friends and the transgender and LGBTQ+ community, with Melanie being a key supportive person who encourages her throughout her experiences, including after a negative experience with religious conservatives. She also mentions support groups and the larger LGBTQ+ community as important sources of acceptance and encouragement.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_12::episode-001",
+      "turn_id": "D12:1"
+    },
+    {
+      "episode_id": "conv-26::session_1::episode-002",
+      "turn_id": "D1:5"
+    },
+    {
+      "episode_id": "conv-26::session_1::episode-002",
+      "turn_id": "D1:7"
+    },
+    {
+      "episode_id": "conv-26::session_3::episode-001",
+      "turn_id": "D3:2"
+    },
+    {
+      "episode_id": "conv-26::session_3::episode-001",
+      "turn_id": "D3:6"
+    },
+    {
+      "episode_id": "conv-26::session_8::episode-003",
+      "turn_id": "D8:23"
+    }
+  ],
+  "query_elapsed_seconds": 4.664588541,
+  "label": "WRONG",
+  "judge_reason": "The generated answer focuses on specific individuals and communities, while the reference answer mentions general categories of support (mentors, family, and friends) which are not explicitly included in the generated answer."
+}

@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-26::q0080",
+  "category": 2,
+  "question": "When did Caroline pass the adoption interview?",
+  "gold_answer": "The Friday before 22 October 2023",
+  "status": "failed",
+  "error": "Query failed. See q0080.log"
+}

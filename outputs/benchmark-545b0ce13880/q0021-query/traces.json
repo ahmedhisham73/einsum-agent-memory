@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "5f0024b8-6914-4c6c-bf80-7de99336f1e5",
+    "response": {
+      "id": "chatcmpl-EZj0kVRf1Ep547f1vwrDPcjn5tKqV",
+      "object": "chat.completion",
+      "created": 1792183210,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Melanie\",\"property\":\"action\",\"search\":\"Melanie went to the museum\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2679,
+        "completion_tokens": 27,
+        "total_tokens": 2706,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f111b06a9"
+    },
+    "latency_seconds": 1.835306
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "65a17a79-7160-4345-b8d3-c7ad48702a6b",
+    "response": {
+      "id": "chatcmpl-EZj0n87XuyTV9cUyMk20viAB5mRym",
+      "object": "chat.completion",
+      "created": 1792183213,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Melanie went to the museum yesterday, relative to the conversation on 6 July, 2023.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_6::episode-002\",\"turn_id\":\"D6:4\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3830,
+        "completion_tokens": 57,
+        "total_tokens": 3887,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_38f508f26a"
+    },
+    "latency_seconds": 2.070084583
+  }
+]

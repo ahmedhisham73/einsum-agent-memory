@@ -1,0 +1,21 @@
+{
+  "question_id": "conv-26::q0034",
+  "category": 2,
+  "question": "When did Caroline go to a pride parade during the summer?",
+  "gold_answer": "The week before 3 July 2023",
+  "status": "scored",
+  "generated_answer": "Caroline went to a pride parade during the summer at least twice: once \"last week\" relative to 3 July 2023 (thus late June or early July 2023) and once last Friday relative to 14 August 2023 (which would be 11 August 2023).",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_5::episode-001",
+      "turn_id": "D5:1"
+    },
+    {
+      "episode_id": "conv-26::session_11::episode-002",
+      "turn_id": "D11:4"
+    }
+  ],
+  "query_elapsed_seconds": 4.25291675,
+  "label": "WRONG",
+  "judge_reason": "The generated answer provides contradictory information and introduces irrelevant details about multiple events and dates, whereas the reference answer specifies a single event."
+}

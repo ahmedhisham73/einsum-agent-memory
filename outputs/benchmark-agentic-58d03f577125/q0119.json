@@ -1,0 +1,21 @@
+{
+  "question_id": "conv-26::q0119",
+  "category": 4,
+  "question": "What did Melanie and her family see during their camping trip last year?",
+  "gold_answer": "Perseid meteor shower",
+  "status": "scored",
+  "generated_answer": "During their camping trip last year, Melanie and her family saw the Perseid meteor shower. They watched the sky light up with streaks of light, made wishes, and experienced an awe-inspiring clear star-filled night sky.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_10::chunk-0010",
+      "turn_id": "D10:14"
+    },
+    {
+      "episode_id": "conv-26::session_10::chunk-0010",
+      "turn_id": "D10:16"
+    }
+  ],
+  "query_elapsed_seconds": 4.532160999999999,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer accurately identifies the Perseid meteor shower as what Melanie and her family saw during their camping trip last year, which matches the reference answer."
+}

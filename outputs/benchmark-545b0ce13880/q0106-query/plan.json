@@ -1,0 +1,10 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Caroline",
+      "property": "lessons_learned_from_favorite_book",
+      "search": "evidence of what Caroline learned or took away from the book 'Becoming Nicole'"
+    }
+  ]
+}

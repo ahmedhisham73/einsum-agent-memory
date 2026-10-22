@@ -1,0 +1,21 @@
+[
+  {
+    "query": "Melanie visit museum",
+    "returned_chunk_ids": [
+      "conv-26::session_11::chunk-0005",
+      "conv-26::session_12::chunk-0000",
+      "conv-26::session_14::chunk-0015",
+      "conv-26::session_4::chunk-0000",
+      "conv-26::session_6::chunk-0000",
+      "conv-26::session_9::chunk-0015"
+    ],
+    "cumulative_chunk_ids": [
+      "conv-26::session_11::chunk-0005",
+      "conv-26::session_12::chunk-0000",
+      "conv-26::session_14::chunk-0015",
+      "conv-26::session_4::chunk-0000",
+      "conv-26::session_6::chunk-0000",
+      "conv-26::session_9::chunk-0015"
+    ]
+  }
+]

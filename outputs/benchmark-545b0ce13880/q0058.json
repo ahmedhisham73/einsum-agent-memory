@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-26::q0058",
+  "category": 2,
+  "question": "When did Caroline encounter people on a hike and have a negative experience?",
+  "gold_answer": "The week before 25 August 2023",
+  "status": "failed",
+  "error": "Query failed. See q0058.log"
+}

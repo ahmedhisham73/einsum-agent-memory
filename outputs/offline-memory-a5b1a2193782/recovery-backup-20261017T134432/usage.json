@@ -1,0 +1,32 @@
+[
+  {
+    "call_id": "458bb72a-db3a-4545-9a57-f70b850ff113",
+    "experiment_id": "offline-memory-a5b1a2193782",
+    "approach": "ensimem",
+    "phase": "build",
+    "stage": "episode_partitioning",
+    "provider": "openai",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "input_tokens": 2415,
+    "output_tokens": 252,
+    "cached_input_tokens": 0,
+    "query_id": null,
+    "usage_kind": "generation",
+    "attempt": 1
+  },
+  {
+    "call_id": "0598f335-f9d1-4e93-8f77-000905f5135a",
+    "experiment_id": "offline-memory-a5b1a2193782",
+    "approach": "ensimem",
+    "phase": "build",
+    "stage": "episode_partitioning",
+    "provider": "openai",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "input_tokens": 1541,
+    "output_tokens": 149,
+    "cached_input_tokens": 0,
+    "query_id": null,
+    "usage_kind": "generation",
+    "attempt": 1
+  }
+]

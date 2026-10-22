@@ -1,0 +1,316 @@
+[
+  {
+    "episode_id": "conv-26::session_3::chunk-0010",
+    "session_id": "session_3",
+    "observed_at": "2023-06-09T19:55:00",
+    "source_timestamp": "7:55 pm on 9 June, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D3:11",
+        "speaker": "Caroline",
+        "text": "Thanks, Mel! My friends, family and mentors are my rocks – they motivate me and give me the strength to push on. Here's a pic from when we met up last week!",
+        "metadata": {
+          "img_url": [
+            "https://fox2now.com/wp-content/uploads/sites/14/2023/08/that-tall-family.jpg"
+          ],
+          "blip_caption": "a photo of a family posing for a picture in a yard",
+          "query": "group of friends and family"
+        }
+      },
+      {
+        "turn_id": "D3:12",
+        "speaker": "Melanie",
+        "text": "Wow, that photo is great! How long have you had such a great support system?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:13",
+        "speaker": "Caroline",
+        "text": "Yeah, I'm really lucky to have them. They've been there through everything, I've known these friends for 4 years, since I moved from my home country. Their love and help have been so important especially after that tough breakup. I'm super thankful. Who supports you, Mel?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:14",
+        "speaker": "Melanie",
+        "text": "I'm lucky to have my husband and kids; they keep me motivated.",
+        "metadata": {
+          "img_url": [
+            "https://mrswebersneighborhood.com/wp-content/uploads/2022/07/Cedar-Falls-Hocking-Hills.jpg"
+          ],
+          "blip_caption": "a photo of a man and a little girl standing in front of a waterfall",
+          "query": "husband kids hiking nature"
+        }
+      },
+      {
+        "turn_id": "D3:15",
+        "speaker": "Caroline",
+        "text": "Wow, what an amazing family pic! How long have you been married?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:16",
+        "speaker": "Melanie",
+        "text": "5 years already! Time flies- feels like just yesterday I put this dress on! Thanks, Caroline!",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/8o28nfllf3eb1.jpg"
+          ],
+          "blip_caption": "a photo of a bride in a wedding dress holding a bouquet",
+          "query": "wedding day"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_4::chunk-0000",
+    "session_id": "session_4",
+    "observed_at": "2023-06-27T10:37:00",
+    "source_timestamp": "10:37 am on 27 June, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D4:1",
+        "speaker": "Caroline",
+        "text": "Hey Melanie! Long time no talk! A lot's been going on in my life! Take a look at this.",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/67uas3gnmz7b1.jpg"
+          ],
+          "blip_caption": "a photo of a person holding a necklace with a cross and a heart",
+          "query": "pendant transgender symbol"
+        }
+      },
+      {
+        "turn_id": "D4:2",
+        "speaker": "Melanie",
+        "text": "Hey, Caroline! Nice to hear from you! Love the necklace, any special meaning to it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:3",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! This necklace is super special to me - a gift from my grandma in my home country, Sweden. She gave it to me when I was young, and it stands for love, faith and strength. It's like a reminder of my roots and all the love and support I get from my family.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:4",
+        "speaker": "Melanie",
+        "text": "That's gorgeous, Caroline! It's awesome what items can mean so much to us, right? Got any other objects that you treasure, like that necklace?",
+        "metadata": {
+          "blip_caption": "a photo of a stack of bowls with different designs on them"
+        }
+      },
+      {
+        "turn_id": "D4:5",
+        "speaker": "Caroline",
+        "text": "Yep, Melanie! I've got some other stuff with sentimental value, like my hand-painted bowl. A friend made it for my 18th birthday ten years ago. The pattern and colors are awesome-- it reminds me of art and self-expression.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:6",
+        "speaker": "Melanie",
+        "text": "That sounds great, Caroline! It's awesome having stuff around that make us think of good connections and times. Actually, I just took my fam camping in the mountains last week - it was a really nice time together!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_8::chunk-0030",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D8:31",
+        "speaker": "Caroline",
+        "text": "Wow, Mel, family love and support is the best!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:32",
+        "speaker": "Melanie",
+        "text": "Yeah, Caroline, my family's been great - their love and support really helped me through tough times. It's awesome! We even went on another camping trip in the forest.",
+        "metadata": {
+          "img_url": [
+            "http://cragmama.com/wp-content/uploads//2016/10/IMG_4568.jpg"
+          ],
+          "blip_caption": "a photo of a man and two children sitting around a campfire",
+          "query": "family camping trip roasting marshmallows campfire"
+        }
+      },
+      {
+        "turn_id": "D8:33",
+        "speaker": "Caroline",
+        "text": "Awesome, Mel! Family support's huge. What else do you guys like doing together?",
+        "metadata": {
+          "blip_caption": "a photo of a family walking through a forest with a toddler"
+        }
+      },
+      {
+        "turn_id": "D8:34",
+        "speaker": "Melanie",
+        "text": "We enjoy hiking in the mountains and exploring forests. It's a cool way to connect with nature and each other.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:35",
+        "speaker": "Caroline",
+        "text": "Wow, Mel, that sounds awesome! Exploring nature and family time is so special.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:36",
+        "speaker": "Melanie",
+        "text": "Yeah, Caroline, they're some of my fave memories. It brings us together and brings us happiness. Glad you're here to share in it.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_10::chunk-0020",
+    "session_id": "session_10",
+    "observed_at": "2023-07-20T20:56:00",
+    "source_timestamp": "8:56 pm on 20 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D10:21",
+        "speaker": "Caroline",
+        "text": "Aw, that's sweet, Mel! Those milestones are great reminders of how special our bonds are.",
+        "metadata": {
+          "blip_caption": "a photo of a baby in a white crib with a blue blanket"
+        }
+      },
+      {
+        "turn_id": "D10:22",
+        "speaker": "Melanie",
+        "text": "Yeah, they sure are. It's special moments like these that make me appreciate life and how lucky I am to be with my family and have our love.",
+        "metadata": {
+          "img_url": [
+            "https://freerangestock.com/sample/134391/happy-family-holding-hands-with-ocean-and-sunset-in-the-background.jpg"
+          ],
+          "blip_caption": "a photography of a family standing on the beach at sunset",
+          "query": "children playing and laughing",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D10:23",
+        "speaker": "Caroline",
+        "text": "Wow, Melanie, what a beautiful moment! Lucky you to have such an awesome family!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:24",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! I'm really lucky to have my family; they bring so much joy and love.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_18::chunk-0010",
+    "session_id": "session_18",
+    "observed_at": "2023-10-20T18:55:00",
+    "source_timestamp": "6:55 pm on 20 October, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D18:11",
+        "speaker": "Melanie",
+        "text": "Yeah, Caroline. Totally agree. They're my biggest motivation and support.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:12",
+        "speaker": "Caroline",
+        "text": "It's so sweet to see your love for your family, Melanie. They really are your rock.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:13",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline. They're a real support. Appreciate them a lot.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:14",
+        "speaker": "Caroline",
+        "text": "Glad you've got people to lean on, Melanie. It helps during tougher times.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:15",
+        "speaker": "Melanie",
+        "text": "Yeah for sure. Having my fam around helps a lot. It makes hard times easier.",
+        "metadata": {
+          "img_url": [
+            "https://live.staticflickr.com/8358/29211988243_82023c5524_b.jpg"
+          ],
+          "blip_caption": "a photography of a woman and a child walking on a trail",
+          "query": "family hiking mountains",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D18:16",
+        "speaker": "Caroline",
+        "text": "Wow, great pic! Is that recent? Looks like you all had fun!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_19::chunk-0000",
+    "session_id": "session_19",
+    "observed_at": "2023-10-22T09:55:00",
+    "source_timestamp": "9:55 am on 22 October, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D19:1",
+        "speaker": "Caroline",
+        "text": "Woohoo Melanie! I passed the adoption agency interviews last Friday! I'm so excited and thankful. This is a big move towards my goal of having a family.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:2",
+        "speaker": "Melanie",
+        "text": "Congrats, Caroline! Adoption sounds awesome. I'm so happy for you. These figurines I bought yesterday remind me of family love. Tell me, what's your vision for the future?",
+        "metadata": {
+          "img_url": [
+            "https://imgur.com/oGlhL5J.jpg"
+          ],
+          "blip_caption": "a photo of a couple of wooden dolls sitting on top of a table",
+          "query": "painted ceramic family figurine"
+        }
+      },
+      {
+        "turn_id": "D19:3",
+        "speaker": "Caroline",
+        "text": "Thanks so much, Melanie! It's beautiful! It really brings home how much love's in families - both blood and the ones we choose. I hope to build my own family and put a roof over kids who haven't had that before. For me, adoption is a way of giving back and showing love and acceptance.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:4",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, that's awesome. Giving a home to needy kids is such a loving way to build a family. Those kids will be so supported and happy in their new home.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:5",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie. My dream is to create a safe and loving home for these kids. Love and acceptance should be everyone's right, and I want them to experience it.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:6",
+        "speaker": "Melanie",
+        "text": "I totally agree, Caroline. Everyone deserves that. It's awesome to see how passionate you are about helping these kids.",
+        "metadata": {}
+      }
+    ]
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Caroline",
+      "property": "gender_identity_path",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Caroline",
+      "property": "status",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Caroline",
+      "property": "values",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Caroline",
+      "property": "belief",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Caroline",
+      "property": "attitude",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Caroline",
+      "property": "personal_quality",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Caroline",
+      "property": "achieved_self_acceptance",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Caroline",
+      "property": "characteristic",
+      "search": "standalone evidence search"
+    }
+  ]
+}

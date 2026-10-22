@@ -1,0 +1,37 @@
+{
+  "question_id": "conv-26::q0016",
+  "category": 1,
+  "question": "What activities does Melanie partake in?",
+  "gold_answer": "pottery, camping, painting, swimming",
+  "status": "scored",
+  "generated_answer": "Melanie partakes in swimming with the kids, family camping trips including sitting around campfires at the beach and in forests, hiking in the mountains, exploring forests, spending time with her pets (such as a dog named Oliver), and enjoys creativity and family time to find peace.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_1::episode-005",
+      "turn_id": "D1:18"
+    },
+    {
+      "episode_id": "conv-26::session_6::episode-005",
+      "turn_id": "D6:16"
+    },
+    {
+      "episode_id": "conv-26::session_8::episode-004",
+      "turn_id": "D8:28"
+    },
+    {
+      "episode_id": "conv-26::session_8::episode-004",
+      "turn_id": "D8:32"
+    },
+    {
+      "episode_id": "conv-26::session_8::episode-004",
+      "turn_id": "D8:34"
+    },
+    {
+      "episode_id": "conv-26::session_13::episode-002",
+      "turn_id": "D13:4"
+    }
+  ],
+  "query_elapsed_seconds": 5.525902125,
+  "label": "WRONG",
+  "judge_reason": "The generated answer includes additional activities (hiking, spending time with pets, etc.) that are not in the reference answer and does not directly equate to the specified activities."
+}

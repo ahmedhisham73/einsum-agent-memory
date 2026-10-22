@@ -1,0 +1,21 @@
+[
+  {
+    "query": "musical artists bands Melanie has seen",
+    "returned_chunk_ids": [
+      "conv-26::session_11::chunk-0000",
+      "conv-26::session_11::chunk-0005",
+      "conv-26::session_14::chunk-0030",
+      "conv-26::session_15::chunk-0010",
+      "conv-26::session_15::chunk-0020",
+      "conv-26::session_15::chunk-0025"
+    ],
+    "cumulative_chunk_ids": [
+      "conv-26::session_11::chunk-0000",
+      "conv-26::session_11::chunk-0005",
+      "conv-26::session_14::chunk-0030",
+      "conv-26::session_15::chunk-0010",
+      "conv-26::session_15::chunk-0020",
+      "conv-26::session_15::chunk-0025"
+    ]
+  }
+]

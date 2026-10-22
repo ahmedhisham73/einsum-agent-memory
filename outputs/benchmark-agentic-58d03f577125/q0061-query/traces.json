@@ -1,0 +1,125 @@
+[
+  {
+    "stage": "agent_decision",
+    "call_id": "0c595948-4cda-4214-9210-dd14d0551792",
+    "response": {
+      "id": "chatcmpl-EZqYZQx7ATDrmaKLi5pmh7fAdtCpd",
+      "object": "chat.completion",
+      "created": 1792212215,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"search\",\"query\":\"Melanie instruments played\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 147,
+        "completion_tokens": 12,
+        "total_tokens": 159,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f810e81ea"
+    },
+    "latency_seconds": 1.0605600000000002
+  },
+  {
+    "stage": "agent_decision",
+    "call_id": "5937a6c4-fa7d-45a9-a642-6eb20cc76e40",
+    "response": {
+      "id": "chatcmpl-EZqYbPiT7y5TAqz7mHdIiQg3cO1tu",
+      "object": "chat.completion",
+      "created": 1792212217,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"ready\",\"reason\":\"Found Melanie mentioning that she plays clarinet, started when she was young, and enjoys both classical and modern music.\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2211,
+        "completion_tokens": 31,
+        "total_tokens": 2242,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f810e81ea"
+    },
+    "latency_seconds": 1.471039041
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "75587a4e-0f76-4abb-9dc4-a9ad784c1f2f",
+    "response": {
+      "id": "chatcmpl-EZqYcqDebae6JTOQbgYS1uhKJmmoF",
+      "object": "chat.completion",
+      "created": 1792212218,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Melanie plays the clarinet.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_15::chunk-0025\",\"turn_id\":\"D15:26\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2026,
+        "completion_tokens": 44,
+        "total_tokens": 2070,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_802f1283f8"
+    },
+    "latency_seconds": 1.032471083
+  }
+]

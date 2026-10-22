@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0135",
+  "category": 4,
+  "question": "What advice does Caroline give for getting started with adoption?",
+  "gold_answer": "Do research, find an adoption agency or lawyer, gather necessary documents, and prepare emotionally.",
+  "status": "scored",
+  "generated_answer": "Caroline's advice for getting started with adoption is to do your research and find an adoption agency or lawyer who can help with the process and provide information. She suggests gathering necessary documents like references, financial information, and medical checks. Caroline also emphasizes preparing emotionally for the process, especially because the waiting can be difficult, but reassures that it's all worth it in the end.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_17::chunk-0005",
+      "turn_id": "D17:7"
+    }
+  ],
+  "query_elapsed_seconds": 4.8682300839999995,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer includes all components of the reference answer, providing a detailed elaboration on the advice given."
+}

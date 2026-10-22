@@ -1,0 +1,125 @@
+[
+  {
+    "stage": "agent_decision",
+    "call_id": "61d530a9-e1da-4782-b7fa-a33cfeb5529c",
+    "response": {
+      "id": "chatcmpl-EZrFCiBxQ7MrlPjNloFm2CRS6ZD9H",
+      "object": "chat.completion",
+      "created": 1792214858,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"search\",\"query\":\"Melanie got hurt\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 147,
+        "completion_tokens": 12,
+        "total_tokens": 159,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f810e81ea"
+    },
+    "latency_seconds": 1.1453564159999998
+  },
+  {
+    "stage": "agent_decision",
+    "call_id": "1e341d8f-2b9f-404d-8edd-88d8367ec41a",
+    "response": {
+      "id": "chatcmpl-EZrFF2eYztEvAuTNY3z72I8OB4s89",
+      "object": "chat.completion",
+      "created": 1792214861,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"ready\",\"reason\":\"Based on the conversation chunks, Melanie herself is not described as hurt, but her son was in an accident during a road trip mentioned on 20 October 2023. There is no direct mention of Melanie being hurt.\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3123,
+        "completion_tokens": 52,
+        "total_tokens": 3175,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f810e81ea"
+    },
+    "latency_seconds": 1.7618535
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "13c26ce2-20b1-407f-b7ea-98ad92c6c92c",
+    "response": {
+      "id": "chatcmpl-EZrFG1O8e7JpfBxlRowKPOY8yimL3",
+      "object": "chat.completion",
+      "created": 1792214862,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"There is no information in the provided conversations that Melanie got hurt. The only accident mentioned was Melanie's son getting into an accident, but Melanie herself was not hurt.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_18::chunk-0000\",\"turn_id\":\"D18:1\"},{\"episode_id\":\"conv-26::session_18::chunk-0000\",\"turn_id\":\"D18:3\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3058,
+        "completion_tokens": 94,
+        "total_tokens": 3152,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_802f1283f8"
+    },
+    "latency_seconds": 1.800182209
+  }
+]

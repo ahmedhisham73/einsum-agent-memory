@@ -1,0 +1,45 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Melanie's children",
+      "property": "emotional_reaction_to_event",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Melanie's children",
+      "property": "emotional_state_family",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Melanie's children",
+      "property": "reaction_at_pride_event",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Melanie's children",
+      "property": "emotional_response_to_praise",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Melanie's children",
+      "property": "family_support_help",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Melanie's children",
+      "property": "support_received",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Melanie's children",
+      "property": "shared_difficulties",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Melanie's children",
+      "property": "action_apologize",
+      "search": "standalone evidence search"
+    }
+  ]
+}

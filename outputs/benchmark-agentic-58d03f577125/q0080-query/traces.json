@@ -1,0 +1,125 @@
+[
+  {
+    "stage": "agent_decision",
+    "call_id": "7cafc39f-3e2e-4dbb-a5d2-4c768557c3f6",
+    "response": {
+      "id": "chatcmpl-EZrFewVXQFiUlxLh4zAKBi1EjaPHD",
+      "object": "chat.completion",
+      "created": 1792214886,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"search\",\"query\":\"Caroline adoption interview passed date\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 149,
+        "completion_tokens": 14,
+        "total_tokens": 163,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f810e81ea"
+    },
+    "latency_seconds": 0.771605125
+  },
+  {
+    "stage": "agent_decision",
+    "call_id": "a412f70c-d43c-4cec-b927-1fe7ca17c8e9",
+    "response": {
+      "id": "chatcmpl-EZrFgrZsxNvuAy94g3UfIcxfo3wmt",
+      "object": "chat.completion",
+      "created": 1792214888,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"ready\",\"reason\":\"Found evidence that Caroline passed the adoption agency interviews last Friday before the conversation on 22 October 2023. Thus, Caroline passed the adoption interview on Friday, 20 October 2023.\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2935,
+        "completion_tokens": 47,
+        "total_tokens": 2982,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f810e81ea"
+    },
+    "latency_seconds": 1.586491042
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "68365ad3-345e-4544-95b9-7e2f9433708c",
+    "response": {
+      "id": "chatcmpl-EZrFjZTyd1o3vVE5hw8uytm9APWMd",
+      "object": "chat.completion",
+      "created": 1792214891,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Caroline passed the adoption agency interviews on Friday, 13 October, 2023.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_19::chunk-0000\",\"turn_id\":\"D19:1\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2880,
+        "completion_tokens": 55,
+        "total_tokens": 2935,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_802f1283f8"
+    },
+    "latency_seconds": 6.699690166
+  }
+]

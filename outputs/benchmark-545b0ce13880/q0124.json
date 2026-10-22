@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0124",
+  "category": 4,
+  "question": "What pet does Caroline have?",
+  "gold_answer": "guinea pig",
+  "status": "scored",
+  "generated_answer": "Caroline has a pet guinea pig named Oscar.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_13::episode-001",
+      "turn_id": "D13:3"
+    }
+  ],
+  "query_elapsed_seconds": 3.709625084,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer provides the correct pet type (guinea pig) and adds the name, which does not contradict the reference."
+}

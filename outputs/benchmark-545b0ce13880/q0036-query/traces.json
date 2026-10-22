@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "8bbd23c1-5054-4127-ade0-d9b710d68616",
+    "response": {
+      "id": "chatcmpl-EZj46TrRXPll87o7lX8kYhaO5D9ti",
+      "object": "chat.completion",
+      "created": 1792183418,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"all_matching\",\"requirements\":[{\"entity\":\"Melanie\",\"property\":\"activity_camping\",\"search\":\"Melanie camping in July\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2679,
+        "completion_tokens": 29,
+        "total_tokens": 2708,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f111b06a9"
+    },
+    "latency_seconds": 1.891102542
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "cb5b1a0c-9c8e-4f79-931d-3ba880ef65a8",
+    "response": {
+      "id": "chatcmpl-EZj48biNggnsMumRGnm8ATHPD8ViU",
+      "object": "chat.completion",
+      "created": 1792183420,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Melanie went camping with her family in the mountains last week of June 2023 and also went camping in two weekends before 17 July 2023 (which likely refers to early July). Additionally, she mentioned enjoying family camping trips in summer which include roasting marshmallows and campfires, with a specific camping event referenced in June 2023 conversation (session 4, episode 2) and another camping mention in July 2023 (session 9, episode 1).\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_4::episode-002\",\"turn_id\":\"D4:6\"},{\"episode_id\":\"conv-26::session_9::episode-001\",\"turn_id\":\"D9:1\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 36943,
+        "completion_tokens": 158,
+        "total_tokens": 37101,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_38f508f26a"
+    },
+    "latency_seconds": 2.7198311660000005
+  }
+]

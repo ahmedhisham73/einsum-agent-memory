@@ -1,0 +1,125 @@
+[
+  {
+    "stage": "agent_decision",
+    "call_id": "d9041bbe-a7dd-4b9c-a83b-5cb3da4889ee",
+    "response": {
+      "id": "chatcmpl-EZiUXvIteoRiP8ekuxjxnGLLFmmZO",
+      "object": "chat.completion",
+      "created": 1792181213,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"search\",\"query\":\"Caroline's identity\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 147,
+        "completion_tokens": 12,
+        "total_tokens": 159,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_d81cb94320"
+    },
+    "latency_seconds": 1.5201330839999998
+  },
+  {
+    "stage": "agent_decision",
+    "call_id": "c6a25adf-aafa-4da4-9f25-0e514ee47449",
+    "response": {
+      "id": "chatcmpl-EZiUaG6zLBe43SoPdbTjYdbOhTxAB",
+      "object": "chat.completion",
+      "created": 1792181216,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"ready\",\"reason\":\"The source chunks collectively reveal Caroline's identity as a trans woman who is on a journey of self-discovery, acceptance, and transition. She is passionate about art and uses it to express her experiences and advocate for self-acceptance and trans awareness. She values genuine relationships and is committed to helping and supporting others, especially those facing challenges similar to hers. This comprehensive characterization addresses the user's question about Caroline's identity.\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2496,
+        "completion_tokens": 91,
+        "total_tokens": 2587,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_d81cb94320"
+    },
+    "latency_seconds": 2.0025099579999996
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "d6f5509a-dde3-42fe-b4cb-04c2c671d080",
+    "response": {
+      "id": "chatcmpl-EZiUbJO6jbWoO16U82T5NpDe3SqMw",
+      "object": "chat.completion",
+      "created": 1792181217,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Caroline is a trans woman who has undergone a journey of self-discovery and acceptance. She uses art to express her transition and identity, emphasizing themes of self-love, warmth, and acceptance. She is passionate about helping others, particularly supporting trans individuals and children through challenges. Her identity is deeply connected to finding and embracing her true self beyond the binary gender system, and she values genuine, supportive relationships.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_11::chunk-0010\",\"turn_id\":\"D11:12\"},{\"episode_id\":\"conv-26::session_16::chunk-0010\",\"turn_id\":\"D16:13\"},{\"episode_id\":\"conv-26::session_19::chunk-0005\",\"turn_id\":\"D19:9\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2480,
+        "completion_tokens": 166,
+        "total_tokens": 2646,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_38f508f26a"
+    },
+    "latency_seconds": 1.9408982080000001
+  }
+]

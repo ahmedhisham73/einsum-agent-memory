@@ -1,0 +1,10 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Melanie",
+      "property": "feeling_about_family",
+      "search": "Melanie feeling about her family after the accident"
+    }
+  ]
+}

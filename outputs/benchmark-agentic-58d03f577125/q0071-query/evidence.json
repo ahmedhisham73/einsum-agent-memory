@@ -1,0 +1,305 @@
+[
+  {
+    "episode_id": "conv-26::session_1::chunk-0000",
+    "session_id": "session_1",
+    "observed_at": "2023-05-08T13:56:00",
+    "source_timestamp": "1:56 pm on 8 May, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D1:1",
+        "speaker": "Caroline",
+        "text": "Hey Mel! Good to see you! How have you been?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:2",
+        "speaker": "Melanie",
+        "text": "Hey Caroline! Good to see you! I'm swamped with the kids & work. What's up with you? Anything new?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:3",
+        "speaker": "Caroline",
+        "text": "I went to a LGBTQ support group yesterday and it was so powerful.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:4",
+        "speaker": "Melanie",
+        "text": "Wow, that's cool, Caroline! What happened that was so awesome? Did you hear any inspiring stories?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:5",
+        "speaker": "Caroline",
+        "text": "The transgender stories were so inspiring! I was so happy and thankful for all the support.",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/l7hozpetnhlb1.jpg"
+          ],
+          "blip_caption": "a photo of a dog walking past a wall with a painting of a woman",
+          "query": "transgender pride flag mural"
+        }
+      },
+      {
+        "turn_id": "D1:6",
+        "speaker": "Melanie",
+        "text": "Wow, love that painting! So cool you found such a helpful group. What's it done for you?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_3::chunk-0000",
+    "session_id": "session_3",
+    "observed_at": "2023-06-09T19:55:00",
+    "source_timestamp": "7:55 pm on 9 June, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D3:1",
+        "speaker": "Caroline",
+        "text": "Hey Melanie! How's it going? I wanted to tell you about my school event last week. It was awesome! I talked about my transgender journey and encouraged students to get involved in the LGBTQ community. It was great to see their reactions. It made me reflect on how far I've come since I started transitioning three years ago.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:2",
+        "speaker": "Melanie",
+        "text": "Hey Caroline! Great to hear from you. Sounds like your event was amazing! I'm so proud of you for spreading awareness and getting others involved in the LGBTQ community. You've come a long way since your transition - keep on inspiring people with your strength and courage!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:3",
+        "speaker": "Caroline",
+        "text": "Thanks, Mel! Your backing really means a lot. I felt super powerful giving my talk. I shared my own journey, the struggles I had and how much I've developed since coming out. It was wonderful to see how the audience related to what I said and how it inspired them to be better allies. Conversations about gender identity and inclusion are so necessary and I'm thankful for being able to give a voice to the trans community.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:4",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, you're doing an awesome job of inspiring others with your journey. It's great to be part of it and see how you're positively affecting so many. Talking about inclusivity and acceptance is crucial, and you're so brave to speak up for the trans community. Keep up the great work!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:5",
+        "speaker": "Caroline",
+        "text": "Thanks Mel! Your kind words mean a lot. Sharing our experiences isn't always easy, but I feel it's important to help promote understanding and acceptance. I've been blessed with loads of love and support throughout this journey, and I want to pass it on to others. By sharing our stories, we can build a strong, supportive community of hope.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:6",
+        "speaker": "Melanie",
+        "text": "Yeah, Caroline! It takes courage to talk about our own stories. But it's in these vulnerable moments that we bond and understand each other. We all have our different paths, but if we share them, we show people that they're not alone. Our stories can be so inspiring and encouraging to others who are facing the same challenges. Thank you for using your voice to create love, acceptance, and hope. You're doing amazing!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_7::chunk-0000",
+    "session_id": "session_7",
+    "observed_at": "2023-07-12T16:33:00",
+    "source_timestamp": "4:33 pm on 12 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D7:1",
+        "speaker": "Caroline",
+        "text": "Hey Mel, great to chat with you again! So much has happened since we last spoke - I went to an LGBTQ conference two days ago and it was really special. I got the chance to meet and connect with people who've gone through similar journeys. It was such a welcoming environment and I felt totally accepted. I'm really thankful for this amazing community - it's shown me how important it is to fight for trans rights and spread awareness.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:2",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, that sounds awesome! So glad you felt accepted and supported. Events like these are great for reminding us of how strong community can be!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:3",
+        "speaker": "Caroline",
+        "text": "Yeah, it's true! Having people who back you makes such a huge difference. It's great to see how far LGBTQ rights have come, but there's still plenty of progress to be made. I wanna help make a difference.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:4",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline. We've come so far, but there's more to do. Your drive to help is awesome! What's your plan to pitch in?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:5",
+        "speaker": "Caroline",
+        "text": "Thanks, Mell! I'm still looking into counseling and mental health jobs. It's important to me that people have someone to talk to, and I want to help make that happen.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:6",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! You're so inspiring for wanting to help others with their mental health. What's pushing you to keep going forward with it?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_9::chunk-0005",
+    "session_id": "session_9",
+    "observed_at": "2023-07-17T14:31:00",
+    "source_timestamp": "2:31 pm on 17 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D9:6",
+        "speaker": "Caroline",
+        "text": "I mentor a transgender teen just like me. We've been working on building up confidence and finding positive strategies, and it's really been paying off! We had a great time at the LGBT pride event last month.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:7",
+        "speaker": "Melanie",
+        "text": "Caroline, awesome news that you two are getting along! What was it like for you both? Care to fill me in?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:8",
+        "speaker": "Caroline",
+        "text": "The pride event was awesome! It was so encouraging to be surrounded by so much love and acceptance.",
+        "metadata": {
+          "img_url": [
+            "https://res.cloudinary.com/dragonspell/images/w_1440,h_864,c_fill,dpr_auto,fl_progressive:steep,f_auto/w_1440,h_864/v1571420662/www.travelportland.com/Portland-Pride-Parade-Downtown/Portland-Pride-Parade-Downtown.jpg"
+          ],
+          "blip_caption": "a photo of a woman holding a rainbow umbrella in the air",
+          "query": "lgbt pride event"
+        }
+      },
+      {
+        "turn_id": "D9:9",
+        "speaker": "Melanie",
+        "text": "Wow! What's the best part you remember from it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:10",
+        "speaker": "Caroline",
+        "text": "Seeing my mentee's face light up when they saw the support was the best! Such a special moment.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:11",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! They must have felt so appreciated. It's awesome to see the difference we can make in each other's lives. Any other exciting LGBTQ advocacy stuff coming up?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_9::chunk-0010",
+    "session_id": "session_9",
+    "observed_at": "2023-07-17T14:31:00",
+    "source_timestamp": "2:31 pm on 17 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D9:12",
+        "speaker": "Caroline",
+        "text": "Yay! Next month I'm having an LGBTQ art show with my paintings - can't wait!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:13",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, that sounds awesome! Can't wait to see your art - got any previews?",
+        "metadata": {
+          "blip_caption": "a photo of a painting with a blue and yellow design"
+        }
+      },
+      {
+        "turn_id": "D9:14",
+        "speaker": "Caroline",
+        "text": "Check out my painting for the art show! Hope you like it.",
+        "metadata": {
+          "img_url": [
+            "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/abstract-landscape-bold-colorful-painting-megan-duncanson.jpg"
+          ],
+          "blip_caption": "a photography of a painting of a tree with a bright sun in the background",
+          "query": "preview painting art show",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D9:15",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, that painting is awesome! Those colors are so vivid and the whole thing looks really unified. What inspired you?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:16",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! I painted this after I visited a LGBTQ center. I wanted to capture everyone's unity and strength.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_14::chunk-0010",
+    "session_id": "session_14",
+    "observed_at": "2023-08-25T13:33:00",
+    "source_timestamp": "1:33 pm on 25 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D14:11",
+        "speaker": "Caroline",
+        "text": "Wow, Mel, you're amazing! Volunteering and making a difference- it's so heartwarming. You're an inspiration to us all!",
+        "metadata": {
+          "img_url": [
+            "https://images.squarespace-cdn.com/content/v1/64cda0c3f2719a0e6e707684/a08e6e1f-f0e0-4f1a-b567-1f1f92b80aab/35970846_829192503937065_1026209343625756672_o_829192493937066.jpg"
+          ],
+          "blip_caption": "a photo of a crowd of people walking down a street with a rainbow flag",
+          "query": "volunteering pride event"
+        }
+      },
+      {
+        "turn_id": "D14:12",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! I really appreciate your help and motivation. What made you decide to transition and join the transgender community?",
+        "metadata": {
+          "blip_caption": "a photo of a bulletin board with a rainbow flag and a don't ever be afraid to"
+        }
+      },
+      {
+        "turn_id": "D14:13",
+        "speaker": "Caroline",
+        "text": "Finding a community where I'm accepted, loved and supported has really meant a lot to me. It's made a huge difference to have people who get what I'm going through. Stuff like this mural are really special to me!",
+        "metadata": {
+          "img_url": [
+            "https://npr.brightspotcdn.com/legacy/sites/wuwm/files/201811/20181029_095916.jpg"
+          ],
+          "blip_caption": "a photo of a building with a large eagle painted on it",
+          "query": "rainbow flag painting unity acceptance"
+        }
+      },
+      {
+        "turn_id": "D14:14",
+        "speaker": "Melanie",
+        "text": "Caroline, glad you found a supportive community! Can you tell me more about why it's special to you?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:15",
+        "speaker": "Caroline",
+        "text": "The rainbow flag mural is important to me as it reflects the courage and strength of the trans community. The eagle symbolizes freedom and pride, representing my own resilience and that of others.",
+        "metadata": {
+          "blip_caption": "a photo of a stained glass window with a picture of a person on a horse"
+        }
+      },
+      {
+        "turn_id": "D14:16",
+        "speaker": "Melanie",
+        "text": "I'm in awe of your courage as a trans person. Have you made any more art lately?",
+        "metadata": {
+          "blip_caption": "a photo of a stained glass window with a person holding a key"
+        }
+      }
+    ]
+  }
+]

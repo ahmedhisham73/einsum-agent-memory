@@ -1,0 +1,330 @@
+[
+  {
+    "episode_id": "conv-26::session_5::chunk-0005",
+    "session_id": "session_5",
+    "observed_at": "2023-07-03T13:36:00",
+    "source_timestamp": "1:36 pm on 3 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D5:6",
+        "speaker": "Melanie",
+        "text": "I'm a big fan of pottery - the creativity and skill is awesome. Plus, making it is so calming. Look at this!",
+        "metadata": {
+          "img_url": [
+            "https://therusticbarnct.com/cdn/shop/files/image_05483f46-4845-433b-a4cf-0fc61fe1aa79.jpg"
+          ],
+          "blip_caption": "a photo of a bowl with a black and white flower design",
+          "query": "pottery painted bowl intricate design"
+        }
+      },
+      {
+        "turn_id": "D5:7",
+        "speaker": "Caroline",
+        "text": "That bowl is gorgeous! The black and white design looks so fancy. Did you make it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:8",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! Yeah, I made this bowl in my class. It took some work, but I'm pretty proud of it.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:9",
+        "speaker": "Caroline",
+        "text": "Nice job! You really put in the work and it definitely shows. Your creativity looks great!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:10",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! Your kind words mean a lot. Pottery is a huge part of my life, not just a hobby - it helps me express my emotions. Clay is incredible, it brings me so much joy!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:11",
+        "speaker": "Caroline",
+        "text": "Wow, Mel, I'm so stoked for you that art is helping you express yourself and bring you joy! Keep it up!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_6::chunk-0000",
+    "session_id": "session_6",
+    "observed_at": "2023-07-06T20:18:00",
+    "source_timestamp": "8:18 pm on 6 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D6:1",
+        "speaker": "Caroline",
+        "text": "Hey Mel! Long time no talk. Lots has been going on since then!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:2",
+        "speaker": "Melanie",
+        "text": "Hey Caroline! Missed you. Anything new? Spill the beans!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:3",
+        "speaker": "Caroline",
+        "text": "Since our last chat, I've been looking into counseling or mental health work more. I'm passionate about helping people and making a positive impact. It's tough, but really rewarding too. Anything new happening with you?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:4",
+        "speaker": "Melanie",
+        "text": "That's awesome, Caroline! Congrats on following your dreams. Yesterday I took the kids to the museum - it was so cool spending time with them and seeing their eyes light up!",
+        "metadata": {
+          "img_url": [
+            "https://live.staticflickr.com/3201/2867258131_2d8bc22859_b.jpg"
+          ],
+          "blip_caption": "a photography of two children playing in a water play area",
+          "query": "kids laughing dinosaur exhibit museum",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D6:5",
+        "speaker": "Caroline",
+        "text": "Melanie, that's a great pic! That must have been awesome. What were they so stoked about?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:6",
+        "speaker": "Melanie",
+        "text": "They were stoked for the dinosaur exhibit! They love learning about animals and the bones were so cool. It reminds me why I love being a mom.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_7::chunk-0015",
+    "session_id": "session_7",
+    "observed_at": "2023-07-12T16:33:00",
+    "source_timestamp": "4:33 pm on 12 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D7:16",
+        "speaker": "Melanie",
+        "text": "We've got a pup and a kitty. That's the dog, and here's our cat! They brighten up our day and always make us smile.",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/u26t78f0idd91.jpg"
+          ],
+          "blip_caption": "a photo of a cat laying on the floor with its head on the floor",
+          "query": "dog cat kids playing joy"
+        }
+      },
+      {
+        "turn_id": "D7:17",
+        "speaker": "Caroline",
+        "text": "Ah, they're adorable! What are their names? Pets sure do bring so much joy to us!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:18",
+        "speaker": "Melanie",
+        "text": "Luna and Oliver! They are so sweet and playful - they really liven up the house! Just got some new shoes, too!",
+        "metadata": {
+          "img_url": [
+            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwGRNI2jDkrALJHgL2LWfW2rUGhN-GA4OL_gXU2fHPyxtst2MPrv9hkyOMdpj5SppLNYiQrcXUUq90vv5es8ueswy2tuu0Lqa2lh2vKOfDZ5SXSdLVMVvBrfLbFJG19QiqDbv1xs38fv-atd4MYOesJ4c89sQTzv6k93PDQ5T0dwVJV9O2FF95woyP3Q/s4032/IMG_9747.jpg"
+          ],
+          "blip_caption": "a photo of a person wearing pink sneakers on a white rug",
+          "query": "purple running shoe"
+        }
+      },
+      {
+        "turn_id": "D7:19",
+        "speaker": "Caroline",
+        "text": "Love that purple color! For walking or running?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:20",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! These are for running. Been running longer since our last chat - a great way to destress and clear my mind.",
+        "metadata": {
+          "blip_caption": "a photo of a pair of pink sneakers in a box"
+        }
+      },
+      {
+        "turn_id": "D7:21",
+        "speaker": "Caroline",
+        "text": "Wow! What got you into running?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_13::chunk-0000",
+    "session_id": "session_13",
+    "observed_at": "2023-08-23T15:31:00",
+    "source_timestamp": "3:31 pm on 23 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D13:1",
+        "speaker": "Caroline",
+        "text": "Hi Melanie! Hope you're doing good. Guess what I did this week? I took the first step towards becoming a mom - I applied to adoption agencies! It's a big decision, but I think I'm ready to give all my love to a child. I got lots of help from this adoption advice/assistance group I attended. It was great!",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/pyq31v7eh6ra1.jpg"
+          ],
+          "blip_caption": "a photo of a sign with a picture of a guinea pig",
+          "query": "adoption brochures application forms external adoption advice assistance group"
+        }
+      },
+      {
+        "turn_id": "D13:2",
+        "speaker": "Melanie",
+        "text": "Caroline, congrats! So proud of you for taking this step. How does it feel? Also, do you have any pets?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D13:3",
+        "speaker": "Caroline",
+        "text": "Thanks, Mel! Exciting but kinda nerve-wracking. Parenting's such a big responsibility. And yup, I do- Oscar, my guinea pig. He's been great. How are your pets?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D13:4",
+        "speaker": "Melanie",
+        "text": "Yeah, it's normal to be both excited and nervous with a big decision. And thanks for asking, they're good- we got another cat named Bailey too. Here's a pic of Oliver. Can you show me one of Oscar?",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/kgggim1gom951.jpg"
+          ],
+          "blip_caption": "a photo of a black dog laying in the grass with a frisbee",
+          "query": "pets Luna Oliver playing frisbee backyard"
+        }
+      },
+      {
+        "turn_id": "D13:5",
+        "speaker": "Caroline",
+        "text": "He's so cute! What’s the funniest thing Oliver's done? And sure, check out this pic of him eating parsley! Veggies are his fave!",
+        "metadata": {
+          "img_url": [
+            "https://cdn.i-scmp.com/sites/default/files/styles/landscape/public/d8/yp/images/shutterstock533807500.jpg"
+          ],
+          "blip_caption": "a photography of a guinea in a cage with hay and hay",
+          "query": "oscar munching parsley playpen",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D13:6",
+        "speaker": "Melanie",
+        "text": "Oliver's hilarious! He hid his bone in my slipper once! Cute, right? Almost as silly as when I got to feed a horse a carrot. ",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/fgv0i3nzo7541.jpg"
+          ],
+          "blip_caption": "a photo of a person holding a carrot in front of a horse",
+          "query": "oscar carrot in mouth"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_13::chunk-0005",
+    "session_id": "session_13",
+    "observed_at": "2023-08-23T15:31:00",
+    "source_timestamp": "3:31 pm on 23 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D13:7",
+        "speaker": "Caroline",
+        "text": "That's so funny! I used to go horseback riding with my dad when I was a kid, we'd go through the fields, feeling the wind. It was so special. I've always had a love for horses!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D13:8",
+        "speaker": "Melanie",
+        "text": "Wow, that sounds great - I agree, they're awesome. Here's a photo of my horse painting I did recently.",
+        "metadata": {
+          "img_url": [
+            "https://warpedtable.com/cdn/shop/products/F331B563-AB73-430A-A6DF-3C5E0F91A4D8.jpg"
+          ],
+          "blip_caption": "a photo of a horse painted on a wooden wall",
+          "query": "horse painting"
+        }
+      },
+      {
+        "turn_id": "D13:9",
+        "speaker": "Caroline",
+        "text": "Wow, Melanie, that's amazing! Love all the details and how you got the horse's grace and strength. Do you like painting animals?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D13:10",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! Glad you like it. Yeah, I love to. It's peaceful and special. Horses have such grace! Do you like to paint too?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D13:11",
+        "speaker": "Caroline",
+        "text": "Painting's great for expressing myself. I love creating art! Here's a recent self-portrait I made last week.",
+        "metadata": {
+          "img_url": [
+            "https://cdn.shopify.com/s/files/1/0302/3968/6755/files/IMG_8385_a145b124-53ab-4b3c-8f1a-497fa2d39a49.jpg"
+          ],
+          "blip_caption": "a photo of a painting of a woman with a blue face",
+          "query": "self-portrait painting vibrant colors"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_18::chunk-0005",
+    "session_id": "session_18",
+    "observed_at": "2023-10-20T18:55:00",
+    "source_timestamp": "6:55 pm on 20 October, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D18:6",
+        "speaker": "Caroline",
+        "text": "The kids look so cute, Mel! I bet they bring lots of joy. How did they handle the accident?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:7",
+        "speaker": "Melanie",
+        "text": "Thanks! They were scared but we reassured them and explained their brother would be OK. They're tough kids.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:8",
+        "speaker": "Caroline",
+        "text": "Kids are amazingly resilient in tough situations. They have an amazing ability to bounce back.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:9",
+        "speaker": "Melanie",
+        "text": "They're really amazing. Wish I was that resilient too. But they give me the strength to keep going.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:10",
+        "speaker": "Caroline",
+        "text": "Our loved ones give us strength to tackle any challenge - it's amazing!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:11",
+        "speaker": "Melanie",
+        "text": "Yeah, Caroline. Totally agree. They're my biggest motivation and support.",
+        "metadata": {}
+      }
+    ]
+  }
+]

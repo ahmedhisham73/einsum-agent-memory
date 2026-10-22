@@ -1,0 +1,21 @@
+{
+  "question_id": "conv-26::q0141",
+  "category": 4,
+  "question": "What did the posters at the poetry reading say?",
+  "gold_answer": "\"Trans Lives Matter\"",
+  "status": "scored",
+  "generated_answer": "The posters at the transgender poetry reading expressed pride, strength, and support for trans lives. One poster visible said \"trans lives matter.\" They inspired feelings of empowerment and celebration of identity.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_17::episode-003",
+      "turn_id": "D17:19"
+    },
+    {
+      "episode_id": "conv-26::session_17::episode-003",
+      "turn_id": "D17:21"
+    }
+  ],
+  "query_elapsed_seconds": 4.430625292,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer correctly identifies that one of the posters said \"trans lives matter\" and provides context about the overall message and feelings expressed at the event."
+}

@@ -1,0 +1,241 @@
+[
+  {
+    "episode_id": "conv-26::session_3::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_3",
+    "observed_at": "2023-06-09T19:55:00",
+    "source_timestamp": "7:55 pm on 9 June, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Caroline's school event and discussion about transgender journey and LGBTQ community",
+    "turns": [
+      {
+        "turn_id": "D3:1",
+        "speaker": "Caroline",
+        "text": "Hey Melanie! How's it going? I wanted to tell you about my school event last week. It was awesome! I talked about my transgender journey and encouraged students to get involved in the LGBTQ community. It was great to see their reactions. It made me reflect on how far I've come since I started transitioning three years ago.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:2",
+        "speaker": "Melanie",
+        "text": "Hey Caroline! Great to hear from you. Sounds like your event was amazing! I'm so proud of you for spreading awareness and getting others involved in the LGBTQ community. You've come a long way since your transition - keep on inspiring people with your strength and courage!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:3",
+        "speaker": "Caroline",
+        "text": "Thanks, Mel! Your backing really means a lot. I felt super powerful giving my talk. I shared my own journey, the struggles I had and how much I've developed since coming out. It was wonderful to see how the audience related to what I said and how it inspired them to be better allies. Conversations about gender identity and inclusion are so necessary and I'm thankful for being able to give a voice to the trans community.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:4",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, you're doing an awesome job of inspiring others with your journey. It's great to be part of it and see how you're positively affecting so many. Talking about inclusivity and acceptance is crucial, and you're so brave to speak up for the trans community. Keep up the great work!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:5",
+        "speaker": "Caroline",
+        "text": "Thanks Mel! Your kind words mean a lot. Sharing our experiences isn't always easy, but I feel it's important to help promote understanding and acceptance. I've been blessed with loads of love and support throughout this journey, and I want to pass it on to others. By sharing our stories, we can build a strong, supportive community of hope.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:6",
+        "speaker": "Melanie",
+        "text": "Yeah, Caroline! It takes courage to talk about our own stories. But it's in these vulnerable moments that we bond and understand each other. We all have our different paths, but if we share them, we show people that they're not alone. Our stories can be so inspiring and encouraging to others who are facing the same challenges. Thank you for using your voice to create love, acceptance, and hope. You're doing amazing!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:7",
+        "speaker": "Caroline",
+        "text": "Your words mean a lot to me. I'm grateful for the chance to share my story and give others hope. We all have unique paths, and by working together we can build a more inclusive and understanding world. I'm going to keep using my voice to make a change and lift others up. And you're part of that!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:8",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline, for letting me join your journey. I'm so proud to be part of the difference you're making. Let's keep motivating and helping each other out as we journey through life. We can make a real impact together!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:9",
+        "speaker": "Caroline",
+        "text": "Yeah Mel, let's spread love and understanding! Thanks for the support and encouragement. We can tackle life's challenges together! We got this!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_11::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_11",
+    "observed_at": "2023-08-14T14:24:00",
+    "source_timestamp": "2:24 pm on 14 August, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Melanie shares her daughter's birthday concert experience and introduction",
+    "turns": [
+      {
+        "turn_id": "D11:1",
+        "speaker": "Melanie",
+        "text": "Hey Caroline! Last night was amazing! We celebrated my daughter's birthday with a concert surrounded by music, joy and the warm summer breeze. Seeing my kids' smiles was so awesome, and I'm so thankful for our special moments together.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:2",
+        "speaker": "Caroline",
+        "text": "Wow, sounds wonderful! Your love for your kids is so awesome. What concert was it? The advocacy event was a cool experience - so much love and support, amazing!",
+        "metadata": {
+          "blip_caption": "a photo of a poster for a concert with a picture of a man"
+        }
+      },
+      {
+        "turn_id": "D11:3",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! It was Matt Patterson, he is so talented! His voice and songs were amazing. What's up with you? Anything interesting going on?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_12::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_12",
+    "observed_at": "2023-08-17T13:50:00",
+    "source_timestamp": "1:50 pm on 17 August, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Discussion about Melanie's pottery project and artistic expression",
+    "turns": [
+      {
+        "turn_id": "D12:4",
+        "speaker": "Melanie",
+        "text": "Here it is. Pretty proud of it! It was a great experience. Thoughts?",
+        "metadata": {
+          "img_url": [
+            "https://omceramic.com/cdn/shop/products/IMG_0022.jpg"
+          ],
+          "blip_caption": "a photo of a bowl with a colorful design on it",
+          "query": "pottery project ceramic bowl"
+        }
+      },
+      {
+        "turn_id": "D12:5",
+        "speaker": "Caroline",
+        "text": "That bowl is awesome, Mel! What gave you the idea for all the colors and patterns?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:6",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! I'm obsessed with those, so I made something to catch the eye and make people smile. Plus, painting helps me express my feelings and be creative. Each stroke carries a part of me.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:7",
+        "speaker": "Caroline",
+        "text": "That's amazing! You put so much effort and passion into it. Your creativity really shines. Seeing how art can be a source of self-expression and growth is truly inspiring. You're killing it!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:8",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! Your words really mean a lot. I've always felt a strong connection to art, and it's been a huge learning experience. It's both a sanctuary and a source of comfort. I'm so glad to have something that brings me so much happiness and fulfillment.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_15::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_15",
+    "observed_at": "2023-08-28T15:19:00",
+    "source_timestamp": "3:19 pm on 28 August, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Discussion about live music and concerts",
+    "turns": [
+      {
+        "turn_id": "D15:12",
+        "speaker": "Melanie",
+        "text": "That's so cool, Caroline! That's a great way to show off and be proud of everyone's skills. You know I love live music. Can't wait to hear about it!",
+        "metadata": {
+          "img_url": [
+            "https://www.stomplight.com/cdn/shop/products/DavidAguilar.jpg"
+          ],
+          "blip_caption": "a photo of a band playing on a stage in a park",
+          "query": "talent show stage colorful lights microphone"
+        }
+      },
+      {
+        "turn_id": "D15:13",
+        "speaker": "Caroline",
+        "text": "Wow! Did you see that band?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:14",
+        "speaker": "Melanie",
+        "text": "Yeah, that pic was from a show I went to. It was so much fun and reminded me of how music brings us together.",
+        "metadata": {
+          "blip_caption": "a photo of a crowd of people at a concert with their hands in the air"
+        }
+      },
+      {
+        "turn_id": "D15:15",
+        "speaker": "Caroline",
+        "text": "Wow, what a fun moment! What's the band?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:16",
+        "speaker": "Melanie",
+        "text": "\"Summer Sounds\"- The playing an awesome pop song that got everyone dancing and singing. It was so fun and lively!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_15::episode-005",
+    "conversation_id": "conv-26",
+    "session_id": "session_15",
+    "observed_at": "2023-08-28T15:19:00",
+    "source_timestamp": "3:19 pm on 28 August, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Melanie's clarinet playing and musical preferences",
+    "turns": [
+      {
+        "turn_id": "D15:24",
+        "speaker": "Melanie",
+        "text": "That's a gorgeous song, Caroline. It really fits with your journey and your determination to make a difference. Music can be so inspiring and uplifting.",
+        "metadata": {
+          "blip_caption": "a photo of a piece of paper with a drawing of a man playing a piano"
+        }
+      },
+      {
+        "turn_id": "D15:25",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! Appreciate it. You play any instruments?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:26",
+        "speaker": "Melanie",
+        "text": "Yeah, I play clarinet! Started when I was young and it's been great. Expression of myself and a way to relax.",
+        "metadata": {
+          "blip_caption": "a photo of a sheet music with notes and a pencil"
+        }
+      },
+      {
+        "turn_id": "D15:27",
+        "speaker": "Caroline",
+        "text": "Cool! Got any fav tunes?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:28",
+        "speaker": "Melanie",
+        "text": "I'm a fan of both classical like Bach and Mozart, as well as modern music like Ed Sheeran's \"Perfect\".",
+        "metadata": {
+          "blip_caption": "a photo of a laptop computer with a graph on it"
+        }
+      }
+    ]
+  }
+]

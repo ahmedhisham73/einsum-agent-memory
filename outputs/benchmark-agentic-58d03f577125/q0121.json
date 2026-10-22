@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0121",
+  "category": 4,
+  "question": "Whose birthday did Melanie celebrate recently?",
+  "gold_answer": "Melanie's daughter",
+  "status": "scored",
+  "generated_answer": "Melanie celebrated her daughter's birthday recently.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_11::chunk-0000",
+      "turn_id": "D11:1"
+    }
+  ],
+  "query_elapsed_seconds": 4.097029542,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer accurately reflects that Melanie celebrated her daughter's birthday, which aligns with the reference answer."
+}

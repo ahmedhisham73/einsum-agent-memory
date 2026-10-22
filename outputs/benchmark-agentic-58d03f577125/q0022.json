@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0022",
+  "category": 2,
+  "question": "When did Caroline have a picnic?",
+  "gold_answer": "The week before 6 July 2023",
+  "status": "scored",
+  "generated_answer": "Caroline did not mention having a picnic herself; however, there is a family picnic discussed by Melanie and Caroline in the conversation on 9 June 2023 (session_3, chunk-0015). The picnic was described by Melanie as a fun day playing games, eating good food, and hanging out together.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_3::chunk-0015",
+      "turn_id": "D3:18"
+    }
+  ],
+  "query_elapsed_seconds": 4.691947207999999,
+  "label": "WRONG",
+  "judge_reason": "The generated answer lacks the specific date of the picnic that the reference answer provides, which is 'the week before 6 July 2023'. Instead, it discusses a different picnic related to a conversation on 9 June 2023 without confirming it aligns with the reference answer's date."
+}

@@ -1,0 +1,15 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Melanie",
+      "property": "made_object",
+      "search": "Did Melanie make the black and white bowl in the photo?"
+    },
+    {
+      "entity": "Melanie",
+      "property": "pottery_created",
+      "search": "Information on pottery created by Melanie including black and white bowl"
+    }
+  ]
+}

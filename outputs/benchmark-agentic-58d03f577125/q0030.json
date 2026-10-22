@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0030",
+  "category": 2,
+  "question": "When did Melanie go to the pottery workshop?",
+  "gold_answer": "The Friday before 15 July 2023",
+  "status": "scored",
+  "generated_answer": "Melanie went to the pottery workshop last Friday before 15 July 2023.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_8::chunk-0000",
+      "turn_id": "D8:2"
+    }
+  ],
+  "query_elapsed_seconds": 4.8443510409999995,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer accurately states the timing of Melanie's visit to the pottery workshop as the Friday before 15 July 2023."
+}

@@ -1,0 +1,21 @@
+{
+  "question_id": "conv-26::q0062",
+  "category": 1,
+  "question": "What musical artists/bands has Melanie seen?",
+  "gold_answer": "Summer Sounds, Matt Patterson",
+  "status": "scored",
+  "generated_answer": "Melanie has seen Matt Patterson perform live at a concert. She also mentioned seeing a band called 'Summer Sounds' at a show she went to.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_11::chunk-0000",
+      "turn_id": "D11:3"
+    },
+    {
+      "episode_id": "conv-26::session_15::chunk-0010",
+      "turn_id": "D15:16"
+    }
+  ],
+  "query_elapsed_seconds": 4.810829584,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer correctly lists both 'Summer Sounds' and 'Matt Patterson' as musical artists/bands that Melanie has seen, matching the reference answer."
+}

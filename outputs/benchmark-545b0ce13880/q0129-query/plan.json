@@ -1,0 +1,10 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Caroline",
+      "property": "found_in_neighborhood_during_walk",
+      "search": "Caroline walk neighborhood find"
+    }
+  ]
+}

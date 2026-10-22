@@ -1,0 +1,61 @@
+{
+  "question_id": "conv-26::q0085",
+  "category": 4,
+  "question": "How does Melanie prioritize self-care?",
+  "gold_answer": "by carving out some me-time each day for activities like running, reading, or playing the violin",
+  "status": "scored",
+  "generated_answer": "Melanie prioritizes self-care by recognizing its importance for her overall well-being and being better able to support her family. She carves out daily 'me-time' activities such as running, reading, and playing the violin to refresh herself and stay present for her family. She values quality time with her family highly, finding peace and happiness in family moments like camping, hiking, and exploring nature together. Pottery is a significant self-care strategy for her, serving as both a creative outlet and a form of therapy to express emotions and find calm. Running also helps her de-stress and clear her mind, positively impacting her mental health. Melanie views self-care as a journey and a work in progress but acknowledges that it brings her peace, joy, and mental health improvements, enabling her to maintain her motivation and resilience.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_2::episode-001",
+      "turn_id": "D2:3"
+    },
+    {
+      "episode_id": "conv-26::session_2::episode-001",
+      "turn_id": "D2:5"
+    },
+    {
+      "episode_id": "conv-26::session_4::episode-002",
+      "turn_id": "D4:6"
+    },
+    {
+      "episode_id": "conv-26::session_4::episode-002",
+      "turn_id": "D4:8"
+    },
+    {
+      "episode_id": "conv-26::session_5::episode-002",
+      "turn_id": "D5:4"
+    },
+    {
+      "episode_id": "conv-26::session_5::episode-002",
+      "turn_id": "D5:10"
+    },
+    {
+      "episode_id": "conv-26::session_7::episode-004",
+      "turn_id": "D7:20"
+    },
+    {
+      "episode_id": "conv-26::session_7::episode-004",
+      "turn_id": "D7:24"
+    },
+    {
+      "episode_id": "conv-26::session_8::episode-004",
+      "turn_id": "D8:32"
+    },
+    {
+      "episode_id": "conv-26::session_8::episode-004",
+      "turn_id": "D8:34"
+    },
+    {
+      "episode_id": "conv-26::session_18::episode-004",
+      "turn_id": "D18:19"
+    },
+    {
+      "episode_id": "conv-26::session_18::episode-004",
+      "turn_id": "D18:21"
+    }
+  ],
+  "query_elapsed_seconds": 9.742817625,
+  "label": "WRONG",
+  "judge_reason": "The generated answer includes additional unsupported information about family activities and pottery, which are not present in the reference answer."
+}

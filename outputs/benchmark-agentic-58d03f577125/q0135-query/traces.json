@@ -1,0 +1,125 @@
+[
+  {
+    "stage": "agent_decision",
+    "call_id": "3bd29c14-681a-4cc7-8b0c-796c9731b96e",
+    "response": {
+      "id": "chatcmpl-EZrHjC6ftdhIhYYczvbAByXOSflzo",
+      "object": "chat.completion",
+      "created": 1792215015,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"search\",\"query\":\"Caroline advice for getting started with adoption\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 152,
+        "completion_tokens": 16,
+        "total_tokens": 168,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f810e81ea"
+    },
+    "latency_seconds": 1.230112084
+  },
+  {
+    "stage": "agent_decision",
+    "call_id": "b91d3893-d942-470c-a1d0-87a59819d2c6",
+    "response": {
+      "id": "chatcmpl-EZrHlL9rgwVOZcK6Ou3cD0Szr6wvF",
+      "object": "chat.completion",
+      "created": 1792215017,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"ready\",\"reason\":\"Caroline's advice for getting started with adoption includes doing research to find an adoption agency or lawyer, gathering necessary documents like references, financial info, and medical checks, and preparing emotionally as the waiting process can be tough. This advice is directly provided in the conversation from session 17, chunk 0005.\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2679,
+        "completion_tokens": 70,
+        "total_tokens": 2749,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f810e81ea"
+    },
+    "latency_seconds": 1.191616458
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "dbce3b08-e495-4827-b7cb-7ff3212d5bd6",
+    "response": {
+      "id": "chatcmpl-EZrHmJeRbBYf8nsOSRGUA6Eel1CrA",
+      "object": "chat.completion",
+      "created": 1792215018,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Caroline's advice for getting started with adoption is to do your research and find an adoption agency or lawyer who can help with the process and provide information. She suggests gathering necessary documents like references, financial information, and medical checks. Caroline also emphasizes preparing emotionally for the process, especially because the waiting can be difficult, but reassures that it's all worth it in the end.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_17::chunk-0005\",\"turn_id\":\"D17:7\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2582,
+        "completion_tokens": 112,
+        "total_tokens": 2694,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_802f1283f8"
+    },
+    "latency_seconds": 1.8798215420000002
+  }
+]

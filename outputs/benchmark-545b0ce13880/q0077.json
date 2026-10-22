@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-26::q0077",
+  "category": 1,
+  "question": "When did Melanie go on a hike after the roadtrip?",
+  "gold_answer": "19 October 2023",
+  "status": "failed",
+  "error": "Query failed. See q0077.log"
+}

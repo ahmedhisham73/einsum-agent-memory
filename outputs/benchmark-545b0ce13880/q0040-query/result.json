@@ -1,0 +1,93 @@
+{
+  "status": "completed",
+  "experiment_id": "q0040-query",
+  "memory_build": "offline-memory-a5e48166f56e",
+  "embedding_fingerprint": "264e45d8331b217a87fc15e35db2c614b32e9c572d0bbb53fe9bcc90dda3a8a6",
+  "question": "In what ways is Caroline participating in the LGBTQ community?",
+  "answer": "Caroline participates in the LGBTQ community in multiple ways: attending LGBTQ support groups (conv-26::session_1::episode-001, turn D1:3), choosing inclusive adoption agencies that support LGBTQ+ folks (conv-26::session_2::episode-002, turns D2:12), speaking at school events about her transgender journey to encourage LGBTQ involvement and raise awareness (conv-26::session_3::episode-001, turns D3:1-7), pursuing a career in counseling and mental health focused on helping trans individuals (conv-26::session_4::episode-003, turns D4:11-15; conv-26::session_7::episode-001, turns D7:1-7), attending LGBTQ pride parades and related events (conv-26::session_5::episode-001, turn D5:1; conv-26::session_8::episode-003, turns D8:17-25), joining a mentorship program for LGBTQ youth and mentoring a transgender teen (conv-26::session_9::episode-001 and ::episode-002, turns D9:2 and D9:4-6), joining an LGBTQ activist group that plans events and advocates for rights (conv-26::session_10::episode-001, turns D10:3-7), expressing inclusivity and LGBTQ support through her artwork (conv-26::session_11::episode-003, turns D11:7-8; conv-26::session_13::episode-005, turns D13:12-15), volunteering at an LGBTQ+ youth center (conv-26::session_15::episode-001, turn D15:3), and continuously expressing support for LGBTQ rights and community through words and actions (multiple episodes). Overall, her advocacy focuses on trans rights, mental health, creating safe and supportive spaces, mentorship, and community activism.",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-26::session_1::episode-001",
+      "turn_id": "D1:3"
+    },
+    {
+      "episode_id": "conv-26::session_2::episode-002",
+      "turn_id": "D2:12"
+    },
+    {
+      "episode_id": "conv-26::session_3::episode-001",
+      "turn_id": "D3:1"
+    },
+    {
+      "episode_id": "conv-26::session_3::episode-001",
+      "turn_id": "D3:3"
+    },
+    {
+      "episode_id": "conv-26::session_3::episode-001",
+      "turn_id": "D3:7"
+    },
+    {
+      "episode_id": "conv-26::session_4::episode-003",
+      "turn_id": "D4:13"
+    },
+    {
+      "episode_id": "conv-26::session_7::episode-001",
+      "turn_id": "D7:1"
+    },
+    {
+      "episode_id": "conv-26::session_7::episode-001",
+      "turn_id": "D7:7"
+    },
+    {
+      "episode_id": "conv-26::session_5::episode-001",
+      "turn_id": "D5:1"
+    },
+    {
+      "episode_id": "conv-26::session_8::episode-003",
+      "turn_id": "D8:17"
+    },
+    {
+      "episode_id": "conv-26::session_8::episode-003",
+      "turn_id": "D8:19"
+    },
+    {
+      "episode_id": "conv-26::session_9::episode-001",
+      "turn_id": "D9:2"
+    },
+    {
+      "episode_id": "conv-26::session_9::episode-002",
+      "turn_id": "D9:4"
+    },
+    {
+      "episode_id": "conv-26::session_9::episode-002",
+      "turn_id": "D9:6"
+    },
+    {
+      "episode_id": "conv-26::session_10::episode-001",
+      "turn_id": "D10:3"
+    },
+    {
+      "episode_id": "conv-26::session_10::episode-001",
+      "turn_id": "D10:7"
+    },
+    {
+      "episode_id": "conv-26::session_11::episode-003",
+      "turn_id": "D11:8"
+    },
+    {
+      "episode_id": "conv-26::session_13::episode-005",
+      "turn_id": "D13:14"
+    },
+    {
+      "episode_id": "conv-26::session_15::episode-001",
+      "turn_id": "D15:3"
+    }
+  ],
+  "elapsed_seconds": 9.726151125,
+  "implementation": {
+    "structured_matching": "literal entity / property-token overlap",
+    "all_matching": "all episodes; no optimized exhaustive retrieval",
+    "coverage": "answer-model sufficiency check with expansion"
+  }
+}

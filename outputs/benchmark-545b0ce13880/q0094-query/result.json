@@ -1,0 +1,21 @@
+{
+  "status": "completed",
+  "experiment_id": "q0094-query",
+  "memory_build": "offline-memory-a5e48166f56e",
+  "embedding_fingerprint": "264e45d8331b217a87fc15e35db2c614b32e9c572d0bbb53fe9bcc90dda3a8a6",
+  "question": "What was grandma's gift to Caroline?",
+  "answer": "Grandma's gift to Caroline was a necklace featuring a cross and a heart, symbolizing love, faith, and strength. It was given to Caroline when she was young and serves as a reminder of her roots and her family's love and support.",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-26::session_4::episode-001",
+      "turn_id": "D4:3"
+    }
+  ],
+  "elapsed_seconds": 6.0079415,
+  "implementation": {
+    "structured_matching": "literal entity / property-token overlap",
+    "all_matching": "all episodes; no optimized exhaustive retrieval",
+    "coverage": "answer-model sufficiency check with expansion"
+  }
+}

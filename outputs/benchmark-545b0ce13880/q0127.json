@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0127",
+  "category": 4,
+  "question": "What activity did Caroline used to do with her dad?",
+  "gold_answer": "Horseback riding",
+  "status": "scored",
+  "generated_answer": "Caroline used to go horseback riding with her dad.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_13::episode-003",
+      "turn_id": "D13:7"
+    }
+  ],
+  "query_elapsed_seconds": 3.484334917,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer conveys the same information as the reference answer, including the activity and the participants."
+}

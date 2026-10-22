@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0042",
+  "category": 2,
+  "question": "When did Caroline join a new activist group?",
+  "gold_answer": "The Tuesday before 20 July 2023",
+  "status": "scored",
+  "generated_answer": "Caroline joined a new LGBTQ activist group on Tuesday, 18 July 2023.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_10::episode-001",
+      "turn_id": "D10:3"
+    }
+  ],
+  "query_elapsed_seconds": 4.765071083,
+  "label": "CORRECT",
+  "judge_reason": "The date provided in the generated answer matches the reference answer."
+}

@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-26::q0062",
+  "category": 1,
+  "question": "What musical artists/bands has Melanie seen?",
+  "gold_answer": "Summer Sounds, Matt Patterson",
+  "status": "failed",
+  "error": "Query failed. See q0062.log"
+}

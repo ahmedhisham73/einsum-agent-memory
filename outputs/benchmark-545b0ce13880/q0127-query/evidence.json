@@ -1,0 +1,338 @@
+[
+  {
+    "episode_id": "conv-26::session_9::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_9",
+    "observed_at": "2023-07-17T14:31:00",
+    "source_timestamp": "2:31 pm on 17 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Mentorship experience in LGBTQ community",
+    "turns": [
+      {
+        "turn_id": "D9:3",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! It's great that you're helping out. How's it going? Got any cool experiences you can share?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:4",
+        "speaker": "Caroline",
+        "text": "The mentoring is going great! I've met some amazing young folks and supported them along the way. It's inspiring to see how resilient and strong they are.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:5",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, that sounds super rewarding! Young people's resilience is amazing. Care to share some stories?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:6",
+        "speaker": "Caroline",
+        "text": "I mentor a transgender teen just like me. We've been working on building up confidence and finding positive strategies, and it's really been paying off! We had a great time at the LGBT pride event last month.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_13::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_13",
+    "observed_at": "2023-08-23T15:31:00",
+    "source_timestamp": "3:31 pm on 23 August, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Shared love and experiences with horses",
+    "turns": [
+      {
+        "turn_id": "D13:7",
+        "speaker": "Caroline",
+        "text": "That's so funny! I used to go horseback riding with my dad when I was a kid, we'd go through the fields, feeling the wind. It was so special. I've always had a love for horses!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D13:8",
+        "speaker": "Melanie",
+        "text": "Wow, that sounds great - I agree, they're awesome. Here's a photo of my horse painting I did recently.",
+        "metadata": {
+          "img_url": [
+            "https://warpedtable.com/cdn/shop/products/F331B563-AB73-430A-A6DF-3C5E0F91A4D8.jpg"
+          ],
+          "blip_caption": "a photo of a horse painted on a wooden wall",
+          "query": "horse painting"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_14::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_14",
+    "observed_at": "2023-08-25T13:33:00",
+    "source_timestamp": "1:33 pm on 25 August, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Personal experience and pottery art introduction",
+    "turns": [
+      {
+        "turn_id": "D14:1",
+        "speaker": "Caroline",
+        "text": "Hey, Mel! How's it going? There's something I want to tell you. I went hiking last week and got into a bad spot with some people. It really bugged me, so I tried to apologize to them.",
+        "metadata": {
+          "img_url": [
+            "https://photos.thetrek.co/wp-content/uploads/2017/11/IMG_1742-e1509796327550.jpg"
+          ],
+          "blip_caption": "a photo of a woman sitting on a sign on top of a mountain",
+          "query": "letter apology hike encounter"
+        }
+      },
+      {
+        "turn_id": "D14:2",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! Sorry that happened to you. It's tough when those things happen, but it's great you apologized. Takes a lot of courage and maturity! What do you think of this?",
+        "metadata": {
+          "img_url": [
+            "https://i0.wp.com/bardith.com/wp-content/uploads/2022/05/IMG_4371-1.jpg"
+          ],
+          "blip_caption": "a photo of a plate with a bunch of flowers on it",
+          "query": "pottery purple bowl floral patterns"
+        }
+      },
+      {
+        "turn_id": "D14:3",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! That plate is awesome! Did you make it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:4",
+        "speaker": "Melanie",
+        "text": "Yeah, I made it in pottery class yesterday. I love it! Pottery's so relaxing and creative. Have you tried it yet?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_14::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_14",
+    "observed_at": "2023-08-25T13:33:00",
+    "source_timestamp": "1:33 pm on 25 August, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Painting inspired by nature and emotional connection through art",
+    "turns": [
+      {
+        "turn_id": "D14:5",
+        "speaker": "Caroline",
+        "text": "Nah, I haven't. I've been busy painting - here's something I just finished.",
+        "metadata": {
+          "img_url": [
+            "https://i0.wp.com/makesomethingmondays.com/wp-content/uploads/2017/07/mini-beach-sunset-painting-diy.jpg"
+          ],
+          "blip_caption": "a photo of a painting of a sunset on a small easel",
+          "query": "vibrant sunset beach painting"
+        }
+      },
+      {
+        "turn_id": "D14:6",
+        "speaker": "Melanie",
+        "text": "Wow Caroline, that looks amazing! Those colors are so vivid, it really looks like a real sunset. What gave you the idea to paint it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:7",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! I painted it after I visited the beach last week. Just seeing the sun dip below the horizon, all the amazing colors - it was amazing and calming. So I just had to try to capture that feeling in my painting.",
+        "metadata": {
+          "blip_caption": "a photo of a painting of a sunset over the ocean"
+        }
+      },
+      {
+        "turn_id": "D14:8",
+        "speaker": "Melanie",
+        "text": "Wow, the beach really inspired you. The art really took me to that moment and I can feel the serenity. You captured the sunset perfectly, so peaceful!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:9",
+        "speaker": "Caroline",
+        "text": "Thanks Mel, really appreciate your kind words. It means a lot to me that you can feel the sense of peace and serenity. Makes me feel connected.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_14::episode-006",
+    "conversation_id": "conv-26",
+    "session_id": "session_14",
+    "observed_at": "2023-08-25T13:33:00",
+    "source_timestamp": "1:33 pm on 25 August, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Street art and everyday creativity spreading positivity",
+    "turns": [
+      {
+        "turn_id": "D14:22",
+        "speaker": "Melanie",
+        "text": "Wow, that's gorgeous! Where did you find it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:23",
+        "speaker": "Caroline",
+        "text": "I was out walking in my neighborhood when I came across this cool rainbow sidewalk for Pride Month. It was so vibrant and welcoming, I had to take a picture! It reminds us that love and acceptance are everywhere—even where we least expect it.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:24",
+        "speaker": "Melanie",
+        "text": "That's so nice, Caroline! Art can be in the most unlikely places. Love and acceptance really can be found everywhere.",
+        "metadata": {
+          "blip_caption": "a photo of a person drawing a flower on the ground"
+        }
+      },
+      {
+        "turn_id": "D14:25",
+        "speaker": "Caroline",
+        "text": "Agreed, Mel! Art can be a real mood-booster - I saw someone drawing on the ground the other day and it made me so happy. Creativity sure can lighten someone's day.",
+        "metadata": {
+          "img_url": [
+            "https://static.skillshare.com/uploads/project/281358/cover_full_592aef91cce2432e71c739804161e0fb.jpg"
+          ],
+          "blip_caption": "a photo of a painting of flowers and a watercolor palette",
+          "query": "drawing flower ground colored chalk simple act creativity"
+        }
+      },
+      {
+        "turn_id": "D14:26",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, that's so nice! The colors are so bright and the flowers are so pretty. Art is such a source of joy.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_15::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_15",
+    "observed_at": "2023-08-28T15:19:00",
+    "source_timestamp": "3:19 pm on 28 August, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Caroline's music interests and emotional connection to songs",
+    "turns": [
+      {
+        "turn_id": "D15:17",
+        "speaker": "Caroline",
+        "text": "That sounds great! Music brings us together and brings joy. Playing and singing let me express myself and connect with others - love it! So cathartic and uplifting.",
+        "metadata": {
+          "blip_caption": "a photo of a man playing a guitar in a recording studio"
+        }
+      },
+      {
+        "turn_id": "D15:18",
+        "speaker": "Melanie",
+        "text": "Cool! What type of music do you play?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:19",
+        "speaker": "Caroline",
+        "text": "Guitar's mostly my thing. Playing it helps me get my emotions out.",
+        "metadata": {
+          "blip_caption": "a photo of a guitar on display in a store"
+        }
+      },
+      {
+        "turn_id": "D15:20",
+        "speaker": "Melanie",
+        "text": "That's awesome! What type of guitar? Been playing long?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:21",
+        "speaker": "Caroline",
+        "text": "I started playing acoustic guitar about five years ago; it's been a great way to express myself and escape into my emotions.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:22",
+        "speaker": "Melanie",
+        "text": "Music's amazing, isn't it? Any songs that have deep meaning for you?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:23",
+        "speaker": "Caroline",
+        "text": "Yeah totally! \"Brave\" by Sara Bareilles has a lot of significance for me. It's about being courageous and fighting for what's right. Whenever I hear this jam, I think about the paths I've taken and the progress I've made.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_16::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_16",
+    "observed_at": "2023-09-13T00:09:00",
+    "source_timestamp": "12:09 am on 13 September, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Sharing recent outdoor experiences and photos",
+    "turns": [
+      {
+        "turn_id": "D16:1",
+        "speaker": "Caroline",
+        "text": "Hey Mel, long time no chat! I had a wicked day out with the gang last weekend - we went biking and saw some pretty cool stuff. It was so refreshing, and the pic I'm sending is just stunning, eh?",
+        "metadata": {
+          "img_url": [
+            "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,f_jpg,h_371,q_75,w_640/v1/crm/corpuschristitx/Sunset-Lake-Park_38118D81-5056-A36F-23E62D2F41525FF4-38118cb45056a36_381194bb-5056-a36f-23c599c63a3950d7.jpg"
+          ],
+          "blip_caption": "a photo of a beach with a fence and a sunset",
+          "query": "sunset lake"
+        }
+      },
+      {
+        "turn_id": "D16:2",
+        "speaker": "Melanie",
+        "text": "Hey Caroline! It's so good to hear from you! That pic is so beautiful, the colors really pop. Biking sounds like a great way to get out in nature. We went camping with the kids a few weeks ago, had a blast exploring the forest and hiking. Nature can be so refreshing for your soul. Any plans coming up?",
+        "metadata": {
+          "img_url": [
+            "https://exploringtheprime.com/wp-content/uploads/2019/10/IMG_6705-2.jpg"
+          ],
+          "blip_caption": "a photo of a dirt road surrounded by trees with yellow leaves",
+          "query": "family hiking trail vibrant autumn colors"
+        }
+      },
+      {
+        "turn_id": "D16:3",
+        "speaker": "Caroline",
+        "text": "Melanie, that photo's amazing! I love all the yellow leaves, it looks so cozy. That sounds like fun! Seeing how excited they get for the little things is awesome, it's so contagious.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_16::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_16",
+    "observed_at": "2023-09-13T00:09:00",
+    "source_timestamp": "12:09 am on 13 September, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Discussing inspirations from parenting and volunteering",
+    "turns": [
+      {
+        "turn_id": "D16:4",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! It's awesome seeing the kids get excited learning something new about nature. Those moments make being a parent worth it. We roasted marshmallows and shared stories around the campfire. Those simple moments make the best memories. What inspires you with your volunteering?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:5",
+        "speaker": "Caroline",
+        "text": "I'm inspired seeing my work make a difference for the LGBTQ+ community. Knowing I'm helping create a more loving world is amazing. I'm really thankful for my friends, family and mentors' support. It inspires me to keep making art, too.",
+        "metadata": {
+          "img_url": [
+            "https://i.pinimg.com/originals/34/2e/72/342e72b194865e01a38af86c307e95c7.jpg"
+          ],
+          "blip_caption": "a photo of a painting of a heart on a table",
+          "query": "canvas painting rainbow colors"
+        }
+      }
+    ]
+  }
+]

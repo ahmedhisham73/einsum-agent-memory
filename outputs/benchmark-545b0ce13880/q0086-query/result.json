@@ -1,0 +1,41 @@
+{
+  "status": "completed",
+  "experiment_id": "q0086-query",
+  "memory_build": "offline-memory-a5e48166f56e",
+  "embedding_fingerprint": "264e45d8331b217a87fc15e35db2c614b32e9c572d0bbb53fe9bcc90dda3a8a6",
+  "question": "What are Caroline's plans for the summer?",
+  "answer": "Caroline plans to adopt children to create a loving family home, focusing on giving kids who need it a safe, supportive family environment. She has been researching adoption agencies, especially those supporting LGBTQ+ folks, and has passed adoption agency interviews. She is excited and hopeful for this new chapter in her life.",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-26::session_2::episode-002",
+      "turn_id": "D2:8"
+    },
+    {
+      "episode_id": "conv-26::session_2::episode-002",
+      "turn_id": "D2:10"
+    },
+    {
+      "episode_id": "conv-26::session_2::episode-002",
+      "turn_id": "D2:12"
+    },
+    {
+      "episode_id": "conv-26::session_2::episode-002",
+      "turn_id": "D2:14"
+    },
+    {
+      "episode_id": "conv-26::session_17::episode-001",
+      "turn_id": "D17:1"
+    },
+    {
+      "episode_id": "conv-26::session_19::episode-001",
+      "turn_id": "D19:1"
+    }
+  ],
+  "elapsed_seconds": 5.414768125,
+  "implementation": {
+    "structured_matching": "literal entity / property-token overlap",
+    "all_matching": "all episodes; no optimized exhaustive retrieval",
+    "coverage": "answer-model sufficiency check with expansion"
+  }
+}

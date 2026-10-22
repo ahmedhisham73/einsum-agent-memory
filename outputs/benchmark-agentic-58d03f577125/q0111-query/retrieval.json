@@ -1,0 +1,21 @@
+[
+  {
+    "query": "Mel and her kids pot made with clay",
+    "returned_chunk_ids": [
+      "conv-26::session_12::chunk-0000",
+      "conv-26::session_14::chunk-0000",
+      "conv-26::session_16::chunk-0005",
+      "conv-26::session_5::chunk-0000",
+      "conv-26::session_5::chunk-0005",
+      "conv-26::session_8::chunk-0000"
+    ],
+    "cumulative_chunk_ids": [
+      "conv-26::session_12::chunk-0000",
+      "conv-26::session_14::chunk-0000",
+      "conv-26::session_16::chunk-0005",
+      "conv-26::session_5::chunk-0000",
+      "conv-26::session_5::chunk-0005",
+      "conv-26::session_8::chunk-0000"
+    ]
+  }
+]

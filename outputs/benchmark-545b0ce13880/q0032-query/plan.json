@@ -1,0 +1,15 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Melanie",
+      "property": "activities",
+      "search": "evidence of camping activity in June for Melanie"
+    },
+    {
+      "entity": "Melanie",
+      "property": "activity_type",
+      "search": "specific evidence of camping activity and associated date in June for Melanie"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+Embeddings ready: 526
+Qdrant records: 526
+Planning question...
+Answering from 7 source episodes...
+
+ANSWER: Caroline is interested in pursuing counseling and mental health services focused on supporting transgender individuals. She wants to help trans people accept themselves and support their mental health, inspired by her own experiences and participation in an LGBTQ+ counseling workshop that covered therapeutic methods for working with trans people. She is passionate about creating a safe, inviting space for others to grow and help with mental health challenges, especially within the LGBTQ+ community.
+CITATIONS: [
+  {
+    "episode_id": "conv-26::session_4::episode-003",
+    "turn_id": "D4:13"
+  },
+  {
+    "episode_id": "conv-26::session_4::episode-003",
+    "turn_id": "D4:15"
+  },
+  {
+    "episode_id": "conv-26::session_7::episode-001",
+    "turn_id": "D7:5"
+  },
+  {
+    "episode_id": "conv-26::session_7::episode-001",
+    "turn_id": "D7:7"
+  }
+]
+Evidence sufficient: True
+Artifacts: /Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/benchmark-545b0ce13880/q0097-query
+
+EMBEDDING BUILD USAGE:
+{
+  "experiment_id": "embedding-build-3df92394bc0d",
+  "recorded_calls": 17,
+  "groups": [
+    {
+      "approach": "ensimem",
+      "phase": "build",
+      "stage": "index_embedding",
+      "usage_kind": "embedding",
+      "provider": "openai",
+      "model": "text-embedding-3-small",
+      "calls": 17,
+      "retry_calls": 0,
+      "missing_usage_calls": 0,
+      "reported_input_tokens": 21754,
+      "reported_output_tokens": 0,
+      "total_tokens": 21754,
+      "cached_input_tokens": null,
+      "usage_complete": true
+    }
+  ]
+}
+
+QUERY USAGE:
+{
+  "experiment_id": "q0097-query",
+  "recorded_calls": 3,
+  "groups": [
+    {
+      "approach": "ensimem",
+      "phase": "query",
+      "stage": "grounded_answer",
+      "usage_kind": "generation",
+      "provider": "openai",
+      "model": "gpt-4.1-mini-2025-04-14",
+      "calls": 1,
+      "retry_calls": 0,
+      "missing_usage_calls": 0,
+      "reported_input_tokens": 2869,
+      "reported_output_tokens": 187,
+      "total_tokens": 3056,
+      "cached_input_tokens": 0,
+      "usage_complete": true
+    },
+    {
+      "approach": "ensimem",
+      "phase": "query",
+      "stage": "requirement_embedding",
+      "usage_kind": "embedding",
+      "provider": "openai",
+      "model": "text-embedding-3-small",
+      "calls": 1,
+      "retry_calls": 0,
+      "missing_usage_calls": 0,
+      "reported_input_tokens": 6,
+      "reported_output_tokens": 0,
+      "total_tokens": 6,
+      "cached_input_tokens": null,
+      "usage_complete": true
+    },
+    {
+      "approach": "ensimem",
+      "phase": "query",
+      "stage": "requirement_planning",
+      "usage_kind": "generation",
+      "provider": "openai",
+      "model": "gpt-4.1-mini-2025-04-14",
+      "calls": 1,
+      "retry_calls": 0,
+      "missing_usage_calls": 0,
+      "reported_input_tokens": 2685,
+      "reported_output_tokens": 28,
+      "total_tokens": 2713,
+      "cached_input_tokens": 0,
+      "usage_complete": true
+    }
+  ]
+}
+
+/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(

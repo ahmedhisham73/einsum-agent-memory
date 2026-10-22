@@ -1,0 +1,43 @@
+{
+  "status": "completed",
+  "experiment_id": "q0043-query",
+  "memory_build": "offline-memory-a5e48166f56e",
+  "baseline_build": "agentic-build-300877917378",
+  "question": "Would Melanie be more interested in going to a national park or a theme park?",
+  "answer": "Melanie would be more interested in going to a national park. She mentions camping trips, hiking in the mountains, exploring forests, and enjoys outdoor activities with her kids such as visiting a museum dinosaur exhibit and going to parks, indicating a preference for nature and outdoor exploration over theme parks.",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-26::session_2::chunk-0005",
+      "turn_id": "D2:7"
+    },
+    {
+      "episode_id": "conv-26::session_8::chunk-0030",
+      "turn_id": "D8:32"
+    },
+    {
+      "episode_id": "conv-26::session_8::chunk-0030",
+      "turn_id": "D8:34"
+    },
+    {
+      "episode_id": "conv-26::session_15::chunk-0000",
+      "turn_id": "D15:2"
+    },
+    {
+      "episode_id": "conv-26::session_16::chunk-0015",
+      "turn_id": "D16:20"
+    }
+  ],
+  "elapsed_seconds": 7.168305458,
+  "stop_reason": "agent_ready",
+  "search_count": 1,
+  "selected_chunks": 6,
+  "unique_source_turns": 35,
+  "implementation": {
+    "chunk_turns": 6,
+    "overlap_turns": 1,
+    "top_k_per_search": 6,
+    "max_searches": 4,
+    "max_agent_decisions": 5
+  }
+}

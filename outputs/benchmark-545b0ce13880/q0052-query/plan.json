@@ -1,0 +1,10 @@
+{
+  "scope": "all_matching",
+  "requirements": [
+    {
+      "entity": "Melanie",
+      "property": "painting_created",
+      "search": "standalone evidence search"
+    }
+  ]
+}

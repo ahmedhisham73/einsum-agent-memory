@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "93bb0d43-c853-476c-aad3-a367d18fc465",
+    "response": {
+      "id": "chatcmpl-EZj54meYGM0GZbgEjVNAmFwa5xjUF",
+      "object": "chat.completion",
+      "created": 1792183478,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Caroline\",\"property\":\"painted_abstract_painting\",\"search\":\"Find subjects Caroline has painted\"},{\"entity\":\"Caroline\",\"property\":\"painting_subject\",\"search\":\"Identify subjects Caroline has painted\"},{\"entity\":\"Melanie\",\"property\":\"painted_abstract_painting\",\"search\":\"Find subjects Melanie has painted\"},{\"entity\":\"Melanie\",\"property\":\"painting_subject\",\"search\":\"Identify subjects Melanie has painted\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2680,
+        "completion_tokens": 91,
+        "total_tokens": 2771,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_5002831302"
+    },
+    "latency_seconds": 2.0274744169999996
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "9ac8806b-b406-4d43-a957-64dc1b9f04cd",
+    "response": {
+      "id": "chatcmpl-EZj56MJiZLKJDjGyL2xcYi3ztWuHz",
+      "object": "chat.completion",
+      "created": 1792183480,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Both Caroline and Melanie have painted sunsets.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_1::episode-004\",\"turn_id\":\"D1:12\"},{\"episode_id\":\"conv-26::session_14::episode-002\",\"turn_id\":\"D14:5\"},{\"episode_id\":\"conv-26::session_14::episode-008\",\"turn_id\":\"D14:6\"},{\"episode_id\":\"conv-26::session_17::episode-002\",\"turn_id\":\"D17:12\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 6197,
+        "completion_tokens": 113,
+        "total_tokens": 6310,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_38f508f26a"
+    },
+    "latency_seconds": 1.8650551249999996
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0024",
+  "category": 1,
+  "question": "What books has Melanie read?",
+  "gold_answer": "\"Nothing is Impossible\", \"Charlotte's Web\"",
+  "status": "scored",
+  "generated_answer": "Melanie has read the book \"Charlotte's Web,\" which she mentioned as a favorite from her childhood.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_6::episode-003",
+      "turn_id": "D6:10"
+    }
+  ],
+  "query_elapsed_seconds": 5.1599826250000005,
+  "label": "WRONG",
+  "judge_reason": "The generated answer only mentions one book, 'Charlotte's Web', instead of both books from the reference answer."
+}

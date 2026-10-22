@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0081",
+  "category": 2,
+  "question": "When did Melanie buy the figurines?",
+  "gold_answer": "21 October 2023",
+  "status": "scored",
+  "generated_answer": "Melanie bought the figurines yesterday from the time of the conversation, which was observed on 22 October 2023.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_19::episode-001",
+      "turn_id": "D19:2"
+    }
+  ],
+  "query_elapsed_seconds": 4.026748834,
+  "label": "WRONG",
+  "judge_reason": "The generated answer states she bought them on 21 October 2023, but implies a date of observation that is inconsistent with the question."
+}

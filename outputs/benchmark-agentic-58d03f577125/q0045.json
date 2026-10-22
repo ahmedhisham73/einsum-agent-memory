@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-26::q0045",
+  "category": 2,
+  "question": "When is Melanie's daughter's birthday?",
+  "gold_answer": "13 August",
+  "status": "failed",
+  "error": "Query failed. See q0045.log"
+}

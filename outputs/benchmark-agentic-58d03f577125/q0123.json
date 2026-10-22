@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0123",
+  "category": 4,
+  "question": "Why did Melanie choose to use colors and patterns in her pottery project?",
+  "gold_answer": "She wanted to catch the eye and make people smile.",
+  "status": "scored",
+  "generated_answer": "Melanie chose to use colors and patterns in her pottery project because she is obsessed with them and wanted to create something eye-catching that would make people smile. Additionally, painting the colors and patterns helps her express her feelings and be creative, with each stroke carrying a part of her.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_12::chunk-0000",
+      "turn_id": "D12:6"
+    }
+  ],
+  "query_elapsed_seconds": 4.489373415999999,
+  "label": "WRONG",
+  "judge_reason": "The generated answer includes unsupported additions about her obsession with colors and patterns and the emotional expression aspect, which were not in the reference answer."
+}

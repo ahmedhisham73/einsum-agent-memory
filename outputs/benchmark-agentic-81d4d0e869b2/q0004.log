@@ -1,0 +1,8 @@
+Embedding chunks 1-32/88
+Embedding chunks 33-64/88
+Embedding chunks 65-88/88
+ANSWER: Caroline has been researching counseling and mental health as a career, motivated by her own experiences, with the goal of helping people who have gone through similar challenges.
+SEARCHES: 1
+
+/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(

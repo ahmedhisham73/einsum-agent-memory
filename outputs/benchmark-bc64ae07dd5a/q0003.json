@@ -1,0 +1,45 @@
+{
+  "question_id": "conv-26::q0003",
+  "category": 3,
+  "question": "What fields would Caroline be likely to pursue in her educaton?",
+  "gold_answer": "Psychology, counseling certification",
+  "status": "scored",
+  "generated_answer": "Caroline is likely to pursue fields in counseling and mental health education. She has expressed a strong interest in working in counseling or mental health careers, particularly supporting transgender people and the LGBTQ+ community, driven by her personal experiences and passion for helping others with similar struggles. She is exploring career options related to mental health services, advocacy, and creating supportive environments. Additionally, she is engaged in community mentorship and advocacy activities that complement her educational and career goals.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_1::episode-003",
+      "turn_id": "D1:11"
+    },
+    {
+      "episode_id": "conv-26::session_4::episode-003",
+      "turn_id": "D4:11"
+    },
+    {
+      "episode_id": "conv-26::session_4::episode-003",
+      "turn_id": "D4:13"
+    },
+    {
+      "episode_id": "conv-26::session_5::episode-001",
+      "turn_id": "D5:3"
+    },
+    {
+      "episode_id": "conv-26::session_6::episode-001",
+      "turn_id": "D6:3"
+    },
+    {
+      "episode_id": "conv-26::session_7::episode-001",
+      "turn_id": "D7:1"
+    },
+    {
+      "episode_id": "conv-26::session_7::episode-001",
+      "turn_id": "D7:5"
+    },
+    {
+      "episode_id": "conv-26::session_7::episode-001",
+      "turn_id": "D7:7"
+    }
+  ],
+  "query_elapsed_seconds": 6.727737875,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer identifies fields related to counseling and mental health education, aligning with the reference answer."
+}

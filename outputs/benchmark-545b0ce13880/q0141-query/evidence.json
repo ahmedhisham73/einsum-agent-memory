@@ -1,0 +1,206 @@
+[
+  {
+    "episode_id": "conv-26::session_6::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_6",
+    "observed_at": "2023-07-06T20:18:00",
+    "source_timestamp": "8:18 pm on 6 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Children's books and reading memories",
+    "turns": [
+      {
+        "turn_id": "D6:7",
+        "speaker": "Caroline",
+        "text": "Being a mom is awesome. I'm creating a library for when I have kids. I'm really looking forward to reading to them and opening up their minds.",
+        "metadata": {
+          "img_url": [
+            "https://i.pinimg.com/originals/02/94/c3/0294c3460b66d1fd50530e4bd5a2e1f5.jpg"
+          ],
+          "blip_caption": "a photo of a bookcase filled with books and toys",
+          "query": "bookshelf childrens books library"
+        }
+      },
+      {
+        "turn_id": "D6:8",
+        "speaker": "Melanie",
+        "text": "Sounds great! What kind of books you got in your library?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:9",
+        "speaker": "Caroline",
+        "text": "I've got lots of kids' books- classics, stories from different cultures, educational books, all of that. What's a favorite book you remember from your childhood?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:10",
+        "speaker": "Melanie",
+        "text": "I loved reading \"Charlotte's Web\" as a kid. It was so cool seeing how friendship and compassion can make a difference.",
+        "metadata": {
+          "img_url": [
+            "http://bookworm-detective.myshopify.com/cdn/shop/products/PXL_20210428_222022427.jpg"
+          ],
+          "blip_caption": "a photo of a book cover with a picture of a girl and a cat",
+          "query": "charlotte's web book"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_17::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_17",
+    "observed_at": "2023-10-13T10:31:00",
+    "source_timestamp": "10:31 am on 13 October, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Melanie's injury and their shared passion for painting and art",
+    "turns": [
+      {
+        "turn_id": "D17:8",
+        "speaker": "Melanie",
+        "text": "Thanks for the tip, Caroline. Doing research and readying myself emotionally makes sense. I'll do that. BTW, recently I had a setback. Last month I got hurt and had to take a break from pottery, which I use for self-expression and peace.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:9",
+        "speaker": "Caroline",
+        "text": "Oh man, sorry to hear that, Melanie. I hope you're okay. Pottery's a great way to relax, so it must have been tough taking a break. Need any help?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:10",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline. It was tough, but I'm doing ok. Been reading that book you recommended a while ago and painting to keep busy.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:11",
+        "speaker": "Caroline",
+        "text": "Cool that you have creative outlets. Got any paintings to show? I'd love to check them out.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:12",
+        "speaker": "Melanie",
+        "text": "Yeah, Here's one I did last week. It's inspired by the sunsets. The colors make me feel calm. What have you been up to lately, artistically?",
+        "metadata": {
+          "img_url": [
+            "https://trendgallery.art/cdn/shop/files/IMG_2355.jpg"
+          ],
+          "blip_caption": "a photo of a painting of a sunset with a pink sky",
+          "query": "landscape painting vibrant purple sunset autumn"
+        }
+      },
+      {
+        "turn_id": "D17:13",
+        "speaker": "Caroline",
+        "text": "Wow Mel, that's stunning! Love the colors and the chilled-out sunset vibe. What made you paint it? I've been trying out abstract stuff recently. It's kinda freeing, just putting my feelings on the canvas without too much of a plan. It's like a cool form of self-expression.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:14",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! I painted it because it was calming. I've done an abstract painting too, take a look! I love how art lets us get our emotions out.",
+        "metadata": {
+          "img_url": [
+            "https://theartwerks.com/cdn/shop/products/image_4c8aee8a-5395-4037-a1d4-f6db3a3b0302.jpg"
+          ],
+          "blip_caption": "a photo of a painting on a wall with a blue background",
+          "query": "abstract painting vibrant colors"
+        }
+      },
+      {
+        "turn_id": "D17:15",
+        "speaker": "Caroline",
+        "text": "Wow, that looks great! The blue adds so much to it. What feelings were you hoping to portray?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:16",
+        "speaker": "Melanie",
+        "text": "I wanted a peaceful blue streaks to show tranquility. Blue calms me, so I wanted the painting to have a serene vibe while still having lots of vibrant colors.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_17::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_17",
+    "observed_at": "2023-10-13T10:31:00",
+    "source_timestamp": "10:31 am on 13 October, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Conversation about attending a transgender poetry reading and related artistic inspiration",
+    "turns": [
+      {
+        "turn_id": "D17:17",
+        "speaker": "Caroline",
+        "text": "Yeah, it's very calming. It's awesome how art can show emotions. By the way, I went to a poetry reading last Fri - it was really powerful! Ever been to one?",
+        "metadata": {
+          "blip_caption": "a photo of a poster on a wall in a classroom"
+        }
+      },
+      {
+        "turn_id": "D17:18",
+        "speaker": "Melanie",
+        "text": "Nope, never been to something like that. What was it about? What made it so special?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:19",
+        "speaker": "Caroline",
+        "text": "It was a transgender poetry reading where transgender people shared their stories through poetry. It was extra special 'cause it was a safe place for self-expression and it was really empowering to hear others share and celebrate their identities.",
+        "metadata": {
+          "img_url": [
+            "https://hips.hearstapps.com/hmg-prod/images/gettyimages-1675780954.jpg"
+          ],
+          "blip_caption": "a photography of a sign that says trans lives matter",
+          "query": "transgender poetry reading trans pride flags",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D17:20",
+        "speaker": "Melanie",
+        "text": "Wow, sounds amazing! What was the event like? Those posters are great!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:21",
+        "speaker": "Caroline",
+        "text": "The room was electric with energy and support! The posters were amazing, so much pride and strength! It inspired me to make some art.",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/50qvgfuva33b1.jpg"
+          ],
+          "blip_caption": "a photo of a drawing of a woman in a dress",
+          "query": "transgender flag drawing"
+        }
+      },
+      {
+        "turn_id": "D17:22",
+        "speaker": "Melanie",
+        "text": "That's awesome, Caroline! You drew it? What does it mean to you?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:23",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! Yeah, I drew it. It stands for freedom and being real. It's like a nudge to always stay true to myself and embrace my womanhood.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:24",
+        "speaker": "Melanie",
+        "text": "I love it. Showing off our true selves is the best thing ever.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:25",
+        "speaker": "Caroline",
+        "text": "Yep, Melanie! Being ourselves is such a great feeling. It's an ongoing adventure of learning and growing.",
+        "metadata": {}
+      }
+    ]
+  }
+]

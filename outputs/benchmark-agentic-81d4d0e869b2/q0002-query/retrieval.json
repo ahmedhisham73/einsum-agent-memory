@@ -1,0 +1,21 @@
+[
+  {
+    "query": "Melanie paint a sunrise",
+    "returned_chunk_ids": [
+      "conv-26::session_14::chunk-0000",
+      "conv-26::session_14::chunk-0005",
+      "conv-26::session_14::chunk-0020",
+      "conv-26::session_14::chunk-0025",
+      "conv-26::session_17::chunk-0010",
+      "conv-26::session_1::chunk-0010"
+    ],
+    "cumulative_chunk_ids": [
+      "conv-26::session_14::chunk-0000",
+      "conv-26::session_14::chunk-0005",
+      "conv-26::session_14::chunk-0020",
+      "conv-26::session_14::chunk-0025",
+      "conv-26::session_17::chunk-0010",
+      "conv-26::session_1::chunk-0010"
+    ]
+  }
+]

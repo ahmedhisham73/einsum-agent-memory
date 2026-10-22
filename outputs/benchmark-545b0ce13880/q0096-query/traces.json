@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "5ac4629a-d050-44d8-ba29-9529493f25ee",
+    "response": {
+      "id": "chatcmpl-EZj2OOgnsQaioHnLdb7NSq32PqaRK",
+      "object": "chat.completion",
+      "created": 1792183312,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"scope\": \"point\",\n  \"requirements\": [\n    {\n      \"entity\": \"Melanie and her family\",\n      \"property\": \"camping_activities\",\n      \"search\": \"standalone evidence search\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2681,
+        "completion_tokens": 51,
+        "total_tokens": 2732,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_5002831302"
+    },
+    "latency_seconds": 1.9412690000000001
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "90ddb800-8920-4353-8610-b64a81a29471",
+    "response": {
+      "id": "chatcmpl-EZj2QAoOhwHatGcDgmTmTUyfva0mZ",
+      "object": "chat.completion",
+      "created": 1792183314,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"While camping, Melanie and her family explored nature, roasted marshmallows around the campfire, went on a hike with an amazing view from the top, enjoyed family moments together, and did activities like hiking in the mountains and exploring forests. They also had a family campfire on the beach during another camping trip, which brought them closer.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_4::episode-002\",\"turn_id\":\"D4:6\"},{\"episode_id\":\"conv-26::session_4::episode-002\",\"turn_id\":\"D4:8\"},{\"episode_id\":\"conv-26::session_6::episode-005\",\"turn_id\":\"D6:16\"},{\"episode_id\":\"conv-26::session_8::episode-004\",\"turn_id\":\"D8:32\"},{\"episode_id\":\"conv-26::session_8::episode-004\",\"turn_id\":\"D8:34\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 4083,
+        "completion_tokens": 196,
+        "total_tokens": 4279,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_38f508f26a"
+    },
+    "latency_seconds": 2.1962643339999994
+  }
+]

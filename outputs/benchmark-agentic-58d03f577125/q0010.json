@@ -1,0 +1,21 @@
+{
+  "question_id": "conv-26::q0010",
+  "category": 2,
+  "question": "When did Caroline meet up with her friends, family, and mentors?",
+  "gold_answer": "The week before 9 June 2023",
+  "status": "scored",
+  "generated_answer": "Caroline met up with her friends, family, and mentors last week (relative to 9 June 2023) and also had a picnic with them last week (relative to 6 July 2023).",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_3::chunk-0005",
+      "turn_id": "D3:11"
+    },
+    {
+      "episode_id": "conv-26::session_6::chunk-0010",
+      "turn_id": "D6:11"
+    }
+  ],
+  "query_elapsed_seconds": 6.291519708,
+  "label": "WRONG",
+  "judge_reason": "The generated answer indicates two different relative timeframes for 'last week' which contradicts the reference answer."
+}

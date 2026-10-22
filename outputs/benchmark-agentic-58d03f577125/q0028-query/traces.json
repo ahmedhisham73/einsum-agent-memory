@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "agent_decision",
+    "call_id": "bfed1412-eda4-4109-9635-cf427dff2016",
+    "response": {
+      "id": "chatcmpl-EZksimTTOHawxpkztf9rTT0YfuALY",
+      "object": "chat.completion",
+      "created": 1792190400,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"search\",\"query\":\"Caroline pursuing writing as a career option\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 150,
+        "completion_tokens": 16,
+        "total_tokens": 166,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_d81cb94320"
+    },
+    "latency_seconds": 1.1992645830000002
+  },
+  {
+    "stage": "agent_decision",
+    "call_id": "baceb6b5-9fda-42e7-b3bd-815313ff5986",
+    "response": {
+      "id": "chatcmpl-EZksjyKqRWm9xxY8UkwSoCNJIjXgo",
+      "object": "chat.completion",
+      "created": 1792190401,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"ready\",\"reason\":\"Conversations explicitly show Caroline considering counseling and mental health as a career, with no mention of pursuing writing as a career option.\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2905,
+        "completion_tokens": 33,
+        "total_tokens": 2938,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_d81cb94320"
+    },
+    "latency_seconds": 0.996121917
+  }
+]

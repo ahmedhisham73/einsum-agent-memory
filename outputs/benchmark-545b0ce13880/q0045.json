@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0045",
+  "category": 2,
+  "question": "When is Melanie's daughter's birthday?",
+  "gold_answer": "13 August",
+  "status": "scored",
+  "generated_answer": "Melanie's daughter's birthday was celebrated with a concert on the evening before 14 August 2023, implying her birthday is around mid-August.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_11::episode-001",
+      "turn_id": "D11:1"
+    }
+  ],
+  "query_elapsed_seconds": 4.668169625000001,
+  "label": "WRONG",
+  "judge_reason": "The generated answer does not provide the specific date of the birthday and has added unnecessary details."
+}

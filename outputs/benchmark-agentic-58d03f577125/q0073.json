@@ -1,0 +1,25 @@
+{
+  "question_id": "conv-26::q0073",
+  "category": 2,
+  "question": "When did Melanie's friend adopt a child?",
+  "gold_answer": 2022,
+  "status": "scored",
+  "generated_answer": "The conversation does not indicate that Melanie's friend Caroline has adopted a child yet; she was researching adoption agencies as of May 25, 2023, applied to agencies around August 23, 2023, and passed adoption interviews by October 20, 2023. No adoption date is mentioned.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_2::chunk-0005",
+      "turn_id": "D2:8"
+    },
+    {
+      "episode_id": "conv-26::session_13::chunk-0000",
+      "turn_id": "D13:1"
+    },
+    {
+      "episode_id": "conv-26::session_19::chunk-0000",
+      "turn_id": "D19:1"
+    }
+  ],
+  "query_elapsed_seconds": 10.46455825,
+  "label": "WRONG",
+  "judge_reason": "The generated answer indicates that Melanie's friend has not yet adopted a child, contradicting the reference answer stating 2022."
+}

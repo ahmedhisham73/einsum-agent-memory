@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0007",
+  "category": 2,
+  "question": "When is Melanie planning on going camping?",
+  "gold_answer": "June 2023",
+  "status": "scored",
+  "generated_answer": "Melanie was planning on going camping next month as of 25 May 2023.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_2::chunk-0005",
+      "turn_id": "D2:7"
+    }
+  ],
+  "query_elapsed_seconds": 4.669565749999999,
+  "label": "WRONG",
+  "judge_reason": "The generated answer states that Melanie was planning to go camping next month from a specific date in May, which does not align with the reference answer's indication of June 2023 as a time frame."
+}

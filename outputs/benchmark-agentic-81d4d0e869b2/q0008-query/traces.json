@@ -1,0 +1,125 @@
+[
+  {
+    "stage": "agent_decision",
+    "call_id": "e434b931-7fd4-4abd-883e-65f472998e9a",
+    "response": {
+      "id": "chatcmpl-EZiV36L4YpUYSP9gX5Hf2pcfyXbaG",
+      "object": "chat.completion",
+      "created": 1792181245,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"search\",\"query\":\"Caroline relationship status\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 148,
+        "completion_tokens": 12,
+        "total_tokens": 160,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_d81cb94320"
+    },
+    "latency_seconds": 1.3054700000000001
+  },
+  {
+    "stage": "agent_decision",
+    "call_id": "29ab77d7-d4a0-49da-8ae9-cb74dbb32224",
+    "response": {
+      "id": "chatcmpl-EZiV5ab35TG6LirY7sqtS060UgvfX",
+      "object": "chat.completion",
+      "created": 1792181247,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"ready\",\"reason\":\"The conversations mention Caroline's close friendships and support network but do not indicate a romantic relationship or a specific relationship status. No evidence suggests Caroline is currently in a romantic relationship.\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2537,
+        "completion_tokens": 42,
+        "total_tokens": 2579,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_d81cb94320"
+    },
+    "latency_seconds": 1.7324374579999997
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "9fbe86cb-50fe-439e-bd19-b8c9b40c49cb",
+    "response": {
+      "id": "chatcmpl-EZiV7Py3ADuzVdY8exBVrfWDAmYs8",
+      "object": "chat.completion",
+      "created": 1792181249,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Caroline is currently single, not explicitly in a romantic relationship. She talks about friendships, family support, and mentoring but does not mention a partner or romantic relationship.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_16::chunk-0010\",\"turn_id\":\"D16:15\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2522,
+        "completion_tokens": 70,
+        "total_tokens": 2592,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_38f508f26a"
+    },
+    "latency_seconds": 2.758579083
+  }
+]

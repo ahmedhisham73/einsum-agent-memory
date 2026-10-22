@@ -1,0 +1,10 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Melanie",
+      "property": "attitude_about_Caroline_adoption_decision",
+      "search": "standalone evidence search"
+    }
+  ]
+}

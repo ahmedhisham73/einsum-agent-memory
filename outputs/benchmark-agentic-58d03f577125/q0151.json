@@ -1,0 +1,37 @@
+{
+  "question_id": "conv-26::q0151",
+  "category": 4,
+  "question": "How did Melanie feel about her family supporting her?",
+  "gold_answer": "She appreciated them a lot",
+  "status": "scored",
+  "generated_answer": "Melanie felt very positive and grateful about her family supporting her. She expressed that her family motivates her, gives her love, helps her through tough times, and is her biggest support and motivation. She appreciated and deeply valued the love and encouragement from her husband and kids, describing it as making difficult times easier and creating happiness and bonding in their lives.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_3::chunk-0005",
+      "turn_id": "D3:10"
+    },
+    {
+      "episode_id": "conv-26::session_3::chunk-0010",
+      "turn_id": "D3:14"
+    },
+    {
+      "episode_id": "conv-26::session_8::chunk-0030",
+      "turn_id": "D8:32"
+    },
+    {
+      "episode_id": "conv-26::session_18::chunk-0010",
+      "turn_id": "D18:11"
+    },
+    {
+      "episode_id": "conv-26::session_18::chunk-0010",
+      "turn_id": "D18:13"
+    },
+    {
+      "episode_id": "conv-26::session_18::chunk-0010",
+      "turn_id": "D18:15"
+    }
+  ],
+  "query_elapsed_seconds": 6.112624166,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer captures the essence of the reference answer by conveying Melanie's appreciation for her family's support, emphasizing her positive feelings and gratitude."
+}

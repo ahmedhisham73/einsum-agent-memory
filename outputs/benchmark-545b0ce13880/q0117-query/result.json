@@ -1,0 +1,21 @@
+{
+  "status": "completed",
+  "experiment_id": "q0117-query",
+  "memory_build": "offline-memory-a5e48166f56e",
+  "embedding_fingerprint": "264e45d8331b217a87fc15e35db2c614b32e9c572d0bbb53fe9bcc90dda3a8a6",
+  "question": "What inspired Caroline's painting for the art show?",
+  "answer": "Caroline's painting for the art show was inspired by her visit to an LGBTQ center; she wanted to capture everyone's unity and strength.",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-26::session_9::episode-004",
+      "turn_id": "D9:16"
+    }
+  ],
+  "elapsed_seconds": 6.832804833,
+  "implementation": {
+    "structured_matching": "literal entity / property-token overlap",
+    "all_matching": "all episodes; no optimized exhaustive retrieval",
+    "coverage": "answer-model sufficiency check with expansion"
+  }
+}

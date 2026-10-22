@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0063",
+  "category": 2,
+  "question": "When did Melanie go to the park?",
+  "gold_answer": "27 August 2023",
+  "status": "scored",
+  "generated_answer": "Melanie went to the park the day before 28 August 2023, as she said on 28 August 2023, \"Since we last spoke, I took my kids to a park yesterday.\"",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_15::chunk-0000",
+      "turn_id": "D15:2"
+    }
+  ],
+  "query_elapsed_seconds": 4.621894833,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer correctly deduces that Melanie went to the park on 27 August 2023, which matches the reference answer."
+}

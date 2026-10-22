@@ -1,0 +1,25 @@
+{
+  "question_id": "conv-26::q0053",
+  "category": 1,
+  "question": "What are Melanie's pets' names?",
+  "gold_answer": "Oliver, Luna, Bailey",
+  "status": "scored",
+  "generated_answer": "Melanie's pets' names are Luna (dog), Oliver (dog), and Bailey (cat).",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_7::episode-003",
+      "turn_id": "D7:16"
+    },
+    {
+      "episode_id": "conv-26::session_7::episode-003",
+      "turn_id": "D7:18"
+    },
+    {
+      "episode_id": "conv-26::session_13::episode-002",
+      "turn_id": "D13:4"
+    }
+  ],
+  "query_elapsed_seconds": 4.400856167000001,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer correctly identifies all the pets' names as Oliver, Luna, and Bailey, matching the reference answer."
+}

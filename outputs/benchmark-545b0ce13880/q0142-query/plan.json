@@ -1,0 +1,35 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Caroline",
+      "property": "artwork_symbolism",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Caroline",
+      "property": "art_creation_reason",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Caroline",
+      "property": "art_emotional_effect",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Caroline",
+      "property": "artistic_intent",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Caroline",
+      "property": "personal_feelings_about_group",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Caroline",
+      "property": "emotional_connection_to_art",
+      "search": "standalone evidence search"
+    }
+  ]
+}

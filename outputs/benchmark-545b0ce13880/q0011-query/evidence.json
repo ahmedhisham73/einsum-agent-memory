@@ -1,0 +1,467 @@
+[
+  {
+    "episode_id": "conv-26::session_1::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_1",
+    "observed_at": "2023-05-08T13:56:00",
+    "source_timestamp": "1:56 pm on 8 May, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Discussing the impact of the LGBTQ support group",
+    "turns": [
+      {
+        "turn_id": "D1:4",
+        "speaker": "Melanie",
+        "text": "Wow, that's cool, Caroline! What happened that was so awesome? Did you hear any inspiring stories?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:5",
+        "speaker": "Caroline",
+        "text": "The transgender stories were so inspiring! I was so happy and thankful for all the support.",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/l7hozpetnhlb1.jpg"
+          ],
+          "blip_caption": "a photo of a dog walking past a wall with a painting of a woman",
+          "query": "transgender pride flag mural"
+        }
+      },
+      {
+        "turn_id": "D1:6",
+        "speaker": "Melanie",
+        "text": "Wow, love that painting! So cool you found such a helpful group. What's it done for you?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:7",
+        "speaker": "Caroline",
+        "text": "The support group has made me feel accepted and given me courage to embrace myself.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_2::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_2",
+    "observed_at": "2023-05-25T13:14:00",
+    "source_timestamp": "1:14 pm on 25 May, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Caroline talks about her adoption plans and the supportive adoption agency",
+    "turns": [
+      {
+        "turn_id": "D2:8",
+        "speaker": "Caroline",
+        "text": "Researching adoption agencies — it's been a dream to have a family and give a loving home to kids who need it.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:9",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! That's awesome! Taking in kids in need - you're so kind. Your future family is gonna be so lucky to have you!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:10",
+        "speaker": "Caroline",
+        "text": "Thanks, Mel! My goal is to give kids a loving home. I'm truly grateful for all the support I've got from friends and mentors. Now the hard work starts to turn my dream into a reality. And here's one of the adoption agencies I'm looking into. It's a lot to take in, but I'm feeling hopeful and optimistic.",
+        "metadata": {
+          "img_url": [
+            "https://live.staticflickr.com/3437/3935231341_b2955b00dd_b.jpg"
+          ],
+          "blip_caption": "a photography of a sign for a new arrival and an information and domestic building",
+          "query": "adoption agency brochure",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D2:11",
+        "speaker": "Melanie",
+        "text": "Wow, that agency looks great! What made you pick it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:12",
+        "speaker": "Caroline",
+        "text": "I chose them 'cause they help LGBTQ+ folks with adoption. Their inclusivity and support really spoke to me.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:13",
+        "speaker": "Melanie",
+        "text": "That's great, Caroline! Loving the inclusivity and support. Anything you're excited for in the adoption process?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:14",
+        "speaker": "Caroline",
+        "text": "I'm thrilled to make a family for kids who need one. It'll be tough as a single parent, but I'm up for the challenge!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:15",
+        "speaker": "Melanie",
+        "text": "You're doing something amazing! Creating a family for those kids is so lovely. You'll be an awesome mom! Good luck!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:16",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! Your kind words really mean a lot. I'll do my best to make sure these kids have a safe and loving home.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:17",
+        "speaker": "Melanie",
+        "text": "No doubts, Caroline. You have such a caring heart - they'll get all the love and stability they need! Excited for this new chapter!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_3::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_3",
+    "observed_at": "2023-06-09T19:55:00",
+    "source_timestamp": "7:55 pm on 9 June, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Motivation and support systems in personal life",
+    "turns": [
+      {
+        "turn_id": "D3:10",
+        "speaker": "Melanie",
+        "text": "Yes, Caroline! We can do it. Your courage is inspiring. I want to be couragous for my family- they motivate me and give me love. What motivates you?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:11",
+        "speaker": "Caroline",
+        "text": "Thanks, Mel! My friends, family and mentors are my rocks – they motivate me and give me the strength to push on. Here's a pic from when we met up last week!",
+        "metadata": {
+          "img_url": [
+            "https://fox2now.com/wp-content/uploads/sites/14/2023/08/that-tall-family.jpg"
+          ],
+          "blip_caption": "a photo of a family posing for a picture in a yard",
+          "query": "group of friends and family"
+        }
+      },
+      {
+        "turn_id": "D3:12",
+        "speaker": "Melanie",
+        "text": "Wow, that photo is great! How long have you had such a great support system?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:13",
+        "speaker": "Caroline",
+        "text": "Yeah, I'm really lucky to have them. They've been there through everything, I've known these friends for 4 years, since I moved from my home country. Their love and help have been so important especially after that tough breakup. I'm super thankful. Who supports you, Mel?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_6::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_6",
+    "observed_at": "2023-07-06T20:18:00",
+    "source_timestamp": "8:18 pm on 6 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Caroline's transition and support network",
+    "turns": [
+      {
+        "turn_id": "D6:11",
+        "speaker": "Caroline",
+        "text": "Wow, that's great! It sure shows how important friendship and compassion are. It's made me appreciate how lucky I am to have my friends and family helping with my transition. They make all the difference. We even had a picnic last week!",
+        "metadata": {
+          "img_url": [
+            "https://i.pinimg.com/originals/41/d5/60/41d5601e4ab0959ce5e29683a2660938.jpg"
+          ],
+          "blip_caption": "a photo of a group of women sitting on a blanket in a park",
+          "query": "group friends picnic"
+        }
+      },
+      {
+        "turn_id": "D6:12",
+        "speaker": "Melanie",
+        "text": "That's a gorgeous photo, Caroline! Wow, the love around you is awesome. How have your friends and fam been helping you out with your transition?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:13",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! This support network has been amazing. They've been there for me every step of the way giving me love, guidance, and acceptance. I couldn't have done it without them.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:14",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! It's great you have people to support you, that's really awesome!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:15",
+        "speaker": "Caroline",
+        "text": "I'm so lucky to have such a great support system around me. Their love and encouragement has really helped me accept and grow into my true self. They've been instrumental in my transition.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_9::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_9",
+    "observed_at": "2023-07-17T14:31:00",
+    "source_timestamp": "2:31 pm on 17 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Weekend activities and updates",
+    "turns": [
+      {
+        "turn_id": "D9:1",
+        "speaker": "Melanie",
+        "text": "Hey Caroline, hope all's good! I had a quiet weekend after we went camping with my fam two weekends ago. It was great to unplug and hang with the kids. What've you been up to? Anything fun over the weekend?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:2",
+        "speaker": "Caroline",
+        "text": "Hey Melanie! That sounds great! Last weekend I joined a mentorship program for LGBTQ youth - it's really rewarding to help the community.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_10::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_10",
+    "observed_at": "2023-07-20T20:56:00",
+    "source_timestamp": "8:56 pm on 20 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Caroline shares her involvement in a new LGBTQ activist group and discusses related events",
+    "turns": [
+      {
+        "turn_id": "D10:1",
+        "speaker": "Caroline",
+        "text": "Hey Melanie! Just wanted to say hi!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:2",
+        "speaker": "Melanie",
+        "text": "Hey Caroline! Good to talk to you again. What's up? Anything new since last time?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:3",
+        "speaker": "Caroline",
+        "text": "Hey Mel! A lot's happened since we last chatted - I just joined a new LGBTQ activist group last Tues. I'm meeting so many cool people who are as passionate as I am about rights and community support. I'm giving my voice and making a real difference, plus it's fulfilling in so many ways. It's just great, you know?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:4",
+        "speaker": "Melanie",
+        "text": "That's awesome, Caroline! Glad to hear you found a great group where you can have an impact. Bet it feels great to be able to speak your truth and stand up for what's right. Want to tell me a bit more about it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:5",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! It's awesome to have our own platform to be ourselves and support others' rights. Our group, 'Connected LGBTQ Activists', is made of all kinds of people investing in positive changes. We have regular meetings, plan events and campaigns, to get together and support each other.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:6",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, your group sounds awesome! Supporting each other and making good things happen - that's so inspiring! Have you been part of any events or campaigns lately?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:7",
+        "speaker": "Caroline",
+        "text": "Last weekend our city held a pride parade! So many people marched through the streets waving flags, holding signs and celebrating love and diversity. I missed it but it was a powerful reminder that we are not alone in this fight for equality and inclusivity. Change is possible!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_12::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_12",
+    "observed_at": "2023-08-17T13:50:00",
+    "source_timestamp": "1:50 pm on 17 August, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Caroline shares a difficult experience related to LGBTQ rights",
+    "turns": [
+      {
+        "turn_id": "D12:1",
+        "speaker": "Caroline",
+        "text": "Hey Mel! How're ya doin'? Recently, I had a not-so-great experience on a hike. I ran into a group of religious conservatives who said something that really upset me. It made me think how much work we still have to do for LGBTQ rights. It's been so helpful to have people around me who accept and support me, so I know I'll be ok!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_12::episode-005",
+    "conversation_id": "conv-26",
+    "session_id": "session_12",
+    "observed_at": "2023-08-17T13:50:00",
+    "source_timestamp": "1:50 pm on 17 August, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Fond memories and planning for future outings together",
+    "turns": [
+      {
+        "turn_id": "D12:15",
+        "speaker": "Caroline",
+        "text": "I'm always here for you, Mel! We had a blast last year at the Pride fest. Those supportive friends definitely make everything worth it!",
+        "metadata": {
+          "img_url": [
+            "https://media2.fdncms.com/portmerc/imager/u/large/46577490/pride2022-2-jankowski.jpg"
+          ],
+          "blip_caption": "a photo of a group of people walking down a street with balloons",
+          "query": "friends pride festival"
+        }
+      },
+      {
+        "turn_id": "D12:16",
+        "speaker": "Melanie",
+        "text": "That was a blast! So much fun with the whole gang! Wanna do a family outing this summer?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:17",
+        "speaker": "Caroline",
+        "text": "Right, it was so much fun! We could do a family outting, or wanna plan something special for this summer, just us two? It'd be a great chance to catch up and explore nature! What do you think?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:18",
+        "speaker": "Melanie",
+        "text": "Sounds great, Caroline! Let's plan something special!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:19",
+        "speaker": "Caroline",
+        "text": "Sounds great, Mel! We'll make some awesome memories!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:20",
+        "speaker": "Melanie",
+        "text": "Yeah, Caroline! I'll start thinking about what we can do.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:21",
+        "speaker": "Caroline",
+        "text": "Yeah, Mel! Life's all about creating memories. Can't wait for the trip!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_14::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_14",
+    "observed_at": "2023-08-25T13:33:00",
+    "source_timestamp": "1:33 pm on 25 August, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Joining and finding meaning in the transgender community",
+    "turns": [
+      {
+        "turn_id": "D14:12",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! I really appreciate your help and motivation. What made you decide to transition and join the transgender community?",
+        "metadata": {
+          "blip_caption": "a photo of a bulletin board with a rainbow flag and a don't ever be afraid to"
+        }
+      },
+      {
+        "turn_id": "D14:13",
+        "speaker": "Caroline",
+        "text": "Finding a community where I'm accepted, loved and supported has really meant a lot to me. It's made a huge difference to have people who get what I'm going through. Stuff like this mural are really special to me!",
+        "metadata": {
+          "img_url": [
+            "https://npr.brightspotcdn.com/legacy/sites/wuwm/files/201811/20181029_095916.jpg"
+          ],
+          "blip_caption": "a photo of a building with a large eagle painted on it",
+          "query": "rainbow flag painting unity acceptance"
+        }
+      },
+      {
+        "turn_id": "D14:14",
+        "speaker": "Melanie",
+        "text": "Caroline, glad you found a supportive community! Can you tell me more about why it's special to you?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:15",
+        "speaker": "Caroline",
+        "text": "The rainbow flag mural is important to me as it reflects the courage and strength of the trans community. The eagle symbolizes freedom and pride, representing my own resilience and that of others.",
+        "metadata": {
+          "blip_caption": "a photo of a stained glass window with a picture of a person on a horse"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_15::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_15",
+    "observed_at": "2023-08-28T15:19:00",
+    "source_timestamp": "3:19 pm on 28 August, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Volunteering experience and upcoming talent show",
+    "turns": [
+      {
+        "turn_id": "D15:4",
+        "speaker": "Melanie",
+        "text": "That sounds great, Caroline. Volunteering is a great way to meet people. Creating community and supporting each other, especially for kids, is really important. How did you feel about your time there? Anything that sticks out to you?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:5",
+        "speaker": "Caroline",
+        "text": "I loved it. It was awesome to see how strong the young people were, with all the challenges they face. I felt fulfilled guiding and supporting them. I even got to let them know they're not alone by sharing my story. Such a powerful, emotional experience.",
+        "metadata": {
+          "blip_caption": "a photo of a table with a black table cloth and a group of people"
+        }
+      },
+      {
+        "turn_id": "D15:6",
+        "speaker": "Melanie",
+        "text": "Was connecting with those young folks meaningful for you? ",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:7",
+        "speaker": "Caroline",
+        "text": "It was so special to me. It reminded me of my own struggles in the past and how I felt alone. I was glad I could share my story and offer them support - it felt like I could make a difference.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:8",
+        "speaker": "Melanie",
+        "text": "That's great. Sharing your story and support might make a difference for a long time. What do you hope to do next time?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:9",
+        "speaker": "Caroline",
+        "text": "I'm definitely carrying on volunteering at the youth center. It's an important part of my life and I've made strong connections with people there. I really believe in community and supporting each other. So I wanna keep making a difference.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:10",
+        "speaker": "Melanie",
+        "text": "That's great news, Caroline! Love seeing your dedication to helping others. Any specific projects or activities you're looking forward to there?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:11",
+        "speaker": "Caroline",
+        "text": "We're putting together a talent show for the kids next month. I'm looking forward to seeing how much fun everyone has and how proud they'll feel of their talents!",
+        "metadata": {}
+      }
+    ]
+  }
+]

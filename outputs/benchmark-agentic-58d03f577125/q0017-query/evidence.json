@@ -1,0 +1,372 @@
+[
+  {
+    "episode_id": "conv-26::session_5::chunk-0000",
+    "session_id": "session_5",
+    "observed_at": "2023-07-03T13:36:00",
+    "source_timestamp": "1:36 pm on 3 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D5:1",
+        "speaker": "Caroline",
+        "text": "Since we last spoke, some big things have happened. Last week I went to an LGBTQ+ pride parade. Everyone was so happy and it made me feel like I belonged. It showed me how much our community has grown, it was amazing!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:2",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, sounds like the parade was an awesome experience! It's great to see the love and support for the LGBTQ+ community. Congrats! Has this experience influenced your goals at all?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:3",
+        "speaker": "Caroline",
+        "text": "Thanks, Mel! It really motivated me for sure. Talking to the community made me want to use my story to help others too - I'm still thinking that counseling and mental health is the way to go. I'm super excited to give back. ",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:4",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! That's great! I just signed up for a pottery class yesterday. It's like therapy for me, letting me express myself and get creative. Have you found any activities that make you feel the same way?",
+        "metadata": {
+          "img_url": [
+            "https://m.media-amazon.com/images/I/A1uELSr5rgL.jpg"
+          ],
+          "blip_caption": "a photo of a person holding a frisbee in their hand",
+          "query": "family frisbee game"
+        }
+      },
+      {
+        "turn_id": "D5:5",
+        "speaker": "Caroline",
+        "text": "Wow, Melanie! I'm getting creative too, just learning the piano. What made you try pottery?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:6",
+        "speaker": "Melanie",
+        "text": "I'm a big fan of pottery - the creativity and skill is awesome. Plus, making it is so calming. Look at this!",
+        "metadata": {
+          "img_url": [
+            "https://therusticbarnct.com/cdn/shop/files/image_05483f46-4845-433b-a4cf-0fc61fe1aa79.jpg"
+          ],
+          "blip_caption": "a photo of a bowl with a black and white flower design",
+          "query": "pottery painted bowl intricate design"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_5::chunk-0005",
+    "session_id": "session_5",
+    "observed_at": "2023-07-03T13:36:00",
+    "source_timestamp": "1:36 pm on 3 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D5:7",
+        "speaker": "Caroline",
+        "text": "That bowl is gorgeous! The black and white design looks so fancy. Did you make it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:8",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! Yeah, I made this bowl in my class. It took some work, but I'm pretty proud of it.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:9",
+        "speaker": "Caroline",
+        "text": "Nice job! You really put in the work and it definitely shows. Your creativity looks great!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:10",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! Your kind words mean a lot. Pottery is a huge part of my life, not just a hobby - it helps me express my emotions. Clay is incredible, it brings me so much joy!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:11",
+        "speaker": "Caroline",
+        "text": "Wow, Mel, I'm so stoked for you that art is helping you express yourself and bring you joy! Keep it up!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_5::chunk-0010",
+    "session_id": "session_5",
+    "observed_at": "2023-07-03T13:36:00",
+    "source_timestamp": "1:36 pm on 3 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D5:12",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! I'm excited to see where pottery takes me. Anything coming up you're looking forward to?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:13",
+        "speaker": "Caroline",
+        "text": "Thanks Mel! I'm going to a transgender conference this month. I'm so excited to meet other people in the community and learn more about advocacy. It's gonna be great!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:14",
+        "speaker": "Melanie",
+        "text": "Sounds awesome, Caroline! Have a great time and learn a lot. Have fun!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:15",
+        "speaker": "Caroline",
+        "text": "Cool, thanks Mel! Can't wait. I'll keep ya posted. Bye!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:16",
+        "speaker": "Melanie",
+        "text": "Bye, Caroline! Can't wait to hear about it. Have fun and stay safe!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_8::chunk-0000",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D8:1",
+        "speaker": "Caroline",
+        "text": "Hey Mel, what's up? Been a busy week since we talked.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:2",
+        "speaker": "Melanie",
+        "text": "Hey Caroline, it's been super busy here. So much since we talked! Last Fri I finally took my kids to a pottery workshop. We all made our own pots, it was fun and therapeutic!",
+        "metadata": {
+          "img_url": [
+            "https://images.rawpixel.com/image_social_landscape/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTExL2ZsNDg2NDgxOTYyMDMtaW1hZ2UuanBn.jpg"
+          ],
+          "blip_caption": "a photography of a group of children making clay sculptures in a classroom",
+          "query": "pottery workshop family making clay pots",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D8:3",
+        "speaker": "Caroline",
+        "text": "Wow, Mel! Sounds like you and the kids had a blast. How'd they like it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:4",
+        "speaker": "Melanie",
+        "text": "The kids loved it! They were so excited to get their hands dirty and make something with clay. It was special to watch their creativity and imagination come to life, they made this!",
+        "metadata": {
+          "img_url": [
+            "https://monstermonster.shop/cdn/shop/products/mug-class_5000x.jpg"
+          ],
+          "blip_caption": "a photo of a cup with a dog face on it",
+          "query": "kids pottery finished pieces"
+        }
+      },
+      {
+        "turn_id": "D8:5",
+        "speaker": "Caroline",
+        "text": "Aww, that's so sweet! That cup is so cute. It's awesome to see how kids show their personalities through art. What other creative projects do you do with them, besides pottery?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:6",
+        "speaker": "Melanie",
+        "text": "We love painting together lately, especially nature-inspired ones. Here's our latest work from last weekend.",
+        "metadata": {
+          "img_url": [
+            "https://i.pinimg.com/originals/ea/d9/d7/ead9d79b58ca80a38a744b5ab70482db.jpg"
+          ],
+          "blip_caption": "a photo of a painting of a sunset with a palm tree",
+          "query": "painting vibrant flowers sunset sky"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_12::chunk-0000",
+    "session_id": "session_12",
+    "observed_at": "2023-08-17T13:50:00",
+    "source_timestamp": "1:50 pm on 17 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D12:1",
+        "speaker": "Caroline",
+        "text": "Hey Mel! How're ya doin'? Recently, I had a not-so-great experience on a hike. I ran into a group of religious conservatives who said something that really upset me. It made me think how much work we still have to do for LGBTQ rights. It's been so helpful to have people around me who accept and support me, so I know I'll be ok!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:2",
+        "speaker": "Melanie",
+        "text": "Hey Caroline, sorry about the hike. It sucks when people are so closed-minded. Strong support really helps. FYI, I finished another pottery project - want to see a pic?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:3",
+        "speaker": "Caroline",
+        "text": "Sure thing, Melanie! Can't wait to see your pottery project.  I'm happy you found something that makes you happy. Show me when you can!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:4",
+        "speaker": "Melanie",
+        "text": "Here it is. Pretty proud of it! It was a great experience. Thoughts?",
+        "metadata": {
+          "img_url": [
+            "https://omceramic.com/cdn/shop/products/IMG_0022.jpg"
+          ],
+          "blip_caption": "a photo of a bowl with a colorful design on it",
+          "query": "pottery project ceramic bowl"
+        }
+      },
+      {
+        "turn_id": "D12:5",
+        "speaker": "Caroline",
+        "text": "That bowl is awesome, Mel! What gave you the idea for all the colors and patterns?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:6",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! I'm obsessed with those, so I made something to catch the eye and make people smile. Plus, painting helps me express my feelings and be creative. Each stroke carries a part of me.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_14::chunk-0000",
+    "session_id": "session_14",
+    "observed_at": "2023-08-25T13:33:00",
+    "source_timestamp": "1:33 pm on 25 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D14:1",
+        "speaker": "Caroline",
+        "text": "Hey, Mel! How's it going? There's something I want to tell you. I went hiking last week and got into a bad spot with some people. It really bugged me, so I tried to apologize to them.",
+        "metadata": {
+          "img_url": [
+            "https://photos.thetrek.co/wp-content/uploads/2017/11/IMG_1742-e1509796327550.jpg"
+          ],
+          "blip_caption": "a photo of a woman sitting on a sign on top of a mountain",
+          "query": "letter apology hike encounter"
+        }
+      },
+      {
+        "turn_id": "D14:2",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! Sorry that happened to you. It's tough when those things happen, but it's great you apologized. Takes a lot of courage and maturity! What do you think of this?",
+        "metadata": {
+          "img_url": [
+            "https://i0.wp.com/bardith.com/wp-content/uploads/2022/05/IMG_4371-1.jpg"
+          ],
+          "blip_caption": "a photo of a plate with a bunch of flowers on it",
+          "query": "pottery purple bowl floral patterns"
+        }
+      },
+      {
+        "turn_id": "D14:3",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! That plate is awesome! Did you make it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:4",
+        "speaker": "Melanie",
+        "text": "Yeah, I made it in pottery class yesterday. I love it! Pottery's so relaxing and creative. Have you tried it yet?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:5",
+        "speaker": "Caroline",
+        "text": "Nah, I haven't. I've been busy painting - here's something I just finished.",
+        "metadata": {
+          "img_url": [
+            "https://i0.wp.com/makesomethingmondays.com/wp-content/uploads/2017/07/mini-beach-sunset-painting-diy.jpg"
+          ],
+          "blip_caption": "a photo of a painting of a sunset on a small easel",
+          "query": "vibrant sunset beach painting"
+        }
+      },
+      {
+        "turn_id": "D14:6",
+        "speaker": "Melanie",
+        "text": "Wow Caroline, that looks amazing! Those colors are so vivid, it really looks like a real sunset. What gave you the idea to paint it?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_16::chunk-0005",
+    "session_id": "session_16",
+    "observed_at": "2023-09-13T00:09:00",
+    "source_timestamp": "12:09 am on 13 September, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D16:6",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, that looks awesome! I love how it shows the togetherness and power you were talking about. How long have you been creating art?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:7",
+        "speaker": "Caroline",
+        "text": "Since I was 17 or so. I find it soempowering and cathartic. It's amazing how art can show things that are hard to put into words. How long have you been into art?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:8",
+        "speaker": "Melanie",
+        "text": "Seven years now, and I've finally found my real muses: painting and pottery. It's so calming and satisfying. Check out my pottery creation in the pic!",
+        "metadata": {
+          "img_url": [
+            "https://www.1hotpieceofglass.com/cdn/shop/files/image_93ad5985-ff65-4b93-877b-3ee948ac5641_5000x.jpg"
+          ],
+          "blip_caption": "a photo of a group of bowls and a starfish on a white surface",
+          "query": "pottery bowl intricate patterns purple glaze"
+        }
+      },
+      {
+        "turn_id": "D16:9",
+        "speaker": "Caroline",
+        "text": "Melanie, those bowls are amazing! They each have such cool designs. I love that you chose pottery for your art. Painting and drawing have helped me express my feelings and explore my gender identity. Creating art was really important to me during my transition - it helped me understand and accept myself. I'm so grateful.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:10",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! It has really helped me out. I love how it's both a creative outlet and a form of therapy. Have you ever thought about trying it or another art form?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:11",
+        "speaker": "Caroline",
+        "text": "I haven't done pottery yet, but I'm game for trying new art. I might try it sometime! Check out this piece I made!",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/z8zsh53ycfvb1.jpg"
+          ],
+          "blip_caption": "a photo of a painting on a easel with a red and blue background",
+          "query": "canvas colourful brush strokes"
+        }
+      }
+    ]
+  }
+]

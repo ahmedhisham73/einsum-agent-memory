@@ -1,0 +1,294 @@
+[
+  {
+    "episode_id": "conv-26::session_1::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_1",
+    "observed_at": "2023-05-08T13:56:00",
+    "source_timestamp": "1:56 pm on 8 May, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Future plans and career aspirations",
+    "turns": [
+      {
+        "turn_id": "D1:8",
+        "speaker": "Melanie",
+        "text": "That's really cool. You've got guts. What now?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:9",
+        "speaker": "Caroline",
+        "text": "Gonna continue my edu and check out career options, which is pretty exciting!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:10",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! What kinda jobs are you thinkin' of? Anything that stands out?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:11",
+        "speaker": "Caroline",
+        "text": "I'm keen on counseling or working in mental health - I'd love to support those with similar issues.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_1::episode-005",
+    "conversation_id": "conv-26",
+    "session_id": "session_1",
+    "observed_at": "2023-05-08T13:56:00",
+    "source_timestamp": "1:56 pm on 8 May, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Closing remarks and plans for the day",
+    "turns": [
+      {
+        "turn_id": "D1:17",
+        "speaker": "Caroline",
+        "text": "Totally agree, Mel. Relaxing and expressing ourselves is key. Well, I'm off to go do some research.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:18",
+        "speaker": "Melanie",
+        "text": "Yep, Caroline. Taking care of ourselves is vital. I'm off to go swimming with the kids. Talk to you soon!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_2::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_2",
+    "observed_at": "2023-05-25T13:14:00",
+    "source_timestamp": "1:14 pm on 25 May, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Caroline talks about her adoption plans and the supportive adoption agency",
+    "turns": [
+      {
+        "turn_id": "D2:8",
+        "speaker": "Caroline",
+        "text": "Researching adoption agencies — it's been a dream to have a family and give a loving home to kids who need it.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:9",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! That's awesome! Taking in kids in need - you're so kind. Your future family is gonna be so lucky to have you!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:10",
+        "speaker": "Caroline",
+        "text": "Thanks, Mel! My goal is to give kids a loving home. I'm truly grateful for all the support I've got from friends and mentors. Now the hard work starts to turn my dream into a reality. And here's one of the adoption agencies I'm looking into. It's a lot to take in, but I'm feeling hopeful and optimistic.",
+        "metadata": {
+          "img_url": [
+            "https://live.staticflickr.com/3437/3935231341_b2955b00dd_b.jpg"
+          ],
+          "blip_caption": "a photography of a sign for a new arrival and an information and domestic building",
+          "query": "adoption agency brochure",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D2:11",
+        "speaker": "Melanie",
+        "text": "Wow, that agency looks great! What made you pick it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:12",
+        "speaker": "Caroline",
+        "text": "I chose them 'cause they help LGBTQ+ folks with adoption. Their inclusivity and support really spoke to me.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:13",
+        "speaker": "Melanie",
+        "text": "That's great, Caroline! Loving the inclusivity and support. Anything you're excited for in the adoption process?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:14",
+        "speaker": "Caroline",
+        "text": "I'm thrilled to make a family for kids who need one. It'll be tough as a single parent, but I'm up for the challenge!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:15",
+        "speaker": "Melanie",
+        "text": "You're doing something amazing! Creating a family for those kids is so lovely. You'll be an awesome mom! Good luck!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:16",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! Your kind words really mean a lot. I'll do my best to make sure these kids have a safe and loving home.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:17",
+        "speaker": "Melanie",
+        "text": "No doubts, Caroline. You have such a caring heart - they'll get all the love and stability they need! Excited for this new chapter!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_4::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_4",
+    "observed_at": "2023-06-27T10:37:00",
+    "source_timestamp": "10:37 am on 27 June, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Caroline's career interest in counseling and mental health support for trans people",
+    "turns": [
+      {
+        "turn_id": "D4:11",
+        "speaker": "Caroline",
+        "text": "Lately, I've been looking into counseling and mental health as a career. I want to help people who have gone through the same things as me.",
+        "metadata": {
+          "blip_caption": "a photo of a book shelf with many books on it"
+        }
+      },
+      {
+        "turn_id": "D4:12",
+        "speaker": "Melanie",
+        "text": "Sounds great! What kind of counseling and mental health services do you want to persue?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:13",
+        "speaker": "Caroline",
+        "text": "I'm still figuring out the details, but I'm thinking of working with trans people, helping them accept themselves and supporting their mental health. Last Friday, I went to an LGBTQ+ counseling workshop and it was really enlightening. They talked about different therapeutic methods and how to best work with trans people. Seeing how passionate these pros were about making a safe space for people like me was amazing.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:14",
+        "speaker": "Melanie",
+        "text": "Woah, Caroline, it sounds like you're doing some impressive work. It's inspiring to see your dedication to helping others. What motivated you to pursue counseling?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:15",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie. It really mattered. My own journey and the support I got made a huge difference. Now I want to help people go through it too. I saw how counseling and support groups improved my life, so I started caring more about mental health and understanding myself. Now I'm passionate about creating a safe, inviting place for people to grow.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:16",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! You've gained so much from your own experience. Your passion and hard work to help others is awesome. Keep it up, you're making a big impact!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:17",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! Your kind words mean a lot.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:18",
+        "speaker": "Melanie",
+        "text": "Congrats Caroline! Good on you for going after what you really care about.",
+        "metadata": {
+          "blip_caption": "a photo of a book shelf filled with books in a room"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_5::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_5",
+    "observed_at": "2023-07-03T13:36:00",
+    "source_timestamp": "1:36 pm on 3 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Caroline's experience at LGBTQ+ pride parade and motivation for mental health counseling",
+    "turns": [
+      {
+        "turn_id": "D5:1",
+        "speaker": "Caroline",
+        "text": "Since we last spoke, some big things have happened. Last week I went to an LGBTQ+ pride parade. Everyone was so happy and it made me feel like I belonged. It showed me how much our community has grown, it was amazing!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:2",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, sounds like the parade was an awesome experience! It's great to see the love and support for the LGBTQ+ community. Congrats! Has this experience influenced your goals at all?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:3",
+        "speaker": "Caroline",
+        "text": "Thanks, Mel! It really motivated me for sure. Talking to the community made me want to use my story to help others too - I'm still thinking that counseling and mental health is the way to go. I'm super excited to give back. ",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_6::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_6",
+    "observed_at": "2023-07-06T20:18:00",
+    "source_timestamp": "8:18 pm on 6 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Reconnecting and sharing personal updates",
+    "turns": [
+      {
+        "turn_id": "D6:1",
+        "speaker": "Caroline",
+        "text": "Hey Mel! Long time no talk. Lots has been going on since then!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:2",
+        "speaker": "Melanie",
+        "text": "Hey Caroline! Missed you. Anything new? Spill the beans!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:3",
+        "speaker": "Caroline",
+        "text": "Since our last chat, I've been looking into counseling or mental health work more. I'm passionate about helping people and making a positive impact. It's tough, but really rewarding too. Anything new happening with you?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_9::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_9",
+    "observed_at": "2023-07-17T14:31:00",
+    "source_timestamp": "2:31 pm on 17 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Mentorship experience in LGBTQ community",
+    "turns": [
+      {
+        "turn_id": "D9:3",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! It's great that you're helping out. How's it going? Got any cool experiences you can share?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:4",
+        "speaker": "Caroline",
+        "text": "The mentoring is going great! I've met some amazing young folks and supported them along the way. It's inspiring to see how resilient and strong they are.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:5",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, that sounds super rewarding! Young people's resilience is amazing. Care to share some stories?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:6",
+        "speaker": "Caroline",
+        "text": "I mentor a transgender teen just like me. We've been working on building up confidence and finding positive strategies, and it's really been paying off! We had a great time at the LGBT pride event last month.",
+        "metadata": {}
+      }
+    ]
+  }
+]

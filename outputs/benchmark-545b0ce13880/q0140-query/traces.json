@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "fb463221-ab68-4f3c-bead-54cf4492fd5d",
+    "response": {
+      "id": "chatcmpl-EZkqcLRb93Ay1qvO2N7c85knJZSy3",
+      "object": "chat.completion",
+      "created": 1792190270,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"poetry reading attended by Caroline\",\"property\":\"theme\",\"search\":\"search for description or summary of the poetry reading event Caroline attended to identify the subject or main topics covered\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2681,
+        "completion_tokens": 45,
+        "total_tokens": 2726,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_5002831302"
+    },
+    "latency_seconds": 4.037238583
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "1f1dd3e4-d238-4c8b-b02a-5f591440be92",
+    "response": {
+      "id": "chatcmpl-EZkqhgdnUyWUd6WsxbnF12le9gmED",
+      "object": "chat.completion",
+      "created": 1792190275,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"The poetry reading Caroline attended was a transgender poetry reading where transgender people shared their stories through poetry. It was a safe and empowering space for self-expression and celebrating transgender identities.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_17::episode-003\",\"turn_id\":\"D17:19\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 4167,
+        "completion_tokens": 70,
+        "total_tokens": 4237,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_38f508f26a"
+    },
+    "latency_seconds": 4.430342292
+  }
+]

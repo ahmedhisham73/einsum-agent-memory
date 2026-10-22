@@ -1,0 +1,35 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Caroline",
+      "property": "intent",
+      "search": "Caroline intent to create place for people"
+    },
+    {
+      "entity": "Caroline",
+      "property": "vision_for_family",
+      "search": "Caroline vision for place to create for people"
+    },
+    {
+      "entity": "Caroline",
+      "property": "values_support",
+      "search": "Caroline values regarding place to create"
+    },
+    {
+      "entity": "Caroline",
+      "property": "desired_trait",
+      "search": "Traits Caroline wants in the place for people"
+    },
+    {
+      "entity": "Caroline",
+      "property": "atmosphere",
+      "search": "Atmosphere Caroline wants to create for people"
+    },
+    {
+      "entity": "Caroline",
+      "property": "goal",
+      "search": "Goal Caroline has for place to create for people"
+    }
+  ]
+}

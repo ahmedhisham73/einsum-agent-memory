@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-26::q0112",
+  "category": 4,
+  "question": "What creative project do Mel and her kids do together besides pottery?",
+  "gold_answer": "painting",
+  "status": "failed",
+  "error": "Query failed. See q0112.log"
+}

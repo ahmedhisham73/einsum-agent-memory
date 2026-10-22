@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0077",
+  "category": 1,
+  "question": "When did Melanie go on a hike after the roadtrip?",
+  "gold_answer": "19 October 2023",
+  "status": "scored",
+  "generated_answer": "Melanie went on a hike with her family the day after their road trip, specifically on 19 October 2023.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_18::chunk-0015",
+      "turn_id": "D18:17"
+    }
+  ],
+  "query_elapsed_seconds": 4.1474305000000005,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer correctly identifies the date of the hike as 19 October 2023, aligning with the reference answer."
+}

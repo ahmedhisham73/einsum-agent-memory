@@ -1,0 +1,90 @@
+[
+  {
+    "episode_id": "conv-26::session_18::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_18",
+    "observed_at": "2023-10-20T18:55:00",
+    "source_timestamp": "6:55 pm on 20 October, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Discussion about the son's car accident and its impact",
+    "turns": [
+      {
+        "turn_id": "D18:1",
+        "speaker": "Melanie",
+        "text": "Hey Caroline, that roadtrip this past weekend was insane! We were all freaked when my son got into an accident. We were so lucky he was okay. It was a real scary experience. Thankfully it's over now. What's been up since we last talked?",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/dl8dki2hm3k81.jpg"
+          ],
+          "blip_caption": "a photo of a car dashboard with a white cloth and a steering wheel",
+          "query": "car accident damaged car airbags deployed roadtrip"
+        }
+      },
+      {
+        "turn_id": "D18:2",
+        "speaker": "Caroline",
+        "text": "Oops, sorry 'bout the accident! Must have been traumatizing for you guys. Thank goodness your son's okay. Life sure can be a roller coaster.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:3",
+        "speaker": "Melanie",
+        "text": "Yeah, our trip got off to a bad start. I was really scared when we got into the accident. Thankfully, my son's ok and that was a reminder that life is precious and to cherish our family.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:4",
+        "speaker": "Caroline",
+        "text": "Glad your son is okay, Melanie. Life's unpredictable, but moments like these remind us how important our loved ones are. Family's everything.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_18::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_18",
+    "observed_at": "2023-10-20T18:55:00",
+    "source_timestamp": "6:55 pm on 20 October, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Reflection on family importance and children's resilience after the accident",
+    "turns": [
+      {
+        "turn_id": "D18:5",
+        "speaker": "Melanie",
+        "text": "Yeah, you're right, Caroline. Family's super important to me. Especially after the accident, I've thought a lot about how much I need them. They mean the world to me and I'm so thankful to have them. Thankfully, they enjoyed the Grand Canyon a lot!",
+        "metadata": {
+          "img_url": [
+            "https://familyadventuresva.files.wordpress.com/2022/03/img_5030.jpg"
+          ],
+          "blip_caption": "a photo of two children standing on a rocky cliff overlooking a canyon",
+          "query": "grand canyon family photo"
+        }
+      },
+      {
+        "turn_id": "D18:6",
+        "speaker": "Caroline",
+        "text": "The kids look so cute, Mel! I bet they bring lots of joy. How did they handle the accident?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:7",
+        "speaker": "Melanie",
+        "text": "Thanks! They were scared but we reassured them and explained their brother would be OK. They're tough kids.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:8",
+        "speaker": "Caroline",
+        "text": "Kids are amazingly resilient in tough situations. They have an amazing ability to bounce back.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:9",
+        "speaker": "Melanie",
+        "text": "They're really amazing. Wish I was that resilient too. But they give me the strength to keep going.",
+        "metadata": {}
+      }
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0009",
+  "category": 2,
+  "question": "When did Caroline give a speech at a school?",
+  "gold_answer": "The week before 9 June 2023",
+  "status": "scored",
+  "generated_answer": "Caroline gave a speech at a school event last week before June 9, 2023, where she talked about her transgender journey and encouraged students to get involved in the LGBTQ community.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_3::chunk-0000",
+      "turn_id": "D3:1"
+    }
+  ],
+  "query_elapsed_seconds": 4.554008292000001,
+  "label": "CORRECT",
+  "judge_reason": "Both answers indicate the event occurred the week before June 9, 2023, which identifies the same time frame."
+}

@@ -1,0 +1,41 @@
+{
+  "question_id": "conv-26::q0043",
+  "category": 3,
+  "question": "Would Melanie be more interested in going to a national park or a theme park?",
+  "gold_answer": "National park; she likes the outdoors",
+  "status": "scored",
+  "generated_answer": "Melanie would be more interested in going to a national park. She enjoys camping, hiking, exploring nature, roasting marshmallows around the campfire, and spending quality peaceful time outdoors with her family, as evidenced by multiple mentions of camping trips, hiking in the mountains and forests, and family bonding in nature settings. There is no mention of an interest in theme parks.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_4::episode-002",
+      "turn_id": "D4:6"
+    },
+    {
+      "episode_id": "conv-26::session_4::episode-002",
+      "turn_id": "D4:8"
+    },
+    {
+      "episode_id": "conv-26::session_8::episode-004",
+      "turn_id": "D8:32"
+    },
+    {
+      "episode_id": "conv-26::session_8::episode-004",
+      "turn_id": "D8:34"
+    },
+    {
+      "episode_id": "conv-26::session_10::episode-002",
+      "turn_id": "D10:12"
+    },
+    {
+      "episode_id": "conv-26::session_18::episode-004",
+      "turn_id": "D18:19"
+    },
+    {
+      "episode_id": "conv-26::session_18::episode-004",
+      "turn_id": "D18:21"
+    }
+  ],
+  "query_elapsed_seconds": 7.847277042000001,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer provides detailed reasons for why Melanie would prefer a national park, aligning with the reference answer."
+}

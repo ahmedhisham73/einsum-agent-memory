@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0103",
+  "category": 4,
+  "question": "What kind of books does Caroline have in her library?",
+  "gold_answer": "kids' books - classics, stories from different cultures, educational books",
+  "status": "scored",
+  "generated_answer": "Caroline has a library of children's books including classics, stories from different cultures, and educational books.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_6::chunk-0005",
+      "turn_id": "D6:9"
+    }
+  ],
+  "query_elapsed_seconds": 4.37337225,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer accurately lists the types of books Caroline has in her library, matching the reference answer."
+}

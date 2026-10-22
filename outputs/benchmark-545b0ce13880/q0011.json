@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0011",
+  "category": 2,
+  "question": "How long has Caroline had her current group of friends for?",
+  "gold_answer": "4 years",
+  "status": "scored",
+  "generated_answer": "Caroline has had her current group of friends for 4 years since she moved from her home country.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_3::episode-002",
+      "turn_id": "D3:13"
+    }
+  ],
+  "query_elapsed_seconds": 4.3672135,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer provides the correct time frame of 4 years and adds context that does not contradict the reference."
+}

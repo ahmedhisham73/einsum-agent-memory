@@ -1,0 +1,20 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Caroline",
+      "property": "group_name",
+      "search": "Caroline current group of friends"
+    },
+    {
+      "entity": "Caroline",
+      "property": "membership_description",
+      "search": "duration Caroline has been with current group of friends"
+    },
+    {
+      "entity": "Caroline",
+      "property": "relationship_support_experience",
+      "search": "mentions of Caroline's friendships duration and support from group"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Melanie",
+      "property": "favorite_music",
+      "search": "Melanie favorite music preferences"
+    },
+    {
+      "entity": "Melanie",
+      "property": "music_role",
+      "search": "Melanie engagement or experience with music"
+    },
+    {
+      "entity": "Melanie",
+      "property": "activity_enjoyment",
+      "search": "Melanie enjoyment of listening to music or classical music"
+    },
+    {
+      "entity": "Melanie",
+      "property": "emotion_towards_special_moments_together",
+      "search": "Melanie emotional response to music or similar artistic experiences"
+    },
+    {
+      "entity": "Melanie",
+      "property": "song_emotional_effect",
+      "search": "Emotional effect of the song 'The Four Seasons' on listeners additionally on Melanie if available"
+    }
+  ]
+}

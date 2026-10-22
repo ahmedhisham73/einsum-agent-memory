@@ -1,0 +1,309 @@
+[
+  {
+    "episode_id": "conv-26::session_4::chunk-0000",
+    "session_id": "session_4",
+    "observed_at": "2023-06-27T10:37:00",
+    "source_timestamp": "10:37 am on 27 June, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D4:1",
+        "speaker": "Caroline",
+        "text": "Hey Melanie! Long time no talk! A lot's been going on in my life! Take a look at this.",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/67uas3gnmz7b1.jpg"
+          ],
+          "blip_caption": "a photo of a person holding a necklace with a cross and a heart",
+          "query": "pendant transgender symbol"
+        }
+      },
+      {
+        "turn_id": "D4:2",
+        "speaker": "Melanie",
+        "text": "Hey, Caroline! Nice to hear from you! Love the necklace, any special meaning to it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:3",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! This necklace is super special to me - a gift from my grandma in my home country, Sweden. She gave it to me when I was young, and it stands for love, faith and strength. It's like a reminder of my roots and all the love and support I get from my family.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:4",
+        "speaker": "Melanie",
+        "text": "That's gorgeous, Caroline! It's awesome what items can mean so much to us, right? Got any other objects that you treasure, like that necklace?",
+        "metadata": {
+          "blip_caption": "a photo of a stack of bowls with different designs on them"
+        }
+      },
+      {
+        "turn_id": "D4:5",
+        "speaker": "Caroline",
+        "text": "Yep, Melanie! I've got some other stuff with sentimental value, like my hand-painted bowl. A friend made it for my 18th birthday ten years ago. The pattern and colors are awesome-- it reminds me of art and self-expression.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:6",
+        "speaker": "Melanie",
+        "text": "That sounds great, Caroline! It's awesome having stuff around that make us think of good connections and times. Actually, I just took my fam camping in the mountains last week - it was a really nice time together!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_6::chunk-0000",
+    "session_id": "session_6",
+    "observed_at": "2023-07-06T20:18:00",
+    "source_timestamp": "8:18 pm on 6 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D6:1",
+        "speaker": "Caroline",
+        "text": "Hey Mel! Long time no talk. Lots has been going on since then!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:2",
+        "speaker": "Melanie",
+        "text": "Hey Caroline! Missed you. Anything new? Spill the beans!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:3",
+        "speaker": "Caroline",
+        "text": "Since our last chat, I've been looking into counseling or mental health work more. I'm passionate about helping people and making a positive impact. It's tough, but really rewarding too. Anything new happening with you?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:4",
+        "speaker": "Melanie",
+        "text": "That's awesome, Caroline! Congrats on following your dreams. Yesterday I took the kids to the museum - it was so cool spending time with them and seeing their eyes light up!",
+        "metadata": {
+          "img_url": [
+            "https://live.staticflickr.com/3201/2867258131_2d8bc22859_b.jpg"
+          ],
+          "blip_caption": "a photography of two children playing in a water play area",
+          "query": "kids laughing dinosaur exhibit museum",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D6:5",
+        "speaker": "Caroline",
+        "text": "Melanie, that's a great pic! That must have been awesome. What were they so stoked about?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:6",
+        "speaker": "Melanie",
+        "text": "They were stoked for the dinosaur exhibit! They love learning about animals and the bones were so cool. It reminds me why I love being a mom.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_9::chunk-0015",
+    "session_id": "session_9",
+    "observed_at": "2023-07-17T14:31:00",
+    "source_timestamp": "2:31 pm on 17 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D9:16",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! I painted this after I visited a LGBTQ center. I wanted to capture everyone's unity and strength.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:17",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! It really conveys unity and strength - such a gorgeous piece! My kids and I just finished another painting like our last one.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_11::chunk-0005",
+    "session_id": "session_11",
+    "observed_at": "2023-08-14T14:24:00",
+    "source_timestamp": "2:24 pm on 14 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D11:6",
+        "speaker": "Caroline",
+        "text": "It was so inspiring, Mel! Check out the crowd. People of all kinds celebrating love and acceptance - it really pushed me to keep fighting for LGBTQ rights.",
+        "metadata": {
+          "img_url": [
+            "https://cloudfront-us-east-1.images.arcpublishing.com/opb/35SV3NIC4ZBRTLDGHUJ5QWU5WY.jpg"
+          ],
+          "blip_caption": "a photo of a group of people walking down a street with balloons",
+          "query": "pride parade crowd"
+        }
+      },
+      {
+        "turn_id": "D11:7",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! That sounds awesome. This pic's from last night - looks like everyone was having a blast! Reminds me it's important to cultivate a loving and accepting environment for our kids. How do you stay inclusive in your work as an artist?",
+        "metadata": {
+          "img_url": [
+            "https://livingmividaloca.com/wp-content/uploads/2023/06/anaheim-town-square-concert.jpg"
+          ],
+          "blip_caption": "a photo of a group of people sitting on chairs watching a band",
+          "query": "outdoor concert family loving accepting environment"
+        }
+      },
+      {
+        "turn_id": "D11:8",
+        "speaker": "Caroline",
+        "text": "That pic is cool! Representing inclusivity and diversity in my art is important to me. I also use it to speak up for the LGBTQ+ community and push for acceptance. Here's a recent painting!",
+        "metadata": {
+          "img_url": [
+            "https://www.dawnsilerart.com/wp-content/uploads/sites/3130/2020/11/YCNHTMC-CU9.jpg"
+          ],
+          "blip_caption": "a photo of a painting with a painting brush and paint on it",
+          "query": "painting vibrant colors diverse representation"
+        }
+      },
+      {
+        "turn_id": "D11:9",
+        "speaker": "Melanie",
+        "text": "Wow, that rocks! What's the main idea of your art?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:10",
+        "speaker": "Caroline",
+        "text": "My art is about expressing my trans experience. It's my way of showing my story and helping people understand the trans community.",
+        "metadata": {
+          "blip_caption": "a photo of a painting of a woman with a cow in her lap"
+        }
+      },
+      {
+        "turn_id": "D11:11",
+        "speaker": "Melanie",
+        "text": "Your art's amazing, Caroline. I love how you use it to tell your stories and teach people about trans folks. I'd love to see another painting of yours!",
+        "metadata": {
+          "blip_caption": "a photo of a person holding a purple bowl in their hand"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_12::chunk-0000",
+    "session_id": "session_12",
+    "observed_at": "2023-08-17T13:50:00",
+    "source_timestamp": "1:50 pm on 17 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D12:1",
+        "speaker": "Caroline",
+        "text": "Hey Mel! How're ya doin'? Recently, I had a not-so-great experience on a hike. I ran into a group of religious conservatives who said something that really upset me. It made me think how much work we still have to do for LGBTQ rights. It's been so helpful to have people around me who accept and support me, so I know I'll be ok!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:2",
+        "speaker": "Melanie",
+        "text": "Hey Caroline, sorry about the hike. It sucks when people are so closed-minded. Strong support really helps. FYI, I finished another pottery project - want to see a pic?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:3",
+        "speaker": "Caroline",
+        "text": "Sure thing, Melanie! Can't wait to see your pottery project.  I'm happy you found something that makes you happy. Show me when you can!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:4",
+        "speaker": "Melanie",
+        "text": "Here it is. Pretty proud of it! It was a great experience. Thoughts?",
+        "metadata": {
+          "img_url": [
+            "https://omceramic.com/cdn/shop/products/IMG_0022.jpg"
+          ],
+          "blip_caption": "a photo of a bowl with a colorful design on it",
+          "query": "pottery project ceramic bowl"
+        }
+      },
+      {
+        "turn_id": "D12:5",
+        "speaker": "Caroline",
+        "text": "That bowl is awesome, Mel! What gave you the idea for all the colors and patterns?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:6",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! I'm obsessed with those, so I made something to catch the eye and make people smile. Plus, painting helps me express my feelings and be creative. Each stroke carries a part of me.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_14::chunk-0015",
+    "session_id": "session_14",
+    "observed_at": "2023-08-25T13:33:00",
+    "source_timestamp": "1:33 pm on 25 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D14:16",
+        "speaker": "Melanie",
+        "text": "I'm in awe of your courage as a trans person. Have you made any more art lately?",
+        "metadata": {
+          "blip_caption": "a photo of a stained glass window with a person holding a key"
+        }
+      },
+      {
+        "turn_id": "D14:17",
+        "speaker": "Caroline",
+        "text": "Thanks, Mel! I made this stained glass window to remind myself and others that within us all is the key to discovering our true potential and living our best life.",
+        "metadata": {
+          "img_url": [
+            "https://projects.history.qmul.ac.uk/thehistorian/wp-content/uploads/sites/24/2017/10/IMG_20170922_072615_165.jpg"
+          ],
+          "blip_caption": "a photo of three stained glass windows in a church with a clock",
+          "query": "stained glass window letter"
+        }
+      },
+      {
+        "turn_id": "D14:18",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, that looks amazing! What inspired it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:19",
+        "speaker": "Caroline",
+        "text": "Thanks! It was made for a local church and shows time changing our lives. I made it to show my own journey as a transgender woman and how we should accept growth and change.",
+        "metadata": {
+          "blip_caption": "a photo of a large stained glass window in a church"
+        }
+      },
+      {
+        "turn_id": "D14:20",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline!  All those colors are incredible and the story it tells is so inspiring.",
+        "metadata": {
+          "blip_caption": "a photo of a door with a stained glass window and a coat rack"
+        }
+      },
+      {
+        "turn_id": "D14:21",
+        "speaker": "Caroline",
+        "text": "Thanks, Mel! Glad you like it. It's a symbol of togetherness, to celebrate differences and be that much closer. I'd love to make something like this next!",
+        "metadata": {
+          "img_url": [
+            "https://i0.wp.com/marbleheadcurrent.org/wp-content/uploads/2023/07/rainbow.jpg"
+          ],
+          "blip_caption": "a photo of a painted sidewalk with a rainbow design on it",
+          "query": "painting rainbow flag unity acceptance"
+        }
+      }
+    ]
+  }
+]

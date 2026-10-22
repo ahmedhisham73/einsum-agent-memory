@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "3866d8af-6a49-4590-a0e8-f7a8ad096883",
+    "response": {
+      "id": "chatcmpl-EZj1ECK7nvE39hiKKThmfHczulhmY",
+      "object": "chat.completion",
+      "created": 1792183240,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Caroline\",\"property\":\"had_activity\",\"search\":\"Caroline had a picnic\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2678,
+        "completion_tokens": 27,
+        "total_tokens": 2705,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f111b06a9"
+    },
+    "latency_seconds": 1.742592958
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "a3d4dc7f-c2d9-4e42-bfe1-88c8b24c2477",
+    "response": {
+      "id": "chatcmpl-EZj1GKeTCVh4hX85nYN9NAMo1EJnM",
+      "object": "chat.completion",
+      "created": 1792183242,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Caroline had a picnic last week as mentioned on 6 July, 2023.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_6::episode-004\",\"turn_id\":\"D6:11\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3337,
+        "completion_tokens": 54,
+        "total_tokens": 3391,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_38f508f26a"
+    },
+    "latency_seconds": 1.409693334
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "grandma",
+      "property": "gifted_by",
+      "search": "grandma gift to Caroline"
+    },
+    {
+      "entity": "grandma's gift",
+      "property": "value",
+      "search": "describe grandma's gift to Caroline"
+    },
+    {
+      "entity": "grandma's gift",
+      "property": "description",
+      "search": "details about grandma's gift to Caroline"
+    }
+  ]
+}

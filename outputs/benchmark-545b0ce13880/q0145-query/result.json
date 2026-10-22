@@ -1,0 +1,29 @@
+{
+  "status": "completed",
+  "experiment_id": "q0145-query",
+  "memory_build": "offline-memory-a5e48166f56e",
+  "embedding_fingerprint": "264e45d8331b217a87fc15e35db2c614b32e9c572d0bbb53fe9bcc90dda3a8a6",
+  "question": "How did Melanie's son handle the accident?",
+  "answer": "Melanie's son was involved in the accident but was okay afterward. Melanie's other children were scared but were reassured and explained that their brother would be okay. Overall, Melanie describes her kids as tough and resilient, implying her son handled the accident without severe distress.",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-26::session_18::episode-001",
+      "turn_id": "D18:1"
+    },
+    {
+      "episode_id": "conv-26::session_18::episode-001",
+      "turn_id": "D18:3"
+    },
+    {
+      "episode_id": "conv-26::session_18::episode-002",
+      "turn_id": "D18:7"
+    }
+  ],
+  "elapsed_seconds": 4.318412374999999,
+  "implementation": {
+    "structured_matching": "literal entity / property-token overlap",
+    "all_matching": "all episodes; no optimized exhaustive retrieval",
+    "coverage": "answer-model sufficiency check with expansion"
+  }
+}

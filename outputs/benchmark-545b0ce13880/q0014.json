@@ -1,0 +1,29 @@
+{
+  "question_id": "conv-26::q0014",
+  "category": 1,
+  "question": "What career path has Caroline decided to persue?",
+  "gold_answer": "counseling or mental health for Transgender people",
+  "status": "scored",
+  "generated_answer": "Caroline has decided to pursue a career in counseling and mental health, focusing on helping people, especially trans individuals, support their mental health and acceptance.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_4::episode-003",
+      "turn_id": "D4:11"
+    },
+    {
+      "episode_id": "conv-26::session_4::episode-003",
+      "turn_id": "D4:13"
+    },
+    {
+      "episode_id": "conv-26::session_5::episode-001",
+      "turn_id": "D5:3"
+    },
+    {
+      "episode_id": "conv-26::session_7::episode-001",
+      "turn_id": "D7:5"
+    }
+  ],
+  "query_elapsed_seconds": 5.200234,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer correctly identifies Caroline's career path as counseling or mental health for Transgender people, aligning with the reference."
+}

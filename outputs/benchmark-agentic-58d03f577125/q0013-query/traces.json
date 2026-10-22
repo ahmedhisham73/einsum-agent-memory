@@ -1,0 +1,125 @@
+[
+  {
+    "stage": "agent_decision",
+    "call_id": "64deb835-3e26-4389-9de4-84bae137e8c3",
+    "response": {
+      "id": "chatcmpl-EZqGWVITuDJHrl6swTbD7xdLm4r4Z",
+      "object": "chat.completion",
+      "created": 1792211096,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"search\",\"query\":\"Caroline's 18th birthday date\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 152,
+        "completion_tokens": 16,
+        "total_tokens": 168,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f810e81ea"
+    },
+    "latency_seconds": 1.0362790830000002
+  },
+  {
+    "stage": "agent_decision",
+    "call_id": "55180a98-fa18-4d4c-9626-59ce7c074aba",
+    "response": {
+      "id": "chatcmpl-EZqGZAxpLjJ3cXiXVOdfe1rcGiBWt",
+      "object": "chat.completion",
+      "created": 1792211099,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"ready\",\"reason\":\"No direct evidence found on Caroline's birthdate or 18th birthday timing in available conversation chunks. However, no details mentioning Caroline's age or birthday date to calculate how long ago her 18th birthday was.\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2637,
+        "completion_tokens": 51,
+        "total_tokens": 2688,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f810e81ea"
+    },
+    "latency_seconds": 1.5957188750000002
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "de501450-34c2-4e37-8026-0c282871c2da",
+    "response": {
+      "id": "chatcmpl-EZqGaaeqyTp3SFCX6w0CcRC4bnfuw",
+      "object": "chat.completion",
+      "created": 1792211100,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Caroline's 18th birthday was 5 years ago from June 9, 2023.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_3::chunk-0015\",\"turn_id\":\"D3:16\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2622,
+        "completion_tokens": 58,
+        "total_tokens": 2680,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_802f1283f8"
+    },
+    "latency_seconds": 1.5060910830000003
+  }
+]

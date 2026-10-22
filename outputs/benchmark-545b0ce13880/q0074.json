@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0074",
+  "category": 2,
+  "question": "When did Melanie get hurt?",
+  "gold_answer": "September 2023",
+  "status": "scored",
+  "generated_answer": "Melanie did not get hurt; it was Melanie's son who got into an accident this past weekend before October 20, 2023.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_18::episode-001",
+      "turn_id": "D18:1"
+    }
+  ],
+  "query_elapsed_seconds": 8.588082333000001,
+  "label": "WRONG",
+  "judge_reason": "The generated answer incorrectly states that Melanie did not get hurt, contradicting the reference answer which specifies a time frame in September 2023."
+}

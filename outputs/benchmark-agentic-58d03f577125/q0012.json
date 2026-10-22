@@ -1,0 +1,12 @@
+{
+  "question_id": "conv-26::q0012",
+  "category": 1,
+  "question": "Where did Caroline move from 4 years ago?",
+  "gold_answer": "Sweden",
+  "status": "scored",
+  "generated_answer": "Unknown",
+  "citations": [],
+  "query_elapsed_seconds": 7.033303666,
+  "label": "WRONG",
+  "judge_reason": "The generated answer fails to provide the required information about where Caroline moved from four years ago."
+}

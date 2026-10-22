@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0147",
+  "category": 4,
+  "question": "How did Melanie's children handle the accident?",
+  "gold_answer": "They were scared but resilient",
+  "status": "scored",
+  "generated_answer": "Melanie said her children were scared but she and her family reassured them and explained that their brother would be OK. She described them as tough kids who were amazingly resilient and gave her strength to keep going.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_18::chunk-0005",
+      "turn_id": "D18:7"
+    }
+  ],
+  "query_elapsed_seconds": 6.42781275,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer accurately reflects that Melanie's children were scared but also describes their resilience, matching the reference answer's essence."
+}

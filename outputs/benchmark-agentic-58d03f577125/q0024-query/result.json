@@ -1,0 +1,27 @@
+{
+  "status": "completed",
+  "experiment_id": "q0024-query",
+  "memory_build": "offline-memory-a5e48166f56e",
+  "baseline_build": "agentic-build-300877917378",
+  "question": "What books has Melanie read?",
+  "answer": "Melanie has read a book that reminded her to always pursue her dreams, which she mentioned in a conversation. The specific title of that book is not provided.",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-26::session_7::chunk-0005",
+      "turn_id": "D7:8"
+    }
+  ],
+  "elapsed_seconds": 4.5584925,
+  "stop_reason": "agent_ready",
+  "search_count": 1,
+  "selected_chunks": 6,
+  "unique_source_turns": 33,
+  "implementation": {
+    "chunk_turns": 6,
+    "overlap_turns": 1,
+    "top_k_per_search": 6,
+    "max_searches": 4,
+    "max_agent_decisions": 5
+  }
+}

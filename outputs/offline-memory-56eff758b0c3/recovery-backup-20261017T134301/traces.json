@@ -1,0 +1,1178 @@
+[
+  {
+    "source_id": "session_1",
+    "stage": "episode_partitioning",
+    "call_id": "fa075b6d-68fd-4f11-857e-a5024d5beef7",
+    "latency_seconds": 2.378998083,
+    "response": {
+      "id": "chatcmpl-EZrKmMjeZeVV7YrVWiiVaVQnI0Wnp",
+      "object": "chat.completion",
+      "created": 1792215204,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D1:1\",\n      \"end_turn_id\": \"D1:3\",\n      \"theme\": \"Reunion and sharing recent activities\"\n    },\n    {\n      \"start_turn_id\": \"D1:4\",\n      \"end_turn_id\": \"D1:7\",\n      \"theme\": \"Nate's video game tournament victory details\"\n    },\n    {\n      \"start_turn_id\": \"D1:8\",\n      \"end_turn_id\": \"D1:11\",\n      \"theme\": \"Discussion of hobbies and interests\"\n    },\n    {\n      \"start_turn_id\": \"D1:12\",\n      \"end_turn_id\": \"D1:15\",\n      \"theme\": \"Favorite movie genres and exchange of preferences\"\n    },\n    {\n      \"start_turn_id\": \"D1:16\",\n      \"end_turn_id\": \"D1:20\",\n      \"theme\": \"Joanna recommends and discusses a favorite movie\"\n    },\n    {\n      \"start_turn_id\": \"D1:21\",\n      \"end_turn_id\": \"D1:22\",\n      \"theme\": \"Nate's acceptance and appreciation of movie recommendation\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1411,
+        "completion_tokens": 256,
+        "total_tokens": 1667,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_2",
+    "stage": "episode_partitioning",
+    "call_id": "6100a3d2-ded2-4e68-af02-7da73d2b3050",
+    "latency_seconds": 2.077895916,
+    "response": {
+      "id": "chatcmpl-EZrKpP3NNC9pCHiAJGeOXIF0fjLwv",
+      "object": "chat.completion",
+      "created": 1792215207,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D2:1\",\n      \"end_turn_id\": \"D2:9\",\n      \"theme\": \"Joanna shares news about completing her screenplay and upcoming plans\"\n    },\n    {\n      \"start_turn_id\": \"D2:10\",\n      \"end_turn_id\": \"D2:14\",\n      \"theme\": \"Nate talks about his pet turtles and their calming effect\"\n    },\n    {\n      \"start_turn_id\": \"D2:15\",\n      \"end_turn_id\": \"D2:20\",\n      \"theme\": \"Discussion about pets, allergies, and Nate's social experiences at a tournament\"\n    },\n    {\n      \"start_turn_id\": \"D2:21\",\n      \"end_turn_id\": \"D2:29\",\n      \"theme\": \"Joanna explains her allergies and focuses on writing and friendships for joy\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1862,
+        "completion_tokens": 194,
+        "total_tokens": 2056,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_3",
+    "stage": "episode_partitioning",
+    "call_id": "247d7594-5e80-43c4-97c9-7165963f16ef",
+    "latency_seconds": 2.3189494580000005,
+    "response": {
+      "id": "chatcmpl-EZrKr7QL2qC6CNdZz9uEAIFQEBe8C",
+      "object": "chat.completion",
+      "created": 1792215209,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D3:1\",\n      \"end_turn_id\": \"D3:3\",\n      \"theme\": \"Joanna's screenplay submission and emotional reflections\"\n    },\n    {\n      \"start_turn_id\": \"D3:4\",\n      \"end_turn_id\": \"D3:8\",\n      \"theme\": \"Nate's experience making homemade coconut milk ice cream\"\n    },\n    {\n      \"start_turn_id\": \"D3:9\",\n      \"end_turn_id\": \"D3:14\",\n      \"theme\": \"Discussion of dairy-free dessert flavors and Nate's baking talents\"\n    },\n    {\n      \"start_turn_id\": \"D3:15\",\n      \"end_turn_id\": \"D3:22\",\n      \"theme\": \"Movie recommendations and conversation about favorite films\"\n    },\n    {\n      \"start_turn_id\": \"D3:23\",\n      \"end_turn_id\": \"D3:25\",\n      \"theme\": \"Farewell and well-wishing\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1571,
+        "completion_tokens": 221,
+        "total_tokens": 1792,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_4",
+    "stage": "episode_partitioning",
+    "call_id": "b0a81e77-dda9-4772-8486-8ce7771e0cfa",
+    "latency_seconds": 1.6912364579999997,
+    "response": {
+      "id": "chatcmpl-EZrKtWjkBFrN2cPwK0Y2ffTiCc32X",
+      "object": "chat.completion",
+      "created": 1792215211,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D4:1\",\n      \"end_turn_id\": \"D4:9\",\n      \"theme\": \"Conversation about ice cream and sharing a dairy-free recipe\"\n    },\n    {\n      \"start_turn_id\": \"D4:10\",\n      \"end_turn_id\": \"D4:19\",\n      \"theme\": \"Discussion about Joanna's screenplay writing and personal inspiration\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1287,
+        "completion_tokens": 96,
+        "total_tokens": 1383,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_5",
+    "stage": "episode_partitioning",
+    "call_id": "91c1d2f6-7a18-4f57-806c-52a006c29f13",
+    "latency_seconds": 2.4639666669999993,
+    "response": {
+      "id": "chatcmpl-EZrKvfPBSi6Ayqw9nlnW7RShMZARF",
+      "object": "chat.completion",
+      "created": 1792215213,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D5:1\",\n      \"end_turn_id\": \"D5:3\",\n      \"theme\": \"Joanna shares her feelings after finishing her second script\"\n    },\n    {\n      \"start_turn_id\": \"D5:4\",\n      \"end_turn_id\": \"D5:10\",\n      \"theme\": \"Nate talks about his pet turtles and their calming influence\"\n    },\n    {\n      \"start_turn_id\": \"D5:11\",\n      \"end_turn_id\": \"D5:13\",\n      \"theme\": \"Joanna discusses her allergies and inability to have pets, but stays interested\"\n    },\n    {\n      \"start_turn_id\": \"D5:14\",\n      \"end_turn_id\": \"D5:20\",\n      \"theme\": \"Discussion about Joanna's next steps with her script and Nate's encouragement\"\n    },\n    {\n      \"start_turn_id\": \"D5:21\",\n      \"end_turn_id\": \"D5:21\",\n      \"theme\": \"Joanna ends the conversation on a positive note\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 12657,
+        "completion_tokens": 236,
+        "total_tokens": 12893,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_6",
+    "stage": "episode_partitioning",
+    "call_id": "ab714047-8dbe-4d84-9632-94d0f1476ce1",
+    "latency_seconds": 1.4692984169999992,
+    "response": {
+      "id": "chatcmpl-EZrKxL5BZ8hkr6nWhfVaS6a1EXaDh",
+      "object": "chat.completion",
+      "created": 1792215215,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D6:1\",\n      \"end_turn_id\": \"D6:6\",\n      \"theme\": \"Catch-up conversation and Joanna's audition experience\"\n    },\n    {\n      \"start_turn_id\": \"D6:7\",\n      \"end_turn_id\": \"D6:12\",\n      \"theme\": \"Nate's video game tournament and writing advice exchange\"\n    },\n    {\n      \"start_turn_id\": \"D6:13\",\n      \"end_turn_id\": \"D6:13\",\n      \"theme\": \"Farewell\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1197,
+        "completion_tokens": 131,
+        "total_tokens": 1328,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_7",
+    "stage": "episode_partitioning",
+    "call_id": "16d77b25-9cd9-46b2-901a-66f759b27b96",
+    "latency_seconds": 1.928191708,
+    "response": {
+      "id": "chatcmpl-EZrKzhAgSsQJ0WskVmjcBoxrAbP2s",
+      "object": "chat.completion",
+      "created": 1792215217,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D7:1\",\n      \"end_turn_id\": \"D7:5\",\n      \"theme\": \"Nate shows Joanna his new purple hair and explains his choice\"\n    },\n    {\n      \"start_turn_id\": \"D7:6\",\n      \"end_turn_id\": \"D7:10\",\n      \"theme\": \"Joanna shares a sunset experience and discusses her busy writing project\"\n    },\n    {\n      \"start_turn_id\": \"D7:11\",\n      \"end_turn_id\": \"D7:13\",\n      \"theme\": \"Closing conversation and plans to meet again\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1017,
+        "completion_tokens": 142,
+        "total_tokens": 1159,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_8",
+    "stage": "episode_partitioning",
+    "call_id": "4187f1fa-b642-4c93-9414-1d6678d2431c",
+    "latency_seconds": 2.0588703340000016,
+    "response": {
+      "id": "chatcmpl-EZrL0fFfiOpXEK1XiENTtUKYtYh3F",
+      "object": "chat.completion",
+      "created": 1792215218,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D8:1\",\n      \"end_turn_id\": \"D8:3\",\n      \"theme\": \"Catching up and reminiscing about books\"\n    },\n    {\n      \"start_turn_id\": \"D8:4\",\n      \"end_turn_id\": \"D8:10\",\n      \"theme\": \"Discussing hiking and the calming effects of nature\"\n    },\n    {\n      \"start_turn_id\": \"D8:11\",\n      \"end_turn_id\": \"D8:12\",\n      \"theme\": \"Finding peace and happiness in small joys\"\n    },\n    {\n      \"start_turn_id\": \"D8:13\",\n      \"end_turn_id\": \"D8:15\",\n      \"theme\": \"Sharing moments with pets and peaceful activities\"\n    },\n    {\n      \"start_turn_id\": \"D8:16\",\n      \"end_turn_id\": \"D8:22\",\n      \"theme\": \"Sharing and exchanging a dairy-free ice cream recipe\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1555,
+        "completion_tokens": 219,
+        "total_tokens": 1774,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_9",
+    "stage": "episode_partitioning",
+    "call_id": "fa33227f-2123-4bfd-89d3-845846d2c09f",
+    "latency_seconds": 2.2125553749999973,
+    "response": {
+      "id": "chatcmpl-EZrL3Y7SEDMo9FEeGD3zI55SFt4Xq",
+      "object": "chat.completion",
+      "created": 1792215221,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D9:1\",\n      \"end_turn_id\": \"D9:3\",\n      \"theme\": \"Joanna shares news about joining a writers group and her current writing project\"\n    },\n    {\n      \"start_turn_id\": \"D9:4\",\n      \"end_turn_id\": \"D9:7\",\n      \"theme\": \"Nate discusses upcoming gaming tournament and they reminisce about Joanna's acting experience\"\n    },\n    {\n      \"start_turn_id\": \"D9:8\",\n      \"end_turn_id\": \"D9:11\",\n      \"theme\": \"Conversation about passions: writing, acting, and favorite movie genres\"\n    },\n    {\n      \"start_turn_id\": \"D9:12\",\n      \"end_turn_id\": \"D9:16\",\n      \"theme\": \"Discussion of favorite fantasy books and recommendations\"\n    },\n    {\n      \"start_turn_id\": \"D9:17\",\n      \"end_turn_id\": \"D9:18\",\n      \"theme\": \"Closing remarks and well wishes\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1721,
+        "completion_tokens": 232,
+        "total_tokens": 1953,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_10",
+    "stage": "episode_partitioning",
+    "call_id": "873a8c31-1297-479c-8167-65ed4ac1bf1d",
+    "latency_seconds": 1.7882360420000012,
+    "response": {
+      "id": "chatcmpl-EZrL5YRRQtGkbtM5Ewf5TcDyLsTsS",
+      "object": "chat.completion",
+      "created": 1792215223,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D10:1\",\n      \"end_turn_id\": \"D10:3\",\n      \"theme\": \"Discussion about watching The Lord of the Rings and Nate's gaming setup\"\n    },\n    {\n      \"start_turn_id\": \"D10:4\",\n      \"end_turn_id\": \"D10:8\",\n      \"theme\": \"Nate's gaming achievements and tournament experiences\"\n    },\n    {\n      \"start_turn_id\": \"D10:9\",\n      \"end_turn_id\": \"D10:15\",\n      \"theme\": \"Joanna's dairy-free dessert baking and creative pursuits\"\n    },\n    {\n      \"start_turn_id\": \"D10:16\",\n      \"end_turn_id\": \"D10:16\",\n      \"theme\": \"Farewell\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1315,
+        "completion_tokens": 178,
+        "total_tokens": 1493,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_11",
+    "stage": "episode_partitioning",
+    "call_id": "59c089ad-29e7-43bb-a6e7-66c74e61dcae",
+    "latency_seconds": 2.3218291660000006,
+    "response": {
+      "id": "chatcmpl-EZrL7ANSIMScRVD7zLfxPeKAoTXdo",
+      "object": "chat.completion",
+      "created": 1792215225,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D11:1\",\n      \"end_turn_id\": \"D11:3\",\n      \"theme\": \"Joanna shares an exciting hiking experience\"\n    },\n    {\n      \"start_turn_id\": \"D11:4\",\n      \"end_turn_id\": \"D11:7\",\n      \"theme\": \"Discussion about hiking photos and location\"\n    },\n    {\n      \"start_turn_id\": \"D11:8\",\n      \"end_turn_id\": \"D11:11\",\n      \"theme\": \"The calming and inspiring effects of nature\"\n    },\n    {\n      \"start_turn_id\": \"D11:12\",\n      \"end_turn_id\": \"D11:15\",\n      \"theme\": \"Nature as a source of creativity and personal reflection\"\n    },\n    {\n      \"start_turn_id\": \"D11:16\",\n      \"end_turn_id\": \"D11:20\",\n      \"theme\": \"Planning to hike together and shared interests\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1314,
+        "completion_tokens": 215,
+        "total_tokens": 1529,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_12",
+    "stage": "episode_partitioning",
+    "call_id": "92a400ac-5dd0-4eae-8a8c-e64c657c2a69",
+    "latency_seconds": 1.7106674999999996,
+    "response": {
+      "id": "chatcmpl-EZrLAnpAi6IaQUbhdTKkSqcnv81Iv",
+      "object": "chat.completion",
+      "created": 1792215228,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D12:1\",\n      \"end_turn_id\": \"D12:9\",\n      \"theme\": \"Catch-up and discussion about Nate's new pet dog Max\"\n    },\n    {\n      \"start_turn_id\": \"D12:10\",\n      \"end_turn_id\": \"D12:19\",\n      \"theme\": \"Joanna shares her creative work and writing journey, with Nate's encouragement\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1406,
+        "completion_tokens": 102,
+        "total_tokens": 1508,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_13",
+    "stage": "episode_partitioning",
+    "call_id": "43a30b00-3750-422c-a031-55335c5a1780",
+    "latency_seconds": 1.986515708999999,
+    "response": {
+      "id": "chatcmpl-EZrLCFQdwDRhVqLimrRucscJosNgG",
+      "object": "chat.completion",
+      "created": 1792215230,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D13:1\",\n      \"end_turn_id\": \"D13:8\",\n      \"theme\": \"Meeting new neighbors and pet friendships\"\n    },\n    {\n      \"start_turn_id\": \"D13:9\",\n      \"end_turn_id\": \"D13:15\",\n      \"theme\": \"Sharing a cute stuffed animal gift and appreciating small joys\"\n    },\n    {\n      \"start_turn_id\": \"D13:16\",\n      \"end_turn_id\": \"D13:23\",\n      \"theme\": \"Reflection on cherishing happy moments and mutual support\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1486,
+        "completion_tokens": 136,
+        "total_tokens": 1622,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_14",
+    "stage": "episode_partitioning",
+    "call_id": "b04b597f-648c-4d2c-a7cb-6cdd8f605e27",
+    "latency_seconds": 1.994564167,
+    "response": {
+      "id": "chatcmpl-EZrLDoKHXhFlWJEwBFvHViyZTWY08",
+      "object": "chat.completion",
+      "created": 1792215231,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D14:1\",\n      \"end_turn_id\": \"D14:7\",\n      \"theme\": \"Joanna shares screenplay rejection and receives encouragement\"\n    },\n    {\n      \"start_turn_id\": \"D14:8\",\n      \"end_turn_id\": \"D14:13\",\n      \"theme\": \"Nate discusses his recent video game tournament success\"\n    },\n    {\n      \"start_turn_id\": \"D14:14\",\n      \"end_turn_id\": \"D14:17\",\n      \"theme\": \"Nate talks about socializing and helping fellow gamers\"\n    },\n    {\n      \"start_turn_id\": \"D14:18\",\n      \"end_turn_id\": \"D14:27\",\n      \"theme\": \"Weekend plans discussion and party preparations\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1576,
+        "completion_tokens": 178,
+        "total_tokens": 1754,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_15",
+    "stage": "episode_partitioning",
+    "call_id": "a5775e19-de1d-43ae-a236-6684b7d3b47a",
+    "latency_seconds": 2.0170865839999976,
+    "response": {
+      "id": "chatcmpl-EZrLF1XAyGTvcfgzjCFyjIusAAQmJ",
+      "object": "chat.completion",
+      "created": 1792215233,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D15:1\",\n      \"end_turn_id\": \"D15:3\",\n      \"theme\": \"Joanna shares excitement about her screenplay debut and discusses favorite superheroes\"\n    },\n    {\n      \"start_turn_id\": \"D15:4\",\n      \"end_turn_id\": \"D15:6\",\n      \"theme\": \"Nate talks about his favorite superhero Iron Man and the inspiration from a figure\"\n    },\n    {\n      \"start_turn_id\": \"D15:7\",\n      \"end_turn_id\": \"D15:13\",\n      \"theme\": \"Joanna describes her inspirational cork board and the importance of family support\"\n    },\n    {\n      \"start_turn_id\": \"D15:14\",\n      \"end_turn_id\": \"D15:17\",\n      \"theme\": \"Nate considers starting a cork board and they exchange goodbyes\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1363,
+        "completion_tokens": 198,
+        "total_tokens": 1561,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_16",
+    "stage": "episode_partitioning",
+    "call_id": "3cf81faf-d10e-4928-ac07-b459cac2da23",
+    "latency_seconds": 1.4796540419999964,
+    "response": {
+      "id": "chatcmpl-EZrLHxexQeVcmS8X2fEdSBZSrSaUr",
+      "object": "chat.completion",
+      "created": 1792215235,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D16:1\",\n      \"end_turn_id\": \"D16:7\",\n      \"theme\": \"Catch-up conversation about recent activities and gaming party\"\n    },\n    {\n      \"start_turn_id\": \"D16:8\",\n      \"end_turn_id\": \"D16:16\",\n      \"theme\": \"Discussion about vegan ice cream recipe and sharing plans\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1108,
+        "completion_tokens": 95,
+        "total_tokens": 1203,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_17",
+    "stage": "episode_partitioning",
+    "call_id": "3eedd4fb-2e75-4467-b1e5-19f488df2af5",
+    "latency_seconds": 2.5382555420000017,
+    "response": {
+      "id": "chatcmpl-EZrLJ0jUzJEwdNvJPy3fcMudU1Mwk",
+      "object": "chat.completion",
+      "created": 1792215237,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D17:1\",\n      \"end_turn_id\": \"D17:3\",\n      \"theme\": \"Nate shares video game tournament victory; Joanna mentions her road trip\"\n    },\n    {\n      \"start_turn_id\": \"D17:4\",\n      \"end_turn_id\": \"D17:8\",\n      \"theme\": \"Joanna describes her visit to Woodhaven and discovery of historical books\"\n    },\n    {\n      \"start_turn_id\": \"D17:9\",\n      \"end_turn_id\": \"D17:13\",\n      \"theme\": \"Mutual encouragement and support for each other's creative work\"\n    },\n    {\n      \"start_turn_id\": \"D17:14\",\n      \"end_turn_id\": \"D17:20\",\n      \"theme\": \"Joanna discusses her new book project and its themes, with Nate's enthusiasm\"\n    },\n    {\n      \"start_turn_id\": \"D17:21\",\n      \"end_turn_id\": \"D17:21\",\n      \"theme\": \"Nate offers final encouragement and expresses belief in Joanna's talent\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1646,
+        "completion_tokens": 242,
+        "total_tokens": 1888,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_18",
+    "stage": "episode_partitioning",
+    "call_id": "fad75ec5-93ee-4393-8477-8860d54df599",
+    "latency_seconds": 1.7243772500000034,
+    "response": {
+      "id": "chatcmpl-EZrLMK2UsSxLZyB36wLBos8rrfxXh",
+      "object": "chat.completion",
+      "created": 1792215240,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D18:1\",\n      \"end_turn_id\": \"D18:7\",\n      \"theme\": \"Joanna shares her passion for writing and its personal impact\"\n    },\n    {\n      \"start_turn_id\": \"D18:8\",\n      \"end_turn_id\": \"D18:16\",\n      \"theme\": \"Nate discusses his dairy-free dessert recipes and shares one with Joanna\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1435,
+        "completion_tokens": 101,
+        "total_tokens": 1536,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_19",
+    "stage": "episode_partitioning",
+    "call_id": "31cc56fa-0592-4482-9336-e481ac2406d9",
+    "latency_seconds": 2.1647952500000045,
+    "response": {
+      "id": "chatcmpl-EZrLNtH0Gyr1E8Vpq96X12xwawZ1f",
+      "object": "chat.completion",
+      "created": 1792215241,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D19:1\",\n      \"end_turn_id\": \"D19:5\",\n      \"theme\": \"Nate shares his gaming success and shows his pet turtles\"\n    },\n    {\n      \"start_turn_id\": \"D19:6\",\n      \"end_turn_id\": \"D19:8\",\n      \"theme\": \"Joanna discusses sharing her writing and celebrating with a dessert\"\n    },\n    {\n      \"start_turn_id\": \"D19:9\",\n      \"end_turn_id\": \"D19:12\",\n      \"theme\": \"Weekend plans and the importance of taking breaks for mental health\"\n    },\n    {\n      \"start_turn_id\": \"D19:13\",\n      \"end_turn_id\": \"D19:20\",\n      \"theme\": \"Book recommendations exchanged between Nate and Joanna\"\n    },\n    {\n      \"start_turn_id\": \"D19:21\",\n      \"end_turn_id\": \"D19:22\",\n      \"theme\": \"Friendly closing remarks and well wishes\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1811,
+        "completion_tokens": 225,
+        "total_tokens": 2036,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_20",
+    "stage": "episode_partitioning",
+    "call_id": "b4cf61ad-5b93-4ee1-966d-8ca59e350af9",
+    "latency_seconds": 2.595208458000002,
+    "response": {
+      "id": "chatcmpl-EZrLPeCkrXoPhzf635XuVtJEwuZT9",
+      "object": "chat.completion",
+      "created": 1792215243,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D20:1\",\n      \"end_turn_id\": \"D20:3\",\n      \"theme\": \"Catch-up and gaming setback\"\n    },\n    {\n      \"start_turn_id\": \"D20:4\",\n      \"end_turn_id\": \"D20:6\",\n      \"theme\": \"Joanna's recipe tinkering and creativity\"\n    },\n    {\n      \"start_turn_id\": \"D20:7\",\n      \"end_turn_id\": \"D20:10\",\n      \"theme\": \"Experimenting with dairy-free dessert flavors\"\n    },\n    {\n      \"start_turn_id\": \"D20:11\",\n      \"end_turn_id\": \"D20:13\",\n      \"theme\": \"Sharing dessert recipes and cooking together\"\n    },\n    {\n      \"start_turn_id\": \"D20:14\",\n      \"end_turn_id\": \"D20:17\",\n      \"theme\": \"Discussing dairy-free baking tips\"\n    },\n    {\n      \"start_turn_id\": \"D20:18\",\n      \"end_turn_id\": \"D20:19\",\n      \"theme\": \"Closing farewells\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1527,
+        "completion_tokens": 249,
+        "total_tokens": 1776,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_21",
+    "stage": "episode_partitioning",
+    "call_id": "ef7d7635-8cd0-4c73-a51a-3091f2f7936d",
+    "latency_seconds": 3.755608584000001,
+    "response": {
+      "id": "chatcmpl-EZrLSvUXb2150Tx6gkM79p5X8jdNw",
+      "object": "chat.completion",
+      "created": 1792215246,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D21:1\",\n      \"end_turn_id\": \"D21:3\",\n      \"theme\": \"Joanna's laptop crash and initial catch-up\"\n    },\n    {\n      \"start_turn_id\": \"D21:4\",\n      \"end_turn_id\": \"D21:6\",\n      \"theme\": \"Nate's cooking show and vegan ice cream\"\n    },\n    {\n      \"start_turn_id\": \"D21:7\",\n      \"end_turn_id\": \"D21:8\",\n      \"theme\": \"Sharing vegan ice cream recipe\"\n    },\n    {\n      \"start_turn_id\": \"D21:9\",\n      \"end_turn_id\": \"D21:10\",\n      \"theme\": \"Discussion of favorite dairy-free desserts\"\n    },\n    {\n      \"start_turn_id\": \"D21:11\",\n      \"end_turn_id\": \"D21:13\",\n      \"theme\": \"Joanna's favorite dairy-free desserts with images\"\n    },\n    {\n      \"start_turn_id\": \"D21:14\",\n      \"end_turn_id\": \"D21:16\",\n      \"theme\": \"Details about Joanna's dairy-free chocolate cake recipe\"\n    },\n    {\n      \"start_turn_id\": \"D21:17\",\n      \"end_turn_id\": \"D21:18\",\n      \"theme\": \"Joanna's blueberry coconut dessert and Nate’s appreciation\"\n    },\n    {\n      \"start_turn_id\": \"D21:19\",\n      \"end_turn_id\": \"D21:20\",\n      \"theme\": \"Closing the conversation with mutual appreciation\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1743,
+        "completion_tokens": 344,
+        "total_tokens": 2087,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_22",
+    "stage": "episode_partitioning",
+    "call_id": "19aeeb15-7069-4c46-9133-f50600413d9a",
+    "latency_seconds": 2.7417920840000036,
+    "response": {
+      "id": "chatcmpl-EZrLWo8HERLxqAWfT5SgrMnGiQGCR",
+      "object": "chat.completion",
+      "created": 1792215250,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D22:1\",\n      \"end_turn_id\": \"D22:2\",\n      \"theme\": \"Joanna's dairy-free recipe and Nate's video game tournament win\"\n    },\n    {\n      \"start_turn_id\": \"D22:3\",\n      \"end_turn_id\": \"D22:6\",\n      \"theme\": \"Discussion about Nate's tournament winnings and financial freedom\"\n    },\n    {\n      \"start_turn_id\": \"D22:7\",\n      \"end_turn_id\": \"D22:8\",\n      \"theme\": \"Movie recommendations and recent viewing experiences\"\n    },\n    {\n      \"start_turn_id\": \"D22:9\",\n      \"end_turn_id\": \"D22:13\",\n      \"theme\": \"Joanna's book completion and mutual encouragement\"\n    },\n    {\n      \"start_turn_id\": \"D22:14\",\n      \"end_turn_id\": \"D22:18\",\n      \"theme\": \"Nate's motivational gift and encouragement\"\n    },\n    {\n      \"start_turn_id\": \"D22:19\",\n      \"end_turn_id\": \"D22:23\",\n      \"theme\": \"Joanna's bookmark craft and closing remarks\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1808,
+        "completion_tokens": 264,
+        "total_tokens": 2072,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_23",
+    "stage": "episode_partitioning",
+    "call_id": "630de822-88cd-4573-8c35-e2c5837156b9",
+    "latency_seconds": 2.3632873330000024,
+    "response": {
+      "id": "chatcmpl-EZrLZXtthU3aTREKYGtLmgjlX27ir",
+      "object": "chat.completion",
+      "created": 1792215253,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D23:1\",\n      \"end_turn_id\": \"D23:13\",\n      \"theme\": \"Nate's experience and socializing at a gaming convention\"\n    },\n    {\n      \"start_turn_id\": \"D23:14\",\n      \"end_turn_id\": \"D23:17\",\n      \"theme\": \"Discussion about conventions and Nate's current leisure activities\"\n    },\n    {\n      \"start_turn_id\": \"D23:18\",\n      \"end_turn_id\": \"D23:21\",\n      \"theme\": \"Joanna and Nate discuss movies and their emotional impact\"\n    },\n    {\n      \"start_turn_id\": \"D23:22\",\n      \"end_turn_id\": \"D23:28\",\n      \"theme\": \"Conversation about creating a cozy living room setup for movies\"\n    },\n    {\n      \"start_turn_id\": \"D23:29\",\n      \"end_turn_id\": \"D23:30\",\n      \"theme\": \"Concluding greetings\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2394,
+        "completion_tokens": 222,
+        "total_tokens": 2616,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_24",
+    "stage": "episode_partitioning",
+    "call_id": "ba45a2bf-f4fb-416a-a05d-fb6c1eea17bc",
+    "latency_seconds": 2.3459350830000005,
+    "response": {
+      "id": "chatcmpl-EZrLbLCQuRaPsseVmrsmnK2pfNbu4",
+      "object": "chat.completion",
+      "created": 1792215255,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D24:1\",\n      \"end_turn_id\": \"D24:3\",\n      \"theme\": \"Catch-up on recent personal updates\"\n    },\n    {\n      \"start_turn_id\": \"D24:4\",\n      \"end_turn_id\": \"D24:9\",\n      \"theme\": \"Discussion about comforting pets and meaningful stuffed animals\"\n    },\n    {\n      \"start_turn_id\": \"D24:10\",\n      \"end_turn_id\": \"D24:11\",\n      \"theme\": \"Talking about recent activities and preparations\"\n    },\n    {\n      \"start_turn_id\": \"D24:12\",\n      \"end_turn_id\": \"D24:17\",\n      \"theme\": \"Joanna's setback and mutual encouragement for perseverance\"\n    },\n    {\n      \"start_turn_id\": \"D24:18\",\n      \"end_turn_id\": \"D24:19\",\n      \"theme\": \"Farewell and positive closing remarks\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1256,
+        "completion_tokens": 214,
+        "total_tokens": 1470,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_25",
+    "stage": "episode_partitioning",
+    "call_id": "7d854b63-7162-41f4-ac0c-1ffa1ef35029",
+    "latency_seconds": 1.5426484589999987,
+    "response": {
+      "id": "chatcmpl-EZrLdxtH99B4wicEzMAJHazqUki0n",
+      "object": "chat.completion",
+      "created": 1792215257,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D25:1\",\n      \"end_turn_id\": \"D25:13\",\n      \"theme\": \"Joanna's movie script and character creation experience\"\n    },\n    {\n      \"start_turn_id\": \"D25:14\",\n      \"end_turn_id\": \"D25:29\",\n      \"theme\": \"Nate's pet turtles and their personalities\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2121,
+        "completion_tokens": 94,
+        "total_tokens": 2215,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_26",
+    "stage": "episode_partitioning",
+    "call_id": "450d494a-2675-494d-87bf-196a1607e735",
+    "latency_seconds": 1.716938958,
+    "response": {
+      "id": "chatcmpl-EZrLfeuSvwgZpo46U7lBtqo9OA2K4",
+      "object": "chat.completion",
+      "created": 1792215259,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D26:1\",\n      \"end_turn_id\": \"D26:9\",\n      \"theme\": \"Joanna shares success with movie producer meetings and discusses her early writings and love for turtles\"\n    },\n    {\n      \"start_turn_id\": \"D26:10\",\n      \"end_turn_id\": \"D26:15\",\n      \"theme\": \"Casual catch-up about current projects and gaming interests\"\n    },\n    {\n      \"start_turn_id\": \"D26:16\",\n      \"end_turn_id\": \"D26:24\",\n      \"theme\": \"Invitation to try homemade lactose-free coconut milk ice cream and plan to share recipes\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1722,
+        "completion_tokens": 153,
+        "total_tokens": 1875,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_27",
+    "stage": "episode_partitioning",
+    "call_id": "e308f68b-5b5b-4473-9a2f-293b95c4cd10",
+    "latency_seconds": 2.8799080000000004,
+    "response": {
+      "id": "chatcmpl-EZrLgdIq1rQF94WAmrc5vag4bFftc",
+      "object": "chat.completion",
+      "created": 1792215260,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D27:1\",\n      \"end_turn_id\": \"D27:3\",\n      \"theme\": \"Nate's Valorant tournament win and current activities\"\n    },\n    {\n      \"start_turn_id\": \"D27:4\",\n      \"end_turn_id\": \"D27:6\",\n      \"theme\": \"Joanna's work on movie scripts and creative pursuits\"\n    },\n    {\n      \"start_turn_id\": \"D27:7\",\n      \"end_turn_id\": \"D27:10\",\n      \"theme\": \"Discussion about Joanna's writing passion and Nate's turtles\"\n    },\n    {\n      \"start_turn_id\": \"D27:11\",\n      \"end_turn_id\": \"D27:14\",\n      \"theme\": \"Joanna's script submissions and Nate's encouragement\"\n    },\n    {\n      \"start_turn_id\": \"D27:15\",\n      \"end_turn_id\": \"D27:21\",\n      \"theme\": \"Nate's upgraded gaming setup and its use for competition\"\n    },\n    {\n      \"start_turn_id\": \"D27:22\",\n      \"end_turn_id\": \"D27:27\",\n      \"theme\": \"Favorite games and sharing recommendations\"\n    },\n    {\n      \"start_turn_id\": \"D27:28\",\n      \"end_turn_id\": \"D27:32\",\n      \"theme\": \"Joanna's handwritten letter in script and reminiscing childhood memories\"\n    },\n    {\n      \"start_turn_id\": \"D27:33\",\n      \"end_turn_id\": \"D27:38\",\n      \"theme\": \"Sharing and preserving memories, mutual encouragement, and friendship\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2793,
+        "completion_tokens": 358,
+        "total_tokens": 3151,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_28",
+    "stage": "episode_partitioning",
+    "call_id": "8f3e3ff5-c06a-4dd0-8df5-1df417df42f4",
+    "latency_seconds": 2.5928947919999956,
+    "response": {
+      "id": "chatcmpl-EZrLj8E78q5NcBC43pqxzC91Z2I61",
+      "object": "chat.completion",
+      "created": 1792215263,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D28:1\",\n      \"end_turn_id\": \"D28:6\",\n      \"theme\": \"Nate shares coconut ice cream and discusses gaming tournament outcomes and future plans\"\n    },\n    {\n      \"start_turn_id\": \"D28:7\",\n      \"end_turn_id\": \"D28:12\",\n      \"theme\": \"Joanna shares her scriptwriting success and Nate talks about his creative projects\"\n    },\n    {\n      \"start_turn_id\": \"D28:13\",\n      \"end_turn_id\": \"D28:19\",\n      \"theme\": \"Nate discusses creating gaming content on YouTube and Joanna offers advice\"\n    },\n    {\n      \"start_turn_id\": \"D28:20\",\n      \"end_turn_id\": \"D28:22\",\n      \"theme\": \"Joanna shares a sunset photo and its inspiration\"\n    },\n    {\n      \"start_turn_id\": \"D28:23\",\n      \"end_turn_id\": \"D28:27\",\n      \"theme\": \"Nate talks about his pet turtles and getting a third one\"\n    },\n    {\n      \"start_turn_id\": \"D28:28\",\n      \"end_turn_id\": \"D28:33\",\n      \"theme\": \"Planning a visit to see turtles and spend time together\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2439,
+        "completion_tokens": 285,
+        "total_tokens": 2724,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  }
+]

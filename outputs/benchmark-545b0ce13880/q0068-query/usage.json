@@ -1,0 +1,17 @@
+[
+  {
+    "call_id": "332372fd-b220-45f7-bea3-7b381577ce66",
+    "experiment_id": "q0068-query",
+    "approach": "ensimem",
+    "phase": "query",
+    "stage": "requirement_planning",
+    "provider": "openai",
+    "model": "gpt-4.1-mini",
+    "input_tokens": null,
+    "output_tokens": null,
+    "cached_input_tokens": null,
+    "query_id": "conv-26::q0068",
+    "usage_kind": "generation",
+    "attempt": 1
+  }
+]

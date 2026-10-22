@@ -1,0 +1,10 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Caroline",
+      "property": "moved_from",
+      "search": "Caroline moved location 4 years ago"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+[
+  {
+    "stage": "agent_decision",
+    "call_id": "c6713d10-6db3-4997-b850-627755f35837",
+    "response": {
+      "id": "chatcmpl-EZqLCJMdi2RjXPoHDHpksMJTUKAer",
+      "object": "chat.completion",
+      "created": 1792211386,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"search\",\"query\":\"Caroline's vision for the kind of place she wants to create for people\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 153,
+        "completion_tokens": 23,
+        "total_tokens": 176,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f810e81ea"
+    },
+    "latency_seconds": 1.312674875
+  },
+  {
+    "stage": "agent_decision",
+    "call_id": "415fb14a-2233-40d8-8433-5d131bad17dd",
+    "response": {
+      "id": "chatcmpl-EZqLEr4egNiU8g6lhn7CA4haIkI6r",
+      "object": "chat.completion",
+      "created": 1792211388,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"ready\",\"reason\":\"Collected evidence from multiple conversations with Caroline shows she wants to create a place of love, acceptance, unity, inclusivity, and support, especially for the LGBTQ+ community, where people can find comfort, self-acceptance, and grow.\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3490,
+        "completion_tokens": 56,
+        "total_tokens": 3546,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f810e81ea"
+    },
+    "latency_seconds": 1.9178822090000005
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "9b03a8ba-07ae-47c6-969d-ed3217430bf0",
+    "response": {
+      "id": "chatcmpl-EZqLGxU26DzoLqlzciqqv8Z2pFAL3",
+      "object": "chat.completion",
+      "created": 1792211390,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Caroline wants to create a loving, accepting, and inclusive place where people can find unity, strength, self-acceptance, and love, particularly for the LGBTQ+ community. She aims to foster an environment of comfort, growth, and support, celebrating differences and helping others embrace their authentic selves.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_11::chunk-0010\",\"turn_id\":\"D11:12\"},{\"episode_id\":\"conv-26::session_14::chunk-0015\",\"turn_id\":\"D14:21\"},{\"episode_id\":\"conv-26::session_19::chunk-0005\",\"turn_id\":\"D19:9\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3392,
+        "completion_tokens": 145,
+        "total_tokens": 3537,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_802f1283f8"
+    },
+    "latency_seconds": 2.738658083
+  }
+]

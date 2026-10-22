@@ -1,0 +1,10 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Melanie",
+      "property": "feeling_while_watching_meteor_shower",
+      "search": "standalone evidence search"
+    }
+  ]
+}

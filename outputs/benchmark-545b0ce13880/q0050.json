@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0050",
+  "category": 2,
+  "question": "When did Caroline and Melanie go to a pride fesetival together?",
+  "gold_answer": 2022,
+  "status": "scored",
+  "generated_answer": "Caroline and Melanie went to a pride festival together in the summer of the previous year before August 17, 2023.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_12::episode-005",
+      "turn_id": "D12:15"
+    }
+  ],
+  "query_elapsed_seconds": 5.754825125,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer indicates a timeframe of summer 2022, which is semantically equivalent to the reference answer of 2022."
+}

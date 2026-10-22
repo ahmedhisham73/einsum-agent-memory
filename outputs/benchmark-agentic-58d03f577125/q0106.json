@@ -1,0 +1,21 @@
+{
+  "question_id": "conv-26::q0106",
+  "category": 4,
+  "question": "What did Caroline take away from the book \"Becoming Nicole\"?",
+  "gold_answer": "Lessons on self-acceptance and finding support",
+  "status": "scored",
+  "generated_answer": "Caroline took away from the book \"Becoming Nicole\" the lessons of self-acceptance and how to find support. She also learned that tough times don't last, and that hope and love exist. Additionally, the book made her feel connected and gave her a lot of hope for her own path.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_7::chunk-0005",
+      "turn_id": "D7:11"
+    },
+    {
+      "episode_id": "conv-26::session_7::chunk-0010",
+      "turn_id": "D7:13"
+    }
+  ],
+  "query_elapsed_seconds": 5.635510542,
+  "label": "WRONG",
+  "judge_reason": "The generated answer includes unsupported additions about tough times, hope, and connection, which are not present in the reference answer."
+}

@@ -1,0 +1,41 @@
+{
+  "question_id": "conv-26::q0049",
+  "category": 1,
+  "question": "What types of pottery have Melanie and her kids made?",
+  "gold_answer": "bowls, cup",
+  "status": "scored",
+  "generated_answer": "Melanie and her kids have made various types of pottery including bowls with black and white flower designs, colorful patterned ceramic bowls, a cup with a dog face on it, and plates with floral patterns. Melanie made a black and white flower design bowl, a colorful patterned bowl, and a floral pattern plate. Her kids made pots and a cup with a dog face during a pottery workshop.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_5::chunk-0000",
+      "turn_id": "D5:6"
+    },
+    {
+      "episode_id": "conv-26::session_5::chunk-0005",
+      "turn_id": "D5:8"
+    },
+    {
+      "episode_id": "conv-26::session_8::chunk-0000",
+      "turn_id": "D8:2"
+    },
+    {
+      "episode_id": "conv-26::session_8::chunk-0000",
+      "turn_id": "D8:4"
+    },
+    {
+      "episode_id": "conv-26::session_12::chunk-0000",
+      "turn_id": "D12:4"
+    },
+    {
+      "episode_id": "conv-26::session_14::chunk-0000",
+      "turn_id": "D14:2"
+    },
+    {
+      "episode_id": "conv-26::session_14::chunk-0000",
+      "turn_id": "D14:4"
+    }
+  ],
+  "query_elapsed_seconds": 6.467562917,
+  "label": "WRONG",
+  "judge_reason": "The generated answer includes unsupported additions and contradictory details about the types of pottery."
+}

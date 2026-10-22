@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-26::q0064",
+  "category": 2,
+  "question": "When is Caroline's youth center putting on a talent show?",
+  "gold_answer": "September 2023",
+  "status": "failed",
+  "error": "Query failed. See q0064.log"
+}

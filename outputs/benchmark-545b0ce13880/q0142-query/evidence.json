@@ -1,0 +1,600 @@
+[
+  {
+    "episode_id": "conv-26::session_1::episode-005",
+    "conversation_id": "conv-26",
+    "session_id": "session_1",
+    "observed_at": "2023-05-08T13:56:00",
+    "source_timestamp": "1:56 pm on 8 May, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Closing remarks and plans for the day",
+    "turns": [
+      {
+        "turn_id": "D1:17",
+        "speaker": "Caroline",
+        "text": "Totally agree, Mel. Relaxing and expressing ourselves is key. Well, I'm off to go do some research.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:18",
+        "speaker": "Melanie",
+        "text": "Yep, Caroline. Taking care of ourselves is vital. I'm off to go swimming with the kids. Talk to you soon!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_2::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_2",
+    "observed_at": "2023-05-25T13:14:00",
+    "source_timestamp": "1:14 pm on 25 May, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Caroline talks about her adoption plans and the supportive adoption agency",
+    "turns": [
+      {
+        "turn_id": "D2:8",
+        "speaker": "Caroline",
+        "text": "Researching adoption agencies — it's been a dream to have a family and give a loving home to kids who need it.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:9",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! That's awesome! Taking in kids in need - you're so kind. Your future family is gonna be so lucky to have you!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:10",
+        "speaker": "Caroline",
+        "text": "Thanks, Mel! My goal is to give kids a loving home. I'm truly grateful for all the support I've got from friends and mentors. Now the hard work starts to turn my dream into a reality. And here's one of the adoption agencies I'm looking into. It's a lot to take in, but I'm feeling hopeful and optimistic.",
+        "metadata": {
+          "img_url": [
+            "https://live.staticflickr.com/3437/3935231341_b2955b00dd_b.jpg"
+          ],
+          "blip_caption": "a photography of a sign for a new arrival and an information and domestic building",
+          "query": "adoption agency brochure",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D2:11",
+        "speaker": "Melanie",
+        "text": "Wow, that agency looks great! What made you pick it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:12",
+        "speaker": "Caroline",
+        "text": "I chose them 'cause they help LGBTQ+ folks with adoption. Their inclusivity and support really spoke to me.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:13",
+        "speaker": "Melanie",
+        "text": "That's great, Caroline! Loving the inclusivity and support. Anything you're excited for in the adoption process?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:14",
+        "speaker": "Caroline",
+        "text": "I'm thrilled to make a family for kids who need one. It'll be tough as a single parent, but I'm up for the challenge!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:15",
+        "speaker": "Melanie",
+        "text": "You're doing something amazing! Creating a family for those kids is so lovely. You'll be an awesome mom! Good luck!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:16",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! Your kind words really mean a lot. I'll do my best to make sure these kids have a safe and loving home.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:17",
+        "speaker": "Melanie",
+        "text": "No doubts, Caroline. You have such a caring heart - they'll get all the love and stability they need! Excited for this new chapter!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_6::episode-005",
+    "conversation_id": "conv-26",
+    "session_id": "session_6",
+    "observed_at": "2023-07-06T20:18:00",
+    "source_timestamp": "8:18 pm on 6 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Melanie sharing family camping photo and bonding",
+    "turns": [
+      {
+        "turn_id": "D6:16",
+        "speaker": "Melanie",
+        "text": "Glad you have support, Caroline! Unconditional love is so important. Here's a pic of my family camping at the beach. We love it, it brings us closer!",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/ye1cp24b18w01.jpg"
+          ],
+          "blip_caption": "a photo of a family sitting around a campfire on the beach",
+          "query": "family campfire"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_8::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Mutual reflections on finding peace, family support, and enjoying nature activities",
+    "turns": [
+      {
+        "turn_id": "D8:26",
+        "speaker": "Melanie",
+        "text": "That's awesome, Caro! You've found the courage to be yourself - that's important for our mental health and finding peace.",
+        "metadata": {
+          "blip_caption": "a photo of a buddha statue and a candle on a table"
+        }
+      },
+      {
+        "turn_id": "D8:27",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! Been a long road, but I'm proud of how far I've come. How're you doing finding peace?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:28",
+        "speaker": "Melanie",
+        "text": "I'm getting there, Caroline. Creativity and family keep me at peace.",
+        "metadata": {
+          "blip_caption": "a photo of a man holding a frisbee in front of a frisbee golf basket"
+        }
+      },
+      {
+        "turn_id": "D8:29",
+        "speaker": "Caroline",
+        "text": "That's awesome, Melanie! How have your family been supportive during your move?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:30",
+        "speaker": "Melanie",
+        "text": "My fam's been awesome - they helped out and showed lots of love and support.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:31",
+        "speaker": "Caroline",
+        "text": "Wow, Mel, family love and support is the best!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:32",
+        "speaker": "Melanie",
+        "text": "Yeah, Caroline, my family's been great - their love and support really helped me through tough times. It's awesome! We even went on another camping trip in the forest.",
+        "metadata": {
+          "img_url": [
+            "http://cragmama.com/wp-content/uploads//2016/10/IMG_4568.jpg"
+          ],
+          "blip_caption": "a photo of a man and two children sitting around a campfire",
+          "query": "family camping trip roasting marshmallows campfire"
+        }
+      },
+      {
+        "turn_id": "D8:33",
+        "speaker": "Caroline",
+        "text": "Awesome, Mel! Family support's huge. What else do you guys like doing together?",
+        "metadata": {
+          "blip_caption": "a photo of a family walking through a forest with a toddler"
+        }
+      },
+      {
+        "turn_id": "D8:34",
+        "speaker": "Melanie",
+        "text": "We enjoy hiking in the mountains and exploring forests. It's a cool way to connect with nature and each other.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:35",
+        "speaker": "Caroline",
+        "text": "Wow, Mel, that sounds awesome! Exploring nature and family time is so special.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:36",
+        "speaker": "Melanie",
+        "text": "Yeah, Caroline, they're some of my fave memories. It brings us together and brings us happiness. Glad you're here to share in it.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_10::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_10",
+    "observed_at": "2023-07-20T20:56:00",
+    "source_timestamp": "8:56 pm on 20 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Caroline shares her involvement in a new LGBTQ activist group and discusses related events",
+    "turns": [
+      {
+        "turn_id": "D10:1",
+        "speaker": "Caroline",
+        "text": "Hey Melanie! Just wanted to say hi!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:2",
+        "speaker": "Melanie",
+        "text": "Hey Caroline! Good to talk to you again. What's up? Anything new since last time?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:3",
+        "speaker": "Caroline",
+        "text": "Hey Mel! A lot's happened since we last chatted - I just joined a new LGBTQ activist group last Tues. I'm meeting so many cool people who are as passionate as I am about rights and community support. I'm giving my voice and making a real difference, plus it's fulfilling in so many ways. It's just great, you know?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:4",
+        "speaker": "Melanie",
+        "text": "That's awesome, Caroline! Glad to hear you found a great group where you can have an impact. Bet it feels great to be able to speak your truth and stand up for what's right. Want to tell me a bit more about it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:5",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! It's awesome to have our own platform to be ourselves and support others' rights. Our group, 'Connected LGBTQ Activists', is made of all kinds of people investing in positive changes. We have regular meetings, plan events and campaigns, to get together and support each other.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:6",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, your group sounds awesome! Supporting each other and making good things happen - that's so inspiring! Have you been part of any events or campaigns lately?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:7",
+        "speaker": "Caroline",
+        "text": "Last weekend our city held a pride parade! So many people marched through the streets waving flags, holding signs and celebrating love and diversity. I missed it but it was a powerful reminder that we are not alone in this fight for equality and inclusivity. Change is possible!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_13::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_13",
+    "observed_at": "2023-08-23T15:31:00",
+    "source_timestamp": "3:31 pm on 23 August, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Melanie and Caroline share stories and pictures of their pets",
+    "turns": [
+      {
+        "turn_id": "D13:4",
+        "speaker": "Melanie",
+        "text": "Yeah, it's normal to be both excited and nervous with a big decision. And thanks for asking, they're good- we got another cat named Bailey too. Here's a pic of Oliver. Can you show me one of Oscar?",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/kgggim1gom951.jpg"
+          ],
+          "blip_caption": "a photo of a black dog laying in the grass with a frisbee",
+          "query": "pets Luna Oliver playing frisbee backyard"
+        }
+      },
+      {
+        "turn_id": "D13:5",
+        "speaker": "Caroline",
+        "text": "He's so cute! What’s the funniest thing Oliver's done? And sure, check out this pic of him eating parsley! Veggies are his fave!",
+        "metadata": {
+          "img_url": [
+            "https://cdn.i-scmp.com/sites/default/files/styles/landscape/public/d8/yp/images/shutterstock533807500.jpg"
+          ],
+          "blip_caption": "a photography of a guinea in a cage with hay and hay",
+          "query": "oscar munching parsley playpen",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D13:6",
+        "speaker": "Melanie",
+        "text": "Oliver's hilarious! He hid his bone in my slipper once! Cute, right? Almost as silly as when I got to feed a horse a carrot. ",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/fgv0i3nzo7541.jpg"
+          ],
+          "blip_caption": "a photo of a person holding a carrot in front of a horse",
+          "query": "oscar carrot in mouth"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_14::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_14",
+    "observed_at": "2023-08-25T13:33:00",
+    "source_timestamp": "1:33 pm on 25 August, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Painting inspired by nature and emotional connection through art",
+    "turns": [
+      {
+        "turn_id": "D14:5",
+        "speaker": "Caroline",
+        "text": "Nah, I haven't. I've been busy painting - here's something I just finished.",
+        "metadata": {
+          "img_url": [
+            "https://i0.wp.com/makesomethingmondays.com/wp-content/uploads/2017/07/mini-beach-sunset-painting-diy.jpg"
+          ],
+          "blip_caption": "a photo of a painting of a sunset on a small easel",
+          "query": "vibrant sunset beach painting"
+        }
+      },
+      {
+        "turn_id": "D14:6",
+        "speaker": "Melanie",
+        "text": "Wow Caroline, that looks amazing! Those colors are so vivid, it really looks like a real sunset. What gave you the idea to paint it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:7",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! I painted it after I visited the beach last week. Just seeing the sun dip below the horizon, all the amazing colors - it was amazing and calming. So I just had to try to capture that feeling in my painting.",
+        "metadata": {
+          "blip_caption": "a photo of a painting of a sunset over the ocean"
+        }
+      },
+      {
+        "turn_id": "D14:8",
+        "speaker": "Melanie",
+        "text": "Wow, the beach really inspired you. The art really took me to that moment and I can feel the serenity. You captured the sunset perfectly, so peaceful!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:9",
+        "speaker": "Caroline",
+        "text": "Thanks Mel, really appreciate your kind words. It means a lot to me that you can feel the sense of peace and serenity. Makes me feel connected.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_14::episode-005",
+    "conversation_id": "conv-26",
+    "session_id": "session_14",
+    "observed_at": "2023-08-25T13:33:00",
+    "source_timestamp": "1:33 pm on 25 August, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Stained glass artwork symbolizing growth and unity",
+    "turns": [
+      {
+        "turn_id": "D14:16",
+        "speaker": "Melanie",
+        "text": "I'm in awe of your courage as a trans person. Have you made any more art lately?",
+        "metadata": {
+          "blip_caption": "a photo of a stained glass window with a person holding a key"
+        }
+      },
+      {
+        "turn_id": "D14:17",
+        "speaker": "Caroline",
+        "text": "Thanks, Mel! I made this stained glass window to remind myself and others that within us all is the key to discovering our true potential and living our best life.",
+        "metadata": {
+          "img_url": [
+            "https://projects.history.qmul.ac.uk/thehistorian/wp-content/uploads/sites/24/2017/10/IMG_20170922_072615_165.jpg"
+          ],
+          "blip_caption": "a photo of three stained glass windows in a church with a clock",
+          "query": "stained glass window letter"
+        }
+      },
+      {
+        "turn_id": "D14:18",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, that looks amazing! What inspired it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:19",
+        "speaker": "Caroline",
+        "text": "Thanks! It was made for a local church and shows time changing our lives. I made it to show my own journey as a transgender woman and how we should accept growth and change.",
+        "metadata": {
+          "blip_caption": "a photo of a large stained glass window in a church"
+        }
+      },
+      {
+        "turn_id": "D14:20",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline!  All those colors are incredible and the story it tells is so inspiring.",
+        "metadata": {
+          "blip_caption": "a photo of a door with a stained glass window and a coat rack"
+        }
+      },
+      {
+        "turn_id": "D14:21",
+        "speaker": "Caroline",
+        "text": "Thanks, Mel! Glad you like it. It's a symbol of togetherness, to celebrate differences and be that much closer. I'd love to make something like this next!",
+        "metadata": {
+          "img_url": [
+            "https://i0.wp.com/marbleheadcurrent.org/wp-content/uploads/2023/07/rainbow.jpg"
+          ],
+          "blip_caption": "a photo of a painted sidewalk with a rainbow design on it",
+          "query": "painting rainbow flag unity acceptance"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_16::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_16",
+    "observed_at": "2023-09-13T00:09:00",
+    "source_timestamp": "12:09 am on 13 September, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Talking about art passions with photos of artwork",
+    "turns": [
+      {
+        "turn_id": "D16:6",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, that looks awesome! I love how it shows the togetherness and power you were talking about. How long have you been creating art?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:7",
+        "speaker": "Caroline",
+        "text": "Since I was 17 or so. I find it soempowering and cathartic. It's amazing how art can show things that are hard to put into words. How long have you been into art?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:8",
+        "speaker": "Melanie",
+        "text": "Seven years now, and I've finally found my real muses: painting and pottery. It's so calming and satisfying. Check out my pottery creation in the pic!",
+        "metadata": {
+          "img_url": [
+            "https://www.1hotpieceofglass.com/cdn/shop/files/image_93ad5985-ff65-4b93-877b-3ee948ac5641_5000x.jpg"
+          ],
+          "blip_caption": "a photo of a group of bowls and a starfish on a white surface",
+          "query": "pottery bowl intricate patterns purple glaze"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_16::episode-007",
+    "conversation_id": "conv-26",
+    "session_id": "session_16",
+    "observed_at": "2023-09-13T00:09:00",
+    "source_timestamp": "12:09 am on 13 September, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Discussing a thoughtful sign and joyful park visit",
+    "turns": [
+      {
+        "turn_id": "D16:16",
+        "speaker": "Melanie",
+        "text": "Caroline, it's got to be tough dealing with those changes. Glad you've found people who uplift and accept you! Here's to a good time at the café last weekend - they even had thoughtful signs like this! It brings me so much happiness.",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/epuj1xq8eaga1.jpg"
+          ],
+          "blip_caption": "a photo of a sign posted on a door stating that someone is not being able to leave",
+          "query": "me kids park joy love happiness"
+        }
+      },
+      {
+        "turn_id": "D16:17",
+        "speaker": "Caroline",
+        "text": "Whoa, Mel, that sign looks serious. Did anything happen?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:18",
+        "speaker": "Melanie",
+        "text": "The sign was just a precaution, I had a great time. But thank you for your concern, you're so thoughtful!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:19",
+        "speaker": "Caroline",
+        "text": "Phew! Glad it all worked out and you had a good time at the park!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:20",
+        "speaker": "Melanie",
+        "text": "Yeah, it was so much fun! Those joyful moments definitely show us life's beauty.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_17::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_17",
+    "observed_at": "2023-10-13T10:31:00",
+    "source_timestamp": "10:31 am on 13 October, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Discussion about adoption plans and advice",
+    "turns": [
+      {
+        "turn_id": "D17:1",
+        "speaker": "Caroline",
+        "text": "Hey Mel, what's up? Long time no see! I just contacted my mentor for adoption advice. I'm ready to be a mom and share my love and family. It's a great feeling. Anything new with you? Anything exciting going on?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:2",
+        "speaker": "Melanie",
+        "text": "Hey Caroline! Great to hear from you! Wow, what an amazing journey. Congrats!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:3",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! I'm stoked to start this new chapter. It's been a dream to adopt and provide a safe, loving home for kids who need it. Do you have any experience with adoption, or know anyone who's gone through the process?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:4",
+        "speaker": "Melanie",
+        "text": "Yeah, a buddy of mine adopted last year. It was a long process, but now they're super happy with their new kid. Makes me feel like maybe I should do it too!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:5",
+        "speaker": "Caroline",
+        "text": "That's great news about your friend! It can be tough, but so worth it. It's a great way to add to your family and show your love. If you ever do it, let me know — I'd love to help in any way I can.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:6",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! Appreciate your help. Got any tips for getting started on it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:7",
+        "speaker": "Caroline",
+        "text": "Yep! Do your research and find an adoption agency or lawyer. They'll help with the process and provide all the info. Gather documents like references, financial info and medical checks. Don't forget to prepare emotionally, since the wait can be hard. It's all worth it in the end though.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_19::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_19",
+    "observed_at": "2023-10-22T09:55:00",
+    "source_timestamp": "9:55 am on 22 October, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Caroline's adoption interview success and vision for building a loving family",
+    "turns": [
+      {
+        "turn_id": "D19:1",
+        "speaker": "Caroline",
+        "text": "Woohoo Melanie! I passed the adoption agency interviews last Friday! I'm so excited and thankful. This is a big move towards my goal of having a family.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:2",
+        "speaker": "Melanie",
+        "text": "Congrats, Caroline! Adoption sounds awesome. I'm so happy for you. These figurines I bought yesterday remind me of family love. Tell me, what's your vision for the future?",
+        "metadata": {
+          "img_url": [
+            "https://imgur.com/oGlhL5J.jpg"
+          ],
+          "blip_caption": "a photo of a couple of wooden dolls sitting on top of a table",
+          "query": "painted ceramic family figurine"
+        }
+      },
+      {
+        "turn_id": "D19:3",
+        "speaker": "Caroline",
+        "text": "Thanks so much, Melanie! It's beautiful! It really brings home how much love's in families - both blood and the ones we choose. I hope to build my own family and put a roof over kids who haven't had that before. For me, adoption is a way of giving back and showing love and acceptance.",
+        "metadata": {}
+      }
+    ]
+  }
+]

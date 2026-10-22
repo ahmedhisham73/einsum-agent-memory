@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0004",
+  "category": 1,
+  "question": "What did Caroline research?",
+  "gold_answer": "Adoption agencies",
+  "status": "scored",
+  "generated_answer": "Caroline has been researching counseling and mental health as a career, motivated by her own experiences, with the goal of helping people who have gone through similar challenges.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_4::chunk-0005",
+      "turn_id": "D4:11"
+    }
+  ],
+  "query_elapsed_seconds": 6.5010145,
+  "label": "WRONG",
+  "judge_reason": "The generated answer does not address the specific topic of research, which is adoption agencies, as stated in the reference answer."
+}

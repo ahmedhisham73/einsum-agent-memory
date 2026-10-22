@@ -1,0 +1,10 @@
+{
+  "scope": "all_matching",
+  "requirements": [
+    {
+      "entity": "Melanie",
+      "property": "activity_enjoyment",
+      "search": "Melanie enjoys listening to classical musicians"
+    }
+  ]
+}

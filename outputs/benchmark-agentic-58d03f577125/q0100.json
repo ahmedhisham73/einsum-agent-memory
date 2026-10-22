@@ -1,0 +1,25 @@
+{
+  "question_id": "conv-26::q0100",
+  "category": 4,
+  "question": "What motivated Caroline to pursue counseling?",
+  "gold_answer": "her own journey and the support she received, and how counseling improved her life",
+  "status": "scored",
+  "generated_answer": "Caroline was motivated to pursue counseling because of her own mental health struggles and the support she received, which made a huge difference in her life. She wants to help others who have gone through similar experiences by providing them with a safe and supportive space for growth. Her journey of self-acceptance, along with the encouragement from friends, family, and mentors, inspired her passion for mental health and counseling, particularly for trans people.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_4::chunk-0010",
+      "turn_id": "D4:15"
+    },
+    {
+      "episode_id": "conv-26::session_7::chunk-0005",
+      "turn_id": "D7:7"
+    },
+    {
+      "episode_id": "conv-26::session_19::chunk-0005",
+      "turn_id": "D19:9"
+    }
+  ],
+  "query_elapsed_seconds": 4.631864166,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer accurately reflects Caroline's motivations, citing her own journey, the support she received, and her desire to help others, all of which align with the reference answer."
+}

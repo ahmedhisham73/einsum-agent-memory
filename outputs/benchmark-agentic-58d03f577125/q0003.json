@@ -1,0 +1,21 @@
+{
+  "question_id": "conv-26::q0003",
+  "category": 3,
+  "question": "What fields would Caroline be likely to pursue in her educaton?",
+  "gold_answer": "Psychology, counseling certification",
+  "status": "scored",
+  "generated_answer": "Caroline is likely to pursue education in counseling and mental health, with a focus on supporting transgender people and the LGBTQ+ community.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_4::chunk-0010",
+      "turn_id": "D4:11"
+    },
+    {
+      "episode_id": "conv-26::session_4::chunk-0010",
+      "turn_id": "D4:13"
+    }
+  ],
+  "query_elapsed_seconds": 5.3715160829999995,
+  "label": "WRONG",
+  "judge_reason": "The generated answer includes a specific focus on supporting transgender people and the LGBTQ+ community, which was not mentioned in the reference answer."
+}

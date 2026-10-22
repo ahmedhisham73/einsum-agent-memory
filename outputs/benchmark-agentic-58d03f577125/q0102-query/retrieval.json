@@ -1,0 +1,21 @@
+[
+  {
+    "query": "Melanie black and white bowl photo",
+    "returned_chunk_ids": [
+      "conv-26::session_11::chunk-0005",
+      "conv-26::session_12::chunk-0000",
+      "conv-26::session_14::chunk-0000",
+      "conv-26::session_16::chunk-0005",
+      "conv-26::session_4::chunk-0000",
+      "conv-26::session_5::chunk-0005"
+    ],
+    "cumulative_chunk_ids": [
+      "conv-26::session_11::chunk-0005",
+      "conv-26::session_12::chunk-0000",
+      "conv-26::session_14::chunk-0000",
+      "conv-26::session_16::chunk-0005",
+      "conv-26::session_4::chunk-0000",
+      "conv-26::session_5::chunk-0005"
+    ]
+  }
+]

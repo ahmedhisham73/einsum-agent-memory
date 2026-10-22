@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0131",
+  "category": 4,
+  "question": "Which  classical musicians does Melanie enjoy listening to?",
+  "gold_answer": "Bach and Mozart",
+  "status": "scored",
+  "generated_answer": "Melanie enjoys listening to classical musicians Bach and Mozart.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_15::episode-005",
+      "turn_id": "D15:28"
+    }
+  ],
+  "query_elapsed_seconds": 12.675287959,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer accurately states the classical musicians Melanie enjoys listening to, matching the reference answer."
+}

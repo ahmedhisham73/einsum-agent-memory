@@ -1,0 +1,37 @@
+{
+  "question_id": "conv-26::q0025",
+  "category": 1,
+  "question": "What does Melanie do to destress?",
+  "gold_answer": "Running, pottery",
+  "status": "scored",
+  "generated_answer": "Melanie destresses by painting to express her feelings creatively, swimming with her kids, running to improve her headspace, playing the violin, and engaging in pottery as a calming, therapeutic activity.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_1::chunk-0015",
+      "turn_id": "D1:16"
+    },
+    {
+      "episode_id": "conv-26::session_1::chunk-0015",
+      "turn_id": "D1:18"
+    },
+    {
+      "episode_id": "conv-26::session_2::chunk-0000",
+      "turn_id": "D2:5"
+    },
+    {
+      "episode_id": "conv-26::session_5::chunk-0000",
+      "turn_id": "D5:4"
+    },
+    {
+      "episode_id": "conv-26::session_7::chunk-0020",
+      "turn_id": "D7:22"
+    },
+    {
+      "episode_id": "conv-26::session_12::chunk-0000",
+      "turn_id": "D12:6"
+    }
+  ],
+  "query_elapsed_seconds": 5.204752083,
+  "label": "WRONG",
+  "judge_reason": "The generated answer contains additional activities (painting, swimming, playing the violin) that are not mentioned in the reference answer and detracts from the specific activities listed."
+}

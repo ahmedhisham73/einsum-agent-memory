@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0024",
+  "category": 1,
+  "question": "What books has Melanie read?",
+  "gold_answer": "\"Nothing is Impossible\", \"Charlotte's Web\"",
+  "status": "scored",
+  "generated_answer": "Melanie has read a book that reminded her to always pursue her dreams, which she mentioned in a conversation. The specific title of that book is not provided.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_7::chunk-0005",
+      "turn_id": "D7:8"
+    }
+  ],
+  "query_elapsed_seconds": 4.5584925,
+  "label": "WRONG",
+  "judge_reason": "The generated answer does not list the specific books Melanie has read as requested."
+}

@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-26::q0110",
+  "category": 4,
+  "question": "What did Mel and her kids make during the pottery workshop?",
+  "gold_answer": "pots",
+  "status": "failed",
+  "error": "Query failed. See q0110.log"
+}

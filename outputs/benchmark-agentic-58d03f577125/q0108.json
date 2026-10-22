@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0108",
+  "category": 4,
+  "question": "What is Melanie's reason for getting into running?",
+  "gold_answer": "To de-stress and clear her mind",
+  "status": "scored",
+  "generated_answer": "Melanie's reason for getting into running is to de-stress and improve her mental health, which she finds great for her headspace.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_7::chunk-0020",
+      "turn_id": "D7:22"
+    }
+  ],
+  "query_elapsed_seconds": 4.848107124999999,
+  "label": "CORRECT",
+  "judge_reason": "Both answers convey that Melanie runs to de-stress and enhance her mental clarity."
+}

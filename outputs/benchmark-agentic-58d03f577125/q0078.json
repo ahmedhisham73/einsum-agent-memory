@@ -1,0 +1,25 @@
+{
+  "question_id": "conv-26::q0078",
+  "category": 3,
+  "question": "Would Melanie go on another roadtrip soon?",
+  "gold_answer": "Likely no; since this one went badly",
+  "status": "scored",
+  "generated_answer": "Yes, Melanie planned a camping trip with her kids next month as of May 25, 2023, and later in August 2023, they discussed planning a special trip, indicating likely plans for another roadtrip soon after the previous one in October was over.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_2::chunk-0005",
+      "turn_id": "D2:7"
+    },
+    {
+      "episode_id": "conv-26::session_12::chunk-0015",
+      "turn_id": "D12:16"
+    },
+    {
+      "episode_id": "conv-26::session_18::chunk-0000",
+      "turn_id": "D18:1"
+    }
+  ],
+  "query_elapsed_seconds": 5.1980376249999996,
+  "label": "WRONG",
+  "judge_reason": "The generated answer contradicts the reference answer by suggesting that Melanie is planning another road trip soon, while the reference states it is unlikely due to a previous trip going badly."
+}

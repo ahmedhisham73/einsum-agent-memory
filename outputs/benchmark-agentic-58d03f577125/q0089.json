@@ -1,0 +1,37 @@
+{
+  "question_id": "conv-26::q0089",
+  "category": 4,
+  "question": "What is Caroline excited about in the adoption process?",
+  "gold_answer": "creating a family for kids who need one",
+  "status": "scored",
+  "generated_answer": "Caroline is excited about the prospect of making a family for kids who need one, providing a safe and loving home, and fulfilling her dream to give love and acceptance to children through adoption. She feels hopeful and optimistic despite the challenges, especially as a single parent, and is grateful for support from friends, mentors, and inclusive adoption agencies.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_2::chunk-0005",
+      "turn_id": "D2:8"
+    },
+    {
+      "episode_id": "conv-26::session_2::chunk-0005",
+      "turn_id": "D2:10"
+    },
+    {
+      "episode_id": "conv-26::session_2::chunk-0010",
+      "turn_id": "D2:14"
+    },
+    {
+      "episode_id": "conv-26::session_19::chunk-0000",
+      "turn_id": "D19:1"
+    },
+    {
+      "episode_id": "conv-26::session_19::chunk-0000",
+      "turn_id": "D19:3"
+    },
+    {
+      "episode_id": "conv-26::session_19::chunk-0000",
+      "turn_id": "D19:5"
+    }
+  ],
+  "query_elapsed_seconds": 6.7106020829999995,
+  "label": "WRONG",
+  "judge_reason": "The generated answer includes additional information about Caroline's feelings and support system that is not present in the reference answer. It expands beyond the main point of excitement regarding creating a family for kids who need one."
+}

@@ -1,0 +1,38 @@
+{
+  "experiment_id": "offline-memory-a5e48166f56e",
+  "recorded_calls": 108,
+  "groups": [
+    {
+      "approach": "ensimem",
+      "phase": "build",
+      "stage": "entity_property_extraction",
+      "usage_kind": "generation",
+      "provider": "openai",
+      "model": "gpt-4.1-mini-2025-04-14",
+      "calls": 89,
+      "retry_calls": 0,
+      "missing_usage_calls": 0,
+      "reported_input_tokens": 72352,
+      "reported_output_tokens": 42980,
+      "total_tokens": 115332,
+      "cached_input_tokens": 0,
+      "usage_complete": true
+    },
+    {
+      "approach": "ensimem",
+      "phase": "build",
+      "stage": "episode_partitioning",
+      "usage_kind": "generation",
+      "provider": "openai",
+      "model": "gpt-4.1-mini-2025-04-14",
+      "calls": 19,
+      "retry_calls": 0,
+      "missing_usage_calls": 0,
+      "reported_input_tokens": 35078,
+      "reported_output_tokens": 4023,
+      "total_tokens": 39101,
+      "cached_input_tokens": 0,
+      "usage_complete": true
+    }
+  ]
+}

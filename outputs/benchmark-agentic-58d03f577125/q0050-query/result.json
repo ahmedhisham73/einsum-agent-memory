@@ -1,0 +1,27 @@
+{
+  "status": "completed",
+  "experiment_id": "q0050-query",
+  "memory_build": "offline-memory-a5e48166f56e",
+  "baseline_build": "agentic-build-300877917378",
+  "question": "When did Caroline and Melanie go to a pride fesetival together?",
+  "answer": "Caroline and Melanie went to a Pride festival together last year, as mentioned in the conversation on 17 August 2023 where Caroline said, \"We had a blast last year at the Pride fest.\"",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-26::session_12::chunk-0010",
+      "turn_id": "D12:15"
+    }
+  ],
+  "elapsed_seconds": 4.192610875,
+  "stop_reason": "agent_ready",
+  "search_count": 1,
+  "selected_chunks": 6,
+  "unique_source_turns": 35,
+  "implementation": {
+    "chunk_turns": 6,
+    "overlap_turns": 1,
+    "top_k_per_search": 6,
+    "max_searches": 4,
+    "max_agent_decisions": 5
+  }
+}

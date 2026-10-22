@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0008",
+  "category": 1,
+  "question": "What is Caroline's relationship status?",
+  "gold_answer": "Single",
+  "status": "scored",
+  "generated_answer": "Caroline is currently single, not explicitly in a romantic relationship. She talks about friendships, family support, and mentoring but does not mention a partner or romantic relationship.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_16::chunk-0010",
+      "turn_id": "D16:15"
+    }
+  ],
+  "query_elapsed_seconds": 6.506283541999999,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer accurately reflects that Caroline is single and provides additional context without contradicting the relationship status."
+}

@@ -1,0 +1,27 @@
+{
+  "status": "completed",
+  "experiment_id": "q0064-query",
+  "memory_build": "offline-memory-a5e48166f56e",
+  "baseline_build": "agentic-build-300877917378",
+  "question": "When is Caroline's youth center putting on a talent show?",
+  "answer": "Caroline's youth center is putting on a talent show next month, which was mentioned in the conversation on 28 August 2023.",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-26::session_15::chunk-0005",
+      "turn_id": "D15:11"
+    }
+  ],
+  "elapsed_seconds": 4.228338292,
+  "stop_reason": "agent_ready",
+  "search_count": 1,
+  "selected_chunks": 6,
+  "unique_source_turns": 34,
+  "implementation": {
+    "chunk_turns": 6,
+    "overlap_turns": 1,
+    "top_k_per_search": 6,
+    "max_searches": 4,
+    "max_agent_decisions": 5
+  }
+}

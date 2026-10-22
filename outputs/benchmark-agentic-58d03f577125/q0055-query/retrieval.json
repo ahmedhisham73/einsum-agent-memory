@@ -1,0 +1,21 @@
+[
+  {
+    "query": "Caroline self-portrait date",
+    "returned_chunk_ids": [
+      "conv-26::session_11::chunk-0010",
+      "conv-26::session_13::chunk-0005",
+      "conv-26::session_13::chunk-0010",
+      "conv-26::session_16::chunk-0005",
+      "conv-26::session_16::chunk-0010",
+      "conv-26::session_9::chunk-0010"
+    ],
+    "cumulative_chunk_ids": [
+      "conv-26::session_11::chunk-0010",
+      "conv-26::session_13::chunk-0005",
+      "conv-26::session_13::chunk-0010",
+      "conv-26::session_16::chunk-0005",
+      "conv-26::session_16::chunk-0010",
+      "conv-26::session_9::chunk-0010"
+    ]
+  }
+]

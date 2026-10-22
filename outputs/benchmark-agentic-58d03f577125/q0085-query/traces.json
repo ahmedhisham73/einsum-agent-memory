@@ -1,0 +1,125 @@
+[
+  {
+    "stage": "agent_decision",
+    "call_id": "29733528-2ed9-4f47-89b5-8b2d85de634a",
+    "response": {
+      "id": "chatcmpl-EZksJgx0bAXT9HIhLpnwe8nEAFKNe",
+      "object": "chat.completion",
+      "created": 1792190375,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"search\",\"query\":\"Melanie prioritize self-care\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 148,
+        "completion_tokens": 13,
+        "total_tokens": 161,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_d81cb94320"
+    },
+    "latency_seconds": 1.0634645
+  },
+  {
+    "stage": "agent_decision",
+    "call_id": "cbb96801-266b-4d34-96fb-c3fffc10ae1c",
+    "response": {
+      "id": "chatcmpl-EZksKqN7PtE0JWNzBXS4mqWH67C9V",
+      "object": "chat.completion",
+      "created": 1792190376,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"ready\",\"reason\":\"The conversation excerpts provide clear evidence on how Melanie prioritizes self-care: she recognizes the importance of self-care inspired by a mental health charity race, acknowledges it is a work in progress, and actively carves out daily 'me-time' involving activities like running, reading, and playing the violin to refresh herself and be present for her family.\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2981,
+        "completion_tokens": 76,
+        "total_tokens": 3057,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_d81cb94320"
+    },
+    "latency_seconds": 1.6530218749999999
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "ef33afc4-ef25-4128-a700-c980ea1436bd",
+    "response": {
+      "id": "chatcmpl-EZksNnnFoaOFpVET3dX4Jy7RbYrHM",
+      "object": "chat.completion",
+      "created": 1792190379,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Melanie prioritizes self-care by carving out daily 'me-time' where she engages in activities like running, reading, or playing her violin. She acknowledges that self-care is a journey and finds that looking after herself helps her be present for her family. This approach to self-care refreshes her and supports her ability to care for others.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_2::chunk-0000\",\"turn_id\":\"D2:3\"},{\"episode_id\":\"conv-26::session_2::chunk-0000\",\"turn_id\":\"D2:5\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2914,
+        "completion_tokens": 129,
+        "total_tokens": 3043,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_38f508f26a"
+    },
+    "latency_seconds": 2.365633792
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-26::q0107",
+  "category": 4,
+  "question": "What are the new shoes that Melanie got used for?",
+  "gold_answer": "Running",
+  "status": "failed",
+  "error": "Query failed. See q0107.log"
+}

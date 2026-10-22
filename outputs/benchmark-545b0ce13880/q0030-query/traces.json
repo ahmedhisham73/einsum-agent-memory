@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "a60c8712-a1bc-4b83-9237-6b275d20a6de",
+    "response": {
+      "id": "chatcmpl-EZj31eVZ2YFs3KR1UKRECz75yoe5o",
+      "object": "chat.completion",
+      "created": 1792183351,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Melanie\",\"property\":\"activity_pottery_class\",\"search\":\"Melanie pottery workshop attendance date\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2680,
+        "completion_tokens": 30,
+        "total_tokens": 2710,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f111b06a9"
+    },
+    "latency_seconds": 1.376289875
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "3f2589e5-8223-4a79-b0bc-80a9261a4890",
+    "response": {
+      "id": "chatcmpl-EZj348M6l87uXvX0B9NuVWb3VoL0N",
+      "object": "chat.completion",
+      "created": 1792183354,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Melanie went to the pottery workshop last Friday before 15 July 2023.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_8::episode-001\",\"turn_id\":\"D8:2\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2597,
+        "completion_tokens": 53,
+        "total_tokens": 2650,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_38f508f26a"
+    },
+    "latency_seconds": 1.5196662499999998
+  }
+]

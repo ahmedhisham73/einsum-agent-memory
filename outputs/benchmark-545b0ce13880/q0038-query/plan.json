@@ -1,0 +1,15 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Melanie",
+      "property": "recent_painting_content",
+      "search": "What type or subject of painting did Melanie recently create?"
+    },
+    {
+      "entity": "Melanie",
+      "property": "recent_activity",
+      "search": "What painting activity has Melanie engaged in recently?"
+    }
+  ]
+}

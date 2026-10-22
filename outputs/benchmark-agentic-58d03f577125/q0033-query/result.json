@@ -1,0 +1,75 @@
+{
+  "status": "completed",
+  "experiment_id": "q0033-query",
+  "memory_build": "offline-memory-a5e48166f56e",
+  "baseline_build": "agentic-build-300877917378",
+  "question": "What LGBTQ+ events has Caroline participated in?",
+  "answer": "Caroline has participated in the following LGBTQ+ events: 1) An LGBTQ conference two days before July 12, 2023, where she connected with others and felt accepted (conv-26::session_7::chunk-0000, turn D7:1). 2) A mentorship program for LGBTQ youth, including mentoring a transgender teen (conv-26::session_9::chunk-0000, turns D9:2, D9:4, D9:6). 3) Attended an LGBT pride event last month before July 17, 2023, which was very encouraging and supportive (conv-26::session_9::chunk-0000, turn D9:6; conv-26::session_9::chunk-0005, turns D9:8, D9:10). 4) Preparing for an LGBTQ art show featuring her paintings next month after July 17, 2023 (conv-26::session_9::chunk-0010, turns D9:12, D9:14, D9:16). 5) Joined a new LGBTQ activist group 'Connected LGBTQ Activists' on July 11, 2023, participating in meetings, events, and campaigns (conv-26::session_10::chunk-0000, turns D10:3, D10:5). 6) Attended a pride parade on Friday before August 14, 2023, which was inspiring and full of community love (conv-26::session_11::chunk-0000, turns D11:4, D11:6).",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-26::session_7::chunk-0000",
+      "turn_id": "D7:1"
+    },
+    {
+      "episode_id": "conv-26::session_9::chunk-0000",
+      "turn_id": "D9:2"
+    },
+    {
+      "episode_id": "conv-26::session_9::chunk-0000",
+      "turn_id": "D9:4"
+    },
+    {
+      "episode_id": "conv-26::session_9::chunk-0000",
+      "turn_id": "D9:6"
+    },
+    {
+      "episode_id": "conv-26::session_9::chunk-0005",
+      "turn_id": "D9:8"
+    },
+    {
+      "episode_id": "conv-26::session_9::chunk-0005",
+      "turn_id": "D9:10"
+    },
+    {
+      "episode_id": "conv-26::session_9::chunk-0010",
+      "turn_id": "D9:12"
+    },
+    {
+      "episode_id": "conv-26::session_9::chunk-0010",
+      "turn_id": "D9:14"
+    },
+    {
+      "episode_id": "conv-26::session_9::chunk-0010",
+      "turn_id": "D9:16"
+    },
+    {
+      "episode_id": "conv-26::session_10::chunk-0000",
+      "turn_id": "D10:3"
+    },
+    {
+      "episode_id": "conv-26::session_10::chunk-0000",
+      "turn_id": "D10:5"
+    },
+    {
+      "episode_id": "conv-26::session_11::chunk-0000",
+      "turn_id": "D11:4"
+    },
+    {
+      "episode_id": "conv-26::session_11::chunk-0000",
+      "turn_id": "D11:6"
+    }
+  ],
+  "elapsed_seconds": 10.199839791999999,
+  "stop_reason": "agent_ready",
+  "search_count": 1,
+  "selected_chunks": 6,
+  "unique_source_turns": 34,
+  "implementation": {
+    "chunk_turns": 6,
+    "overlap_turns": 1,
+    "top_k_per_search": 6,
+    "max_searches": 4,
+    "max_agent_decisions": 5
+  }
+}

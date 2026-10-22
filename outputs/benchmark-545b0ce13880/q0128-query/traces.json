@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "961ca6e5-d895-49a2-b425-6a96e4754d7c",
+    "response": {
+      "id": "chatcmpl-EZk3N6yHFbTZ4q2f2nhkWjk6m8dTD",
+      "object": "chat.completion",
+      "created": 1792187217,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Caroline\",\"property\":\"made_object\",\"search\":\"Caroline made for a local church\"},{\"entity\":\"Caroline\",\"property\":\"artwork_commissioned_for\",\"search\":\"artwork Caroline made for a local church\"},{\"entity\":\"Caroline\",\"property\":\"art_created\",\"search\":\"art Caroline created for a local church\"},{\"entity\":\"Caroline\",\"property\":\"artwork_purpose\",\"search\":\"purpose of artwork Caroline made for a local church\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2680,
+        "completion_tokens": 98,
+        "total_tokens": 2778,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_5002831302"
+    },
+    "latency_seconds": 1.578163584
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "c76056d6-8e76-42a2-b9ae-ea7e52cb2077",
+    "response": {
+      "id": "chatcmpl-EZk3P3xN12zRrUYq1RdHL9JIsl9AD",
+      "object": "chat.completion",
+      "created": 1792187219,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Caroline made a stained glass window for a local church. It shows time changing our lives, symbolizing her journey as a transgender woman and encouraging acceptance of growth and change.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_14::episode-005\",\"turn_id\":\"D14:19\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 6794,
+        "completion_tokens": 71,
+        "total_tokens": 6865,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_38f508f26a"
+    },
+    "latency_seconds": 1.731036042
+  }
+]

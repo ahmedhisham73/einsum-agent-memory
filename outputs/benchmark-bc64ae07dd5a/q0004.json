@@ -1,0 +1,37 @@
+{
+  "question_id": "conv-26::q0004",
+  "category": 1,
+  "question": "What did Caroline research?",
+  "gold_answer": "Adoption agencies",
+  "status": "scored",
+  "generated_answer": "Caroline researched adoption agencies, focusing on those that support LGBTQ+ individuals, as well as counseling and mental health services, especially aimed at helping trans people and others dealing with similar issues she experienced. She expressed a strong interest in mental health and counseling careers to support people through their mental health journeys.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_2::episode-002",
+      "turn_id": "D2:8"
+    },
+    {
+      "episode_id": "conv-26::session_2::episode-002",
+      "turn_id": "D2:12"
+    },
+    {
+      "episode_id": "conv-26::session_4::episode-003",
+      "turn_id": "D4:11"
+    },
+    {
+      "episode_id": "conv-26::session_4::episode-003",
+      "turn_id": "D4:13"
+    },
+    {
+      "episode_id": "conv-26::session_7::episode-001",
+      "turn_id": "D7:5"
+    },
+    {
+      "episode_id": "conv-26::session_7::episode-001",
+      "turn_id": "D7:7"
+    }
+  ],
+  "query_elapsed_seconds": 5.746821167,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer provides the specific research focus on adoption agencies and elaborates on additional relevant areas, maintaining the core fact requested."
+}

@@ -1,0 +1,21 @@
+{
+  "question_id": "conv-26::q0139",
+  "category": 4,
+  "question": "What kind of painting did Caroline share with Melanie on October 13, 2023?",
+  "gold_answer": "An abstract painting with blue streaks on a wall.",
+  "status": "scored",
+  "generated_answer": "On October 13, 2023, Caroline shared a painting expressing unity and strength inspired by a visit to an LGBTQ center, capturing everyone's unity and strength. The painting featured vivid, unified colors and was created to represent inclusivity, diversity, and LGBTQ advocacy.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_9::chunk-0010",
+      "turn_id": "D9:14"
+    },
+    {
+      "episode_id": "conv-26::session_9::chunk-0010",
+      "turn_id": "D9:16"
+    }
+  ],
+  "query_elapsed_seconds": 4.10956825,
+  "label": "WRONG",
+  "judge_reason": "The generated answer describes a specific theme and inspiration for the painting, whereas the reference answer simply states it as an abstract painting with blue streaks, lacking semantic equivalence."
+}

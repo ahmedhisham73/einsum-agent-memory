@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "ffa39b49-fe92-493a-94f8-ba700a1749bb",
+    "response": {
+      "id": "chatcmpl-EZkqQ1XRqrFbGCoqY4WrcIk4VZBjx",
+      "object": "chat.completion",
+      "created": 1792190258,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Caroline\",\"property\":\"painting_activity\",\"search\":\"Caroline shared painting with Melanie on October 13, 2023\"},{\"entity\":\"Caroline\",\"property\":\"recent_artwork\",\"search\":\"painting Caroline shared with Melanie on October 13, 2023\"},{\"entity\":\"Caroline\",\"property\":\"art_form\",\"search\":\"type of painting Caroline shared with Melanie on October 13, 2023\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2689,
+        "completion_tokens": 91,
+        "total_tokens": 2780,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_5002831302"
+    },
+    "latency_seconds": 4.305437208
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "a1e9f4c4-9be2-46f2-a8d1-cdf926849a9d",
+    "response": {
+      "id": "chatcmpl-EZkqWOOr206Kw6T0FGftcy741ZU1r",
+      "object": "chat.completion",
+      "created": 1792190264,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Caroline shared with Melanie a painting of an abstract style expressing her journey as a trans woman, featuring red and blue colors representing the binary gender system and their mix symbolizing breaking rigid thinking. This was discussed in their conversation on October 13, 2023.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_17::episode-002\",\"turn_id\":\"D16:13\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 5245,
+        "completion_tokens": 89,
+        "total_tokens": 5334,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_38f508f26a"
+    },
+    "latency_seconds": 5.116133124999999
+  }
+]

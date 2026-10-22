@@ -1,0 +1,125 @@
+[
+  {
+    "stage": "agent_decision",
+    "call_id": "2cb352e9-f253-47b3-8152-f51c73023464",
+    "response": {
+      "id": "chatcmpl-EZrJa3HmXXnyC20NuEukaANnlNRiQ",
+      "object": "chat.completion",
+      "created": 1792215130,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"search\",\"query\":\"Melanie feelings about her family supporting her\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 16,
+        "total_tokens": 167,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f810e81ea"
+    },
+    "latency_seconds": 1.176229333
+  },
+  {
+    "stage": "agent_decision",
+    "call_id": "ab82cd6d-8049-4882-9263-5b7fdb7f04c7",
+    "response": {
+      "id": "chatcmpl-EZrJcp03d6TgqztERdLs9tyluqmee",
+      "object": "chat.completion",
+      "created": 1792215132,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"ready\",\"reason\":\"Melanie expressed positive feelings about her family supporting her; she finds their love and support motivating, helping her through tough times, and making hard times easier. She appreciates them a lot and is proud to be motivated by her husband and kids.\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3155,
+        "completion_tokens": 56,
+        "total_tokens": 3211,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f810e81ea"
+    },
+    "latency_seconds": 1.4061127499999997
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "47e750ff-b13f-4f09-b1df-84f9b8c149eb",
+    "response": {
+      "id": "chatcmpl-EZrJeSzqAp6lUyd2Lnz3zd4CdyvZX",
+      "object": "chat.completion",
+      "created": 1792215134,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Melanie felt very positive and grateful about her family supporting her. She expressed that her family motivates her, gives her love, helps her through tough times, and is her biggest support and motivation. She appreciated and deeply valued the love and encouragement from her husband and kids, describing it as making difficult times easier and creating happiness and bonding in their lives.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_3::chunk-0005\",\"turn_id\":\"D3:10\"},{\"episode_id\":\"conv-26::session_3::chunk-0010\",\"turn_id\":\"D3:14\"},{\"episode_id\":\"conv-26::session_8::chunk-0030\",\"turn_id\":\"D8:32\"},{\"episode_id\":\"conv-26::session_18::chunk-0010\",\"turn_id\":\"D18:11\"},{\"episode_id\":\"conv-26::session_18::chunk-0010\",\"turn_id\":\"D18:13\"},{\"episode_id\":\"conv-26::session_18::chunk-0010\",\"turn_id\":\"D18:15\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2970,
+        "completion_tokens": 227,
+        "total_tokens": 3197,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_802f1283f8"
+    },
+    "latency_seconds": 3.024703291
+  }
+]

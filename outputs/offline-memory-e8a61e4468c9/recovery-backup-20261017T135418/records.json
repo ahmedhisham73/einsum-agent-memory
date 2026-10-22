@@ -1,0 +1,3201 @@
+[
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "attended_event",
+    "value": "a car lover's paradise featuring many classic cars",
+    "modality": "observed",
+    "valid_time": "recently before 11:53 am on 23 March, 2023",
+    "evidence_turn_ids": [
+      "D1:2"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000001",
+    "episode_id": "conv-50::session_1::episode-001",
+    "conversation_id": "conv-50",
+    "session_id": "session_1",
+    "observed_at": "2023-03-23T11:53:00",
+    "source_timestamp": "11:53 am on 23 March, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "spoke_with",
+    "value": "owners of classic cars and heard their stories",
+    "modality": "observed",
+    "valid_time": "recently before 11:53 am on 23 March, 2023",
+    "evidence_turn_ids": [
+      "D1:2"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000002",
+    "episode_id": "conv-50::session_1::episode-001",
+    "conversation_id": "conv-50",
+    "session_id": "session_1",
+    "observed_at": "2023-03-23T11:53:00",
+    "source_timestamp": "11:53 am on 23 March, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "experienced_life_change",
+    "value": "had a big life change",
+    "modality": "observed",
+    "valid_time": "at or before 11:53 am on 23 March, 2023",
+    "evidence_turn_ids": [
+      "D1:3"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000003",
+    "episode_id": "conv-50::session_1::episode-001",
+    "conversation_id": "conv-50",
+    "session_id": "session_1",
+    "observed_at": "2023-03-23T11:53:00",
+    "source_timestamp": "11:53 am on 23 March, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "owns_property",
+    "value": "a new mansion",
+    "modality": "observed",
+    "valid_time": "at or before 11:53 am on 23 March, 2023",
+    "evidence_turn_ids": [
+      "D1:3"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000004",
+    "episode_id": "conv-50::session_1::episode-001",
+    "conversation_id": "conv-50",
+    "session_id": "session_1",
+    "observed_at": "2023-03-23T11:53:00",
+    "source_timestamp": "11:53 am on 23 March, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "goal",
+    "value": "learn about Japanese culture",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D1:5"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000005",
+    "episode_id": "conv-50::session_1::episode-002",
+    "conversation_id": "conv-50",
+    "session_id": "session_1",
+    "observed_at": "2023-03-23T11:53:00",
+    "source_timestamp": "11:53 am on 23 March, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "goal",
+    "value": "expand (context implies personal growth or experience)",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D1:5"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000006",
+    "episode_id": "conv-50::session_1::episode-002",
+    "conversation_id": "conv-50",
+    "session_id": "session_1",
+    "observed_at": "2023-03-23T11:53:00",
+    "source_timestamp": "11:53 am on 23 March, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "travel_history_to_Japan",
+    "value": "never been to Japan",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D1:7"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000007",
+    "episode_id": "conv-50::session_1::episode-002",
+    "conversation_id": "conv-50",
+    "session_id": "session_1",
+    "observed_at": "2023-03-23T11:53:00",
+    "source_timestamp": "11:53 am on 23 March, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "interest",
+    "value": "fascinated by Japanese traditions",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D1:7"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000008",
+    "episode_id": "conv-50::session_1::episode-002",
+    "conversation_id": "conv-50",
+    "session_id": "session_1",
+    "observed_at": "2023-03-23T11:53:00",
+    "source_timestamp": "11:53 am on 23 March, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "anticipation",
+    "value": "can't wait to experience Japanese culture",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D1:7"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000009",
+    "episode_id": "conv-50::session_1::episode-002",
+    "conversation_id": "conv-50",
+    "session_id": "session_1",
+    "observed_at": "2023-03-23T11:53:00",
+    "source_timestamp": "11:53 am on 23 March, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "travel_destination",
+    "value": "there (Japan)",
+    "modality": "planned",
+    "valid_time": "next month from 23 March, 2023",
+    "evidence_turn_ids": [
+      "D1:9"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000010",
+    "episode_id": "conv-50::session_1::episode-003",
+    "conversation_id": "conv-50",
+    "session_id": "session_1",
+    "observed_at": "2023-03-23T11:53:00",
+    "source_timestamp": "11:53 am on 23 March, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "accommodation_quality",
+    "value": "such a nice place",
+    "modality": "planned",
+    "valid_time": "next month from 23 March, 2023",
+    "evidence_turn_ids": [
+      "D1:9"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000011",
+    "episode_id": "conv-50::session_1::episode-003",
+    "conversation_id": "conv-50",
+    "session_id": "session_1",
+    "observed_at": "2023-03-23T11:53:00",
+    "source_timestamp": "11:53 am on 23 March, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "accommodation_finder",
+    "value": "my agent",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D1:11"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000012",
+    "episode_id": "conv-50::session_1::episode-003",
+    "conversation_id": "conv-50",
+    "session_id": "session_1",
+    "observed_at": "2023-03-23T11:53:00",
+    "source_timestamp": "11:53 am on 23 March, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "trip_plans",
+    "value": "explore the city, try out different local cuisines, collaborate with musicians in the area",
+    "modality": "planned",
+    "valid_time": "during the trip in Japan",
+    "evidence_turn_ids": [
+      "D1:13"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000013",
+    "episode_id": "conv-50::session_1::episode-003",
+    "conversation_id": "conv-50",
+    "session_id": "session_1",
+    "observed_at": "2023-03-23T11:53:00",
+    "source_timestamp": "11:53 am on 23 March, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "stay_duration_in_japan",
+    "value": "a few months",
+    "modality": "planned",
+    "valid_time": "after next month from 23 March, 2023",
+    "evidence_turn_ids": [
+      "D1:15"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000014",
+    "episode_id": "conv-50::session_1::episode-003",
+    "conversation_id": "conv-50",
+    "session_id": "session_1",
+    "observed_at": "2023-03-23T11:53:00",
+    "source_timestamp": "11:53 am on 23 March, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "post_japan_destination",
+    "value": "Boston",
+    "modality": "planned",
+    "valid_time": "after staying a few months in Japan",
+    "evidence_turn_ids": [
+      "D1:15"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000015",
+    "episode_id": "conv-50::session_1::episode-003",
+    "conversation_id": "conv-50",
+    "session_id": "session_1",
+    "observed_at": "2023-03-23T11:53:00",
+    "source_timestamp": "11:53 am on 23 March, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "spent_time_at",
+    "value": "a beautiful park with a lake and a few boats",
+    "modality": "observed",
+    "valid_time": "recently before 11:53 am on 23 March, 2023",
+    "evidence_turn_ids": [
+      "D1:16"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000016",
+    "episode_id": "conv-50::session_1::episode-004",
+    "conversation_id": "conv-50",
+    "session_id": "session_1",
+    "observed_at": "2023-03-23T11:53:00",
+    "source_timestamp": "11:53 am on 23 March, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "visited_park",
+    "value": "never visited the park Dave mentioned",
+    "modality": "observed",
+    "valid_time": "up to 11:53 am on 23 March, 2023",
+    "evidence_turn_ids": [
+      "D1:17"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000017",
+    "episode_id": "conv-50::session_1::episode-004",
+    "conversation_id": "conv-50",
+    "session_id": "session_1",
+    "observed_at": "2023-03-23T11:53:00",
+    "source_timestamp": "11:53 am on 23 March, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "intends_to_visit_park",
+    "value": "plans to visit the park after returning from his trip",
+    "modality": "planned",
+    "valid_time": "after return from current trip",
+    "evidence_turn_ids": [
+      "D1:17"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000018",
+    "episode_id": "conv-50::session_1::episode-004",
+    "conversation_id": "conv-50",
+    "session_id": "session_1",
+    "observed_at": "2023-03-23T11:53:00",
+    "source_timestamp": "11:53 am on 23 March, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "owns_car",
+    "value": "a new luxury car",
+    "modality": "observed",
+    "valid_time": "at least by 26 March 2023",
+    "evidence_turn_ids": [
+      "D2:1"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000019",
+    "episode_id": "conv-50::session_2::episode-001",
+    "conversation_id": "conv-50",
+    "session_id": "session_2",
+    "observed_at": "2023-03-26T16:45:00",
+    "source_timestamp": "4:45 pm on 26 March, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "car_experience",
+    "value": "amazing ride, super smooth, real powerful",
+    "modality": "observed",
+    "valid_time": "at least by 26 March 2023",
+    "evidence_turn_ids": [
+      "D2:3"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000020",
+    "episode_id": "conv-50::session_2::episode-001",
+    "conversation_id": "conv-50",
+    "session_id": "session_2",
+    "observed_at": "2023-03-26T16:45:00",
+    "source_timestamp": "4:45 pm on 26 March, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "car_feeling",
+    "value": "feels like an adrenaline rush every time stepping in",
+    "modality": "observed",
+    "valid_time": "at least by 26 March 2023",
+    "evidence_turn_ids": [
+      "D2:5"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000021",
+    "episode_id": "conv-50::session_2::episode-001",
+    "conversation_id": "conv-50",
+    "session_id": "session_2",
+    "observed_at": "2023-03-26T16:45:00",
+    "source_timestamp": "4:45 pm on 26 March, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "car_photo_date",
+    "value": "photo from 25 March 2023",
+    "modality": "observed",
+    "valid_time": "around 25 March 2023",
+    "evidence_turn_ids": [
+      "D2:5"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000022",
+    "episode_id": "conv-50::session_2::episode-001",
+    "conversation_id": "conv-50",
+    "session_id": "session_2",
+    "observed_at": "2023-03-26T16:45:00",
+    "source_timestamp": "4:45 pm on 26 March, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "car_image_url",
+    "value": "https://i.redd.it/v7n19f5lcqn91.jpg",
+    "modality": "observed",
+    "valid_time": "around 25 March 2023",
+    "evidence_turn_ids": [
+      "D2:5"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000023",
+    "episode_id": "conv-50::session_2::episode-001",
+    "conversation_id": "conv-50",
+    "session_id": "session_2",
+    "observed_at": "2023-03-26T16:45:00",
+    "source_timestamp": "4:45 pm on 26 March, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "car_color",
+    "value": "red",
+    "modality": "observed",
+    "valid_time": "at least by 26 March 2023",
+    "evidence_turn_ids": [
+      "D2:5"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000024",
+    "episode_id": "conv-50::session_2::episode-001",
+    "conversation_id": "conv-50",
+    "session_id": "session_2",
+    "observed_at": "2023-03-26T16:45:00",
+    "source_timestamp": "4:45 pm on 26 March, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "car_type_estimated",
+    "value": "sports car, possibly Ferrari 488 GTB",
+    "modality": "uncertain",
+    "valid_time": "at least by 26 March 2023",
+    "evidence_turn_ids": [
+      "D2:5"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000025",
+    "episode_id": "conv-50::session_2::episode-001",
+    "conversation_id": "conv-50",
+    "session_id": "session_2",
+    "observed_at": "2023-03-26T16:45:00",
+    "source_timestamp": "4:45 pm on 26 March, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "states",
+    "value": "doing good",
+    "modality": "observed",
+    "valid_time": "4:45 pm on 26 March, 2023",
+    "evidence_turn_ids": [
+      "D2:8"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000026",
+    "episode_id": "conv-50::session_2::episode-002",
+    "conversation_id": "conv-50",
+    "session_id": "session_2",
+    "observed_at": "2023-03-26T16:45:00",
+    "source_timestamp": "4:45 pm on 26 March, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "attended event",
+    "value": "music festival in Boston last weekend",
+    "modality": "observed",
+    "valid_time": "last weekend before 4:45 pm on 26 March, 2023",
+    "evidence_turn_ids": [
+      "D2:8"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000027",
+    "episode_id": "conv-50::session_2::episode-002",
+    "conversation_id": "conv-50",
+    "session_id": "session_2",
+    "observed_at": "2023-03-26T16:45:00",
+    "source_timestamp": "4:45 pm on 26 March, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "music festival in Boston",
+    "entity_type": "event",
+    "property": "atmosphere",
+    "value": "electric",
+    "modality": "observed",
+    "valid_time": "during last weekend before 4:45 pm on 26 March, 2023",
+    "evidence_turn_ids": [
+      "D2:8"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000028",
+    "episode_id": "conv-50::session_2::episode-002",
+    "conversation_id": "conv-50",
+    "session_id": "session_2",
+    "observed_at": "2023-03-26T16:45:00",
+    "source_timestamp": "4:45 pm on 26 March, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "music festival in Boston",
+    "entity_type": "event",
+    "property": "featured bands",
+    "value": "many cool bands playing",
+    "modality": "observed",
+    "valid_time": "during last weekend before 4:45 pm on 26 March, 2023",
+    "evidence_turn_ids": [
+      "D2:8"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000029",
+    "episode_id": "conv-50::session_2::episode-002",
+    "conversation_id": "conv-50",
+    "session_id": "session_2",
+    "observed_at": "2023-03-26T16:45:00",
+    "source_timestamp": "4:45 pm on 26 March, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "favorite band at festival",
+    "value": "Aerosmith",
+    "modality": "observed",
+    "valid_time": "during last weekend before 4:45 pm on 26 March, 2023",
+    "evidence_turn_ids": [
+      "D2:10"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000030",
+    "episode_id": "conv-50::session_2::episode-002",
+    "conversation_id": "conv-50",
+    "session_id": "session_2",
+    "observed_at": "2023-03-26T16:45:00",
+    "source_timestamp": "4:45 pm on 26 March, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Aerosmith",
+    "entity_type": "organization",
+    "property": "performance quality",
+    "value": "incredible",
+    "modality": "observed",
+    "valid_time": "during last weekend before 4:45 pm on 26 March, 2023",
+    "evidence_turn_ids": [
+      "D2:10"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000031",
+    "episode_id": "conv-50::session_2::episode-002",
+    "conversation_id": "conv-50",
+    "session_id": "session_2",
+    "observed_at": "2023-03-26T16:45:00",
+    "source_timestamp": "4:45 pm on 26 March, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "first time saw live",
+    "value": "Aerosmith",
+    "modality": "observed",
+    "valid_time": "before 4:45 pm on 26 March, 2023",
+    "evidence_turn_ids": [
+      "D2:12"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000032",
+    "episode_id": "conv-50::session_2::episode-002",
+    "conversation_id": "conv-50",
+    "session_id": "session_2",
+    "observed_at": "2023-03-26T16:45:00",
+    "source_timestamp": "4:45 pm on 26 March, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "did meet band after show",
+    "value": "no",
+    "modality": "negated",
+    "valid_time": "after Aerosmith live show before 4:45 pm on 26 March, 2023",
+    "evidence_turn_ids": [
+      "D2:14"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000033",
+    "episode_id": "conv-50::session_2::episode-002",
+    "conversation_id": "conv-50",
+    "session_id": "session_2",
+    "observed_at": "2023-03-26T16:45:00",
+    "source_timestamp": "4:45 pm on 26 March, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "has_new_vehicle",
+    "value": "a new ride",
+    "modality": "observed",
+    "valid_time": "last week or recently before 4:45 pm on 26 March, 2023",
+    "evidence_turn_ids": [
+      "D2:17"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000034",
+    "episode_id": "conv-50::session_2::episode-003",
+    "conversation_id": "conv-50",
+    "session_id": "session_2",
+    "observed_at": "2023-03-26T16:45:00",
+    "source_timestamp": "4:45 pm on 26 March, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "created_music",
+    "value": "wrote some new tunes",
+    "modality": "observed",
+    "valid_time": "last week",
+    "evidence_turn_ids": [
+      "D2:17"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000035",
+    "episode_id": "conv-50::session_2::episode-003",
+    "conversation_id": "conv-50",
+    "session_id": "session_2",
+    "observed_at": "2023-03-26T16:45:00",
+    "source_timestamp": "4:45 pm on 26 March, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "had_studio_sessions",
+    "value": "a few studio sessions",
+    "modality": "observed",
+    "valid_time": "last week",
+    "evidence_turn_ids": [
+      "D2:17"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000036",
+    "episode_id": "conv-50::session_2::episode-003",
+    "conversation_id": "conv-50",
+    "session_id": "session_2",
+    "observed_at": "2023-03-26T16:45:00",
+    "source_timestamp": "4:45 pm on 26 March, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "intends_to_collaborate",
+    "value": "excited to collaborate",
+    "modality": "observed",
+    "valid_time": "future oriented as of 4:45 pm on 26 March, 2023",
+    "evidence_turn_ids": [
+      "D2:17"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000037",
+    "episode_id": "conv-50::session_2::episode-003",
+    "conversation_id": "conv-50",
+    "session_id": "session_2",
+    "observed_at": "2023-03-26T16:45:00",
+    "source_timestamp": "4:45 pm on 26 March, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "plans_to_share_music",
+    "value": "can't wait to share it with everyone",
+    "modality": "observed",
+    "valid_time": "future oriented as of 4:45 pm on 26 March, 2023",
+    "evidence_turn_ids": [
+      "D2:17"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000038",
+    "episode_id": "conv-50::session_2::episode-003",
+    "conversation_id": "conv-50",
+    "session_id": "session_2",
+    "observed_at": "2023-03-26T16:45:00",
+    "source_timestamp": "4:45 pm on 26 March, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "attended_event",
+    "value": "music festival in Tokyo",
+    "modality": "observed",
+    "valid_time": "recent before 20 April 2023",
+    "evidence_turn_ids": [
+      "D3:1",
+      "D3:3"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000039",
+    "episode_id": "conv-50::session_3::episode-001",
+    "conversation_id": "conv-50",
+    "session_id": "session_3",
+    "observed_at": "2023-04-20T16:15:00",
+    "source_timestamp": "4:15 pm on 20 April, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "saw_bands",
+    "value": "no",
+    "modality": "observed",
+    "valid_time": "recent before 20 April 2023",
+    "evidence_turn_ids": [
+      "D3:3"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000040",
+    "episode_id": "conv-50::session_3::episode-001",
+    "conversation_id": "conv-50",
+    "session_id": "session_3",
+    "observed_at": "2023-04-20T16:15:00",
+    "source_timestamp": "4:15 pm on 20 April, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "met_people",
+    "value": "talented artists and industry professionals",
+    "modality": "observed",
+    "valid_time": "recent before 20 April 2023",
+    "evidence_turn_ids": [
+      "D3:3"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000041",
+    "episode_id": "conv-50::session_3::episode-001",
+    "conversation_id": "conv-50",
+    "session_id": "session_3",
+    "observed_at": "2023-04-20T16:15:00",
+    "source_timestamp": "4:15 pm on 20 April, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "received_advice_from",
+    "value": "professionals in the music industry",
+    "modality": "observed",
+    "valid_time": "recent before 20 April 2023",
+    "evidence_turn_ids": [
+      "D3:5"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000042",
+    "episode_id": "conv-50::session_3::episode-001",
+    "conversation_id": "conv-50",
+    "session_id": "session_3",
+    "observed_at": "2023-04-20T16:15:00",
+    "source_timestamp": "4:15 pm on 20 April, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "advice_content",
+    "value": "stay true to myself and sound unique",
+    "modality": "observed",
+    "valid_time": "recent before 20 April 2023",
+    "evidence_turn_ids": [
+      "D3:7"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000043",
+    "episode_id": "conv-50::session_3::episode-001",
+    "conversation_id": "conv-50",
+    "session_id": "session_3",
+    "observed_at": "2023-04-20T16:15:00",
+    "source_timestamp": "4:15 pm on 20 April, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "music_direction_thoughts",
+    "value": "thinking about where I want my music to go",
+    "modality": "observed",
+    "valid_time": "recent before 20 April 2023",
+    "evidence_turn_ids": [
+      "D3:7"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000044",
+    "episode_id": "conv-50::session_3::episode-001",
+    "conversation_id": "conv-50",
+    "session_id": "session_3",
+    "observed_at": "2023-04-20T16:15:00",
+    "source_timestamp": "4:15 pm on 20 April, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "music_goal",
+    "value": "touring the world, performing for different people and connecting with them",
+    "modality": "observed",
+    "valid_time": "as of 20 April 2023",
+    "evidence_turn_ids": [
+      "D3:9"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000045",
+    "episode_id": "conv-50::session_3::episode-001",
+    "conversation_id": "conv-50",
+    "session_id": "session_3",
+    "observed_at": "2023-04-20T16:15:00",
+    "source_timestamp": "4:15 pm on 20 April, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "music_goal",
+    "value": "reach a global audience and make an impact",
+    "modality": "observed",
+    "valid_time": "as of 20 April 2023",
+    "evidence_turn_ids": [
+      "D3:9"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000046",
+    "episode_id": "conv-50::session_3::episode-001",
+    "conversation_id": "conv-50",
+    "session_id": "session_3",
+    "observed_at": "2023-04-20T16:15:00",
+    "source_timestamp": "4:15 pm on 20 April, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "future_travel_plan",
+    "value": "trip to Boston after finishing the Frank Ocean tour",
+    "modality": "planned",
+    "valid_time": "after current Frank Ocean tour as of 20 April 2023",
+    "evidence_turn_ids": [
+      "D3:9"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000047",
+    "episode_id": "conv-50::session_3::episode-001",
+    "conversation_id": "conv-50",
+    "session_id": "session_3",
+    "observed_at": "2023-04-20T16:15:00",
+    "source_timestamp": "4:15 pm on 20 April, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "expectation_about_Boston_music_scene",
+    "value": "heard that the music scene in Boston is awesome",
+    "modality": "observed",
+    "valid_time": "as of 20 April 2023",
+    "evidence_turn_ids": [
+      "D3:9"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000048",
+    "episode_id": "conv-50::session_3::episode-001",
+    "conversation_id": "conv-50",
+    "session_id": "session_3",
+    "observed_at": "2023-04-20T16:15:00",
+    "source_timestamp": "4:15 pm on 20 April, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "planned_trip_destination",
+    "value": "Boston",
+    "modality": "planned",
+    "valid_time": "around 20 April 2023",
+    "evidence_turn_ids": [
+      "D3:10"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000049",
+    "episode_id": "conv-50::session_3::episode-002",
+    "conversation_id": "conv-50",
+    "session_id": "session_3",
+    "observed_at": "2023-04-20T16:15:00",
+    "source_timestamp": "4:15 pm on 20 April, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "planned_activity",
+    "value": "show Calvin around Boston",
+    "modality": "planned",
+    "valid_time": "around 20 April 2023",
+    "evidence_turn_ids": [
+      "D3:10"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000050",
+    "episode_id": "conv-50::session_3::episode-002",
+    "conversation_id": "conv-50",
+    "session_id": "session_3",
+    "observed_at": "2023-04-20T16:15:00",
+    "source_timestamp": "4:15 pm on 20 April, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Boston",
+    "entity_type": "place",
+    "property": "music_venues",
+    "value": "Paradise Rock, House of Blues, Fenway Park",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D3:10"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000051",
+    "episode_id": "conv-50::session_3::episode-002",
+    "conversation_id": "conv-50",
+    "session_id": "session_3",
+    "observed_at": "2023-04-20T16:15:00",
+    "source_timestamp": "4:15 pm on 20 April, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "planned_performances_location",
+    "value": "Boston",
+    "modality": "planned",
+    "valid_time": "around 20 April 2023",
+    "evidence_turn_ids": [
+      "D3:10"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000052",
+    "episode_id": "conv-50::session_3::episode-002",
+    "conversation_id": "conv-50",
+    "session_id": "session_3",
+    "observed_at": "2023-04-20T16:15:00",
+    "source_timestamp": "4:15 pm on 20 April, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "planned_seat_at_Performances",
+    "value": "front row",
+    "modality": "planned",
+    "valid_time": "around 20 April 2023",
+    "evidence_turn_ids": [
+      "D3:10"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000053",
+    "episode_id": "conv-50::session_3::episode-002",
+    "conversation_id": "conv-50",
+    "session_id": "session_3",
+    "observed_at": "2023-04-20T16:15:00",
+    "source_timestamp": "4:15 pm on 20 April, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "attended_event",
+    "value": "car show",
+    "modality": "observed",
+    "valid_time": "last weekend before 2023-04-20",
+    "evidence_turn_ids": [
+      "D3:12"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000054",
+    "episode_id": "conv-50::session_3::episode-003",
+    "conversation_id": "conv-50",
+    "session_id": "session_3",
+    "observed_at": "2023-04-20T16:15:00",
+    "source_timestamp": "4:15 pm on 20 April, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "interest",
+    "value": "auto engineering",
+    "modality": "observed",
+    "valid_time": "current as of 2023-04-20",
+    "evidence_turn_ids": [
+      "D3:12"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000055",
+    "episode_id": "conv-50::session_3::episode-003",
+    "conversation_id": "conv-50",
+    "session_id": "session_3",
+    "observed_at": "2023-04-20T16:15:00",
+    "source_timestamp": "4:15 pm on 20 April, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "location",
+    "value": "Boston",
+    "modality": "observed",
+    "valid_time": "current as of 2023-04-20",
+    "evidence_turn_ids": [
+      "D3:12"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000056",
+    "episode_id": "conv-50::session_3::episode-003",
+    "conversation_id": "conv-50",
+    "session_id": "session_3",
+    "observed_at": "2023-04-20T16:15:00",
+    "source_timestamp": "4:15 pm on 20 April, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "shared_media",
+    "value": "photo of a green mustang parked in a field of grass",
+    "modality": "observed",
+    "valid_time": "at 2023-04-20T16:15:00",
+    "evidence_turn_ids": [
+      "D3:12"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000057",
+    "episode_id": "conv-50::session_3::episode-003",
+    "conversation_id": "conv-50",
+    "session_id": "session_3",
+    "observed_at": "2023-04-20T16:15:00",
+    "source_timestamp": "4:15 pm on 20 April, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "owns_car",
+    "value": "red sports car",
+    "modality": "observed",
+    "valid_time": "current as of 2023-04-20",
+    "evidence_turn_ids": [
+      "D3:13"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000058",
+    "episode_id": "conv-50::session_3::episode-003",
+    "conversation_id": "conv-50",
+    "session_id": "session_3",
+    "observed_at": "2023-04-20T16:15:00",
+    "source_timestamp": "4:15 pm on 20 April, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "car_work",
+    "value": "put a lot of work into own red sports car",
+    "modality": "observed",
+    "valid_time": "current as of 2023-04-20",
+    "evidence_turn_ids": [
+      "D3:13"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000059",
+    "episode_id": "conv-50::session_3::episode-003",
+    "conversation_id": "conv-50",
+    "session_id": "session_3",
+    "observed_at": "2023-04-20T16:15:00",
+    "source_timestamp": "4:15 pm on 20 April, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "plans_to_see",
+    "value": "Dave in Boston",
+    "modality": "observed",
+    "valid_time": "future relative to 2023-04-20",
+    "evidence_turn_ids": [
+      "D3:13"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000060",
+    "episode_id": "conv-50::session_3::episode-003",
+    "conversation_id": "conv-50",
+    "session_id": "session_3",
+    "observed_at": "2023-04-20T16:15:00",
+    "source_timestamp": "4:15 pm on 20 April, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "status_in_boston",
+    "value": "busy with rehearsals and traveling",
+    "modality": "observed",
+    "valid_time": "as of 4:15 pm on 20 April, 2023",
+    "evidence_turn_ids": [
+      "D3:15"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000061",
+    "episode_id": "conv-50::session_3::episode-004",
+    "conversation_id": "conv-50",
+    "session_id": "session_3",
+    "observed_at": "2023-04-20T16:15:00",
+    "source_timestamp": "4:15 pm on 20 April, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "plans_in_boston",
+    "value": "explore city, try delicious food, visit popular attractions",
+    "modality": "planned",
+    "valid_time": "in near future from 4:15 pm on 20 April, 2023",
+    "evidence_turn_ids": [
+      "D3:15"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000062",
+    "episode_id": "conv-50::session_3::episode-004",
+    "conversation_id": "conv-50",
+    "session_id": "session_3",
+    "observed_at": "2023-04-20T16:15:00",
+    "source_timestamp": "4:15 pm on 20 April, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "intent_to_dine",
+    "value": "grab a bite together with Dave when in Boston",
+    "modality": "planned",
+    "valid_time": "in near future from 4:15 pm on 20 April, 2023",
+    "evidence_turn_ids": [
+      "D3:15"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000063",
+    "episode_id": "conv-50::session_3::episode-004",
+    "conversation_id": "conv-50",
+    "session_id": "session_3",
+    "observed_at": "2023-04-20T16:15:00",
+    "source_timestamp": "4:15 pm on 20 April, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "intent_to_host",
+    "value": "show favorite food spots in Boston to Calvin",
+    "modality": "planned",
+    "valid_time": "in near future from 4:15 pm on 20 April, 2023",
+    "evidence_turn_ids": [
+      "D3:16"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000064",
+    "episode_id": "conv-50::session_3::episode-004",
+    "conversation_id": "conv-50",
+    "session_id": "session_3",
+    "observed_at": "2023-04-20T16:15:00",
+    "source_timestamp": "4:15 pm on 20 April, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "plans_to_introduce",
+    "value": "share amazing music and food in Boston with Calvin",
+    "modality": "planned",
+    "valid_time": "in near future from 4:15 pm on 20 April, 2023",
+    "evidence_turn_ids": [
+      "D3:18"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000065",
+    "episode_id": "conv-50::session_3::episode-004",
+    "conversation_id": "conv-50",
+    "session_id": "session_3",
+    "observed_at": "2023-04-20T16:15:00",
+    "source_timestamp": "4:15 pm on 20 April, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "opened_business",
+    "value": "car maintenance shop",
+    "modality": "observed",
+    "valid_time": "by 6:24 pm on 1 May, 2023",
+    "evidence_turn_ids": [
+      "D4:1"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000066",
+    "episode_id": "conv-50::session_4::episode-001",
+    "conversation_id": "conv-50",
+    "session_id": "session_4",
+    "observed_at": "2023-05-01T18:24:00",
+    "source_timestamp": "6:24 pm on 1 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "feels_satisfaction_about",
+    "value": "having a spot to work on cars",
+    "modality": "observed",
+    "valid_time": "at 6:24 pm on 1 May, 2023",
+    "evidence_turn_ids": [
+      "D4:1"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000067",
+    "episode_id": "conv-50::session_4::episode-001",
+    "conversation_id": "conv-50",
+    "session_id": "session_4",
+    "observed_at": "2023-05-01T18:24:00",
+    "source_timestamp": "6:24 pm on 1 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "dream_status",
+    "value": "opening a car maintenance shop was his dream come true",
+    "modality": "observed",
+    "valid_time": "at 6:24 pm on 1 May, 2023",
+    "evidence_turn_ids": [
+      "D4:1",
+      "D4:3"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000068",
+    "episode_id": "conv-50::session_4::episode-001",
+    "conversation_id": "conv-50",
+    "session_id": "session_4",
+    "observed_at": "2023-05-01T18:24:00",
+    "source_timestamp": "6:24 pm on 1 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "worked_hard_for",
+    "value": "opening the car maintenance shop",
+    "modality": "observed",
+    "valid_time": "before 6:24 pm on 1 May, 2023",
+    "evidence_turn_ids": [
+      "D4:1",
+      "D4:3"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000069",
+    "episode_id": "conv-50::session_4::episode-001",
+    "conversation_id": "conv-50",
+    "session_id": "session_4",
+    "observed_at": "2023-05-01T18:24:00",
+    "source_timestamp": "6:24 pm on 1 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "congratulated",
+    "value": "Dave for opening his car maintenance shop",
+    "modality": "observed",
+    "valid_time": "at 6:24 pm on 1 May, 2023",
+    "evidence_turn_ids": [
+      "D4:2"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000070",
+    "episode_id": "conv-50::session_4::episode-001",
+    "conversation_id": "conv-50",
+    "session_id": "session_4",
+    "observed_at": "2023-05-01T18:24:00",
+    "source_timestamp": "6:24 pm on 1 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "achievement",
+    "value": "opened a shop",
+    "modality": "observed",
+    "valid_time": "before 6:24 pm on 1 May, 2023",
+    "evidence_turn_ids": [
+      "D4:5"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000071",
+    "episode_id": "conv-50::session_4::episode-002",
+    "conversation_id": "conv-50",
+    "session_id": "session_4",
+    "observed_at": "2023-05-01T18:24:00",
+    "source_timestamp": "6:24 pm on 1 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "dream",
+    "value": "open a shop",
+    "modality": "observed",
+    "valid_time": "before 6:24 pm on 1 May, 2023",
+    "evidence_turn_ids": [
+      "D4:5"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000072",
+    "episode_id": "conv-50::session_4::episode-002",
+    "conversation_id": "conv-50",
+    "session_id": "session_4",
+    "observed_at": "2023-05-01T18:24:00",
+    "source_timestamp": "6:24 pm on 1 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "dream",
+    "value": "work on classic cars",
+    "modality": "planned",
+    "valid_time": "after opening a shop",
+    "evidence_turn_ids": [
+      "D4:5"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000073",
+    "episode_id": "conv-50::session_4::episode-002",
+    "conversation_id": "conv-50",
+    "session_id": "session_4",
+    "observed_at": "2023-05-01T18:24:00",
+    "source_timestamp": "6:24 pm on 1 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "interest",
+    "value": "classic cars' design and engineering",
+    "modality": "observed",
+    "valid_time": "current",
+    "evidence_turn_ids": [
+      "D4:5"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000074",
+    "episode_id": "conv-50::session_4::episode-002",
+    "conversation_id": "conv-50",
+    "session_id": "session_4",
+    "observed_at": "2023-05-01T18:24:00",
+    "source_timestamp": "6:24 pm on 1 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "opinion_about_Dave",
+    "value": "Dave has guts and ambition",
+    "modality": "observed",
+    "valid_time": "current",
+    "evidence_turn_ids": [
+      "D4:4"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000075",
+    "episode_id": "conv-50::session_4::episode-002",
+    "conversation_id": "conv-50",
+    "session_id": "session_4",
+    "observed_at": "2023-05-01T18:24:00",
+    "source_timestamp": "6:24 pm on 1 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "interest",
+    "value": "classic cars",
+    "modality": "observed",
+    "valid_time": "before 1 May, 2023",
+    "evidence_turn_ids": [
+      "D4:7"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000076",
+    "episode_id": "conv-50::session_4::episode-003",
+    "conversation_id": "conv-50",
+    "session_id": "session_4",
+    "observed_at": "2023-05-01T18:24:00",
+    "source_timestamp": "6:24 pm on 1 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "restored_car",
+    "value": "classic car restored in the previous year",
+    "modality": "observed",
+    "valid_time": "last year before 1 May, 2023",
+    "evidence_turn_ids": [
+      "D4:7"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000077",
+    "episode_id": "conv-50::session_4::episode-003",
+    "conversation_id": "conv-50",
+    "session_id": "session_4",
+    "observed_at": "2023-05-01T18:24:00",
+    "source_timestamp": "6:24 pm on 1 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "emotional_reaction",
+    "value": "thrilled to restore a classic car",
+    "modality": "observed",
+    "valid_time": "last year before 1 May, 2023",
+    "evidence_turn_ids": [
+      "D4:7"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000078",
+    "episode_id": "conv-50::session_4::episode-003",
+    "conversation_id": "conv-50",
+    "session_id": "session_4",
+    "observed_at": "2023-05-01T18:24:00",
+    "source_timestamp": "6:24 pm on 1 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "restored car",
+    "entity_type": "object",
+    "property": "engine_photo",
+    "value": "photo shows engine with a small air filter",
+    "modality": "observed",
+    "valid_time": "1 May, 2023",
+    "evidence_turn_ids": [
+      "D4:7"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000079",
+    "episode_id": "conv-50::session_4::episode-003",
+    "conversation_id": "conv-50",
+    "session_id": "session_4",
+    "observed_at": "2023-05-01T18:24:00",
+    "source_timestamp": "6:24 pm on 1 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "restoration_process",
+    "value": "challenging but worth it",
+    "modality": "observed",
+    "valid_time": "last year before 1 May, 2023",
+    "evidence_turn_ids": [
+      "D4:9"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000080",
+    "episode_id": "conv-50::session_4::episode-003",
+    "conversation_id": "conv-50",
+    "session_id": "session_4",
+    "observed_at": "2023-05-01T18:24:00",
+    "source_timestamp": "6:24 pm on 1 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "feeling_after_creation",
+    "value": "amazing feeling when you create something and it resonates with people",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D4:12"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000081",
+    "episode_id": "conv-50::session_4::episode-004",
+    "conversation_id": "conv-50",
+    "session_id": "session_4",
+    "observed_at": "2023-05-01T18:24:00",
+    "source_timestamp": "6:24 pm on 1 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "feeling_after_completion",
+    "value": "satisfying when you finish something made from scratch",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D4:12"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000082",
+    "episode_id": "conv-50::session_4::episode-004",
+    "conversation_id": "conv-50",
+    "session_id": "session_4",
+    "observed_at": "2023-05-01T18:24:00",
+    "source_timestamp": "6:24 pm on 1 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "feeling_after_creation",
+    "value": "amazing feeling to see something you create become a reality",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D4:13"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000083",
+    "episode_id": "conv-50::session_4::episode-004",
+    "conversation_id": "conv-50",
+    "session_id": "session_4",
+    "observed_at": "2023-05-01T18:24:00",
+    "source_timestamp": "6:24 pm on 1 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "motivation_source",
+    "value": "mix of dedication and passion",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D4:15"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000084",
+    "episode_id": "conv-50::session_4::episode-004",
+    "conversation_id": "conv-50",
+    "session_id": "session_4",
+    "observed_at": "2023-05-01T18:24:00",
+    "source_timestamp": "6:24 pm on 1 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "motivation_source",
+    "value": "blend of dedication and passion",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D4:14"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000085",
+    "episode_id": "conv-50::session_4::episode-004",
+    "conversation_id": "conv-50",
+    "session_id": "session_4",
+    "observed_at": "2023-05-01T18:24:00",
+    "source_timestamp": "6:24 pm on 1 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "owns_shop_photo",
+    "value": "photo of Dave's shop with people standing in front of a car",
+    "modality": "observed",
+    "valid_time": "2023-05-01",
+    "evidence_turn_ids": [
+      "D4:17"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000086",
+    "episode_id": "conv-50::session_4::episode-005",
+    "conversation_id": "conv-50",
+    "session_id": "session_4",
+    "observed_at": "2023-05-01T18:24:00",
+    "source_timestamp": "6:24 pm on 1 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave's shop",
+    "entity_type": "place",
+    "property": "service_scope",
+    "value": "works on all kinds of cars including regular maintenance and full restorations of classic cars",
+    "modality": "observed",
+    "valid_time": "2023-05-01",
+    "evidence_turn_ids": [
+      "D4:19"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000087",
+    "episode_id": "conv-50::session_4::episode-005",
+    "conversation_id": "conv-50",
+    "session_id": "session_4",
+    "observed_at": "2023-05-01T18:24:00",
+    "source_timestamp": "6:24 pm on 1 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "feeling_about_work",
+    "value": "car work keeps him busy and happy; passionate about working on cars; finds it rewarding and satisfying to help people keep their cars in good condition",
+    "modality": "observed",
+    "valid_time": "2023-05-01",
+    "evidence_turn_ids": [
+      "D4:19",
+      "D4:21"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000088",
+    "episode_id": "conv-50::session_4::episode-005",
+    "conversation_id": "conv-50",
+    "session_id": "session_4",
+    "observed_at": "2023-05-01T18:24:00",
+    "source_timestamp": "6:24 pm on 1 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "appreciation_for_support",
+    "value": "appreciates encouragement; values that his work brings joy to others",
+    "modality": "observed",
+    "valid_time": "2023-05-01",
+    "evidence_turn_ids": [
+      "D4:23"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000089",
+    "episode_id": "conv-50::session_4::episode-005",
+    "conversation_id": "conv-50",
+    "session_id": "session_4",
+    "observed_at": "2023-05-01T18:24:00",
+    "source_timestamp": "6:24 pm on 1 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave's shop",
+    "entity_type": "place",
+    "property": "invitation_to_visit",
+    "value": "Dave invites Calvin to come by sometime if he can",
+    "modality": "observed",
+    "valid_time": "2023-05-01",
+    "evidence_turn_ids": [
+      "D4:17"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000090",
+    "episode_id": "conv-50::session_4::episode-005",
+    "conversation_id": "conv-50",
+    "session_id": "session_4",
+    "observed_at": "2023-05-01T18:24:00",
+    "source_timestamp": "6:24 pm on 1 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "gift_received",
+    "value": "necklace with a diamond pendant",
+    "modality": "observed",
+    "valid_time": "before D4:26",
+    "evidence_turn_ids": [
+      "D4:26"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000091",
+    "episode_id": "conv-50::session_4::episode-006",
+    "conversation_id": "conv-50",
+    "session_id": "session_4",
+    "observed_at": "2023-05-01T18:24:00",
+    "source_timestamp": "6:24 pm on 1 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "necklace with a diamond pendant",
+    "entity_type": "object",
+    "property": "material",
+    "value": "gold",
+    "modality": "observed",
+    "valid_time": "D4:24",
+    "evidence_turn_ids": [
+      "D4:24"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000092",
+    "episode_id": "conv-50::session_4::episode-006",
+    "conversation_id": "conv-50",
+    "session_id": "session_4",
+    "observed_at": "2023-05-01T18:24:00",
+    "source_timestamp": "6:24 pm on 1 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "profession",
+    "value": "musician",
+    "modality": "observed",
+    "valid_time": "D4:26",
+    "evidence_turn_ids": [
+      "D4:26"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000093",
+    "episode_id": "conv-50::session_4::episode-006",
+    "conversation_id": "conv-50",
+    "session_id": "session_4",
+    "observed_at": "2023-05-01T18:24:00",
+    "source_timestamp": "6:24 pm on 1 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "has_partner_garage",
+    "value": "a local garage",
+    "modality": "observed",
+    "valid_time": "at least by 3 May 2023",
+    "evidence_turn_ids": [
+      "D5:1"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000094",
+    "episode_id": "conv-50::session_5::episode-001",
+    "conversation_id": "conv-50",
+    "session_id": "session_5",
+    "observed_at": "2023-05-03T13:16:00",
+    "source_timestamp": "1:16 pm on 3 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "project_type",
+    "value": "car repair or restoration work",
+    "modality": "observed",
+    "valid_time": "at least by 3 May 2023",
+    "evidence_turn_ids": [
+      "D5:1",
+      "D5:3"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000095",
+    "episode_id": "conv-50::session_5::episode-001",
+    "conversation_id": "conv-50",
+    "session_id": "session_5",
+    "observed_at": "2023-05-03T13:16:00",
+    "source_timestamp": "1:16 pm on 3 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "works_with",
+    "value": "mechanics",
+    "modality": "observed",
+    "valid_time": "at least by 3 May 2023",
+    "evidence_turn_ids": [
+      "D5:3"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000096",
+    "episode_id": "conv-50::session_5::episode-001",
+    "conversation_id": "conv-50",
+    "session_id": "session_5",
+    "observed_at": "2023-05-03T13:16:00",
+    "source_timestamp": "1:16 pm on 3 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "current_work_focus",
+    "value": "helping customers and working on a car project",
+    "modality": "observed",
+    "valid_time": "at least by 3 May 2023",
+    "evidence_turn_ids": [
+      "D5:5"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000097",
+    "episode_id": "conv-50::session_5::episode-001",
+    "conversation_id": "conv-50",
+    "session_id": "session_5",
+    "observed_at": "2023-05-03T13:16:00",
+    "source_timestamp": "1:16 pm on 3 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "emotional_state",
+    "value": "loving his job",
+    "modality": "observed",
+    "valid_time": "at least by 3 May 2023",
+    "evidence_turn_ids": [
+      "D5:3"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000098",
+    "episode_id": "conv-50::session_5::episode-001",
+    "conversation_id": "conv-50",
+    "session_id": "session_5",
+    "observed_at": "2023-05-03T13:16:00",
+    "source_timestamp": "1:16 pm on 3 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "future_goal",
+    "value": "build a custom car from scratch",
+    "modality": "desired",
+    "valid_time": "future, as of 3 May 2023",
+    "evidence_turn_ids": [
+      "D5:5"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000099",
+    "episode_id": "conv-50::session_5::episode-001",
+    "conversation_id": "conv-50",
+    "session_id": "session_5",
+    "observed_at": "2023-05-03T13:16:00",
+    "source_timestamp": "1:16 pm on 3 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "relationship_to_Dave",
+    "value": "friend",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D5:1",
+      "D5:2",
+      "D5:4",
+      "D5:6"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000100",
+    "episode_id": "conv-50::session_5::episode-001",
+    "conversation_id": "conv-50",
+    "session_id": "session_5",
+    "observed_at": "2023-05-03T13:16:00",
+    "source_timestamp": "1:16 pm on 3 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "hobby",
+    "value": "long drives in a red sports car",
+    "modality": "observed",
+    "valid_time": "present",
+    "evidence_turn_ids": [
+      "D5:8"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000101",
+    "episode_id": "conv-50::session_5::episode-002",
+    "conversation_id": "conv-50",
+    "session_id": "session_5",
+    "observed_at": "2023-05-03T13:16:00",
+    "source_timestamp": "1:16 pm on 3 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "effect_of_hobby",
+    "value": "helps relax, clears head",
+    "modality": "observed",
+    "valid_time": "present",
+    "evidence_turn_ids": [
+      "D5:8"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000102",
+    "episode_id": "conv-50::session_5::episode-002",
+    "conversation_id": "conv-50",
+    "session_id": "session_5",
+    "observed_at": "2023-05-03T13:16:00",
+    "source_timestamp": "1:16 pm on 3 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "hobby",
+    "value": "taking walks",
+    "modality": "observed",
+    "valid_time": "present",
+    "evidence_turn_ids": [
+      "D5:9"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000103",
+    "episode_id": "conv-50::session_5::episode-002",
+    "conversation_id": "conv-50",
+    "session_id": "session_5",
+    "observed_at": "2023-05-03T13:16:00",
+    "source_timestamp": "1:16 pm on 3 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "effect_of_hobby",
+    "value": "destresses, peaceful experience",
+    "modality": "observed",
+    "valid_time": "present",
+    "evidence_turn_ids": [
+      "D5:9"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000104",
+    "episode_id": "conv-50::session_5::episode-002",
+    "conversation_id": "conv-50",
+    "session_id": "session_5",
+    "observed_at": "2023-05-03T13:16:00",
+    "source_timestamp": "1:16 pm on 3 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "personal_experience",
+    "value": "Embracing nature has been really calming",
+    "modality": "observed",
+    "valid_time": "recent",
+    "evidence_turn_ids": [
+      "D5:10"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000105",
+    "episode_id": "conv-50::session_5::episode-003",
+    "conversation_id": "conv-50",
+    "session_id": "session_5",
+    "observed_at": "2023-05-03T13:16:00",
+    "source_timestamp": "1:16 pm on 3 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "interest",
+    "value": "getting to know Japanese culture",
+    "modality": "observed",
+    "valid_time": "recent",
+    "evidence_turn_ids": [
+      "D5:10"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000106",
+    "episode_id": "conv-50::session_5::episode-003",
+    "conversation_id": "conv-50",
+    "session_id": "session_5",
+    "observed_at": "2023-05-03T13:16:00",
+    "source_timestamp": "1:16 pm on 3 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "current_creativity_state",
+    "value": "stuck; creativity frozen",
+    "modality": "observed",
+    "valid_time": "current",
+    "evidence_turn_ids": [
+      "D5:10"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000107",
+    "episode_id": "conv-50::session_5::episode-003",
+    "conversation_id": "conv-50",
+    "session_id": "session_5",
+    "observed_at": "2023-05-03T13:16:00",
+    "source_timestamp": "1:16 pm on 3 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "strategy_for_creativity_block",
+    "value": "immerse self in something loved like concerts or favorite albums",
+    "modality": "observed",
+    "valid_time": "general",
+    "evidence_turn_ids": [
+      "D5:11"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000108",
+    "episode_id": "conv-50::session_5::episode-003",
+    "conversation_id": "conv-50",
+    "session_id": "session_5",
+    "observed_at": "2023-05-03T13:16:00",
+    "source_timestamp": "1:16 pm on 3 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "advice_to_Calvin",
+    "value": "take a break from music and explore other things",
+    "modality": "observed",
+    "valid_time": "suggested future",
+    "evidence_turn_ids": [
+      "D5:11"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000109",
+    "episode_id": "conv-50::session_5::episode-003",
+    "conversation_id": "conv-50",
+    "session_id": "session_5",
+    "observed_at": "2023-05-03T13:16:00",
+    "source_timestamp": "1:16 pm on 3 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "intended_action",
+    "value": "take a break and explore other things to regain mojo",
+    "modality": "planned",
+    "valid_time": "near future",
+    "evidence_turn_ids": [
+      "D5:12"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000110",
+    "episode_id": "conv-50::session_5::episode-003",
+    "conversation_id": "conv-50",
+    "session_id": "session_5",
+    "observed_at": "2023-05-03T13:16:00",
+    "source_timestamp": "1:16 pm on 3 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "encouragement_to_Calvin",
+    "value": "keep pursuing music and never give up",
+    "modality": "observed",
+    "valid_time": "general",
+    "evidence_turn_ids": [
+      "D5:13"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000111",
+    "episode_id": "conv-50::session_5::episode-003",
+    "conversation_id": "conv-50",
+    "session_id": "session_5",
+    "observed_at": "2023-05-03T13:16:00",
+    "source_timestamp": "1:16 pm on 3 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "incident",
+    "value": "place flooded last week",
+    "modality": "observed",
+    "valid_time": "last week before 16 May 2023",
+    "evidence_turn_ids": [
+      "D6:3"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000112",
+    "episode_id": "conv-50::session_6::episode-001",
+    "conversation_id": "conv-50",
+    "session_id": "session_6",
+    "observed_at": "2023-05-16T11:50:00",
+    "source_timestamp": "11:50 am on 16 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "saved_items",
+    "value": "music gear and favorite microphone",
+    "modality": "observed",
+    "valid_time": "last week before 16 May 2023",
+    "evidence_turn_ids": [
+      "D6:3"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000113",
+    "episode_id": "conv-50::session_6::episode-001",
+    "conversation_id": "conv-50",
+    "session_id": "session_6",
+    "observed_at": "2023-05-16T11:50:00",
+    "source_timestamp": "11:50 am on 16 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "attitude",
+    "value": "staying positive and looking forward to fixing everything",
+    "modality": "observed",
+    "valid_time": "at 16 May 2023",
+    "evidence_turn_ids": [
+      "D6:3"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000114",
+    "episode_id": "conv-50::session_6::episode-001",
+    "conversation_id": "conv-50",
+    "session_id": "session_6",
+    "observed_at": "2023-05-16T11:50:00",
+    "source_timestamp": "11:50 am on 16 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "waiting_for",
+    "value": "insurance to kick in",
+    "modality": "observed",
+    "valid_time": "at 11:50 am on 16 May, 2023",
+    "evidence_turn_ids": [
+      "D6:5"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000115",
+    "episode_id": "conv-50::session_6::episode-002",
+    "conversation_id": "conv-50",
+    "session_id": "session_6",
+    "observed_at": "2023-05-16T11:50:00",
+    "source_timestamp": "11:50 am on 16 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "plan",
+    "value": "start repairs on his creative haven music studio",
+    "modality": "desired",
+    "valid_time": "after insurance kicks in",
+    "evidence_turn_ids": [
+      "D6:5"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000116",
+    "episode_id": "conv-50::session_6::episode-002",
+    "conversation_id": "conv-50",
+    "session_id": "session_6",
+    "observed_at": "2023-05-16T11:50:00",
+    "source_timestamp": "11:50 am on 16 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "creative_space",
+    "value": "a music studio used to pour his heart into music",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D6:5"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000117",
+    "episode_id": "conv-50::session_6::episode-002",
+    "conversation_id": "conv-50",
+    "session_id": "session_6",
+    "observed_at": "2023-05-16T11:50:00",
+    "source_timestamp": "11:50 am on 16 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin's music studio",
+    "entity_type": "place",
+    "property": "equipment",
+    "value": "keyboard, synthesizer, and other musical equipment",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D6:5"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000118",
+    "episode_id": "conv-50::session_6::episode-002",
+    "conversation_id": "conv-50",
+    "session_id": "session_6",
+    "observed_at": "2023-05-16T11:50:00",
+    "source_timestamp": "11:50 am on 16 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "opinion",
+    "value": "The studio looks awesome",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D6:6"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000119",
+    "episode_id": "conv-50::session_6::episode-002",
+    "conversation_id": "conv-50",
+    "session_id": "session_6",
+    "observed_at": "2023-05-16T11:50:00",
+    "source_timestamp": "11:50 am on 16 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "business_opened",
+    "value": "car shop",
+    "modality": "observed",
+    "valid_time": "last week before 11:50 am on 16 May, 2023",
+    "evidence_turn_ids": [
+      "D6:8"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000120",
+    "episode_id": "conv-50::session_6::episode-003",
+    "conversation_id": "conv-50",
+    "session_id": "session_6",
+    "observed_at": "2023-05-16T11:50:00",
+    "source_timestamp": "11:50 am on 16 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "business_opening_event",
+    "value": "invited some friends over to celebrate opening his car shop",
+    "modality": "observed",
+    "valid_time": "last week before 11:50 am on 16 May, 2023",
+    "evidence_turn_ids": [
+      "D6:8"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000121",
+    "episode_id": "conv-50::session_6::episode-003",
+    "conversation_id": "conv-50",
+    "session_id": "session_6",
+    "observed_at": "2023-05-16T11:50:00",
+    "source_timestamp": "11:50 am on 16 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "business_experience",
+    "value": "incredible and amazing so far",
+    "modality": "observed",
+    "valid_time": "up to 11:50 am on 16 May, 2023",
+    "evidence_turn_ids": [
+      "D6:8"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000122",
+    "episode_id": "conv-50::session_6::episode-003",
+    "conversation_id": "conv-50",
+    "session_id": "session_6",
+    "observed_at": "2023-05-16T11:50:00",
+    "source_timestamp": "11:50 am on 16 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "upcoming performance location",
+    "value": "Tokyo",
+    "modality": "planned",
+    "valid_time": "this month relative to 16 May, 2023",
+    "evidence_turn_ids": [
+      "D6:11"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000123",
+    "episode_id": "conv-50::session_6::episode-004",
+    "conversation_id": "conv-50",
+    "session_id": "session_6",
+    "observed_at": "2023-05-16T11:50:00",
+    "source_timestamp": "11:50 am on 16 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "upcoming performance activity",
+    "value": "music show",
+    "modality": "planned",
+    "valid_time": "this month relative to 16 May, 2023",
+    "evidence_turn_ids": [
+      "D6:11"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000124",
+    "episode_id": "conv-50::session_6::episode-004",
+    "conversation_id": "conv-50",
+    "session_id": "session_6",
+    "observed_at": "2023-05-16T11:50:00",
+    "source_timestamp": "11:50 am on 16 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "intent",
+    "value": "expand music following",
+    "modality": "desired",
+    "valid_time": "this month relative to 16 May, 2023",
+    "evidence_turn_ids": [
+      "D6:11"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000125",
+    "episode_id": "conv-50::session_6::episode-004",
+    "conversation_id": "conv-50",
+    "session_id": "session_6",
+    "observed_at": "2023-05-16T11:50:00",
+    "source_timestamp": "11:50 am on 16 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "sentiment about upcoming event",
+    "value": "super excited",
+    "modality": "observed",
+    "valid_time": "absolute as of 16 May, 2023",
+    "evidence_turn_ids": [
+      "D6:11"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000126",
+    "episode_id": "conv-50::session_6::episode-004",
+    "conversation_id": "conv-50",
+    "session_id": "session_6",
+    "observed_at": "2023-05-16T11:50:00",
+    "source_timestamp": "11:50 am on 16 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "awareness of Calvin's event",
+    "value": "doing a show in Tokyo",
+    "modality": "observed",
+    "valid_time": "absolute as of 16 May, 2023",
+    "evidence_turn_ids": [
+      "D6:12"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000127",
+    "episode_id": "conv-50::session_6::episode-004",
+    "conversation_id": "conv-50",
+    "session_id": "session_6",
+    "observed_at": "2023-05-16T11:50:00",
+    "source_timestamp": "11:50 am on 16 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "wishes",
+    "value": "all the luck",
+    "modality": "observed",
+    "valid_time": "absolute as of 16 May, 2023",
+    "evidence_turn_ids": [
+      "D6:12"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000128",
+    "episode_id": "conv-50::session_6::episode-004",
+    "conversation_id": "conv-50",
+    "session_id": "session_6",
+    "observed_at": "2023-05-16T11:50:00",
+    "source_timestamp": "11:50 am on 16 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "response to Dave's wish",
+    "value": "thanks for the good luck",
+    "modality": "observed",
+    "valid_time": "absolute as of 16 May, 2023",
+    "evidence_turn_ids": [
+      "D6:13"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000129",
+    "episode_id": "conv-50::session_6::episode-004",
+    "conversation_id": "conv-50",
+    "session_id": "session_6",
+    "observed_at": "2023-05-16T11:50:00",
+    "source_timestamp": "11:50 am on 16 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "promise",
+    "value": "keep Dave posted on how the Tokyo show goes",
+    "modality": "planned",
+    "valid_time": "future relative to 16 May, 2023",
+    "evidence_turn_ids": [
+      "D6:13"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000130",
+    "episode_id": "conv-50::session_6::episode-004",
+    "conversation_id": "conv-50",
+    "session_id": "session_6",
+    "observed_at": "2023-05-16T11:50:00",
+    "source_timestamp": "11:50 am on 16 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "took_photo_location",
+    "value": "Tokyo",
+    "modality": "observed",
+    "valid_time": "last night before 11:50 am on 16 May, 2023",
+    "evidence_turn_ids": [
+      "D6:15"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000131",
+    "episode_id": "conv-50::session_6::episode-005",
+    "conversation_id": "conv-50",
+    "session_id": "session_6",
+    "observed_at": "2023-05-16T11:50:00",
+    "source_timestamp": "11:50 am on 16 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "photo_subject",
+    "value": "night skyline with city lights",
+    "modality": "observed",
+    "valid_time": "last night before 11:50 am on 16 May, 2023",
+    "evidence_turn_ids": [
+      "D6:15",
+      "D6:16",
+      "D6:17"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000132",
+    "episode_id": "conv-50::session_6::episode-005",
+    "conversation_id": "conv-50",
+    "session_id": "session_6",
+    "observed_at": "2023-05-16T11:50:00",
+    "source_timestamp": "11:50 am on 16 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Tokyo",
+    "entity_type": "place",
+    "property": "night_city_lights_impression",
+    "value": "amazing and stunning",
+    "modality": "observed",
+    "valid_time": "last night before 11:50 am on 16 May, 2023",
+    "evidence_turn_ids": [
+      "D6:15",
+      "D6:17"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000133",
+    "episode_id": "conv-50::session_6::episode-005",
+    "conversation_id": "conv-50",
+    "session_id": "session_6",
+    "observed_at": "2023-05-16T11:50:00",
+    "source_timestamp": "11:50 am on 16 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "plans_to_visit",
+    "value": "Tokyo",
+    "modality": "planned",
+    "valid_time": "after 11:50 am on 16 May, 2023",
+    "evidence_turn_ids": [
+      "D6:16",
+      "D6:18"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000134",
+    "episode_id": "conv-50::session_6::episode-005",
+    "conversation_id": "conv-50",
+    "session_id": "session_6",
+    "observed_at": "2023-05-16T11:50:00",
+    "source_timestamp": "11:50 am on 16 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "activity_recent",
+    "value": "touring with Frank Ocean",
+    "modality": "observed",
+    "valid_time": "last week before 6:06 pm on 31 May, 2023",
+    "evidence_turn_ids": [
+      "D7:1"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000135",
+    "episode_id": "conv-50::session_7::episode-001",
+    "conversation_id": "conv-50",
+    "session_id": "session_7",
+    "observed_at": "2023-05-31T18:06:00",
+    "source_timestamp": "6:06 pm on 31 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "location_recent",
+    "value": "Tokyo",
+    "modality": "observed",
+    "valid_time": "last week before 6:06 pm on 31 May, 2023",
+    "evidence_turn_ids": [
+      "D7:1"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000136",
+    "episode_id": "conv-50::session_7::episode-001",
+    "conversation_id": "conv-50",
+    "session_id": "session_7",
+    "observed_at": "2023-05-31T18:06:00",
+    "source_timestamp": "6:06 pm on 31 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "feeling_performance",
+    "value": "felt alive",
+    "modality": "observed",
+    "valid_time": "last week before 6:06 pm on 31 May, 2023",
+    "evidence_turn_ids": [
+      "D7:1"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000137",
+    "episode_id": "conv-50::session_7::episode-001",
+    "conversation_id": "conv-50",
+    "session_id": "session_7",
+    "observed_at": "2023-05-31T18:06:00",
+    "source_timestamp": "6:06 pm on 31 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "activity_recent",
+    "value": "repaired neighbor's car engine",
+    "modality": "observed",
+    "valid_time": "recent before 6:06 pm on 31 May, 2023",
+    "evidence_turn_ids": [
+      "D7:2"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000138",
+    "episode_id": "conv-50::session_7::episode-001",
+    "conversation_id": "conv-50",
+    "session_id": "session_7",
+    "observed_at": "2023-05-31T18:06:00",
+    "source_timestamp": "6:06 pm on 31 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "hobby",
+    "value": "working on cars for relaxation",
+    "modality": "observed",
+    "valid_time": "current as of 6:06 pm on 31 May, 2023",
+    "evidence_turn_ids": [
+      "D7:3"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000139",
+    "episode_id": "conv-50::session_7::episode-001",
+    "conversation_id": "conv-50",
+    "session_id": "session_7",
+    "observed_at": "2023-05-31T18:06:00",
+    "source_timestamp": "6:06 pm on 31 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "neighbor's car",
+    "entity_type": "object",
+    "property": "engine_status",
+    "value": "trouble before repair, now fixed by Dave",
+    "modality": "observed",
+    "valid_time": "before and up to 6:06 pm on 31 May, 2023",
+    "evidence_turn_ids": [
+      "D7:2",
+      "D7:3"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000140",
+    "episode_id": "conv-50::session_7::episode-001",
+    "conversation_id": "conv-50",
+    "session_id": "session_7",
+    "observed_at": "2023-05-31T18:06:00",
+    "source_timestamp": "6:06 pm on 31 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "helps_neighbors_with_cars",
+    "value": "not difficult",
+    "modality": "observed",
+    "valid_time": "around 31 May, 2023",
+    "evidence_turn_ids": [
+      "D7:4"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000141",
+    "episode_id": "conv-50::session_7::episode-002",
+    "conversation_id": "conv-50",
+    "session_id": "session_7",
+    "observed_at": "2023-05-31T18:06:00",
+    "source_timestamp": "6:06 pm on 31 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "finds_working_on_cars_therapeutic",
+    "value": "definitely therapeutic",
+    "modality": "observed",
+    "valid_time": "around 31 May, 2023",
+    "evidence_turn_ids": [
+      "D7:4"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000142",
+    "episode_id": "conv-50::session_7::episode-002",
+    "conversation_id": "conv-50",
+    "session_id": "session_7",
+    "observed_at": "2023-05-31T18:06:00",
+    "source_timestamp": "6:06 pm on 31 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "fixing_cars_effect",
+    "value": "calms him down and gives a real sense of achievement like meditating",
+    "modality": "observed",
+    "valid_time": "around 31 May, 2023",
+    "evidence_turn_ids": [
+      "D7:5"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000143",
+    "episode_id": "conv-50::session_7::episode-002",
+    "conversation_id": "conv-50",
+    "session_id": "session_7",
+    "observed_at": "2023-05-31T18:06:00",
+    "source_timestamp": "6:06 pm on 31 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "passion",
+    "value": "fixing up things",
+    "modality": "observed",
+    "valid_time": "around 31 May, 2023",
+    "evidence_turn_ids": [
+      "D7:6"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000144",
+    "episode_id": "conv-50::session_7::episode-002",
+    "conversation_id": "conv-50",
+    "session_id": "session_7",
+    "observed_at": "2023-05-31T18:06:00",
+    "source_timestamp": "6:06 pm on 31 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "hobby_effect",
+    "value": "sense of achievement and purpose, a buzz from transforming nonworking things into smoothly running ones, like giving a second chance",
+    "modality": "observed",
+    "valid_time": "around 31 May, 2023",
+    "evidence_turn_ids": [
+      "D7:6"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000145",
+    "episode_id": "conv-50::session_7::episode-002",
+    "conversation_id": "conv-50",
+    "session_id": "session_7",
+    "observed_at": "2023-05-31T18:06:00",
+    "source_timestamp": "6:06 pm on 31 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "finds_purpose_in",
+    "value": "transforming things, creating new things, collaborating with others",
+    "modality": "observed",
+    "valid_time": "around 31 May, 2023",
+    "evidence_turn_ids": [
+      "D7:7"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000146",
+    "episode_id": "conv-50::session_7::episode-002",
+    "conversation_id": "conv-50",
+    "session_id": "session_7",
+    "observed_at": "2023-05-31T18:06:00",
+    "source_timestamp": "6:06 pm on 31 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "makes_something_great_with_Dave",
+    "value": "making something great out of nothing",
+    "modality": "observed",
+    "valid_time": "around 31 May, 2023",
+    "evidence_turn_ids": [
+      "D7:7"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000147",
+    "episode_id": "conv-50::session_7::episode-002",
+    "conversation_id": "conv-50",
+    "session_id": "session_7",
+    "observed_at": "2023-05-31T18:06:00",
+    "source_timestamp": "6:06 pm on 31 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "emotional_response_to_transforming_things",
+    "value": "feels powerful and happy, like achieving something",
+    "modality": "observed",
+    "valid_time": "around 31 May, 2023",
+    "evidence_turn_ids": [
+      "D7:8"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000148",
+    "episode_id": "conv-50::session_7::episode-002",
+    "conversation_id": "conv-50",
+    "session_id": "session_7",
+    "observed_at": "2023-05-31T18:06:00",
+    "source_timestamp": "6:06 pm on 31 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "emotional_response_to_creations",
+    "value": "feeling of power and happiness from seeing creations born of hard work and ideas",
+    "modality": "observed",
+    "valid_time": "around 31 May, 2023",
+    "evidence_turn_ids": [
+      "D7:9"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000149",
+    "episode_id": "conv-50::session_7::episode-002",
+    "conversation_id": "conv-50",
+    "session_id": "session_7",
+    "observed_at": "2023-05-31T18:06:00",
+    "source_timestamp": "6:06 pm on 31 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "enjoys_live_performance",
+    "value": "Performing live always fuels my soul; I love the rush and connection with the crowd; the feeling is indescribable and an absolute high",
+    "modality": "observed",
+    "valid_time": "at or before 6:06 pm on 31 May, 2023",
+    "evidence_turn_ids": [
+      "D7:11"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000150",
+    "episode_id": "conv-50::session_7::episode-003",
+    "conversation_id": "conv-50",
+    "session_id": "session_7",
+    "observed_at": "2023-05-31T18:06:00",
+    "source_timestamp": "6:06 pm on 31 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "finds_accomplishment_motivating",
+    "value": "Accomplishment keeps me motivated",
+    "modality": "observed",
+    "valid_time": "at or before 6:06 pm on 31 May, 2023",
+    "evidence_turn_ids": [
+      "D7:10"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000151",
+    "episode_id": "conv-50::session_7::episode-003",
+    "conversation_id": "conv-50",
+    "session_id": "session_7",
+    "observed_at": "2023-05-31T18:06:00",
+    "source_timestamp": "6:06 pm on 31 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin and audience",
+    "entity_type": "concept",
+    "property": "experience_during_live_performance",
+    "value": "Everyone is part of it; it's like one big harmony; the feeling is amazing",
+    "modality": "observed",
+    "valid_time": "at or before 6:06 pm on 31 May, 2023",
+    "evidence_turn_ids": [
+      "D7:13"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000152",
+    "episode_id": "conv-50::session_7::episode-003",
+    "conversation_id": "conv-50",
+    "session_id": "session_7",
+    "observed_at": "2023-05-31T18:06:00",
+    "source_timestamp": "6:06 pm on 31 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "views_music_effect",
+    "value": "Music brings people together and creates a great atmosphere; it's like therapy for us all",
+    "modality": "observed",
+    "valid_time": "at or before 6:06 pm on 31 May, 2023",
+    "evidence_turn_ids": [
+      "D7:14"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000153",
+    "episode_id": "conv-50::session_7::episode-003",
+    "conversation_id": "conv-50",
+    "session_id": "session_7",
+    "observed_at": "2023-05-31T18:06:00",
+    "source_timestamp": "6:06 pm on 31 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "tour_partner",
+    "value": "Frank",
+    "modality": "observed",
+    "valid_time": "upcoming",
+    "evidence_turn_ids": [
+      "D7:15"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000154",
+    "episode_id": "conv-50::session_7::episode-004",
+    "conversation_id": "conv-50",
+    "session_id": "session_7",
+    "observed_at": "2023-05-31T18:06:00",
+    "source_timestamp": "6:06 pm on 31 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "tour_location",
+    "value": "Boston",
+    "modality": "observed",
+    "valid_time": "upcoming",
+    "evidence_turn_ids": [
+      "D7:15"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000155",
+    "episode_id": "conv-50::session_7::episode-004",
+    "conversation_id": "conv-50",
+    "session_id": "session_7",
+    "observed_at": "2023-05-31T18:06:00",
+    "source_timestamp": "6:06 pm on 31 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "tour_activity",
+    "value": "perform",
+    "modality": "planned",
+    "valid_time": "upcoming",
+    "evidence_turn_ids": [
+      "D7:15"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000156",
+    "episode_id": "conv-50::session_7::episode-004",
+    "conversation_id": "conv-50",
+    "session_id": "session_7",
+    "observed_at": "2023-05-31T18:06:00",
+    "source_timestamp": "6:06 pm on 31 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "opinion_music_scene_Boston",
+    "value": "awesome with tons of talented musicians and cool places to play",
+    "modality": "observed",
+    "valid_time": "present",
+    "evidence_turn_ids": [
+      "D7:16"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000157",
+    "episode_id": "conv-50::session_7::episode-004",
+    "conversation_id": "conv-50",
+    "session_id": "session_7",
+    "observed_at": "2023-05-31T18:06:00",
+    "source_timestamp": "6:06 pm on 31 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "support_for_Calvin_tour",
+    "value": "will be there to cheer Calvin on",
+    "modality": "planned",
+    "valid_time": "upcoming",
+    "evidence_turn_ids": [
+      "D7:16"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000158",
+    "episode_id": "conv-50::session_7::episode-004",
+    "conversation_id": "conv-50",
+    "session_id": "session_7",
+    "observed_at": "2023-05-31T18:06:00",
+    "source_timestamp": "6:06 pm on 31 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "appreciation_for_support",
+    "value": "Thanks Dave, your support means a lot",
+    "modality": "observed",
+    "valid_time": "present",
+    "evidence_turn_ids": [
+      "D7:17"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000159",
+    "episode_id": "conv-50::session_7::episode-004",
+    "conversation_id": "conv-50",
+    "session_id": "session_7",
+    "observed_at": "2023-05-31T18:06:00",
+    "source_timestamp": "6:06 pm on 31 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "anticipation_experience_music_scene_Boston",
+    "value": "Can't wait to experience the music scene there",
+    "modality": "observed",
+    "valid_time": "upcoming",
+    "evidence_turn_ids": [
+      "D7:17"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000160",
+    "episode_id": "conv-50::session_7::episode-004",
+    "conversation_id": "conv-50",
+    "session_id": "session_7",
+    "observed_at": "2023-05-31T18:06:00",
+    "source_timestamp": "6:06 pm on 31 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "well_wish_for_Calvin_trip",
+    "value": "Have a great time in Boston",
+    "modality": "observed",
+    "valid_time": "upcoming",
+    "evidence_turn_ids": [
+      "D7:18"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000161",
+    "episode_id": "conv-50::session_7::episode-004",
+    "conversation_id": "conv-50",
+    "session_id": "session_7",
+    "observed_at": "2023-05-31T18:06:00",
+    "source_timestamp": "6:06 pm on 31 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "desire_to_hear_trip_details",
+    "value": "Can't wait to hear all about it when Calvin gets back",
+    "modality": "observed",
+    "valid_time": "future after trip",
+    "evidence_turn_ids": [
+      "D7:18"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000162",
+    "episode_id": "conv-50::session_7::episode-004",
+    "conversation_id": "conv-50",
+    "session_id": "session_7",
+    "observed_at": "2023-05-31T18:06:00",
+    "source_timestamp": "6:06 pm on 31 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "intent_to_report_trip_details",
+    "value": "I'll fill you in on all the details when I get back",
+    "modality": "planned",
+    "valid_time": "future after trip",
+    "evidence_turn_ids": [
+      "D7:19"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000163",
+    "episode_id": "conv-50::session_7::episode-004",
+    "conversation_id": "conv-50",
+    "session_id": "session_7",
+    "observed_at": "2023-05-31T18:06:00",
+    "source_timestamp": "6:06 pm on 31 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "met_with",
+    "value": "creative team for his album",
+    "modality": "observed",
+    "valid_time": "yesterday",
+    "evidence_turn_ids": [
+      "D8:1"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000164",
+    "episode_id": "conv-50::session_8::episode-001",
+    "conversation_id": "conv-50",
+    "session_id": "session_8",
+    "observed_at": "2023-06-09T14:31:00",
+    "source_timestamp": "2:31 pm on 9 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "album_status",
+    "value": "coming together",
+    "modality": "observed",
+    "valid_time": "yesterday",
+    "evidence_turn_ids": [
+      "D8:1"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000165",
+    "episode_id": "conv-50::session_8::episode-001",
+    "conversation_id": "conv-50",
+    "session_id": "session_8",
+    "observed_at": "2023-06-09T14:31:00",
+    "source_timestamp": "2:31 pm on 9 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "feeling_about_album",
+    "value": "stoked",
+    "modality": "observed",
+    "valid_time": "current",
+    "evidence_turn_ids": [
+      "D8:3"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000166",
+    "episode_id": "conv-50::session_8::episode-001",
+    "conversation_id": "conv-50",
+    "session_id": "session_8",
+    "observed_at": "2023-06-09T14:31:00",
+    "source_timestamp": "2:31 pm on 9 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "making_music_with",
+    "value": "a team in the studio",
+    "modality": "observed",
+    "valid_time": "current",
+    "evidence_turn_ids": [
+      "D8:3"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000167",
+    "episode_id": "conv-50::session_8::episode-001",
+    "conversation_id": "conv-50",
+    "session_id": "session_8",
+    "observed_at": "2023-06-09T14:31:00",
+    "source_timestamp": "2:31 pm on 9 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "studio",
+    "entity_type": "place",
+    "property": "appearance",
+    "value": "wonderful studio with a large window and a desk",
+    "modality": "observed",
+    "valid_time": "current",
+    "evidence_turn_ids": [
+      "D8:3"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000168",
+    "episode_id": "conv-50::session_8::episode-001",
+    "conversation_id": "conv-50",
+    "session_id": "session_8",
+    "observed_at": "2023-06-09T14:31:00",
+    "source_timestamp": "2:31 pm on 9 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "recent wellbeing",
+    "value": "been doing good",
+    "modality": "observed",
+    "valid_time": "around 2:31 pm on 9 June, 2023",
+    "evidence_turn_ids": [
+      "D8:4"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000169",
+    "episode_id": "conv-50::session_8::episode-002",
+    "conversation_id": "conv-50",
+    "session_id": "session_8",
+    "observed_at": "2023-06-09T14:31:00",
+    "source_timestamp": "2:31 pm on 9 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "weekend activity",
+    "value": "exploring some parks to relax",
+    "modality": "observed",
+    "valid_time": "weekends before 9 June, 2023",
+    "evidence_turn_ids": [
+      "D8:4"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000170",
+    "episode_id": "conv-50::session_8::episode-002",
+    "conversation_id": "conv-50",
+    "session_id": "session_8",
+    "observed_at": "2023-06-09T14:31:00",
+    "source_timestamp": "2:31 pm on 9 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "emotional benefit",
+    "value": "peaceful being surrounded by nature",
+    "modality": "observed",
+    "valid_time": "around 2:31 pm on 9 June, 2023",
+    "evidence_turn_ids": [
+      "D8:4"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000171",
+    "episode_id": "conv-50::session_8::episode-002",
+    "conversation_id": "conv-50",
+    "session_id": "session_8",
+    "observed_at": "2023-06-09T14:31:00",
+    "source_timestamp": "2:31 pm on 9 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "first visit plan",
+    "value": "plans to visit Boston next month",
+    "modality": "planned",
+    "valid_time": "around 2:31 pm on 9 June, 2023",
+    "evidence_turn_ids": [
+      "D8:5"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000172",
+    "episode_id": "conv-50::session_8::episode-002",
+    "conversation_id": "conv-50",
+    "session_id": "session_8",
+    "observed_at": "2023-06-09T14:31:00",
+    "source_timestamp": "2:31 pm on 9 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Calvin",
+    "entity_type": "person",
+    "property": "perception of Boston parks",
+    "value": "hears Boston parks are amazing",
+    "modality": "observed",
+    "valid_time": "around 2:31 pm on 9 June, 2023",
+    "evidence_turn_ids": [
+      "D8:5"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000173",
+    "episode_id": "conv-50::session_8::episode-002",
+    "conversation_id": "conv-50",
+    "session_id": "session_8",
+    "observed_at": "2023-06-09T14:31:00",
+    "source_timestamp": "2:31 pm on 9 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "positive appraisal",
+    "value": "Boston parks are awesome especially in spring",
+    "modality": "observed",
+    "valid_time": "around 2:31 pm on 9 June, 2023",
+    "evidence_turn_ids": [
+      "D8:6"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000174",
+    "episode_id": "conv-50::session_8::episode-002",
+    "conversation_id": "conv-50",
+    "session_id": "session_8",
+    "observed_at": "2023-06-09T14:31:00",
+    "source_timestamp": "2:31 pm on 9 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "recent activity",
+    "value": "went for a stroll in Boston parks last Friday",
+    "modality": "observed",
+    "valid_time": "last Friday before 9 June, 2023",
+    "evidence_turn_ids": [
+      "D8:6"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000175",
+    "episode_id": "conv-50::session_8::episode-002",
+    "conversation_id": "conv-50",
+    "session_id": "session_8",
+    "observed_at": "2023-06-09T14:31:00",
+    "source_timestamp": "2:31 pm on 9 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "emotional appraisal",
+    "value": "walking in Boston parks is so serene and magical",
+    "modality": "observed",
+    "valid_time": "around 2:31 pm on 9 June, 2023",
+    "evidence_turn_ids": [
+      "D8:6"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000176",
+    "episode_id": "conv-50::session_8::episode-002",
+    "conversation_id": "conv-50",
+    "session_id": "session_8",
+    "observed_at": "2023-06-09T14:31:00",
+    "source_timestamp": "2:31 pm on 9 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Dave",
+    "entity_type": "person",
+    "property": "weekend habit",
+    "value": "takes walks on the weekends to recharge for the week",
+    "modality": "observed",
+    "valid_time": "up to and including 9 June, 2023",
+    "evidence_turn_ids": [
+      "D8:6"
+    ],
+    "record_id": "offline-memory-e8a61e4468c9::r000177",
+    "episode_id": "conv-50::session_8::episode-002",
+    "conversation_id": "conv-50",
+    "session_id": "session_8",
+    "observed_at": "2023-06-09T14:31:00",
+    "source_timestamp": "2:31 pm on 9 June, 2023",
+    "timezone_status": "unspecified"
+  }
+]

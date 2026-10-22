@@ -1,0 +1,10 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Melanie",
+      "property": "plans",
+      "search": "any mention or indication of future plans about roadtrips or travel"
+    }
+  ]
+}

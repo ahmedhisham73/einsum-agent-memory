@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "76cf9a5f-5f4f-4e14-ab29-4cdd0a648c04",
+    "response": {
+      "id": "chatcmpl-EZkrmPOqQ54iRheTWPdYIFZZfUyZ0",
+      "object": "chat.completion",
+      "created": 1792190342,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Melanie\",\"property\":\"emotional_reaction_to_event\",\"search\":\"Melanie's reaction to her children enjoying the Grand Canyon\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2684,
+        "completion_tokens": 37,
+        "total_tokens": 2721,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_5002831302"
+    },
+    "latency_seconds": 1.1137321249999999
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "f6dc2364-6cbe-4091-bff2-04ea40a06636",
+    "response": {
+      "id": "chatcmpl-EZkrnUfBg3RFi0MoOn7PkYulzoMLF",
+      "object": "chat.completion",
+      "created": 1792190343,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Melanie was thankful and expressed that her children enjoyed the Grand Canyon a lot, indicating a positive and appreciative reaction to their enjoyment.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_18::episode-002\",\"turn_id\":\"D18:5\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2764,
+        "completion_tokens": 62,
+        "total_tokens": 2826,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_38f508f26a"
+    },
+    "latency_seconds": 1.2567582499999999
+  }
+]

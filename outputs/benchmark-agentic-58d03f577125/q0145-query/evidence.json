@@ -1,0 +1,262 @@
+[
+  {
+    "episode_id": "conv-26::session_2::chunk-0005",
+    "session_id": "session_2",
+    "observed_at": "2023-05-25T13:14:00",
+    "source_timestamp": "1:14 pm on 25 May, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D2:6",
+        "speaker": "Caroline",
+        "text": "That's great, Mel! Taking time for yourself is so important. You're doing an awesome job looking after yourself and your family!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:7",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline. It's still a work in progress, but I'm doing my best. My kids are so excited about summer break! We're thinking about going camping next month. Any fun plans for the summer?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:8",
+        "speaker": "Caroline",
+        "text": "Researching adoption agencies — it's been a dream to have a family and give a loving home to kids who need it.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:9",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! That's awesome! Taking in kids in need - you're so kind. Your future family is gonna be so lucky to have you!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:10",
+        "speaker": "Caroline",
+        "text": "Thanks, Mel! My goal is to give kids a loving home. I'm truly grateful for all the support I've got from friends and mentors. Now the hard work starts to turn my dream into a reality. And here's one of the adoption agencies I'm looking into. It's a lot to take in, but I'm feeling hopeful and optimistic.",
+        "metadata": {
+          "img_url": [
+            "https://live.staticflickr.com/3437/3935231341_b2955b00dd_b.jpg"
+          ],
+          "blip_caption": "a photography of a sign for a new arrival and an information and domestic building",
+          "query": "adoption agency brochure",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D2:11",
+        "speaker": "Melanie",
+        "text": "Wow, that agency looks great! What made you pick it?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_2::chunk-0015",
+    "session_id": "session_2",
+    "observed_at": "2023-05-25T13:14:00",
+    "source_timestamp": "1:14 pm on 25 May, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D2:16",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! Your kind words really mean a lot. I'll do my best to make sure these kids have a safe and loving home.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:17",
+        "speaker": "Melanie",
+        "text": "No doubts, Caroline. You have such a caring heart - they'll get all the love and stability they need! Excited for this new chapter!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_16::chunk-0015",
+    "session_id": "session_16",
+    "observed_at": "2023-09-13T00:09:00",
+    "source_timestamp": "12:09 am on 13 September, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D16:16",
+        "speaker": "Melanie",
+        "text": "Caroline, it's got to be tough dealing with those changes. Glad you've found people who uplift and accept you! Here's to a good time at the café last weekend - they even had thoughtful signs like this! It brings me so much happiness.",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/epuj1xq8eaga1.jpg"
+          ],
+          "blip_caption": "a photo of a sign posted on a door stating that someone is not being able to leave",
+          "query": "me kids park joy love happiness"
+        }
+      },
+      {
+        "turn_id": "D16:17",
+        "speaker": "Caroline",
+        "text": "Whoa, Mel, that sign looks serious. Did anything happen?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:18",
+        "speaker": "Melanie",
+        "text": "The sign was just a precaution, I had a great time. But thank you for your concern, you're so thoughtful!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:19",
+        "speaker": "Caroline",
+        "text": "Phew! Glad it all worked out and you had a good time at the park!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:20",
+        "speaker": "Melanie",
+        "text": "Yeah, it was so much fun! Those joyful moments definitely show us life's beauty.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_18::chunk-0000",
+    "session_id": "session_18",
+    "observed_at": "2023-10-20T18:55:00",
+    "source_timestamp": "6:55 pm on 20 October, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D18:1",
+        "speaker": "Melanie",
+        "text": "Hey Caroline, that roadtrip this past weekend was insane! We were all freaked when my son got into an accident. We were so lucky he was okay. It was a real scary experience. Thankfully it's over now. What's been up since we last talked?",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/dl8dki2hm3k81.jpg"
+          ],
+          "blip_caption": "a photo of a car dashboard with a white cloth and a steering wheel",
+          "query": "car accident damaged car airbags deployed roadtrip"
+        }
+      },
+      {
+        "turn_id": "D18:2",
+        "speaker": "Caroline",
+        "text": "Oops, sorry 'bout the accident! Must have been traumatizing for you guys. Thank goodness your son's okay. Life sure can be a roller coaster.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:3",
+        "speaker": "Melanie",
+        "text": "Yeah, our trip got off to a bad start. I was really scared when we got into the accident. Thankfully, my son's ok and that was a reminder that life is precious and to cherish our family.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:4",
+        "speaker": "Caroline",
+        "text": "Glad your son is okay, Melanie. Life's unpredictable, but moments like these remind us how important our loved ones are. Family's everything.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:5",
+        "speaker": "Melanie",
+        "text": "Yeah, you're right, Caroline. Family's super important to me. Especially after the accident, I've thought a lot about how much I need them. They mean the world to me and I'm so thankful to have them. Thankfully, they enjoyed the Grand Canyon a lot!",
+        "metadata": {
+          "img_url": [
+            "https://familyadventuresva.files.wordpress.com/2022/03/img_5030.jpg"
+          ],
+          "blip_caption": "a photo of two children standing on a rocky cliff overlooking a canyon",
+          "query": "grand canyon family photo"
+        }
+      },
+      {
+        "turn_id": "D18:6",
+        "speaker": "Caroline",
+        "text": "The kids look so cute, Mel! I bet they bring lots of joy. How did they handle the accident?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_18::chunk-0005",
+    "session_id": "session_18",
+    "observed_at": "2023-10-20T18:55:00",
+    "source_timestamp": "6:55 pm on 20 October, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D18:7",
+        "speaker": "Melanie",
+        "text": "Thanks! They were scared but we reassured them and explained their brother would be OK. They're tough kids.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:8",
+        "speaker": "Caroline",
+        "text": "Kids are amazingly resilient in tough situations. They have an amazing ability to bounce back.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:9",
+        "speaker": "Melanie",
+        "text": "They're really amazing. Wish I was that resilient too. But they give me the strength to keep going.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:10",
+        "speaker": "Caroline",
+        "text": "Our loved ones give us strength to tackle any challenge - it's amazing!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:11",
+        "speaker": "Melanie",
+        "text": "Yeah, Caroline. Totally agree. They're my biggest motivation and support.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_18::chunk-0010",
+    "session_id": "session_18",
+    "observed_at": "2023-10-20T18:55:00",
+    "source_timestamp": "6:55 pm on 20 October, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D18:12",
+        "speaker": "Caroline",
+        "text": "It's so sweet to see your love for your family, Melanie. They really are your rock.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:13",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline. They're a real support. Appreciate them a lot.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:14",
+        "speaker": "Caroline",
+        "text": "Glad you've got people to lean on, Melanie. It helps during tougher times.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:15",
+        "speaker": "Melanie",
+        "text": "Yeah for sure. Having my fam around helps a lot. It makes hard times easier.",
+        "metadata": {
+          "img_url": [
+            "https://live.staticflickr.com/8358/29211988243_82023c5524_b.jpg"
+          ],
+          "blip_caption": "a photography of a woman and a child walking on a trail",
+          "query": "family hiking mountains",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D18:16",
+        "speaker": "Caroline",
+        "text": "Wow, great pic! Is that recent? Looks like you all had fun!",
+        "metadata": {}
+      }
+    ]
+  }
+]

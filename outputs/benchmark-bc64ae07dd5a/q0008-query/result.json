@@ -1,0 +1,25 @@
+{
+  "status": "completed",
+  "experiment_id": "q0008-query",
+  "memory_build": "offline-memory-a5e48166f56e",
+  "embedding_fingerprint": "264e45d8331b217a87fc15e35db2c614b32e9c572d0bbb53fe9bcc90dda3a8a6",
+  "question": "What is Caroline's relationship status?",
+  "answer": "Caroline is single; she is pursuing adoption as a single parent to create a loving family for children in need, and she describes it as a tough but welcomed challenge.",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-26::session_2::episode-002",
+      "turn_id": "D2:14"
+    },
+    {
+      "episode_id": "conv-26::session_17::episode-001",
+      "turn_id": "D17:1"
+    }
+  ],
+  "elapsed_seconds": 4.505368417,
+  "implementation": {
+    "structured_matching": "literal entity / property-token overlap",
+    "all_matching": "all episodes; no optimized exhaustive retrieval",
+    "coverage": "answer-model sufficiency check with expansion"
+  }
+}

@@ -1,0 +1,275 @@
+[
+  {
+    "episode_id": "conv-26::session_2::chunk-0000",
+    "session_id": "session_2",
+    "observed_at": "2023-05-25T13:14:00",
+    "source_timestamp": "1:14 pm on 25 May, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D2:1",
+        "speaker": "Melanie",
+        "text": "Hey Caroline, since we last chatted, I've had a lot of things happening to me. I ran a charity race for mental health last Saturday – it was really rewarding. Really made me think about taking care of our minds.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:2",
+        "speaker": "Caroline",
+        "text": "That charity race sounds great, Mel! Making a difference & raising awareness for mental health is super rewarding - I'm really proud of you for taking part!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:3",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! The event was really thought-provoking. I'm starting to realize that self-care is really important. It's a journey for me, but when I look after myself, I'm able to better look after my family.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:4",
+        "speaker": "Caroline",
+        "text": "I totally agree, Melanie. Taking care of ourselves is so important - even if it's not always easy. Great that you're prioritizing self-care.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:5",
+        "speaker": "Melanie",
+        "text": "Yeah, it's tough. So I'm carving out some me-time each day - running, reading, or playing my violin - which refreshes me and helps me stay present for my fam!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:6",
+        "speaker": "Caroline",
+        "text": "That's great, Mel! Taking time for yourself is so important. You're doing an awesome job looking after yourself and your family!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_3::chunk-0000",
+    "session_id": "session_3",
+    "observed_at": "2023-06-09T19:55:00",
+    "source_timestamp": "7:55 pm on 9 June, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D3:1",
+        "speaker": "Caroline",
+        "text": "Hey Melanie! How's it going? I wanted to tell you about my school event last week. It was awesome! I talked about my transgender journey and encouraged students to get involved in the LGBTQ community. It was great to see their reactions. It made me reflect on how far I've come since I started transitioning three years ago.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:2",
+        "speaker": "Melanie",
+        "text": "Hey Caroline! Great to hear from you. Sounds like your event was amazing! I'm so proud of you for spreading awareness and getting others involved in the LGBTQ community. You've come a long way since your transition - keep on inspiring people with your strength and courage!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:3",
+        "speaker": "Caroline",
+        "text": "Thanks, Mel! Your backing really means a lot. I felt super powerful giving my talk. I shared my own journey, the struggles I had and how much I've developed since coming out. It was wonderful to see how the audience related to what I said and how it inspired them to be better allies. Conversations about gender identity and inclusion are so necessary and I'm thankful for being able to give a voice to the trans community.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:4",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, you're doing an awesome job of inspiring others with your journey. It's great to be part of it and see how you're positively affecting so many. Talking about inclusivity and acceptance is crucial, and you're so brave to speak up for the trans community. Keep up the great work!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:5",
+        "speaker": "Caroline",
+        "text": "Thanks Mel! Your kind words mean a lot. Sharing our experiences isn't always easy, but I feel it's important to help promote understanding and acceptance. I've been blessed with loads of love and support throughout this journey, and I want to pass it on to others. By sharing our stories, we can build a strong, supportive community of hope.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:6",
+        "speaker": "Melanie",
+        "text": "Yeah, Caroline! It takes courage to talk about our own stories. But it's in these vulnerable moments that we bond and understand each other. We all have our different paths, but if we share them, we show people that they're not alone. Our stories can be so inspiring and encouraging to others who are facing the same challenges. Thank you for using your voice to create love, acceptance, and hope. You're doing amazing!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_4::chunk-0015",
+    "session_id": "session_4",
+    "observed_at": "2023-06-27T10:37:00",
+    "source_timestamp": "10:37 am on 27 June, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D4:16",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! You've gained so much from your own experience. Your passion and hard work to help others is awesome. Keep it up, you're making a big impact!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:17",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! Your kind words mean a lot.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:18",
+        "speaker": "Melanie",
+        "text": "Congrats Caroline! Good on you for going after what you really care about.",
+        "metadata": {
+          "blip_caption": "a photo of a book shelf filled with books in a room"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_7::chunk-0005",
+    "session_id": "session_7",
+    "observed_at": "2023-07-12T16:33:00",
+    "source_timestamp": "4:33 pm on 12 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D7:6",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! You're so inspiring for wanting to help others with their mental health. What's pushing you to keep going forward with it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:7",
+        "speaker": "Caroline",
+        "text": "I struggled with mental health, and support I got was really helpful. It made me realize how important it is for others to have a support system. So, I started looking into counseling and mental health career options, so I could help other people on their own journeys like I was helped.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:8",
+        "speaker": "Melanie",
+        "text": "Caroline, so glad you got the support! Your experience really brought you to where you need to be. You're gonna make a huge difference! This book I read last year reminds me to always pursue my dreams, just like you are doing!🌟",
+        "metadata": {
+          "img_url": [
+            "https://www.speakers.co.uk/microsites/tom-oliver/wp-content/uploads/2014/11/Book-Cover-3D1.jpg"
+          ],
+          "blip_caption": "a photography of a book cover with a gold coin on it",
+          "query": "painted canvas follow your dreams",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D7:9",
+        "speaker": "Caroline",
+        "text": "Thanks so much, Mel! Seeing this pic just made me appreciate my love of reading even more. Books guide me, motivate me and help me discover who I am. They're a huge part of my journey, and this one's reminding me to keep going and never give up!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:10",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! Books have such an awesome power! Which one has been your favorite guide?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:11",
+        "speaker": "Caroline",
+        "text": "I loved \"Becoming Nicole\" by Amy Ellis Nutt. It's a real inspiring true story about a trans girl and her family. It made me feel connected and gave me a lot of hope for my own path. Highly recommend it for sure!",
+        "metadata": {
+          "img_url": [
+            "https://m.media-amazon.com/images/I/A1CPpaLFR2L.jpg"
+          ],
+          "blip_caption": "a photo of a dog sitting in a boat on the water",
+          "query": "becoming nicole book amy ellis nutt"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_15::chunk-0020",
+    "session_id": "session_15",
+    "observed_at": "2023-08-28T15:19:00",
+    "source_timestamp": "3:19 pm on 28 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D15:21",
+        "speaker": "Caroline",
+        "text": "I started playing acoustic guitar about five years ago; it's been a great way to express myself and escape into my emotions.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:22",
+        "speaker": "Melanie",
+        "text": "Music's amazing, isn't it? Any songs that have deep meaning for you?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:23",
+        "speaker": "Caroline",
+        "text": "Yeah totally! \"Brave\" by Sara Bareilles has a lot of significance for me. It's about being courageous and fighting for what's right. Whenever I hear this jam, I think about the paths I've taken and the progress I've made.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:24",
+        "speaker": "Melanie",
+        "text": "That's a gorgeous song, Caroline. It really fits with your journey and your determination to make a difference. Music can be so inspiring and uplifting.",
+        "metadata": {
+          "blip_caption": "a photo of a piece of paper with a drawing of a man playing a piano"
+        }
+      },
+      {
+        "turn_id": "D15:25",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! Appreciate it. You play any instruments?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:26",
+        "speaker": "Melanie",
+        "text": "Yeah, I play clarinet! Started when I was young and it's been great. Expression of myself and a way to relax.",
+        "metadata": {
+          "blip_caption": "a photo of a sheet music with notes and a pencil"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_19::chunk-0005",
+    "session_id": "session_19",
+    "observed_at": "2023-10-22T09:55:00",
+    "source_timestamp": "9:55 am on 22 October, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D19:6",
+        "speaker": "Melanie",
+        "text": "I totally agree, Caroline. Everyone deserves that. It's awesome to see how passionate you are about helping these kids.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:7",
+        "speaker": "Caroline",
+        "text": "Thanks, Mel. Finding self-acceptance was a long process, but now I'm ready to offer love and support to those who need it. It's empowering to make a positive difference in someone's life.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:8",
+        "speaker": "Melanie",
+        "text": "That must have been tough for you, Caroline. Respect for finding acceptance and helping others with what you've been through. You're so strong and inspiring.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:9",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie. Transitioning wasn't easy and acceptance wasn't either, but the help I got from friends, family and people I looked up to was invaluable. They boosted me through tough times and helped me find out who I really am. That's why I want to pass that same support to anyone who needs it. Bringing others comfort and helping them grow brings me such joy.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:10",
+        "speaker": "Melanie",
+        "text": "I'm so happy for you, Caroline. You found your true self and now you're helping others. You're so inspiring!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:11",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie. Your support really means a lot. This journey has been amazing and I'm grateful I get to share it and help others with theirs. It's a real gift.",
+        "metadata": {
+          "blip_caption": "a photo of a clock with a green and yellow design on it"
+        }
+      }
+    ]
+  }
+]

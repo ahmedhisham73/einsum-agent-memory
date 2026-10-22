@@ -1,0 +1,330 @@
+[
+  {
+    "episode_id": "conv-26::session_8::chunk-0015",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D8:16",
+        "speaker": "Melanie",
+        "text": "Marrying my partner and promising to be together forever was the best part.",
+        "metadata": {
+          "img_url": [
+            "https://s3-us-west-2.amazonaws.com/amm-prod/wedding_photos/photos/000/024/198/original/4B873921-0596-4A6B-8CD8-C6E5C2B024AF.png"
+          ],
+          "blip_caption": "a photo of a man and woman standing on a beach",
+          "query": "vows partner holding hands ceremony"
+        }
+      },
+      {
+        "turn_id": "D8:17",
+        "speaker": "Caroline",
+        "text": "Wow, nice pic! You both looked amazing. One special memory for me was this pride parade I went to a few weeks ago.",
+        "metadata": {
+          "img_url": [
+            "https://dynaimage.cdn.cnn.com/cnn/digital-images/org/dfc95f14-b325-431c-b977-5b6dc2d35f9c.jpg"
+          ],
+          "blip_caption": "a photo of a parade with people walking down the street",
+          "query": "rainbow flag pride march"
+        }
+      },
+      {
+        "turn_id": "D8:18",
+        "speaker": "Melanie",
+        "text": "Wow, looks awesome! Did you join in?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:19",
+        "speaker": "Caroline",
+        "text": "Yes, I did. It was amazing! I felt so accepted and happy, just being around people who accepted and celebrated me. It's definitely a top memory.",
+        "metadata": {
+          "img_url": [
+            "http://ninalemsparty.com/cdn/shop/collections/iStock-1292280203.jpg"
+          ],
+          "blip_caption": "a photo of a group of people holding up signs and smiling",
+          "query": "lgbtq+ pride parade vibrant flags smiling faces"
+        }
+      },
+      {
+        "turn_id": "D8:20",
+        "speaker": "Melanie",
+        "text": "Wow, what an experience! How did it make you feel?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:21",
+        "speaker": "Caroline",
+        "text": "I felt so proud and grateful - the vibes were amazing and it was comforting to know I'm not alone and have a great community around me.",
+        "metadata": {
+          "blip_caption": "a photo of a rainbow flag on a pole on a carpet"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_9::chunk-0005",
+    "session_id": "session_9",
+    "observed_at": "2023-07-17T14:31:00",
+    "source_timestamp": "2:31 pm on 17 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D9:6",
+        "speaker": "Caroline",
+        "text": "I mentor a transgender teen just like me. We've been working on building up confidence and finding positive strategies, and it's really been paying off! We had a great time at the LGBT pride event last month.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:7",
+        "speaker": "Melanie",
+        "text": "Caroline, awesome news that you two are getting along! What was it like for you both? Care to fill me in?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:8",
+        "speaker": "Caroline",
+        "text": "The pride event was awesome! It was so encouraging to be surrounded by so much love and acceptance.",
+        "metadata": {
+          "img_url": [
+            "https://res.cloudinary.com/dragonspell/images/w_1440,h_864,c_fill,dpr_auto,fl_progressive:steep,f_auto/w_1440,h_864/v1571420662/www.travelportland.com/Portland-Pride-Parade-Downtown/Portland-Pride-Parade-Downtown.jpg"
+          ],
+          "blip_caption": "a photo of a woman holding a rainbow umbrella in the air",
+          "query": "lgbt pride event"
+        }
+      },
+      {
+        "turn_id": "D9:9",
+        "speaker": "Melanie",
+        "text": "Wow! What's the best part you remember from it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:10",
+        "speaker": "Caroline",
+        "text": "Seeing my mentee's face light up when they saw the support was the best! Such a special moment.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:11",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! They must have felt so appreciated. It's awesome to see the difference we can make in each other's lives. Any other exciting LGBTQ advocacy stuff coming up?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_10::chunk-0005",
+    "session_id": "session_10",
+    "observed_at": "2023-07-20T20:56:00",
+    "source_timestamp": "8:56 pm on 20 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D10:6",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, your group sounds awesome! Supporting each other and making good things happen - that's so inspiring! Have you been part of any events or campaigns lately?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:7",
+        "speaker": "Caroline",
+        "text": "Last weekend our city held a pride parade! So many people marched through the streets waving flags, holding signs and celebrating love and diversity. I missed it but it was a powerful reminder that we are not alone in this fight for equality and inclusivity. Change is possible!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:8",
+        "speaker": "Melanie",
+        "text": "Wow, fantastic, Caroline! Bet the atmosphere was incredible. Oh yeah, we went to the beach recently. It was awesome! The kids had such a blast.",
+        "metadata": {
+          "img_url": [
+            "https://mdkidadventures.files.wordpress.com/2023/06/img_2130.jpg"
+          ],
+          "blip_caption": "a photo of three children playing on the beach with a kite",
+          "query": "beach family playing frisbee sandy shore"
+        }
+      },
+      {
+        "turn_id": "D10:9",
+        "speaker": "Caroline",
+        "text": "Sounds fun! What was the best part? Do you do it often with the kids?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:10",
+        "speaker": "Melanie",
+        "text": "Seeing my kids' faces so happy at the beach was the best! We don't go often, usually only once or twice a year. But those times are always special to spend time together and chill.",
+        "metadata": {
+          "blip_caption": "a photo of a sand castle on the beach with a blue sky"
+        }
+      },
+      {
+        "turn_id": "D10:11",
+        "speaker": "Caroline",
+        "text": "Sounds special, those beach trips! Do you have any other summer traditions you all do together? Create those memories!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_11::chunk-0000",
+    "session_id": "session_11",
+    "observed_at": "2023-08-14T14:24:00",
+    "source_timestamp": "2:24 pm on 14 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D11:1",
+        "speaker": "Melanie",
+        "text": "Hey Caroline! Last night was amazing! We celebrated my daughter's birthday with a concert surrounded by music, joy and the warm summer breeze. Seeing my kids' smiles was so awesome, and I'm so thankful for our special moments together.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:2",
+        "speaker": "Caroline",
+        "text": "Wow, sounds wonderful! Your love for your kids is so awesome. What concert was it? The advocacy event was a cool experience - so much love and support, amazing!",
+        "metadata": {
+          "blip_caption": "a photo of a poster for a concert with a picture of a man"
+        }
+      },
+      {
+        "turn_id": "D11:3",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! It was Matt Patterson, he is so talented! His voice and songs were amazing. What's up with you? Anything interesting going on?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:4",
+        "speaker": "Caroline",
+        "text": "Wow, Mel, glad you had a blast at the concert. A lot's happened since we talked. I went to a pride parade last Friday and it was awesome - so much energy and love everywhere. Really made me proud and reminded me how important it is to keep standing up for equality.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:5",
+        "speaker": "Melanie",
+        "text": "Wow, that's awesome! How did it feel being part of that community?",
+        "metadata": {
+          "blip_caption": "a photo of a band performing on stage with a sign that says all are welcome"
+        }
+      },
+      {
+        "turn_id": "D11:6",
+        "speaker": "Caroline",
+        "text": "It was so inspiring, Mel! Check out the crowd. People of all kinds celebrating love and acceptance - it really pushed me to keep fighting for LGBTQ rights.",
+        "metadata": {
+          "img_url": [
+            "https://cloudfront-us-east-1.images.arcpublishing.com/opb/35SV3NIC4ZBRTLDGHUJ5QWU5WY.jpg"
+          ],
+          "blip_caption": "a photo of a group of people walking down a street with balloons",
+          "query": "pride parade crowd"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_12::chunk-0010",
+    "session_id": "session_12",
+    "observed_at": "2023-08-17T13:50:00",
+    "source_timestamp": "1:50 pm on 17 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D12:11",
+        "speaker": "Caroline",
+        "text": "Definitely, Mel! Finding those happy moments and clinging to them is key. It's what keeps us going, even when life's hard. I'm lucky to have people like you to remind me.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:12",
+        "speaker": "Melanie",
+        "text": "Yeah, same here Caroline. You make life's struggles more bearable.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:13",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! It means a lot having you in my corner. Appreciate our friendship!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:14",
+        "speaker": "Melanie",
+        "text": "I appreciate our friendship too, Caroline. You've always been there for me.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:15",
+        "speaker": "Caroline",
+        "text": "I'm always here for you, Mel! We had a blast last year at the Pride fest. Those supportive friends definitely make everything worth it!",
+        "metadata": {
+          "img_url": [
+            "https://media2.fdncms.com/portmerc/imager/u/large/46577490/pride2022-2-jankowski.jpg"
+          ],
+          "blip_caption": "a photo of a group of people walking down a street with balloons",
+          "query": "friends pride festival"
+        }
+      },
+      {
+        "turn_id": "D12:16",
+        "speaker": "Melanie",
+        "text": "That was a blast! So much fun with the whole gang! Wanna do a family outing this summer?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_14::chunk-0005",
+    "session_id": "session_14",
+    "observed_at": "2023-08-25T13:33:00",
+    "source_timestamp": "1:33 pm on 25 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D14:6",
+        "speaker": "Melanie",
+        "text": "Wow Caroline, that looks amazing! Those colors are so vivid, it really looks like a real sunset. What gave you the idea to paint it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:7",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! I painted it after I visited the beach last week. Just seeing the sun dip below the horizon, all the amazing colors - it was amazing and calming. So I just had to try to capture that feeling in my painting.",
+        "metadata": {
+          "blip_caption": "a photo of a painting of a sunset over the ocean"
+        }
+      },
+      {
+        "turn_id": "D14:8",
+        "speaker": "Melanie",
+        "text": "Wow, the beach really inspired you. The art really took me to that moment and I can feel the serenity. You captured the sunset perfectly, so peaceful!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:9",
+        "speaker": "Caroline",
+        "text": "Thanks Mel, really appreciate your kind words. It means a lot to me that you can feel the sense of peace and serenity. Makes me feel connected.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:10",
+        "speaker": "Melanie",
+        "text": "I feel the same way! Art is so cool like that - it connects us and helps us understand each other. I was actually just remembering yesterday, spending the day with my fam volunteering at a homeless shelter. It was hard to see how neglected some people are, but it was great to feel like we could make a difference.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:11",
+        "speaker": "Caroline",
+        "text": "Wow, Mel, you're amazing! Volunteering and making a difference- it's so heartwarming. You're an inspiration to us all!",
+        "metadata": {
+          "img_url": [
+            "https://images.squarespace-cdn.com/content/v1/64cda0c3f2719a0e6e707684/a08e6e1f-f0e0-4f1a-b567-1f1f92b80aab/35970846_829192503937065_1026209343625756672_o_829192493937066.jpg"
+          ],
+          "blip_caption": "a photo of a crowd of people walking down a street with a rainbow flag",
+          "query": "volunteering pride event"
+        }
+      }
+    ]
+  }
+]

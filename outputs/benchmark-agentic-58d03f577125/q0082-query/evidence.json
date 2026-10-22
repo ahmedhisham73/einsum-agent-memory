@@ -1,0 +1,264 @@
+[
+  {
+    "episode_id": "conv-26::session_2::chunk-0000",
+    "session_id": "session_2",
+    "observed_at": "2023-05-25T13:14:00",
+    "source_timestamp": "1:14 pm on 25 May, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D2:1",
+        "speaker": "Melanie",
+        "text": "Hey Caroline, since we last chatted, I've had a lot of things happening to me. I ran a charity race for mental health last Saturday – it was really rewarding. Really made me think about taking care of our minds.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:2",
+        "speaker": "Caroline",
+        "text": "That charity race sounds great, Mel! Making a difference & raising awareness for mental health is super rewarding - I'm really proud of you for taking part!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:3",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! The event was really thought-provoking. I'm starting to realize that self-care is really important. It's a journey for me, but when I look after myself, I'm able to better look after my family.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:4",
+        "speaker": "Caroline",
+        "text": "I totally agree, Melanie. Taking care of ourselves is so important - even if it's not always easy. Great that you're prioritizing self-care.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:5",
+        "speaker": "Melanie",
+        "text": "Yeah, it's tough. So I'm carving out some me-time each day - running, reading, or playing my violin - which refreshes me and helps me stay present for my fam!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:6",
+        "speaker": "Caroline",
+        "text": "That's great, Mel! Taking time for yourself is so important. You're doing an awesome job looking after yourself and your family!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_2::chunk-0005",
+    "session_id": "session_2",
+    "observed_at": "2023-05-25T13:14:00",
+    "source_timestamp": "1:14 pm on 25 May, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D2:7",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline. It's still a work in progress, but I'm doing my best. My kids are so excited about summer break! We're thinking about going camping next month. Any fun plans for the summer?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:8",
+        "speaker": "Caroline",
+        "text": "Researching adoption agencies — it's been a dream to have a family and give a loving home to kids who need it.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:9",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! That's awesome! Taking in kids in need - you're so kind. Your future family is gonna be so lucky to have you!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D2:10",
+        "speaker": "Caroline",
+        "text": "Thanks, Mel! My goal is to give kids a loving home. I'm truly grateful for all the support I've got from friends and mentors. Now the hard work starts to turn my dream into a reality. And here's one of the adoption agencies I'm looking into. It's a lot to take in, but I'm feeling hopeful and optimistic.",
+        "metadata": {
+          "img_url": [
+            "https://live.staticflickr.com/3437/3935231341_b2955b00dd_b.jpg"
+          ],
+          "blip_caption": "a photography of a sign for a new arrival and an information and domestic building",
+          "query": "adoption agency brochure",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D2:11",
+        "speaker": "Melanie",
+        "text": "Wow, that agency looks great! What made you pick it?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_13::chunk-0015",
+    "session_id": "session_13",
+    "observed_at": "2023-08-23T15:31:00",
+    "source_timestamp": "3:31 pm on 23 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D13:16",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! That's amazing. You really care about being real and helping others. Wishing you the best on your adoption journey!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D13:17",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! I really appreciate it. Excited for the future! Bye!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D13:18",
+        "speaker": "Melanie",
+        "text": "Bye Caroline. I'm here for you. Take care of yourself.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_18::chunk-0010",
+    "session_id": "session_18",
+    "observed_at": "2023-10-20T18:55:00",
+    "source_timestamp": "6:55 pm on 20 October, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D18:11",
+        "speaker": "Melanie",
+        "text": "Yeah, Caroline. Totally agree. They're my biggest motivation and support.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:12",
+        "speaker": "Caroline",
+        "text": "It's so sweet to see your love for your family, Melanie. They really are your rock.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:13",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline. They're a real support. Appreciate them a lot.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:14",
+        "speaker": "Caroline",
+        "text": "Glad you've got people to lean on, Melanie. It helps during tougher times.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:15",
+        "speaker": "Melanie",
+        "text": "Yeah for sure. Having my fam around helps a lot. It makes hard times easier.",
+        "metadata": {
+          "img_url": [
+            "https://live.staticflickr.com/8358/29211988243_82023c5524_b.jpg"
+          ],
+          "blip_caption": "a photography of a woman and a child walking on a trail",
+          "query": "family hiking mountains",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D18:16",
+        "speaker": "Caroline",
+        "text": "Wow, great pic! Is that recent? Looks like you all had fun!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_19::chunk-0000",
+    "session_id": "session_19",
+    "observed_at": "2023-10-22T09:55:00",
+    "source_timestamp": "9:55 am on 22 October, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D19:1",
+        "speaker": "Caroline",
+        "text": "Woohoo Melanie! I passed the adoption agency interviews last Friday! I'm so excited and thankful. This is a big move towards my goal of having a family.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:2",
+        "speaker": "Melanie",
+        "text": "Congrats, Caroline! Adoption sounds awesome. I'm so happy for you. These figurines I bought yesterday remind me of family love. Tell me, what's your vision for the future?",
+        "metadata": {
+          "img_url": [
+            "https://imgur.com/oGlhL5J.jpg"
+          ],
+          "blip_caption": "a photo of a couple of wooden dolls sitting on top of a table",
+          "query": "painted ceramic family figurine"
+        }
+      },
+      {
+        "turn_id": "D19:3",
+        "speaker": "Caroline",
+        "text": "Thanks so much, Melanie! It's beautiful! It really brings home how much love's in families - both blood and the ones we choose. I hope to build my own family and put a roof over kids who haven't had that before. For me, adoption is a way of giving back and showing love and acceptance.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:4",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, that's awesome. Giving a home to needy kids is such a loving way to build a family. Those kids will be so supported and happy in their new home.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:5",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie. My dream is to create a safe and loving home for these kids. Love and acceptance should be everyone's right, and I want them to experience it.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:6",
+        "speaker": "Melanie",
+        "text": "I totally agree, Caroline. Everyone deserves that. It's awesome to see how passionate you are about helping these kids.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_19::chunk-0005",
+    "session_id": "session_19",
+    "observed_at": "2023-10-22T09:55:00",
+    "source_timestamp": "9:55 am on 22 October, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D19:7",
+        "speaker": "Caroline",
+        "text": "Thanks, Mel. Finding self-acceptance was a long process, but now I'm ready to offer love and support to those who need it. It's empowering to make a positive difference in someone's life.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:8",
+        "speaker": "Melanie",
+        "text": "That must have been tough for you, Caroline. Respect for finding acceptance and helping others with what you've been through. You're so strong and inspiring.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:9",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie. Transitioning wasn't easy and acceptance wasn't either, but the help I got from friends, family and people I looked up to was invaluable. They boosted me through tough times and helped me find out who I really am. That's why I want to pass that same support to anyone who needs it. Bringing others comfort and helping them grow brings me such joy.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:10",
+        "speaker": "Melanie",
+        "text": "I'm so happy for you, Caroline. You found your true self and now you're helping others. You're so inspiring!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:11",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie. Your support really means a lot. This journey has been amazing and I'm grateful I get to share it and help others with theirs. It's a real gift.",
+        "metadata": {
+          "blip_caption": "a photo of a clock with a green and yellow design on it"
+        }
+      }
+    ]
+  }
+]

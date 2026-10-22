@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0069",
+  "category": 2,
+  "question": "How long has Melanie been practicing art?",
+  "gold_answer": "Since 2016",
+  "status": "scored",
+  "generated_answer": "Melanie has been practicing art for seven years.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_16::chunk-0005",
+      "turn_id": "D16:8"
+    }
+  ],
+  "query_elapsed_seconds": 3.9662017499999997,
+  "label": "CORRECT",
+  "judge_reason": "Both answers indicate that Melanie started practicing art in 2016, which is equivalent to seven years of practice as of now."
+}

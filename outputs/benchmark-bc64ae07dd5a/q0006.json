@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0006",
+  "category": 2,
+  "question": "When did Melanie run a charity race?",
+  "gold_answer": "The sunday before 25 May 2023",
+  "status": "scored",
+  "generated_answer": "Melanie ran a charity race for mental health last Saturday before May 25, 2023, which would be on May 20, 2023.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_2::episode-001",
+      "turn_id": "D2:1"
+    }
+  ],
+  "query_elapsed_seconds": 4.5256964580000005,
+  "label": "CORRECT",
+  "judge_reason": "Both answers indicate that the race occurred on May 20, 2023, which is the Sunday before May 25, 2023."
+}

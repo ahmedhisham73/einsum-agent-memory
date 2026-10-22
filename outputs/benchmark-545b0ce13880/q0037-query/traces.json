@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "2f135e71-51a5-4a02-92b4-e9095c2ab9de",
+    "response": {
+      "id": "chatcmpl-EZj4RwGRh1FzaYXJmofYqjXRLVITx",
+      "object": "chat.completion",
+      "created": 1792183439,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Caroline\",\"property\":\"joined_group\",\"search\":\"evidence of Caroline joining mentorship program or group\"},{\"entity\":\"Caroline\",\"property\":\"recent_joined_program\",\"search\":\"evidence about the date or time Caroline joined a mentorship program\"},{\"entity\":\"Caroline\",\"property\":\"mentee\",\"search\":\"evidence Caroline is a mentee in a mentorship program\"},{\"entity\":\"Caroline\",\"property\":\"activities\",\"search\":\"evidence of Caroline's participation in mentorship activities or programs\"},{\"entity\":\"Caroline\",\"property\":\"action\",\"search\":\"evidence describing the action of joining a mentorship program\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2679,
+        "completion_tokens": 127,
+        "total_tokens": 2806,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f111b06a9"
+    },
+    "latency_seconds": 2.57280125
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "0b6d5a78-edf5-43ba-8feb-a11fb781013e",
+    "response": {
+      "id": "chatcmpl-EZj4VH47hQAAILrLz89dkzYu034SE",
+      "object": "chat.completion",
+      "created": 1792183443,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Caroline joined a mentorship program for LGBTQ youth last weekend prior to 17 July 2023.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_9::episode-001\",\"turn_id\":\"D9:2\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3591,
+        "completion_tokens": 56,
+        "total_tokens": 3647,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_38f508f26a"
+    },
+    "latency_seconds": 1.7212918330000004
+  }
+]

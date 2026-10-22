@@ -1,0 +1,21 @@
+{
+  "status": "completed",
+  "experiment_id": "q0136-query",
+  "memory_build": "offline-memory-a5e48166f56e",
+  "embedding_fingerprint": "264e45d8331b217a87fc15e35db2c614b32e9c572d0bbb53fe9bcc90dda3a8a6",
+  "question": "What setback did Melanie face in October 2023?",
+  "answer": "In October 2023, Melanie faced a setback when she got hurt in the previous month, requiring her to take a break from pottery, which she uses for self-expression and peace.",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-26::session_17::episode-002",
+      "turn_id": "D17:8"
+    }
+  ],
+  "elapsed_seconds": 8.496854292,
+  "implementation": {
+    "structured_matching": "literal entity / property-token overlap",
+    "all_matching": "all episodes; no optimized exhaustive retrieval",
+    "coverage": "answer-model sufficiency check with expansion"
+  }
+}

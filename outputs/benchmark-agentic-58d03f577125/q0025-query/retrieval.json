@@ -1,0 +1,21 @@
+[
+  {
+    "query": "Melanie destress activities",
+    "returned_chunk_ids": [
+      "conv-26::session_12::chunk-0000",
+      "conv-26::session_1::chunk-0015",
+      "conv-26::session_2::chunk-0000",
+      "conv-26::session_5::chunk-0000",
+      "conv-26::session_7::chunk-0020",
+      "conv-26::session_8::chunk-0025"
+    ],
+    "cumulative_chunk_ids": [
+      "conv-26::session_12::chunk-0000",
+      "conv-26::session_1::chunk-0015",
+      "conv-26::session_2::chunk-0000",
+      "conv-26::session_5::chunk-0000",
+      "conv-26::session_7::chunk-0020",
+      "conv-26::session_8::chunk-0025"
+    ]
+  }
+]

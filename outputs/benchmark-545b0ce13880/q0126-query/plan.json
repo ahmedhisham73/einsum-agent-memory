@@ -1,0 +1,10 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Oliver",
+      "property": "action",
+      "search": "evidence where Oliver hid his bone"
+    }
+  ]
+}

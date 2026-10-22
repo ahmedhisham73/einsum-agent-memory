@@ -1,0 +1,21 @@
+{
+  "question_id": "conv-26::q0144",
+  "category": 4,
+  "question": "What happened to Melanie's son on their road trip?",
+  "gold_answer": "He got into an accident",
+  "status": "scored",
+  "generated_answer": "Melanie's son was involved in a car accident during their road trip. Fortunately, he was okay despite the accident, but it was a scary experience for the family.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_18::episode-001",
+      "turn_id": "D18:1"
+    },
+    {
+      "episode_id": "conv-26::session_18::episode-001",
+      "turn_id": "D18:3"
+    }
+  ],
+  "query_elapsed_seconds": 3.64086675,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer correctly states that Melanie's son was involved in a car accident, which aligns with the reference answer."
+}

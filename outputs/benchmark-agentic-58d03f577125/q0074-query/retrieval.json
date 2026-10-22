@@ -1,0 +1,21 @@
+[
+  {
+    "query": "Melanie got hurt",
+    "returned_chunk_ids": [
+      "conv-26::session_12::chunk-0000",
+      "conv-26::session_12::chunk-0010",
+      "conv-26::session_14::chunk-0000",
+      "conv-26::session_18::chunk-0000",
+      "conv-26::session_18::chunk-0005",
+      "conv-26::session_7::chunk-0000"
+    ],
+    "cumulative_chunk_ids": [
+      "conv-26::session_12::chunk-0000",
+      "conv-26::session_12::chunk-0010",
+      "conv-26::session_14::chunk-0000",
+      "conv-26::session_18::chunk-0000",
+      "conv-26::session_18::chunk-0005",
+      "conv-26::session_7::chunk-0000"
+    ]
+  }
+]

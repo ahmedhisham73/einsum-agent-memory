@@ -1,0 +1,62 @@
+[
+  {
+    "call_id": "7ea6d314-cab5-493b-8216-bc2d8690402f",
+    "experiment_id": "q0024-query",
+    "approach": "agentic_rag",
+    "phase": "query",
+    "stage": "agent_decision",
+    "provider": "openai",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "input_tokens": 147,
+    "output_tokens": 12,
+    "cached_input_tokens": 0,
+    "query_id": "conv-26::q0024",
+    "usage_kind": "generation",
+    "attempt": 1
+  },
+  {
+    "call_id": "306e5322-966f-4565-aeec-eaccc5d9e4f3",
+    "experiment_id": "q0024-query",
+    "approach": "agentic_rag",
+    "phase": "query",
+    "stage": "search_embedding",
+    "provider": "openai",
+    "model": "text-embedding-3-small",
+    "input_tokens": 4,
+    "output_tokens": 0,
+    "cached_input_tokens": null,
+    "query_id": "conv-26::q0024",
+    "usage_kind": "embedding",
+    "attempt": 1
+  },
+  {
+    "call_id": "a31031a2-025e-49e9-9e89-86992291fd46",
+    "experiment_id": "q0024-query",
+    "approach": "agentic_rag",
+    "phase": "query",
+    "stage": "agent_decision",
+    "provider": "openai",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "input_tokens": 3037,
+    "output_tokens": 71,
+    "cached_input_tokens": 0,
+    "query_id": "conv-26::q0024",
+    "usage_kind": "generation",
+    "attempt": 1
+  },
+  {
+    "call_id": "7252b6f3-214a-4ac0-9a78-5b7e1522d997",
+    "experiment_id": "q0024-query",
+    "approach": "agentic_rag",
+    "phase": "query",
+    "stage": "grounded_answer",
+    "provider": "openai",
+    "model": "gpt-4.1-mini-2025-04-14",
+    "input_tokens": 3021,
+    "output_tokens": 69,
+    "cached_input_tokens": 0,
+    "query_id": "conv-26::q0024",
+    "usage_kind": "generation",
+    "attempt": 1
+  }
+]

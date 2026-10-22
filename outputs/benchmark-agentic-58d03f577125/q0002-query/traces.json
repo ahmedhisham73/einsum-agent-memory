@@ -1,0 +1,125 @@
+[
+  {
+    "stage": "agent_decision",
+    "call_id": "01b74f9e-3676-44bd-bccf-d414fc02ca61",
+    "response": {
+      "id": "chatcmpl-EZiUgYLRNh76SScolQCEBtagIc4or",
+      "object": "chat.completion",
+      "created": 1792181222,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"search\",\"query\":\"Melanie paint a sunrise\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 148,
+        "completion_tokens": 13,
+        "total_tokens": 161,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_d81cb94320"
+    },
+    "latency_seconds": 1.73333225
+  },
+  {
+    "stage": "agent_decision",
+    "call_id": "3fb5239f-afdc-4d65-8656-961a47d82453",
+    "response": {
+      "id": "chatcmpl-EZiUilST10EFkVJMMyK39aH6SFheD",
+      "object": "chat.completion",
+      "created": 1792181224,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"ready\",\"reason\":\"Based on the conversation in session_1 chunk-0010, Melanie mentioned she painted a lake sunrise last year. This directly answers the question about when Melanie painted a sunrise.\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3443,
+        "completion_tokens": 43,
+        "total_tokens": 3486,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_d81cb94320"
+    },
+    "latency_seconds": 1.5500252499999996
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "49ba9a85-b241-4a55-a962-16f251b4f125",
+    "response": {
+      "id": "chatcmpl-EZiUjQBfPsAoGZC7QJ82Iq2l43CPD",
+      "object": "chat.completion",
+      "created": 1792181225,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Melanie painted a sunrise last year.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_1::chunk-0010\",\"turn_id\":\"D1:14\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3317,
+        "completion_tokens": 45,
+        "total_tokens": 3362,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_38f508f26a"
+    },
+    "latency_seconds": 1.40312475
+  }
+]

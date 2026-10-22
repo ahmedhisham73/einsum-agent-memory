@@ -1,0 +1,33 @@
+{
+  "question_id": "conv-26::q0090",
+  "category": 4,
+  "question": "What does Melanie think about Caroline's decision to adopt?",
+  "gold_answer": "she thinks Caroline is doing something amazing and will be an awesome mom",
+  "status": "scored",
+  "generated_answer": "Melanie thinks very positively and supportively about Caroline's decision to adopt. She expresses admiration, encouragement, and confidence that Caroline will be an awesome mom providing love and stability to children in need. Melanie calls Caroline's choice \"amazing\" and highlights the kindness and inclusivity involved. She also conveys excitement and good wishes for Caroline's adoption journey.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_2::episode-002",
+      "turn_id": "D2:9"
+    },
+    {
+      "episode_id": "conv-26::session_2::episode-002",
+      "turn_id": "D2:15"
+    },
+    {
+      "episode_id": "conv-26::session_2::episode-002",
+      "turn_id": "D2:17"
+    },
+    {
+      "episode_id": "conv-26::session_17::episode-001",
+      "turn_id": "D17:2"
+    },
+    {
+      "episode_id": "conv-26::session_19::episode-001",
+      "turn_id": "D19:2"
+    }
+  ],
+  "query_elapsed_seconds": 4.914654542,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer captures Melanie's positive and supportive feelings about Caroline's decision to adopt, including her admiration and belief that Caroline will be an excellent mom, which aligns with the reference answer."
+}

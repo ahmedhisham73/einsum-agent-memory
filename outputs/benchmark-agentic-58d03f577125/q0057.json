@@ -1,0 +1,33 @@
+{
+  "question_id": "conv-26::q0057",
+  "category": 1,
+  "question": "What symbols are important to Caroline?",
+  "gold_answer": "Rainbow flag, transgender symbol",
+  "status": "scored",
+  "generated_answer": "Important symbols to Caroline include a special necklace with a cross and heart given by her grandmother symbolizing love, faith, and strength; a hand-painted bowl from a friend representing art and self-expression; a rainbow flag mural symbolizing courage and strength of the trans community; and an eagle symbolizing freedom, pride, and resilience. These symbols reflect her roots, support from family, community acceptance, and personal resilience.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_4::chunk-0000",
+      "turn_id": "D4:1"
+    },
+    {
+      "episode_id": "conv-26::session_4::chunk-0000",
+      "turn_id": "D4:3"
+    },
+    {
+      "episode_id": "conv-26::session_4::chunk-0000",
+      "turn_id": "D4:5"
+    },
+    {
+      "episode_id": "conv-26::session_14::chunk-0010",
+      "turn_id": "D14:13"
+    },
+    {
+      "episode_id": "conv-26::session_14::chunk-0010",
+      "turn_id": "D14:15"
+    }
+  ],
+  "query_elapsed_seconds": 5.652324917,
+  "label": "WRONG",
+  "judge_reason": "The generated answer includes additional symbols not mentioned in the reference answer and does not focus solely on the rainbow flag and transgender symbol."
+}

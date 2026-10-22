@@ -1,0 +1,2101 @@
+[
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "traveled_with_family_in",
+    "value": "new Prius",
+    "modality": "observed",
+    "valid_time": "recently before 2023-05-18",
+    "evidence_turn_ids": [
+      "D1:2"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000001",
+    "episode_id": "conv-49::session_1::episode-001",
+    "conversation_id": "conv-49",
+    "session_id": "session_1",
+    "observed_at": "2023-05-18T13:47:00",
+    "source_timestamp": "1:47 pm on 18 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan's old Prius",
+    "entity_type": "object",
+    "property": "status",
+    "value": "broke down",
+    "modality": "observed",
+    "valid_time": "recently before 2023-05-18",
+    "evidence_turn_ids": [
+      "D1:4"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000002",
+    "episode_id": "conv-49::session_1::episode-001",
+    "conversation_id": "conv-49",
+    "session_id": "session_1",
+    "observed_at": "2023-05-18T13:47:00",
+    "source_timestamp": "1:47 pm on 18 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan's old Prius",
+    "entity_type": "object",
+    "property": "was_repaired_then_sold",
+    "value": "true",
+    "modality": "observed",
+    "valid_time": "recently before 2023-05-18",
+    "evidence_turn_ids": [
+      "D1:4"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000003",
+    "episode_id": "conv-49::session_1::episode-001",
+    "conversation_id": "conv-49",
+    "session_id": "session_1",
+    "observed_at": "2023-05-18T13:47:00",
+    "source_timestamp": "1:47 pm on 18 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan's family trip",
+    "entity_type": "event",
+    "property": "destination",
+    "value": "Rockies",
+    "modality": "observed",
+    "valid_time": "recently before 2023-05-18",
+    "evidence_turn_ids": [
+      "D1:4"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000004",
+    "episode_id": "conv-49::session_1::episode-001",
+    "conversation_id": "conv-49",
+    "session_id": "session_1",
+    "observed_at": "2023-05-18T13:47:00",
+    "source_timestamp": "1:47 pm on 18 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan's family trip",
+    "entity_type": "event",
+    "property": "activity",
+    "value": "hiked trails",
+    "modality": "observed",
+    "valid_time": "approximately last week before 2023-05-18",
+    "evidence_turn_ids": [
+      "D1:6"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000005",
+    "episode_id": "conv-49::session_1::episode-001",
+    "conversation_id": "conv-49",
+    "session_id": "session_1",
+    "observed_at": "2023-05-18T13:47:00",
+    "source_timestamp": "1:47 pm on 18 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Sam",
+    "entity_type": "person",
+    "property": "likes_activity",
+    "value": "hiking",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D1:7"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000006",
+    "episode_id": "conv-49::session_1::episode-002",
+    "conversation_id": "conv-49",
+    "session_id": "session_1",
+    "observed_at": "2023-05-18T13:47:00",
+    "source_timestamp": "1:47 pm on 18 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Sam",
+    "entity_type": "person",
+    "property": "hiking_experience_age",
+    "value": "10 years old",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D1:7"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000007",
+    "episode_id": "conv-49::session_1::episode-002",
+    "conversation_id": "conv-49",
+    "session_id": "session_1",
+    "observed_at": "2023-05-18T13:47:00",
+    "source_timestamp": "1:47 pm on 18 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Sam and dad",
+    "entity_type": "other",
+    "property": "shared_hiking_activity",
+    "value": "went hiking together",
+    "modality": "observed",
+    "valid_time": "when Sam was ten",
+    "evidence_turn_ids": [
+      "D1:7"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000008",
+    "episode_id": "conv-49::session_1::episode-002",
+    "conversation_id": "conv-49",
+    "session_id": "session_1",
+    "observed_at": "2023-05-18T13:47:00",
+    "source_timestamp": "1:47 pm on 18 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Sam",
+    "entity_type": "person",
+    "property": "hiking_memory_quality",
+    "value": "great fun and really special",
+    "modality": "observed",
+    "valid_time": "when Sam was ten",
+    "evidence_turn_ids": [
+      "D1:7"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000009",
+    "episode_id": "conv-49::session_1::episode-002",
+    "conversation_id": "conv-49",
+    "session_id": "session_1",
+    "observed_at": "2023-05-18T13:47:00",
+    "source_timestamp": "1:47 pm on 18 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Sam",
+    "entity_type": "person",
+    "property": "distance_hiked_as_child",
+    "value": "a good distance",
+    "modality": "observed",
+    "valid_time": "when Sam was ten",
+    "evidence_turn_ids": [
+      "D1:9"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000010",
+    "episode_id": "conv-49::session_1::episode-002",
+    "conversation_id": "conv-49",
+    "session_id": "session_1",
+    "observed_at": "2023-05-18T13:47:00",
+    "source_timestamp": "1:47 pm on 18 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Sam",
+    "entity_type": "person",
+    "property": "current hobbies",
+    "value": "none so far",
+    "modality": "observed",
+    "valid_time": "at 1:47 pm on 18 May, 2023",
+    "evidence_turn_ids": [
+      "D1:11"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000011",
+    "episode_id": "conv-49::session_1::episode-003",
+    "conversation_id": "conv-49",
+    "session_id": "session_1",
+    "observed_at": "2023-05-18T13:47:00",
+    "source_timestamp": "1:47 pm on 18 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Sam",
+    "entity_type": "person",
+    "property": "considering hobby",
+    "value": "painting",
+    "modality": "planned",
+    "valid_time": "at 1:47 pm on 18 May, 2023",
+    "evidence_turn_ids": [
+      "D1:11"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000012",
+    "episode_id": "conv-49::session_1::episode-003",
+    "conversation_id": "conv-49",
+    "session_id": "session_1",
+    "observed_at": "2023-05-18T13:47:00",
+    "source_timestamp": "1:47 pm on 18 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Sam",
+    "entity_type": "person",
+    "property": "past experience with painting",
+    "value": "not tried yet",
+    "modality": "observed",
+    "valid_time": "at 1:47 pm on 18 May, 2023",
+    "evidence_turn_ids": [
+      "D1:13"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000013",
+    "episode_id": "conv-49::session_1::episode-003",
+    "conversation_id": "conv-49",
+    "session_id": "session_1",
+    "observed_at": "2023-05-18T13:47:00",
+    "source_timestamp": "1:47 pm on 18 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Sam",
+    "entity_type": "person",
+    "property": "attitude toward trying painting",
+    "value": "keen to give it a go; sees it as a nice way to chill and get creative",
+    "modality": "observed",
+    "valid_time": "at 1:47 pm on 18 May, 2023",
+    "evidence_turn_ids": [
+      "D1:13"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000014",
+    "episode_id": "conv-49::session_1::episode-003",
+    "conversation_id": "conv-49",
+    "session_id": "session_1",
+    "observed_at": "2023-05-18T13:47:00",
+    "source_timestamp": "1:47 pm on 18 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "hobby",
+    "value": "watercolor painting",
+    "modality": "observed",
+    "valid_time": "a few years before 1:47 pm on 18 May, 2023",
+    "evidence_turn_ids": [
+      "D1:14"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000015",
+    "episode_id": "conv-49::session_1::episode-003",
+    "conversation_id": "conv-49",
+    "session_id": "session_1",
+    "observed_at": "2023-05-18T13:47:00",
+    "source_timestamp": "1:47 pm on 18 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "attitude toward painting",
+    "value": "loves it; finds it a great stress-buster",
+    "modality": "observed",
+    "valid_time": "a few years before 1:47 pm on 18 May, 2023",
+    "evidence_turn_ids": [
+      "D1:14"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000016",
+    "episode_id": "conv-49::session_1::episode-003",
+    "conversation_id": "conv-49",
+    "session_id": "session_1",
+    "observed_at": "2023-05-18T13:47:00",
+    "source_timestamp": "1:47 pm on 18 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "introduction to watercolor painting",
+    "value": "introduced by a friend who gave advice",
+    "modality": "observed",
+    "valid_time": "before 1:47 pm on 18 May, 2023",
+    "evidence_turn_ids": [
+      "D1:16"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000017",
+    "episode_id": "conv-49::session_1::episode-003",
+    "conversation_id": "conv-49",
+    "session_id": "session_1",
+    "observed_at": "2023-05-18T13:47:00",
+    "source_timestamp": "1:47 pm on 18 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "encouragement to Sam",
+    "value": "Keep trying new things until something sparks excitement",
+    "modality": "observed",
+    "valid_time": "at 1:47 pm on 18 May, 2023",
+    "evidence_turn_ids": [
+      "D1:18"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000018",
+    "episode_id": "conv-49::session_1::episode-003",
+    "conversation_id": "conv-49",
+    "session_id": "session_1",
+    "observed_at": "2023-05-18T13:47:00",
+    "source_timestamp": "1:47 pm on 18 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Sam",
+    "entity_type": "person",
+    "property": "hope",
+    "value": "to find a hobby as passionate as Evan is about watercolor painting",
+    "modality": "observed",
+    "valid_time": "at 1:47 pm on 18 May, 2023",
+    "evidence_turn_ids": [
+      "D1:17"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000019",
+    "episode_id": "conv-49::session_1::episode-003",
+    "conversation_id": "conv-49",
+    "session_id": "session_1",
+    "observed_at": "2023-05-18T13:47:00",
+    "source_timestamp": "1:47 pm on 18 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Sam",
+    "entity_type": "person",
+    "property": "attitude toward trying new hobbies",
+    "value": "excited and thinks it should be fun",
+    "modality": "observed",
+    "valid_time": "at 1:47 pm on 18 May, 2023",
+    "evidence_turn_ids": [
+      "D1:19"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000020",
+    "episode_id": "conv-49::session_1::episode-003",
+    "conversation_id": "conv-49",
+    "session_id": "session_1",
+    "observed_at": "2023-05-18T13:47:00",
+    "source_timestamp": "1:47 pm on 18 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "took_family_on_trip_to",
+    "value": "Jasper",
+    "modality": "observed",
+    "valid_time": "last weekend before 7:11 pm on 24 May, 2023",
+    "evidence_turn_ids": [
+      "D2:1"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000021",
+    "episode_id": "conv-49::session_2::episode-001",
+    "conversation_id": "conv-49",
+    "session_id": "session_2",
+    "observed_at": "2023-05-24T19:11:00",
+    "source_timestamp": "7:11 pm on 24 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "drove_through",
+    "value": "Icefields Parkway",
+    "modality": "observed",
+    "valid_time": "last weekend before 7:11 pm on 24 May, 2023",
+    "evidence_turn_ids": [
+      "D2:1"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000022",
+    "episode_id": "conv-49::session_2::episode-001",
+    "conversation_id": "conv-49",
+    "session_id": "session_2",
+    "observed_at": "2023-05-24T19:11:00",
+    "source_timestamp": "7:11 pm on 24 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "saw_natural_features",
+    "value": "glaciers and lakes described as gorgeous",
+    "modality": "observed",
+    "valid_time": "last weekend before 7:11 pm on 24 May, 2023",
+    "evidence_turn_ids": [
+      "D2:1"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000023",
+    "episode_id": "conv-49::session_2::episode-001",
+    "conversation_id": "conv-49",
+    "session_id": "session_2",
+    "observed_at": "2023-05-24T19:11:00",
+    "source_timestamp": "7:11 pm on 24 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "photographed",
+    "value": "a glacier",
+    "modality": "observed",
+    "valid_time": "last weekend before 7:11 pm on 24 May, 2023",
+    "evidence_turn_ids": [
+      "D2:1"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000024",
+    "episode_id": "conv-49::session_2::episode-001",
+    "conversation_id": "conv-49",
+    "session_id": "session_2",
+    "observed_at": "2023-05-24T19:11:00",
+    "source_timestamp": "7:11 pm on 24 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan's road trip",
+    "entity_type": "activity",
+    "property": "included",
+    "value": "fresh air, peacefulness, and a cozy cabin surrounded by mountains and forests",
+    "modality": "observed",
+    "valid_time": "last weekend before 7:11 pm on 24 May, 2023",
+    "evidence_turn_ids": [
+      "D2:3"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000025",
+    "episode_id": "conv-49::session_2::episode-001",
+    "conversation_id": "conv-49",
+    "session_id": "session_2",
+    "observed_at": "2023-05-24T19:11:00",
+    "source_timestamp": "7:11 pm on 24 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan's road trip",
+    "entity_type": "activity",
+    "property": "felt_like",
+    "value": "a real retreat",
+    "modality": "observed",
+    "valid_time": "last weekend before 7:11 pm on 24 May, 2023",
+    "evidence_turn_ids": [
+      "D2:3"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000026",
+    "episode_id": "conv-49::session_2::episode-001",
+    "conversation_id": "conv-49",
+    "session_id": "session_2",
+    "observed_at": "2023-05-24T19:11:00",
+    "source_timestamp": "7:11 pm on 24 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Sam",
+    "entity_type": "person",
+    "property": "recent_week_quality",
+    "value": "tough",
+    "modality": "observed",
+    "valid_time": "week before 7:11 pm on 24 May, 2023",
+    "evidence_turn_ids": [
+      "D2:4"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000027",
+    "episode_id": "conv-49::session_2::episode-002",
+    "conversation_id": "conv-49",
+    "session_id": "session_2",
+    "observed_at": "2023-05-24T19:11:00",
+    "source_timestamp": "7:11 pm on 24 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Sam",
+    "entity_type": "person",
+    "property": "doctor_checkup_timing",
+    "value": "a few days before 7:11 pm on 24 May, 2023",
+    "modality": "observed",
+    "valid_time": "a few days before 7:11 pm on 24 May, 2023",
+    "evidence_turn_ids": [
+      "D2:6"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000028",
+    "episode_id": "conv-49::session_2::episode-002",
+    "conversation_id": "conv-49",
+    "session_id": "session_2",
+    "observed_at": "2023-05-24T19:11:00",
+    "source_timestamp": "7:11 pm on 24 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Sam",
+    "entity_type": "person",
+    "property": "doctor_checkup_weight_result",
+    "value": "not great",
+    "modality": "observed",
+    "valid_time": "a few days before 7:11 pm on 24 May, 2023",
+    "evidence_turn_ids": [
+      "D2:6"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000029",
+    "episode_id": "conv-49::session_2::episode-002",
+    "conversation_id": "conv-49",
+    "session_id": "session_2",
+    "observed_at": "2023-05-24T19:11:00",
+    "source_timestamp": "7:11 pm on 24 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Sam",
+    "entity_type": "person",
+    "property": "facing challenge",
+    "value": "confront own health challenges",
+    "modality": "observed",
+    "valid_time": "before 7:11 pm on 24 May, 2023",
+    "evidence_turn_ids": [
+      "D2:7"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000030",
+    "episode_id": "conv-49::session_2::episode-003",
+    "conversation_id": "conv-49",
+    "session_id": "session_2",
+    "observed_at": "2023-05-24T19:11:00",
+    "source_timestamp": "7:11 pm on 24 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "strategy_for_health",
+    "value": "finding a fitness routine he really enjoys",
+    "modality": "observed",
+    "valid_time": "before 7:11 pm on 24 May, 2023",
+    "evidence_turn_ids": [
+      "D2:9"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000031",
+    "episode_id": "conv-49::session_2::episode-003",
+    "conversation_id": "conv-49",
+    "session_id": "session_2",
+    "observed_at": "2023-05-24T19:11:00",
+    "source_timestamp": "7:11 pm on 24 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "attitude_towards_health",
+    "value": "loves feeling healthy and strong",
+    "modality": "observed",
+    "valid_time": "before 7:11 pm on 24 May, 2023",
+    "evidence_turn_ids": [
+      "D2:9"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000032",
+    "episode_id": "conv-49::session_2::episode-003",
+    "conversation_id": "conv-49",
+    "session_id": "session_2",
+    "observed_at": "2023-05-24T19:11:00",
+    "source_timestamp": "7:11 pm on 24 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "diet_approach",
+    "value": "making little ways to make smarter choices in diet",
+    "modality": "observed",
+    "valid_time": "before 7:11 pm on 24 May, 2023",
+    "evidence_turn_ids": [
+      "D2:9"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000033",
+    "episode_id": "conv-49::session_2::episode-003",
+    "conversation_id": "conv-49",
+    "session_id": "session_2",
+    "observed_at": "2023-05-24T19:11:00",
+    "source_timestamp": "7:11 pm on 24 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Sam",
+    "entity_type": "person",
+    "property": "considering_hobby",
+    "value": "painting",
+    "modality": "observed",
+    "valid_time": "7:11 pm on 24 May, 2023",
+    "evidence_turn_ids": [
+      "D2:10"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000034",
+    "episode_id": "conv-49::session_2::episode-004",
+    "conversation_id": "conv-49",
+    "session_id": "session_2",
+    "observed_at": "2023-05-24T19:11:00",
+    "source_timestamp": "7:11 pm on 24 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "activity",
+    "value": "painting",
+    "modality": "observed",
+    "valid_time": "recent years before 7:11 pm on 24 May, 2023",
+    "evidence_turn_ids": [
+      "D2:11"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000035",
+    "episode_id": "conv-49::session_2::episode-004",
+    "conversation_id": "conv-49",
+    "session_id": "session_2",
+    "observed_at": "2023-05-24T19:11:00",
+    "source_timestamp": "7:11 pm on 24 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "activity_benefit",
+    "value": "painting helps relieve stress, be creative, explore colors and textures, express feelings, and find peace",
+    "modality": "observed",
+    "valid_time": "7:11 pm on 24 May, 2023",
+    "evidence_turn_ids": [
+      "D2:11"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000036",
+    "episode_id": "conv-49::session_2::episode-004",
+    "conversation_id": "conv-49",
+    "session_id": "session_2",
+    "observed_at": "2023-05-24T19:11:00",
+    "source_timestamp": "7:11 pm on 24 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "painting_effect_on_weight_problem",
+    "value": "won't help with weight problem",
+    "modality": "observed",
+    "valid_time": "7:11 pm on 24 May, 2023",
+    "evidence_turn_ids": [
+      "D2:11"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000037",
+    "episode_id": "conv-49::session_2::episode-004",
+    "conversation_id": "conv-49",
+    "session_id": "session_2",
+    "observed_at": "2023-05-24T19:11:00",
+    "source_timestamp": "7:11 pm on 24 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "recommended_activity_for_weight_problem",
+    "value": "exercising",
+    "modality": "observed",
+    "valid_time": "7:11 pm on 24 May, 2023",
+    "evidence_turn_ids": [
+      "D2:11"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000038",
+    "episode_id": "conv-49::session_2::episode-004",
+    "conversation_id": "conv-49",
+    "session_id": "session_2",
+    "observed_at": "2023-05-24T19:11:00",
+    "source_timestamp": "7:11 pm on 24 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Sam",
+    "entity_type": "person",
+    "property": "intended_action",
+    "value": "try painting and report back",
+    "modality": "planned",
+    "valid_time": "after 7:11 pm on 24 May, 2023",
+    "evidence_turn_ids": [
+      "D2:12"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000039",
+    "episode_id": "conv-49::session_2::episode-004",
+    "conversation_id": "conv-49",
+    "session_id": "session_2",
+    "observed_at": "2023-05-24T19:11:00",
+    "source_timestamp": "7:11 pm on 24 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Sam",
+    "entity_type": "person",
+    "property": "intended_emotional_approach_to_painting",
+    "value": "not stress, just enjoy",
+    "modality": "planned",
+    "valid_time": "after 7:11 pm on 24 May, 2023",
+    "evidence_turn_ids": [
+      "D2:14"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000040",
+    "episode_id": "conv-49::session_2::episode-004",
+    "conversation_id": "conv-49",
+    "session_id": "session_2",
+    "observed_at": "2023-05-24T19:11:00",
+    "source_timestamp": "7:11 pm on 24 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Sam",
+    "entity_type": "person",
+    "property": "addressed",
+    "value": "Evan",
+    "modality": "observed",
+    "valid_time": "7:11 pm on 24 May, 2023",
+    "evidence_turn_ids": [
+      "D2:16"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000041",
+    "episode_id": "conv-49::session_2::episode-005",
+    "conversation_id": "conv-49",
+    "session_id": "session_2",
+    "observed_at": "2023-05-24T19:11:00",
+    "source_timestamp": "7:11 pm on 24 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Sam",
+    "entity_type": "person",
+    "property": "farewell",
+    "value": "Bye for now",
+    "modality": "observed",
+    "valid_time": "7:11 pm on 24 May, 2023",
+    "evidence_turn_ids": [
+      "D2:16"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000042",
+    "episode_id": "conv-49::session_2::episode-005",
+    "conversation_id": "conv-49",
+    "session_id": "session_2",
+    "observed_at": "2023-05-24T19:11:00",
+    "source_timestamp": "7:11 pm on 24 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "addressed",
+    "value": "Sam",
+    "modality": "observed",
+    "valid_time": "7:11 pm on 24 May, 2023",
+    "evidence_turn_ids": [
+      "D2:17"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000043",
+    "episode_id": "conv-49::session_2::episode-005",
+    "conversation_id": "conv-49",
+    "session_id": "session_2",
+    "observed_at": "2023-05-24T19:11:00",
+    "source_timestamp": "7:11 pm on 24 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "farewell",
+    "value": "I'll catch up with you later",
+    "modality": "observed",
+    "valid_time": "7:11 pm on 24 May, 2023",
+    "evidence_turn_ids": [
+      "D2:17"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000044",
+    "episode_id": "conv-49::session_2::episode-005",
+    "conversation_id": "conv-49",
+    "session_id": "session_2",
+    "observed_at": "2023-05-24T19:11:00",
+    "source_timestamp": "7:11 pm on 24 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "health_incident",
+    "value": "heart palpitation incident",
+    "modality": "observed",
+    "valid_time": "last week relative to 6 June 2023",
+    "evidence_turn_ids": [
+      "D3:1"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000045",
+    "episode_id": "conv-49::session_3::episode-001",
+    "conversation_id": "conv-49",
+    "session_id": "session_3",
+    "observed_at": "2023-06-06T15:55:00",
+    "source_timestamp": "3:55 pm on 6 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "health_implication",
+    "value": "wake-up call about lifestyle",
+    "modality": "observed",
+    "valid_time": "since heart palpitation incident",
+    "evidence_turn_ids": [
+      "D3:1"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000046",
+    "episode_id": "conv-49::session_3::episode-001",
+    "conversation_id": "conv-49",
+    "session_id": "session_3",
+    "observed_at": "2023-06-06T15:55:00",
+    "source_timestamp": "3:55 pm on 6 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "diet_change",
+    "value": "eating less processed food and sugary snacks",
+    "modality": "observed",
+    "valid_time": "currently as of 6 June 2023",
+    "evidence_turn_ids": [
+      "D3:3"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000047",
+    "episode_id": "conv-49::session_3::episode-001",
+    "conversation_id": "conv-49",
+    "session_id": "session_3",
+    "observed_at": "2023-06-06T15:55:00",
+    "source_timestamp": "3:55 pm on 6 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "dietary_preference",
+    "value": "likes ginger snaps",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D3:3"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000048",
+    "episode_id": "conv-49::session_3::episode-001",
+    "conversation_id": "conv-49",
+    "session_id": "session_3",
+    "observed_at": "2023-06-06T15:55:00",
+    "source_timestamp": "3:55 pm on 6 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Sam",
+    "entity_type": "person",
+    "property": "diet_change",
+    "value": "no recent changes; still enjoys soda and candy",
+    "modality": "observed",
+    "valid_time": "as of 6 June 2023",
+    "evidence_turn_ids": [
+      "D3:4"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000049",
+    "episode_id": "conv-49::session_3::episode-001",
+    "conversation_id": "conv-49",
+    "session_id": "session_3",
+    "observed_at": "2023-06-06T15:55:00",
+    "source_timestamp": "3:55 pm on 6 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Sam",
+    "entity_type": "person",
+    "property": "diet_plan",
+    "value": "will try swapping soda for flavored seltzer water and candy for dark chocolate",
+    "modality": "planned",
+    "valid_time": "planned after 6 June 2023",
+    "evidence_turn_ids": [
+      "D3:6"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000050",
+    "episode_id": "conv-49::session_3::episode-001",
+    "conversation_id": "conv-49",
+    "session_id": "session_3",
+    "observed_at": "2023-06-06T15:55:00",
+    "source_timestamp": "3:55 pm on 6 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "advice_given",
+    "value": "suggested swapping soda for flavored seltzer water and candy for dark chocolate",
+    "modality": "observed",
+    "valid_time": "6 June 2023",
+    "evidence_turn_ids": [
+      "D3:5"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000051",
+    "episode_id": "conv-49::session_3::episode-001",
+    "conversation_id": "conv-49",
+    "session_id": "session_3",
+    "observed_at": "2023-06-06T15:55:00",
+    "source_timestamp": "3:55 pm on 6 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "health_care_attitude",
+    "value": "being extra careful with health; advocating small changes",
+    "modality": "observed",
+    "valid_time": "6 June 2023",
+    "evidence_turn_ids": [
+      "D3:3",
+      "D3:7",
+      "D3:9",
+      "D3:11"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000052",
+    "episode_id": "conv-49::session_3::episode-001",
+    "conversation_id": "conv-49",
+    "session_id": "session_3",
+    "observed_at": "2023-06-06T15:55:00",
+    "source_timestamp": "3:55 pm on 6 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Sam",
+    "entity_type": "person",
+    "property": "attitude_towards_diet_change",
+    "value": "open and willing to try small changes",
+    "modality": "observed",
+    "valid_time": "6 June 2023",
+    "evidence_turn_ids": [
+      "D3:6",
+      "D3:8",
+      "D3:10",
+      "D3:12"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000053",
+    "episode_id": "conv-49::session_3::episode-001",
+    "conversation_id": "conv-49",
+    "session_id": "session_3",
+    "observed_at": "2023-06-06T15:55:00",
+    "source_timestamp": "3:55 pm on 6 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Sam",
+    "entity_type": "person",
+    "property": "current_diet_habits",
+    "value": "enjoys soda and candy despite knowing it's not best habit",
+    "modality": "observed",
+    "valid_time": "6 June 2023",
+    "evidence_turn_ids": [
+      "D3:4"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000054",
+    "episode_id": "conv-49::session_3::episode-001",
+    "conversation_id": "conv-49",
+    "session_id": "session_3",
+    "observed_at": "2023-06-06T15:55:00",
+    "source_timestamp": "3:55 pm on 6 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Sam",
+    "entity_type": "person",
+    "property": "support_received",
+    "value": "appreciates Evan's moral support on health journey",
+    "modality": "observed",
+    "valid_time": "6 June 2023",
+    "evidence_turn_ids": [
+      "D3:12"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000055",
+    "episode_id": "conv-49::session_3::episode-001",
+    "conversation_id": "conv-49",
+    "session_id": "session_3",
+    "observed_at": "2023-06-06T15:55:00",
+    "source_timestamp": "3:55 pm on 6 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "support_for_Sam",
+    "value": "Evan is here for Sam and ready to help with workouts",
+    "modality": "observed",
+    "valid_time": "3:55 pm on 6 June, 2023",
+    "evidence_turn_ids": [
+      "D3:13",
+      "D3:15"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000056",
+    "episode_id": "conv-49::session_3::episode-002",
+    "conversation_id": "conv-49",
+    "session_id": "session_3",
+    "observed_at": "2023-06-06T15:55:00",
+    "source_timestamp": "3:55 pm on 6 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "belief_exercise_benefit",
+    "value": "Exercise clears the mind and is amazing",
+    "modality": "observed",
+    "valid_time": "3:55 pm on 6 June, 2023",
+    "evidence_turn_ids": [
+      "D3:13"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000057",
+    "episode_id": "conv-49::session_3::episode-002",
+    "conversation_id": "conv-49",
+    "session_id": "session_3",
+    "observed_at": "2023-06-06T15:55:00",
+    "source_timestamp": "3:55 pm on 6 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "plan_with_Sam",
+    "value": "Get together and show Sam some basic exercises",
+    "modality": "planned",
+    "valid_time": "after 3:55 pm on 6 June, 2023",
+    "evidence_turn_ids": [
+      "D3:15"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000058",
+    "episode_id": "conv-49::session_3::episode-002",
+    "conversation_id": "conv-49",
+    "session_id": "session_3",
+    "observed_at": "2023-06-06T15:55:00",
+    "source_timestamp": "3:55 pm on 6 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Sam",
+    "entity_type": "person",
+    "property": "current_location",
+    "value": "coming from the shop",
+    "modality": "observed",
+    "valid_time": "3:55 pm on 6 June, 2023",
+    "evidence_turn_ids": [
+      "D3:16"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000059",
+    "episode_id": "conv-49::session_3::episode-003",
+    "conversation_id": "conv-49",
+    "session_id": "session_3",
+    "observed_at": "2023-06-06T15:55:00",
+    "source_timestamp": "3:55 pm on 6 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "supermarket",
+    "entity_type": "place",
+    "property": "self_checkout_status",
+    "value": "all broken",
+    "modality": "observed",
+    "valid_time": "3:55 pm on 6 June, 2023",
+    "evidence_turn_ids": [
+      "D3:16"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000060",
+    "episode_id": "conv-49::session_3::episode-003",
+    "conversation_id": "conv-49",
+    "session_id": "session_3",
+    "observed_at": "2023-06-06T15:55:00",
+    "source_timestamp": "3:55 pm on 6 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Sam",
+    "entity_type": "person",
+    "property": "mood",
+    "value": "terrible",
+    "modality": "observed",
+    "valid_time": "3:55 pm on 6 June, 2023",
+    "evidence_turn_ids": [
+      "D3:16"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000061",
+    "episode_id": "conv-49::session_3::episode-003",
+    "conversation_id": "conv-49",
+    "session_id": "session_3",
+    "observed_at": "2023-06-06T15:55:00",
+    "source_timestamp": "3:55 pm on 6 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "response_to_Sam",
+    "value": "Sorry you were in that situation, hopefully it won't happen again",
+    "modality": "observed",
+    "valid_time": "3:55 pm on 6 June, 2023",
+    "evidence_turn_ids": [
+      "D3:17"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000062",
+    "episode_id": "conv-49::session_3::episode-003",
+    "conversation_id": "conv-49",
+    "session_id": "session_3",
+    "observed_at": "2023-06-06T15:55:00",
+    "source_timestamp": "3:55 pm on 6 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Sam",
+    "entity_type": "person",
+    "property": "farewell_to_Evan",
+    "value": "Yeah, I hope so, take care of yourself",
+    "modality": "observed",
+    "valid_time": "3:55 pm on 6 June, 2023",
+    "evidence_turn_ids": [
+      "D3:18"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000063",
+    "episode_id": "conv-49::session_3::episode-003",
+    "conversation_id": "conv-49",
+    "session_id": "session_3",
+    "observed_at": "2023-06-06T15:55:00",
+    "source_timestamp": "3:55 pm on 6 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Sam",
+    "entity_type": "person",
+    "property": "experienced_mocking",
+    "value": "friends mocked Sam's weight last Friday",
+    "modality": "observed",
+    "valid_time": "last Friday before 2023-07-27",
+    "evidence_turn_ids": [
+      "D4:1"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000064",
+    "episode_id": "conv-49::session_4::episode-001",
+    "conversation_id": "conv-49",
+    "session_id": "session_4",
+    "observed_at": "2023-07-27T10:52:00",
+    "source_timestamp": "10:52 am on 27 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Sam",
+    "entity_type": "person",
+    "property": "felt_hurt",
+    "value": "hurt by friends mocking weight",
+    "modality": "observed",
+    "valid_time": "last Friday before 2023-07-27",
+    "evidence_turn_ids": [
+      "D4:1"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000065",
+    "episode_id": "conv-49::session_4::episode-001",
+    "conversation_id": "conv-49",
+    "session_id": "session_4",
+    "observed_at": "2023-07-27T10:52:00",
+    "source_timestamp": "10:52 am on 27 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Sam",
+    "entity_type": "person",
+    "property": "realized_need_change",
+    "value": "realized need to make changes after being mocked",
+    "modality": "observed",
+    "valid_time": "after last Friday before 2023-07-27",
+    "evidence_turn_ids": [
+      "D4:1"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000066",
+    "episode_id": "conv-49::session_4::episode-001",
+    "conversation_id": "conv-49",
+    "session_id": "session_4",
+    "observed_at": "2023-07-27T10:52:00",
+    "source_timestamp": "10:52 am on 27 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Sam",
+    "entity_type": "person",
+    "property": "working_on_health",
+    "value": "working on health and getting active",
+    "modality": "observed",
+    "valid_time": "current as of 2023-07-27",
+    "evidence_turn_ids": [
+      "D4:3"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000067",
+    "episode_id": "conv-49::session_4::episode-001",
+    "conversation_id": "conv-49",
+    "session_id": "session_4",
+    "observed_at": "2023-07-27T10:52:00",
+    "source_timestamp": "10:52 am on 27 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "offered_support",
+    "value": "offered to work together with Sam on progress",
+    "modality": "observed",
+    "valid_time": "2023-07-27",
+    "evidence_turn_ids": [
+      "D4:2"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000068",
+    "episode_id": "conv-49::session_4::episode-001",
+    "conversation_id": "conv-49",
+    "session_id": "session_4",
+    "observed_at": "2023-07-27T10:52:00",
+    "source_timestamp": "10:52 am on 27 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "health_struggle",
+    "value": "struggled with health a few years ago",
+    "modality": "observed",
+    "valid_time": "a few years ago",
+    "evidence_turn_ids": [
+      "D4:4"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000069",
+    "episode_id": "conv-49::session_4::episode-002",
+    "conversation_id": "conv-49",
+    "session_id": "session_4",
+    "observed_at": "2023-07-27T10:52:00",
+    "source_timestamp": "10:52 am on 27 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "commitment_reminder",
+    "value": "gym membership card",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D4:4"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000070",
+    "episode_id": "conv-49::session_4::episode-002",
+    "conversation_id": "conv-49",
+    "session_id": "session_4",
+    "observed_at": "2023-07-27T10:52:00",
+    "source_timestamp": "10:52 am on 27 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "belief",
+    "value": "exercise, diet and lifestyle changes all play a big role in health",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D4:4"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000071",
+    "episode_id": "conv-49::session_4::episode-002",
+    "conversation_id": "conv-49",
+    "session_id": "session_4",
+    "observed_at": "2023-07-27T10:52:00",
+    "source_timestamp": "10:52 am on 27 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "dietary_change",
+    "value": "cut down sugary snacks and eat more vegetables and fruit",
+    "modality": "observed",
+    "valid_time": "during health journey",
+    "evidence_turn_ids": [
+      "D4:6"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000072",
+    "episode_id": "conv-49::session_4::episode-002",
+    "conversation_id": "conv-49",
+    "session_id": "session_4",
+    "observed_at": "2023-07-27T10:52:00",
+    "source_timestamp": "10:52 am on 27 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Sam",
+    "entity_type": "person",
+    "property": "dietary_change_plan",
+    "value": "reducing soda and candy intake",
+    "modality": "observed",
+    "valid_time": "current",
+    "evidence_turn_ids": [
+      "D4:7"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000073",
+    "episode_id": "conv-49::session_4::episode-002",
+    "conversation_id": "conv-49",
+    "session_id": "session_4",
+    "observed_at": "2023-07-27T10:52:00",
+    "source_timestamp": "10:52 am on 27 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Sam",
+    "entity_type": "person",
+    "property": "attitude",
+    "value": "determined to make a change despite difficulty",
+    "modality": "observed",
+    "valid_time": "current",
+    "evidence_turn_ids": [
+      "D4:7"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000074",
+    "episode_id": "conv-49::session_4::episode-002",
+    "conversation_id": "conv-49",
+    "session_id": "session_4",
+    "observed_at": "2023-07-27T10:52:00",
+    "source_timestamp": "10:52 am on 27 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "suggestion",
+    "value": "try flavored seltzer water as a great alternative to soda",
+    "modality": "observed",
+    "valid_time": "10:52 am on 27 July, 2023",
+    "evidence_turn_ids": [
+      "D4:8"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000075",
+    "episode_id": "conv-49::session_4::episode-003",
+    "conversation_id": "conv-49",
+    "session_id": "session_4",
+    "observed_at": "2023-07-27T10:52:00",
+    "source_timestamp": "10:52 am on 27 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "current_novel",
+    "value": "\"The Great Gatsby\"",
+    "modality": "observed",
+    "valid_time": "10:52 am on 27 July, 2023",
+    "evidence_turn_ids": [
+      "D4:8",
+      "D4:10"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000076",
+    "episode_id": "conv-49::session_4::episode-003",
+    "conversation_id": "conv-49",
+    "session_id": "session_4",
+    "observed_at": "2023-07-27T10:52:00",
+    "source_timestamp": "10:52 am on 27 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Sam",
+    "entity_type": "person",
+    "property": "past_experience",
+    "value": "tried flavored seltzer water before and it was nice",
+    "modality": "observed",
+    "valid_time": "10:52 am on 27 July, 2023",
+    "evidence_turn_ids": [
+      "D4:9"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000077",
+    "episode_id": "conv-49::session_4::episode-003",
+    "conversation_id": "conv-49",
+    "session_id": "session_4",
+    "observed_at": "2023-07-27T10:52:00",
+    "source_timestamp": "10:52 am on 27 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "suggested_snacks",
+    "value": "air-popped popcorn or fruit as low-calorie snacks to pair with flavored seltzer",
+    "modality": "observed",
+    "valid_time": "10:52 am on 27 July, 2023",
+    "evidence_turn_ids": [
+      "D4:10"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000078",
+    "episode_id": "conv-49::session_4::episode-003",
+    "conversation_id": "conv-49",
+    "session_id": "session_4",
+    "observed_at": "2023-07-27T10:52:00",
+    "source_timestamp": "10:52 am on 27 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Sam",
+    "entity_type": "person",
+    "property": "intent_to_read",
+    "value": "intend to read \"The Great Gatsby\" sometime",
+    "modality": "observed",
+    "valid_time": "10:52 am on 27 July, 2023",
+    "evidence_turn_ids": [
+      "D4:11"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000079",
+    "episode_id": "conv-49::session_4::episode-003",
+    "conversation_id": "conv-49",
+    "session_id": "session_4",
+    "observed_at": "2023-07-27T10:52:00",
+    "source_timestamp": "10:52 am on 27 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "advice",
+    "value": "focus on healthy swaps and taking small steps",
+    "modality": "observed",
+    "valid_time": "10:52 am on 27 July, 2023",
+    "evidence_turn_ids": [
+      "D4:12"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000080",
+    "episode_id": "conv-49::session_4::episode-003",
+    "conversation_id": "conv-49",
+    "session_id": "session_4",
+    "observed_at": "2023-07-27T10:52:00",
+    "source_timestamp": "10:52 am on 27 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Sam",
+    "entity_type": "person",
+    "property": "reaction_to_advice",
+    "value": "feels inspired by reminder to focus on progress, not perfection",
+    "modality": "observed",
+    "valid_time": "10:52 am on 27 July, 2023",
+    "evidence_turn_ids": [
+      "D4:13"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000081",
+    "episode_id": "conv-49::session_4::episode-003",
+    "conversation_id": "conv-49",
+    "session_id": "session_4",
+    "observed_at": "2023-07-27T10:52:00",
+    "source_timestamp": "10:52 am on 27 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "exercise",
+    "entity_type": "activity",
+    "property": "importance",
+    "value": "just as important as eating right",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D4:14"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000082",
+    "episode_id": "conv-49::session_4::episode-004",
+    "conversation_id": "conv-49",
+    "session_id": "session_4",
+    "observed_at": "2023-07-27T10:52:00",
+    "source_timestamp": "10:52 am on 27 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Sam",
+    "entity_type": "person",
+    "property": "plan",
+    "value": "go to the gym and exercise regularly starting tomorrow",
+    "modality": "planned",
+    "valid_time": "starting tomorrow from 10:52 am on 27 July, 2023",
+    "evidence_turn_ids": [
+      "D4:15"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000083",
+    "episode_id": "conv-49::session_4::episode-004",
+    "conversation_id": "conv-49",
+    "session_id": "session_4",
+    "observed_at": "2023-07-27T10:52:00",
+    "source_timestamp": "10:52 am on 27 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "exercise",
+    "entity_type": "activity",
+    "property": "characteristic",
+    "value": "rewarding and tough",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D4:16"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000084",
+    "episode_id": "conv-49::session_4::episode-004",
+    "conversation_id": "conv-49",
+    "session_id": "session_4",
+    "observed_at": "2023-07-27T10:52:00",
+    "source_timestamp": "10:52 am on 27 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "provides_support_to",
+    "value": "Sam",
+    "modality": "observed",
+    "valid_time": "10:52 am on 27 July, 2023",
+    "evidence_turn_ids": [
+      "D4:17",
+      "D4:18",
+      "D4:20"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000085",
+    "episode_id": "conv-49::session_4::episode-005",
+    "conversation_id": "conv-49",
+    "session_id": "session_4",
+    "observed_at": "2023-07-27T10:52:00",
+    "source_timestamp": "10:52 am on 27 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Sam",
+    "entity_type": "person",
+    "property": "expresses_appreciation_to",
+    "value": "Evan",
+    "modality": "observed",
+    "valid_time": "10:52 am on 27 July, 2023",
+    "evidence_turn_ids": [
+      "D4:17",
+      "D4:19"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000086",
+    "episode_id": "conv-49::session_4::episode-005",
+    "conversation_id": "conv-49",
+    "session_id": "session_4",
+    "observed_at": "2023-07-27T10:52:00",
+    "source_timestamp": "10:52 am on 27 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "trip_location",
+    "value": "Canada",
+    "modality": "observed",
+    "valid_time": "last week before 7 August 2023",
+    "evidence_turn_ids": [
+      "D5:1"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000087",
+    "episode_id": "conv-49::session_5::episode-001",
+    "conversation_id": "conv-49",
+    "session_id": "session_5",
+    "observed_at": "2023-08-07T19:52:00",
+    "source_timestamp": "7:52 pm on 7 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "met_person",
+    "value": "awesome Canadian woman",
+    "modality": "observed",
+    "valid_time": "last week before 7 August 2023",
+    "evidence_turn_ids": [
+      "D5:1"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000088",
+    "episode_id": "conv-49::session_5::episode-001",
+    "conversation_id": "conv-49",
+    "session_id": "session_5",
+    "observed_at": "2023-08-07T19:52:00",
+    "source_timestamp": "7:52 pm on 7 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "feeling_with_person",
+    "value": "makes me feel alive",
+    "modality": "observed",
+    "valid_time": "last week before 7 August 2023",
+    "evidence_turn_ids": [
+      "D5:1"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000089",
+    "episode_id": "conv-49::session_5::episode-001",
+    "conversation_id": "conv-49",
+    "session_id": "session_5",
+    "observed_at": "2023-08-07T19:52:00",
+    "source_timestamp": "7:52 pm on 7 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "dealing_with",
+    "value": "health issues lately",
+    "modality": "observed",
+    "valid_time": "recently before 7 August 2023",
+    "evidence_turn_ids": [
+      "D5:2"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000090",
+    "episode_id": "conv-49::session_5::episode-001",
+    "conversation_id": "conv-49",
+    "session_id": "session_5",
+    "observed_at": "2023-08-07T19:52:00",
+    "source_timestamp": "7:52 pm on 7 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "experience_with_person",
+    "value": "every moment with her is really fun and energizing",
+    "modality": "observed",
+    "valid_time": "current as of 7 August 2023",
+    "evidence_turn_ids": [
+      "D5:3"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000091",
+    "episode_id": "conv-49::session_5::episode-001",
+    "conversation_id": "conv-49",
+    "session_id": "session_5",
+    "observed_at": "2023-08-07T19:52:00",
+    "source_timestamp": "7:52 pm on 7 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "feeling_change",
+    "value": "nice change especially after dealing with health issues",
+    "modality": "observed",
+    "valid_time": "current as of 7 August 2023",
+    "evidence_turn_ids": [
+      "D5:3"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000092",
+    "episode_id": "conv-49::session_5::episode-001",
+    "conversation_id": "conv-49",
+    "session_id": "session_5",
+    "observed_at": "2023-08-07T19:52:00",
+    "source_timestamp": "7:52 pm on 7 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Sam",
+    "entity_type": "person",
+    "property": "opinion_health_problems",
+    "value": "Dealing with health problems can be challenging and take away from enjoyable experiences",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D5:4"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000093",
+    "episode_id": "conv-49::session_5::episode-002",
+    "conversation_id": "conv-49",
+    "session_id": "session_5",
+    "observed_at": "2023-08-07T19:52:00",
+    "source_timestamp": "7:52 pm on 7 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "favorite_snack",
+    "value": "Ginger snaps",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D5:5"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000094",
+    "episode_id": "conv-49::session_5::episode-002",
+    "conversation_id": "conv-49",
+    "session_id": "session_5",
+    "observed_at": "2023-08-07T19:52:00",
+    "source_timestamp": "7:52 pm on 7 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "experience_health_issues",
+    "value": "Dealing with health issues has been tough",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D5:5"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000095",
+    "episode_id": "conv-49::session_5::episode-002",
+    "conversation_id": "conv-49",
+    "session_id": "session_5",
+    "observed_at": "2023-08-07T19:52:00",
+    "source_timestamp": "7:52 pm on 7 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "appreciation_good_moments",
+    "value": "Health issues have made me appreciate the good moments more",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D5:5"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000096",
+    "episode_id": "conv-49::session_5::episode-002",
+    "conversation_id": "conv-49",
+    "session_id": "session_5",
+    "observed_at": "2023-08-07T19:52:00",
+    "source_timestamp": "7:52 pm on 7 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "source_of_joy",
+    "value": "These (the good moments) bring lots of joy even through the hard times",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D5:5"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000097",
+    "episode_id": "conv-49::session_5::episode-002",
+    "conversation_id": "conv-49",
+    "session_id": "session_5",
+    "observed_at": "2023-08-07T19:52:00",
+    "source_timestamp": "7:52 pm on 7 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "child_emotional_impact",
+    "value": "Evan's kids bring him such joy",
+    "modality": "observed",
+    "valid_time": "current",
+    "evidence_turn_ids": [
+      "D5:7"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000098",
+    "episode_id": "conv-49::session_5::episode-003",
+    "conversation_id": "conv-49",
+    "session_id": "session_5",
+    "observed_at": "2023-08-07T19:52:00",
+    "source_timestamp": "7:52 pm on 7 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "health_prioritization_duration",
+    "value": "two years with ups and downs",
+    "modality": "observed",
+    "valid_time": "last two years",
+    "evidence_turn_ids": [
+      "D5:7"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000099",
+    "episode_id": "conv-49::session_5::episode-003",
+    "conversation_id": "conv-49",
+    "session_id": "session_5",
+    "observed_at": "2023-08-07T19:52:00",
+    "source_timestamp": "7:52 pm on 7 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "motivated_by",
+    "value": "family",
+    "modality": "observed",
+    "valid_time": "current",
+    "evidence_turn_ids": [
+      "D5:9"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000100",
+    "episode_id": "conv-49::session_5::episode-004",
+    "conversation_id": "conv-49",
+    "session_id": "session_5",
+    "observed_at": "2023-08-07T19:52:00",
+    "source_timestamp": "7:52 pm on 7 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "uses_device",
+    "value": "fitness tracker",
+    "modality": "observed",
+    "valid_time": "current",
+    "evidence_turn_ids": [
+      "D5:9"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000101",
+    "episode_id": "conv-49::session_5::episode-004",
+    "conversation_id": "conv-49",
+    "session_id": "session_5",
+    "observed_at": "2023-08-07T19:52:00",
+    "source_timestamp": "7:52 pm on 7 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "fitness tracker",
+    "entity_type": "object",
+    "property": "function",
+    "value": "tracks progress and serves as a constant reminder for health goals",
+    "modality": "observed",
+    "valid_time": "current",
+    "evidence_turn_ids": [
+      "D5:9"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000102",
+    "episode_id": "conv-49::session_5::episode-004",
+    "conversation_id": "conv-49",
+    "session_id": "session_5",
+    "observed_at": "2023-08-07T19:52:00",
+    "source_timestamp": "7:52 pm on 7 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "health_goal_tracking_effectiveness",
+    "value": "helps a lot",
+    "modality": "observed",
+    "valid_time": "current",
+    "evidence_turn_ids": [
+      "D5:9"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000103",
+    "episode_id": "conv-49::session_5::episode-004",
+    "conversation_id": "conv-49",
+    "session_id": "session_5",
+    "observed_at": "2023-08-07T19:52:00",
+    "source_timestamp": "7:52 pm on 7 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "motivated_by_device",
+    "value": "visual reminder",
+    "modality": "observed",
+    "valid_time": "current",
+    "evidence_turn_ids": [
+      "D5:11"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000104",
+    "episode_id": "conv-49::session_5::episode-004",
+    "conversation_id": "conv-49",
+    "session_id": "session_5",
+    "observed_at": "2023-08-07T19:52:00",
+    "source_timestamp": "7:52 pm on 7 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "motivation",
+    "value": "a thirst for adventure on interesting hikes",
+    "modality": "observed",
+    "valid_time": "at 7:52 pm on 7 August, 2023",
+    "evidence_turn_ids": [
+      "D5:13"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000105",
+    "episode_id": "conv-49::session_5::episode-005",
+    "conversation_id": "conv-49",
+    "session_id": "session_5",
+    "observed_at": "2023-08-07T19:52:00",
+    "source_timestamp": "7:52 pm on 7 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "advice_about_motivation",
+    "value": "Find something that motivates you and makes you happy, whether it's large or tiny",
+    "modality": "observed",
+    "valid_time": "at 7:52 pm on 7 August, 2023",
+    "evidence_turn_ids": [
+      "D5:15"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000106",
+    "episode_id": "conv-49::session_5::episode-005",
+    "conversation_id": "conv-49",
+    "session_id": "session_5",
+    "observed_at": "2023-08-07T19:52:00",
+    "source_timestamp": "7:52 pm on 7 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "motivation_effect",
+    "value": "It'll help us conquer the struggles we encounter",
+    "modality": "observed",
+    "valid_time": "at 7:52 pm on 7 August, 2023",
+    "evidence_turn_ids": [
+      "D5:15"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000107",
+    "episode_id": "conv-49::session_5::episode-005",
+    "conversation_id": "conv-49",
+    "session_id": "session_5",
+    "observed_at": "2023-08-07T19:52:00",
+    "source_timestamp": "7:52 pm on 7 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "has_object",
+    "value": "an object symbolizing strength and resilience",
+    "modality": "observed",
+    "valid_time": "at the time of conversation",
+    "evidence_turn_ids": [
+      "D5:17"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000108",
+    "episode_id": "conv-49::session_5::episode-006",
+    "conversation_id": "conv-49",
+    "session_id": "session_5",
+    "observed_at": "2023-08-07T19:52:00",
+    "source_timestamp": "7:52 pm on 7 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "reason_for_getting_object",
+    "value": "symbolizes strength and resilience",
+    "modality": "observed",
+    "valid_time": "at the time of conversation",
+    "evidence_turn_ids": [
+      "D5:17"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000109",
+    "episode_id": "conv-49::session_5::episode-006",
+    "conversation_id": "conv-49",
+    "session_id": "session_5",
+    "observed_at": "2023-08-07T19:52:00",
+    "source_timestamp": "7:52 pm on 7 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "object_care_effect",
+    "value": "motivates me to keep going through tough times",
+    "modality": "observed",
+    "valid_time": "at the time of conversation",
+    "evidence_turn_ids": [
+      "D5:17"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000110",
+    "episode_id": "conv-49::session_5::episode-006",
+    "conversation_id": "conv-49",
+    "session_id": "session_5",
+    "observed_at": "2023-08-07T19:52:00",
+    "source_timestamp": "7:52 pm on 7 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "object_reminder_message",
+    "value": "even in little things, we can be tough",
+    "modality": "observed",
+    "valid_time": "at the time of conversation",
+    "evidence_turn_ids": [
+      "D5:19"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000111",
+    "episode_id": "conv-49::session_5::episode-006",
+    "conversation_id": "conv-49",
+    "session_id": "session_5",
+    "observed_at": "2023-08-07T19:52:00",
+    "source_timestamp": "7:52 pm on 7 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "expressed_support_to",
+    "value": "Sam",
+    "modality": "observed",
+    "valid_time": "7:52 pm on 7 August, 2023",
+    "evidence_turn_ids": [
+      "D5:23"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000112",
+    "episode_id": "conv-49::session_5::episode-007",
+    "conversation_id": "conv-49",
+    "session_id": "session_5",
+    "observed_at": "2023-08-07T19:52:00",
+    "source_timestamp": "7:52 pm on 7 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "stated_importance_of",
+    "value": "consistency and perseverance",
+    "modality": "observed",
+    "valid_time": "7:52 pm on 7 August, 2023",
+    "evidence_turn_ids": [
+      "D5:23"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000113",
+    "episode_id": "conv-49::session_5::episode-007",
+    "conversation_id": "conv-49",
+    "session_id": "session_5",
+    "observed_at": "2023-08-07T19:52:00",
+    "source_timestamp": "7:52 pm on 7 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan and Sam",
+    "entity_type": "person",
+    "property": "had_chat",
+    "value": "great chat",
+    "modality": "observed",
+    "valid_time": "7:52 pm on 7 August, 2023",
+    "evidence_turn_ids": [
+      "D5:23"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000114",
+    "episode_id": "conv-49::session_5::episode-007",
+    "conversation_id": "conv-49",
+    "session_id": "session_5",
+    "observed_at": "2023-08-07T19:52:00",
+    "source_timestamp": "7:52 pm on 7 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Sam",
+    "entity_type": "person",
+    "property": "said_goodbye_to",
+    "value": "Sam",
+    "modality": "observed",
+    "valid_time": "7:52 pm on 7 August, 2023",
+    "evidence_turn_ids": [
+      "D5:24"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000115",
+    "episode_id": "conv-49::session_5::episode-007",
+    "conversation_id": "conv-49",
+    "session_id": "session_5",
+    "observed_at": "2023-08-07T19:52:00",
+    "source_timestamp": "7:52 pm on 7 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Evan",
+    "entity_type": "person",
+    "property": "said_goodbye",
+    "value": "Catch ya later",
+    "modality": "observed",
+    "valid_time": "7:52 pm on 7 August, 2023",
+    "evidence_turn_ids": [
+      "D5:25"
+    ],
+    "record_id": "offline-memory-a79f02b72066::r000116",
+    "episode_id": "conv-49::session_5::episode-007",
+    "conversation_id": "conv-49",
+    "session_id": "session_5",
+    "observed_at": "2023-08-07T19:52:00",
+    "source_timestamp": "7:52 pm on 7 August, 2023",
+    "timezone_status": "unspecified"
+  }
+]

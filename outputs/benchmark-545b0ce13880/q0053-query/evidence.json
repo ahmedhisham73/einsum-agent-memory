@@ -1,0 +1,205 @@
+[
+  {
+    "episode_id": "conv-26::session_7::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_7",
+    "observed_at": "2023-07-12T16:33:00",
+    "source_timestamp": "4:33 pm on 12 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Inspirational books and the importance of self-acceptance and support, including pets bringing joy",
+    "turns": [
+      {
+        "turn_id": "D7:8",
+        "speaker": "Melanie",
+        "text": "Caroline, so glad you got the support! Your experience really brought you to where you need to be. You're gonna make a huge difference! This book I read last year reminds me to always pursue my dreams, just like you are doing!🌟",
+        "metadata": {
+          "img_url": [
+            "https://www.speakers.co.uk/microsites/tom-oliver/wp-content/uploads/2014/11/Book-Cover-3D1.jpg"
+          ],
+          "blip_caption": "a photography of a book cover with a gold coin on it",
+          "query": "painted canvas follow your dreams",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D7:9",
+        "speaker": "Caroline",
+        "text": "Thanks so much, Mel! Seeing this pic just made me appreciate my love of reading even more. Books guide me, motivate me and help me discover who I am. They're a huge part of my journey, and this one's reminding me to keep going and never give up!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:10",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! Books have such an awesome power! Which one has been your favorite guide?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:11",
+        "speaker": "Caroline",
+        "text": "I loved \"Becoming Nicole\" by Amy Ellis Nutt. It's a real inspiring true story about a trans girl and her family. It made me feel connected and gave me a lot of hope for my own path. Highly recommend it for sure!",
+        "metadata": {
+          "img_url": [
+            "https://m.media-amazon.com/images/I/A1CPpaLFR2L.jpg"
+          ],
+          "blip_caption": "a photo of a dog sitting in a boat on the water",
+          "query": "becoming nicole book amy ellis nutt"
+        }
+      },
+      {
+        "turn_id": "D7:12",
+        "speaker": "Melanie",
+        "text": "That sounds awesome! What did you take away from it to use in your life?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:13",
+        "speaker": "Caroline",
+        "text": "It taught me self-acceptance and how to find support. It also showed me that tough times don't last - hope and love exist. Pets bring so much joy too, though.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:14",
+        "speaker": "Melanie",
+        "text": "Caroline, those lessons are great - self-acceptance and finding support are key. Plus pets are awesome for joy and comfort, can't agree more! ",
+        "metadata": {
+          "img_url": [
+            "https://st3.depositphotos.com/12674628/16006/i/1600/depositphotos_160060676-stock-photo-multiethnic-girls-with-puppy.jpg"
+          ],
+          "blip_caption": "a photography of two little girls sitting on the steps with a dog",
+          "query": "daughters playing with pet dog backyard",
+          "re-download": true
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_7::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_7",
+    "observed_at": "2023-07-12T16:33:00",
+    "source_timestamp": "4:33 pm on 12 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Discussion about Melanie's pets and new running shoes",
+    "turns": [
+      {
+        "turn_id": "D7:15",
+        "speaker": "Caroline",
+        "text": "That's so nice! What pet do you have?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:16",
+        "speaker": "Melanie",
+        "text": "We've got a pup and a kitty. That's the dog, and here's our cat! They brighten up our day and always make us smile.",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/u26t78f0idd91.jpg"
+          ],
+          "blip_caption": "a photo of a cat laying on the floor with its head on the floor",
+          "query": "dog cat kids playing joy"
+        }
+      },
+      {
+        "turn_id": "D7:17",
+        "speaker": "Caroline",
+        "text": "Ah, they're adorable! What are their names? Pets sure do bring so much joy to us!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:18",
+        "speaker": "Melanie",
+        "text": "Luna and Oliver! They are so sweet and playful - they really liven up the house! Just got some new shoes, too!",
+        "metadata": {
+          "img_url": [
+            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwGRNI2jDkrALJHgL2LWfW2rUGhN-GA4OL_gXU2fHPyxtst2MPrv9hkyOMdpj5SppLNYiQrcXUUq90vv5es8ueswy2tuu0Lqa2lh2vKOfDZ5SXSdLVMVvBrfLbFJG19QiqDbv1xs38fv-atd4MYOesJ4c89sQTzv6k93PDQ5T0dwVJV9O2FF95woyP3Q/s4032/IMG_9747.jpg"
+          ],
+          "blip_caption": "a photo of a person wearing pink sneakers on a white rug",
+          "query": "purple running shoe"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_13::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_13",
+    "observed_at": "2023-08-23T15:31:00",
+    "source_timestamp": "3:31 pm on 23 August, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Melanie and Caroline share stories and pictures of their pets",
+    "turns": [
+      {
+        "turn_id": "D13:4",
+        "speaker": "Melanie",
+        "text": "Yeah, it's normal to be both excited and nervous with a big decision. And thanks for asking, they're good- we got another cat named Bailey too. Here's a pic of Oliver. Can you show me one of Oscar?",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/kgggim1gom951.jpg"
+          ],
+          "blip_caption": "a photo of a black dog laying in the grass with a frisbee",
+          "query": "pets Luna Oliver playing frisbee backyard"
+        }
+      },
+      {
+        "turn_id": "D13:5",
+        "speaker": "Caroline",
+        "text": "He's so cute! What’s the funniest thing Oliver's done? And sure, check out this pic of him eating parsley! Veggies are his fave!",
+        "metadata": {
+          "img_url": [
+            "https://cdn.i-scmp.com/sites/default/files/styles/landscape/public/d8/yp/images/shutterstock533807500.jpg"
+          ],
+          "blip_caption": "a photography of a guinea in a cage with hay and hay",
+          "query": "oscar munching parsley playpen",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D13:6",
+        "speaker": "Melanie",
+        "text": "Oliver's hilarious! He hid his bone in my slipper once! Cute, right? Almost as silly as when I got to feed a horse a carrot. ",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/fgv0i3nzo7541.jpg"
+          ],
+          "blip_caption": "a photo of a person holding a carrot in front of a horse",
+          "query": "oscar carrot in mouth"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_13::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_13",
+    "observed_at": "2023-08-23T15:31:00",
+    "source_timestamp": "3:31 pm on 23 August, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Art and painting passions exchanged",
+    "turns": [
+      {
+        "turn_id": "D13:9",
+        "speaker": "Caroline",
+        "text": "Wow, Melanie, that's amazing! Love all the details and how you got the horse's grace and strength. Do you like painting animals?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D13:10",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! Glad you like it. Yeah, I love to. It's peaceful and special. Horses have such grace! Do you like to paint too?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D13:11",
+        "speaker": "Caroline",
+        "text": "Painting's great for expressing myself. I love creating art! Here's a recent self-portrait I made last week.",
+        "metadata": {
+          "img_url": [
+            "https://cdn.shopify.com/s/files/1/0302/3968/6755/files/IMG_8385_a145b124-53ab-4b3c-8f1a-497fa2d39a49.jpg"
+          ],
+          "blip_caption": "a photo of a painting of a woman with a blue face",
+          "query": "self-portrait painting vibrant colors"
+        }
+      }
+    ]
+  }
+]

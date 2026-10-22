@@ -1,0 +1,125 @@
+[
+  {
+    "stage": "agent_decision",
+    "call_id": "dcd51973-c1ad-4e6e-87d2-2ffb4585369e",
+    "response": {
+      "id": "chatcmpl-EZqYlcTUhgZ18Ysge0iZr1Hcjb0TM",
+      "object": "chat.completion",
+      "created": 1792212227,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"search\",\"query\":\"Caroline takeaway from the book Becoming Nicole\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 154,
+        "completion_tokens": 16,
+        "total_tokens": 170,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f810e81ea"
+    },
+    "latency_seconds": 1.4595333750000001
+  },
+  {
+    "stage": "agent_decision",
+    "call_id": "898372c8-8dfa-4d32-91dd-9cc5d3ae5b82",
+    "response": {
+      "id": "chatcmpl-EZqYn3Sx6VhrUcUE4cln8dYDRmnWA",
+      "object": "chat.completion",
+      "created": 1792212229,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"ready\",\"reason\":\"Caroline learned from \\\"Becoming Nicole\\\" the importance of self-acceptance, finding support, hope, and love. The book made her feel connected and gave her hope for her own path.\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2926,
+        "completion_tokens": 48,
+        "total_tokens": 2974,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f810e81ea"
+    },
+    "latency_seconds": 1.826138625
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "6628a645-43ea-4fd1-bcf1-a79a99881b07",
+    "response": {
+      "id": "chatcmpl-EZqYpQhSSngeXGOfhRKOc3gef13aZ",
+      "object": "chat.completion",
+      "created": 1792212231,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Caroline took away from the book \\\"Becoming Nicole\\\" the lessons of self-acceptance and how to find support. She also learned that tough times don't last, and that hope and love exist. Additionally, the book made her feel connected and gave her a lot of hope for her own path.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_7::chunk-0005\",\"turn_id\":\"D7:11\"},{\"episode_id\":\"conv-26::session_7::chunk-0010\",\"turn_id\":\"D7:13\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2783,
+        "completion_tokens": 122,
+        "total_tokens": 2905,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_802f1283f8"
+    },
+    "latency_seconds": 1.6893973340000006
+  }
+]

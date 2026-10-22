@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0099",
+  "category": 4,
+  "question": "What was discussed in the LGBTQ+ counseling workshop?",
+  "gold_answer": "therapeutic methods and how to best work with trans people",
+  "status": "scored",
+  "generated_answer": "The LGBTQ+ counseling workshop discussed different therapeutic methods and how to best work with trans people, focusing on creating a safe space for them. It was described as enlightening and showcased the passion of professionals dedicated to supporting mental health in the LGBTQ+ community.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_4::chunk-0010",
+      "turn_id": "D4:13"
+    }
+  ],
+  "query_elapsed_seconds": 5.508935834000001,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer accurately summarizes the key topics of the workshop, including therapeutic methods and working with trans individuals, while providing relevant additional context."
+}

@@ -1,0 +1,203 @@
+Run: offline-memory-e8a61e4468c9
+Conversation: conv-50
+Sessions: 30
+Output: /Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/offline-memory-e8a61e4468c9
+Partitioning session 1/30
+Partitioning session 2/30
+Partitioning session 3/30
+Partitioning session 4/30
+Partitioning session 5/30
+Partitioning session 6/30
+Partitioning session 7/30
+Partitioning session 8/30
+Partitioning session 9/30
+Partitioning session 10/30
+Partitioning session 11/30
+Partitioning session 12/30
+Partitioning session 13/30
+Partitioning session 14/30
+Partitioning session 15/30
+Partitioning session 16/30
+Partitioning session 17/30
+Partitioning session 18/30
+Partitioning session 19/30
+Partitioning session 20/30
+Partitioning session 21/30
+Partitioning session 22/30
+Partitioning session 23/30
+Partitioning session 24/30
+Partitioning session 25/30
+Partitioning session 26/30
+Partitioning session 27/30
+Partitioning session 28/30
+Partitioning session 29/30
+Partitioning session 30/30
+Extracting episode 1/121
+Extracting episode 2/121
+Extracting episode 3/121
+Extracting episode 4/121
+Extracting episode 5/121
+Extracting episode 6/121
+Extracting episode 7/121
+Extracting episode 8/121
+Extracting episode 9/121
+Extracting episode 10/121
+Extracting episode 11/121
+Extracting episode 12/121
+Extracting episode 13/121
+Extracting episode 14/121
+Extracting episode 15/121
+Extracting episode 16/121
+Extracting episode 17/121
+Extracting episode 18/121
+Extracting episode 19/121
+Extracting episode 20/121
+Extracting episode 21/121
+Extracting episode 22/121
+Extracting episode 23/121
+Extracting episode 24/121
+Extracting episode 25/121
+Extracting episode 26/121
+Extracting episode 27/121
+Extracting episode 28/121
+Extracting episode 29/121
+Extracting episode 30/121
+Extracting episode 31/121
+Extracting episode 32/121
+Extracting episode 33/121
+
+Status: incomplete
+Episodes: 121
+Records: 177
+Artifacts: /Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/offline-memory-e8a61e4468c9
+{
+  "experiment_id": "offline-memory-e8a61e4468c9",
+  "recorded_calls": 63,
+  "groups": [
+    {
+      "approach": "ensimem",
+      "phase": "build",
+      "stage": "entity_property_extraction",
+      "usage_kind": "generation",
+      "provider": "openai",
+      "model": "gpt-4.1-mini-2025-04-14",
+      "calls": 33,
+      "retry_calls": 0,
+      "missing_usage_calls": 0,
+      "reported_input_tokens": 25682,
+      "reported_output_tokens": 15066,
+      "total_tokens": 40748,
+      "cached_input_tokens": 0,
+      "usage_complete": true
+    },
+    {
+      "approach": "ensimem",
+      "phase": "build",
+      "stage": "episode_partitioning",
+      "usage_kind": "generation",
+      "provider": "openai",
+      "model": "gpt-4.1-mini-2025-04-14",
+      "calls": 30,
+      "retry_calls": 0,
+      "missing_usage_calls": 0,
+      "reported_input_tokens": 49143,
+      "reported_output_tokens": 5665,
+      "total_tokens": 54808,
+      "cached_input_tokens": 0,
+      "usage_complete": true
+    }
+  ]
+}
+Traceback (most recent call last):
+  File "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/scripts/build_offline_memory.py", line 310, in <module>
+    main()
+  File "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/scripts/build_offline_memory.py", line 279, in main
+    extracted = validate_records(
+  File "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/scripts/build_entity_index.py", line 49, in validate_records
+    raise ValueError("Unsupported modality")
+ValueError: Unsupported modality
+Backup: /Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/offline-memory-e8a61e4468c9-backup-8ce75fca
+Reusing saved response 1/121
+Reusing saved response 2/121
+Reusing saved response 3/121
+Reusing saved response 4/121
+Reusing saved response 5/121
+Reusing saved response 6/121
+Reusing saved response 7/121
+Reusing saved response 8/121
+Reusing saved response 9/121
+Reusing saved response 10/121
+Reusing saved response 11/121
+Reusing saved response 12/121
+Reusing saved response 13/121
+Reusing saved response 14/121
+Reusing saved response 15/121
+Reusing saved response 16/121
+Reusing saved response 17/121
+Reusing saved response 18/121
+Reusing saved response 19/121
+Reusing saved response 20/121
+Reusing saved response 21/121
+Reusing saved response 22/121
+Reusing saved response 23/121
+Reusing saved response 24/121
+Reusing saved response 25/121
+Reusing saved response 26/121
+Reusing saved response 27/121
+Reusing saved response 28/121
+Reusing saved response 29/121
+Reusing saved response 30/121
+Reusing saved response 31/121
+Reusing saved response 32/121
+Reusing saved response 33/121
+
+Status: incomplete
+Extracted episodes: 32 / 121
+Records: 177
+Type normalizations: 0
+{
+  "experiment_id": "offline-memory-e8a61e4468c9",
+  "recorded_calls": 63,
+  "groups": [
+    {
+      "approach": "ensimem",
+      "phase": "build",
+      "stage": "entity_property_extraction",
+      "usage_kind": "generation",
+      "provider": "openai",
+      "model": "gpt-4.1-mini-2025-04-14",
+      "calls": 33,
+      "retry_calls": 0,
+      "missing_usage_calls": 0,
+      "reported_input_tokens": 25682,
+      "reported_output_tokens": 15066,
+      "total_tokens": 40748,
+      "cached_input_tokens": 0,
+      "usage_complete": true
+    },
+    {
+      "approach": "ensimem",
+      "phase": "build",
+      "stage": "episode_partitioning",
+      "usage_kind": "generation",
+      "provider": "openai",
+      "model": "gpt-4.1-mini-2025-04-14",
+      "calls": 30,
+      "retry_calls": 0,
+      "missing_usage_calls": 0,
+      "reported_input_tokens": 49143,
+      "reported_output_tokens": 5665,
+      "total_tokens": 54808,
+      "cached_input_tokens": 0,
+      "usage_complete": true
+    }
+  ]
+}
+Traceback (most recent call last):
+  File "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/scripts/resume_offline_memory.py", line 235, in <module>
+    main()
+  File "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/scripts/resume_offline_memory.py", line 205, in main
+    extracted = validate_records(items, episode)
+  File "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/scripts/build_entity_index.py", line 49, in validate_records
+    raise ValueError("Unsupported modality")
+ValueError: Unsupported modality

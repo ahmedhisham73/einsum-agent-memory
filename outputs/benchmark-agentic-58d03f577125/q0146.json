@@ -1,0 +1,33 @@
+{
+  "question_id": "conv-26::q0146",
+  "category": 4,
+  "question": "How did Melanie feel about her family after the accident?",
+  "gold_answer": "They are important and mean the world to her",
+  "status": "scored",
+  "generated_answer": "After the accident, Melanie felt that family was super important to her. She was scared during the accident but very thankful her son was okay. The experience reminded her that life is precious and to cherish her family. She expressed that her family meant the world to her and she was very thankful to have them. Their love and support really helped her through tough times and gave her strength and motivation to keep going. She appreciated them a lot and felt having her family around made hard times easier.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_18::chunk-0000",
+      "turn_id": "D18:3"
+    },
+    {
+      "episode_id": "conv-26::session_18::chunk-0000",
+      "turn_id": "D18:5"
+    },
+    {
+      "episode_id": "conv-26::session_18::chunk-0005",
+      "turn_id": "D18:9"
+    },
+    {
+      "episode_id": "conv-26::session_18::chunk-0010",
+      "turn_id": "D18:13"
+    },
+    {
+      "episode_id": "conv-26::session_18::chunk-0010",
+      "turn_id": "D18:15"
+    }
+  ],
+  "query_elapsed_seconds": 6.244581917,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer accurately reflects Melanie's feelings about her family after the accident, emphasizing their importance to her."
+}

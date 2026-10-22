@@ -1,0 +1,460 @@
+[
+  {
+    "episode_id": "conv-26::session_1::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_1",
+    "observed_at": "2023-05-08T13:56:00",
+    "source_timestamp": "1:56 pm on 8 May, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Melanie shares painting and discussion about creative expression",
+    "turns": [
+      {
+        "turn_id": "D1:12",
+        "speaker": "Melanie",
+        "text": "You'd be a great counselor! Your empathy and understanding will really help the people you work with. By the way, take a look at this.",
+        "metadata": {
+          "img_url": [
+            "http://candicealexander.com/cdn/shop/products/IMG_7269_a49d5af8-c76c-4ecd-ae20-48c08cb11dec.jpg"
+          ],
+          "blip_caption": "a photo of a painting of a sunset over a lake",
+          "query": "painting sunrise"
+        }
+      },
+      {
+        "turn_id": "D1:13",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! That's really sweet. Is this your own painting?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:14",
+        "speaker": "Melanie",
+        "text": "Yeah, I painted that lake sunrise last year! It's special to me.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:15",
+        "speaker": "Caroline",
+        "text": "Wow, Melanie! The colors really blend nicely. Painting looks like a great outlet for expressing yourself.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:16",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! Painting's a fun way to express my feelings and get creative. It's a great way to relax after a long day.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_8::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Sharing recent creative family activities and bonding through pottery and painting",
+    "turns": [
+      {
+        "turn_id": "D8:1",
+        "speaker": "Caroline",
+        "text": "Hey Mel, what's up? Been a busy week since we talked.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:2",
+        "speaker": "Melanie",
+        "text": "Hey Caroline, it's been super busy here. So much since we talked! Last Fri I finally took my kids to a pottery workshop. We all made our own pots, it was fun and therapeutic!",
+        "metadata": {
+          "img_url": [
+            "https://images.rawpixel.com/image_social_landscape/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTExL2ZsNDg2NDgxOTYyMDMtaW1hZ2UuanBn.jpg"
+          ],
+          "blip_caption": "a photography of a group of children making clay sculptures in a classroom",
+          "query": "pottery workshop family making clay pots",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D8:3",
+        "speaker": "Caroline",
+        "text": "Wow, Mel! Sounds like you and the kids had a blast. How'd they like it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:4",
+        "speaker": "Melanie",
+        "text": "The kids loved it! They were so excited to get their hands dirty and make something with clay. It was special to watch their creativity and imagination come to life, they made this!",
+        "metadata": {
+          "img_url": [
+            "https://monstermonster.shop/cdn/shop/products/mug-class_5000x.jpg"
+          ],
+          "blip_caption": "a photo of a cup with a dog face on it",
+          "query": "kids pottery finished pieces"
+        }
+      },
+      {
+        "turn_id": "D8:5",
+        "speaker": "Caroline",
+        "text": "Aww, that's so sweet! That cup is so cute. It's awesome to see how kids show their personalities through art. What other creative projects do you do with them, besides pottery?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:6",
+        "speaker": "Melanie",
+        "text": "We love painting together lately, especially nature-inspired ones. Here's our latest work from last weekend.",
+        "metadata": {
+          "img_url": [
+            "https://i.pinimg.com/originals/ea/d9/d7/ead9d79b58ca80a38a744b5ab70482db.jpg"
+          ],
+          "blip_caption": "a photo of a painting of a sunset with a palm tree",
+          "query": "painting vibrant flowers sunset sky"
+        }
+      },
+      {
+        "turn_id": "D8:7",
+        "speaker": "Caroline",
+        "text": "Wow Mel, that painting's amazing! The colors are so bold and it really highlights the beauty of nature. Y'all work on it together?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:8",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! We both helped with the painting - it was great bonding over it and chatting about nature. We found these lovely flowers. Appreciating the small things in life, too.",
+        "metadata": {
+          "img_url": [
+            "https://karengimson.files.wordpress.com/2017/06/img_7222.jpg"
+          ],
+          "blip_caption": "a photo of a field of purple flowers with green leaves",
+          "query": "path lined purple flowers nature"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_9::episode-005",
+    "conversation_id": "conv-26",
+    "session_id": "session_9",
+    "observed_at": "2023-07-17T14:31:00",
+    "source_timestamp": "2:31 pm on 17 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Personal family painting activity",
+    "turns": [
+      {
+        "turn_id": "D9:17",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! It really conveys unity and strength - such a gorgeous piece! My kids and I just finished another painting like our last one.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_10::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_10",
+    "observed_at": "2023-07-20T20:56:00",
+    "source_timestamp": "8:56 pm on 20 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Melanie talks about recent family outings and summer traditions",
+    "turns": [
+      {
+        "turn_id": "D10:8",
+        "speaker": "Melanie",
+        "text": "Wow, fantastic, Caroline! Bet the atmosphere was incredible. Oh yeah, we went to the beach recently. It was awesome! The kids had such a blast.",
+        "metadata": {
+          "img_url": [
+            "https://mdkidadventures.files.wordpress.com/2023/06/img_2130.jpg"
+          ],
+          "blip_caption": "a photo of three children playing on the beach with a kite",
+          "query": "beach family playing frisbee sandy shore"
+        }
+      },
+      {
+        "turn_id": "D10:9",
+        "speaker": "Caroline",
+        "text": "Sounds fun! What was the best part? Do you do it often with the kids?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:10",
+        "speaker": "Melanie",
+        "text": "Seeing my kids' faces so happy at the beach was the best! We don't go often, usually only once or twice a year. But those times are always special to spend time together and chill.",
+        "metadata": {
+          "blip_caption": "a photo of a sand castle on the beach with a blue sky"
+        }
+      },
+      {
+        "turn_id": "D10:11",
+        "speaker": "Caroline",
+        "text": "Sounds special, those beach trips! Do you have any other summer traditions you all do together? Create those memories!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:12",
+        "speaker": "Melanie",
+        "text": "We always look forward to our family camping trip. We roast marshmallows, tell stories around the campfire and just enjoy each other's company. It's the highlight of our summer!",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/hjh0wp8s721a1.jpg"
+          ],
+          "blip_caption": "a photo of a fire pit with a lot of fire and sparks",
+          "query": "family camping trip campfire night"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_12::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_12",
+    "observed_at": "2023-08-17T13:50:00",
+    "source_timestamp": "1:50 pm on 17 August, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Discussion about Melanie's pottery project and artistic expression",
+    "turns": [
+      {
+        "turn_id": "D12:4",
+        "speaker": "Melanie",
+        "text": "Here it is. Pretty proud of it! It was a great experience. Thoughts?",
+        "metadata": {
+          "img_url": [
+            "https://omceramic.com/cdn/shop/products/IMG_0022.jpg"
+          ],
+          "blip_caption": "a photo of a bowl with a colorful design on it",
+          "query": "pottery project ceramic bowl"
+        }
+      },
+      {
+        "turn_id": "D12:5",
+        "speaker": "Caroline",
+        "text": "That bowl is awesome, Mel! What gave you the idea for all the colors and patterns?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:6",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! I'm obsessed with those, so I made something to catch the eye and make people smile. Plus, painting helps me express my feelings and be creative. Each stroke carries a part of me.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:7",
+        "speaker": "Caroline",
+        "text": "That's amazing! You put so much effort and passion into it. Your creativity really shines. Seeing how art can be a source of self-expression and growth is truly inspiring. You're killing it!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:8",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! Your words really mean a lot. I've always felt a strong connection to art, and it's been a huge learning experience. It's both a sanctuary and a source of comfort. I'm so glad to have something that brings me so much happiness and fulfillment.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_13::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_13",
+    "observed_at": "2023-08-23T15:31:00",
+    "source_timestamp": "3:31 pm on 23 August, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Shared love and experiences with horses",
+    "turns": [
+      {
+        "turn_id": "D13:7",
+        "speaker": "Caroline",
+        "text": "That's so funny! I used to go horseback riding with my dad when I was a kid, we'd go through the fields, feeling the wind. It was so special. I've always had a love for horses!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D13:8",
+        "speaker": "Melanie",
+        "text": "Wow, that sounds great - I agree, they're awesome. Here's a photo of my horse painting I did recently.",
+        "metadata": {
+          "img_url": [
+            "https://warpedtable.com/cdn/shop/products/F331B563-AB73-430A-A6DF-3C5E0F91A4D8.jpg"
+          ],
+          "blip_caption": "a photo of a horse painted on a wooden wall",
+          "query": "horse painting"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_14::episode-008",
+    "conversation_id": "conv-26",
+    "session_id": "session_14",
+    "observed_at": "2023-08-25T13:33:00",
+    "source_timestamp": "1:33 pm on 25 August, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Sharing favorite art styles and upcoming creative projects",
+    "turns": [
+      {
+        "turn_id": "D14:30",
+        "speaker": "Melanie",
+        "text": "Painting landscapes and still life is my favorite! Nature's amazing, here's a painting I did recently.",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/k9wcp85ledi91.jpg"
+          ],
+          "blip_caption": "a photo of a painting of a sunflower on a canvas",
+          "query": "painting field sunflowers"
+        }
+      },
+      {
+        "turn_id": "D14:31",
+        "speaker": "Caroline",
+        "text": "Wow, Mel! Any more paintings coming up?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:32",
+        "speaker": "Melanie",
+        "text": "I'm feeling inspired by autumn so I'm planning a few. You got any cool art projects coming up?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_17::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_17",
+    "observed_at": "2023-10-13T10:31:00",
+    "source_timestamp": "10:31 am on 13 October, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Melanie's injury and their shared passion for painting and art",
+    "turns": [
+      {
+        "turn_id": "D17:8",
+        "speaker": "Melanie",
+        "text": "Thanks for the tip, Caroline. Doing research and readying myself emotionally makes sense. I'll do that. BTW, recently I had a setback. Last month I got hurt and had to take a break from pottery, which I use for self-expression and peace.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:9",
+        "speaker": "Caroline",
+        "text": "Oh man, sorry to hear that, Melanie. I hope you're okay. Pottery's a great way to relax, so it must have been tough taking a break. Need any help?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:10",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline. It was tough, but I'm doing ok. Been reading that book you recommended a while ago and painting to keep busy.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:11",
+        "speaker": "Caroline",
+        "text": "Cool that you have creative outlets. Got any paintings to show? I'd love to check them out.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:12",
+        "speaker": "Melanie",
+        "text": "Yeah, Here's one I did last week. It's inspired by the sunsets. The colors make me feel calm. What have you been up to lately, artistically?",
+        "metadata": {
+          "img_url": [
+            "https://trendgallery.art/cdn/shop/files/IMG_2355.jpg"
+          ],
+          "blip_caption": "a photo of a painting of a sunset with a pink sky",
+          "query": "landscape painting vibrant purple sunset autumn"
+        }
+      },
+      {
+        "turn_id": "D17:13",
+        "speaker": "Caroline",
+        "text": "Wow Mel, that's stunning! Love the colors and the chilled-out sunset vibe. What made you paint it? I've been trying out abstract stuff recently. It's kinda freeing, just putting my feelings on the canvas without too much of a plan. It's like a cool form of self-expression.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:14",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! I painted it because it was calming. I've done an abstract painting too, take a look! I love how art lets us get our emotions out.",
+        "metadata": {
+          "img_url": [
+            "https://theartwerks.com/cdn/shop/products/image_4c8aee8a-5395-4037-a1d4-f6db3a3b0302.jpg"
+          ],
+          "blip_caption": "a photo of a painting on a wall with a blue background",
+          "query": "abstract painting vibrant colors"
+        }
+      },
+      {
+        "turn_id": "D17:15",
+        "speaker": "Caroline",
+        "text": "Wow, that looks great! The blue adds so much to it. What feelings were you hoping to portray?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:16",
+        "speaker": "Melanie",
+        "text": "I wanted a peaceful blue streaks to show tranquility. Blue calms me, so I wanted the painting to have a serene vibe while still having lots of vibrant colors.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_18::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_18",
+    "observed_at": "2023-10-20T18:55:00",
+    "source_timestamp": "6:55 pm on 20 October, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Enjoying nature and camping as a way to relax and bond as a family",
+    "turns": [
+      {
+        "turn_id": "D18:16",
+        "speaker": "Caroline",
+        "text": "Wow, great pic! Is that recent? Looks like you all had fun!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:17",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! Yup, we just did it yesterday! The kids loved it and it was a nice way to relax after the road trip.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:18",
+        "speaker": "Caroline",
+        "text": "Glad you got some R&R after the drive. Nature sure seems to refresh us, huh?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:19",
+        "speaker": "Melanie",
+        "text": "Absolutely! It really helps me reset and recharge. I love camping trips with my fam, 'cause nature brings such peace and serenity.",
+        "metadata": {
+          "blip_caption": "a photo of a sunset over a body of water"
+        }
+      },
+      {
+        "turn_id": "D18:20",
+        "speaker": "Caroline",
+        "text": "Wow, that's awesome! What do you love most about camping with your fam?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:21",
+        "speaker": "Melanie",
+        "text": "It's a chance to be present and together. We bond over stories, campfires and nature. It's so peaceful waking up to the sound of birds and the smell of fresh air - it always refreshes my soul.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:22",
+        "speaker": "Caroline",
+        "text": "That's so peaceful and calming, Melanie! I can picture waking up to nature. It's great that you get to spend quality, tranquil time with your family.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:23",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! This is a great time. Nature and quality time, can't beat it!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:24",
+        "speaker": "Caroline",
+        "text": "Yeah totally! They're priceless. Lucky you!",
+        "metadata": {}
+      }
+    ]
+  }
+]

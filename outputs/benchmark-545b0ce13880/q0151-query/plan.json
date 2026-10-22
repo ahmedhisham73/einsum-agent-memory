@@ -1,0 +1,10 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Melanie",
+      "property": "feeling about family support",
+      "search": "standalone evidence search"
+    }
+  ]
+}

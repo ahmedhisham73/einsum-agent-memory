@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "9c0faf36-36f3-4423-a681-315fad380cab",
+    "response": {
+      "id": "chatcmpl-EZj5rKwBg4Ttj5QPOdpkZpSOu3LwO",
+      "object": "chat.completion",
+      "created": 1792183527,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Caroline and Melanie\",\"property\":\"went_activity\",\"search\":\"Caroline and Melanie attended pride festival together timing\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2685,
+        "completion_tokens": 33,
+        "total_tokens": 2718,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f111b06a9"
+    },
+    "latency_seconds": 2.256592375
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "cfcce805-7cf2-4bc2-9b56-dcbda7e63d4a",
+    "response": {
+      "id": "chatcmpl-EZj5uwdWyiyk9kDI2bjWjA0EUESaq",
+      "object": "chat.completion",
+      "created": 1792183530,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Caroline and Melanie went to a pride festival together in the summer of the previous year before August 17, 2023.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_12::episode-005\",\"turn_id\":\"D12:15\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3881,
+        "completion_tokens": 62,
+        "total_tokens": 3943,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_38f508f26a"
+    },
+    "latency_seconds": 2.278694292
+  }
+]

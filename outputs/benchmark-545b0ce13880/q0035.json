@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-26::q0035",
+  "category": 1,
+  "question": "What events has Caroline participated in to help children?",
+  "gold_answer": "Mentoring program, school speech",
+  "status": "failed",
+  "error": "Query failed. See q0035.log"
+}

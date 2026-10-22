@@ -1,0 +1,61 @@
+Run: offline-memory-622a0d5cec62
+Conversation: conv-41
+Sessions: 32
+Output: /Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/offline-memory-622a0d5cec62
+Partitioning session 1/32
+Partitioning session 2/32
+Partitioning session 3/32
+Partitioning session 4/32
+Partitioning session 5/32
+Partitioning session 6/32
+Partitioning session 7/32
+Partitioning session 8/32
+Partitioning session 9/32
+Partitioning session 10/32
+Partitioning session 11/32
+Partitioning session 12/32
+Partitioning session 13/32
+Partitioning session 14/32
+Partitioning session 15/32
+Partitioning session 16/32
+
+Status: incomplete
+Episodes: 63
+Records: 0
+Artifacts: /Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/offline-memory-622a0d5cec62
+{
+  "experiment_id": "offline-memory-622a0d5cec62",
+  "recorded_calls": 16,
+  "groups": [
+    {
+      "approach": "ensimem",
+      "phase": "build",
+      "stage": "episode_partitioning",
+      "usage_kind": "generation",
+      "provider": "openai",
+      "model": "gpt-4.1-mini-2025-04-14",
+      "calls": 16,
+      "retry_calls": 0,
+      "missing_usage_calls": 0,
+      "reported_input_tokens": 26880,
+      "reported_output_tokens": 3102,
+      "total_tokens": 29982,
+      "cached_input_tokens": 0,
+      "usage_complete": true
+    }
+  ]
+}
+Traceback (most recent call last):
+  File "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/scripts/build_offline_memory.py", line 310, in <module>
+    main()
+  File "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/scripts/build_offline_memory.py", line 226, in main
+    parsed = ask(
+  File "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/scripts/build_offline_memory.py", line 204, in ask
+    parsed = json.loads(choice["message"]["content"])
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)

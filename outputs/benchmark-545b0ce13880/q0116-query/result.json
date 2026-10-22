@@ -1,0 +1,21 @@
+{
+  "status": "completed",
+  "experiment_id": "q0116-query",
+  "memory_build": "offline-memory-a5e48166f56e",
+  "embedding_fingerprint": "264e45d8331b217a87fc15e35db2c614b32e9c572d0bbb53fe9bcc90dda3a8a6",
+  "question": "Why are flowers important to Melanie?",
+  "answer": "Flowers are important to Melanie because they bring her joy and represent growth, beauty, and a reminder to appreciate the small moments in life. They hold emotional significance as they were an important part of her wedding decor and remind her of that special day filled with love and joy.",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-26::session_8::episode-002",
+      "turn_id": "D8:12"
+    }
+  ],
+  "elapsed_seconds": 7.236831042,
+  "implementation": {
+    "structured_matching": "literal entity / property-token overlap",
+    "all_matching": "all episodes; no optimized exhaustive retrieval",
+    "coverage": "answer-model sufficiency check with expansion"
+  }
+}

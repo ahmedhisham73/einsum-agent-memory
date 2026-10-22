@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-26::q0055",
+  "category": 2,
+  "question": "When did Caroline draw a self-portrait?",
+  "gold_answer": "The week before 23 August 2023",
+  "status": "failed",
+  "error": "Query failed. See q0055.log"
+}

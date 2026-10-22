@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0037",
+  "category": 2,
+  "question": "When did Caroline join a mentorship program?",
+  "gold_answer": "The weekend before 17 July 2023",
+  "status": "scored",
+  "generated_answer": "Caroline joined a mentorship program for LGBTQ youth last weekend before 17 July 2023, as she mentioned it in a conversation on 17 July 2023.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_9::chunk-0000",
+      "turn_id": "D9:2"
+    }
+  ],
+  "query_elapsed_seconds": 4.8799335,
+  "label": "CORRECT",
+  "judge_reason": "Both answers specify the same timeframe regarding Caroline's joining of the mentorship program, focusing on the weekend before 17 July 2023."
+}

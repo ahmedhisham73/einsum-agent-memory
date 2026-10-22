@@ -1,0 +1,35 @@
+{
+  "status": "completed",
+  "experiment_id": "q0101-query",
+  "memory_build": "offline-memory-a5e48166f56e",
+  "baseline_build": "agentic-build-300877917378",
+  "question": "What kind of place does Caroline want to create for people?",
+  "answer": "Caroline wants to create a loving, accepting, and inclusive place where people can find unity, strength, self-acceptance, and love, particularly for the LGBTQ+ community. She aims to foster an environment of comfort, growth, and support, celebrating differences and helping others embrace their authentic selves.",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-26::session_11::chunk-0010",
+      "turn_id": "D11:12"
+    },
+    {
+      "episode_id": "conv-26::session_14::chunk-0015",
+      "turn_id": "D14:21"
+    },
+    {
+      "episode_id": "conv-26::session_19::chunk-0005",
+      "turn_id": "D19:9"
+    }
+  ],
+  "elapsed_seconds": 6.467262875,
+  "stop_reason": "agent_ready",
+  "search_count": 1,
+  "selected_chunks": 6,
+  "unique_source_turns": 35,
+  "implementation": {
+    "chunk_turns": 6,
+    "overlap_turns": 1,
+    "top_k_per_search": 6,
+    "max_searches": 4,
+    "max_agent_decisions": 5
+  }
+}

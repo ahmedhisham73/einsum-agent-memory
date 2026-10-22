@@ -1,0 +1,125 @@
+[
+  {
+    "stage": "agent_decision",
+    "call_id": "3e9d4242-797d-4d19-838b-15bc3a5d5ddd",
+    "response": {
+      "id": "chatcmpl-EZqYzlPn2287CwXsoiwNE58gPEhwN",
+      "object": "chat.completion",
+      "created": 1792212241,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"search\",\"query\":\"Caroline application to adoption agencies date\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 149,
+        "completion_tokens": 15,
+        "total_tokens": 164,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f810e81ea"
+    },
+    "latency_seconds": 1.286577458
+  },
+  {
+    "stage": "agent_decision",
+    "call_id": "e6cab293-7754-4117-9914-bf521290ef8a",
+    "response": {
+      "id": "chatcmpl-EZqZ1XkdfZYSv1m3VzHTFMC1yBq5A",
+      "object": "chat.completion",
+      "created": 1792212243,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"ready\",\"reason\":\"Evidence from conversation chunk in session_13 on 23 August 2023 shows Caroline stating she applied to adoption agencies that week, indicating she applied around late August 2023.\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2936,
+        "completion_tokens": 44,
+        "total_tokens": 2980,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f810e81ea"
+    },
+    "latency_seconds": 1.734290708
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "eb2bcdf0-d023-466a-a6e0-109532e92f36",
+    "response": {
+      "id": "chatcmpl-EZqZ3jkq02sx5xwwHH2oxNtxszRFL",
+      "object": "chat.completion",
+      "created": 1792212245,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Caroline applied to adoption agencies in the week before 23 August 2023.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_13::chunk-0000\",\"turn_id\":\"D13:1\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2880,
+        "completion_tokens": 54,
+        "total_tokens": 2934,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_802f1283f8"
+    },
+    "latency_seconds": 1.6026712080000003
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0118",
+  "category": 4,
+  "question": "How often does Melanie go to the beach with her kids?",
+  "gold_answer": "once or twice a year",
+  "status": "scored",
+  "generated_answer": "Melanie goes to the beach with her kids usually only once or twice a year.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_10::episode-002",
+      "turn_id": "D10:10"
+    }
+  ],
+  "query_elapsed_seconds": 5.0623021249999995,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer accurately reflects the frequency of Melanie's beach visits as specified in the reference answer."
+}

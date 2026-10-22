@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "b91866ef-d320-40bc-be10-16bf914f0cb7",
+    "response": {
+      "id": "chatcmpl-EZixZTr4NoGmLh7I5JEMfZezyC1nh",
+      "object": "chat.completion",
+      "created": 1792183013,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Caroline\",\"property\":\"career_path\",\"search\":\"Caroline career path decision\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2681,
+        "completion_tokens": 27,
+        "total_tokens": 2708,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_5002831302"
+    },
+    "latency_seconds": 1.4451782080000002
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "a791ba36-e2bb-416e-b194-1185a1b87c2f",
+    "response": {
+      "id": "chatcmpl-EZixcupFV5hZFSp16ry1uoK2aR7oy",
+      "object": "chat.completion",
+      "created": 1792183016,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Caroline has decided to pursue a career in counseling and mental health, focusing on helping people, especially trans individuals, support their mental health and acceptance.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_4::episode-003\",\"turn_id\":\"D4:11\"},{\"episode_id\":\"conv-26::session_4::episode-003\",\"turn_id\":\"D4:13\"},{\"episode_id\":\"conv-26::session_5::episode-001\",\"turn_id\":\"D5:3\"},{\"episode_id\":\"conv-26::session_7::episode-001\",\"turn_id\":\"D7:5\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1934,
+        "completion_tokens": 135,
+        "total_tokens": 2069,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_38f508f26a"
+    },
+    "latency_seconds": 1.8325816249999995
+  }
+]

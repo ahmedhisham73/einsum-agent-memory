@@ -1,0 +1,45 @@
+{
+  "question_id": "conv-26::q0089",
+  "category": 4,
+  "question": "What is Caroline excited about in the adoption process?",
+  "gold_answer": "creating a family for kids who need one",
+  "status": "scored",
+  "generated_answer": "Caroline is excited about making a family for kids who need one, giving them a loving home, and turning her dream of having a family into reality. She feels hopeful and optimistic, motivated by inclusivity and support, especially for LGBTQ+ folks. Despite anticipating challenges as a single parent, she is thrilled and up for the challenge, deeply valuing the love and acceptance she can provide. She also expresses gratitude for the support from friends and mentors and takes pride and joy in starting this new chapter.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_2::episode-002",
+      "turn_id": "D2:8"
+    },
+    {
+      "episode_id": "conv-26::session_2::episode-002",
+      "turn_id": "D2:10"
+    },
+    {
+      "episode_id": "conv-26::session_2::episode-002",
+      "turn_id": "D2:12"
+    },
+    {
+      "episode_id": "conv-26::session_2::episode-002",
+      "turn_id": "D2:14"
+    },
+    {
+      "episode_id": "conv-26::session_13::episode-001",
+      "turn_id": "D13:1"
+    },
+    {
+      "episode_id": "conv-26::session_19::episode-001",
+      "turn_id": "D19:1"
+    },
+    {
+      "episode_id": "conv-26::session_19::episode-001",
+      "turn_id": "D19:3"
+    },
+    {
+      "episode_id": "conv-26::session_17::episode-001",
+      "turn_id": "D17:3"
+    }
+  ],
+  "query_elapsed_seconds": 5.9002103329999995,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer captures the essence of Caroline's excitement about creating a family for kids who need one and includes supportive context regarding her motivations and feelings."
+}

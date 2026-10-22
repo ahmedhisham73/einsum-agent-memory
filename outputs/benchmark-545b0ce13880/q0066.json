@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-26::q0066",
+  "category": 1,
+  "question": "What are some changes Caroline has faced during her transition journey?",
+  "gold_answer": "Changes to her body, losing unsupportive friends",
+  "status": "failed",
+  "error": "Query failed. See q0066.log"
+}

@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0112",
+  "category": 4,
+  "question": "What creative project do Mel and her kids do together besides pottery?",
+  "gold_answer": "painting",
+  "status": "scored",
+  "generated_answer": "Besides pottery, Mel and her kids do painting together, especially nature-inspired paintings such as sunsets with palm trees and vibrant flowers.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_8::chunk-0000",
+      "turn_id": "D8:6"
+    }
+  ],
+  "query_elapsed_seconds": 4.556264958,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer accurately states that Mel and her kids do painting together, which aligns with the reference answer."
+}

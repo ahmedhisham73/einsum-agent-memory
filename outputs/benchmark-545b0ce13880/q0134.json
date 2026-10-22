@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0134",
+  "category": 4,
+  "question": "What precautionary sign did Melanie see at the café?",
+  "gold_answer": "A sign stating that someone is not being able to leave",
+  "status": "scored",
+  "generated_answer": "Melanie saw a precautionary sign at the café that was serious-looking as a precaution, but no incident happened. The sign was posted on a door.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_16::episode-007",
+      "turn_id": "D16:16"
+    }
+  ],
+  "query_elapsed_seconds": 9.405322166000001,
+  "label": "WRONG",
+  "judge_reason": "The generated answer does not specify the content of the sign as requested in the question."
+}

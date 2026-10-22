@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0022",
+  "category": 2,
+  "question": "When did Caroline have a picnic?",
+  "gold_answer": "The week before 6 July 2023",
+  "status": "scored",
+  "generated_answer": "Caroline had a picnic last week as mentioned on 6 July, 2023.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_6::episode-004",
+      "turn_id": "D6:11"
+    }
+  ],
+  "query_elapsed_seconds": 4.046772917,
+  "label": "CORRECT",
+  "judge_reason": "Both answers indicate that the picnic occurred in the week before July 6, 2023, maintaining semantic equivalence."
+}

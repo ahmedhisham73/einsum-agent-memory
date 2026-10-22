@@ -1,0 +1,271 @@
+[
+  {
+    "episode_id": "conv-26::session_3::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_3",
+    "observed_at": "2023-06-09T19:55:00",
+    "source_timestamp": "7:55 pm on 9 June, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Caroline's school event and discussion about transgender journey and LGBTQ community",
+    "turns": [
+      {
+        "turn_id": "D3:1",
+        "speaker": "Caroline",
+        "text": "Hey Melanie! How's it going? I wanted to tell you about my school event last week. It was awesome! I talked about my transgender journey and encouraged students to get involved in the LGBTQ community. It was great to see their reactions. It made me reflect on how far I've come since I started transitioning three years ago.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:2",
+        "speaker": "Melanie",
+        "text": "Hey Caroline! Great to hear from you. Sounds like your event was amazing! I'm so proud of you for spreading awareness and getting others involved in the LGBTQ community. You've come a long way since your transition - keep on inspiring people with your strength and courage!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:3",
+        "speaker": "Caroline",
+        "text": "Thanks, Mel! Your backing really means a lot. I felt super powerful giving my talk. I shared my own journey, the struggles I had and how much I've developed since coming out. It was wonderful to see how the audience related to what I said and how it inspired them to be better allies. Conversations about gender identity and inclusion are so necessary and I'm thankful for being able to give a voice to the trans community.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:4",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, you're doing an awesome job of inspiring others with your journey. It's great to be part of it and see how you're positively affecting so many. Talking about inclusivity and acceptance is crucial, and you're so brave to speak up for the trans community. Keep up the great work!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:5",
+        "speaker": "Caroline",
+        "text": "Thanks Mel! Your kind words mean a lot. Sharing our experiences isn't always easy, but I feel it's important to help promote understanding and acceptance. I've been blessed with loads of love and support throughout this journey, and I want to pass it on to others. By sharing our stories, we can build a strong, supportive community of hope.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:6",
+        "speaker": "Melanie",
+        "text": "Yeah, Caroline! It takes courage to talk about our own stories. But it's in these vulnerable moments that we bond and understand each other. We all have our different paths, but if we share them, we show people that they're not alone. Our stories can be so inspiring and encouraging to others who are facing the same challenges. Thank you for using your voice to create love, acceptance, and hope. You're doing amazing!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:7",
+        "speaker": "Caroline",
+        "text": "Your words mean a lot to me. I'm grateful for the chance to share my story and give others hope. We all have unique paths, and by working together we can build a more inclusive and understanding world. I'm going to keep using my voice to make a change and lift others up. And you're part of that!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:8",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline, for letting me join your journey. I'm so proud to be part of the difference you're making. Let's keep motivating and helping each other out as we journey through life. We can make a real impact together!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D3:9",
+        "speaker": "Caroline",
+        "text": "Yeah Mel, let's spread love and understanding! Thanks for the support and encouragement. We can tackle life's challenges together! We got this!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_4::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_4",
+    "observed_at": "2023-06-27T10:37:00",
+    "source_timestamp": "10:37 am on 27 June, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Caroline's career interest in counseling and mental health support for trans people",
+    "turns": [
+      {
+        "turn_id": "D4:11",
+        "speaker": "Caroline",
+        "text": "Lately, I've been looking into counseling and mental health as a career. I want to help people who have gone through the same things as me.",
+        "metadata": {
+          "blip_caption": "a photo of a book shelf with many books on it"
+        }
+      },
+      {
+        "turn_id": "D4:12",
+        "speaker": "Melanie",
+        "text": "Sounds great! What kind of counseling and mental health services do you want to persue?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:13",
+        "speaker": "Caroline",
+        "text": "I'm still figuring out the details, but I'm thinking of working with trans people, helping them accept themselves and supporting their mental health. Last Friday, I went to an LGBTQ+ counseling workshop and it was really enlightening. They talked about different therapeutic methods and how to best work with trans people. Seeing how passionate these pros were about making a safe space for people like me was amazing.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:14",
+        "speaker": "Melanie",
+        "text": "Woah, Caroline, it sounds like you're doing some impressive work. It's inspiring to see your dedication to helping others. What motivated you to pursue counseling?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:15",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie. It really mattered. My own journey and the support I got made a huge difference. Now I want to help people go through it too. I saw how counseling and support groups improved my life, so I started caring more about mental health and understanding myself. Now I'm passionate about creating a safe, inviting place for people to grow.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:16",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! You've gained so much from your own experience. Your passion and hard work to help others is awesome. Keep it up, you're making a big impact!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:17",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! Your kind words mean a lot.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:18",
+        "speaker": "Melanie",
+        "text": "Congrats Caroline! Good on you for going after what you really care about.",
+        "metadata": {
+          "blip_caption": "a photo of a book shelf filled with books in a room"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_7::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_7",
+    "observed_at": "2023-07-12T16:33:00",
+    "source_timestamp": "4:33 pm on 12 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Inspirational books and the importance of self-acceptance and support, including pets bringing joy",
+    "turns": [
+      {
+        "turn_id": "D7:8",
+        "speaker": "Melanie",
+        "text": "Caroline, so glad you got the support! Your experience really brought you to where you need to be. You're gonna make a huge difference! This book I read last year reminds me to always pursue my dreams, just like you are doing!🌟",
+        "metadata": {
+          "img_url": [
+            "https://www.speakers.co.uk/microsites/tom-oliver/wp-content/uploads/2014/11/Book-Cover-3D1.jpg"
+          ],
+          "blip_caption": "a photography of a book cover with a gold coin on it",
+          "query": "painted canvas follow your dreams",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D7:9",
+        "speaker": "Caroline",
+        "text": "Thanks so much, Mel! Seeing this pic just made me appreciate my love of reading even more. Books guide me, motivate me and help me discover who I am. They're a huge part of my journey, and this one's reminding me to keep going and never give up!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:10",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! Books have such an awesome power! Which one has been your favorite guide?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:11",
+        "speaker": "Caroline",
+        "text": "I loved \"Becoming Nicole\" by Amy Ellis Nutt. It's a real inspiring true story about a trans girl and her family. It made me feel connected and gave me a lot of hope for my own path. Highly recommend it for sure!",
+        "metadata": {
+          "img_url": [
+            "https://m.media-amazon.com/images/I/A1CPpaLFR2L.jpg"
+          ],
+          "blip_caption": "a photo of a dog sitting in a boat on the water",
+          "query": "becoming nicole book amy ellis nutt"
+        }
+      },
+      {
+        "turn_id": "D7:12",
+        "speaker": "Melanie",
+        "text": "That sounds awesome! What did you take away from it to use in your life?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:13",
+        "speaker": "Caroline",
+        "text": "It taught me self-acceptance and how to find support. It also showed me that tough times don't last - hope and love exist. Pets bring so much joy too, though.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:14",
+        "speaker": "Melanie",
+        "text": "Caroline, those lessons are great - self-acceptance and finding support are key. Plus pets are awesome for joy and comfort, can't agree more! ",
+        "metadata": {
+          "img_url": [
+            "https://st3.depositphotos.com/12674628/16006/i/1600/depositphotos_160060676-stock-photo-multiethnic-girls-with-puppy.jpg"
+          ],
+          "blip_caption": "a photography of two little girls sitting on the steps with a dog",
+          "query": "daughters playing with pet dog backyard",
+          "re-download": true
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_14::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_14",
+    "observed_at": "2023-08-25T13:33:00",
+    "source_timestamp": "1:33 pm on 25 August, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Joining and finding meaning in the transgender community",
+    "turns": [
+      {
+        "turn_id": "D14:12",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! I really appreciate your help and motivation. What made you decide to transition and join the transgender community?",
+        "metadata": {
+          "blip_caption": "a photo of a bulletin board with a rainbow flag and a don't ever be afraid to"
+        }
+      },
+      {
+        "turn_id": "D14:13",
+        "speaker": "Caroline",
+        "text": "Finding a community where I'm accepted, loved and supported has really meant a lot to me. It's made a huge difference to have people who get what I'm going through. Stuff like this mural are really special to me!",
+        "metadata": {
+          "img_url": [
+            "https://npr.brightspotcdn.com/legacy/sites/wuwm/files/201811/20181029_095916.jpg"
+          ],
+          "blip_caption": "a photo of a building with a large eagle painted on it",
+          "query": "rainbow flag painting unity acceptance"
+        }
+      },
+      {
+        "turn_id": "D14:14",
+        "speaker": "Melanie",
+        "text": "Caroline, glad you found a supportive community! Can you tell me more about why it's special to you?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:15",
+        "speaker": "Caroline",
+        "text": "The rainbow flag mural is important to me as it reflects the courage and strength of the trans community. The eagle symbolizes freedom and pride, representing my own resilience and that of others.",
+        "metadata": {
+          "blip_caption": "a photo of a stained glass window with a picture of a person on a horse"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_16::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_16",
+    "observed_at": "2023-09-13T00:09:00",
+    "source_timestamp": "12:09 am on 13 September, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Art as emotional expression and therapy",
+    "turns": [
+      {
+        "turn_id": "D16:9",
+        "speaker": "Caroline",
+        "text": "Melanie, those bowls are amazing! They each have such cool designs. I love that you chose pottery for your art. Painting and drawing have helped me express my feelings and explore my gender identity. Creating art was really important to me during my transition - it helped me understand and accept myself. I'm so grateful.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:10",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! It has really helped me out. I love how it's both a creative outlet and a form of therapy. Have you ever thought about trying it or another art form?",
+        "metadata": {}
+      }
+    ]
+  }
+]

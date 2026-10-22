@@ -1,0 +1,21 @@
+{
+  "question_id": "conv-26::q0036",
+  "category": 2,
+  "question": "When did Melanie go camping in July?",
+  "gold_answer": "two weekends before 17 July 2023",
+  "status": "scored",
+  "generated_answer": "Melanie went camping with her family in the mountains last week of June 2023 and also went camping in two weekends before 17 July 2023 (which likely refers to early July). Additionally, she mentioned enjoying family camping trips in summer which include roasting marshmallows and campfires, with a specific camping event referenced in June 2023 conversation (session 4, episode 2) and another camping mention in July 2023 (session 9, episode 1).",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_4::episode-002",
+      "turn_id": "D4:6"
+    },
+    {
+      "episode_id": "conv-26::session_9::episode-001",
+      "turn_id": "D9:1"
+    }
+  ],
+  "query_elapsed_seconds": 5.68071375,
+  "label": "WRONG",
+  "judge_reason": "The generated answer provides additional context about June but goes beyond simply stating when Melanie went camping in July, including unrelated details."
+}

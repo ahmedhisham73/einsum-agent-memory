@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0083",
+  "category": 4,
+  "question": "What did the charity race raise awareness for?",
+  "gold_answer": "mental health",
+  "status": "scored",
+  "generated_answer": "The charity race raised awareness for mental health.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_2::episode-001",
+      "turn_id": "D2:1"
+    }
+  ],
+  "query_elapsed_seconds": 4.071966167,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer matches the reference answer exactly."
+}

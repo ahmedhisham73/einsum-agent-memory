@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0021",
+  "category": 2,
+  "question": "When did Melanie go to the museum?",
+  "gold_answer": "5 July 2023",
+  "status": "scored",
+  "generated_answer": "Melanie went to the museum yesterday, as mentioned in the conversation on 6 July, 2023.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_6::chunk-0000",
+      "turn_id": "D6:4"
+    }
+  ],
+  "query_elapsed_seconds": 4.41082575,
+  "label": "WRONG",
+  "judge_reason": "The generated answer states a different date (6 July) instead of the correct date (5 July 2023) when Melanie went to the museum."
+}

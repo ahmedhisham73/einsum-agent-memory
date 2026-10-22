@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-26::q0113",
+  "category": 4,
+  "question": "What did Mel and her kids paint in their latest project in July 2023?",
+  "gold_answer": "a sunset with a palm tree",
+  "status": "failed",
+  "error": "Query failed. See q0113.log"
+}

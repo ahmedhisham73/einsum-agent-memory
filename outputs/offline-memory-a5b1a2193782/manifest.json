@@ -1,0 +1,18 @@
+{
+  "experiment_id": "offline-memory-a5b1a2193782",
+  "status": "incomplete",
+  "stage": "extraction",
+  "source_kind": "locomo_benchmark",
+  "conversation_id": "conv-47",
+  "session_count": 31,
+  "raw_dataset_sha256": "79fa87e90f04081343b8c8debecb80a9a6842b76a7aa537dc9fdf651ea698ff4",
+  "partition_prompt_sha256": "d7f81c485fc99fd05e1b56cbcb647612948635936fd79687a75ffdac5f623170",
+  "extraction_prompt_sha256": "3333875fe5f39488ee282cea776e22e0c1efcc6a3b5c262af5f320efc7569ed6",
+  "requested_model": "gpt-4.1-mini",
+  "timezone_policy": "Source timezone unspecified",
+  "media_policy": "Textual metadata retained; no image URLs fetched",
+  "episode_count": 130,
+  "record_count": 4,
+  "recovery_version": "v1.1",
+  "recovery_error": "value must be a string"
+}

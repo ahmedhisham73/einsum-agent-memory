@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0122",
+  "category": 4,
+  "question": "Who performed at the concert at Melanie's daughter's birthday?",
+  "gold_answer": "Matt Patterson",
+  "status": "scored",
+  "generated_answer": "Matt Patterson performed at the concert at Melanie's daughter's birthday.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_11::episode-001",
+      "turn_id": "D11:3"
+    }
+  ],
+  "query_elapsed_seconds": 3.793172417,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer correctly identifies Matt Patterson as the performer at the concert, matching the reference answer."
+}

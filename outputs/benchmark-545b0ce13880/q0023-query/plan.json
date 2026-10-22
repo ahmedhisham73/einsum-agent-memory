@@ -1,0 +1,30 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Caroline",
+      "property": "favorite_childhood_book",
+      "search": "Caroline favorite childhood book titles or authors"
+    },
+    {
+      "entity": "Caroline",
+      "property": "favorite_book",
+      "search": "Caroline favorite books on bookshelf"
+    },
+    {
+      "entity": "Caroline",
+      "property": "library_contents",
+      "search": "Caroline's bookshelf or library collection contents"
+    },
+    {
+      "entity": "Caroline",
+      "property": "children_interest",
+      "search": "Caroline's interests in children's literature or related activities"
+    },
+    {
+      "entity": "Caroline",
+      "property": "activities",
+      "search": "Caroline's activities involving reading or children's storytime"
+    }
+  ]
+}

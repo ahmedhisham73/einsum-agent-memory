@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0012",
+  "category": 1,
+  "question": "Where did Caroline move from 4 years ago?",
+  "gold_answer": "Sweden",
+  "status": "scored",
+  "generated_answer": "Caroline moved from her home country 4 years ago.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_3::episode-002",
+      "turn_id": "D3:13"
+    }
+  ],
+  "query_elapsed_seconds": 5.511883708,
+  "label": "WRONG",
+  "judge_reason": "The generated answer does not specify that Caroline moved from Sweden, which is the required detail."
+}

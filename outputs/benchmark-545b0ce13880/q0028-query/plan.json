@@ -1,0 +1,45 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Caroline",
+      "property": "career_interest",
+      "search": "Caroline career interest writing"
+    },
+    {
+      "entity": "Caroline",
+      "property": "career_plan_detail",
+      "search": "Caroline plans for writing career"
+    },
+    {
+      "entity": "Caroline",
+      "property": "career_goal_interest",
+      "search": "Caroline goal interest in writing"
+    },
+    {
+      "entity": "Caroline",
+      "property": "desire_to",
+      "search": "Caroline desire to pursue writing"
+    },
+    {
+      "entity": "Caroline",
+      "property": "intent",
+      "search": "Caroline intent regarding writing career"
+    },
+    {
+      "entity": "Caroline",
+      "property": "future_plans",
+      "search": "Caroline future plans mentioning writing"
+    },
+    {
+      "entity": "Caroline",
+      "property": "activity_goal",
+      "search": "Caroline activity goal related to writing"
+    },
+    {
+      "entity": "Caroline",
+      "property": "expressed_pride_in",
+      "search": "Caroline expressed pride or motivation about writing"
+    }
+  ]
+}

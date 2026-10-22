@@ -1,0 +1,21 @@
+{
+  "question_id": "conv-26::q0085",
+  "category": 4,
+  "question": "How does Melanie prioritize self-care?",
+  "gold_answer": "by carving out some me-time each day for activities like running, reading, or playing the violin",
+  "status": "scored",
+  "generated_answer": "Melanie prioritizes self-care by carving out daily 'me-time' where she engages in activities like running, reading, or playing her violin. She acknowledges that self-care is a journey and finds that looking after herself helps her be present for her family. This approach to self-care refreshes her and supports her ability to care for others.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_2::chunk-0000",
+      "turn_id": "D2:3"
+    },
+    {
+      "episode_id": "conv-26::session_2::chunk-0000",
+      "turn_id": "D2:5"
+    }
+  ],
+  "query_elapsed_seconds": 5.582817833,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer accurately reflects how Melanie prioritizes self-care, emphasizing daily 'me-time' and specific activities, while also expanding on her understanding of its importance."
+}

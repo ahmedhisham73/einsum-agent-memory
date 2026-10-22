@@ -1,0 +1,345 @@
+[
+  {
+    "episode_id": "conv-26::session_4::chunk-0000",
+    "session_id": "session_4",
+    "observed_at": "2023-06-27T10:37:00",
+    "source_timestamp": "10:37 am on 27 June, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D4:1",
+        "speaker": "Caroline",
+        "text": "Hey Melanie! Long time no talk! A lot's been going on in my life! Take a look at this.",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/67uas3gnmz7b1.jpg"
+          ],
+          "blip_caption": "a photo of a person holding a necklace with a cross and a heart",
+          "query": "pendant transgender symbol"
+        }
+      },
+      {
+        "turn_id": "D4:2",
+        "speaker": "Melanie",
+        "text": "Hey, Caroline! Nice to hear from you! Love the necklace, any special meaning to it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:3",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! This necklace is super special to me - a gift from my grandma in my home country, Sweden. She gave it to me when I was young, and it stands for love, faith and strength. It's like a reminder of my roots and all the love and support I get from my family.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:4",
+        "speaker": "Melanie",
+        "text": "That's gorgeous, Caroline! It's awesome what items can mean so much to us, right? Got any other objects that you treasure, like that necklace?",
+        "metadata": {
+          "blip_caption": "a photo of a stack of bowls with different designs on them"
+        }
+      },
+      {
+        "turn_id": "D4:5",
+        "speaker": "Caroline",
+        "text": "Yep, Melanie! I've got some other stuff with sentimental value, like my hand-painted bowl. A friend made it for my 18th birthday ten years ago. The pattern and colors are awesome-- it reminds me of art and self-expression.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:6",
+        "speaker": "Melanie",
+        "text": "That sounds great, Caroline! It's awesome having stuff around that make us think of good connections and times. Actually, I just took my fam camping in the mountains last week - it was a really nice time together!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_5::chunk-0005",
+    "session_id": "session_5",
+    "observed_at": "2023-07-03T13:36:00",
+    "source_timestamp": "1:36 pm on 3 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D5:6",
+        "speaker": "Melanie",
+        "text": "I'm a big fan of pottery - the creativity and skill is awesome. Plus, making it is so calming. Look at this!",
+        "metadata": {
+          "img_url": [
+            "https://therusticbarnct.com/cdn/shop/files/image_05483f46-4845-433b-a4cf-0fc61fe1aa79.jpg"
+          ],
+          "blip_caption": "a photo of a bowl with a black and white flower design",
+          "query": "pottery painted bowl intricate design"
+        }
+      },
+      {
+        "turn_id": "D5:7",
+        "speaker": "Caroline",
+        "text": "That bowl is gorgeous! The black and white design looks so fancy. Did you make it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:8",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! Yeah, I made this bowl in my class. It took some work, but I'm pretty proud of it.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:9",
+        "speaker": "Caroline",
+        "text": "Nice job! You really put in the work and it definitely shows. Your creativity looks great!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:10",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! Your kind words mean a lot. Pottery is a huge part of my life, not just a hobby - it helps me express my emotions. Clay is incredible, it brings me so much joy!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:11",
+        "speaker": "Caroline",
+        "text": "Wow, Mel, I'm so stoked for you that art is helping you express yourself and bring you joy! Keep it up!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_8::chunk-0000",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D8:1",
+        "speaker": "Caroline",
+        "text": "Hey Mel, what's up? Been a busy week since we talked.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:2",
+        "speaker": "Melanie",
+        "text": "Hey Caroline, it's been super busy here. So much since we talked! Last Fri I finally took my kids to a pottery workshop. We all made our own pots, it was fun and therapeutic!",
+        "metadata": {
+          "img_url": [
+            "https://images.rawpixel.com/image_social_landscape/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTExL2ZsNDg2NDgxOTYyMDMtaW1hZ2UuanBn.jpg"
+          ],
+          "blip_caption": "a photography of a group of children making clay sculptures in a classroom",
+          "query": "pottery workshop family making clay pots",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D8:3",
+        "speaker": "Caroline",
+        "text": "Wow, Mel! Sounds like you and the kids had a blast. How'd they like it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:4",
+        "speaker": "Melanie",
+        "text": "The kids loved it! They were so excited to get their hands dirty and make something with clay. It was special to watch their creativity and imagination come to life, they made this!",
+        "metadata": {
+          "img_url": [
+            "https://monstermonster.shop/cdn/shop/products/mug-class_5000x.jpg"
+          ],
+          "blip_caption": "a photo of a cup with a dog face on it",
+          "query": "kids pottery finished pieces"
+        }
+      },
+      {
+        "turn_id": "D8:5",
+        "speaker": "Caroline",
+        "text": "Aww, that's so sweet! That cup is so cute. It's awesome to see how kids show their personalities through art. What other creative projects do you do with them, besides pottery?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:6",
+        "speaker": "Melanie",
+        "text": "We love painting together lately, especially nature-inspired ones. Here's our latest work from last weekend.",
+        "metadata": {
+          "img_url": [
+            "https://i.pinimg.com/originals/ea/d9/d7/ead9d79b58ca80a38a744b5ab70482db.jpg"
+          ],
+          "blip_caption": "a photo of a painting of a sunset with a palm tree",
+          "query": "painting vibrant flowers sunset sky"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_11::chunk-0005",
+    "session_id": "session_11",
+    "observed_at": "2023-08-14T14:24:00",
+    "source_timestamp": "2:24 pm on 14 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D11:6",
+        "speaker": "Caroline",
+        "text": "It was so inspiring, Mel! Check out the crowd. People of all kinds celebrating love and acceptance - it really pushed me to keep fighting for LGBTQ rights.",
+        "metadata": {
+          "img_url": [
+            "https://cloudfront-us-east-1.images.arcpublishing.com/opb/35SV3NIC4ZBRTLDGHUJ5QWU5WY.jpg"
+          ],
+          "blip_caption": "a photo of a group of people walking down a street with balloons",
+          "query": "pride parade crowd"
+        }
+      },
+      {
+        "turn_id": "D11:7",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! That sounds awesome. This pic's from last night - looks like everyone was having a blast! Reminds me it's important to cultivate a loving and accepting environment for our kids. How do you stay inclusive in your work as an artist?",
+        "metadata": {
+          "img_url": [
+            "https://livingmividaloca.com/wp-content/uploads/2023/06/anaheim-town-square-concert.jpg"
+          ],
+          "blip_caption": "a photo of a group of people sitting on chairs watching a band",
+          "query": "outdoor concert family loving accepting environment"
+        }
+      },
+      {
+        "turn_id": "D11:8",
+        "speaker": "Caroline",
+        "text": "That pic is cool! Representing inclusivity and diversity in my art is important to me. I also use it to speak up for the LGBTQ+ community and push for acceptance. Here's a recent painting!",
+        "metadata": {
+          "img_url": [
+            "https://www.dawnsilerart.com/wp-content/uploads/sites/3130/2020/11/YCNHTMC-CU9.jpg"
+          ],
+          "blip_caption": "a photo of a painting with a painting brush and paint on it",
+          "query": "painting vibrant colors diverse representation"
+        }
+      },
+      {
+        "turn_id": "D11:9",
+        "speaker": "Melanie",
+        "text": "Wow, that rocks! What's the main idea of your art?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:10",
+        "speaker": "Caroline",
+        "text": "My art is about expressing my trans experience. It's my way of showing my story and helping people understand the trans community.",
+        "metadata": {
+          "blip_caption": "a photo of a painting of a woman with a cow in her lap"
+        }
+      },
+      {
+        "turn_id": "D11:11",
+        "speaker": "Melanie",
+        "text": "Your art's amazing, Caroline. I love how you use it to tell your stories and teach people about trans folks. I'd love to see another painting of yours!",
+        "metadata": {
+          "blip_caption": "a photo of a person holding a purple bowl in their hand"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_16::chunk-0005",
+    "session_id": "session_16",
+    "observed_at": "2023-09-13T00:09:00",
+    "source_timestamp": "12:09 am on 13 September, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D16:6",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, that looks awesome! I love how it shows the togetherness and power you were talking about. How long have you been creating art?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:7",
+        "speaker": "Caroline",
+        "text": "Since I was 17 or so. I find it soempowering and cathartic. It's amazing how art can show things that are hard to put into words. How long have you been into art?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:8",
+        "speaker": "Melanie",
+        "text": "Seven years now, and I've finally found my real muses: painting and pottery. It's so calming and satisfying. Check out my pottery creation in the pic!",
+        "metadata": {
+          "img_url": [
+            "https://www.1hotpieceofglass.com/cdn/shop/files/image_93ad5985-ff65-4b93-877b-3ee948ac5641_5000x.jpg"
+          ],
+          "blip_caption": "a photo of a group of bowls and a starfish on a white surface",
+          "query": "pottery bowl intricate patterns purple glaze"
+        }
+      },
+      {
+        "turn_id": "D16:9",
+        "speaker": "Caroline",
+        "text": "Melanie, those bowls are amazing! They each have such cool designs. I love that you chose pottery for your art. Painting and drawing have helped me express my feelings and explore my gender identity. Creating art was really important to me during my transition - it helped me understand and accept myself. I'm so grateful.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:10",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! It has really helped me out. I love how it's both a creative outlet and a form of therapy. Have you ever thought about trying it or another art form?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:11",
+        "speaker": "Caroline",
+        "text": "I haven't done pottery yet, but I'm game for trying new art. I might try it sometime! Check out this piece I made!",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/z8zsh53ycfvb1.jpg"
+          ],
+          "blip_caption": "a photo of a painting on a easel with a red and blue background",
+          "query": "canvas colourful brush strokes"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_19::chunk-0000",
+    "session_id": "session_19",
+    "observed_at": "2023-10-22T09:55:00",
+    "source_timestamp": "9:55 am on 22 October, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D19:1",
+        "speaker": "Caroline",
+        "text": "Woohoo Melanie! I passed the adoption agency interviews last Friday! I'm so excited and thankful. This is a big move towards my goal of having a family.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:2",
+        "speaker": "Melanie",
+        "text": "Congrats, Caroline! Adoption sounds awesome. I'm so happy for you. These figurines I bought yesterday remind me of family love. Tell me, what's your vision for the future?",
+        "metadata": {
+          "img_url": [
+            "https://imgur.com/oGlhL5J.jpg"
+          ],
+          "blip_caption": "a photo of a couple of wooden dolls sitting on top of a table",
+          "query": "painted ceramic family figurine"
+        }
+      },
+      {
+        "turn_id": "D19:3",
+        "speaker": "Caroline",
+        "text": "Thanks so much, Melanie! It's beautiful! It really brings home how much love's in families - both blood and the ones we choose. I hope to build my own family and put a roof over kids who haven't had that before. For me, adoption is a way of giving back and showing love and acceptance.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:4",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, that's awesome. Giving a home to needy kids is such a loving way to build a family. Those kids will be so supported and happy in their new home.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:5",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie. My dream is to create a safe and loving home for these kids. Love and acceptance should be everyone's right, and I want them to experience it.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:6",
+        "speaker": "Melanie",
+        "text": "I totally agree, Caroline. Everyone deserves that. It's awesome to see how passionate you are about helping these kids.",
+        "metadata": {}
+      }
+    ]
+  }
+]

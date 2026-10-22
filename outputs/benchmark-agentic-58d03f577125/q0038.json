@@ -1,0 +1,25 @@
+{
+  "question_id": "conv-26::q0038",
+  "category": 1,
+  "question": "What did Melanie paint recently?",
+  "gold_answer": "sunset",
+  "status": "scored",
+  "generated_answer": "Melanie recently painted a landscape inspired by sunsets with calming colors and an abstract painting featuring vibrant blues intended to portray tranquility and serenity.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_17::chunk-0010",
+      "turn_id": "D17:12"
+    },
+    {
+      "episode_id": "conv-26::session_17::chunk-0010",
+      "turn_id": "D17:14"
+    },
+    {
+      "episode_id": "conv-26::session_17::chunk-0010",
+      "turn_id": "D17:16"
+    }
+  ],
+  "query_elapsed_seconds": 4.786217916,
+  "label": "WRONG",
+  "judge_reason": "The generated answer does not directly state what Melanie painted recently; it provides additional context and details that are not found in the reference answer."
+}

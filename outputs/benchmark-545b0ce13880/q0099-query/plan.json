@@ -1,0 +1,45 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "LGBTQ+ counseling workshop",
+      "property": "abstract_painting_intent",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "LGBTQ+ counseling workshop",
+      "property": "acceptance_experience",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "LGBTQ+ counseling workshop",
+      "property": "action",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "LGBTQ+ counseling workshop",
+      "property": "activities",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "LGBTQ+ counseling workshop",
+      "property": "discussion_content",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "LGBTQ+ counseling workshop",
+      "property": "message",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "LGBTQ+ counseling workshop",
+      "property": "goal",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "LGBTQ+ counseling workshop",
+      "property": "theme",
+      "search": "standalone evidence search"
+    }
+  ]
+}

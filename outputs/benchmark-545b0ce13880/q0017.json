@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0017",
+  "category": 2,
+  "question": "When did Melanie sign up for a pottery class?",
+  "gold_answer": "2 July 2023",
+  "status": "scored",
+  "generated_answer": "Melanie signed up for a pottery class yesterday from the time of the conversation dated 1:36 pm on 3 July, 2023.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_5::episode-002",
+      "turn_id": "D5:4"
+    }
+  ],
+  "query_elapsed_seconds": 4.253392833,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer provides the date of Melanie's sign-up (2 July 2023) by calculating from the date of the conversation."
+}

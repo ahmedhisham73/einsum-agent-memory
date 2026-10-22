@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "2440f157-01e0-4c36-9d4d-32024f64888a",
+    "response": {
+      "id": "chatcmpl-EZix1enSyaLgj4NwGVUSPKSCBYgE1",
+      "object": "chat.completion",
+      "created": 1792182979,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Caroline\",\"property\":\"moved_from\",\"search\":\"Caroline moved location 4 years ago\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2681,
+        "completion_tokens": 31,
+        "total_tokens": 2712,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6f74a0974a"
+    },
+    "latency_seconds": 1.5575955000000001
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "741f1dc3-a01d-4151-90e9-0a96ae36a145",
+    "response": {
+      "id": "chatcmpl-EZix4lkzHIy2FBUEeXusGHAMNEPPu",
+      "object": "chat.completion",
+      "created": 1792182982,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Caroline moved from her home country 4 years ago.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_3::episode-002\",\"turn_id\":\"D3:13\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3567,
+        "completion_tokens": 48,
+        "total_tokens": 3615,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_38f508f26a"
+    },
+    "latency_seconds": 2.053226125
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "status": "completed",
+  "experiment_id": "q0043-query",
+  "memory_build": "offline-memory-a5e48166f56e",
+  "embedding_fingerprint": "264e45d8331b217a87fc15e35db2c614b32e9c572d0bbb53fe9bcc90dda3a8a6",
+  "question": "Would Melanie be more interested in going to a national park or a theme park?",
+  "answer": "Melanie would be more interested in going to a national park. She enjoys camping, hiking, exploring nature, roasting marshmallows around the campfire, and spending quality peaceful time outdoors with her family, as evidenced by multiple mentions of camping trips, hiking in the mountains and forests, and family bonding in nature settings. There is no mention of an interest in theme parks.",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-26::session_4::episode-002",
+      "turn_id": "D4:6"
+    },
+    {
+      "episode_id": "conv-26::session_4::episode-002",
+      "turn_id": "D4:8"
+    },
+    {
+      "episode_id": "conv-26::session_8::episode-004",
+      "turn_id": "D8:32"
+    },
+    {
+      "episode_id": "conv-26::session_8::episode-004",
+      "turn_id": "D8:34"
+    },
+    {
+      "episode_id": "conv-26::session_10::episode-002",
+      "turn_id": "D10:12"
+    },
+    {
+      "episode_id": "conv-26::session_18::episode-004",
+      "turn_id": "D18:19"
+    },
+    {
+      "episode_id": "conv-26::session_18::episode-004",
+      "turn_id": "D18:21"
+    }
+  ],
+  "elapsed_seconds": 7.847277042000001,
+  "implementation": {
+    "structured_matching": "literal entity / property-token overlap",
+    "all_matching": "all episodes; no optimized exhaustive retrieval",
+    "coverage": "answer-model sufficiency check with expansion"
+  }
+}

@@ -1,0 +1,125 @@
+[
+  {
+    "stage": "agent_decision",
+    "call_id": "6f707d30-085f-4df2-8267-17e1bc0bf22e",
+    "response": {
+      "id": "chatcmpl-EZrIqHcYgIYk7jlL5mxd8oyW0IL7j",
+      "object": "chat.completion",
+      "created": 1792215084,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"search\",\"query\":\"Melanie's son handle the accident\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 150,
+        "completion_tokens": 15,
+        "total_tokens": 165,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f810e81ea"
+    },
+    "latency_seconds": 0.9888103339999998
+  },
+  {
+    "stage": "agent_decision",
+    "call_id": "470e47f2-6e68-45c1-9f16-ccfdf7381c50",
+    "response": {
+      "id": "chatcmpl-EZrIrasxJEHvIm4R0j4JRkzABIWCS",
+      "object": "chat.completion",
+      "created": 1792215085,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"ready\",\"reason\":\"The conversation explicitly states that Melanie's son was okay after the accident and that the kids were scared but reassured. Melanie describes her kids as tough and resilient, and that they gave her strength. This directly answers how Melanie's son handled the accident.\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2571,
+        "completion_tokens": 58,
+        "total_tokens": 2629,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f810e81ea"
+    },
+    "latency_seconds": 1.150696416
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "38ac12c8-551c-4fb4-8c11-daf274f1523c",
+    "response": {
+      "id": "chatcmpl-EZrIsnvwKtVgMdAfUTJ15QMmeOmHJ",
+      "object": "chat.completion",
+      "created": 1792215086,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Melanie's son was okay after the accident, which was a scary experience. Melanie said her other kids were scared but she reassured them and explained their brother would be okay. She described her children as tough and resilient, giving her strength to keep going.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_18::chunk-0000\",\"turn_id\":\"D18:1\"},{\"episode_id\":\"conv-26::session_18::chunk-0005\",\"turn_id\":\"D18:7\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2466,
+        "completion_tokens": 113,
+        "total_tokens": 2579,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_802f1283f8"
+    },
+    "latency_seconds": 1.551399708
+  }
+]

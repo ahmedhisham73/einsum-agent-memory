@@ -1,0 +1,10 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Melanie",
+      "property": "favorite_childhood_book",
+      "search": "search for mentions of Melanie's favorite book from childhood"
+    }
+  ]
+}

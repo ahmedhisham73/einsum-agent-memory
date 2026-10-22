@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-EZqGNXXi9TPnK7pc6KQ247JZu1MM2",
+  "object": "chat.completion",
+  "created": 1792211087,
+  "model": "gpt-4o-mini-2024-07-18",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\"label\":\"WRONG\",\"reason\":\"The generated answer includes additional information about Caroline's feelings and support system that is not present in the reference answer. It expands beyond the main point of excitement regarding creating a family for kids who need one.\"}",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 208,
+    "completion_tokens": 49,
+    "total_tokens": 257,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_0c63340341"
+}

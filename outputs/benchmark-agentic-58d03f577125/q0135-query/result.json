@@ -1,0 +1,27 @@
+{
+  "status": "completed",
+  "experiment_id": "q0135-query",
+  "memory_build": "offline-memory-a5e48166f56e",
+  "baseline_build": "agentic-build-300877917378",
+  "question": "What advice does Caroline give for getting started with adoption?",
+  "answer": "Caroline's advice for getting started with adoption is to do your research and find an adoption agency or lawyer who can help with the process and provide information. She suggests gathering necessary documents like references, financial information, and medical checks. Caroline also emphasizes preparing emotionally for the process, especially because the waiting can be difficult, but reassures that it's all worth it in the end.",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-26::session_17::chunk-0005",
+      "turn_id": "D17:7"
+    }
+  ],
+  "elapsed_seconds": 4.8682300839999995,
+  "stop_reason": "agent_ready",
+  "search_count": 1,
+  "selected_chunks": 6,
+  "unique_source_turns": 31,
+  "implementation": {
+    "chunk_turns": 6,
+    "overlap_turns": 1,
+    "top_k_per_search": 6,
+    "max_searches": 4,
+    "max_agent_decisions": 5
+  }
+}

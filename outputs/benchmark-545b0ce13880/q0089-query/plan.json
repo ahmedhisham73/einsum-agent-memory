@@ -1,0 +1,30 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Caroline",
+      "property": "emotion_about_adoption_process",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Caroline",
+      "property": "anticipation",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Caroline",
+      "property": "adoption_process_experience",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Caroline",
+      "property": "adoption_motivation",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Caroline",
+      "property": "emotion",
+      "search": "evidence related to excitement in adoption"
+    }
+  ]
+}

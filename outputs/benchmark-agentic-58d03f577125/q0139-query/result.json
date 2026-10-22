@@ -1,0 +1,31 @@
+{
+  "status": "completed",
+  "experiment_id": "q0139-query",
+  "memory_build": "offline-memory-a5e48166f56e",
+  "baseline_build": "agentic-build-300877917378",
+  "question": "What kind of painting did Caroline share with Melanie on October 13, 2023?",
+  "answer": "On October 13, 2023, Caroline shared a painting expressing unity and strength inspired by a visit to an LGBTQ center, capturing everyone's unity and strength. The painting featured vivid, unified colors and was created to represent inclusivity, diversity, and LGBTQ advocacy.",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-26::session_9::chunk-0010",
+      "turn_id": "D9:14"
+    },
+    {
+      "episode_id": "conv-26::session_9::chunk-0010",
+      "turn_id": "D9:16"
+    }
+  ],
+  "elapsed_seconds": 4.10956825,
+  "stop_reason": "repeated_query",
+  "search_count": 1,
+  "selected_chunks": 6,
+  "unique_source_turns": 29,
+  "implementation": {
+    "chunk_turns": 6,
+    "overlap_turns": 1,
+    "top_k_per_search": 6,
+    "max_searches": 4,
+    "max_agent_decisions": 5
+  }
+}

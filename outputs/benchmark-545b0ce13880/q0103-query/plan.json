@@ -1,0 +1,10 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Caroline",
+      "property": "library_contents",
+      "search": "books kind Caroline has in her library"
+    }
+  ]
+}

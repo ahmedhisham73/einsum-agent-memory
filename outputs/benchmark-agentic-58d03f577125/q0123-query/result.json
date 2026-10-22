@@ -1,0 +1,27 @@
+{
+  "status": "completed",
+  "experiment_id": "q0123-query",
+  "memory_build": "offline-memory-a5e48166f56e",
+  "baseline_build": "agentic-build-300877917378",
+  "question": "Why did Melanie choose to use colors and patterns in her pottery project?",
+  "answer": "Melanie chose to use colors and patterns in her pottery project because she is obsessed with them and wanted to create something eye-catching that would make people smile. Additionally, painting the colors and patterns helps her express her feelings and be creative, with each stroke carrying a part of her.",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-26::session_12::chunk-0000",
+      "turn_id": "D12:6"
+    }
+  ],
+  "elapsed_seconds": 4.489373415999999,
+  "stop_reason": "agent_ready",
+  "search_count": 1,
+  "selected_chunks": 6,
+  "unique_source_turns": 35,
+  "implementation": {
+    "chunk_turns": 6,
+    "overlap_turns": 1,
+    "top_k_per_search": 6,
+    "max_searches": 4,
+    "max_agent_decisions": 5
+  }
+}

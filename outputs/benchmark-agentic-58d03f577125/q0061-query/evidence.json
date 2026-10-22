@@ -1,0 +1,230 @@
+[
+  {
+    "episode_id": "conv-26::session_5::chunk-0010",
+    "session_id": "session_5",
+    "observed_at": "2023-07-03T13:36:00",
+    "source_timestamp": "1:36 pm on 3 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D5:11",
+        "speaker": "Caroline",
+        "text": "Wow, Mel, I'm so stoked for you that art is helping you express yourself and bring you joy! Keep it up!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:12",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! I'm excited to see where pottery takes me. Anything coming up you're looking forward to?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:13",
+        "speaker": "Caroline",
+        "text": "Thanks Mel! I'm going to a transgender conference this month. I'm so excited to meet other people in the community and learn more about advocacy. It's gonna be great!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:14",
+        "speaker": "Melanie",
+        "text": "Sounds awesome, Caroline! Have a great time and learn a lot. Have fun!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:15",
+        "speaker": "Caroline",
+        "text": "Cool, thanks Mel! Can't wait. I'll keep ya posted. Bye!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:16",
+        "speaker": "Melanie",
+        "text": "Bye, Caroline! Can't wait to hear about it. Have fun and stay safe!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_11::chunk-0015",
+    "session_id": "session_11",
+    "observed_at": "2023-08-14T14:24:00",
+    "source_timestamp": "2:24 pm on 14 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D11:16",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie. It means a lot to share this with you.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:17",
+        "speaker": "Melanie",
+        "text": "Great chatting with you! Feel free to reach out any time.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_15::chunk-0010",
+    "session_id": "session_15",
+    "observed_at": "2023-08-28T15:19:00",
+    "source_timestamp": "3:19 pm on 28 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D15:11",
+        "speaker": "Caroline",
+        "text": "We're putting together a talent show for the kids next month. I'm looking forward to seeing how much fun everyone has and how proud they'll feel of their talents!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:12",
+        "speaker": "Melanie",
+        "text": "That's so cool, Caroline! That's a great way to show off and be proud of everyone's skills. You know I love live music. Can't wait to hear about it!",
+        "metadata": {
+          "img_url": [
+            "https://www.stomplight.com/cdn/shop/products/DavidAguilar.jpg"
+          ],
+          "blip_caption": "a photo of a band playing on a stage in a park",
+          "query": "talent show stage colorful lights microphone"
+        }
+      },
+      {
+        "turn_id": "D15:13",
+        "speaker": "Caroline",
+        "text": "Wow! Did you see that band?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:14",
+        "speaker": "Melanie",
+        "text": "Yeah, that pic was from a show I went to. It was so much fun and reminded me of how music brings us together.",
+        "metadata": {
+          "blip_caption": "a photo of a crowd of people at a concert with their hands in the air"
+        }
+      },
+      {
+        "turn_id": "D15:15",
+        "speaker": "Caroline",
+        "text": "Wow, what a fun moment! What's the band?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:16",
+        "speaker": "Melanie",
+        "text": "\"Summer Sounds\"- The playing an awesome pop song that got everyone dancing and singing. It was so fun and lively!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_15::chunk-0015",
+    "session_id": "session_15",
+    "observed_at": "2023-08-28T15:19:00",
+    "source_timestamp": "3:19 pm on 28 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D15:17",
+        "speaker": "Caroline",
+        "text": "That sounds great! Music brings us together and brings joy. Playing and singing let me express myself and connect with others - love it! So cathartic and uplifting.",
+        "metadata": {
+          "blip_caption": "a photo of a man playing a guitar in a recording studio"
+        }
+      },
+      {
+        "turn_id": "D15:18",
+        "speaker": "Melanie",
+        "text": "Cool! What type of music do you play?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:19",
+        "speaker": "Caroline",
+        "text": "Guitar's mostly my thing. Playing it helps me get my emotions out.",
+        "metadata": {
+          "blip_caption": "a photo of a guitar on display in a store"
+        }
+      },
+      {
+        "turn_id": "D15:20",
+        "speaker": "Melanie",
+        "text": "That's awesome! What type of guitar? Been playing long?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:21",
+        "speaker": "Caroline",
+        "text": "I started playing acoustic guitar about five years ago; it's been a great way to express myself and escape into my emotions.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_15::chunk-0020",
+    "session_id": "session_15",
+    "observed_at": "2023-08-28T15:19:00",
+    "source_timestamp": "3:19 pm on 28 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D15:22",
+        "speaker": "Melanie",
+        "text": "Music's amazing, isn't it? Any songs that have deep meaning for you?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:23",
+        "speaker": "Caroline",
+        "text": "Yeah totally! \"Brave\" by Sara Bareilles has a lot of significance for me. It's about being courageous and fighting for what's right. Whenever I hear this jam, I think about the paths I've taken and the progress I've made.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:24",
+        "speaker": "Melanie",
+        "text": "That's a gorgeous song, Caroline. It really fits with your journey and your determination to make a difference. Music can be so inspiring and uplifting.",
+        "metadata": {
+          "blip_caption": "a photo of a piece of paper with a drawing of a man playing a piano"
+        }
+      },
+      {
+        "turn_id": "D15:25",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! Appreciate it. You play any instruments?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:26",
+        "speaker": "Melanie",
+        "text": "Yeah, I play clarinet! Started when I was young and it's been great. Expression of myself and a way to relax.",
+        "metadata": {
+          "blip_caption": "a photo of a sheet music with notes and a pencil"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_15::chunk-0025",
+    "session_id": "session_15",
+    "observed_at": "2023-08-28T15:19:00",
+    "source_timestamp": "3:19 pm on 28 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D15:27",
+        "speaker": "Caroline",
+        "text": "Cool! Got any fav tunes?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:28",
+        "speaker": "Melanie",
+        "text": "I'm a fan of both classical like Bach and Mozart, as well as modern music like Ed Sheeran's \"Perfect\".",
+        "metadata": {
+          "blip_caption": "a photo of a laptop computer with a graph on it"
+        }
+      }
+    ]
+  }
+]

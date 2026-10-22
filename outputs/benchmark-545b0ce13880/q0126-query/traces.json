@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "87480496-3366-456b-873a-9f2ba67ff1c6",
+    "response": {
+      "id": "chatcmpl-EZk39Z7Fz0KSVvxjWm2fp5dLSYexI",
+      "object": "chat.completion",
+      "created": 1792187203,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Oliver\",\"property\":\"action\",\"search\":\"evidence where Oliver hid his bone\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2679,
+        "completion_tokens": 27,
+        "total_tokens": 2706,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_6f74a0974a"
+    },
+    "latency_seconds": 1.681446
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "f6cda1ef-a561-4935-99c8-e5e5eb889949",
+    "response": {
+      "id": "chatcmpl-EZk3CjXBiBanG9X7WEmZWHVNiZiiA",
+      "object": "chat.completion",
+      "created": 1792187206,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Oliver hid his bone in Melanie's slipper once.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_13::episode-002\",\"turn_id\":\"D13:6\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2225,
+        "completion_tokens": 46,
+        "total_tokens": 2271,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_38f508f26a"
+    },
+    "latency_seconds": 1.8367725
+  }
+]

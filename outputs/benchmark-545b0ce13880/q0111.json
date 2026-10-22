@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-26::q0111",
+  "category": 4,
+  "question": "What kind of pot did Mel and her kids make with clay?",
+  "gold_answer": "a cup with a dog face on it",
+  "status": "failed",
+  "error": "Query failed. See q0111.log"
+}

@@ -1,0 +1,279 @@
+[
+  {
+    "episode_id": "conv-26::session_8::chunk-0025",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D8:26",
+        "speaker": "Melanie",
+        "text": "That's awesome, Caro! You've found the courage to be yourself - that's important for our mental health and finding peace.",
+        "metadata": {
+          "blip_caption": "a photo of a buddha statue and a candle on a table"
+        }
+      },
+      {
+        "turn_id": "D8:27",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! Been a long road, but I'm proud of how far I've come. How're you doing finding peace?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:28",
+        "speaker": "Melanie",
+        "text": "I'm getting there, Caroline. Creativity and family keep me at peace.",
+        "metadata": {
+          "blip_caption": "a photo of a man holding a frisbee in front of a frisbee golf basket"
+        }
+      },
+      {
+        "turn_id": "D8:29",
+        "speaker": "Caroline",
+        "text": "That's awesome, Melanie! How have your family been supportive during your move?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:30",
+        "speaker": "Melanie",
+        "text": "My fam's been awesome - they helped out and showed lots of love and support.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:31",
+        "speaker": "Caroline",
+        "text": "Wow, Mel, family love and support is the best!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_9::chunk-0010",
+    "session_id": "session_9",
+    "observed_at": "2023-07-17T14:31:00",
+    "source_timestamp": "2:31 pm on 17 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D9:11",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! They must have felt so appreciated. It's awesome to see the difference we can make in each other's lives. Any other exciting LGBTQ advocacy stuff coming up?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:12",
+        "speaker": "Caroline",
+        "text": "Yay! Next month I'm having an LGBTQ art show with my paintings - can't wait!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:13",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, that sounds awesome! Can't wait to see your art - got any previews?",
+        "metadata": {
+          "blip_caption": "a photo of a painting with a blue and yellow design"
+        }
+      },
+      {
+        "turn_id": "D9:14",
+        "speaker": "Caroline",
+        "text": "Check out my painting for the art show! Hope you like it.",
+        "metadata": {
+          "img_url": [
+            "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/abstract-landscape-bold-colorful-painting-megan-duncanson.jpg"
+          ],
+          "blip_caption": "a photography of a painting of a tree with a bright sun in the background",
+          "query": "preview painting art show",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D9:15",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, that painting is awesome! Those colors are so vivid and the whole thing looks really unified. What inspired you?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D9:16",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! I painted this after I visited a LGBTQ center. I wanted to capture everyone's unity and strength.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_11::chunk-0010",
+    "session_id": "session_11",
+    "observed_at": "2023-08-14T14:24:00",
+    "source_timestamp": "2:24 pm on 14 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D11:11",
+        "speaker": "Melanie",
+        "text": "Your art's amazing, Caroline. I love how you use it to tell your stories and teach people about trans folks. I'd love to see another painting of yours!",
+        "metadata": {
+          "blip_caption": "a photo of a person holding a purple bowl in their hand"
+        }
+      },
+      {
+        "turn_id": "D11:12",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie. Here's one- 'Embracing Identity' is all about finding comfort and love in being yourself. The woman in the painting stands for the journey of acceptance. My aim was to show warmth, love and self-acceptance.",
+        "metadata": {
+          "img_url": [
+            "https://media.artsper.com/artwork/2013795_1_l.jpg"
+          ],
+          "blip_caption": "a photo of a painting of a woman with a red shirt",
+          "query": "painting embracing identity purple blue"
+        }
+      },
+      {
+        "turn_id": "D11:13",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, that's gorgeous! I love the self-acceptance and love theme. How does art help you with your self-discovery and acceptance journey?",
+        "metadata": {
+          "blip_caption": "a photo of a woman is making a vase on a wheel"
+        }
+      },
+      {
+        "turn_id": "D11:14",
+        "speaker": "Caroline",
+        "text": "Art's allowed me to explore my transition and my changing body. It's been a great way to work through stuff I'm going through. I love that it teaches me to accept the beauty of imperfections.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:15",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, that's so cool! Art can be so healing and a way to really connect with who you are. It's awesome that beauty can be found in the imperfections. We're all individual and wonderfully imperfect. Thanks for sharing it with me!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:16",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie. It means a lot to share this with you.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_13::chunk-0010",
+    "session_id": "session_13",
+    "observed_at": "2023-08-23T15:31:00",
+    "source_timestamp": "3:31 pm on 23 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D13:11",
+        "speaker": "Caroline",
+        "text": "Painting's great for expressing myself. I love creating art! Here's a recent self-portrait I made last week.",
+        "metadata": {
+          "img_url": [
+            "https://cdn.shopify.com/s/files/1/0302/3968/6755/files/IMG_8385_a145b124-53ab-4b3c-8f1a-497fa2d39a49.jpg"
+          ],
+          "blip_caption": "a photo of a painting of a woman with a blue face",
+          "query": "self-portrait painting vibrant colors"
+        }
+      },
+      {
+        "turn_id": "D13:12",
+        "speaker": "Melanie",
+        "text": "Caroline, that's great! The blue's really powerful, huh? How'd you feel while painting it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D13:13",
+        "speaker": "Caroline",
+        "text": "Thanks, Mel! I felt liberated and empowered doing it. Painting helps me explore my identity and be true to myself. It's definitely therapeutic.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D13:14",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, that's great! Art's awesome for showing us who we really are and getting in touch with ourselves. What else helps you out?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D13:15",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie. Art gives me a sense of freedom, but so does having supportive people around, promoting LGBTQ rights and being true to myself. I want to live authentically and help others to do the same.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D13:16",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! That's amazing. You really care about being real and helping others. Wishing you the best on your adoption journey!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_13::chunk-0015",
+    "session_id": "session_13",
+    "observed_at": "2023-08-23T15:31:00",
+    "source_timestamp": "3:31 pm on 23 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D13:17",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! I really appreciate it. Excited for the future! Bye!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D13:18",
+        "speaker": "Melanie",
+        "text": "Bye Caroline. I'm here for you. Take care of yourself.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_19::chunk-0005",
+    "session_id": "session_19",
+    "observed_at": "2023-10-22T09:55:00",
+    "source_timestamp": "9:55 am on 22 October, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D19:6",
+        "speaker": "Melanie",
+        "text": "I totally agree, Caroline. Everyone deserves that. It's awesome to see how passionate you are about helping these kids.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:7",
+        "speaker": "Caroline",
+        "text": "Thanks, Mel. Finding self-acceptance was a long process, but now I'm ready to offer love and support to those who need it. It's empowering to make a positive difference in someone's life.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:8",
+        "speaker": "Melanie",
+        "text": "That must have been tough for you, Caroline. Respect for finding acceptance and helping others with what you've been through. You're so strong and inspiring.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:9",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie. Transitioning wasn't easy and acceptance wasn't either, but the help I got from friends, family and people I looked up to was invaluable. They boosted me through tough times and helped me find out who I really am. That's why I want to pass that same support to anyone who needs it. Bringing others comfort and helping them grow brings me such joy.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:10",
+        "speaker": "Melanie",
+        "text": "I'm so happy for you, Caroline. You found your true self and now you're helping others. You're so inspiring!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D19:11",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie. Your support really means a lot. This journey has been amazing and I'm grateful I get to share it and help others with theirs. It's a real gift.",
+        "metadata": {
+          "blip_caption": "a photo of a clock with a green and yellow design on it"
+        }
+      }
+    ]
+  }
+]

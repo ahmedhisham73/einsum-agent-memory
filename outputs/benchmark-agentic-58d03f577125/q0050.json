@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0050",
+  "category": 2,
+  "question": "When did Caroline and Melanie go to a pride fesetival together?",
+  "gold_answer": 2022,
+  "status": "scored",
+  "generated_answer": "Caroline and Melanie went to a Pride festival together last year, as mentioned in the conversation on 17 August 2023 where Caroline said, \"We had a blast last year at the Pride fest.\"",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_12::chunk-0010",
+      "turn_id": "D12:15"
+    }
+  ],
+  "query_elapsed_seconds": 4.192610875,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer accurately states that Caroline and Melanie attended the Pride festival in 2022, as it refers to 'last year' relative to 2023."
+}

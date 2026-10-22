@@ -1,0 +1,25 @@
+{
+  "question_id": "conv-26::q0076",
+  "category": 1,
+  "question": "How many children does Melanie have?",
+  "gold_answer": 3,
+  "status": "scored",
+  "generated_answer": "Melanie has multiple children, but the exact number is not specified.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_2::chunk-0005",
+      "turn_id": "D2:7"
+    },
+    {
+      "episode_id": "conv-26::session_6::chunk-0000",
+      "turn_id": "D6:4"
+    },
+    {
+      "episode_id": "conv-26::session_18::chunk-0005",
+      "turn_id": "D18:7"
+    }
+  ],
+  "query_elapsed_seconds": 4.839211709000001,
+  "label": "WRONG",
+  "judge_reason": "The generated answer does not provide the exact number of children, which is required."
+}

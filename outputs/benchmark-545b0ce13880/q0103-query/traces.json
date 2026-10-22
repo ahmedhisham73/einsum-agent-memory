@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "675c19a1-9808-418a-8055-9190d2be7d8d",
+    "response": {
+      "id": "chatcmpl-EZj4xZ2i36Brv5bUCmE3k4IBslttr",
+      "object": "chat.completion",
+      "created": 1792183471,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Caroline\",\"property\":\"library_contents\",\"search\":\"books kind Caroline has in her library\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2682,
+        "completion_tokens": 29,
+        "total_tokens": 2711,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_5002831302"
+    },
+    "latency_seconds": 1.6804789999999998
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "89a34e35-25f0-4943-8299-5880c7dced6f",
+    "response": {
+      "id": "chatcmpl-EZj4z6OsbXFOKpZDfb5sGq3OjEVf2",
+      "object": "chat.completion",
+      "created": 1792183473,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Caroline's library contains lots of kids' books including classics, stories from different cultures, and educational books.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_6::episode-003\",\"turn_id\":\"D6:9\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1358,
+        "completion_tokens": 58,
+        "total_tokens": 1416,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_38f508f26a"
+    },
+    "latency_seconds": 1.7686772499999996
+  }
+]

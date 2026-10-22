@@ -1,0 +1,25 @@
+{
+  "question_id": "conv-26::q0125",
+  "category": 4,
+  "question": "What pets does Melanie have?",
+  "gold_answer": "Two cats and a dog",
+  "status": "scored",
+  "generated_answer": "Melanie has a dog and a cat, named Oliver and Luna, respectively. Additionally, she has another cat named Bailey.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_7::chunk-0010",
+      "turn_id": "D7:16"
+    },
+    {
+      "episode_id": "conv-26::session_7::chunk-0015",
+      "turn_id": "D7:18"
+    },
+    {
+      "episode_id": "conv-26::session_13::chunk-0000",
+      "turn_id": "D13:4"
+    }
+  ],
+  "query_elapsed_seconds": 5.252274709,
+  "label": "WRONG",
+  "judge_reason": "The generated answer states Melanie has one dog and two cats, which contradicts the reference answer that states she has two cats and one dog."
+}

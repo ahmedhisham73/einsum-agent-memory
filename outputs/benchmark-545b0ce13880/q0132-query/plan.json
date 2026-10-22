@@ -1,0 +1,10 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Melanie",
+      "property": "favorite_music",
+      "search": "Identify modern music artists or genres Melanie is a fan of"
+    }
+  ]
+}

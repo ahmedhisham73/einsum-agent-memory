@@ -1,0 +1,40 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Caroline",
+      "property": "career_interest",
+      "search": "evidence on Caroline's interest in counseling as a career"
+    },
+    {
+      "entity": "Caroline",
+      "property": "career_motivation",
+      "search": "evidence on Caroline's motivation to pursue counseling career"
+    },
+    {
+      "entity": "Caroline",
+      "property": "has_received_support_from",
+      "search": "evidence on Caroline's experiences of receiving support growing up"
+    },
+    {
+      "entity": "Caroline",
+      "property": "personal_motivation",
+      "search": "evidence on Caroline's personal motivation related to counseling career"
+    },
+    {
+      "entity": "Caroline",
+      "property": "personal_reflection",
+      "search": "evidence where Caroline reflects on how lack of support might have influenced her career choice"
+    },
+    {
+      "entity": "Caroline",
+      "property": "career_goal_interest",
+      "search": "evidence on Caroline's career goals or interests in counseling under different conditions"
+    },
+    {
+      "entity": "Caroline",
+      "property": "career_plan_detail",
+      "search": "evidence on Caroline's plans or intentions for career if without support growing up"
+    }
+  ]
+}

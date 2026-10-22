@@ -1,0 +1,21 @@
+{
+  "question_id": "conv-26::q0065",
+  "category": 3,
+  "question": "Would Melanie likely enjoy the song \"The Four Seasons\" by Vivaldi?",
+  "gold_answer": "Yes; it's classical music",
+  "status": "scored",
+  "generated_answer": "Melanie is a fan of classical music, including composers like Bach and Mozart, and enjoys music as a means of self-expression and relaxation. However, there is no specific information about her familiarity or particular enjoyment of Vivaldi's \"The Four Seasons\". Therefore, while it is possible she might enjoy it given her classical music preference, there is no direct evidence to confirm this.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_15::episode-005",
+      "turn_id": "D15:28"
+    },
+    {
+      "episode_id": "conv-26::session_15::episode-005",
+      "turn_id": "D15:26"
+    }
+  ],
+  "query_elapsed_seconds": 5.029485417,
+  "label": "WRONG",
+  "judge_reason": "The generated answer does not directly affirm or deny whether Melanie would likely enjoy the song, contradicting the reference answer."
+}

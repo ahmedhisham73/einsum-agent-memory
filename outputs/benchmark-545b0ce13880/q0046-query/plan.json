@@ -1,0 +1,10 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Caroline",
+      "property": "attended_event",
+      "search": "Caroline attendance at pride parade in August"
+    }
+  ]
+}

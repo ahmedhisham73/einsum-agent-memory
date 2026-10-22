@@ -1,0 +1,238 @@
+[
+  {
+    "episode_id": "conv-26::session_1::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_1",
+    "observed_at": "2023-05-08T13:56:00",
+    "source_timestamp": "1:56 pm on 8 May, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Melanie shares painting and discussion about creative expression",
+    "turns": [
+      {
+        "turn_id": "D1:12",
+        "speaker": "Melanie",
+        "text": "You'd be a great counselor! Your empathy and understanding will really help the people you work with. By the way, take a look at this.",
+        "metadata": {
+          "img_url": [
+            "http://candicealexander.com/cdn/shop/products/IMG_7269_a49d5af8-c76c-4ecd-ae20-48c08cb11dec.jpg"
+          ],
+          "blip_caption": "a photo of a painting of a sunset over a lake",
+          "query": "painting sunrise"
+        }
+      },
+      {
+        "turn_id": "D1:13",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! That's really sweet. Is this your own painting?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:14",
+        "speaker": "Melanie",
+        "text": "Yeah, I painted that lake sunrise last year! It's special to me.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:15",
+        "speaker": "Caroline",
+        "text": "Wow, Melanie! The colors really blend nicely. Painting looks like a great outlet for expressing yourself.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:16",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! Painting's a fun way to express my feelings and get creative. It's a great way to relax after a long day.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_8::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Sharing recent creative family activities and bonding through pottery and painting",
+    "turns": [
+      {
+        "turn_id": "D8:1",
+        "speaker": "Caroline",
+        "text": "Hey Mel, what's up? Been a busy week since we talked.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:2",
+        "speaker": "Melanie",
+        "text": "Hey Caroline, it's been super busy here. So much since we talked! Last Fri I finally took my kids to a pottery workshop. We all made our own pots, it was fun and therapeutic!",
+        "metadata": {
+          "img_url": [
+            "https://images.rawpixel.com/image_social_landscape/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTExL2ZsNDg2NDgxOTYyMDMtaW1hZ2UuanBn.jpg"
+          ],
+          "blip_caption": "a photography of a group of children making clay sculptures in a classroom",
+          "query": "pottery workshop family making clay pots",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D8:3",
+        "speaker": "Caroline",
+        "text": "Wow, Mel! Sounds like you and the kids had a blast. How'd they like it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:4",
+        "speaker": "Melanie",
+        "text": "The kids loved it! They were so excited to get their hands dirty and make something with clay. It was special to watch their creativity and imagination come to life, they made this!",
+        "metadata": {
+          "img_url": [
+            "https://monstermonster.shop/cdn/shop/products/mug-class_5000x.jpg"
+          ],
+          "blip_caption": "a photo of a cup with a dog face on it",
+          "query": "kids pottery finished pieces"
+        }
+      },
+      {
+        "turn_id": "D8:5",
+        "speaker": "Caroline",
+        "text": "Aww, that's so sweet! That cup is so cute. It's awesome to see how kids show their personalities through art. What other creative projects do you do with them, besides pottery?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:6",
+        "speaker": "Melanie",
+        "text": "We love painting together lately, especially nature-inspired ones. Here's our latest work from last weekend.",
+        "metadata": {
+          "img_url": [
+            "https://i.pinimg.com/originals/ea/d9/d7/ead9d79b58ca80a38a744b5ab70482db.jpg"
+          ],
+          "blip_caption": "a photo of a painting of a sunset with a palm tree",
+          "query": "painting vibrant flowers sunset sky"
+        }
+      },
+      {
+        "turn_id": "D8:7",
+        "speaker": "Caroline",
+        "text": "Wow Mel, that painting's amazing! The colors are so bold and it really highlights the beauty of nature. Y'all work on it together?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:8",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! We both helped with the painting - it was great bonding over it and chatting about nature. We found these lovely flowers. Appreciating the small things in life, too.",
+        "metadata": {
+          "img_url": [
+            "https://karengimson.files.wordpress.com/2017/06/img_7222.jpg"
+          ],
+          "blip_caption": "a photo of a field of purple flowers with green leaves",
+          "query": "path lined purple flowers nature"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_12::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_12",
+    "observed_at": "2023-08-17T13:50:00",
+    "source_timestamp": "1:50 pm on 17 August, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Discussion about Melanie's pottery project and artistic expression",
+    "turns": [
+      {
+        "turn_id": "D12:4",
+        "speaker": "Melanie",
+        "text": "Here it is. Pretty proud of it! It was a great experience. Thoughts?",
+        "metadata": {
+          "img_url": [
+            "https://omceramic.com/cdn/shop/products/IMG_0022.jpg"
+          ],
+          "blip_caption": "a photo of a bowl with a colorful design on it",
+          "query": "pottery project ceramic bowl"
+        }
+      },
+      {
+        "turn_id": "D12:5",
+        "speaker": "Caroline",
+        "text": "That bowl is awesome, Mel! What gave you the idea for all the colors and patterns?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:6",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! I'm obsessed with those, so I made something to catch the eye and make people smile. Plus, painting helps me express my feelings and be creative. Each stroke carries a part of me.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:7",
+        "speaker": "Caroline",
+        "text": "That's amazing! You put so much effort and passion into it. Your creativity really shines. Seeing how art can be a source of self-expression and growth is truly inspiring. You're killing it!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:8",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! Your words really mean a lot. I've always felt a strong connection to art, and it's been a huge learning experience. It's both a sanctuary and a source of comfort. I'm so glad to have something that brings me so much happiness and fulfillment.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_16::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_16",
+    "observed_at": "2023-09-13T00:09:00",
+    "source_timestamp": "12:09 am on 13 September, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Talking about art passions with photos of artwork",
+    "turns": [
+      {
+        "turn_id": "D16:6",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, that looks awesome! I love how it shows the togetherness and power you were talking about. How long have you been creating art?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:7",
+        "speaker": "Caroline",
+        "text": "Since I was 17 or so. I find it soempowering and cathartic. It's amazing how art can show things that are hard to put into words. How long have you been into art?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:8",
+        "speaker": "Melanie",
+        "text": "Seven years now, and I've finally found my real muses: painting and pottery. It's so calming and satisfying. Check out my pottery creation in the pic!",
+        "metadata": {
+          "img_url": [
+            "https://www.1hotpieceofglass.com/cdn/shop/files/image_93ad5985-ff65-4b93-877b-3ee948ac5641_5000x.jpg"
+          ],
+          "blip_caption": "a photo of a group of bowls and a starfish on a white surface",
+          "query": "pottery bowl intricate patterns purple glaze"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_16::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_16",
+    "observed_at": "2023-09-13T00:09:00",
+    "source_timestamp": "12:09 am on 13 September, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Art as emotional expression and therapy",
+    "turns": [
+      {
+        "turn_id": "D16:9",
+        "speaker": "Caroline",
+        "text": "Melanie, those bowls are amazing! They each have such cool designs. I love that you chose pottery for your art. Painting and drawing have helped me express my feelings and explore my gender identity. Creating art was really important to me during my transition - it helped me understand and accept myself. I'm so grateful.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:10",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! It has really helped me out. I love how it's both a creative outlet and a form of therapy. Have you ever thought about trying it or another art form?",
+        "metadata": {}
+      }
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Melanie",
+      "property": "said",
+      "search": "Melanie statements or comments describing Caroline's personality traits"
+    }
+  ]
+}

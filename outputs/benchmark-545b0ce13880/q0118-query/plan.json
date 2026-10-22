@@ -1,0 +1,10 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Melanie",
+      "property": "beach_visit_frequency",
+      "search": "evidence of how often Melanie goes to the beach with her kids"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0117",
+  "category": 4,
+  "question": "What inspired Caroline's painting for the art show?",
+  "gold_answer": "visiting an LGBTQ center and wanting to capture unity and strength",
+  "status": "scored",
+  "generated_answer": "Caroline's painting for the art show was inspired by her visit to an LGBTQ center; she wanted to capture everyone's unity and strength.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_9::chunk-0010",
+      "turn_id": "D9:16"
+    }
+  ],
+  "query_elapsed_seconds": 4.096469625,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer accurately reflects the inspiration for Caroline's painting as stated in the reference answer, capturing both the visit to the LGBTQ center and the themes of unity and strength."
+}

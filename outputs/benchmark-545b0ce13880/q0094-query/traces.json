@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "1f77fdc3-1342-4669-810d-61d24a3ddd84",
+    "response": {
+      "id": "chatcmpl-EZj1S3j2sp1KjoiARHe4mjqgqzRCX",
+      "object": "chat.completion",
+      "created": 1792183254,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"grandma\",\"property\":\"gifted_by\",\"search\":\"grandma gift to Caroline\"},{\"entity\":\"grandma's gift\",\"property\":\"value\",\"search\":\"describe grandma's gift to Caroline\"},{\"entity\":\"grandma's gift\",\"property\":\"description\",\"search\":\"details about grandma's gift to Caroline\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2679,
+        "completion_tokens": 69,
+        "total_tokens": 2748,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_5002831302"
+    },
+    "latency_seconds": 2.225660834
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "6e2476a6-4843-4b6f-a186-09d06e4b34b3",
+    "response": {
+      "id": "chatcmpl-EZj1WyOYsIrTTwckx6MIprZeN50R0",
+      "object": "chat.completion",
+      "created": 1792183258,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Grandma's gift to Caroline was a necklace featuring a cross and a heart, symbolizing love, faith, and strength. It was given to Caroline when she was young and serves as a reminder of her roots and her family's love and support.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_4::episode-001\",\"turn_id\":\"D4:3\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 4191,
+        "completion_tokens": 85,
+        "total_tokens": 4276,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_38f508f26a"
+    },
+    "latency_seconds": 2.4532106670000005
+  }
+]

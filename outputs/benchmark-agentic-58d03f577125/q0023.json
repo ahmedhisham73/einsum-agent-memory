@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0023",
+  "category": 3,
+  "question": "Would Caroline likely have Dr. Seuss books on her bookshelf?",
+  "gold_answer": "Yes, since she collects classic children's books",
+  "status": "scored",
+  "generated_answer": "Yes, Caroline would likely have Dr. Seuss books on her bookshelf because she mentioned having a library of kids' books including classics, which often include Dr. Seuss.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_6::chunk-0005",
+      "turn_id": "D6:7"
+    }
+  ],
+  "query_elapsed_seconds": 4.39505675,
+  "label": "CORRECT",
+  "judge_reason": "Both answers indicate that Caroline collects classic children's books, supporting the likelihood of her having Dr. Seuss books."
+}

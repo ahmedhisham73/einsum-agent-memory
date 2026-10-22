@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-26::q0027",
+  "category": 2,
+  "question": "When did Melanie read the book \"nothing is impossible\"?",
+  "gold_answer": 2022,
+  "status": "failed",
+  "error": "Query failed. See q0027.log"
+}

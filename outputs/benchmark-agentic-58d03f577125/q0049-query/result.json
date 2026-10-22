@@ -1,0 +1,51 @@
+{
+  "status": "completed",
+  "experiment_id": "q0049-query",
+  "memory_build": "offline-memory-a5e48166f56e",
+  "baseline_build": "agentic-build-300877917378",
+  "question": "What types of pottery have Melanie and her kids made?",
+  "answer": "Melanie and her kids have made various types of pottery including bowls with black and white flower designs, colorful patterned ceramic bowls, a cup with a dog face on it, and plates with floral patterns. Melanie made a black and white flower design bowl, a colorful patterned bowl, and a floral pattern plate. Her kids made pots and a cup with a dog face during a pottery workshop.",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-26::session_5::chunk-0000",
+      "turn_id": "D5:6"
+    },
+    {
+      "episode_id": "conv-26::session_5::chunk-0005",
+      "turn_id": "D5:8"
+    },
+    {
+      "episode_id": "conv-26::session_8::chunk-0000",
+      "turn_id": "D8:2"
+    },
+    {
+      "episode_id": "conv-26::session_8::chunk-0000",
+      "turn_id": "D8:4"
+    },
+    {
+      "episode_id": "conv-26::session_12::chunk-0000",
+      "turn_id": "D12:4"
+    },
+    {
+      "episode_id": "conv-26::session_14::chunk-0000",
+      "turn_id": "D14:2"
+    },
+    {
+      "episode_id": "conv-26::session_14::chunk-0000",
+      "turn_id": "D14:4"
+    }
+  ],
+  "elapsed_seconds": 6.467562917,
+  "stop_reason": "agent_ready",
+  "search_count": 1,
+  "selected_chunks": 6,
+  "unique_source_turns": 35,
+  "implementation": {
+    "chunk_turns": 6,
+    "overlap_turns": 1,
+    "top_k_per_search": 6,
+    "max_searches": 4,
+    "max_agent_decisions": 5
+  }
+}

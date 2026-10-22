@@ -1,0 +1,74 @@
+[
+  {
+    "entity": "James",
+    "entity_type": "person",
+    "property": "motivation_source",
+    "value": "video games",
+    "modality": "observed",
+    "valid_time": "3:47 pm on 17 March, 2022",
+    "evidence_turn_ids": [
+      "D1:2"
+    ],
+    "record_id": "offline-memory-a5b1a2193782::r000001",
+    "episode_id": "conv-47::session_1::episode-001",
+    "conversation_id": "conv-47",
+    "session_id": "session_1",
+    "observed_at": "2022-03-17T15:47:00",
+    "source_timestamp": "3:47 pm on 17 March, 2022",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "James",
+    "entity_type": "person",
+    "property": "current_favorite_game",
+    "value": "The Witcher 3",
+    "modality": "observed",
+    "valid_time": "3:47 pm on 17 March, 2022",
+    "evidence_turn_ids": [
+      "D1:4"
+    ],
+    "record_id": "offline-memory-a5b1a2193782::r000002",
+    "episode_id": "conv-47::session_1::episode-001",
+    "conversation_id": "conv-47",
+    "session_id": "session_1",
+    "observed_at": "2022-03-17T15:47:00",
+    "source_timestamp": "3:47 pm on 17 March, 2022",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "John",
+    "entity_type": "person",
+    "property": "game_preference",
+    "value": "video games",
+    "modality": "observed",
+    "valid_time": "3:47 pm on 17 March, 2022",
+    "evidence_turn_ids": [
+      "D1:3"
+    ],
+    "record_id": "offline-memory-a5b1a2193782::r000003",
+    "episode_id": "conv-47::session_1::episode-001",
+    "conversation_id": "conv-47",
+    "session_id": "session_1",
+    "observed_at": "2022-03-17T15:47:00",
+    "source_timestamp": "3:47 pm on 17 March, 2022",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "John",
+    "entity_type": "person",
+    "property": "game_effect",
+    "value": "help relax after a long day",
+    "modality": "observed",
+    "valid_time": "3:47 pm on 17 March, 2022",
+    "evidence_turn_ids": [
+      "D1:3"
+    ],
+    "record_id": "offline-memory-a5b1a2193782::r000004",
+    "episode_id": "conv-47::session_1::episode-001",
+    "conversation_id": "conv-47",
+    "session_id": "session_1",
+    "observed_at": "2022-03-17T15:47:00",
+    "source_timestamp": "3:47 pm on 17 March, 2022",
+    "timezone_status": "unspecified"
+  }
+]

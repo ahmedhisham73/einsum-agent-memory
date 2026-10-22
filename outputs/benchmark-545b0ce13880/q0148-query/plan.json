@@ -1,0 +1,30 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Melanie",
+      "property": "emotion_after_accident",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Melanie",
+      "property": "emotional_response_to_event",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Melanie",
+      "property": "emotional_state_after_accident",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Melanie",
+      "property": "reaction_to_accident",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Melanie",
+      "property": "feeling_after_accident",
+      "search": "standalone evidence search"
+    }
+  ]
+}

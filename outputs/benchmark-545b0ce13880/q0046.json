@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0046",
+  "category": 2,
+  "question": "When did Caroline attend a pride parade in August?",
+  "gold_answer": "The Friday before 14 August 2023",
+  "status": "scored",
+  "generated_answer": "Caroline attended a pride parade last Friday before August 14, 2023, which corresponds to August 11, 2023.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_11::episode-002",
+      "turn_id": "D11:4"
+    }
+  ],
+  "query_elapsed_seconds": 4.155423042,
+  "label": "CORRECT",
+  "judge_reason": "Both answers indicate that Caroline attended the pride parade on August 11, 2023, which is the Friday before August 14, 2023."
+}

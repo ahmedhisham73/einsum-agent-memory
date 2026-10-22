@@ -1,0 +1,25 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Caroline",
+      "property": "painted_abstract_painting",
+      "search": "Find subjects Caroline has painted"
+    },
+    {
+      "entity": "Caroline",
+      "property": "painting_subject",
+      "search": "Identify subjects Caroline has painted"
+    },
+    {
+      "entity": "Melanie",
+      "property": "painted_abstract_painting",
+      "search": "Find subjects Melanie has painted"
+    },
+    {
+      "entity": "Melanie",
+      "property": "painting_subject",
+      "search": "Identify subjects Melanie has painted"
+    }
+  ]
+}

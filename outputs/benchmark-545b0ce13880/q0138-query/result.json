@@ -1,0 +1,21 @@
+{
+  "status": "completed",
+  "experiment_id": "q0138-query",
+  "memory_build": "offline-memory-a5e48166f56e",
+  "embedding_fingerprint": "264e45d8331b217a87fc15e35db2c614b32e9c572d0bbb53fe9bcc90dda3a8a6",
+  "question": "What painting did Melanie show to Caroline on October 13, 2023?",
+  "answer": "Melanie showed Caroline a painting inspired by sunsets, with colors that make her feel calm, described as a landscape painting with a vibrant purple sunset, on October 13, 2023.",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-26::session_17::episode-002",
+      "turn_id": "D17:12"
+    }
+  ],
+  "elapsed_seconds": 9.220105292,
+  "implementation": {
+    "structured_matching": "literal entity / property-token overlap",
+    "all_matching": "all episodes; no optimized exhaustive retrieval",
+    "coverage": "answer-model sufficiency check with expansion"
+  }
+}

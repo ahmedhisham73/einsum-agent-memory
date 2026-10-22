@@ -1,0 +1,10 @@
+{
+  "scope": "all_matching",
+  "requirements": [
+    {
+      "entity": "Caroline",
+      "property": "participated_in",
+      "search": "standalone evidence search for LGBTQ+ events Caroline participated in"
+    }
+  ]
+}

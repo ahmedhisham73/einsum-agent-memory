@@ -1,0 +1,125 @@
+[
+  {
+    "stage": "agent_decision",
+    "call_id": "55189634-2f9b-464f-8251-db2aa1a20c1d",
+    "response": {
+      "id": "chatcmpl-EZqKeV9usHazWXPxvPauYwxZowxFe",
+      "object": "chat.completion",
+      "created": 1792211352,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"search\",\"query\":\"Caroline support during negative experience\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 14,
+        "total_tokens": 165,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f810e81ea"
+    },
+    "latency_seconds": 1.1390918330000002
+  },
+  {
+    "stage": "agent_decision",
+    "call_id": "e299713a-277c-4544-b75f-6aaf96fda5d0",
+    "response": {
+      "id": "chatcmpl-EZqKfQgJq2J4Iy0WEOGvZZTHemHUh",
+      "object": "chat.completion",
+      "created": 1792211353,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"ready\",\"reason\":\"The evidence shows Caroline is supported by her friends, family, mentors, and Melanie when she has negative experiences. They provide love, guidance, encouragement, and are described as her rocks and support system.\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2895,
+        "completion_tokens": 48,
+        "total_tokens": 2943,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f810e81ea"
+    },
+    "latency_seconds": 1.320693334
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "9dc632ef-b2e9-4690-8656-d7d996f142a0",
+    "response": {
+      "id": "chatcmpl-EZqKgoIUOLbIgIwsnMxGnmhCxjw1s",
+      "object": "chat.completion",
+      "created": 1792211354,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Caroline is supported by her friends, family, mentors, and Melanie when she has a negative experience. They provide love, guidance, encouragement, and acceptance that help her through tough times.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_3::chunk-0005\",\"turn_id\":\"D3:11\"},{\"episode_id\":\"conv-26::session_6::chunk-0010\",\"turn_id\":\"D6:13\"},{\"episode_id\":\"conv-26::session_19::chunk-0005\",\"turn_id\":\"D19:9\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2881,
+        "completion_tokens": 123,
+        "total_tokens": 3004,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_802f1283f8"
+    },
+    "latency_seconds": 1.632796125
+  }
+]

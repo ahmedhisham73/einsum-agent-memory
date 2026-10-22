@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0002",
+  "category": 2,
+  "question": "When did Melanie paint a sunrise?",
+  "gold_answer": 2022,
+  "status": "scored",
+  "generated_answer": "Melanie painted a sunrise last year, as she mentioned in conv-26::session_1::episode-004, turn D1:14.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_1::episode-004",
+      "turn_id": "D1:14"
+    }
+  ],
+  "query_elapsed_seconds": 4.1109165,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer indicates that Melanie painted a sunrise last year, which corresponds to 2022."
+}

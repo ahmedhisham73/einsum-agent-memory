@@ -1,0 +1,27 @@
+{
+  "status": "completed",
+  "experiment_id": "q0088-query",
+  "memory_build": "offline-memory-a5e48166f56e",
+  "baseline_build": "agentic-build-300877917378",
+  "question": "Why did Caroline choose the adoption agency?",
+  "answer": "Caroline chose the adoption agency because they help LGBTQ+ individuals with adoption, and their inclusivity and support really spoke to her.",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-26::session_2::chunk-0010",
+      "turn_id": "D2:12"
+    }
+  ],
+  "elapsed_seconds": 5.0000645409999995,
+  "stop_reason": "agent_ready",
+  "search_count": 1,
+  "selected_chunks": 6,
+  "unique_source_turns": 32,
+  "implementation": {
+    "chunk_turns": 6,
+    "overlap_turns": 1,
+    "top_k_per_search": 6,
+    "max_searches": 4,
+    "max_agent_decisions": 5
+  }
+}

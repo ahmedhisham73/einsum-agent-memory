@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0080",
+  "category": 2,
+  "question": "When did Caroline pass the adoption interview?",
+  "gold_answer": "The Friday before 22 October 2023",
+  "status": "scored",
+  "generated_answer": "Caroline passed the adoption agency interviews on Friday, 13 October, 2023.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_19::chunk-0000",
+      "turn_id": "D19:1"
+    }
+  ],
+  "query_elapsed_seconds": 9.521258209,
+  "label": "WRONG",
+  "judge_reason": "The generated answer does not align with the reference answer's date."
+}

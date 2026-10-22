@@ -1,0 +1,31 @@
+{
+  "status": "completed",
+  "experiment_id": "q0119-query",
+  "memory_build": "offline-memory-a5e48166f56e",
+  "baseline_build": "agentic-build-300877917378",
+  "question": "What did Melanie and her family see during their camping trip last year?",
+  "answer": "During their camping trip last year, Melanie and her family saw the Perseid meteor shower. They watched the sky light up with streaks of light, made wishes, and experienced an awe-inspiring clear star-filled night sky.",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-26::session_10::chunk-0010",
+      "turn_id": "D10:14"
+    },
+    {
+      "episode_id": "conv-26::session_10::chunk-0010",
+      "turn_id": "D10:16"
+    }
+  ],
+  "elapsed_seconds": 4.532160999999999,
+  "stop_reason": "agent_ready",
+  "search_count": 1,
+  "selected_chunks": 6,
+  "unique_source_turns": 35,
+  "implementation": {
+    "chunk_turns": 6,
+    "overlap_turns": 1,
+    "top_k_per_search": 6,
+    "max_searches": 4,
+    "max_agent_decisions": 5
+  }
+}

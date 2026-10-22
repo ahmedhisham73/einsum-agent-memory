@@ -1,0 +1,37 @@
+{
+  "question_id": "conv-26::q0047",
+  "category": 3,
+  "question": "Would Melanie be considered an ally to the transgender community?",
+  "gold_answer": "Yes, she is supportive",
+  "status": "scored",
+  "generated_answer": "Yes, Melanie would be considered an ally to the transgender community. She consistently expresses pride and support for Caroline's journey, encourages spreading awareness and acceptance, celebrates inclusivity, acknowledges the importance of community support, and praises efforts toward LGBTQ rights and advocacy. Melanie's responses show she values and backs transgender rights and community well-being.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_3::chunk-0000",
+      "turn_id": "D3:2"
+    },
+    {
+      "episode_id": "conv-26::session_3::chunk-0000",
+      "turn_id": "D3:4"
+    },
+    {
+      "episode_id": "conv-26::session_7::chunk-0000",
+      "turn_id": "D7:2"
+    },
+    {
+      "episode_id": "conv-26::session_9::chunk-0005",
+      "turn_id": "D9:7"
+    },
+    {
+      "episode_id": "conv-26::session_10::chunk-0000",
+      "turn_id": "D10:4"
+    },
+    {
+      "episode_id": "conv-26::session_19::chunk-0005",
+      "turn_id": "D19:8"
+    }
+  ],
+  "query_elapsed_seconds": 6.237960875,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer confirms Melanie's support for the transgender community and provides additional supportive details."
+}

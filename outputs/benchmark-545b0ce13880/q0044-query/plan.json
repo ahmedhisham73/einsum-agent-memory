@@ -1,0 +1,25 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Caroline",
+      "property": "art_form",
+      "search": "art form created by Caroline"
+    },
+    {
+      "entity": "Caroline",
+      "property": "art_style_explored",
+      "search": "art styles explored by Caroline"
+    },
+    {
+      "entity": "Caroline",
+      "property": "art_created",
+      "search": "types of art Caroline has created"
+    },
+    {
+      "entity": "Caroline",
+      "property": "artistic_intent",
+      "search": "Caroline's artistic intent or purpose"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "question_id": "conv-26::q0038",
+  "category": 1,
+  "question": "What did Melanie paint recently?",
+  "gold_answer": "sunset",
+  "status": "scored",
+  "generated_answer": "Melanie recently painted several pieces: a vibrant nature-inspired painting featuring a sunset with a palm tree and flowers (D8:6, D8:8), a horse painting (D13:8), a sunflower landscape painting (D14:30), a sunset landscape painting with a pink sky (D17:12), and an abstract painting with vibrant blue colors (D17:14). She has been actively painting with her kids and finds painting a way to express her feelings and be creative.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_8::episode-001",
+      "turn_id": "D8:6"
+    },
+    {
+      "episode_id": "conv-26::session_8::episode-001",
+      "turn_id": "D8:8"
+    },
+    {
+      "episode_id": "conv-26::session_13::episode-003",
+      "turn_id": "D13:8"
+    },
+    {
+      "episode_id": "conv-26::session_14::episode-008",
+      "turn_id": "D14:30"
+    },
+    {
+      "episode_id": "conv-26::session_17::episode-002",
+      "turn_id": "D17:12"
+    },
+    {
+      "episode_id": "conv-26::session_17::episode-002",
+      "turn_id": "D17:14"
+    }
+  ],
+  "query_elapsed_seconds": 5.555068708,
+  "label": "WRONG",
+  "judge_reason": "The generated answer lists multiple paintings including one sunset, but the reference specifically asks for what Melanie painted recently, not a list of all her recent works."
+}

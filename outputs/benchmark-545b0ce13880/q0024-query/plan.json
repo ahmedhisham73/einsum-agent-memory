@@ -1,0 +1,10 @@
+{
+  "scope": "all_matching",
+  "requirements": [
+    {
+      "entity": "Melanie",
+      "property": "read_book",
+      "search": "standalone evidence search"
+    }
+  ]
+}

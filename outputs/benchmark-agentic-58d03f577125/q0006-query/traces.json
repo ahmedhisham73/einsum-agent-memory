@@ -1,0 +1,125 @@
+[
+  {
+    "stage": "agent_decision",
+    "call_id": "cd34fb69-82b7-4ce9-adfb-6591b7d0a91c",
+    "response": {
+      "id": "chatcmpl-EZiVBq7JEGKI7vL2z5TONkm42wagP",
+      "object": "chat.completion",
+      "created": 1792181253,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"search\",\"query\":\"Melanie charity race date\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 149,
+        "completion_tokens": 13,
+        "total_tokens": 162,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_d81cb94320"
+    },
+    "latency_seconds": 1.344819
+  },
+  {
+    "stage": "agent_decision",
+    "call_id": "fe8bf959-51fb-4f18-8dba-13b0904ccb6f",
+    "response": {
+      "id": "chatcmpl-EZiVDCHWd7x53ZRJbWDHungxHaJT1",
+      "object": "chat.completion",
+      "created": 1792181255,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"ready\",\"reason\":\"Melanie ran a charity race for mental health last Saturday before 25 May 2023, as mentioned in conversation chunk conv-26::session_2::chunk-0000.\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2939,
+        "completion_tokens": 45,
+        "total_tokens": 2984,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_d81cb94320"
+    },
+    "latency_seconds": 1.7354019589999998
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "1627d58e-fbe3-4021-a504-848faafc678d",
+    "response": {
+      "id": "chatcmpl-EZiVF6e56gxmDO9HXzkQObLsfsqEI",
+      "object": "chat.completion",
+      "created": 1792181257,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Melanie ran a charity race for mental health on the Saturday prior to 25 May 2023, which was Saturday, 20 May 2023.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_2::chunk-0000\",\"turn_id\":\"D2:1\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2873,
+        "completion_tokens": 69,
+        "total_tokens": 2942,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_38f508f26a"
+    },
+    "latency_seconds": 1.8217041250000001
+  }
+]

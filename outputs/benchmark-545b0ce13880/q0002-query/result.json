@@ -1,0 +1,21 @@
+{
+  "status": "completed",
+  "experiment_id": "q0002-query",
+  "memory_build": "offline-memory-a5e48166f56e",
+  "embedding_fingerprint": "264e45d8331b217a87fc15e35db2c614b32e9c572d0bbb53fe9bcc90dda3a8a6",
+  "question": "When did Melanie paint a sunrise?",
+  "answer": "Melanie painted a sunrise last year, as she mentioned in conv-26::session_1::episode-004, turn D1:14.",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-26::session_1::episode-004",
+      "turn_id": "D1:14"
+    }
+  ],
+  "elapsed_seconds": 4.1109165,
+  "implementation": {
+    "structured_matching": "literal entity / property-token overlap",
+    "all_matching": "all episodes; no optimized exhaustive retrieval",
+    "coverage": "answer-model sufficiency check with expansion"
+  }
+}

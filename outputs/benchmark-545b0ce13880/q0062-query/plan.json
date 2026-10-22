@@ -1,0 +1,15 @@
+{
+  "scope": "all_matching",
+  "requirements": [
+    {
+      "entity": "Melanie",
+      "property": "attended_music_show",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Melanie",
+      "property": "concert_artist",
+      "search": "standalone evidence search"
+    }
+  ]
+}

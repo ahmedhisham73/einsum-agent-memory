@@ -1,0 +1,223 @@
+Run: offline-memory-9ba7db9d4271
+Conversation: conv-48
+Sessions: 30
+Output: /Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/offline-memory-9ba7db9d4271
+Partitioning session 1/30
+Partitioning session 2/30
+Partitioning session 3/30
+Partitioning session 4/30
+Partitioning session 5/30
+Partitioning session 6/30
+Partitioning session 7/30
+Partitioning session 8/30
+Partitioning session 9/30
+Partitioning session 10/30
+Partitioning session 11/30
+Partitioning session 12/30
+Partitioning session 13/30
+Partitioning session 14/30
+Partitioning session 15/30
+Partitioning session 16/30
+Partitioning session 17/30
+Partitioning session 18/30
+Partitioning session 19/30
+Partitioning session 20/30
+Partitioning session 21/30
+Partitioning session 22/30
+Partitioning session 23/30
+Partitioning session 24/30
+Partitioning session 25/30
+Partitioning session 26/30
+Partitioning session 27/30
+Partitioning session 28/30
+Partitioning session 29/30
+Partitioning session 30/30
+Extracting episode 1/137
+Extracting episode 2/137
+Extracting episode 3/137
+Extracting episode 4/137
+Extracting episode 5/137
+Extracting episode 6/137
+Extracting episode 7/137
+Extracting episode 8/137
+Extracting episode 9/137
+
+Status: incomplete
+Episodes: 137
+Records: 41
+Artifacts: /Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/offline-memory-9ba7db9d4271
+{
+  "experiment_id": "offline-memory-9ba7db9d4271",
+  "recorded_calls": 39,
+  "groups": [
+    {
+      "approach": "ensimem",
+      "phase": "build",
+      "stage": "entity_property_extraction",
+      "usage_kind": "generation",
+      "provider": "openai",
+      "model": "gpt-4.1-mini",
+      "calls": 1,
+      "retry_calls": 0,
+      "missing_usage_calls": 1,
+      "reported_input_tokens": 0,
+      "reported_output_tokens": 0,
+      "total_tokens": null,
+      "cached_input_tokens": null,
+      "usage_complete": false
+    },
+    {
+      "approach": "ensimem",
+      "phase": "build",
+      "stage": "entity_property_extraction",
+      "usage_kind": "generation",
+      "provider": "openai",
+      "model": "gpt-4.1-mini-2025-04-14",
+      "calls": 8,
+      "retry_calls": 0,
+      "missing_usage_calls": 0,
+      "reported_input_tokens": 5977,
+      "reported_output_tokens": 3183,
+      "total_tokens": 9160,
+      "cached_input_tokens": 0,
+      "usage_complete": true
+    },
+    {
+      "approach": "ensimem",
+      "phase": "build",
+      "stage": "episode_partitioning",
+      "usage_kind": "generation",
+      "provider": "openai",
+      "model": "gpt-4.1-mini-2025-04-14",
+      "calls": 30,
+      "retry_calls": 0,
+      "missing_usage_calls": 0,
+      "reported_input_tokens": 50842,
+      "reported_output_tokens": 6273,
+      "total_tokens": 57115,
+      "cached_input_tokens": 0,
+      "usage_complete": true
+    }
+  ]
+}
+Traceback (most recent call last):
+  File "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/scripts/build_offline_memory.py", line 310, in <module>
+    main()
+  File "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/scripts/build_offline_memory.py", line 272, in main
+    parsed = ask(
+  File "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/scripts/build_offline_memory.py", line 173, in ask
+    result = complete_chat(
+  File "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/services/llm-gateway/app/providers/openai_compatible.py", line 166, in complete_chat
+    raise RuntimeError(
+RuntimeError: LLM request failed; call_id=2631f2e9-ce2b-4a9f-bfee-479be1b36f6a. Usage is unknown.
+Backup: /Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/offline-memory-9ba7db9d4271-backup-218bae9a
+Reusing saved response 1/137
+Reusing saved response 2/137
+Reusing saved response 3/137
+Reusing saved response 4/137
+Reusing saved response 5/137
+Reusing saved response 6/137
+Reusing saved response 7/137
+Reusing saved response 8/137
+API extraction 9/137: conv-48::session_2::episode-004
+API extraction 10/137: conv-48::session_2::episode-005
+API extraction 11/137: conv-48::session_2::episode-006
+API extraction 12/137: conv-48::session_3::episode-001
+API extraction 13/137: conv-48::session_3::episode-002
+API extraction 14/137: conv-48::session_3::episode-003
+API extraction 15/137: conv-48::session_3::episode-004
+API extraction 16/137: conv-48::session_4::episode-001
+API extraction 17/137: conv-48::session_4::episode-002
+API extraction 18/137: conv-48::session_4::episode-003
+API extraction 19/137: conv-48::session_4::episode-004
+API extraction 20/137: conv-48::session_4::episode-005
+API extraction 21/137: conv-48::session_4::episode-006
+API extraction 22/137: conv-48::session_4::episode-007
+API extraction 23/137: conv-48::session_5::episode-001
+API extraction 24/137: conv-48::session_5::episode-002
+API extraction 25/137: conv-48::session_5::episode-003
+API extraction 26/137: conv-48::session_6::episode-001
+API extraction 27/137: conv-48::session_6::episode-002
+API extraction 28/137: conv-48::session_6::episode-003
+API extraction 29/137: conv-48::session_6::episode-004
+API extraction 30/137: conv-48::session_7::episode-001
+API extraction 31/137: conv-48::session_7::episode-002
+API extraction 32/137: conv-48::session_7::episode-003
+API extraction 33/137: conv-48::session_7::episode-004
+API extraction 34/137: conv-48::session_7::episode-005
+API extraction 35/137: conv-48::session_7::episode-006
+API extraction 36/137: conv-48::session_8::episode-001
+API extraction 37/137: conv-48::session_8::episode-002
+API extraction 38/137: conv-48::session_8::episode-003
+API extraction 39/137: conv-48::session_8::episode-004
+
+Status: incomplete
+Extracted episodes: 38 / 137
+Records: 196
+Type normalizations: 0
+{
+  "experiment_id": "offline-memory-9ba7db9d4271",
+  "recorded_calls": 70,
+  "groups": [
+    {
+      "approach": "ensimem",
+      "phase": "build",
+      "stage": "entity_property_extraction",
+      "usage_kind": "generation",
+      "provider": "openai",
+      "model": "gpt-4.1-mini",
+      "calls": 1,
+      "retry_calls": 0,
+      "missing_usage_calls": 1,
+      "reported_input_tokens": 0,
+      "reported_output_tokens": 0,
+      "total_tokens": null,
+      "cached_input_tokens": null,
+      "usage_complete": false
+    },
+    {
+      "approach": "ensimem",
+      "phase": "build",
+      "stage": "entity_property_extraction",
+      "usage_kind": "generation",
+      "provider": "openai",
+      "model": "gpt-4.1-mini-2025-04-14",
+      "calls": 39,
+      "retry_calls": 0,
+      "missing_usage_calls": 0,
+      "reported_input_tokens": 29715,
+      "reported_output_tokens": 16190,
+      "total_tokens": 45905,
+      "cached_input_tokens": 0,
+      "usage_complete": true
+    },
+    {
+      "approach": "ensimem",
+      "phase": "build",
+      "stage": "episode_partitioning",
+      "usage_kind": "generation",
+      "provider": "openai",
+      "model": "gpt-4.1-mini-2025-04-14",
+      "calls": 30,
+      "retry_calls": 0,
+      "missing_usage_calls": 0,
+      "reported_input_tokens": 50842,
+      "reported_output_tokens": 6273,
+      "total_tokens": 57115,
+      "cached_input_tokens": 0,
+      "usage_complete": true
+    }
+  ]
+}
+Traceback (most recent call last):
+  File "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/scripts/resume_offline_memory.py", line 235, in <module>
+    main()
+  File "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/scripts/resume_offline_memory.py", line 185, in main
+    parsed = json.loads(choice["message"]["content"])
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)

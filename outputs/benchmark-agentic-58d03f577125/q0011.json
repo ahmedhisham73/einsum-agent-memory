@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0011",
+  "category": 2,
+  "question": "How long has Caroline had her current group of friends for?",
+  "gold_answer": "4 years",
+  "status": "scored",
+  "generated_answer": "Caroline has had her current group of supportive friends for at least since last year, as she mentions having a blast with them at the Pride festival last year and continues to express close friendship and support with Melanie in recent conversations.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_12::chunk-0010",
+      "turn_id": "D12:15"
+    }
+  ],
+  "query_elapsed_seconds": 7.655036916999999,
+  "label": "WRONG",
+  "judge_reason": "The generated answer implies that Caroline's group of friends has existed for less than a year, contradicting the reference answer of 4 years."
+}

@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-26::q0141",
+  "category": 4,
+  "question": "What did the posters at the poetry reading say?",
+  "gold_answer": "\"Trans Lives Matter\"",
+  "status": "failed",
+  "error": "Query failed. See q0141.log"
+}

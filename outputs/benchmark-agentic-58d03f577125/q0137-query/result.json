@@ -1,0 +1,35 @@
+{
+  "status": "completed",
+  "experiment_id": "q0137-query",
+  "memory_build": "offline-memory-a5e48166f56e",
+  "baseline_build": "agentic-build-300877917378",
+  "question": "What does Melanie do to keep herself busy during her pottery break?",
+  "answer": "Melanie keeps herself busy during her pottery break by signing up for pottery classes, which she finds therapeutic and allows her to express herself creatively. She also involves her kids in pottery workshops, and they enjoy making their own pots together. Besides pottery, Melanie and her kids do painting projects, especially nature-inspired artwork. This combination of creative activities helps Melanie express emotions, feel calm, and stay engaged.",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-26::session_5::chunk-0000",
+      "turn_id": "D5:4"
+    },
+    {
+      "episode_id": "conv-26::session_8::chunk-0000",
+      "turn_id": "D8:2"
+    },
+    {
+      "episode_id": "conv-26::session_8::chunk-0000",
+      "turn_id": "D8:6"
+    }
+  ],
+  "elapsed_seconds": 6.471556792,
+  "stop_reason": "agent_ready",
+  "search_count": 1,
+  "selected_chunks": 6,
+  "unique_source_turns": 35,
+  "implementation": {
+    "chunk_turns": 6,
+    "overlap_turns": 1,
+    "top_k_per_search": 6,
+    "max_searches": 4,
+    "max_agent_decisions": 5
+  }
+}

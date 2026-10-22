@@ -1,0 +1,21 @@
+{
+  "question_id": "conv-26::q0145",
+  "category": 4,
+  "question": "How did Melanie's son handle the accident?",
+  "gold_answer": "He was scared but reassured by his family",
+  "status": "scored",
+  "generated_answer": "Melanie's son was okay after the accident, which was a scary experience. Melanie said her other kids were scared but she reassured them and explained their brother would be okay. She described her children as tough and resilient, giving her strength to keep going.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_18::chunk-0000",
+      "turn_id": "D18:1"
+    },
+    {
+      "episode_id": "conv-26::session_18::chunk-0005",
+      "turn_id": "D18:7"
+    }
+  ],
+  "query_elapsed_seconds": 4.2029215419999995,
+  "label": "WRONG",
+  "judge_reason": "The generated answer introduces unsupported additions about Melanie's other kids and fails to directly address how Melanie's son specifically handled the accident, focusing instead on a general description."
+}

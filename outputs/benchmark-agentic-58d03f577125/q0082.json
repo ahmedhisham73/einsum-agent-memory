@@ -1,0 +1,21 @@
+{
+  "question_id": "conv-26::q0082",
+  "category": 3,
+  "question": "Would Caroline want to move back to her home country soon?",
+  "gold_answer": "No; she's in the process of adopting children.",
+  "status": "scored",
+  "generated_answer": "There is no indication that Caroline wants to move back to her home country soon. Instead, her focus is on adoption and building a family where she currently is.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_19::chunk-0000",
+      "turn_id": "D19:1"
+    },
+    {
+      "episode_id": "conv-26::session_19::chunk-0000",
+      "turn_id": "D19:3"
+    }
+  ],
+  "query_elapsed_seconds": 5.528822291999999,
+  "label": "CORRECT",
+  "judge_reason": "Both answers indicate that Caroline does not want to move back to her home country soon due to her focus on adoption."
+}

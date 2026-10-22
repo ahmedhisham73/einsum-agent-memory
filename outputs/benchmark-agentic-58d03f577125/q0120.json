@@ -1,0 +1,25 @@
+{
+  "question_id": "conv-26::q0120",
+  "category": 4,
+  "question": "How did Melanie feel while watching the meteor shower?",
+  "gold_answer": "in awe of the universe",
+  "status": "scored",
+  "generated_answer": "Melanie felt amazed, tiny, and in awe of the universe while watching the meteor shower. She described it as an amazing experience where the sky lit up with streaks of light, making her feel like part of something huge and awe-inspiring, reminding her how awesome life is.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_10::chunk-0010",
+      "turn_id": "D10:14"
+    },
+    {
+      "episode_id": "conv-26::session_10::chunk-0010",
+      "turn_id": "D10:16"
+    },
+    {
+      "episode_id": "conv-26::session_10::chunk-0015",
+      "turn_id": "D10:18"
+    }
+  ],
+  "query_elapsed_seconds": 5.3003958749999995,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer captures the essence of Melanie's feelings, including being in awe of the universe, and elaborates on her emotional response while watching the meteor shower."
+}

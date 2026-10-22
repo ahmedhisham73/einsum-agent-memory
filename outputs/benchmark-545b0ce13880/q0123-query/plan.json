@@ -1,0 +1,10 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Melanie",
+      "property": "art_creation_reason",
+      "search": "reason Melanie chose colors and patterns in pottery project"
+    }
+  ]
+}

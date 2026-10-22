@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "c8bbb700-9145-4b30-b36d-a7846a88e650",
+    "response": {
+      "id": "chatcmpl-EZjmAGZZDX1qRXbPtYCmyXnc88yph",
+      "object": "chat.completion",
+      "created": 1792186150,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Melanie\",\"property\":\"associates_flowers_with\",\"search\":\"Why does Melanie consider flowers important?\"},{\"entity\":\"Melanie\",\"property\":\"used_flowers_for\",\"search\":\"Uses or purposes of flowers by Melanie\"},{\"entity\":\"Melanie\",\"property\":\"emotional_connection_to_art\",\"search\":\"Emotional or symbolic meaning of flowers to Melanie\"},{\"entity\":\"Melanie\",\"property\":\"feels_joy_from\",\"search\":\"Does Melanie feel joy from flowers?\"},{\"entity\":\"Melanie\",\"property\":\"value\",\"search\":\"Values Melanie associates with flowers\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2678,
+        "completion_tokens": 120,
+        "total_tokens": 2798,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_63cd5d8510"
+    },
+    "latency_seconds": 2.589388042
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "9a668b2d-b3ce-4d3a-8342-bfbb0254a545",
+    "response": {
+      "id": "chatcmpl-EZjmEEgdqnfqLwE1IImDA8nlHkPJd",
+      "object": "chat.completion",
+      "created": 1792186154,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Flowers are important to Melanie because they bring her joy and represent growth, beauty, and a reminder to appreciate the small moments in life. They hold emotional significance as they were an important part of her wedding decor and remind her of that special day filled with love and joy.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_8::episode-002\",\"turn_id\":\"D8:12\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 7478,
+        "completion_tokens": 90,
+        "total_tokens": 7568,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_38f508f26a"
+    },
+    "latency_seconds": 2.7068461249999993
+  }
+]

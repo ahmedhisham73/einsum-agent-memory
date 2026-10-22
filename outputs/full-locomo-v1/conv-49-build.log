@@ -1,0 +1,70 @@
+Run: offline-memory-a79f02b72066
+Conversation: conv-49
+Sessions: 25
+Output: /Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/offline-memory-a79f02b72066
+Partitioning session 1/25
+Partitioning session 2/25
+Partitioning session 3/25
+Partitioning session 4/25
+Partitioning session 5/25
+Partitioning session 6/25
+Partitioning session 7/25
+Partitioning session 8/25
+Partitioning session 9/25
+Partitioning session 10/25
+Partitioning session 11/25
+Partitioning session 12/25
+Partitioning session 13/25
+Partitioning session 14/25
+Partitioning session 15/25
+Partitioning session 16/25
+Partitioning session 17/25
+Partitioning session 18/25
+Partitioning session 19/25
+Partitioning session 20/25
+Partitioning session 21/25
+Partitioning session 22/25
+Partitioning session 23/25
+Partitioning session 24/25
+Partitioning session 25/25
+
+Status: incomplete
+Episodes: 95
+Records: 0
+Artifacts: /Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/offline-memory-a79f02b72066
+{
+  "experiment_id": "offline-memory-a79f02b72066",
+  "recorded_calls": 25,
+  "groups": [
+    {
+      "approach": "ensimem",
+      "phase": "build",
+      "stage": "episode_partitioning",
+      "usage_kind": "generation",
+      "provider": "openai",
+      "model": "gpt-4.1-mini-2025-04-14",
+      "calls": 25,
+      "retry_calls": 0,
+      "missing_usage_calls": 0,
+      "reported_input_tokens": 40338,
+      "reported_output_tokens": 4479,
+      "total_tokens": 44817,
+      "cached_input_tokens": 0,
+      "usage_complete": true
+    }
+  ]
+}
+Traceback (most recent call last):
+  File "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/scripts/build_offline_memory.py", line 310, in <module>
+    main()
+  File "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/scripts/build_offline_memory.py", line 226, in main
+    parsed = ask(
+  File "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/scripts/build_offline_memory.py", line 204, in ask
+    parsed = json.loads(choice["message"]["content"])
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)

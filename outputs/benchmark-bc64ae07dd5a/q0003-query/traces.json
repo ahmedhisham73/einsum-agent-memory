@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "c6b9a36d-c776-44e3-9d57-ffcbfb539725",
+    "response": {
+      "id": "chatcmpl-EZiGL3CzFwImupWP1jTpygDuo7yDP",
+      "object": "chat.completion",
+      "created": 1792180333,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Caroline\",\"property\":\"career_interest\",\"search\":\"Caroline's interests in fields of study or career.\"},{\"entity\":\"Caroline\",\"property\":\"interest_in_field\",\"search\":\"Specific academic or professional fields Caroline has shown interest in.\"},{\"entity\":\"Caroline\",\"property\":\"career_goal_interest\",\"search\":\"Career goals or educational goals Caroline aims to pursue.\"},{\"entity\":\"Caroline\",\"property\":\"plans\",\"search\":\"Future educational or career plans Caroline has expressed.\"},{\"entity\":\"Caroline\",\"property\":\"activity_goal\",\"search\":\"Goals related to activities that might reflect educational interests.\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2684,
+        "completion_tokens": 126,
+        "total_tokens": 2810,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_5002831302"
+    },
+    "latency_seconds": 2.508758792
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "3599f85b-f9f4-40b6-9183-b51f2162ae98",
+    "response": {
+      "id": "chatcmpl-EZiGOkVeZnMQqkyBlWtcnocMTe7XU",
+      "object": "chat.completion",
+      "created": 1792180336,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Caroline is likely to pursue fields in counseling and mental health education. She has expressed a strong interest in working in counseling or mental health careers, particularly supporting transgender people and the LGBTQ+ community, driven by her personal experiences and passion for helping others with similar struggles. She is exploring career options related to mental health services, advocacy, and creating supportive environments. Additionally, she is engaged in community mentorship and advocacy activities that complement her educational and career goals.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_1::episode-003\",\"turn_id\":\"D1:11\"},{\"episode_id\":\"conv-26::session_4::episode-003\",\"turn_id\":\"D4:11\"},{\"episode_id\":\"conv-26::session_4::episode-003\",\"turn_id\":\"D4:13\"},{\"episode_id\":\"conv-26::session_5::episode-001\",\"turn_id\":\"D5:3\"},{\"episode_id\":\"conv-26::session_6::episode-001\",\"turn_id\":\"D6:3\"},{\"episode_id\":\"conv-26::session_7::episode-001\",\"turn_id\":\"D7:1\"},{\"episode_id\":\"conv-26::session_7::episode-001\",\"turn_id\":\"D7:5\"},{\"episode_id\":\"conv-26::session_7::episode-001\",\"turn_id\":\"D7:7\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 5842,
+        "completion_tokens": 287,
+        "total_tokens": 6129,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_38f508f26a"
+    },
+    "latency_seconds": 3.1949777920000004
+  }
+]

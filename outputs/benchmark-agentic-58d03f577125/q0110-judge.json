@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-EZqaEfmz9bPqx7V36UbX5X5rD1HhZ",
+  "object": "chat.completion",
+  "created": 1792212318,
+  "model": "gpt-4o-mini-2024-07-18",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\"label\":\"CORRECT\",\"reason\":\"The generated answer correctly states that Mel and her kids made pots, and it provides additional details about the kids' creations, which does not contradict the reference.\"}",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 164,
+    "completion_tokens": 40,
+    "total_tokens": 204,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_6548d98151"
+}

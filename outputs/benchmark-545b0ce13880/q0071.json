@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-26::q0071",
+  "category": 1,
+  "question": "What transgender-specific events has Caroline attended?",
+  "gold_answer": "Poetry reading, conference",
+  "status": "failed",
+  "error": "Query failed. See q0071.log"
+}

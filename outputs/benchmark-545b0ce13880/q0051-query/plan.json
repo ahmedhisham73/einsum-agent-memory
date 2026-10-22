@@ -1,0 +1,10 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Caroline",
+      "property": "political_leaning",
+      "search": "search for statements or indicators of Caroline's political views, affiliations, activism, or expressed opinions"
+    }
+  ]
+}

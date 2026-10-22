@@ -1,0 +1,322 @@
+[
+  {
+    "episode_id": "conv-26::session_11::chunk-0010",
+    "session_id": "session_11",
+    "observed_at": "2023-08-14T14:24:00",
+    "source_timestamp": "2:24 pm on 14 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D11:11",
+        "speaker": "Melanie",
+        "text": "Your art's amazing, Caroline. I love how you use it to tell your stories and teach people about trans folks. I'd love to see another painting of yours!",
+        "metadata": {
+          "blip_caption": "a photo of a person holding a purple bowl in their hand"
+        }
+      },
+      {
+        "turn_id": "D11:12",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie. Here's one- 'Embracing Identity' is all about finding comfort and love in being yourself. The woman in the painting stands for the journey of acceptance. My aim was to show warmth, love and self-acceptance.",
+        "metadata": {
+          "img_url": [
+            "https://media.artsper.com/artwork/2013795_1_l.jpg"
+          ],
+          "blip_caption": "a photo of a painting of a woman with a red shirt",
+          "query": "painting embracing identity purple blue"
+        }
+      },
+      {
+        "turn_id": "D11:13",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, that's gorgeous! I love the self-acceptance and love theme. How does art help you with your self-discovery and acceptance journey?",
+        "metadata": {
+          "blip_caption": "a photo of a woman is making a vase on a wheel"
+        }
+      },
+      {
+        "turn_id": "D11:14",
+        "speaker": "Caroline",
+        "text": "Art's allowed me to explore my transition and my changing body. It's been a great way to work through stuff I'm going through. I love that it teaches me to accept the beauty of imperfections.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:15",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, that's so cool! Art can be so healing and a way to really connect with who you are. It's awesome that beauty can be found in the imperfections. We're all individual and wonderfully imperfect. Thanks for sharing it with me!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:16",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie. It means a lot to share this with you.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_12::chunk-0005",
+    "session_id": "session_12",
+    "observed_at": "2023-08-17T13:50:00",
+    "source_timestamp": "1:50 pm on 17 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D12:6",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! I'm obsessed with those, so I made something to catch the eye and make people smile. Plus, painting helps me express my feelings and be creative. Each stroke carries a part of me.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:7",
+        "speaker": "Caroline",
+        "text": "That's amazing! You put so much effort and passion into it. Your creativity really shines. Seeing how art can be a source of self-expression and growth is truly inspiring. You're killing it!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:8",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! Your words really mean a lot. I've always felt a strong connection to art, and it's been a huge learning experience. It's both a sanctuary and a source of comfort. I'm so glad to have something that brings me so much happiness and fulfillment.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:9",
+        "speaker": "Caroline",
+        "text": "Glad you found something that makes you so happy! Surrounding ourselves with things that bring us joy is important. Life's too short to do anything else!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:10",
+        "speaker": "Melanie",
+        "text": "Agreed, Caroline. Life's tough but it's worth it when we have things that make us happy.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:11",
+        "speaker": "Caroline",
+        "text": "Definitely, Mel! Finding those happy moments and clinging to them is key. It's what keeps us going, even when life's hard. I'm lucky to have people like you to remind me.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_14::chunk-0020",
+    "session_id": "session_14",
+    "observed_at": "2023-08-25T13:33:00",
+    "source_timestamp": "1:33 pm on 25 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D14:21",
+        "speaker": "Caroline",
+        "text": "Thanks, Mel! Glad you like it. It's a symbol of togetherness, to celebrate differences and be that much closer. I'd love to make something like this next!",
+        "metadata": {
+          "img_url": [
+            "https://i0.wp.com/marbleheadcurrent.org/wp-content/uploads/2023/07/rainbow.jpg"
+          ],
+          "blip_caption": "a photo of a painted sidewalk with a rainbow design on it",
+          "query": "painting rainbow flag unity acceptance"
+        }
+      },
+      {
+        "turn_id": "D14:22",
+        "speaker": "Melanie",
+        "text": "Wow, that's gorgeous! Where did you find it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:23",
+        "speaker": "Caroline",
+        "text": "I was out walking in my neighborhood when I came across this cool rainbow sidewalk for Pride Month. It was so vibrant and welcoming, I had to take a picture! It reminds us that love and acceptance are everywhere—even where we least expect it.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:24",
+        "speaker": "Melanie",
+        "text": "That's so nice, Caroline! Art can be in the most unlikely places. Love and acceptance really can be found everywhere.",
+        "metadata": {
+          "blip_caption": "a photo of a person drawing a flower on the ground"
+        }
+      },
+      {
+        "turn_id": "D14:25",
+        "speaker": "Caroline",
+        "text": "Agreed, Mel! Art can be a real mood-booster - I saw someone drawing on the ground the other day and it made me so happy. Creativity sure can lighten someone's day.",
+        "metadata": {
+          "img_url": [
+            "https://static.skillshare.com/uploads/project/281358/cover_full_592aef91cce2432e71c739804161e0fb.jpg"
+          ],
+          "blip_caption": "a photo of a painting of flowers and a watercolor palette",
+          "query": "drawing flower ground colored chalk simple act creativity"
+        }
+      },
+      {
+        "turn_id": "D14:26",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, that's so nice! The colors are so bright and the flowers are so pretty. Art is such a source of joy.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_14::chunk-0025",
+    "session_id": "session_14",
+    "observed_at": "2023-08-25T13:33:00",
+    "source_timestamp": "1:33 pm on 25 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D14:27",
+        "speaker": "Caroline",
+        "text": "Thanks, Mel! Art gives me so much joy. It helps me show my feelings and freeze gorgeous moments, like a bouquet of flowers. ",
+        "metadata": {
+          "img_url": [
+            "https://i.pinimg.com/originals/3d/e3/b8/3de3b8a013be3eec63cc454cb0c63536.jpg"
+          ],
+          "blip_caption": "a photo of a drawing of a bunch of flowers on a table",
+          "query": "bouquet wildflowers art"
+        }
+      },
+      {
+        "turn_id": "D14:28",
+        "speaker": "Melanie",
+        "text": "Wow, did you make that? It looks so real!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:29",
+        "speaker": "Caroline",
+        "text": "Yeah, definitely! Drawing flowers is one of my faves. Appreciating nature and sharing it is great. What about you, Mel? What type of art do you love?",
+        "metadata": {
+          "blip_caption": "a photo of a drawing of a flower bouquet with a person holding it"
+        }
+      },
+      {
+        "turn_id": "D14:30",
+        "speaker": "Melanie",
+        "text": "Painting landscapes and still life is my favorite! Nature's amazing, here's a painting I did recently.",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/k9wcp85ledi91.jpg"
+          ],
+          "blip_caption": "a photo of a painting of a sunflower on a canvas",
+          "query": "painting field sunflowers"
+        }
+      },
+      {
+        "turn_id": "D14:31",
+        "speaker": "Caroline",
+        "text": "Wow, Mel! Any more paintings coming up?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_16::chunk-0010",
+    "session_id": "session_16",
+    "observed_at": "2023-09-13T00:09:00",
+    "source_timestamp": "12:09 am on 13 September, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D16:11",
+        "speaker": "Caroline",
+        "text": "I haven't done pottery yet, but I'm game for trying new art. I might try it sometime! Check out this piece I made!",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/z8zsh53ycfvb1.jpg"
+          ],
+          "blip_caption": "a photo of a painting on a easel with a red and blue background",
+          "query": "canvas colourful brush strokes"
+        }
+      },
+      {
+        "turn_id": "D16:12",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! This painting is awesome. Love the red and blue. What gave you the idea?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:13",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! I made this painting to show my path as a trans woman. The red and blue are for the binary gender system, and the mix of colors means smashing that rigid thinking. It's a reminder to love my authentic self - it's taken a while to get here but I'm finally proud of who I am.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:14",
+        "speaker": "Melanie",
+        "text": "Wow, Caro, that painting is amazing! You've made so much progress. I'm super proud of you for being your true self. What effect has the journey had on your relationships?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:15",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie. It's definitely changed them. Some close friends kept supporting me, but a few weren't able to handle it. It wasn't easy, but I'm much happier being around those who accept and love me. Now my relationships feel more genuine.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:16",
+        "speaker": "Melanie",
+        "text": "Caroline, it's got to be tough dealing with those changes. Glad you've found people who uplift and accept you! Here's to a good time at the café last weekend - they even had thoughtful signs like this! It brings me so much happiness.",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/epuj1xq8eaga1.jpg"
+          ],
+          "blip_caption": "a photo of a sign posted on a door stating that someone is not being able to leave",
+          "query": "me kids park joy love happiness"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_17::chunk-0020",
+    "session_id": "session_17",
+    "observed_at": "2023-10-13T10:31:00",
+    "source_timestamp": "10:31 am on 13 October, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D17:21",
+        "speaker": "Caroline",
+        "text": "The room was electric with energy and support! The posters were amazing, so much pride and strength! It inspired me to make some art.",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/50qvgfuva33b1.jpg"
+          ],
+          "blip_caption": "a photo of a drawing of a woman in a dress",
+          "query": "transgender flag drawing"
+        }
+      },
+      {
+        "turn_id": "D17:22",
+        "speaker": "Melanie",
+        "text": "That's awesome, Caroline! You drew it? What does it mean to you?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:23",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! Yeah, I drew it. It stands for freedom and being real. It's like a nudge to always stay true to myself and embrace my womanhood.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:24",
+        "speaker": "Melanie",
+        "text": "I love it. Showing off our true selves is the best thing ever.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:25",
+        "speaker": "Caroline",
+        "text": "Yep, Melanie! Being ourselves is such a great feeling. It's an ongoing adventure of learning and growing.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D17:26",
+        "speaker": "Melanie",
+        "text": "Yep, Caroline. Life's about learning and exploring. Glad we can be on this trip together.",
+        "metadata": {}
+      }
+    ]
+  }
+]

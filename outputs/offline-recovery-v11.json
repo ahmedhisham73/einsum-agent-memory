@@ -1,0 +1,50 @@
+{
+  "conv-26": {
+    "status": "completed",
+    "memory": "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/offline-memory-a5e48166f56e",
+    "reused_completed_build": true
+  },
+  "conv-30": {
+    "status": "completed",
+    "memory": "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/offline-memory-48c46fbef6ca"
+  },
+  "conv-41": {
+    "status": "incomplete",
+    "memory": "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/offline-memory-622a0d5cec62",
+    "error": "LLM request failed; call_id=aa90af27-f42f-4c17-84e1-5f6a586eca16; kind=URLError; <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  "conv-42": {
+    "status": "incomplete",
+    "memory": "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/offline-memory-56eff758b0c3",
+    "error": "LLM request failed; call_id=be493ca4-d7bc-4e12-abc1-2169a4f4c771; kind=URLError; <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  "conv-43": {
+    "status": "incomplete",
+    "memory": "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/offline-memory-4950e293ffa6",
+    "error": "LLM request failed; call_id=c4975870-0751-4117-8ae2-1adb04d950d7; kind=URLError; <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  "conv-44": {
+    "status": "incomplete",
+    "memory": "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/offline-memory-9ab549c0bde9",
+    "error": "LLM request failed; call_id=70576a78-c48a-4014-97ab-bd0e27135dc8; kind=URLError; <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  "conv-47": {
+    "status": "incomplete",
+    "memory": "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/offline-memory-a5b1a2193782",
+    "error": "value must be a string"
+  },
+  "conv-48": {
+    "status": "incomplete",
+    "memory": "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/offline-memory-9ba7db9d4271",
+    "error": "Unsupported entity_type"
+  },
+  "conv-49": {
+    "status": "incomplete",
+    "memory": "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/offline-memory-a79f02b72066",
+    "error": "value must be a string"
+  },
+  "conv-50": {
+    "status": "completed",
+    "memory": "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/offline-memory-e8a61e4468c9"
+  }
+}

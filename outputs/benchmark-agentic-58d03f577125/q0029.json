@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0029",
+  "category": 2,
+  "question": "When did Caroline go to the adoption meeting?",
+  "gold_answer": "The friday before 15 July 2023",
+  "status": "scored",
+  "generated_answer": "Caroline went to the adoption meeting and passed the adoption agency interviews on Friday, 20 October 2023.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_19::chunk-0000",
+      "turn_id": "D19:1"
+    }
+  ],
+  "query_elapsed_seconds": 7.822532208999999,
+  "label": "WRONG",
+  "judge_reason": "The generated answer states a different date (20 October 2023) for the adoption meeting, which contradicts the reference answer."
+}

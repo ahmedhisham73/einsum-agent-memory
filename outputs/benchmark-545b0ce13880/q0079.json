@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-26::q0079",
+  "category": 1,
+  "question": "What items has Melanie bought?",
+  "gold_answer": "Figurines, shoes",
+  "status": "failed",
+  "error": "Query failed. See q0079.log"
+}

@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-26::q0109",
+  "category": 4,
+  "question": "What does Melanie say running has been great for?",
+  "gold_answer": "Her mental health",
+  "status": "failed",
+  "error": "Query failed. See q0109.log"
+}

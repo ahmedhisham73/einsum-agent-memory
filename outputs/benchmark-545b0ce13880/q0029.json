@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0029",
+  "category": 2,
+  "question": "When did Caroline go to the adoption meeting?",
+  "gold_answer": "The friday before 15 July 2023",
+  "status": "scored",
+  "generated_answer": "Caroline went to the adoption meeting last Friday before 1:51 pm on 15 July, 2023.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_8::episode-002",
+      "turn_id": "D8:9"
+    }
+  ],
+  "query_elapsed_seconds": 4.1695815,
+  "label": "WRONG",
+  "judge_reason": "The generated answer incorrectly specifies a time (1:51 pm) and does not match the date format used in the reference answer."
+}

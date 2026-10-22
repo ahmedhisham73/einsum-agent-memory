@@ -1,0 +1,10 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Caroline",
+      "property": "action",
+      "search": "Caroline meeting up with friends, family, and mentors"
+    }
+  ]
+}

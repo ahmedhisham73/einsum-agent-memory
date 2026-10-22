@@ -1,0 +1,229 @@
+Run: offline-memory-9ab549c0bde9
+Conversation: conv-44
+Sessions: 28
+Output: /Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/offline-memory-9ab549c0bde9
+Partitioning session 1/28
+Partitioning session 2/28
+Partitioning session 3/28
+Partitioning session 4/28
+Partitioning session 5/28
+Partitioning session 6/28
+Partitioning session 7/28
+Partitioning session 8/28
+Partitioning session 9/28
+Partitioning session 10/28
+Partitioning session 11/28
+Partitioning session 12/28
+Partitioning session 13/28
+Partitioning session 14/28
+Partitioning session 15/28
+Partitioning session 16/28
+Partitioning session 17/28
+Partitioning session 18/28
+Partitioning session 19/28
+Partitioning session 20/28
+Partitioning session 21/28
+Partitioning session 22/28
+Partitioning session 23/28
+Partitioning session 24/28
+Partitioning session 25/28
+Partitioning session 26/28
+Partitioning session 27/28
+Partitioning session 28/28
+Extracting episode 1/118
+Extracting episode 2/118
+Extracting episode 3/118
+Extracting episode 4/118
+Extracting episode 5/118
+Extracting episode 6/118
+Extracting episode 7/118
+Extracting episode 8/118
+Extracting episode 9/118
+Extracting episode 10/118
+Extracting episode 11/118
+Extracting episode 12/118
+Extracting episode 13/118
+Extracting episode 14/118
+Extracting episode 15/118
+Extracting episode 16/118
+Extracting episode 17/118
+Extracting episode 18/118
+Extracting episode 19/118
+Extracting episode 20/118
+Extracting episode 21/118
+Extracting episode 22/118
+Extracting episode 23/118
+Extracting episode 24/118
+Extracting episode 25/118
+Extracting episode 26/118
+Extracting episode 27/118
+Extracting episode 28/118
+Extracting episode 29/118
+
+Status: incomplete
+Episodes: 118
+Records: 167
+Artifacts: /Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/offline-memory-9ab549c0bde9
+{
+  "experiment_id": "offline-memory-9ab549c0bde9",
+  "recorded_calls": 57,
+  "groups": [
+    {
+      "approach": "ensimem",
+      "phase": "build",
+      "stage": "entity_property_extraction",
+      "usage_kind": "generation",
+      "provider": "openai",
+      "model": "gpt-4.1-mini",
+      "calls": 1,
+      "retry_calls": 0,
+      "missing_usage_calls": 1,
+      "reported_input_tokens": 0,
+      "reported_output_tokens": 0,
+      "total_tokens": null,
+      "cached_input_tokens": null,
+      "usage_complete": false
+    },
+    {
+      "approach": "ensimem",
+      "phase": "build",
+      "stage": "entity_property_extraction",
+      "usage_kind": "generation",
+      "provider": "openai",
+      "model": "gpt-4.1-mini-2025-04-14",
+      "calls": 28,
+      "retry_calls": 0,
+      "missing_usage_calls": 0,
+      "reported_input_tokens": 23582,
+      "reported_output_tokens": 13558,
+      "total_tokens": 37140,
+      "cached_input_tokens": 0,
+      "usage_complete": true
+    },
+    {
+      "approach": "ensimem",
+      "phase": "build",
+      "stage": "episode_partitioning",
+      "usage_kind": "generation",
+      "provider": "openai",
+      "model": "gpt-4.1-mini-2025-04-14",
+      "calls": 28,
+      "retry_calls": 0,
+      "missing_usage_calls": 0,
+      "reported_input_tokens": 61085,
+      "reported_output_tokens": 5415,
+      "total_tokens": 66500,
+      "cached_input_tokens": 0,
+      "usage_complete": true
+    }
+  ]
+}
+Traceback (most recent call last):
+  File "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/scripts/build_offline_memory.py", line 310, in <module>
+    main()
+  File "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/scripts/build_offline_memory.py", line 272, in main
+    parsed = ask(
+  File "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/scripts/build_offline_memory.py", line 173, in ask
+    result = complete_chat(
+  File "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/services/llm-gateway/app/providers/openai_compatible.py", line 166, in complete_chat
+    raise RuntimeError(
+RuntimeError: LLM request failed; call_id=d843a1fc-a568-45da-b81c-96b579f8ea79. Usage is unknown.
+Backup: /Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/offline-memory-9ab549c0bde9-backup-e6a165d4
+Reusing saved response 1/118
+Reusing saved response 2/118
+Reusing saved response 3/118
+Reusing saved response 4/118
+Reusing saved response 5/118
+Reusing saved response 6/118
+Reusing saved response 7/118
+Reusing saved response 8/118
+Reusing saved response 9/118
+Reusing saved response 10/118
+Reusing saved response 11/118
+Reusing saved response 12/118
+Reusing saved response 13/118
+Reusing saved response 14/118
+Reusing saved response 15/118
+Reusing saved response 16/118
+Reusing saved response 17/118
+Reusing saved response 18/118
+Reusing saved response 19/118
+Reusing saved response 20/118
+Reusing saved response 21/118
+Reusing saved response 22/118
+Reusing saved response 23/118
+Reusing saved response 24/118
+Reusing saved response 25/118
+Reusing saved response 26/118
+Reusing saved response 27/118
+Reusing saved response 28/118
+API extraction 29/118: conv-44::session_8::episode-001
+API extraction 30/118: conv-44::session_8::episode-002
+API extraction 31/118: conv-44::session_8::episode-003
+
+Status: incomplete
+Extracted episodes: 30 / 118
+Records: 182
+Type normalizations: 0
+{
+  "experiment_id": "offline-memory-9ab549c0bde9",
+  "recorded_calls": 60,
+  "groups": [
+    {
+      "approach": "ensimem",
+      "phase": "build",
+      "stage": "entity_property_extraction",
+      "usage_kind": "generation",
+      "provider": "openai",
+      "model": "gpt-4.1-mini",
+      "calls": 1,
+      "retry_calls": 0,
+      "missing_usage_calls": 1,
+      "reported_input_tokens": 0,
+      "reported_output_tokens": 0,
+      "total_tokens": null,
+      "cached_input_tokens": null,
+      "usage_complete": false
+    },
+    {
+      "approach": "ensimem",
+      "phase": "build",
+      "stage": "entity_property_extraction",
+      "usage_kind": "generation",
+      "provider": "openai",
+      "model": "gpt-4.1-mini-2025-04-14",
+      "calls": 31,
+      "retry_calls": 0,
+      "missing_usage_calls": 0,
+      "reported_input_tokens": 26484,
+      "reported_output_tokens": 15590,
+      "total_tokens": 42074,
+      "cached_input_tokens": 0,
+      "usage_complete": true
+    },
+    {
+      "approach": "ensimem",
+      "phase": "build",
+      "stage": "episode_partitioning",
+      "usage_kind": "generation",
+      "provider": "openai",
+      "model": "gpt-4.1-mini-2025-04-14",
+      "calls": 28,
+      "retry_calls": 0,
+      "missing_usage_calls": 0,
+      "reported_input_tokens": 61085,
+      "reported_output_tokens": 5415,
+      "total_tokens": 66500,
+      "cached_input_tokens": 0,
+      "usage_complete": true
+    }
+  ]
+}
+Traceback (most recent call last):
+  File "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/scripts/resume_offline_memory.py", line 235, in <module>
+    main()
+  File "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/scripts/resume_offline_memory.py", line 205, in main
+    extracted = validate_records(items, episode)
+  File "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/scripts/build_entity_index.py", line 47, in validate_records
+    raise ValueError("Unsupported entity_type")
+ValueError: Unsupported entity_type

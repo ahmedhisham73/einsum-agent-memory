@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0104",
+  "category": 4,
+  "question": "What was Melanie's favorite book from her childhood?",
+  "gold_answer": "\"Charlotte's Web\"",
+  "status": "scored",
+  "generated_answer": "Melanie's favorite book from her childhood was \"Charlotte's Web.\"",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_6::chunk-0005",
+      "turn_id": "D6:10"
+    }
+  ],
+  "query_elapsed_seconds": 4.394348041,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer correctly identifies \"Charlotte's Web\" as Melanie's favorite book from her childhood, matching the reference answer exactly."
+}

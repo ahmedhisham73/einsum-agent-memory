@@ -1,0 +1,21 @@
+[
+  {
+    "query": "Caroline negative experience people hike",
+    "returned_chunk_ids": [
+      "conv-26::session_16::chunk-0015",
+      "conv-26::session_18::chunk-0000",
+      "conv-26::session_18::chunk-0010",
+      "conv-26::session_18::chunk-0015",
+      "conv-26::session_4::chunk-0005",
+      "conv-26::session_8::chunk-0030"
+    ],
+    "cumulative_chunk_ids": [
+      "conv-26::session_16::chunk-0015",
+      "conv-26::session_18::chunk-0000",
+      "conv-26::session_18::chunk-0010",
+      "conv-26::session_18::chunk-0015",
+      "conv-26::session_4::chunk-0005",
+      "conv-26::session_8::chunk-0030"
+    ]
+  }
+]

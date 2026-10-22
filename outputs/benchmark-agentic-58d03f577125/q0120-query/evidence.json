@@ -1,0 +1,319 @@
+[
+  {
+    "episode_id": "conv-26::session_6::chunk-0000",
+    "session_id": "session_6",
+    "observed_at": "2023-07-06T20:18:00",
+    "source_timestamp": "8:18 pm on 6 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D6:1",
+        "speaker": "Caroline",
+        "text": "Hey Mel! Long time no talk. Lots has been going on since then!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:2",
+        "speaker": "Melanie",
+        "text": "Hey Caroline! Missed you. Anything new? Spill the beans!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:3",
+        "speaker": "Caroline",
+        "text": "Since our last chat, I've been looking into counseling or mental health work more. I'm passionate about helping people and making a positive impact. It's tough, but really rewarding too. Anything new happening with you?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:4",
+        "speaker": "Melanie",
+        "text": "That's awesome, Caroline! Congrats on following your dreams. Yesterday I took the kids to the museum - it was so cool spending time with them and seeing their eyes light up!",
+        "metadata": {
+          "img_url": [
+            "https://live.staticflickr.com/3201/2867258131_2d8bc22859_b.jpg"
+          ],
+          "blip_caption": "a photography of two children playing in a water play area",
+          "query": "kids laughing dinosaur exhibit museum",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D6:5",
+        "speaker": "Caroline",
+        "text": "Melanie, that's a great pic! That must have been awesome. What were they so stoked about?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:6",
+        "speaker": "Melanie",
+        "text": "They were stoked for the dinosaur exhibit! They love learning about animals and the bones were so cool. It reminds me why I love being a mom.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_10::chunk-0010",
+    "session_id": "session_10",
+    "observed_at": "2023-07-20T20:56:00",
+    "source_timestamp": "8:56 pm on 20 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D10:11",
+        "speaker": "Caroline",
+        "text": "Sounds special, those beach trips! Do you have any other summer traditions you all do together? Create those memories!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:12",
+        "speaker": "Melanie",
+        "text": "We always look forward to our family camping trip. We roast marshmallows, tell stories around the campfire and just enjoy each other's company. It's the highlight of our summer!",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/hjh0wp8s721a1.jpg"
+          ],
+          "blip_caption": "a photo of a fire pit with a lot of fire and sparks",
+          "query": "family camping trip campfire night"
+        }
+      },
+      {
+        "turn_id": "D10:13",
+        "speaker": "Caroline",
+        "text": "Wow, Mel, that's awesome! What's your best camping memory?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:14",
+        "speaker": "Melanie",
+        "text": "I'll always remember our camping trip last year when we saw the Perseid meteor shower. It was so amazing lying there and watching the sky light up with streaks of light. We all made wishes and felt so at one with the universe. That's a memory I'll never forget.",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/ms0tvo85cto91.jpg"
+          ],
+          "blip_caption": "a photo of a plane flying in the sky with a star filled sky",
+          "query": "shooting star night sky"
+        }
+      },
+      {
+        "turn_id": "D10:15",
+        "speaker": "Caroline",
+        "text": "Cool! What did it look like?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:16",
+        "speaker": "Melanie",
+        "text": "The sky was so clear and filled with stars, and the meteor shower was amazing - it felt like we were part of something huge and awe-inspiring.",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/eqtu6adwcrfb1.jpg"
+          ],
+          "blip_caption": "a photo of a plane flying in the sky with a trail of smoke coming out of it",
+          "query": "night sky stars meteor shower"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_10::chunk-0015",
+    "session_id": "session_10",
+    "observed_at": "2023-07-20T20:56:00",
+    "source_timestamp": "8:56 pm on 20 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D10:17",
+        "speaker": "Caroline",
+        "text": "Wow, Mel. That must've been breathtaking!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:18",
+        "speaker": "Melanie",
+        "text": "It was one of those moments where I felt tiny and in awe of the universe. Reminds me how awesome life is - so many little moments like that.",
+        "metadata": {
+          "blip_caption": "a photo of a beach with footprints in the sand and a blue sky"
+        }
+      },
+      {
+        "turn_id": "D10:19",
+        "speaker": "Caroline",
+        "text": "That's great, Mel! What other good memories do you have that make you feel thankful for life?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:20",
+        "speaker": "Melanie",
+        "text": "I'll never forget the day my youngest took her first steps. Seeing her wobble as she took those initial steps really put into perspective how fleeting life is and how lucky I am to be able to share these moments.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:21",
+        "speaker": "Caroline",
+        "text": "Aw, that's sweet, Mel! Those milestones are great reminders of how special our bonds are.",
+        "metadata": {
+          "blip_caption": "a photo of a baby in a white crib with a blue blanket"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_11::chunk-0000",
+    "session_id": "session_11",
+    "observed_at": "2023-08-14T14:24:00",
+    "source_timestamp": "2:24 pm on 14 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D11:1",
+        "speaker": "Melanie",
+        "text": "Hey Caroline! Last night was amazing! We celebrated my daughter's birthday with a concert surrounded by music, joy and the warm summer breeze. Seeing my kids' smiles was so awesome, and I'm so thankful for our special moments together.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:2",
+        "speaker": "Caroline",
+        "text": "Wow, sounds wonderful! Your love for your kids is so awesome. What concert was it? The advocacy event was a cool experience - so much love and support, amazing!",
+        "metadata": {
+          "blip_caption": "a photo of a poster for a concert with a picture of a man"
+        }
+      },
+      {
+        "turn_id": "D11:3",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! It was Matt Patterson, he is so talented! His voice and songs were amazing. What's up with you? Anything interesting going on?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:4",
+        "speaker": "Caroline",
+        "text": "Wow, Mel, glad you had a blast at the concert. A lot's happened since we talked. I went to a pride parade last Friday and it was awesome - so much energy and love everywhere. Really made me proud and reminded me how important it is to keep standing up for equality.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D11:5",
+        "speaker": "Melanie",
+        "text": "Wow, that's awesome! How did it feel being part of that community?",
+        "metadata": {
+          "blip_caption": "a photo of a band performing on stage with a sign that says all are welcome"
+        }
+      },
+      {
+        "turn_id": "D11:6",
+        "speaker": "Caroline",
+        "text": "It was so inspiring, Mel! Check out the crowd. People of all kinds celebrating love and acceptance - it really pushed me to keep fighting for LGBTQ rights.",
+        "metadata": {
+          "img_url": [
+            "https://cloudfront-us-east-1.images.arcpublishing.com/opb/35SV3NIC4ZBRTLDGHUJ5QWU5WY.jpg"
+          ],
+          "blip_caption": "a photo of a group of people walking down a street with balloons",
+          "query": "pride parade crowd"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_12::chunk-0010",
+    "session_id": "session_12",
+    "observed_at": "2023-08-17T13:50:00",
+    "source_timestamp": "1:50 pm on 17 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D12:11",
+        "speaker": "Caroline",
+        "text": "Definitely, Mel! Finding those happy moments and clinging to them is key. It's what keeps us going, even when life's hard. I'm lucky to have people like you to remind me.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:12",
+        "speaker": "Melanie",
+        "text": "Yeah, same here Caroline. You make life's struggles more bearable.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:13",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! It means a lot having you in my corner. Appreciate our friendship!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:14",
+        "speaker": "Melanie",
+        "text": "I appreciate our friendship too, Caroline. You've always been there for me.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:15",
+        "speaker": "Caroline",
+        "text": "I'm always here for you, Mel! We had a blast last year at the Pride fest. Those supportive friends definitely make everything worth it!",
+        "metadata": {
+          "img_url": [
+            "https://media2.fdncms.com/portmerc/imager/u/large/46577490/pride2022-2-jankowski.jpg"
+          ],
+          "blip_caption": "a photo of a group of people walking down a street with balloons",
+          "query": "friends pride festival"
+        }
+      },
+      {
+        "turn_id": "D12:16",
+        "speaker": "Melanie",
+        "text": "That was a blast! So much fun with the whole gang! Wanna do a family outing this summer?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_14::chunk-0005",
+    "session_id": "session_14",
+    "observed_at": "2023-08-25T13:33:00",
+    "source_timestamp": "1:33 pm on 25 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D14:6",
+        "speaker": "Melanie",
+        "text": "Wow Caroline, that looks amazing! Those colors are so vivid, it really looks like a real sunset. What gave you the idea to paint it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:7",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! I painted it after I visited the beach last week. Just seeing the sun dip below the horizon, all the amazing colors - it was amazing and calming. So I just had to try to capture that feeling in my painting.",
+        "metadata": {
+          "blip_caption": "a photo of a painting of a sunset over the ocean"
+        }
+      },
+      {
+        "turn_id": "D14:8",
+        "speaker": "Melanie",
+        "text": "Wow, the beach really inspired you. The art really took me to that moment and I can feel the serenity. You captured the sunset perfectly, so peaceful!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:9",
+        "speaker": "Caroline",
+        "text": "Thanks Mel, really appreciate your kind words. It means a lot to me that you can feel the sense of peace and serenity. Makes me feel connected.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:10",
+        "speaker": "Melanie",
+        "text": "I feel the same way! Art is so cool like that - it connects us and helps us understand each other. I was actually just remembering yesterday, spending the day with my fam volunteering at a homeless shelter. It was hard to see how neglected some people are, but it was great to feel like we could make a difference.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D14:11",
+        "speaker": "Caroline",
+        "text": "Wow, Mel, you're amazing! Volunteering and making a difference- it's so heartwarming. You're an inspiration to us all!",
+        "metadata": {
+          "img_url": [
+            "https://images.squarespace-cdn.com/content/v1/64cda0c3f2719a0e6e707684/a08e6e1f-f0e0-4f1a-b567-1f1f92b80aab/35970846_829192503937065_1026209343625756672_o_829192493937066.jpg"
+          ],
+          "blip_caption": "a photo of a crowd of people walking down a street with a rainbow flag",
+          "query": "volunteering pride event"
+        }
+      }
+    ]
+  }
+]

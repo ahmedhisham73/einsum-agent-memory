@@ -1,0 +1,25 @@
+{
+  "question_id": "conv-26::q0031",
+  "category": 3,
+  "question": "Would Melanie be considered a member of the LGBTQ community?",
+  "gold_answer": "Likely no, she does not refer to herself as part of it",
+  "status": "scored",
+  "generated_answer": "There is no information in the provided conversations indicating that Melanie identifies as a member of the LGBTQ community.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_3::chunk-0000",
+      "turn_id": "D3:2"
+    },
+    {
+      "episode_id": "conv-26::session_7::chunk-0000",
+      "turn_id": "D7:2"
+    },
+    {
+      "episode_id": "conv-26::session_9::chunk-0005",
+      "turn_id": "D9:7"
+    }
+  ],
+  "query_elapsed_seconds": 5.378062207999999,
+  "label": "CORRECT",
+  "judge_reason": "Both answers indicate that there is no self-identification by Melanie as part of the LGBTQ community."
+}

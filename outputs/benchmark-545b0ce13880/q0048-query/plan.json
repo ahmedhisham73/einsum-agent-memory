@@ -1,0 +1,10 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Caroline",
+      "property": "supports",
+      "search": "evidence of who supports Caroline when she has a negative experience"
+    }
+  ]
+}

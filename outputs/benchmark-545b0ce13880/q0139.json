@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-26::q0139",
+  "category": 4,
+  "question": "What kind of painting did Caroline share with Melanie on October 13, 2023?",
+  "gold_answer": "An abstract painting with blue streaks on a wall.",
+  "status": "failed",
+  "error": "Query failed. See q0139.log"
+}

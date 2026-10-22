@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0091",
+  "category": 4,
+  "question": "How long have Mel and her husband been married?",
+  "gold_answer": "Mel and her husband have been married for 5 years.",
+  "status": "scored",
+  "generated_answer": "Mel and her husband have been married for 5 years.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_3::episode-003",
+      "turn_id": "D3:16"
+    }
+  ],
+  "query_elapsed_seconds": 3.531001291,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer matches the reference answer exactly."
+}

@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0138",
+  "category": 4,
+  "question": "What painting did Melanie show to Caroline on October 13, 2023?",
+  "gold_answer": "A painting inspired by sunsets with a pink sky.",
+  "status": "scored",
+  "generated_answer": "Melanie showed Caroline a painting inspired by sunsets, with colors that make her feel calm, described as a landscape painting with a vibrant purple sunset, on October 13, 2023.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_17::episode-002",
+      "turn_id": "D17:12"
+    }
+  ],
+  "query_elapsed_seconds": 9.220105292,
+  "label": "WRONG",
+  "judge_reason": "The generated answer provides additional details about the painting that are not present in the reference answer, such as the colors making Caroline feel calm and being described as vibrant purple, which contradicts the original description."
+}

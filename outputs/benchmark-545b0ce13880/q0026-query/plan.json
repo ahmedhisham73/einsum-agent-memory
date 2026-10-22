@@ -1,0 +1,20 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Caroline",
+      "property": "attended_event",
+      "search": "evidence of Caroline attending LGBTQ conference"
+    },
+    {
+      "entity": "Caroline",
+      "property": "event_attendance",
+      "search": "details or dates of LGBTQ conference attended"
+    },
+    {
+      "entity": "Caroline",
+      "property": "past_event",
+      "search": "date or time of LGBTQ conference attended"
+    }
+  ]
+}

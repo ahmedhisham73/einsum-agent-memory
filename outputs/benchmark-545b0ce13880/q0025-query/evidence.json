@@ -1,0 +1,383 @@
+[
+  {
+    "episode_id": "conv-26::session_1::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_1",
+    "observed_at": "2023-05-08T13:56:00",
+    "source_timestamp": "1:56 pm on 8 May, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Melanie shares painting and discussion about creative expression",
+    "turns": [
+      {
+        "turn_id": "D1:12",
+        "speaker": "Melanie",
+        "text": "You'd be a great counselor! Your empathy and understanding will really help the people you work with. By the way, take a look at this.",
+        "metadata": {
+          "img_url": [
+            "http://candicealexander.com/cdn/shop/products/IMG_7269_a49d5af8-c76c-4ecd-ae20-48c08cb11dec.jpg"
+          ],
+          "blip_caption": "a photo of a painting of a sunset over a lake",
+          "query": "painting sunrise"
+        }
+      },
+      {
+        "turn_id": "D1:13",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! That's really sweet. Is this your own painting?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:14",
+        "speaker": "Melanie",
+        "text": "Yeah, I painted that lake sunrise last year! It's special to me.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:15",
+        "speaker": "Caroline",
+        "text": "Wow, Melanie! The colors really blend nicely. Painting looks like a great outlet for expressing yourself.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D1:16",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! Painting's a fun way to express my feelings and get creative. It's a great way to relax after a long day.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_5::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_5",
+    "observed_at": "2023-07-03T13:36:00",
+    "source_timestamp": "1:36 pm on 3 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Melanie's pottery hobby and creative expression",
+    "turns": [
+      {
+        "turn_id": "D5:4",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline! That's great! I just signed up for a pottery class yesterday. It's like therapy for me, letting me express myself and get creative. Have you found any activities that make you feel the same way?",
+        "metadata": {
+          "img_url": [
+            "https://m.media-amazon.com/images/I/A1uELSr5rgL.jpg"
+          ],
+          "blip_caption": "a photo of a person holding a frisbee in their hand",
+          "query": "family frisbee game"
+        }
+      },
+      {
+        "turn_id": "D5:5",
+        "speaker": "Caroline",
+        "text": "Wow, Melanie! I'm getting creative too, just learning the piano. What made you try pottery?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:6",
+        "speaker": "Melanie",
+        "text": "I'm a big fan of pottery - the creativity and skill is awesome. Plus, making it is so calming. Look at this!",
+        "metadata": {
+          "img_url": [
+            "https://therusticbarnct.com/cdn/shop/files/image_05483f46-4845-433b-a4cf-0fc61fe1aa79.jpg"
+          ],
+          "blip_caption": "a photo of a bowl with a black and white flower design",
+          "query": "pottery painted bowl intricate design"
+        }
+      },
+      {
+        "turn_id": "D5:7",
+        "speaker": "Caroline",
+        "text": "That bowl is gorgeous! The black and white design looks so fancy. Did you make it?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:8",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! Yeah, I made this bowl in my class. It took some work, but I'm pretty proud of it.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:9",
+        "speaker": "Caroline",
+        "text": "Nice job! You really put in the work and it definitely shows. Your creativity looks great!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:10",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! Your kind words mean a lot. Pottery is a huge part of my life, not just a hobby - it helps me express my emotions. Clay is incredible, it brings me so much joy!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D5:11",
+        "speaker": "Caroline",
+        "text": "Wow, Mel, I'm so stoked for you that art is helping you express yourself and bring you joy! Keep it up!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_7::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_7",
+    "observed_at": "2023-07-12T16:33:00",
+    "source_timestamp": "4:33 pm on 12 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Melanie's running routine and its positive impact on her mental health",
+    "turns": [
+      {
+        "turn_id": "D7:19",
+        "speaker": "Caroline",
+        "text": "Love that purple color! For walking or running?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:20",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! These are for running. Been running longer since our last chat - a great way to destress and clear my mind.",
+        "metadata": {
+          "blip_caption": "a photo of a pair of pink sneakers in a box"
+        }
+      },
+      {
+        "turn_id": "D7:21",
+        "speaker": "Caroline",
+        "text": "Wow! What got you into running?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:22",
+        "speaker": "Melanie",
+        "text": "I've been running farther to de-stress, which has been great for my headspace.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:23",
+        "speaker": "Caroline",
+        "text": "Cool, Melanie! Running can really boost your mood. Keep it up!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:24",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! This has been great for my mental health. I'm gonna keep it up.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:25",
+        "speaker": "Caroline",
+        "text": "Awesome, Melanie! Mental health's a priority, so make sure you take care of yourself.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:26",
+        "speaker": "Melanie",
+        "text": "Caroline, thanks! Mental health is important to me, and it's made such an improvement!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:27",
+        "speaker": "Caroline",
+        "text": "Glad it helped ya, Melanie!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_12::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_12",
+    "observed_at": "2023-08-17T13:50:00",
+    "source_timestamp": "1:50 pm on 17 August, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Discussion about Melanie's pottery project and artistic expression",
+    "turns": [
+      {
+        "turn_id": "D12:4",
+        "speaker": "Melanie",
+        "text": "Here it is. Pretty proud of it! It was a great experience. Thoughts?",
+        "metadata": {
+          "img_url": [
+            "https://omceramic.com/cdn/shop/products/IMG_0022.jpg"
+          ],
+          "blip_caption": "a photo of a bowl with a colorful design on it",
+          "query": "pottery project ceramic bowl"
+        }
+      },
+      {
+        "turn_id": "D12:5",
+        "speaker": "Caroline",
+        "text": "That bowl is awesome, Mel! What gave you the idea for all the colors and patterns?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:6",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! I'm obsessed with those, so I made something to catch the eye and make people smile. Plus, painting helps me express my feelings and be creative. Each stroke carries a part of me.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:7",
+        "speaker": "Caroline",
+        "text": "That's amazing! You put so much effort and passion into it. Your creativity really shines. Seeing how art can be a source of self-expression and growth is truly inspiring. You're killing it!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:8",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! Your words really mean a lot. I've always felt a strong connection to art, and it's been a huge learning experience. It's both a sanctuary and a source of comfort. I'm so glad to have something that brings me so much happiness and fulfillment.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_15::episode-005",
+    "conversation_id": "conv-26",
+    "session_id": "session_15",
+    "observed_at": "2023-08-28T15:19:00",
+    "source_timestamp": "3:19 pm on 28 August, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Melanie's clarinet playing and musical preferences",
+    "turns": [
+      {
+        "turn_id": "D15:24",
+        "speaker": "Melanie",
+        "text": "That's a gorgeous song, Caroline. It really fits with your journey and your determination to make a difference. Music can be so inspiring and uplifting.",
+        "metadata": {
+          "blip_caption": "a photo of a piece of paper with a drawing of a man playing a piano"
+        }
+      },
+      {
+        "turn_id": "D15:25",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! Appreciate it. You play any instruments?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:26",
+        "speaker": "Melanie",
+        "text": "Yeah, I play clarinet! Started when I was young and it's been great. Expression of myself and a way to relax.",
+        "metadata": {
+          "blip_caption": "a photo of a sheet music with notes and a pencil"
+        }
+      },
+      {
+        "turn_id": "D15:27",
+        "speaker": "Caroline",
+        "text": "Cool! Got any fav tunes?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D15:28",
+        "speaker": "Melanie",
+        "text": "I'm a fan of both classical like Bach and Mozart, as well as modern music like Ed Sheeran's \"Perfect\".",
+        "metadata": {
+          "blip_caption": "a photo of a laptop computer with a graph on it"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_16::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_16",
+    "observed_at": "2023-09-13T00:09:00",
+    "source_timestamp": "12:09 am on 13 September, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Talking about art passions with photos of artwork",
+    "turns": [
+      {
+        "turn_id": "D16:6",
+        "speaker": "Melanie",
+        "text": "Wow, Caroline, that looks awesome! I love how it shows the togetherness and power you were talking about. How long have you been creating art?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:7",
+        "speaker": "Caroline",
+        "text": "Since I was 17 or so. I find it soempowering and cathartic. It's amazing how art can show things that are hard to put into words. How long have you been into art?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D16:8",
+        "speaker": "Melanie",
+        "text": "Seven years now, and I've finally found my real muses: painting and pottery. It's so calming and satisfying. Check out my pottery creation in the pic!",
+        "metadata": {
+          "img_url": [
+            "https://www.1hotpieceofglass.com/cdn/shop/files/image_93ad5985-ff65-4b93-877b-3ee948ac5641_5000x.jpg"
+          ],
+          "blip_caption": "a photo of a group of bowls and a starfish on a white surface",
+          "query": "pottery bowl intricate patterns purple glaze"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_18::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_18",
+    "observed_at": "2023-10-20T18:55:00",
+    "source_timestamp": "6:55 pm on 20 October, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Enjoying nature and camping as a way to relax and bond as a family",
+    "turns": [
+      {
+        "turn_id": "D18:16",
+        "speaker": "Caroline",
+        "text": "Wow, great pic! Is that recent? Looks like you all had fun!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:17",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! Yup, we just did it yesterday! The kids loved it and it was a nice way to relax after the road trip.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:18",
+        "speaker": "Caroline",
+        "text": "Glad you got some R&R after the drive. Nature sure seems to refresh us, huh?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:19",
+        "speaker": "Melanie",
+        "text": "Absolutely! It really helps me reset and recharge. I love camping trips with my fam, 'cause nature brings such peace and serenity.",
+        "metadata": {
+          "blip_caption": "a photo of a sunset over a body of water"
+        }
+      },
+      {
+        "turn_id": "D18:20",
+        "speaker": "Caroline",
+        "text": "Wow, that's awesome! What do you love most about camping with your fam?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:21",
+        "speaker": "Melanie",
+        "text": "It's a chance to be present and together. We bond over stories, campfires and nature. It's so peaceful waking up to the sound of birds and the smell of fresh air - it always refreshes my soul.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:22",
+        "speaker": "Caroline",
+        "text": "That's so peaceful and calming, Melanie! I can picture waking up to nature. It's great that you get to spend quality, tranquil time with your family.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:23",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! This is a great time. Nature and quality time, can't beat it!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:24",
+        "speaker": "Caroline",
+        "text": "Yeah totally! They're priceless. Lucky you!",
+        "metadata": {}
+      }
+    ]
+  }
+]

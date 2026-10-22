@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0119",
+  "category": 4,
+  "question": "What did Melanie and her family see during their camping trip last year?",
+  "gold_answer": "Perseid meteor shower",
+  "status": "scored",
+  "generated_answer": "During their camping trip last year, Melanie and her family explored nature, roasted marshmallows around the campfire, went on a hike, and enjoyed an amazing view from the top of the mountain. The two younger kids especially loved nature. Melanie described the experience as very special, creating lasting family memories and togetherness.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_4::episode-002",
+      "turn_id": "D4:8"
+    }
+  ],
+  "query_elapsed_seconds": 6.286188333,
+  "label": "WRONG",
+  "judge_reason": "The generated answer does not mention the Perseid meteor shower, which is the specific event asked for in the question."
+}

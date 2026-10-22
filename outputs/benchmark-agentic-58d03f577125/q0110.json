@@ -1,0 +1,21 @@
+{
+  "question_id": "conv-26::q0110",
+  "category": 4,
+  "question": "What did Mel and her kids make during the pottery workshop?",
+  "gold_answer": "pots",
+  "status": "scored",
+  "generated_answer": "Mel and her kids made their own pots during the pottery workshop, and the kids made items such as a cup with a dog face on it.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_8::chunk-0000",
+      "turn_id": "D8:2"
+    },
+    {
+      "episode_id": "conv-26::session_8::chunk-0000",
+      "turn_id": "D8:4"
+    }
+  ],
+  "query_elapsed_seconds": 4.7495790829999995,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer correctly states that Mel and her kids made pots, and it provides additional details about the kids' creations, which does not contradict the reference."
+}

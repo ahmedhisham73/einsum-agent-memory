@@ -1,0 +1,29 @@
+{
+  "question_id": "conv-26::q0150",
+  "category": 4,
+  "question": "What do Melanie's family give her?",
+  "gold_answer": "Strength and motivation",
+  "status": "scored",
+  "generated_answer": "Melanie's family gives her love, support, and moments of togetherness such as camping trips, hiking adventures, and family picnics, which bring her joy, motivation, and peace. There is no mention of a specific physical gift from her family, but their love and support are described as invaluable gifts.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_8::episode-004",
+      "turn_id": "D8:30"
+    },
+    {
+      "episode_id": "conv-26::session_8::episode-004",
+      "turn_id": "D8:32"
+    },
+    {
+      "episode_id": "conv-26::session_3::episode-003",
+      "turn_id": "D3:20"
+    },
+    {
+      "episode_id": "conv-26::session_3::episode-003",
+      "turn_id": "D3:22"
+    }
+  ],
+  "query_elapsed_seconds": 4.373721209,
+  "label": "WRONG",
+  "judge_reason": "The generated answer mentions love and support but fails to directly address the strength and motivation specifically highlighted in the reference answer."
+}

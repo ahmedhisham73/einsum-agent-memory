@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0072",
+  "category": 1,
+  "question": "What book did Melanie read from Caroline's suggestion?",
+  "gold_answer": "\"Becoming Nicole\"",
+  "status": "scored",
+  "generated_answer": "Melanie read the book \"Becoming Nicole\" by Amy Ellis Nutt from Caroline's suggestion.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_7::chunk-0005",
+      "turn_id": "D7:11"
+    }
+  ],
+  "query_elapsed_seconds": 5.001660333,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer correctly identifies the book \"Becoming Nicole\" based on Caroline's suggestion."
+}

@@ -1,0 +1,302 @@
+[
+  {
+    "episode_id": "conv-26::session_4::chunk-0005",
+    "session_id": "session_4",
+    "observed_at": "2023-06-27T10:37:00",
+    "source_timestamp": "10:37 am on 27 June, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D4:6",
+        "speaker": "Melanie",
+        "text": "That sounds great, Caroline! It's awesome having stuff around that make us think of good connections and times. Actually, I just took my fam camping in the mountains last week - it was a really nice time together!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:7",
+        "speaker": "Caroline",
+        "text": "Sounds great, Mel. Glad you made some new family mems. How was it? Anything fun?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:8",
+        "speaker": "Melanie",
+        "text": "It was an awesome time, Caroline! We explored nature, roasted marshmallows around the campfire and even went on a hike. The view from the top was amazing! The 2 younger kids love nature. It was so special having these moments together as a family - I'll never forget it!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:9",
+        "speaker": "Caroline",
+        "text": "That's awesome, Melanie! Family moments like that are so special. Glad y'all had such a great time.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:10",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! Family time matters to me. What's up with you lately?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D4:11",
+        "speaker": "Caroline",
+        "text": "Lately, I've been looking into counseling and mental health as a career. I want to help people who have gone through the same things as me.",
+        "metadata": {
+          "blip_caption": "a photo of a book shelf with many books on it"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_8::chunk-0030",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D8:31",
+        "speaker": "Caroline",
+        "text": "Wow, Mel, family love and support is the best!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:32",
+        "speaker": "Melanie",
+        "text": "Yeah, Caroline, my family's been great - their love and support really helped me through tough times. It's awesome! We even went on another camping trip in the forest.",
+        "metadata": {
+          "img_url": [
+            "http://cragmama.com/wp-content/uploads//2016/10/IMG_4568.jpg"
+          ],
+          "blip_caption": "a photo of a man and two children sitting around a campfire",
+          "query": "family camping trip roasting marshmallows campfire"
+        }
+      },
+      {
+        "turn_id": "D8:33",
+        "speaker": "Caroline",
+        "text": "Awesome, Mel! Family support's huge. What else do you guys like doing together?",
+        "metadata": {
+          "blip_caption": "a photo of a family walking through a forest with a toddler"
+        }
+      },
+      {
+        "turn_id": "D8:34",
+        "speaker": "Melanie",
+        "text": "We enjoy hiking in the mountains and exploring forests. It's a cool way to connect with nature and each other.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:35",
+        "speaker": "Caroline",
+        "text": "Wow, Mel, that sounds awesome! Exploring nature and family time is so special.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D8:36",
+        "speaker": "Melanie",
+        "text": "Yeah, Caroline, they're some of my fave memories. It brings us together and brings us happiness. Glad you're here to share in it.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_10::chunk-0010",
+    "session_id": "session_10",
+    "observed_at": "2023-07-20T20:56:00",
+    "source_timestamp": "8:56 pm on 20 July, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D10:11",
+        "speaker": "Caroline",
+        "text": "Sounds special, those beach trips! Do you have any other summer traditions you all do together? Create those memories!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:12",
+        "speaker": "Melanie",
+        "text": "We always look forward to our family camping trip. We roast marshmallows, tell stories around the campfire and just enjoy each other's company. It's the highlight of our summer!",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/hjh0wp8s721a1.jpg"
+          ],
+          "blip_caption": "a photo of a fire pit with a lot of fire and sparks",
+          "query": "family camping trip campfire night"
+        }
+      },
+      {
+        "turn_id": "D10:13",
+        "speaker": "Caroline",
+        "text": "Wow, Mel, that's awesome! What's your best camping memory?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:14",
+        "speaker": "Melanie",
+        "text": "I'll always remember our camping trip last year when we saw the Perseid meteor shower. It was so amazing lying there and watching the sky light up with streaks of light. We all made wishes and felt so at one with the universe. That's a memory I'll never forget.",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/ms0tvo85cto91.jpg"
+          ],
+          "blip_caption": "a photo of a plane flying in the sky with a star filled sky",
+          "query": "shooting star night sky"
+        }
+      },
+      {
+        "turn_id": "D10:15",
+        "speaker": "Caroline",
+        "text": "Cool! What did it look like?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D10:16",
+        "speaker": "Melanie",
+        "text": "The sky was so clear and filled with stars, and the meteor shower was amazing - it felt like we were part of something huge and awe-inspiring.",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/eqtu6adwcrfb1.jpg"
+          ],
+          "blip_caption": "a photo of a plane flying in the sky with a trail of smoke coming out of it",
+          "query": "night sky stars meteor shower"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_12::chunk-0010",
+    "session_id": "session_12",
+    "observed_at": "2023-08-17T13:50:00",
+    "source_timestamp": "1:50 pm on 17 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D12:11",
+        "speaker": "Caroline",
+        "text": "Definitely, Mel! Finding those happy moments and clinging to them is key. It's what keeps us going, even when life's hard. I'm lucky to have people like you to remind me.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:12",
+        "speaker": "Melanie",
+        "text": "Yeah, same here Caroline. You make life's struggles more bearable.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:13",
+        "speaker": "Caroline",
+        "text": "Thanks, Melanie! It means a lot having you in my corner. Appreciate our friendship!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:14",
+        "speaker": "Melanie",
+        "text": "I appreciate our friendship too, Caroline. You've always been there for me.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:15",
+        "speaker": "Caroline",
+        "text": "I'm always here for you, Mel! We had a blast last year at the Pride fest. Those supportive friends definitely make everything worth it!",
+        "metadata": {
+          "img_url": [
+            "https://media2.fdncms.com/portmerc/imager/u/large/46577490/pride2022-2-jankowski.jpg"
+          ],
+          "blip_caption": "a photo of a group of people walking down a street with balloons",
+          "query": "friends pride festival"
+        }
+      },
+      {
+        "turn_id": "D12:16",
+        "speaker": "Melanie",
+        "text": "That was a blast! So much fun with the whole gang! Wanna do a family outing this summer?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_12::chunk-0015",
+    "session_id": "session_12",
+    "observed_at": "2023-08-17T13:50:00",
+    "source_timestamp": "1:50 pm on 17 August, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D12:17",
+        "speaker": "Caroline",
+        "text": "Right, it was so much fun! We could do a family outting, or wanna plan something special for this summer, just us two? It'd be a great chance to catch up and explore nature! What do you think?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:18",
+        "speaker": "Melanie",
+        "text": "Sounds great, Caroline! Let's plan something special!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:19",
+        "speaker": "Caroline",
+        "text": "Sounds great, Mel! We'll make some awesome memories!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:20",
+        "speaker": "Melanie",
+        "text": "Yeah, Caroline! I'll start thinking about what we can do.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D12:21",
+        "speaker": "Caroline",
+        "text": "Yeah, Mel! Life's all about creating memories. Can't wait for the trip!",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_18::chunk-0015",
+    "session_id": "session_18",
+    "observed_at": "2023-10-20T18:55:00",
+    "source_timestamp": "6:55 pm on 20 October, 2023",
+    "timezone_status": "unspecified",
+    "turns": [
+      {
+        "turn_id": "D18:16",
+        "speaker": "Caroline",
+        "text": "Wow, great pic! Is that recent? Looks like you all had fun!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:17",
+        "speaker": "Melanie",
+        "text": "Thanks, Caroline! Yup, we just did it yesterday! The kids loved it and it was a nice way to relax after the road trip.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:18",
+        "speaker": "Caroline",
+        "text": "Glad you got some R&R after the drive. Nature sure seems to refresh us, huh?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:19",
+        "speaker": "Melanie",
+        "text": "Absolutely! It really helps me reset and recharge. I love camping trips with my fam, 'cause nature brings such peace and serenity.",
+        "metadata": {
+          "blip_caption": "a photo of a sunset over a body of water"
+        }
+      },
+      {
+        "turn_id": "D18:20",
+        "speaker": "Caroline",
+        "text": "Wow, that's awesome! What do you love most about camping with your fam?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:21",
+        "speaker": "Melanie",
+        "text": "It's a chance to be present and together. We bond over stories, campfires and nature. It's so peaceful waking up to the sound of birds and the smell of fresh air - it always refreshes my soul.",
+        "metadata": {}
+      }
+    ]
+  }
+]

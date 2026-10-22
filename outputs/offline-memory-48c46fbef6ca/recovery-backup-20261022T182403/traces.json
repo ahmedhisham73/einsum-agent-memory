@@ -1,0 +1,1472 @@
+[
+  {
+    "source_id": "session_1",
+    "stage": "episode_partitioning",
+    "call_id": "ea7fe02f-176d-4eab-bbf8-b257dac2cfea",
+    "latency_seconds": 3.533298334,
+    "response": {
+      "id": "chatcmpl-EZrJqE2tUO7u4D0om7qGbClqFtwUT",
+      "object": "chat.completion",
+      "created": 1792215146,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D1:1\",\n      \"end_turn_id\": \"D1:3\",\n      \"theme\": \"Job losses and new business plans\"\n    },\n    {\n      \"start_turn_id\": \"D1:4\",\n      \"end_turn_id\": \"D1:9\",\n      \"theme\": \"Passion for dancing and favorite dance styles\"\n    },\n    {\n      \"start_turn_id\": \"D1:10\",\n      \"end_turn_id\": \"D1:13\",\n      \"theme\": \"Planning a dance session together\"\n    },\n    {\n      \"start_turn_id\": \"D1:14\",\n      \"end_turn_id\": \"D1:18\",\n      \"theme\": \"Dance competition experiences and achievements\"\n    },\n    {\n      \"start_turn_id\": \"D1:19\",\n      \"end_turn_id\": \"D1:23\",\n      \"theme\": \"Dance performances and ideal dance studio environment\"\n    },\n    {\n      \"start_turn_id\": \"D1:24\",\n      \"end_turn_id\": \"D1:28\",\n      \"theme\": \"Dance projects and festival performances\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1951,
+        "completion_tokens": 249,
+        "total_tokens": 2200,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_2",
+    "stage": "episode_partitioning",
+    "call_id": "2e977d0d-6f3c-444f-a108-296020729b01",
+    "latency_seconds": 2.172483667,
+    "response": {
+      "id": "chatcmpl-EZrJtEyNCjdKZ9BqgT59sNXk778CD",
+      "object": "chat.completion",
+      "created": 1792215149,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D2:1\",\n      \"end_turn_id\": \"D2:3\",\n      \"theme\": \"Gina's clothing store launch and catching up\"\n    },\n    {\n      \"start_turn_id\": \"D2:4\",\n      \"end_turn_id\": \"D2:6\",\n      \"theme\": \"Jon's search for the ideal dance studio location and features\"\n    },\n    {\n      \"start_turn_id\": \"D2:7\",\n      \"end_turn_id\": \"D2:10\",\n      \"theme\": \"Discussion about dance studio flooring and Jon's planning\"\n    },\n    {\n      \"start_turn_id\": \"D2:11\",\n      \"end_turn_id\": \"D2:16\",\n      \"theme\": \"Mutual encouragement and motivation to pursue their dreams\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1328,
+        "completion_tokens": 183,
+        "total_tokens": 1511,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_3",
+    "stage": "episode_partitioning",
+    "call_id": "a46424a4-4753-4526-9e26-2fe470a6db03",
+    "latency_seconds": 2.769644584,
+    "response": {
+      "id": "chatcmpl-EZrJvR3MGC23NhLjndczUWDpu23RQ",
+      "object": "chat.completion",
+      "created": 1792215151,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D3:1\",\n      \"end_turn_id\": \"D3:3\",\n      \"theme\": \"Jon shares update about dance studio search; Gina responds with news about expanding her clothing store\"\n    },\n    {\n      \"start_turn_id\": \"D3:4\",\n      \"end_turn_id\": \"D3:8\",\n      \"theme\": \"Gina describes the design and atmosphere of her new clothing store\"\n    },\n    {\n      \"start_turn_id\": \"D3:9\",\n      \"end_turn_id\": \"D3:14\",\n      \"theme\": \"Mutual encouragement and support for each other's entrepreneurial goals\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1261,
+        "completion_tokens": 150,
+        "total_tokens": 1411,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_4",
+    "stage": "episode_partitioning",
+    "call_id": "c36ae6f5-0fad-4e20-ba9f-8a0037b8830b",
+    "latency_seconds": 1.5268036669999994,
+    "response": {
+      "id": "chatcmpl-EZrJxYnqY5sRKpD2KGQUNKbZLRjfo",
+      "object": "chat.completion",
+      "created": 1792215153,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D4:1\",\n      \"end_turn_id\": \"D4:10\",\n      \"theme\": \"Jon and Gina discuss Jon's business challenges and store updates\"\n    },\n    {\n      \"start_turn_id\": \"D4:11\",\n      \"end_turn_id\": \"D4:19\",\n      \"theme\": \"Jon shares his dance passion and upcoming competition plans with Gina\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1264,
+        "completion_tokens": 99,
+        "total_tokens": 1363,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_5",
+    "stage": "episode_partitioning",
+    "call_id": "a2e98bfd-c7f0-4f64-a9f5-0af3f2539639",
+    "latency_seconds": 3.056245541999999,
+    "response": {
+      "id": "chatcmpl-EZrK0ziHXV4mkgaZgpXepjFkz9TcP",
+      "object": "chat.completion",
+      "created": 1792215156,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D5:1\",\n      \"end_turn_id\": \"D5:2\",\n      \"theme\": \"Initial greeting and updates on fashion and dance accomplishments\"\n    },\n    {\n      \"start_turn_id\": \"D5:3\",\n      \"end_turn_id\": \"D5:4\",\n      \"theme\": \"Discussion on running a dance studio and its fulfilling aspects\"\n    },\n    {\n      \"start_turn_id\": \"D5:5\",\n      \"end_turn_id\": \"D5:9\",\n      \"theme\": \"Gina shares new fashion designs and entrepreneurial risk-taking\"\n    },\n    {\n      \"start_turn_id\": \"D5:10\",\n      \"end_turn_id\": \"D5:12\",\n      \"theme\": \"Jon's journey leaving banking for dance business and mutual encouragement\"\n    },\n    {\n      \"start_turn_id\": \"D5:13\",\n      \"end_turn_id\": \"D5:17\",\n      \"theme\": \"Sharing motivational quotes, tattoos, and importance of self-expression through dance\"\n    },\n    {\n      \"start_turn_id\": \"D5:18\",\n      \"end_turn_id\": \"D5:23\",\n      \"theme\": \"Balancing dance passion with business goals and continued mutual support\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1962,
+        "completion_tokens": 277,
+        "total_tokens": 2239,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_6",
+    "stage": "episode_partitioning",
+    "call_id": "7fb54cc5-5d03-4bbe-b399-4cf4f3ea6a35",
+    "latency_seconds": 1.8771504579999991,
+    "response": {
+      "id": "chatcmpl-EZrK2m3r9vqsfR5aC8JSPPmkXOfgs",
+      "object": "chat.completion",
+      "created": 1792215158,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D6:1\",\n      \"end_turn_id\": \"D6:4\",\n      \"theme\": \"Personal updates and challenges\"\n    },\n    {\n      \"start_turn_id\": \"D6:5\",\n      \"end_turn_id\": \"D6:9\",\n      \"theme\": \"Gina's new online clothing store launch and inspiration\"\n    },\n    {\n      \"start_turn_id\": \"D6:10\",\n      \"end_turn_id\": \"D6:13\",\n      \"theme\": \"Discussing business challenges and mutual inspiration\"\n    },\n    {\n      \"start_turn_id\": \"D6:14\",\n      \"end_turn_id\": \"D6:19\",\n      \"theme\": \"Mutual encouragement and support for pursuing dreams\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1428,
+        "completion_tokens": 174,
+        "total_tokens": 1602,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_7",
+    "stage": "episode_partitioning",
+    "call_id": "157e0cee-f7e2-4449-bf2a-38e993e42d54",
+    "latency_seconds": 1.9140288749999979,
+    "response": {
+      "id": "chatcmpl-EZrK4XO3csTqgCRMmRFvX8xx3FJr4",
+      "object": "chat.completion",
+      "created": 1792215160,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D7:1\",\n      \"end_turn_id\": \"D7:4\",\n      \"theme\": \"Catch-up and discussion about business challenges and progress\"\n    },\n    {\n      \"start_turn_id\": \"D7:5\",\n      \"end_turn_id\": \"D7:7\",\n      \"theme\": \"Advice exchange on business success and motivation with photo sharing\"\n    },\n    {\n      \"start_turn_id\": \"D7:8\",\n      \"end_turn_id\": \"D7:17\",\n      \"theme\": \"Mutual encouragement and motivation support\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1205,
+        "completion_tokens": 136,
+        "total_tokens": 1341,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_8",
+    "stage": "episode_partitioning",
+    "call_id": "c33712e6-3acd-4568-8ee8-f9877aff3364",
+    "latency_seconds": 2.4477484999999994,
+    "response": {
+      "id": "chatcmpl-EZrK6vlVWoVUbcHCKxptlq3MLq090",
+      "object": "chat.completion",
+      "created": 1792215162,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D8:1\",\n      \"end_turn_id\": \"D8:3\",\n      \"theme\": \"Jon discusses closing his bank account and coping with changes in his business\"\n    },\n    {\n      \"start_turn_id\": \"D8:4\",\n      \"end_turn_id\": \"D8:6\",\n      \"theme\": \"Gina shares her efforts and motivation for growing her online fashion business\"\n    },\n    {\n      \"start_turn_id\": \"D8:7\",\n      \"end_turn_id\": \"D8:10\",\n      \"theme\": \"Gina explains the connection between her dance passion and fashion business, and its progress\"\n    },\n    {\n      \"start_turn_id\": \"D8:11\",\n      \"end_turn_id\": \"D8:13\",\n      \"theme\": \"Gina and Jon discuss plans to expand their customer bases and dance studio presence\"\n    },\n    {\n      \"start_turn_id\": \"D8:14\",\n      \"end_turn_id\": \"D8:20\",\n      \"theme\": \"Jon invites Gina to a dance event; they discuss the event and confirm her attendance\"\n    },\n    {\n      \"start_turn_id\": \"D8:21\",\n      \"end_turn_id\": \"D8:26\",\n      \"theme\": \"Mutual encouragement and support for each other's business goals and futures\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1999,
+        "completion_tokens": 298,
+        "total_tokens": 2297,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_9",
+    "stage": "episode_partitioning",
+    "call_id": "9fc54ea1-0c0c-4f53-8e4a-e86c62d85321",
+    "latency_seconds": 2.1668720829999977,
+    "response": {
+      "id": "chatcmpl-EZrK8c1O7YvgxuEiS6u1Il71KRqOK",
+      "object": "chat.completion",
+      "created": 1792215164,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D9:1\",\n      \"end_turn_id\": \"D9:3\",\n      \"theme\": \"Jon starting a dance studio business after job loss\"\n    },\n    {\n      \"start_turn_id\": \"D9:4\",\n      \"end_turn_id\": \"D9:7\",\n      \"theme\": \"Encouragement and personal growth through dance\"\n    },\n    {\n      \"start_turn_id\": \"D9:8\",\n      \"end_turn_id\": \"D9:9\",\n      \"theme\": \"Shared dance memories and emotional connection\"\n    },\n    {\n      \"start_turn_id\": \"D9:10\",\n      \"end_turn_id\": \"D9:14\",\n      \"theme\": \"Gina showing support and motivation for Jon's journey\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1388,
+        "completion_tokens": 178,
+        "total_tokens": 1566,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_10",
+    "stage": "episode_partitioning",
+    "call_id": "b5daddd1-de58-4aea-8035-169bca098605",
+    "latency_seconds": 1.7401719169999978,
+    "response": {
+      "id": "chatcmpl-EZrKAxUxWWkpsSkuP6UlUbmP5QPUF",
+      "object": "chat.completion",
+      "created": 1792215166,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "```json\n{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D10:1\",\n      \"end_turn_id\": \"D10:4\",\n      \"theme\": \"Sharing updates on new business ventures and personal challenges\"\n    },\n    {\n      \"start_turn_id\": \"D10:5\",\n      \"end_turn_id\": \"D10:6\",\n      \"theme\": \"Seeking and giving advice on motivation and overcoming challenges\"\n    },\n    {\n      \"start_turn_id\": \"D10:7\",\n      \"end_turn_id\": \"D10:8\",\n      \"theme\": \"Discussing confidence issues and strategies to maintain self-belief in business\"\n    },\n    {\n      \"start_turn_id\": \"D10:9\",\n      \"end_turn_id\": \"D10:14\",\n      \"theme\": \"Mutual encouragement and commitment to persevere and support each other\"\n    }\n  ]\n}\n```",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1316,
+        "completion_tokens": 192,
+        "total_tokens": 1508,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_11",
+    "stage": "episode_partitioning",
+    "call_id": "7aaf7268-7438-4043-a8b1-d62c8eb25fbf",
+    "latency_seconds": 2.216067334,
+    "response": {
+      "id": "chatcmpl-EZysP2AcbqxhDz4KhA0LtOnwpKQ6J",
+      "object": "chat.completion",
+      "created": 1792244197,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D11:1\",\n      \"end_turn_id\": \"D11:13\",\n      \"theme\": \"Jon shares updates and motivation about opening his dance studio, and Gina offers encouragement\"\n    },\n    {\n      \"start_turn_id\": \"D11:14\",\n      \"end_turn_id\": \"D11:16\",\n      \"theme\": \"Gina shares about her design internship interview and its positive outcome\"\n    },\n    {\n      \"start_turn_id\": \"D11:17\",\n      \"end_turn_id\": \"D11:22\",\n      \"theme\": \"Conversation about practicing and sharing dance routines, with mutual support\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1437,
+        "completion_tokens": 149,
+        "total_tokens": 1586,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_12",
+    "stage": "episode_partitioning",
+    "call_id": "d8f4f0ee-6f8c-4381-bb34-cf52323f9245",
+    "latency_seconds": 2.4894773750000003,
+    "response": {
+      "id": "chatcmpl-EZysRg49sTiCq5EbHtu2QLW5vMChY",
+      "object": "chat.completion",
+      "created": 1792244199,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D12:1\",\n      \"end_turn_id\": \"D12:5\",\n      \"theme\": \"Gina shares news about her fashion internship and future plans\"\n    },\n    {\n      \"start_turn_id\": \"D12:6\",\n      \"end_turn_id\": \"D12:9\",\n      \"theme\": \"Jon discusses reading 'The Lean Startup' and business idea development\"\n    },\n    {\n      \"start_turn_id\": \"D12:10\",\n      \"end_turn_id\": \"D12:14\",\n      \"theme\": \"Jon explains his business planning and investor search progress\"\n    },\n    {\n      \"start_turn_id\": \"D12:15\",\n      \"end_turn_id\": \"D12:19\",\n      \"theme\": \"Mutual encouragement and motivation to persevere\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1334,
+        "completion_tokens": 185,
+        "total_tokens": 1519,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_13",
+    "stage": "episode_partitioning",
+    "call_id": "5605ea5e-ad7b-4dd5-a6a3-57ef73ad363f",
+    "latency_seconds": 2.700630083,
+    "response": {
+      "id": "chatcmpl-EZysUD4BrZJVk2bWxdPYhalocAbml",
+      "object": "chat.completion",
+      "created": 1792244202,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D13:1\",\n      \"end_turn_id\": \"D13:2\",\n      \"theme\": \"Expressing gratitude and checking in\"\n    },\n    {\n      \"start_turn_id\": \"D13:3\",\n      \"end_turn_id\": \"D13:5\",\n      \"theme\": \"Jon's preparation and vision for his dance studio\"\n    },\n    {\n      \"start_turn_id\": \"D13:6\",\n      \"end_turn_id\": \"D13:9\",\n      \"theme\": \"Support and mentoring for dancers\"\n    },\n    {\n      \"start_turn_id\": \"D13:10\",\n      \"end_turn_id\": \"D13:17\",\n      \"theme\": \"Using organizational tools and color-coding for motivation and goal tracking\"\n    },\n    {\n      \"start_turn_id\": \"D13:18\",\n      \"end_turn_id\": \"D13:23\",\n      \"theme\": \"Encouragement, positivity, and ongoing support\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1603,
+        "completion_tokens": 220,
+        "total_tokens": 1823,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_14",
+    "stage": "episode_partitioning",
+    "call_id": "7f6745ef-e271-4af7-86f8-8c8d41e55103",
+    "latency_seconds": 4.083924833,
+    "response": {
+      "id": "chatcmpl-EZysXvluFVixpYnxXmv8tKVuUgSz8",
+      "object": "chat.completion",
+      "created": 1792244205,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D14:1\",\n      \"end_turn_id\": \"D14:3\",\n      \"theme\": \"Jon shares mentorship experience and checks in with Gina; Gina talks about her online store and Jon seeks marketing tips\"\n    },\n    {\n      \"start_turn_id\": \"D14:4\",\n      \"end_turn_id\": \"D14:6\",\n      \"theme\": \"Gina advises Jon on marketing strategies involving social media and influencers\"\n    },\n    {\n      \"start_turn_id\": \"D14:7\",\n      \"end_turn_id\": \"D14:10\",\n      \"theme\": \"Discussion about entrepreneurship; Gina shares her journey and advice for starting a business\"\n    },\n    {\n      \"start_turn_id\": \"D14:11\",\n      \"end_turn_id\": \"D14:13\",\n      \"theme\": \"Jon acknowledges Gina's advice on resilience and focus, expressing motivation to keep going\"\n    },\n    {\n      \"start_turn_id\": \"D14:14\",\n      \"end_turn_id\": \"D14:16\",\n      \"theme\": \"Gina shares a dance photo symbolizing perseverance; Jon reflects on his love for dancing\"\n    },\n    {\n      \"start_turn_id\": \"D14:17\",\n      \"end_turn_id\": \"D14:20\",\n      \"theme\": \"Mutual encouragement and support between Jon and Gina to pursue their dreams and stay determined\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1384,
+        "completion_tokens": 308,
+        "total_tokens": 1692,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_15",
+    "stage": "episode_partitioning",
+    "call_id": "02e97949-a0e4-4408-ab72-3b47b9b19839",
+    "latency_seconds": 2.446188083999999,
+    "response": {
+      "id": "chatcmpl-EZysai0glP0O83YNZgamnEYX5AZOs",
+      "object": "chat.completion",
+      "created": 1792244208,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D15:1\",\n      \"end_turn_id\": \"D15:3\",\n      \"theme\": \"Jon updates Gina about his business and recent trip\"\n    },\n    {\n      \"start_turn_id\": \"D15:4\",\n      \"end_turn_id\": \"D15:5\",\n      \"theme\": \"Discussion about the opening of Jon's dance studio\"\n    },\n    {\n      \"start_turn_id\": \"D15:6\",\n      \"end_turn_id\": \"D15:12\",\n      \"theme\": \"Gina congratulates Jon and they express excitement for the studio launch\"\n    },\n    {\n      \"start_turn_id\": \"D15:13\",\n      \"end_turn_id\": \"D15:17\",\n      \"theme\": \"Planning to make memories and have fun at the dance studio\"\n    },\n    {\n      \"start_turn_id\": \"D15:18\",\n      \"end_turn_id\": \"D15:22\",\n      \"theme\": \"Eager anticipation and farewell before the grand opening event\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1416,
+        "completion_tokens": 231,
+        "total_tokens": 1647,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_16",
+    "stage": "episode_partitioning",
+    "call_id": "6ea1f629-e8b4-48d1-85f9-01378b8c4bb1",
+    "latency_seconds": 1.8520572909999995,
+    "response": {
+      "id": "chatcmpl-EZysdnPe4ZeB3PVvA0xi0oGXkVbNg",
+      "object": "chat.completion",
+      "created": 1792244211,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D16:1\",\n      \"end_turn_id\": \"D16:5\",\n      \"theme\": \"Gina discussing her new clothing store and hoodie design inspiration\"\n    },\n    {\n      \"start_turn_id\": \"D16:6\",\n      \"end_turn_id\": \"D16:8\",\n      \"theme\": \"Jon sharing his efforts and challenges with networking and job loss\"\n    },\n    {\n      \"start_turn_id\": \"D16:9\",\n      \"end_turn_id\": \"D16:12\",\n      \"theme\": \"Jon and Gina discussing planning, motivation, and goal tracking\"\n    },\n    {\n      \"start_turn_id\": \"D16:13\",\n      \"end_turn_id\": \"D16:16\",\n      \"theme\": \"Encouragement and perseverance exchanged between Gina and Jon\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1243,
+        "completion_tokens": 188,
+        "total_tokens": 1431,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_17",
+    "stage": "episode_partitioning",
+    "call_id": "fcb7657e-2ff9-4e63-b245-894aa21441b8",
+    "latency_seconds": 2.0465669999999996,
+    "response": {
+      "id": "chatcmpl-EZysfrZ15f7fEQXPHFi41BPrPuJOu",
+      "object": "chat.completion",
+      "created": 1792244213,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D17:1\",\n      \"end_turn_id\": \"D17:8\",\n      \"theme\": \"Gina and Jon discuss recent personal progress and motivations\"\n    },\n    {\n      \"start_turn_id\": \"D17:9\",\n      \"end_turn_id\": \"D17:18\",\n      \"theme\": \"Mutual encouragement and affirmation of support for Jon's business and dance studio ambitions\"\n    },\n    {\n      \"start_turn_id\": \"D17:19\",\n      \"end_turn_id\": \"D17:21\",\n      \"theme\": \"Farewell exchange\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1443,
+        "completion_tokens": 139,
+        "total_tokens": 1582,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_18",
+    "stage": "episode_partitioning",
+    "call_id": "b6eeccd9-50b1-4991-b5cd-da99a0eb94cd",
+    "latency_seconds": 2.526944834000002,
+    "response": {
+      "id": "chatcmpl-EZyshVdpbkrwpvhTsDANPa9ccuWIJ",
+      "object": "chat.completion",
+      "created": 1792244215,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D18:1\",\n      \"end_turn_id\": \"D18:3\",\n      \"theme\": \"Updates and encouragement about their businesses\"\n    },\n    {\n      \"start_turn_id\": \"D18:4\",\n      \"end_turn_id\": \"D18:6\",\n      \"theme\": \"Discussion about overcoming business challenges and networking\"\n    },\n    {\n      \"start_turn_id\": \"D18:7\",\n      \"end_turn_id\": \"D18:10\",\n      \"theme\": \"Networking event experience and follow-up plans\"\n    },\n    {\n      \"start_turn_id\": \"D18:11\",\n      \"end_turn_id\": \"D18:13\",\n      \"theme\": \"Marketing strategies for the dance studio and offer of help\"\n    },\n    {\n      \"start_turn_id\": \"D18:14\",\n      \"end_turn_id\": \"D18:22\",\n      \"theme\": \"Collaboration to create content and promote the dance studio\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1748,
+        "completion_tokens": 219,
+        "total_tokens": 1967,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_19",
+    "stage": "episode_partitioning",
+    "call_id": "fedf8777-a890-4991-94b2-43e0431d01e8",
+    "latency_seconds": 1.8054826659999996,
+    "response": {
+      "id": "chatcmpl-EZysjGUJScnRGxZ88juqMCuES2Bjp",
+      "object": "chat.completion",
+      "created": 1792244217,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D19:1\",\n      \"end_turn_id\": \"D19:5\",\n      \"theme\": \"Jon shares his rehearsing stress and Gina motivates with a famous quote\"\n    },\n    {\n      \"start_turn_id\": \"D19:6\",\n      \"end_turn_id\": \"D19:14\",\n      \"theme\": \"Gina encourages Jon about his dance studio dream and they exchange supportive affirmations\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1011,
+        "completion_tokens": 105,
+        "total_tokens": 1116,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "conv-30::session_1::episode-001",
+    "stage": "entity_property_extraction",
+    "call_id": "d005375e-c125-4901-9b93-a8577fc375c0",
+    "latency_seconds": 2.8366549580000004,
+    "response": {
+      "id": "chatcmpl-EZyslm0o7lLg5vpCJOXUKnNGqx4Ym",
+      "object": "chat.completion",
+      "created": 1792244219,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Jon\",\n      \"entity_type\": \"person\",\n      \"property\": \"job_status\",\n      \"value\": \"lost job as banker\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"yesterday before 2023-01-20 16:04\",\n      \"evidence_turn_ids\": [\"D1:2\"]\n    },\n    {\n      \"entity\": \"Jon\",\n      \"entity_type\": \"person\",\n      \"property\": \"business_plan\",\n      \"value\": \"starting own business\",\n      \"modality\": \"planned\",\n      \"valid_time\": \"after job loss\",\n      \"evidence_turn_ids\": [\"D1:2\"]\n    },\n    {\n      \"entity\": \"Gina\",\n      \"entity_type\": \"person\",\n      \"property\": \"job_status\",\n      \"value\": \"lost job at Door Dash\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"this month before 2023-01-20 16:04\",\n      \"evidence_turn_ids\": [\"D1:3\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 639,
+        "completion_tokens": 238,
+        "total_tokens": 877,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-30::session_1::episode-002",
+    "stage": "entity_property_extraction",
+    "call_id": "2b0285ad-5623-4fb0-b91f-c484704f9c79",
+    "latency_seconds": 3.7223690420000004,
+    "response": {
+      "id": "chatcmpl-EZysoCQMtfK8EGpo6BkJgWd2zL9ZR",
+      "object": "chat.completion",
+      "created": 1792244222,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Jon\",\n      \"entity_type\": \"person\",\n      \"property\": \"passion\",\n      \"value\": \"dancing\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"at least since childhood\",\n      \"evidence_turn_ids\": [\"D1:4\", \"D1:6\"]\n    },\n    {\n      \"entity\": \"Jon\",\n      \"entity_type\": \"person\",\n      \"property\": \"started_project\",\n      \"value\": \"dance studio\",\n      \"modality\": \"planned\",\n      \"valid_time\": \"current\",\n      \"evidence_turn_ids\": [\"D1:4\"]\n    },\n    {\n      \"entity\": \"Jon\",\n      \"entity_type\": \"person\",\n      \"property\": \"purpose_of_dance_studio\",\n      \"value\": \"share his passion for dancing and teach others the joy of dancing\",\n      \"modality\": \"planned\",\n      \"valid_time\": \"current\",\n      \"evidence_turn_ids\": [\"D1:4\", \"D1:6\"]\n    },\n    {\n      \"entity\": \"Jon\",\n      \"entity_type\": \"person\",\n      \"property\": \"favorite_dance_style\",\n      \"value\": \"contemporary\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current\",\n      \"evidence_turn_ids\": [\"D1:8\"]\n    },\n    {\n      \"entity\": \"Gina\",\n      \"entity_type\": \"person\",\n      \"property\": \"uses_dance_for\",\n      \"value\": \"stress relief\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current\",\n      \"evidence_turn_ids\": [\"D1:7\"]\n    },\n    {\n      \"entity\": \"Gina\",\n      \"entity_type\": \"person\",\n      \"property\": \"favorite_dance_style\",\n      \"value\": \"contemporary\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current\",\n      \"evidence_turn_ids\": [\"D1:9\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 778,
+        "completion_tokens": 434,
+        "total_tokens": 1212,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-30::session_1::episode-003",
+    "stage": "entity_property_extraction",
+    "call_id": "8001e279-0063-4fdf-ac1c-ca2855ec43f5",
+    "latency_seconds": 2.6762689590000015,
+    "response": {
+      "id": "chatcmpl-EZysrah8bZi8ZMswbpXvob8U9PXD2",
+      "object": "chat.completion",
+      "created": 1792244225,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Jon\",\n      \"entity_type\": \"person\",\n      \"property\": \"suggested_activity\",\n      \"value\": \"go to a dance class\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D1:10\"]\n    },\n    {\n      \"entity\": \"Jon\",\n      \"entity_type\": \"person\",\n      \"property\": \"planned_activity\",\n      \"value\": \"show dance moves\",\n      \"modality\": \"planned\",\n      \"valid_time\": \"next Friday\",\n      \"evidence_turn_ids\": [\"D1:12\"]\n    },\n    {\n      \"entity\": \"Gina\",\n      \"entity_type\": \"person\",\n      \"property\": \"agreed_schedule\",\n      \"value\": \"dance session next Friday\",\n      \"modality\": \"planned\",\n      \"valid_time\": \"next Friday\",\n      \"evidence_turn_ids\": [\"D1:13\"]\n    },\n    {\n      \"entity\": \"Gina\",\n      \"entity_type\": \"person\",\n      \"property\": \"expressed_interest\",\n      \"value\": \"explore new dance moves and plan dance session\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D1:11\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 648,
+        "completion_tokens": 283,
+        "total_tokens": 931,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-30::session_1::episode-004",
+    "stage": "entity_property_extraction",
+    "call_id": "c2678edb-1757-48b8-8862-5a5f555f1b59",
+    "latency_seconds": 3.930927208,
+    "response": {
+      "id": "chatcmpl-EZysutZLJoPfkgJHCZVRSuzcXHuhv",
+      "object": "chat.completion",
+      "created": 1792244228,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Jon\",\n      \"entity_type\": \"person\",\n      \"property\": \"dance_crew_award\",\n      \"value\": \"first place in a local competition last year\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last year before 20 January 2023\",\n      \"evidence_turn_ids\": [\"D1:16\"]\n    },\n    {\n      \"entity\": \"Jon\",\n      \"entity_type\": \"person\",\n      \"property\": \"dance_crew_performance_location\",\n      \"value\": \"stage\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last year before 20 January 2023\",\n      \"evidence_turn_ids\": [\"D1:16\"]\n    },\n    {\n      \"entity\": \"Jon\",\n      \"entity_type\": \"person\",\n      \"property\": \"dance_crew_feeling\",\n      \"value\": \"amazing\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last year before 20 January 2023\",\n      \"evidence_turn_ids\": [\"D1:16\"]\n    },\n    {\n      \"entity\": \"Gina\",\n      \"entity_type\": \"person\",\n      \"property\": \"competition_history\",\n      \"value\": \"competed in a few dance competitions and shows\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"unspecified past before 20 January 2023\",\n      \"evidence_turn_ids\": [\"D1:17\"]\n    },\n    {\n      \"entity\": \"Gina\",\n      \"entity_type\": \"person\",\n      \"property\": \"competition_win\",\n      \"value\": \"first place at regionals at age fifteen\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"at age fifteen\",\n      \"evidence_turn_ids\": [\"D1:17\"]\n    },\n    {\n      \"entity\": \"Gina\",\n      \"entity_type\": \"person\",\n      \"property\": \"competition_win_feeling\",\n      \"value\": \"awesome feeling of accomplishment\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"at age fifteen\",\n      \"evidence_turn_ids\": [\"D1:17\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 889,
+        "completion_tokens": 471,
+        "total_tokens": 1360,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-30::session_1::episode-005",
+    "stage": "entity_property_extraction",
+    "call_id": "fbb88f25-a326-4666-b761-7f2de61d54ae",
+    "latency_seconds": 3.7621177500000016,
+    "response": {
+      "id": "chatcmpl-EZysznmhJZU3ribjy4q1YUWdBJV94",
+      "object": "chat.completion",
+      "created": 1792244233,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Finding Freedom\",\n      \"entity_type\": \"activity\",\n      \"property\": \"dance_style\",\n      \"value\": \"contemporary\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"recent past before 4:04 pm on 20 January, 2023\",\n      \"evidence_turn_ids\": [\"D1:19\"]\n    },\n    {\n      \"entity\": \"Finding Freedom\",\n      \"entity_type\": \"activity\",\n      \"property\": \"emotional_quality\",\n      \"value\": \"really emotional and powerful\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"recent past before 4:04 pm on 20 January, 2023\",\n      \"evidence_turn_ids\": [\"D1:19\"]\n    },\n    {\n      \"entity\": \"Jon\",\n      \"entity_type\": \"person\",\n      \"property\": \"ideal_dance_studio_view\",\n      \"value\": \"overlooking ocean\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"at 4:04 pm on 20 January, 2023\",\n      \"evidence_turn_ids\": [\"D1:20\"]\n    },\n    {\n      \"entity\": \"Jon\",\n      \"entity_type\": \"person\",\n      \"property\": \"plans_to_find_inspiring_dance_studio\",\n      \"value\": \"hopes to find a place like the dance studio by the water\",\n      \"modality\": \"planned\",\n      \"valid_time\": \"future relative to 4:04 pm on 20 January, 2023\",\n      \"evidence_turn_ids\": [\"D1:22\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 794,
+        "completion_tokens": 354,
+        "total_tokens": 1148,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-30::session_1::episode-006",
+    "stage": "entity_property_extraction",
+    "call_id": "1dd1caf3-7c65-4672-816a-815e8bcf2fb2",
+    "latency_seconds": 5.222906459000001,
+    "response": {
+      "id": "chatcmpl-EZyt3Cu1DLd1EZqsP7bvx0Ytcsqqg",
+      "object": "chat.completion",
+      "created": 1792244237,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Jon\",\n      \"entity_type\": \"person\",\n      \"property\": \"rehearsed_with\",\n      \"value\": \"a small group of dancers\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"after work on 20 January, 2023\",\n      \"evidence_turn_ids\": [\"D1:24\"]\n    },\n    {\n      \"entity\": \"Jon's dance group\",\n      \"entity_type\": \"organization\",\n      \"property\": \"dance_styles\",\n      \"value\": \"from contemporary to hip-hop\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"around 20 January, 2023\",\n      \"evidence_turn_ids\": [\"D1:24\"]\n    },\n    {\n      \"entity\": \"Jon's dance group\",\n      \"entity_type\": \"organization\",\n      \"property\": \"project_status\",\n      \"value\": \"finishing up choreography\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"around 20 January, 2023\",\n      \"evidence_turn_ids\": [\"D1:24\"]\n    },\n    {\n      \"entity\": \"Jon's dance group\",\n      \"entity_type\": \"organization\",\n      \"property\": \"upcoming_performance\",\n      \"value\": \"perform at a nearby festival next month\",\n      \"modality\": \"planned\",\n      \"valid_time\": \"next month after 20 January, 2023\",\n      \"evidence_turn_ids\": [\"D1:24\"]\n    },\n    {\n      \"entity\": \"Jon's dance group\",\n      \"entity_type\": \"organization\",\n      \"property\": \"festival_performance_identity\",\n      \"value\": \"the ones performing at the festival\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"around 20 January, 2023\",\n      \"evidence_turn_ids\": [\"D1:26\"]\n    },\n    {\n      \"entity\": \"Jon's dance group\",\n      \"entity_type\": \"organization\",\n      \"property\": \"practice_intensity\",\n      \"value\": \"have been practicing hard\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"up to 20 January, 2023\",\n      \"evidence_turn_ids\": [\"D1:26\"]\n    },\n    {\n      \"entity\": \"Jon's dance group\",\n      \"entity_type\": \"organization\",\n      \"property\": \"performance_quality_expectation\",\n      \"value\": \"will definitely impress with grace and skill\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"in the upcoming festival next month\",\n      \"evidence_turn_ids\": [\"D1:26\"]\n    },\n    {\n      \"entity\": \"Jon\",\n      \"entity_type\": \"person\",\n      \"property\": \"participation_status\",\n      \"value\": \"glad to be part of it\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"around 20 January, 2023\",\n      \"evidence_turn_ids\": [\"D1:28\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 804,
+        "completion_tokens": 645,
+        "total_tokens": 1449,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-30::session_2::episode-001",
+    "stage": "entity_property_extraction",
+    "call_id": "e55df6aa-4da5-4383-b469-90435af2d88c",
+    "latency_seconds": 3.944492834000002,
+    "response": {
+      "id": "chatcmpl-EZyt75V3EvkXY0zb7fzVweC9n8ZLg",
+      "object": "chat.completion",
+      "created": 1792244241,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Gina\",\n      \"entity_type\": \"person\",\n      \"property\": \"recent_activity\",\n      \"value\": \"launched an ad campaign for her clothing store\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"at or before 2:32 pm on 29 January, 2023\",\n      \"evidence_turn_ids\": [\"D2:1\"]\n    },\n    {\n      \"entity\": \"Gina\",\n      \"entity_type\": \"person\",\n      \"property\": \"business_type\",\n      \"value\": \"clothing store she owns\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D2:1\"]\n    },\n    {\n      \"entity\": \"Gina\",\n      \"entity_type\": \"person\",\n      \"property\": \"feeling_about_business\",\n      \"value\": \"starting her own store and taking risks is both scary and rewarding\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D2:1\"]\n    },\n    {\n      \"entity\": \"Gina\",\n      \"entity_type\": \"person\",\n      \"property\": \"business_growth_goal\",\n      \"value\": \"hopes to grow the business\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D2:1\"]\n    },\n    {\n      \"entity\": \"Jon\",\n      \"entity_type\": \"person\",\n      \"property\": \"complimented\",\n      \"value\": \"Gina's clothing store looks great and her hard work paid off\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D2:2\"]\n    },\n    {\n      \"entity\": \"Jon\",\n      \"entity_type\": \"person\",\n      \"property\": \"asked_about\",\n      \"value\": \"how Gina's dance studio is going and if she found the right spot\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D2:3\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 696,
+        "completion_tokens": 459,
+        "total_tokens": 1155,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-30::session_2::episode-002",
+    "stage": "entity_property_extraction",
+    "call_id": "2ea02988-cb78-4520-9965-42aaf7e02269",
+    "latency_seconds": 3.7615554169999967,
+    "response": {
+      "id": "chatcmpl-EZytBjrDJXCv6yovFB64cGNpWXGUk",
+      "object": "chat.completion",
+      "created": 1792244245,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Jon\",\n      \"entity_type\": \"person\",\n      \"property\": \"current_activity\",\n      \"value\": \"looking for the ideal spot for a dance studio\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"around 29 January, 2023\",\n      \"evidence_turn_ids\": [\"D2:4\"]\n    },\n    {\n      \"entity\": \"Jon\",\n      \"entity_type\": \"person\",\n      \"property\": \"visited_place\",\n      \"value\": \"Paris\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"yesterday relative to 29 January, 2023\",\n      \"evidence_turn_ids\": [\"D2:4\"]\n    },\n    {\n      \"entity\": \"Jon's dance studio location\",\n      \"entity_type\": \"place\",\n      \"property\": \"location\",\n      \"value\": \"downtown\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"present as of 29 January, 2023\",\n      \"evidence_turn_ids\": [\"D2:6\"]\n    },\n    {\n      \"entity\": \"Jon's dance studio location\",\n      \"entity_type\": \"place\",\n      \"property\": \"feature\",\n      \"value\": \"great natural light\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"present as of 29 January, 2023\",\n      \"evidence_turn_ids\": [\"D2:4\", \"D2:6\"]\n    },\n    {\n      \"entity\": \"Jon's dance studio location\",\n      \"entity_type\": \"place\",\n      \"property\": \"accessibility\",\n      \"value\": \"easy to get to\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"present as of 29 January, 2023\",\n      \"evidence_turn_ids\": [\"D2:6\"]\n    },\n    {\n      \"entity\": \"dance floor\",\n      \"entity_type\": \"object\",\n      \"property\": \"desired_quality\",\n      \"value\": \"good bounce to allow safe dancing for Jon and his students\",\n      \"modality\": \"planned\",\n      \"valid_time\": \"future use relative to 29 January, 2023\",\n      \"evidence_turn_ids\": [\"D2:6\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 776,
+        "completion_tokens": 487,
+        "total_tokens": 1263,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-30::session_2::episode-003",
+    "stage": "entity_property_extraction",
+    "call_id": "885370c8-33e2-484b-88eb-eba4cd0f0dfd",
+    "latency_seconds": 12.218122915999999,
+    "response": {
+      "id": "chatcmpl-EZytMbZ5nISoK8ANhv3HPj1F4PkFp",
+      "object": "chat.completion",
+      "created": 1792244256,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"dance floors\",\n      \"entity_type\": \"object\",\n      \"property\": \"purpose\",\n      \"value\": \"help avoid injuries and make dancing more enjoyable\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D2:7\"]\n    },\n    {\n      \"entity\": \"Jon\",\n      \"entity_type\": \"person\",\n      \"property\": \"desired dance flooring type\",\n      \"value\": \"Marley flooring\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D2:8\"]\n    },\n    {\n      \"entity\": \"Marley flooring\",\n      \"entity_type\": \"object\",\n      \"property\": \"usage\",\n      \"value\": \"usually used in dance studios\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D2:8\"]\n    },\n    {\n      \"entity\": \"Marley flooring\",\n      \"entity_type\": \"object\",\n      \"property\": \"characteristics\",\n      \"value\": \"grippy, allows movement, tough, easy to clean\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D2:8\"]\n    },\n    {\n      \"entity\": \"Gina\",\n      \"entity_type\": \"person\",\n      \"property\": \"opinion about Marley flooring\",\n      \"value\": \"perfect; has right amount of grip and movement\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D2:9\"]\n    },\n    {\n      \"entity\": \"Jon\",\n      \"entity_type\": \"person\",\n      \"property\": \"status of dance studio project\",\n      \"value\": \"looking for the right place and getting everything ready\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"before completion\",\n      \"evidence_turn_ids\": [\"D2:10\"]\n    },\n    {\n      \"entity\": \"Jon\",\n      \"entity_type\": \"person\",\n      \"property\": \"emotional state about dance studio project\",\n      \"value\": \"excited and nerve-wracking but determined\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"before completion\",\n      \"evidence_turn_ids\": [\"D2:10\"]\n    },\n    {\n      \"entity\": \"Jon\",\n      \"entity_type\": \"person\",\n      \"property\": \"expected dance studio project outcome\",\n      \"value\": \"will be worth it\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"future\",\n      \"evidence_turn_ids\": [\"D2:10\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 726,
+        "completion_tokens": 583,
+        "total_tokens": 1309,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-30::session_2::episode-004",
+    "stage": "entity_property_extraction",
+    "call_id": "dab11286-e3b3-46c3-9693-98ad2b0ddf7a",
+    "latency_seconds": 3.9705236249999984,
+    "response": {
+      "id": "chatcmpl-EZytRMRNMLjBA9pFgEPCVcCWu6UaO",
+      "object": "chat.completion",
+      "created": 1792244261,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Gina\",\n      \"entity_type\": \"person\",\n      \"property\": \"support_role\",\n      \"value\": \"provides encouragement and motivation to Jon\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"2:32 pm on 29 January, 2023\",\n      \"evidence_turn_ids\": [\"D2:11\", \"D2:13\", \"D2:15\"]\n    },\n    {\n      \"entity\": \"Jon\",\n      \"entity_type\": \"person\",\n      \"property\": \"coping_strategies\",\n      \"value\": \"makes time to dance and vent to destress\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"2:32 pm on 29 January, 2023\",\n      \"evidence_turn_ids\": [\"D2:12\"]\n    },\n    {\n      \"entity\": \"Jon\",\n      \"entity_type\": \"person\",\n      \"property\": \"attitude_towards_process\",\n      \"value\": \"optimistic and determined to push through despite tough process\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"2:32 pm on 29 January, 2023\",\n      \"evidence_turn_ids\": [\"D2:11\", \"D2:12\"]\n    },\n    {\n      \"entity\": \"Gina_and_Jon\",\n      \"entity_type\": \"other\",\n      \"property\": \"shared_goal\",\n      \"value\": \"pursue dreams and achieve success\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"2:32 pm on 29 January, 2023\",\n      \"evidence_turn_ids\": [\"D2:14\", \"D2:15\", \"D2:16\"]\n    },\n    {\n      \"entity\": \"Gina_and_Jon\",\n      \"entity_type\": \"other\",\n      \"property\": \"current_progress\",\n      \"value\": \"have done much and believe success is almost here\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"2:32 pm on 29 January, 2023\",\n      \"evidence_turn_ids\": [\"D2:15\", \"D2:16\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 761,
+        "completion_tokens": 473,
+        "total_tokens": 1234,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-30::session_3::episode-001",
+    "stage": "entity_property_extraction",
+    "call_id": "7dc26c72-164f-48e9-8bfa-b8351fc698b5",
+    "latency_seconds": 5.791622416999999,
+    "response": {
+      "id": "chatcmpl-EZytVHuCqFIynCBlOVI2vlqXQpDpX",
+      "object": "chat.completion",
+      "created": 1792244265,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Jon\",\n      \"entity_type\": \"person\",\n      \"property\": \"passion\",\n      \"value\": \"dance\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"present\",\n      \"evidence_turn_ids\": [\"D3:1\"]\n    },\n    {\n      \"entity\": \"Jon\",\n      \"entity_type\": \"person\",\n      \"property\": \"status\",\n      \"value\": \"bumpy but determined to make dance passion work\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"present\",\n      \"evidence_turn_ids\": [\"D3:1\"]\n    },\n    {\n      \"entity\": \"Jon\",\n      \"entity_type\": \"person\",\n      \"property\": \"goal\",\n      \"value\": \"open a dance studio\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"present\",\n      \"evidence_turn_ids\": [\"D3:1\"]\n    },\n    {\n      \"entity\": \"Gina\",\n      \"entity_type\": \"person\",\n      \"property\": \"action\",\n      \"value\": \"emailed wholesalers\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"recent past\",\n      \"evidence_turn_ids\": [\"D3:2\"]\n    },\n    {\n      \"entity\": \"Gina\",\n      \"entity_type\": \"person\",\n      \"property\": \"response_from_wholesaler\",\n      \"value\": \"positive reply today\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"today\",\n      \"evidence_turn_ids\": [\"D3:2\"]\n    },\n    {\n      \"entity\": \"Gina\",\n      \"entity_type\": \"person\",\n      \"property\": \"feeling\",\n      \"value\": \"over the moon\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"present\",\n      \"evidence_turn_ids\": [\"D3:2\"]\n    },\n    {\n      \"entity\": \"Gina\",\n      \"entity_type\": \"person\",\n      \"property\": \"business_plan\",\n      \"value\": \"expand her clothing store to get closer to customers\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"planned\",\n      \"evidence_turn_ids\": [\"D3:2\"]\n    },\n    {\n      \"entity\": \"Gina\",\n      \"entity_type\": \"person\",\n      \"property\": \"store_location\",\n      \"value\": \"shopping mall with glass entrance and a sign (from photo)\",\n      \"modality\": \"uncertain\",\n      \"valid_time\": \"present\",\n      \"evidence_turn_ids\": [\"D3:2\"]\n    },\n    {\n      \"entity\": \"Jon\",\n      \"entity_type\": \"person\",\n      \"property\": \"opinion_on_Gina_store_spot\",\n      \"value\": \"perfect spot for her store\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"present\",\n      \"evidence_turn_ids\": [\"D3:3\"]\n    },\n    {\n      \"entity\": \"Jon\",\n      \"entity_type\": \"person\",\n      \"property\": \"observation\",\n      \"value\": \"Gina's hard work is paying off\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"present\",\n      \"evidence_turn_ids\": [\"D3:3\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 749,
+        "completion_tokens": 707,
+        "total_tokens": 1456,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-30::session_3::episode-002",
+    "stage": "entity_property_extraction",
+    "call_id": "81ab836c-9a90-4ae5-bd3c-83895f00330e",
+    "latency_seconds": 4.823930374999989,
+    "response": {
+      "id": "chatcmpl-EZytbB9U8S3AWU1wkHpSwKRysZx1o",
+      "object": "chat.completion",
+      "created": 1792244271,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"store\",\n      \"entity_type\": \"place\",\n      \"property\": \"appearance\",\n      \"value\": \"cozy and inviting, perfect for customers to check out all the trendy pieces\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"now\",\n      \"evidence_turn_ids\": [\"D3:4\"]\n    },\n    {\n      \"entity\": \"Gina\",\n      \"entity_type\": \"person\",\n      \"property\": \"designed place\",\n      \"value\": \"store\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"recent past\",\n      \"evidence_turn_ids\": [\"D3:4\"]\n    },\n    {\n      \"entity\": \"Gina\",\n      \"entity_type\": \"person\",\n      \"property\": \"design intention\",\n      \"value\": \"make the place look like her own style and make customers feel cozy\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"recent past\",\n      \"evidence_turn_ids\": [\"D3:6\"]\n    },\n    {\n      \"entity\": \"Gina\",\n      \"entity_type\": \"person\",\n      \"property\": \"furniture selection criteria\",\n      \"value\": \"furniture that looks great and is comfy\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"recent past\",\n      \"evidence_turn_ids\": [\"D3:6\"]\n    },\n    {\n      \"entity\": \"store\",\n      \"entity_type\": \"place\",\n      \"property\": \"chandelier style impact\",\n      \"value\": \"adds a nice glam feel while matching the style of the store\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"recent past\",\n      \"evidence_turn_ids\": [\"D3:6\"]\n    },\n    {\n      \"entity\": \"Gina\",\n      \"entity_type\": \"person\",\n      \"property\": \"design goal for customers\",\n      \"value\": \"make the spot comfortable and inviting so customers feel like they're in a cool oasis and want to come back\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"present\",\n      \"evidence_turn_ids\": [\"D3:8\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 849,
+        "completion_tokens": 470,
+        "total_tokens": 1319,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-30::session_3::episode-003",
+    "stage": "entity_property_extraction",
+    "call_id": "4ca09771-bad0-4a6a-9d74-f85ae101aefb",
+    "latency_seconds": 3.540758666000002,
+    "response": {
+      "id": "chatcmpl-EZytgbdcN3j9wDfq6iQ2rFyRskuwL",
+      "object": "chat.completion",
+      "created": 1792244276,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Gina\",\n      \"entity_type\": \"person\",\n      \"property\": \"goal\",\n      \"value\": \"create a special shopping experience for customers\",\n      \"modality\": \"desired\",\n      \"valid_time\": \"present/future\",\n      \"evidence_turn_ids\": [\"D3:10\"]\n    },\n    {\n      \"entity\": \"Gina\",\n      \"entity_type\": \"person\",\n      \"property\": \"attitude\",\n      \"value\": \"up for the challenge of creating a special shopping experience\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"present\",\n      \"evidence_turn_ids\": [\"D3:10\"]\n    },\n    {\n      \"entity\": \"Jon\",\n      \"entity_type\": \"person\",\n      \"property\": \"goal\",\n      \"value\": \"do great with his dance studio\",\n      \"modality\": \"desired\",\n      \"valid_time\": \"present/future\",\n      \"evidence_turn_ids\": [\"D3:12\"]\n    },\n    {\n      \"entity\": \"Jon\",\n      \"entity_type\": \"person\",\n      \"property\": \"attitude\",\n      \"value\": \"staying positive and pushing forward with his dance studio\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"present\",\n      \"evidence_turn_ids\": [\"D3:13\"]\n    },\n    {\n      \"entity\": \"Jon\",\n      \"entity_type\": \"person\",\n      \"property\": \"support role\",\n      \"value\": \"supporting Gina to create a special shopping experience\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"present\",\n      \"evidence_turn_ids\": [\"D3:9\",\"D3:11\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 808,
+        "completion_tokens": 373,
+        "total_tokens": 1181,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-30::session_4::episode-001",
+    "stage": "entity_property_extraction",
+    "call_id": "2d364035-a5ae-42c5-9ddb-5f8cb5949fc6",
+    "latency_seconds": 79.63127512500002,
+    "response": {
+      "id": "chatcmpl-EZyuxFBbFB3uNqkJxhKRY0l211gvF",
+      "object": "chat.completion",
+      "created": 1792244355,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Gina\",\n      \"entity_type\": \"person\",\n      \"property\": \"store_status\",\n      \"value\": \"doing great\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"10:43 am on 4 February, 2023\",\n      \"evidence_turn_ids\": [\"D4:2\"]\n    },\n    {\n      \"entity\": \"Jon\",\n      \"entity_type\": \"person\",\n      \"property\": \"business_effort\",\n      \"value\": \"putting in a lot of work despite obstacles and determined to succeed\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"10:43 am on 4 February, 2023\",\n      \"evidence_turn_ids\": [\"D4:3\"]\n    },\n    {\n      \"entity\": \"Jon\",\n      \"entity_type\": \"person\",\n      \"property\": \"business_support_from_Gina\",\n      \"value\": \"appreciates Gina's help and support as important\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"10:43 am on 4 February, 2023\",\n      \"evidence_turn_ids\": [\"D4:5\", \"D4:7\"]\n    },\n    {\n      \"entity\": \"Gina\",\n      \"entity_type\": \"person\",\n      \"property\": \"support_to_Jon\",\n      \"value\": \"offers full support and encouragement not to give up\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"10:43 am on 4 February, 2023\",\n      \"evidence_turn_ids\": [\"D4:6\", \"D4:8\"]\n    },\n    {\n      \"entity\": \"Jon\",\n      \"entity_type\": \"person\",\n      \"property\": \"business_issue\",\n      \"value\": \"searching for a dance studio location is tricky but determined to find the right spot\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"10:43 am on 4 February, 2023\",\n      \"evidence_turn_ids\": [\"D4:9\"]\n    },\n    {\n      \"entity\": \"Gina\",\n      \"entity_type\": \"person\",\n      \"property\": \"comment_on_Jon's_search\",\n      \"value\": \"acknowledges searching for perfect dance studio is tough and encourages persistence\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"10:43 am on 4 February, 2023\",\n      \"evidence_turn_ids\": [\"D4:10\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 986,
+        "completion_tokens": 541,
+        "total_tokens": 1527,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-30::session_4::episode-002",
+    "stage": "entity_property_extraction",
+    "call_id": "09b15eb3-c0c5-4afe-a420-1a5e495f2596",
+    "latency_seconds": 82.13390166699998,
+    "response": {
+      "id": "chatcmpl-EZywG3HoQVbbsXnoZKblEbPfuUDtx",
+      "object": "chat.completion",
+      "created": 1792244436,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Jon\",\n      \"entity_type\": \"person\",\n      \"property\": \"working_on\",\n      \"value\": \"business\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"around 4 February, 2023\",\n      \"evidence_turn_ids\": [\"D4:11\"]\n    },\n    {\n      \"entity\": \"Jon\",\n      \"entity_type\": \"person\",\n      \"property\": \"working_on\",\n      \"value\": \"new dance routines\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"around 4 February, 2023\",\n      \"evidence_turn_ids\": [\"D4:11\"]\n    },\n    {\n      \"entity\": \"Jon\",\n      \"entity_type\": \"person\",\n      \"property\": \"rehearsing_for\",\n      \"value\": \"an upcoming show\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"around 4 February, 2023\",\n      \"evidence_turn_ids\": [\"D4:11\"]\n    },\n    {\n      \"entity\": \"Jon\",\n      \"entity_type\": \"person\",\n      \"property\": \"passion\",\n      \"value\": \"dancing\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"around 4 February, 2023\",\n      \"evidence_turn_ids\": [\"D4:11\"]\n    },\n    {\n      \"entity\": \"Jon\",\n      \"entity_type\": \"person\",\n      \"property\": \"dance_competition\",\n      \"value\": \"a dance competition near him next month\",\n      \"modality\": \"planned\",\n      \"valid_time\": \"around 4 February, 2023\",\n      \"evidence_turn_ids\": [\"D4:13\"]\n    },\n    {\n      \"entity\": \"Jon\",\n      \"entity_type\": \"person\",\n      \"property\": \"goal_for_competition\",\n      \"value\": \"show skills and get props from the dance community\",\n      \"modality\": \"planned\",\n      \"valid_time\": \"around 4 February, 2023\",\n      \"evidence_turn_ids\": [\"D4:13\"]\n    },\n    {\n      \"entity\": \"Jon\",\n      \"entity_type\": \"person\",\n      \"property\": \"emotional_state\",\n      \"value\": \"stoked for the dance competition\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"around 4 February, 2023\",\n      \"evidence_turn_ids\": [\"D4:13\"]\n    },\n    {\n      \"entity\": \"Jon\",\n      \"entity_type\": \"person\",\n      \"property\": \"commitment\",\n      \"value\": \"going for his dreams\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"around 4 February, 2023\",\n      \"evidence_turn_ids\": [\"D4:17\"]\n    },\n    {\n      \"entity\": \"Jon\",\n      \"entity_type\": \"person\",\n      \"property\": \"determination\",\n      \"value\": \"won't give up\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"around 4 February, 2023\",\n      \"evidence_turn_ids\": [\"D4:19\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 939,
+        "completion_tokens": 685,
+        "total_tokens": 1624,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-30::session_5::episode-001",
+    "stage": "entity_property_extraction",
+    "call_id": "bb5e3f67-7b3b-48ba-ba4d-d24a2019c2bd",
+    "latency_seconds": 80.58950920899997,
+    "response": {
+      "id": "chatcmpl-EZyxY5RqSjl4VFD1AlX7zPClR42la",
+      "object": "chat.completion",
+      "created": 1792244516,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Gina\",\n      \"entity_type\": \"person\",\n      \"property\": \"store_item\",\n      \"value\": \"a cool new fashion piece\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"before 9:32 am on 8 February, 2023\",\n      \"evidence_turn_ids\": [\"D5:1\"]\n    },\n    {\n      \"entity\": \"Gina\",\n      \"entity_type\": \"person\",\n      \"property\": \"store_activity\",\n      \"value\": \"found a cool new fashion piece for her store\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"by 9:32 am on 8 February, 2023\",\n      \"evidence_turn_ids\": [\"D5:1\"]\n    },\n    {\n      \"entity\": \"Jon\",\n      \"entity_type\": \"person\",\n      \"property\": \"performed_at_festival\",\n      \"value\": \"had a dance performance at a festival\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"recently before 9:32 am on 8 February, 2023\",\n      \"evidence_turn_ids\": [\"D5:2\"]\n    },\n    {\n      \"entity\": \"Jon\",\n      \"entity_type\": \"person\",\n      \"property\": \"festival_outcome\",\n      \"value\": \"received many compliments on his dance moves\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"recently before 9:32 am on 8 February, 2023\",\n      \"evidence_turn_ids\": [\"D5:2\"]\n    },\n    {\n      \"entity\": \"Jon\",\n      \"entity_type\": \"person\",\n      \"property\": \"feeling_about_dance\",\n      \"value\": \"dancing brings him joy and reminds him of his passion\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"as of 9:32 am on 8 February, 2023\",\n      \"evidence_turn_ids\": [\"D5:2\"]\n    },\n    {\n      \"entity\": \"Gina\",\n      \"entity_type\": \"person\",\n      \"property\": \"store_status\",\n      \"value\": \"store is growing\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"as of 9:32 am on 8 February, 2023\",\n      \"evidence_turn_ids\": [\"D5:2\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 679,
+        "completion_tokens": 522,
+        "total_tokens": 1201,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  }
+]

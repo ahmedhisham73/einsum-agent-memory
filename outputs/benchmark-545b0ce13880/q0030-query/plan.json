@@ -1,0 +1,10 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Melanie",
+      "property": "activity_pottery_class",
+      "search": "Melanie pottery workshop attendance date"
+    }
+  ]
+}

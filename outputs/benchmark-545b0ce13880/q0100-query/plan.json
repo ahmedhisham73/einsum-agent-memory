@@ -1,0 +1,30 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Caroline",
+      "property": "motivation_for_career_choice",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Caroline",
+      "property": "motivation_source",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Caroline",
+      "property": "personal_motivation",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Caroline",
+      "property": "career_motivation",
+      "search": "standalone evidence search"
+    },
+    {
+      "entity": "Caroline",
+      "property": "personal_experience",
+      "search": "standalone evidence search"
+    }
+  ]
+}

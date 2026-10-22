@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-26::q0068",
+  "category": 2,
+  "question": "When did Caroline go biking with friends?",
+  "gold_answer": "The weekend before 13 September 2023",
+  "status": "failed",
+  "error": "Query failed. See q0068.log"
+}

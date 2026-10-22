@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-EZqJYoB6ujh4iDPitoVSaClChWUTE",
+  "object": "chat.completion",
+  "created": 1792211284,
+  "model": "gpt-4o-mini-2024-07-18",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\"label\":\"WRONG\",\"reason\":\"The generated answer includes additional activities that were not present in the reference answer, such as telling stories, watching meteor showers, and emphasizes bonding and connecting, leading to unsupported additions.\"}",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 213,
+    "completion_tokens": 44,
+    "total_tokens": 257,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_15e2468fb7"
+}

@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-26::q0056",
+  "category": 1,
+  "question": "What subject have Caroline and Melanie both painted?",
+  "gold_answer": "Sunsets",
+  "status": "failed",
+  "error": "Query failed. See q0056.log"
+}

@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "62ec3c82-db97-45bb-84a7-601869a2aaf5",
+    "response": {
+      "id": "chatcmpl-EZixQzCMkhw27zulGqduy8eHNbvUF",
+      "object": "chat.completion",
+      "created": 1792183004,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Caroline\",\"property\":\"plans_to_summer\",\"search\":\"standalone evidence search\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2680,
+        "completion_tokens": 28,
+        "total_tokens": 2708,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_5002831302"
+    },
+    "latency_seconds": 1.841766292
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "85e7cb60-1a93-4b0a-815f-4262b13faaf0",
+    "response": {
+      "id": "chatcmpl-EZixS6M9mGAdA9BLeH2WW4SnbUuJw",
+      "object": "chat.completion",
+      "created": 1792183006,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Caroline plans to adopt children to create a loving family home, focusing on giving kids who need it a safe, supportive family environment. She has been researching adoption agencies, especially those supporting LGBTQ+ folks, and has passed adoption agency interviews. She is excited and hopeful for this new chapter in her life.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_2::episode-002\",\"turn_id\":\"D2:8\"},{\"episode_id\":\"conv-26::session_2::episode-002\",\"turn_id\":\"D2:10\"},{\"episode_id\":\"conv-26::session_2::episode-002\",\"turn_id\":\"D2:12\"},{\"episode_id\":\"conv-26::session_2::episode-002\",\"turn_id\":\"D2:14\"},{\"episode_id\":\"conv-26::session_17::episode-001\",\"turn_id\":\"D17:1\"},{\"episode_id\":\"conv-26::session_19::episode-001\",\"turn_id\":\"D19:1\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3702,
+        "completion_tokens": 212,
+        "total_tokens": 3914,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_38f508f26a"
+    },
+    "latency_seconds": 2.560095459
+  }
+]

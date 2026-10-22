@@ -1,0 +1,25 @@
+{
+  "question_id": "conv-26::q0152",
+  "category": 4,
+  "question": "What did Melanie do after the road trip to relax?",
+  "gold_answer": "Went on a nature walk or hike",
+  "status": "scored",
+  "generated_answer": "After the road trip, Melanie relaxed by going on a camping trip with her family. She enjoyed being in nature, bonding over stories and campfires, and appreciating the peace and serenity that camping brought her, which helped her reset and recharge.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_18::chunk-0015",
+      "turn_id": "D18:17"
+    },
+    {
+      "episode_id": "conv-26::session_18::chunk-0015",
+      "turn_id": "D18:19"
+    },
+    {
+      "episode_id": "conv-26::session_18::chunk-0015",
+      "turn_id": "D18:21"
+    }
+  ],
+  "query_elapsed_seconds": 5.4138108339999995,
+  "label": "WRONG",
+  "judge_reason": "The generated answer describes a camping trip, which is different from a nature walk or hike as specified in the reference answer."
+}

@@ -1,0 +1,10 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Melanie",
+      "property": "experienced accident",
+      "search": "Melanie injury date or time of accident"
+    }
+  ]
+}

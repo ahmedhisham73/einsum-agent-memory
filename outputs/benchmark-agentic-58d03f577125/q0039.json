@@ -1,0 +1,37 @@
+{
+  "question_id": "conv-26::q0039",
+  "category": 1,
+  "question": "What activities has Melanie done with her family?",
+  "gold_answer": "Pottery, painting, camping, museum, swimming, hiking",
+  "status": "scored",
+  "generated_answer": "Melanie has done a variety of activities with her family including camping trips in the mountains and forest where they explored nature, roasted marshmallows around campfires, and went hiking. They have also enjoyed hiking in the mountains and exploring forests together. Additionally, they went to the beach recently, where the kids played and had a blast. These activities highlight their love for nature and spending quality time together as a family.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_4::chunk-0005",
+      "turn_id": "D4:6"
+    },
+    {
+      "episode_id": "conv-26::session_4::chunk-0005",
+      "turn_id": "D4:8"
+    },
+    {
+      "episode_id": "conv-26::session_8::chunk-0030",
+      "turn_id": "D8:32"
+    },
+    {
+      "episode_id": "conv-26::session_8::chunk-0030",
+      "turn_id": "D8:34"
+    },
+    {
+      "episode_id": "conv-26::session_10::chunk-0005",
+      "turn_id": "D10:8"
+    },
+    {
+      "episode_id": "conv-26::session_10::chunk-0005",
+      "turn_id": "D10:10"
+    }
+  ],
+  "query_elapsed_seconds": 5.86169575,
+  "label": "WRONG",
+  "judge_reason": "The generated answer includes activities not mentioned in the reference answer, such as going to the beach and additional details about nature that were not part of the requested answer."
+}

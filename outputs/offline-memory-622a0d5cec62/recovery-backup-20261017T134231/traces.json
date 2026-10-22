@@ -1,0 +1,674 @@
+[
+  {
+    "source_id": "session_1",
+    "stage": "episode_partitioning",
+    "call_id": "8efb9a25-a49b-47ec-bebe-7bb802d135c9",
+    "latency_seconds": 2.21930525,
+    "response": {
+      "id": "chatcmpl-EZrKC9EgBtjblDkLgF81dkR1oWXQm",
+      "object": "chat.completion",
+      "created": 1792215168,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D1:1\",\n      \"end_turn_id\": \"D1:3\",\n      \"theme\": \"Casual catch-up and personal updates\"\n    },\n    {\n      \"start_turn_id\": \"D1:4\",\n      \"end_turn_id\": \"D1:5\",\n      \"theme\": \"Discussion of fitness activities and goals\"\n    },\n    {\n      \"start_turn_id\": \"D1:6\",\n      \"end_turn_id\": \"D1:8\",\n      \"theme\": \"John's political aspirations and focus areas\"\n    },\n    {\n      \"start_turn_id\": \"D1:9\",\n      \"end_turn_id\": \"D1:12\",\n      \"theme\": \"Motivations for political goals and school funding impact\"\n    },\n    {\n      \"start_turn_id\": \"D1:13\",\n      \"end_turn_id\": \"D1:16\",\n      \"theme\": \"Plans for political campaign and support gathering\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1175,
+        "completion_tokens": 216,
+        "total_tokens": 1391,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_2",
+    "stage": "episode_partitioning",
+    "call_id": "7998ccda-d4b9-40ee-b253-00107c5d2ddd",
+    "latency_seconds": 2.2975005840000002,
+    "response": {
+      "id": "chatcmpl-EZrKF6PwIgSleZXEvb4g0jwmNHc59",
+      "object": "chat.completion",
+      "created": 1792215171,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D2:1\",\n      \"end_turn_id\": \"D2:9\",\n      \"theme\": \"Discussion about John's campaign and motivation for community improvement\"\n    },\n    {\n      \"start_turn_id\": \"D2:10\",\n      \"end_turn_id\": \"D2:13\",\n      \"theme\": \"John shares family photo and reflects on family support and love\"\n    },\n    {\n      \"start_turn_id\": \"D2:14\",\n      \"end_turn_id\": \"D2:19\",\n      \"theme\": \"Conversation about family activities and spending time together\"\n    },\n    {\n      \"start_turn_id\": \"D2:20\",\n      \"end_turn_id\": \"D2:27\",\n      \"theme\": \"Sharing family dinner moments and cooking experiences\"\n    },\n    {\n      \"start_turn_id\": \"D2:28\",\n      \"end_turn_id\": \"D2:28\",\n      \"theme\": \"John's plans to practice taekwondo and final encouraging remarks\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2026,
+        "completion_tokens": 226,
+        "total_tokens": 2252,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_3",
+    "stage": "episode_partitioning",
+    "call_id": "b3b0f069-a1de-4731-b5e0-b9a8e762e1c1",
+    "latency_seconds": 1.7035780420000002,
+    "response": {
+      "id": "chatcmpl-EZrKIS69aR6O8wvJVGSYQfleg9YRX",
+      "object": "chat.completion",
+      "created": 1792215174,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D3:1\",\n      \"end_turn_id\": \"D3:10\",\n      \"theme\": \"John's involvement in a service-focused community and their impact\"\n    },\n    {\n      \"start_turn_id\": \"D3:11\",\n      \"end_turn_id\": \"D3:17\",\n      \"theme\": \"Support for John during personal challenges and appreciation of nature\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1397,
+        "completion_tokens": 98,
+        "total_tokens": 1495,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_4",
+    "stage": "episode_partitioning",
+    "call_id": "c6eea433-88ec-40a7-b176-9fe6a1a5ce68",
+    "latency_seconds": 1.3325798750000004,
+    "response": {
+      "id": "chatcmpl-EZrKJuU1CcfgqWmTxu7jzG5ys3CyO",
+      "object": "chat.completion",
+      "created": 1792215175,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D4:1\",\n      \"end_turn_id\": \"D4:10\",\n      \"theme\": \"Conversation about personal challenges and resilience\"\n    },\n    {\n      \"start_turn_id\": \"D4:11\",\n      \"end_turn_id\": \"D4:26\",\n      \"theme\": \"Discussion about local politics and community involvement\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1778,
+        "completion_tokens": 90,
+        "total_tokens": 1868,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_5",
+    "stage": "episode_partitioning",
+    "call_id": "6db7fb3b-ffec-49f0-8425-8e15410ba5e6",
+    "latency_seconds": 1.7767511250000005,
+    "response": {
+      "id": "chatcmpl-EZrKLYTBa1rsdoqJacTdy7Auny9At",
+      "object": "chat.completion",
+      "created": 1792215177,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D5:1\",\n      \"end_turn_id\": \"D5:5\",\n      \"theme\": \"Discussion on the state of education and need for improvements\"\n    },\n    {\n      \"start_turn_id\": \"D5:6\",\n      \"end_turn_id\": \"D5:10\",\n      \"theme\": \"Maria's volunteering experience at a kids' shelter\"\n    },\n    {\n      \"start_turn_id\": \"D5:11\",\n      \"end_turn_id\": \"D5:16\",\n      \"theme\": \"Reflection on kindness, support, and shared childhood memories\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1457,
+        "completion_tokens": 140,
+        "total_tokens": 1597,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_6",
+    "stage": "episode_partitioning",
+    "call_id": "00b2eb9b-3184-4b77-b6b4-b89027e09aa5",
+    "latency_seconds": 2.887926042,
+    "response": {
+      "id": "chatcmpl-EZrKNNW6SrRai9cSBkcg8deOTkuy8",
+      "object": "chat.completion",
+      "created": 1792215179,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D6:1\",\n      \"end_turn_id\": \"D6:3\",\n      \"theme\": \"Maria shares her experience volunteering at a charity event and its emotional impact\"\n    },\n    {\n      \"start_turn_id\": \"D6:4\",\n      \"end_turn_id\": \"D6:7\",\n      \"theme\": \"John discusses his political motivations and they talk about helping a specific individual in need\"\n    },\n    {\n      \"start_turn_id\": \"D6:8\",\n      \"end_turn_id\": \"D6:9\",\n      \"theme\": \"Maria reflects on her past struggles and the importance of helping others\"\n    },\n    {\n      \"start_turn_id\": \"D6:10\",\n      \"end_turn_id\": \"D6:14\",\n      \"theme\": \"John talks about his involvement in a food drive and the reasons behind it\"\n    },\n    {\n      \"start_turn_id\": \"D6:15\",\n      \"end_turn_id\": \"D6:18\",\n      \"theme\": \"Discussion about the success of the food drive and offers to collaborate\"\n    },\n    {\n      \"start_turn_id\": \"D6:19\",\n      \"end_turn_id\": \"D6:22\",\n      \"theme\": \"Mutual support and friendship between Maria and John\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1812,
+        "completion_tokens": 288,
+        "total_tokens": 2100,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_7",
+    "stage": "episode_partitioning",
+    "call_id": "754566ce-a997-4e4c-bb36-988e6dc52863",
+    "latency_seconds": 2.211608708,
+    "response": {
+      "id": "chatcmpl-EZrKPFVP1bxUlfLElb1p2BISkvUhx",
+      "object": "chat.completion",
+      "created": 1792215181,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D7:1\",\n      \"end_turn_id\": \"D7:2\",\n      \"theme\": \"Opening greetings and personal updates\"\n    },\n    {\n      \"start_turn_id\": \"D7:3\",\n      \"end_turn_id\": \"D7:4\",\n      \"theme\": \"John's political campaign and motivation\"\n    },\n    {\n      \"start_turn_id\": \"D7:5\",\n      \"end_turn_id\": \"D7:9\",\n      \"theme\": \"Maria's volunteer experience and story of resilience\"\n    },\n    {\n      \"start_turn_id\": \"D7:10\",\n      \"end_turn_id\": \"D7:14\",\n      \"theme\": \"Mutual encouragement on positivity and making an impact\"\n    },\n    {\n      \"start_turn_id\": \"D7:15\",\n      \"end_turn_id\": \"D7:17\",\n      \"theme\": \"Plans and looking forward to community improvement\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1291,
+        "completion_tokens": 214,
+        "total_tokens": 1505,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_8",
+    "stage": "episode_partitioning",
+    "call_id": "2b579374-c755-4e2e-9f52-8477815e557e",
+    "latency_seconds": 2.619803375,
+    "response": {
+      "id": "chatcmpl-EZrKS0wP2ZqVcRS6j90DFcJ7NJLjL",
+      "object": "chat.completion",
+      "created": 1792215184,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D8:1\",\n      \"end_turn_id\": \"D8:4\",\n      \"theme\": \"Initial personal update and family introduction\"\n    },\n    {\n      \"start_turn_id\": \"D8:5\",\n      \"end_turn_id\": \"D8:10\",\n      \"theme\": \"Parenting experience and family activities\"\n    },\n    {\n      \"start_turn_id\": \"D8:11\",\n      \"end_turn_id\": \"D8:13\",\n      \"theme\": \"Making family memories and creative inspirations\"\n    },\n    {\n      \"start_turn_id\": \"D8:14\",\n      \"end_turn_id\": \"D8:17\",\n      \"theme\": \"Castle-themed art and travel memories\"\n    },\n    {\n      \"start_turn_id\": \"D8:18\",\n      \"end_turn_id\": \"D8:20\",\n      \"theme\": \"John's aptitude test and volunteering aspirations\"\n    },\n    {\n      \"start_turn_id\": \"D8:21\",\n      \"end_turn_id\": \"D8:26\",\n      \"theme\": \"Volunteering experiences and building meaningful connections\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2153,
+        "completion_tokens": 252,
+        "total_tokens": 2405,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_9",
+    "stage": "episode_partitioning",
+    "call_id": "367741a8-c3b4-4100-a100-c921548f8560",
+    "latency_seconds": 2.436565708,
+    "response": {
+      "id": "chatcmpl-EZrKUTDIzRE7WvU129cgsteRP73oq",
+      "object": "chat.completion",
+      "created": 1792215186,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D9:1\",\n      \"end_turn_id\": \"D9:2\",\n      \"theme\": \"Reconnecting and sharing personal updates\"\n    },\n    {\n      \"start_turn_id\": \"D9:3\",\n      \"end_turn_id\": \"D9:6\",\n      \"theme\": \"John's recent graduation and future plans\"\n    },\n    {\n      \"start_turn_id\": \"D9:7\",\n      \"end_turn_id\": \"D9:10\",\n      \"theme\": \"John's community involvement and focus areas\"\n    },\n    {\n      \"start_turn_id\": \"D9:11\",\n      \"end_turn_id\": \"D9:13\",\n      \"theme\": \"Encouragement and recognition of John's efforts\"\n    },\n    {\n      \"start_turn_id\": \"D9:14\",\n      \"end_turn_id\": \"D9:16\",\n      \"theme\": \"Mutual support and willingness to collaborate\"\n    },\n    {\n      \"start_turn_id\": \"D9:17\",\n      \"end_turn_id\": \"D9:18\",\n      \"theme\": \"Reflecting on past volunteering and future commitments\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1423,
+        "completion_tokens": 256,
+        "total_tokens": 1679,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_10",
+    "stage": "episode_partitioning",
+    "call_id": "eddaaead-1634-4a4a-9faa-83e7a25ab3f9",
+    "latency_seconds": 2.0472573329999975,
+    "response": {
+      "id": "chatcmpl-EZrKXVDQMcIWf0J303iOQ5Em2Nku5",
+      "object": "chat.completion",
+      "created": 1792215189,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D10:1\",\n      \"end_turn_id\": \"D10:8\",\n      \"theme\": \"John's experience starting a weekend yoga class\"\n    },\n    {\n      \"start_turn_id\": \"D10:9\",\n      \"end_turn_id\": \"D10:12\",\n      \"theme\": \"Maria's participation in a charity 5K run\"\n    },\n    {\n      \"start_turn_id\": \"D10:13\",\n      \"end_turn_id\": \"D10:18\",\n      \"theme\": \"John's volunteer work at a school career fair and community support\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1685,
+        "completion_tokens": 141,
+        "total_tokens": 1826,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_11",
+    "stage": "episode_partitioning",
+    "call_id": "50410a45-9549-4378-bac8-ebff1c85d220",
+    "latency_seconds": 2.109770375,
+    "response": {
+      "id": "chatcmpl-EZrKZXaiAZ19FMJyyJxZAmAudFi1e",
+      "object": "chat.completion",
+      "created": 1792215191,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D11:1\",\n      \"end_turn_id\": \"D11:3\",\n      \"theme\": \"John shares recent car troubles and stays positive\"\n    },\n    {\n      \"start_turn_id\": \"D11:4\",\n      \"end_turn_id\": \"D11:9\",\n      \"theme\": \"John and Maria reminisce about a road trip and nature's calming effect\"\n    },\n    {\n      \"start_turn_id\": \"D11:10\",\n      \"end_turn_id\": \"D11:20\",\n      \"theme\": \"Maria discusses her volunteer work at the homeless shelter and its impact\"\n    },\n    {\n      \"start_turn_id\": \"D11:21\",\n      \"end_turn_id\": \"D11:21\",\n      \"theme\": \"Concluding remarks and well wishes\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1616,
+        "completion_tokens": 185,
+        "total_tokens": 1801,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_12",
+    "stage": "episode_partitioning",
+    "call_id": "51405627-ee18-4108-bdfd-391cc166694d",
+    "latency_seconds": 2.016820416999998,
+    "response": {
+      "id": "chatcmpl-EZrKbD4WdhtSaZep25HL2k6NrpBtO",
+      "object": "chat.completion",
+      "created": 1792215193,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D12:1\",\n      \"end_turn_id\": \"D12:7\",\n      \"theme\": \"John shares his political blogging and policy focus on education and infrastructure\"\n    },\n    {\n      \"start_turn_id\": \"D12:8\",\n      \"end_turn_id\": \"D12:15\",\n      \"theme\": \"Discussion about a convention with like-minded colleagues passionate about tech for community good\"\n    },\n    {\n      \"start_turn_id\": \"D12:16\",\n      \"end_turn_id\": \"D12:23\",\n      \"theme\": \"Talk about upcoming plans, Maria's volunteering at homeless shelter, and mutual encouragement in making a difference\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1670,
+        "completion_tokens": 156,
+        "total_tokens": 1826,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_13",
+    "stage": "episode_partitioning",
+    "call_id": "440e01cb-8f8d-425e-ae5a-a63033c488b2",
+    "latency_seconds": 2.685035915999997,
+    "response": {
+      "id": "chatcmpl-EZrKdRYgZsKmZkLIlArHHSTohZoHx",
+      "object": "chat.completion",
+      "created": 1792215195,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D13:1\",\n      \"end_turn_id\": \"D13:5\",\n      \"theme\": \"John shares starting family boot camps and fitness improvements\"\n    },\n    {\n      \"start_turn_id\": \"D13:6\",\n      \"end_turn_id\": \"D13:15\",\n      \"theme\": \"Discussion about family support, bonding, and motivation through workouts\"\n    },\n    {\n      \"start_turn_id\": \"D13:16\",\n      \"end_turn_id\": \"D13:19\",\n      \"theme\": \"Sharing family meal experiences and importance of finding joy and balance\"\n    },\n    {\n      \"start_turn_id\": \"D13:20\",\n      \"end_turn_id\": \"D13:25\",\n      \"theme\": \"Maria discusses self-care, balance, and reflective solo trip to Spain\"\n    },\n    {\n      \"start_turn_id\": \"D13:26\",\n      \"end_turn_id\": \"D13:30\",\n      \"theme\": \"Maria’s learnings from solitude and trying new activities like surfing\"\n    },\n    {\n      \"start_turn_id\": \"D13:31\",\n      \"end_turn_id\": \"D13:37\",\n      \"theme\": \"Encouragement on pushing boundaries and embracing personal growth\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2702,
+        "completion_tokens": 279,
+        "total_tokens": 2981,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_14",
+    "stage": "episode_partitioning",
+    "call_id": "13e66f54-a3d1-4f44-9d6c-7f7a9eeb98fb",
+    "latency_seconds": 2.217836499999997,
+    "response": {
+      "id": "chatcmpl-EZrKgCoKRBKYdXKgTA5rusG8yidrZ",
+      "object": "chat.completion",
+      "created": 1792215198,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D14:1\",\n      \"end_turn_id\": \"D14:6\",\n      \"theme\": \"John announces running for office again and Maria offers encouragement and support\"\n    },\n    {\n      \"start_turn_id\": \"D14:7\",\n      \"end_turn_id\": \"D14:12\",\n      \"theme\": \"Conversation about personal well-being and Maria's involvement in charity and church\"\n    },\n    {\n      \"start_turn_id\": \"D14:13\",\n      \"end_turn_id\": \"D14:17\",\n      \"theme\": \"Discussion about local infrastructure issues and potential community projects\"\n    },\n    {\n      \"start_turn_id\": \"D14:18\",\n      \"end_turn_id\": \"D14:23\",\n      \"theme\": \"Planning community involvement for neighborhood improvements and better living conditions\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1788,
+        "completion_tokens": 189,
+        "total_tokens": 1977,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_15",
+    "stage": "episode_partitioning",
+    "call_id": "197fa93c-72d9-437d-8180-fc210aa030b2",
+    "latency_seconds": 1.83568,
+    "response": {
+      "id": "chatcmpl-EZrKiyT0P2X2T5WtkcJTvB38TzHn2",
+      "object": "chat.completion",
+      "created": 1792215200,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D15:1\",\n      \"end_turn_id\": \"D15:10\",\n      \"theme\": \"John shares his veterans support project and Maria offers encouragement and help\"\n    },\n    {\n      \"start_turn_id\": \"D15:11\",\n      \"end_turn_id\": \"D15:17\",\n      \"theme\": \"John describes a veterans gathering event and Maria expresses appreciation and ongoing support\"\n    },\n    {\n      \"start_turn_id\": \"D15:18\",\n      \"end_turn_id\": \"D15:19\",\n      \"theme\": \"Maria mentions her upcoming fundraiser event and John shows interest\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1419,
+        "completion_tokens": 146,
+        "total_tokens": 1565,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_16",
+    "stage": "episode_partitioning",
+    "call_id": "cefffb52-c72d-4d4e-907a-27a634978527",
+    "latency_seconds": 2.392817750000006,
+    "response": {
+      "id": "chatcmpl-EZrKk716E9vyrHVyoAA0Pfef9QM5X",
+      "object": "chat.completion",
+      "created": 1792215202,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "```json\n{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D16:1\",\n      \"end_turn_id\": \"D16:2\",\n      \"theme\": \"Updates on personal and charity activities\"\n    },\n    {\n      \"start_turn_id\": \"D16:3\",\n      \"end_turn_id\": \"D16:4\",\n      \"theme\": \"John offers help and Maria shares fundraiser details\"\n    },\n    {\n      \"start_turn_id\": \"D16:5\",\n      \"end_turn_id\": \"D16:10\",\n      \"theme\": \"Collaborative planning for fundraiser support and volunteering\"\n    },\n    {\n      \"start_turn_id\": \"D16:11\",\n      \"end_turn_id\": \"D16:16\",\n      \"theme\": \"Sharing inspirational photos and reflections on hope and life moments\"\n    },\n    {\n      \"start_turn_id\": \"D16:17\",\n      \"end_turn_id\": \"D16:19\",\n      \"theme\": \"Closing affirmations on making a positive impact and future communication\"\n    }\n  ]\n}\n```",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1488,
+        "completion_tokens": 226,
+        "total_tokens": 1714,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  }
+]

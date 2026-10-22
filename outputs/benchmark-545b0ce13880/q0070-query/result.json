@@ -1,0 +1,37 @@
+{
+  "status": "completed",
+  "experiment_id": "q0070-query",
+  "memory_build": "offline-memory-a5e48166f56e",
+  "embedding_fingerprint": "264e45d8331b217a87fc15e35db2c614b32e9c572d0bbb53fe9bcc90dda3a8a6",
+  "question": "What personality traits might Melanie say Caroline has?",
+  "answer": "Melanie might say Caroline has the personality traits of being inspiring, strong, courageous, brave, caring, real, supportive, and positive. Melanie admires Caroline's strength and courage in sharing her transgender journey, her bravery in speaking up for the trans community, her dedication to inspiring and encouraging others, and her care and support for people facing challenges. Melanie also notes Caroline's authenticity and positivity in making a difference and spreading love and understanding.",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-26::session_3::episode-001",
+      "turn_id": "D3:2"
+    },
+    {
+      "episode_id": "conv-26::session_3::episode-001",
+      "turn_id": "D3:4"
+    },
+    {
+      "episode_id": "conv-26::session_3::episode-001",
+      "turn_id": "D3:6"
+    },
+    {
+      "episode_id": "conv-26::session_19::episode-003",
+      "turn_id": "D19:8"
+    },
+    {
+      "episode_id": "conv-26::session_19::episode-003",
+      "turn_id": "D19:10"
+    }
+  ],
+  "elapsed_seconds": 4.839101542,
+  "implementation": {
+    "structured_matching": "literal entity / property-token overlap",
+    "all_matching": "all episodes; no optimized exhaustive retrieval",
+    "coverage": "answer-model sufficiency check with expansion"
+  }
+}

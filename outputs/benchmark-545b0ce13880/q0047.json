@@ -1,0 +1,41 @@
+{
+  "question_id": "conv-26::q0047",
+  "category": 3,
+  "question": "Would Melanie be considered an ally to the transgender community?",
+  "gold_answer": "Yes, she is supportive",
+  "status": "scored",
+  "generated_answer": "Yes, Melanie would be considered an ally to the transgender community. Evidence from multiple conversations shows Melanie expresses pride and support for her friend Caroline's transgender journey and advocacy efforts, praises Caroline's courage in speaking up for the trans community, acknowledges the importance of inclusivity and acceptance, supports LGBTQ+ events including pride parades, appreciates and encourages LGBTQ+ art and talent shows, and maintains a strong supportive friendship with Caroline who is a transgender woman. Melanie values sharing stories to build understanding and hope, and consistently affirms her backing of Caroline and the community. Although Melanie is not explicitly described as participating herself in advocacy or pride parades, she shows clear supportive attitudes and actions towards transgender individuals and related causes, including volunteering for charity and supporting marginalized communities in general.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_3::episode-001",
+      "turn_id": "D3:2"
+    },
+    {
+      "episode_id": "conv-26::session_3::episode-001",
+      "turn_id": "D3:4"
+    },
+    {
+      "episode_id": "conv-26::session_5::episode-001",
+      "turn_id": "D5:2"
+    },
+    {
+      "episode_id": "conv-26::session_12::episode-005",
+      "turn_id": "D12:16"
+    },
+    {
+      "episode_id": "conv-26::session_14::episode-009",
+      "turn_id": "D14:34"
+    },
+    {
+      "episode_id": "conv-26::session_19::episode-003",
+      "turn_id": "D19:8"
+    },
+    {
+      "episode_id": "conv-26::session_19::episode-004",
+      "turn_id": "D19:12"
+    }
+  ],
+  "query_elapsed_seconds": 7.932133417,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer accurately reflects that Melanie is supportive of the transgender community and provides detailed evidence of her allyship."
+}

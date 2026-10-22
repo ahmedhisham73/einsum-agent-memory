@@ -1,0 +1,44 @@
+{
+  "conv-26": {
+    "status": "incomplete",
+    "memory": "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/offline-memory-a5e48166f56e",
+    "ensimem": "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/benchmark-545b0ce13880",
+    "agentic_rag": "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/benchmark-agentic-58d03f577125"
+  },
+  "conv-30": {
+    "status": "incomplete",
+    "error": "Build incomplete; inspect /Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/full-locomo-v1/conv-30-build.log"
+  },
+  "conv-41": {
+    "status": "incomplete",
+    "error": "Build incomplete; inspect /Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/full-locomo-v1/conv-41-build.log"
+  },
+  "conv-42": {
+    "status": "incomplete",
+    "error": "Build incomplete; inspect /Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/full-locomo-v1/conv-42-build.log"
+  },
+  "conv-43": {
+    "status": "incomplete",
+    "error": "Extraction incomplete; saved data preserved. Inspect /Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/full-locomo-v1/conv-43-build.log"
+  },
+  "conv-44": {
+    "status": "incomplete",
+    "error": "Extraction incomplete; saved data preserved. Inspect /Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/full-locomo-v1/conv-44-build.log"
+  },
+  "conv-47": {
+    "status": "incomplete",
+    "error": "Build incomplete; inspect /Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/full-locomo-v1/conv-47-build.log"
+  },
+  "conv-48": {
+    "status": "incomplete",
+    "error": "Extraction incomplete; saved data preserved. Inspect /Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/full-locomo-v1/conv-48-build.log"
+  },
+  "conv-49": {
+    "status": "incomplete",
+    "error": "Build incomplete; inspect /Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/full-locomo-v1/conv-49-build.log"
+  },
+  "conv-50": {
+    "status": "incomplete",
+    "error": "Extraction incomplete; saved data preserved. Inspect /Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/full-locomo-v1/conv-50-build.log"
+  }
+}

@@ -1,0 +1,1388 @@
+[
+  {
+    "source_id": "session_1",
+    "stage": "episode_partitioning",
+    "call_id": "458bb72a-db3a-4545-9a57-f70b850ff113",
+    "latency_seconds": 2.665317875,
+    "response": {
+      "id": "chatcmpl-EZtPB3K6gX8otntdRPjnGBRjMxpxB",
+      "object": "chat.completion",
+      "created": 1792223165,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D1:1\",\n      \"end_turn_id\": \"D1:4\",\n      \"theme\": \"Motivations and video games discussion\"\n    },\n    {\n      \"start_turn_id\": \"D1:5\",\n      \"end_turn_id\": \"D1:10\",\n      \"theme\": \"Programming experience and interests\"\n    },\n    {\n      \"start_turn_id\": \"D1:11\",\n      \"end_turn_id\": \"D1:16\",\n      \"theme\": \"Collaborative app development for dog care\"\n    },\n    {\n      \"start_turn_id\": \"D1:17\",\n      \"end_turn_id\": \"D1:24\",\n      \"theme\": \"Motivations behind programming projects and game development\"\n    },\n    {\n      \"start_turn_id\": \"D1:25\",\n      \"end_turn_id\": \"D1:31\",\n      \"theme\": \"Recreational activities and personal preferences\"\n    },\n    {\n      \"start_turn_id\": \"D1:32\",\n      \"end_turn_id\": \"D1:37\",\n      \"theme\": \"VR gaming plans and experiences\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2415,
+        "completion_tokens": 252,
+        "total_tokens": 2667,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_2",
+    "stage": "episode_partitioning",
+    "call_id": "0598f335-f9d1-4e93-8f77-000905f5135a",
+    "latency_seconds": 2.2505493330000004,
+    "response": {
+      "id": "chatcmpl-EZtPEHUFJagwrfuUSurcZqGy5Yfy8",
+      "object": "chat.completion",
+      "created": 1792223168,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "```json\n{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D2:1\",\n      \"end_turn_id\": \"D2:7\",\n      \"theme\": \"James and John discuss the social and emotional benefits of gaming\"\n    },\n    {\n      \"start_turn_id\": \"D2:8\",\n      \"end_turn_id\": \"D2:12\",\n      \"theme\": \"James and John talk about new hobbies and interests\"\n    },\n    {\n      \"start_turn_id\": \"D2:13\",\n      \"end_turn_id\": \"D2:21\",\n      \"theme\": \"James shares pictures and stories about his dogs and discusses pet ownership with John\"\n    }\n  ]\n}\n```",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1541,
+        "completion_tokens": 149,
+        "total_tokens": 1690,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_3",
+    "stage": "episode_partitioning",
+    "call_id": "7a8c697d-1820-41f1-93c4-436a591f1969",
+    "latency_seconds": 6.4094047500000215,
+    "response": {
+      "id": "chatcmpl-EZz09TdMatkB8AcV9DpAIEGZBJd6u",
+      "object": "chat.completion",
+      "created": 1792244677,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D3:1\",\n      \"end_turn_id\": \"D3:6\",\n      \"theme\": \"Sharing recent personal achievements and progress in gaming and drumming\"\n    },\n    {\n      \"start_turn_id\": \"D3:7\",\n      \"end_turn_id\": \"D3:8\",\n      \"theme\": \"Discussing new hobbies and gaming technology\"\n    },\n    {\n      \"start_turn_id\": \"D3:9\",\n      \"end_turn_id\": \"D3:13\",\n      \"theme\": \"Experiences and inspiration from attending a gaming convention and tournament\"\n    },\n    {\n      \"start_turn_id\": \"D3:14\",\n      \"end_turn_id\": \"D3:17\",\n      \"theme\": \"Motivation strategies and goal-setting in hobbies\"\n    },\n    {\n      \"start_turn_id\": \"D3:18\",\n      \"end_turn_id\": \"D3:23\",\n      \"theme\": \"Exploring new game genres and future gaming plans\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1657,
+        "completion_tokens": 225,
+        "total_tokens": 1882,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_4",
+    "stage": "episode_partitioning",
+    "call_id": "69ea5a20-fd59-42f0-9102-9e911b4cc58d",
+    "latency_seconds": 3.242181415999994,
+    "response": {
+      "id": "chatcmpl-EZz0CxGzO1Gv48dJ6BUPvOmqw7oSV",
+      "object": "chat.completion",
+      "created": 1792244680,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D4:1\",\n      \"end_turn_id\": \"D4:3\",\n      \"theme\": \"Greeting and introduction to recent gaming activity\"\n    },\n    {\n      \"start_turn_id\": \"D4:4\",\n      \"end_turn_id\": \"D4:6\",\n      \"theme\": \"James' performance and experience in the gaming tournament\"\n    },\n    {\n      \"start_turn_id\": \"D4:7\",\n      \"end_turn_id\": \"D4:10\",\n      \"theme\": \"Meeting famous players and receiving advice and autographs\"\n    },\n    {\n      \"start_turn_id\": \"D4:11\",\n      \"end_turn_id\": \"D4:14\",\n      \"theme\": \"Importance of communication and teamwork in gaming\"\n    },\n    {\n      \"start_turn_id\": \"D4:15\",\n      \"end_turn_id\": \"D4:18\",\n      \"theme\": \"Favorite game Apex Legends and its features\"\n    },\n    {\n      \"start_turn_id\": \"D4:19\",\n      \"end_turn_id\": \"D4:22\",\n      \"theme\": \"Interest in trying new game genres like RPGs and MOBAs\"\n    },\n    {\n      \"start_turn_id\": \"D4:23\",\n      \"end_turn_id\": \"D4:25\",\n      \"theme\": \"Closing the conversation with plans to stay in touch\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1838,
+        "completion_tokens": 307,
+        "total_tokens": 2145,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_5",
+    "stage": "episode_partitioning",
+    "call_id": "d63be97a-d14c-443f-8fed-b39686caa0ee",
+    "latency_seconds": 2.4995881250000025,
+    "response": {
+      "id": "chatcmpl-EZz0F5mig0sI0oE96JnFFJAlcJWil",
+      "object": "chat.completion",
+      "created": 1792244683,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D5:1\",\n      \"end_turn_id\": \"D5:2\",\n      \"theme\": \"James shares news about adopting a puppy and asks John about gaming\"\n    },\n    {\n      \"start_turn_id\": \"D5:3\",\n      \"end_turn_id\": \"D5:4\",\n      \"theme\": \"Discussion about gaming and John's current RPG game\"\n    },\n    {\n      \"start_turn_id\": \"D5:5\",\n      \"end_turn_id\": \"D5:6\",\n      \"theme\": \"John describes game features and technical issues\"\n    },\n    {\n      \"start_turn_id\": \"D5:7\",\n      \"end_turn_id\": \"D5:9\",\n      \"theme\": \"James expresses hesitation about bugs, then agrees to try the game\"\n    },\n    {\n      \"start_turn_id\": \"D5:10\",\n      \"end_turn_id\": \"D5:12\",\n      \"theme\": \"John offers to send the game link and encourages James to try it\"\n    },\n    {\n      \"start_turn_id\": \"D5:13\",\n      \"end_turn_id\": \"D5:16\",\n      \"theme\": \"Farewell exchange and well-wishes\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1264,
+        "completion_tokens": 272,
+        "total_tokens": 1536,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_6",
+    "stage": "episode_partitioning",
+    "call_id": "ba4449d7-c4e1-4aff-81b3-f0cd495c0b30",
+    "latency_seconds": 1.8362101249999796,
+    "response": {
+      "id": "chatcmpl-EZz0Hg8zKpGRO6IPFKTUAssQlOxOQ",
+      "object": "chat.completion",
+      "created": 1792244685,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D6:1\",\n      \"end_turn_id\": \"D6:6\",\n      \"theme\": \"Sharing recent personal experiences and creative inspirations\"\n    },\n    {\n      \"start_turn_id\": \"D6:7\",\n      \"end_turn_id\": \"D6:9\",\n      \"theme\": \"Nature experiences inspiring creativity\"\n    },\n    {\n      \"start_turn_id\": \"D6:10\",\n      \"end_turn_id\": \"D6:15\",\n      \"theme\": \"Sources of motivation and travel experiences\"\n    },\n    {\n      \"start_turn_id\": \"D6:16\",\n      \"end_turn_id\": \"D6:19\",\n      \"theme\": \"Planning future travel together\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1594,
+        "completion_tokens": 166,
+        "total_tokens": 1760,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_7",
+    "stage": "episode_partitioning",
+    "call_id": "c1e6d166-e37c-48b0-805a-cff7857595a5",
+    "latency_seconds": 2.1065837079999596,
+    "response": {
+      "id": "chatcmpl-EZz0KPKlSu0dOdwAVGH2jwlbNofUI",
+      "object": "chat.completion",
+      "created": 1792244688,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D7:1\",\n      \"end_turn_id\": \"D7:8\",\n      \"theme\": \"James shares recent hiking experience with dogs\"\n    },\n    {\n      \"start_turn_id\": \"D7:9\",\n      \"end_turn_id\": \"D7:21\",\n      \"theme\": \"John discusses work stress and coding challenges, James offers support and advice\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1454,
+        "completion_tokens": 97,
+        "total_tokens": 1551,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_8",
+    "stage": "episode_partitioning",
+    "call_id": "b4761829-bd12-4519-917e-85253b50c844",
+    "latency_seconds": 2.1929899579999983,
+    "response": {
+      "id": "chatcmpl-EZz0Lb3AX90HHyiXT89rfuadYZD23",
+      "object": "chat.completion",
+      "created": 1792244689,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D8:1\",\n      \"end_turn_id\": \"D8:10\",\n      \"theme\": \"John discusses his freelance programming project and challenges\"\n    },\n    {\n      \"start_turn_id\": \"D8:11\",\n      \"end_turn_id\": \"D8:16\",\n      \"theme\": \"Fantasy books and recommendations conversation\"\n    },\n    {\n      \"start_turn_id\": \"D8:17\",\n      \"end_turn_id\": \"D8:19\",\n      \"theme\": \"James shares about his dog joining him while gaming\"\n    },\n    {\n      \"start_turn_id\": \"D8:20\",\n      \"end_turn_id\": \"D8:29\",\n      \"theme\": \"Discussion on video games, especially strategy games\"\n    },\n    {\n      \"start_turn_id\": \"D8:30\",\n      \"end_turn_id\": \"D8:40\",\n      \"theme\": \"Board games and party games conversation\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2498,
+        "completion_tokens": 215,
+        "total_tokens": 2713,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_9",
+    "stage": "episode_partitioning",
+    "call_id": "c842201b-7ed2-41e2-ae3f-a06ea9171236",
+    "latency_seconds": 2.2111486659999855,
+    "response": {
+      "id": "chatcmpl-EZz0OdBjWvD8VF7gAPEnAFRm2TiEh",
+      "object": "chat.completion",
+      "created": 1792244692,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D9:1\",\n      \"end_turn_id\": \"D9:8\",\n      \"theme\": \"Discussion about James's recent project challenges and teamwork\"\n    },\n    {\n      \"start_turn_id\": \"D9:9\",\n      \"end_turn_id\": \"D9:16\",\n      \"theme\": \"Casual talk about personal life, socializing, and pets\"\n    },\n    {\n      \"start_turn_id\": \"D9:17\",\n      \"end_turn_id\": \"D9:24\",\n      \"theme\": \"Conversation about pizza preferences and recommendations\"\n    },\n    {\n      \"start_turn_id\": \"D9:25\",\n      \"end_turn_id\": \"D9:25\",\n      \"theme\": \"Conversation closing and farewells\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1624,
+        "completion_tokens": 178,
+        "total_tokens": 1802,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_10",
+    "stage": "episode_partitioning",
+    "call_id": "5da1e840-afc6-4ccb-b6d1-06b1b8d804da",
+    "latency_seconds": 2.29353387499998,
+    "response": {
+      "id": "chatcmpl-EZz0QGPxqFFdSPdxhfS3Soa33N7Xq",
+      "object": "chat.completion",
+      "created": 1792244694,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D10:1\",\n      \"end_turn_id\": \"D10:3\",\n      \"theme\": \"Casual catch-up and introduction to new activity\"\n    },\n    {\n      \"start_turn_id\": \"D10:4\",\n      \"end_turn_id\": \"D10:6\",\n      \"theme\": \"Charity gaming tournament organization and its rewarding experience\"\n    },\n    {\n      \"start_turn_id\": \"D10:7\",\n      \"end_turn_id\": \"D10:8\",\n      \"theme\": \"Future event plans and combining interests with community service\"\n    },\n    {\n      \"start_turn_id\": \"D10:9\",\n      \"end_turn_id\": \"D10:12\",\n      \"theme\": \"Details about the charity efforts and beneficiaries\"\n    },\n    {\n      \"start_turn_id\": \"D10:13\",\n      \"end_turn_id\": \"D10:15\",\n      \"theme\": \"Encouragement and mutual support for charitable work\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1126,
+        "completion_tokens": 222,
+        "total_tokens": 1348,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_11",
+    "stage": "episode_partitioning",
+    "call_id": "060536cf-a293-4233-82e5-2da40b65db8f",
+    "latency_seconds": 2.463515833000031,
+    "response": {
+      "id": "chatcmpl-EZz0Sz2nmUzRNFzhRORKVmrhuVk0A",
+      "object": "chat.completion",
+      "created": 1792244696,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D11:1\",\n      \"end_turn_id\": \"D11:3\",\n      \"theme\": \"John discusses volunteering programming skills for a charitable foundation\"\n    },\n    {\n      \"start_turn_id\": \"D11:4\",\n      \"end_turn_id\": \"D11:5\",\n      \"theme\": \"James requests and John shares a screenshot of the software tool\"\n    },\n    {\n      \"start_turn_id\": \"D11:6\",\n      \"end_turn_id\": \"D11:9\",\n      \"theme\": \"John explains his motivation and personal impact from volunteering\"\n    },\n    {\n      \"start_turn_id\": \"D11:10\",\n      \"end_turn_id\": \"D11:15\",\n      \"theme\": \"Discussion about how the experience influences John's future plans and finding suitable non-profits\"\n    },\n    {\n      \"start_turn_id\": \"D11:16\",\n      \"end_turn_id\": \"D11:19\",\n      \"theme\": \"James offers encouragement and support to John for his future endeavors\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1405,
+        "completion_tokens": 234,
+        "total_tokens": 1639,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_12",
+    "stage": "episode_partitioning",
+    "call_id": "c55b3733-26ba-4967-8e74-33d9dc081b89",
+    "latency_seconds": 9.079439959000013,
+    "response": {
+      "id": "chatcmpl-EZz0c6LDH2QZUT1BC8nWaGvJMA5uW",
+      "object": "chat.completion",
+      "created": 1792244706,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D12:1\",\n      \"end_turn_id\": \"D12:3\",\n      \"theme\": \"James describes his amusement park visit and rides\"\n    },\n    {\n      \"start_turn_id\": \"D12:4\",\n      \"end_turn_id\": \"D12:8\",\n      \"theme\": \"John shares his tournament experience and achievement\"\n    },\n    {\n      \"start_turn_id\": \"D12:9\",\n      \"end_turn_id\": \"D12:14\",\n      \"theme\": \"James discusses completing a challenging project and mutual encouragement\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1179,
+        "completion_tokens": 135,
+        "total_tokens": 1314,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_13",
+    "stage": "episode_partitioning",
+    "call_id": "750ab25a-0950-4224-813b-9925a137bfe8",
+    "latency_seconds": 2.566161292000004,
+    "response": {
+      "id": "chatcmpl-EZz0eFR8n0BKMfkXMtsQmm8FTeC3o",
+      "object": "chat.completion",
+      "created": 1792244708,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D13:1\",\n      \"end_turn_id\": \"D13:5\",\n      \"theme\": \"John shares news about getting his dream job\"\n    },\n    {\n      \"start_turn_id\": \"D13:6\",\n      \"end_turn_id\": \"D13:10\",\n      \"theme\": \"James talks about his new course combining gaming and programming and football interest\"\n    },\n    {\n      \"start_turn_id\": \"D13:11\",\n      \"end_turn_id\": \"D13:14\",\n      \"theme\": \"Discussion about football fandom focusing on Liverpool\"\n    },\n    {\n      \"start_turn_id\": \"D13:15\",\n      \"end_turn_id\": \"D13:20\",\n      \"theme\": \"Friendly rivalry and bet between John and James about Manchester City and Liverpool football teams\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1273,
+        "completion_tokens": 188,
+        "total_tokens": 1461,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_14",
+    "stage": "episode_partitioning",
+    "call_id": "661a2737-ef57-49d0-a1a3-6f9d10595a2d",
+    "latency_seconds": 2.6307927500000687,
+    "response": {
+      "id": "chatcmpl-EZz0g2osyRNAdiafG1jBa9qM1Z2q3",
+      "object": "chat.completion",
+      "created": 1792244710,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D14:1\",\n      \"end_turn_id\": \"D14:4\",\n      \"theme\": \"Opening greetings and discussion about John's new coding blog\"\n    },\n    {\n      \"start_turn_id\": \"D14:5\",\n      \"end_turn_id\": \"D14:10\",\n      \"theme\": \"John's recent book acquisitions and favorite reading genres\"\n    },\n    {\n      \"start_turn_id\": \"D14:11\",\n      \"end_turn_id\": \"D14:15\",\n      \"theme\": \"Conversation about favorite books and introduction of James's dog Max\"\n    },\n    {\n      \"start_turn_id\": \"D14:16\",\n      \"end_turn_id\": \"D14:24\",\n      \"theme\": \"Discussion about Max's activities and talents\"\n    },\n    {\n      \"start_turn_id\": \"D14:25\",\n      \"end_turn_id\": \"D14:33\",\n      \"theme\": \"Nature walks and relaxation routines with Max\"\n    },\n    {\n      \"start_turn_id\": \"D14:34\",\n      \"end_turn_id\": \"D14:34\",\n      \"theme\": \"Closing well-wishes and support exchange\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2598,
+        "completion_tokens": 263,
+        "total_tokens": 2861,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_15",
+    "stage": "episode_partitioning",
+    "call_id": "c990f41b-fa4e-421f-a979-5cfe27aef955",
+    "latency_seconds": 2.459250500000053,
+    "response": {
+      "id": "chatcmpl-EZz0jYhevyxWm46FnFVix964h1rQf",
+      "object": "chat.completion",
+      "created": 1792244713,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D15:1\",\n      \"end_turn_id\": \"D15:4\",\n      \"theme\": \"Introducing new pets and their bonding\"\n    },\n    {\n      \"start_turn_id\": \"D15:5\",\n      \"end_turn_id\": \"D15:8\",\n      \"theme\": \"John reflects on his future and desire to make a positive impact\"\n    },\n    {\n      \"start_turn_id\": \"D15:9\",\n      \"end_turn_id\": \"D15:11\",\n      \"theme\": \"James shares his volunteering experience at a donation center\"\n    },\n    {\n      \"start_turn_id\": \"D15:12\",\n      \"end_turn_id\": \"D15:15\",\n      \"theme\": \"John expresses interest in volunteering and asks about requirements\"\n    },\n    {\n      \"start_turn_id\": \"D15:16\",\n      \"end_turn_id\": \"D15:19\",\n      \"theme\": \"Mutual encouragement to pursue making a positive impact\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1445,
+        "completion_tokens": 224,
+        "total_tokens": 1669,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_16",
+    "stage": "episode_partitioning",
+    "call_id": "11041292-f3b4-4704-881f-b5f7a4657631",
+    "latency_seconds": 1.8535398749999104,
+    "response": {
+      "id": "chatcmpl-EZz0lLyKaZfe3FpzrvzTtDBK6JXCL",
+      "object": "chat.completion",
+      "created": 1792244715,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D16:1\",\n      \"end_turn_id\": \"D16:3\",\n      \"theme\": \"James shares his online gaming tournament victory and mutual congratulations\"\n    },\n    {\n      \"start_turn_id\": \"D16:4\",\n      \"end_turn_id\": \"D16:8\",\n      \"theme\": \"Discussion about emotional balance, extreme sports hobbies, and relaxation methods\"\n    },\n    {\n      \"start_turn_id\": \"D16:9\",\n      \"end_turn_id\": \"D16:16\",\n      \"theme\": \"James's upcoming travel plans to Canada and related conversation\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1180,
+        "completion_tokens": 143,
+        "total_tokens": 1323,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_17",
+    "stage": "episode_partitioning",
+    "call_id": "c08e2831-1de6-48ac-9f6f-47d98ce4f81a",
+    "latency_seconds": 2.601394959000004,
+    "response": {
+      "id": "chatcmpl-EZz0nYw2IRQxAYj8XHqF03W4OFxA1",
+      "object": "chat.completion",
+      "created": 1792244717,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D17:1\",\n      \"end_turn_id\": \"D17:12\",\n      \"theme\": \"Discussion about playing and improving at chess\"\n    },\n    {\n      \"start_turn_id\": \"D17:13\",\n      \"end_turn_id\": \"D17:20\",\n      \"theme\": \"Reminiscing childhood and skateboarding experiences, including dogs on skateboards\"\n    },\n    {\n      \"start_turn_id\": \"D17:21\",\n      \"end_turn_id\": \"D17:25\",\n      \"theme\": \"James's recent trip and souvenirs\"\n    },\n    {\n      \"start_turn_id\": \"D17:26\",\n      \"end_turn_id\": \"D17:31\",\n      \"theme\": \"James’s family, dogs, and close relationships\"\n    },\n    {\n      \"start_turn_id\": \"D17:32\",\n      \"end_turn_id\": \"D17:35\",\n      \"theme\": \"Sharing and appreciating a sunset photo from the trip\"\n    },\n    {\n      \"start_turn_id\": \"D17:36\",\n      \"end_turn_id\": \"D17:37\",\n      \"theme\": \"Farewell and ending the conversation\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2399,
+        "completion_tokens": 264,
+        "total_tokens": 2663,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_18",
+    "stage": "episode_partitioning",
+    "call_id": "e466cf49-d5e0-47d3-b277-affd9ab8e0c4",
+    "latency_seconds": 2.0176435829999946,
+    "response": {
+      "id": "chatcmpl-EZz0qmIdrcpetWRD22yoI8igRNmCy",
+      "object": "chat.completion",
+      "created": 1792244720,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D18:1\",\n      \"end_turn_id\": \"D18:6\",\n      \"theme\": \"John discusses leaving his IT job and changing his career\"\n    },\n    {\n      \"start_turn_id\": \"D18:7\",\n      \"end_turn_id\": \"D18:12\",\n      \"theme\": \"John shares plans to enter gaming tournament organizing; James offers support\"\n    },\n    {\n      \"start_turn_id\": \"D18:13\",\n      \"end_turn_id\": \"D18:18\",\n      \"theme\": \"James talks about his puppy's vet visit and care\"\n    },\n    {\n      \"start_turn_id\": \"D18:19\",\n      \"end_turn_id\": \"D18:20\",\n      \"theme\": \"Farewell exchange\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1319,
+        "completion_tokens": 180,
+        "total_tokens": 1499,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_19",
+    "stage": "episode_partitioning",
+    "call_id": "1d235fc7-cd62-4c71-a425-cfa9c69923f2",
+    "latency_seconds": 1.825113459000022,
+    "response": {
+      "id": "chatcmpl-EZz0srIvlM5RqPuHRn2jNdO6sjbBm",
+      "object": "chat.completion",
+      "created": 1792244722,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D19:1\",\n      \"end_turn_id\": \"D19:10\",\n      \"theme\": \"John and James discuss new gaming interests, favorite RPG, and gaming setup\"\n    },\n    {\n      \"start_turn_id\": \"D19:11\",\n      \"end_turn_id\": \"D19:17\",\n      \"theme\": \"James shares recent dog beach outing and potential romantic interest\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1263,
+        "completion_tokens": 101,
+        "total_tokens": 1364,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_20",
+    "stage": "episode_partitioning",
+    "call_id": "c6b02909-560c-40cf-9b75-075c633391ca",
+    "latency_seconds": 2.2141655000000355,
+    "response": {
+      "id": "chatcmpl-EZz0uGPDLDS42zUGrDfQaP1F5crf8",
+      "object": "chat.completion",
+      "created": 1792244724,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D20:1\",\n      \"end_turn_id\": \"D20:7\",\n      \"theme\": \"John's involvement and experiences in an online programming group\"\n    },\n    {\n      \"start_turn_id\": \"D20:8\",\n      \"end_turn_id\": \"D20:13\",\n      \"theme\": \"James and John discuss gaming groups and gaming marathons\"\n    },\n    {\n      \"start_turn_id\": \"D20:14\",\n      \"end_turn_id\": \"D20:17\",\n      \"theme\": \"John's family gaming nights and plans with siblings\"\n    },\n    {\n      \"start_turn_id\": \"D20:18\",\n      \"end_turn_id\": \"D20:22\",\n      \"theme\": \"Closing greetings and well wishes for upcoming family gaming night\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1862,
+        "completion_tokens": 184,
+        "total_tokens": 2046,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_21",
+    "stage": "episode_partitioning",
+    "call_id": "acb8c3d9-5add-412f-ae68-ad0cb544b536",
+    "latency_seconds": 1.9583102080000572,
+    "response": {
+      "id": "chatcmpl-EZz0w3kihDXOHUkEflA2diTZsIbHT",
+      "object": "chat.completion",
+      "created": 1792244726,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D21:1\",\n      \"end_turn_id\": \"D21:4\",\n      \"theme\": \"Introduction and discussion about James' dog Ned\"\n    },\n    {\n      \"start_turn_id\": \"D21:5\",\n      \"end_turn_id\": \"D21:10\",\n      \"theme\": \"Conversation about John's siblings learning programming and game development interests\"\n    },\n    {\n      \"start_turn_id\": \"D21:11\",\n      \"end_turn_id\": \"D21:19\",\n      \"theme\": \"Planning to meet up and deciding on a place to hang out\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1279,
+        "completion_tokens": 141,
+        "total_tokens": 1420,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_22",
+    "stage": "episode_partitioning",
+    "call_id": "369e8854-86f4-4a0b-88eb-f013acb8980b",
+    "latency_seconds": 2.481154290999939,
+    "response": {
+      "id": "chatcmpl-EZz0y4FkT2Q8MkOgw6owlWf2GN6on",
+      "object": "chat.completion",
+      "created": 1792244728,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D22:1\",\n      \"end_turn_id\": \"D22:3\",\n      \"theme\": \"James shares completion and screenshots of his Unity strategy game\"\n    },\n    {\n      \"start_turn_id\": \"D22:4\",\n      \"end_turn_id\": \"D22:9\",\n      \"theme\": \"Discussion about the inspiration, challenges, and lessons learned in game development\"\n    },\n    {\n      \"start_turn_id\": \"D22:10\",\n      \"end_turn_id\": \"D22:15\",\n      \"theme\": \"John shares teaching coding to his siblings and mutual excitement about future game creators\"\n    },\n    {\n      \"start_turn_id\": \"D22:16\",\n      \"end_turn_id\": \"D22:19\",\n      \"theme\": \"Expressions of friendship and emotional support\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1456,
+        "completion_tokens": 188,
+        "total_tokens": 1644,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_23",
+    "stage": "episode_partitioning",
+    "call_id": "fa673532-5674-4a10-877e-121fbe990665",
+    "latency_seconds": 2.33408220900003,
+    "response": {
+      "id": "chatcmpl-EZz11cmXTfQeI9HBEKTC0xXKYUlTM",
+      "object": "chat.completion",
+      "created": 1792244731,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D23:1\",\n      \"end_turn_id\": \"D23:5\",\n      \"theme\": \"James shares recent relationship update and social outings\"\n    },\n    {\n      \"start_turn_id\": \"D23:6\",\n      \"end_turn_id\": \"D23:11\",\n      \"theme\": \"Discussion about John’s parents learning coding and John's new gaming equipment\"\n    },\n    {\n      \"start_turn_id\": \"D23:12\",\n      \"end_turn_id\": \"D23:19\",\n      \"theme\": \"James talks about his new cooking classes and mutual encouragement\"\n    },\n    {\n      \"start_turn_id\": \"D23:20\",\n      \"end_turn_id\": \"D23:21\",\n      \"theme\": \"Closing the conversation with mutual well-wishes\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1507,
+        "completion_tokens": 183,
+        "total_tokens": 1690,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_24",
+    "stage": "episode_partitioning",
+    "call_id": "ebdac9b2-5d2b-4df8-9ed7-3de5c6e0b659",
+    "latency_seconds": 2.2915475830000105,
+    "response": {
+      "id": "chatcmpl-EZz13lmsBuKWUSkHpYASZ4TwTDto0",
+      "object": "chat.completion",
+      "created": 1792244733,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D24:1\",\n      \"end_turn_id\": \"D24:3\",\n      \"theme\": \"Catch-up and introduction to board games\"\n    },\n    {\n      \"start_turn_id\": \"D24:4\",\n      \"end_turn_id\": \"D24:10\",\n      \"theme\": \"Idea sources and dream-inspired creativity\"\n    },\n    {\n      \"start_turn_id\": \"D24:11\",\n      \"end_turn_id\": \"D24:19\",\n      \"theme\": \"Music interests and playing instruments\"\n    },\n    {\n      \"start_turn_id\": \"D24:20\",\n      \"end_turn_id\": \"D24:21\",\n      \"theme\": \"James starts streaming games and future plans\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1690,
+        "completion_tokens": 170,
+        "total_tokens": 1860,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_25",
+    "stage": "episode_partitioning",
+    "call_id": "5c637a7d-ae91-41d2-b638-865162cc9f70",
+    "latency_seconds": 2.524044416000038,
+    "response": {
+      "id": "chatcmpl-EZz15av9lMGGaDGpo12hQupetco8v",
+      "object": "chat.completion",
+      "created": 1792244735,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D25:1\",\n      \"end_turn_id\": \"D25:3\",\n      \"theme\": \"John shares recent life updates including starting a startup\"\n    },\n    {\n      \"start_turn_id\": \"D25:4\",\n      \"end_turn_id\": \"D25:6\",\n      \"theme\": \"James talks about his gaming streaming experience and asks about John's life\"\n    },\n    {\n      \"start_turn_id\": \"D25:7\",\n      \"end_turn_id\": \"D25:11\",\n      \"theme\": \"John reveals his mobile game project and shares details about its development\"\n    },\n    {\n      \"start_turn_id\": \"D25:12\",\n      \"end_turn_id\": \"D25:18\",\n      \"theme\": \"Discussing game development resources and learning materials\"\n    },\n    {\n      \"start_turn_id\": \"D25:19\",\n      \"end_turn_id\": \"D25:25\",\n      \"theme\": \"Conversation about managing busy weeks and supporting self-care\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1985,
+        "completion_tokens": 229,
+        "total_tokens": 2214,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_26",
+    "stage": "episode_partitioning",
+    "call_id": "555c3dbe-9fb5-4981-99e2-597b66b3e9be",
+    "latency_seconds": 1.909917082999982,
+    "response": {
+      "id": "chatcmpl-EZz18UoG5wBoba4x1u71HjU6irKC0",
+      "object": "chat.completion",
+      "created": 1792244738,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D26:1\",\n      \"end_turn_id\": \"D26:7\",\n      \"theme\": \"John's new volunteer role as a programming mentor at a game development non-profit\"\n    },\n    {\n      \"start_turn_id\": \"D26:8\",\n      \"end_turn_id\": \"D26:15\",\n      \"theme\": \"James's excitement about his new video card and gaming plans, including discussion about Cyberpunk 2077\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1160,
+        "completion_tokens": 112,
+        "total_tokens": 1272,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_27",
+    "stage": "episode_partitioning",
+    "call_id": "ea07acba-43c4-4a8f-9d3e-9cd1d8c9a29b",
+    "latency_seconds": 1.9658736669999826,
+    "response": {
+      "id": "chatcmpl-EZz19kupy5rtegcjpyIwSlNa8pbPd",
+      "object": "chat.completion",
+      "created": 1792244739,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D27:1\",\n      \"end_turn_id\": \"D27:2\",\n      \"theme\": \"Initial greetings and personal updates about recent projects\"\n    },\n    {\n      \"start_turn_id\": \"D27:3\",\n      \"end_turn_id\": \"D27:6\",\n      \"theme\": \"Discussion about the game James created and his inspiration\"\n    },\n    {\n      \"start_turn_id\": \"D27:7\",\n      \"end_turn_id\": \"D27:10\",\n      \"theme\": \"Future plans and enthusiasm for game development\"\n    },\n    {\n      \"start_turn_id\": \"D27:11\",\n      \"end_turn_id\": \"D27:14\",\n      \"theme\": \"Mutual support and friendship\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1542,
+        "completion_tokens": 174,
+        "total_tokens": 1716,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_28",
+    "stage": "episode_partitioning",
+    "call_id": "2e944735-4e99-4442-84b4-26292a6c84f8",
+    "latency_seconds": 2.1489906250000104,
+    "response": {
+      "id": "chatcmpl-EZz1BgqKPt1WRNgH8pOol9eJJcSqy",
+      "object": "chat.completion",
+      "created": 1792244741,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D28:1\",\n      \"end_turn_id\": \"D28:5\",\n      \"theme\": \"James shares power outage and gaming progress loss\"\n    },\n    {\n      \"start_turn_id\": \"D28:6\",\n      \"end_turn_id\": \"D28:18\",\n      \"theme\": \"John describes programming seminar and shares programming resources\"\n    },\n    {\n      \"start_turn_id\": \"D28:19\",\n      \"end_turn_id\": \"D28:27\",\n      \"theme\": \"James talks about mother's army friend, shares nostalgic gaming experiences and photo\"\n    },\n    {\n      \"start_turn_id\": \"D28:28\",\n      \"end_turn_id\": \"D28:33\",\n      \"theme\": \"Discussion about Cyberpunk 2077 game choices and gameplay advice\"\n    },\n    {\n      \"start_turn_id\": \"D28:34\",\n      \"end_turn_id\": \"D28:35\",\n      \"theme\": \"Conversation closing and goodbyes\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2226,
+        "completion_tokens": 226,
+        "total_tokens": 2452,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_29",
+    "stage": "episode_partitioning",
+    "call_id": "698050ce-7310-4dff-bb1a-f8209d778172",
+    "latency_seconds": 1.5480780410000534,
+    "response": {
+      "id": "chatcmpl-EZz1Esdkq6rCgtRc4VByUBL7gNwva",
+      "object": "chat.completion",
+      "created": 1792244744,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D29:1\",\n      \"end_turn_id\": \"D29:7\",\n      \"theme\": \"Gaming tournament fundraiser for children's hospital\"\n    },\n    {\n      \"start_turn_id\": \"D29:8\",\n      \"end_turn_id\": \"D29:16\",\n      \"theme\": \"James and Samantha moving in together\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1215,
+        "completion_tokens": 89,
+        "total_tokens": 1304,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_30",
+    "stage": "episode_partitioning",
+    "call_id": "03a28eaf-23b0-4ccc-a58c-0b5f9144c695",
+    "latency_seconds": 2.1279366659999823,
+    "response": {
+      "id": "chatcmpl-EZz1FVspWQWkoLGMvPfCdF26qXoLB",
+      "object": "chat.completion",
+      "created": 1792244745,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D30:1\",\n      \"end_turn_id\": \"D30:1\",\n      \"theme\": \"James shares experience of a recent road trip with family and dogs\"\n    },\n    {\n      \"start_turn_id\": \"D30:2\",\n      \"end_turn_id\": \"D30:12\",\n      \"theme\": \"John shares winning regional chess tournament and chess strategies, followed by resource sharing for improvement\"\n    },\n    {\n      \"start_turn_id\": \"D30:13\",\n      \"end_turn_id\": \"D30:19\",\n      \"theme\": \"Discussion about favorite games, John recommends FIFA 23 and encourages James to try and practice it\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1264,
+        "completion_tokens": 157,
+        "total_tokens": 1421,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_31",
+    "stage": "episode_partitioning",
+    "call_id": "dce708aa-6234-4799-a3be-40c7ccd161e5",
+    "latency_seconds": 2.5156847079999807,
+    "response": {
+      "id": "chatcmpl-EZz1IMLN4gpiP8mpDH6FEULUURfx6",
+      "object": "chat.completion",
+      "created": 1792244748,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D31:1\",\n      \"end_turn_id\": \"D31:8\",\n      \"theme\": \"James shares road trip and John discusses game development project\"\n    },\n    {\n      \"start_turn_id\": \"D31:9\",\n      \"end_turn_id\": \"D31:13\",\n      \"theme\": \"Visit to animal sanctuary and discussion about rescue dogs\"\n    },\n    {\n      \"start_turn_id\": \"D31:14\",\n      \"end_turn_id\": \"D31:20\",\n      \"theme\": \"Discussion about joys of having dogs and sharing a dog photo\"\n    },\n    {\n      \"start_turn_id\": \"D31:21\",\n      \"end_turn_id\": \"D31:23\",\n      \"theme\": \"Talking about John's cousin's dog Luna\"\n    },\n    {\n      \"start_turn_id\": \"D31:24\",\n      \"end_turn_id\": \"D31:25\",\n      \"theme\": \"Farewell exchange\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1797,
+        "completion_tokens": 219,
+        "total_tokens": 2016,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "conv-47::session_1::episode-001",
+    "stage": "entity_property_extraction",
+    "call_id": "7e0b620b-00fe-45f2-9906-53a55441e04d",
+    "latency_seconds": 3.1957549170000448,
+    "response": {
+      "id": "chatcmpl-EZz1Km2QDP0LfzV0O9qinPyFrPDFS",
+      "object": "chat.completion",
+      "created": 1792244750,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"James\",\n      \"entity_type\": \"person\",\n      \"property\": \"motivation_source\",\n      \"value\": \"video games\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"3:47 pm on 17 March, 2022\",\n      \"evidence_turn_ids\": [\"D1:2\"]\n    },\n    {\n      \"entity\": \"James\",\n      \"entity_type\": \"person\",\n      \"property\": \"current_favorite_game\",\n      \"value\": \"The Witcher 3\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"3:47 pm on 17 March, 2022\",\n      \"evidence_turn_ids\": [\"D1:4\"]\n    },\n    {\n      \"entity\": \"John\",\n      \"entity_type\": \"person\",\n      \"property\": \"game_preference\",\n      \"value\": \"video games\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"3:47 pm on 17 March, 2022\",\n      \"evidence_turn_ids\": [\"D1:3\"]\n    },\n    {\n      \"entity\": \"John\",\n      \"entity_type\": \"person\",\n      \"property\": \"game_effect\",\n      \"value\": \"help relax after a long day\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"3:47 pm on 17 March, 2022\",\n      \"evidence_turn_ids\": [\"D1:3\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 677,
+        "completion_tokens": 324,
+        "total_tokens": 1001,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-47::session_1::episode-002",
+    "stage": "entity_property_extraction",
+    "call_id": "214f2254-e060-4c9f-b6a8-06726baf5055",
+    "latency_seconds": 4.984472249999953,
+    "response": {
+      "id": "chatcmpl-EZz1NentCmmrtm8A0EZeZyw3smCvK",
+      "object": "chat.completion",
+      "created": 1792244753,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"John\",\n      \"entity_type\": \"person\",\n      \"property\": \"programming_class_signed_up\",\n      \"value\": \"true\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"at 3:47 pm on 17 March, 2022\",\n      \"evidence_turn_ids\": [\"D1:5\"]\n    },\n    {\n      \"entity\": \"John\",\n      \"entity_type\": \"person\",\n      \"property\": \"prior_coding_experience\",\n      \"value\": \"HTML and CSS a few years back\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"a few years before 3:47 pm on 17 March, 2022\",\n      \"evidence_turn_ids\": [\"D1:7\"]\n    },\n    {\n      \"entity\": \"John\",\n      \"entity_type\": \"person\",\n      \"property\": \"plans_to_refresh_skills\",\n      \"value\": \"refresh HTML and CSS skills in programming class\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"at 3:47 pm on 17 March, 2022\",\n      \"evidence_turn_ids\": [\"D1:7\"]\n    },\n    {\n      \"entity\": \"James\",\n      \"entity_type\": \"person\",\n      \"property\": \"coding_experience\",\n      \"value\": \"tried programming in college\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"before 3:47 pm on 17 March, 2022\",\n      \"evidence_turn_ids\": [\"D1:6\"]\n    },\n    {\n      \"entity\": \"James\",\n      \"entity_type\": \"person\",\n      \"property\": \"programming_languages_known\",\n      \"value\": [\"Python\", \"C++\"],\n      \"modality\": \"observed\",\n      \"valid_time\": \"at 3:47 pm on 17 March, 2022\",\n      \"evidence_turn_ids\": [\"D1:8\"]\n    },\n    {\n      \"entity\": \"James\",\n      \"entity_type\": \"person\",\n      \"property\": \"projects_done\",\n      \"value\": [\"built a website\", \"created some game mods\"],\n      \"modality\": \"observed\",\n      \"valid_time\": \"at 3:47 pm on 17 March, 2022\",\n      \"evidence_turn_ids\": [\"D1:8\"]\n    },\n    {\n      \"entity\": \"James\",\n      \"entity_type\": \"person\",\n      \"property\": \"other_languages_experience\",\n      \"value\": \"none so far\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"at 3:47 pm on 17 March, 2022\",\n      \"evidence_turn_ids\": [\"D1:10\"]\n    },\n    {\n      \"entity\": \"James\",\n      \"entity_type\": \"person\",\n      \"property\": \"future_language_experience_plan\",\n      \"value\": \"hopes to work with other programming languages in the future\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"at 3:47 pm on 17 March, 2022\",\n      \"evidence_turn_ids\": [\"D1:10\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 850,
+        "completion_tokens": 686,
+        "total_tokens": 1536,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  }
+]

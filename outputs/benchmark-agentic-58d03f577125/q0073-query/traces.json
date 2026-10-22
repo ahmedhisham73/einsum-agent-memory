@@ -1,0 +1,166 @@
+[
+  {
+    "stage": "agent_decision",
+    "call_id": "feaf4d8b-cd5e-47bc-86b3-354eddda7eee",
+    "response": {
+      "id": "chatcmpl-EZrEvUfDv8kREZNbY7T0fsLPoj4yS",
+      "object": "chat.completion",
+      "created": 1792214841,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"search\",\"query\":\"Melanie's friend adopt a child\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 150,
+        "completion_tokens": 15,
+        "total_tokens": 165,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f810e81ea"
+    },
+    "latency_seconds": 2.0897826659999996
+  },
+  {
+    "stage": "agent_decision",
+    "call_id": "d72dd33e-2ff5-431c-9af1-c568252bf330",
+    "response": {
+      "id": "chatcmpl-EZrEzMYZzHKronnXHfkkq8NbOUgjW",
+      "object": "chat.completion",
+      "created": 1792214845,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"search\",\"query\":\"Melanie's friend adoption completed date\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2911,
+        "completion_tokens": 15,
+        "total_tokens": 2926,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f810e81ea"
+    },
+    "latency_seconds": 1.1770611669999997
+  },
+  {
+    "stage": "agent_decision",
+    "call_id": "46bc2640-3bcd-4b7f-b9ad-0b286b9e4648",
+    "response": {
+      "id": "chatcmpl-EZrF0AlBjoiUFmB1chwIAK7peooii",
+      "object": "chat.completion",
+      "created": 1792214846,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"ready\",\"reason\":\"The conversation shows that Melanie's friend Caroline was in the process of adoption as of October 2023, passing agency interviews on October 20, 2023, but there is no mention of the child actually being adopted yet. Therefore, the friend had not adopted a child by the latest date available.\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 5178,
+        "completion_tokens": 69,
+        "total_tokens": 5247,
+        "prompt_tokens_details": {
+          "cached_tokens": 2688,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f810e81ea"
+    },
+    "latency_seconds": 1.8777684999999993
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "76042f24-b02a-42a0-aac8-1f3262af06d3",
+    "response": {
+      "id": "chatcmpl-EZrF2feilhY3zHke2vwXoQ7CJMzKF",
+      "object": "chat.completion",
+      "created": 1792214848,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"The conversation does not indicate that Melanie's friend Caroline has adopted a child yet; she was researching adoption agencies as of May 25, 2023, applied to agencies around August 23, 2023, and passed adoption interviews by October 20, 2023. No adoption date is mentioned.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_2::chunk-0005\",\"turn_id\":\"D2:8\"},{\"episode_id\":\"conv-26::session_13::chunk-0000\",\"turn_id\":\"D13:1\"},{\"episode_id\":\"conv-26::session_19::chunk-0000\",\"turn_id\":\"D19:1\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3014,
+        "completion_tokens": 147,
+        "total_tokens": 3161,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_802f1283f8"
+    },
+    "latency_seconds": 2.584253834
+  }
+]

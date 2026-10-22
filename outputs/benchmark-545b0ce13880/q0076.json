@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-26::q0076",
+  "category": 1,
+  "question": "How many children does Melanie have?",
+  "gold_answer": 3,
+  "status": "failed",
+  "error": "Query failed. See q0076.log"
+}

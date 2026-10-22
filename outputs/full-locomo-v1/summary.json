@@ -1,0 +1,75 @@
+{
+  "status": "incomplete",
+  "scope": "All 10 LoCoMo conversations; categories 1-4",
+  "evaluation": "Custom LLM judge rubric; prototype implementations",
+  "development_questions": "Original 10 included in aggregate; their IDs remain separately identified in protocol.json. Aggregate is not a pure held-out score.",
+  "build_accounting": "Build and embedding-build ledgers retained in each linked build. Excluded from the query totals below.",
+  "results": {
+    "ensimem": {
+      "eligible": 1540,
+      "scored": 110,
+      "correct": 75,
+      "query_generation_tokens_reported": 1421661,
+      "query_embedding_tokens_reported": 2212,
+      "judge_generation_tokens_reported": 24130,
+      "usage_complete": false,
+      "unscored": 1430,
+      "accuracy_on_scored_percent": 68.18181818181819
+    },
+    "agentic_rag": {
+      "eligible": 1540,
+      "scored": 140,
+      "correct": 77,
+      "query_generation_tokens_reported": 994118,
+      "query_embedding_tokens_reported": 1048,
+      "judge_generation_tokens_reported": 29825,
+      "usage_complete": false,
+      "unscored": 1400,
+      "accuracy_on_scored_percent": 55.0
+    }
+  },
+  "conversations": {
+    "conv-26": {
+      "status": "incomplete",
+      "memory": "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/offline-memory-a5e48166f56e",
+      "ensimem": "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/benchmark-545b0ce13880",
+      "agentic_rag": "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/benchmark-agentic-58d03f577125"
+    },
+    "conv-30": {
+      "status": "incomplete",
+      "error": "Build incomplete; inspect /Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/full-locomo-v1/conv-30-build.log"
+    },
+    "conv-41": {
+      "status": "incomplete",
+      "error": "Build incomplete; inspect /Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/full-locomo-v1/conv-41-build.log"
+    },
+    "conv-42": {
+      "status": "incomplete",
+      "error": "Build incomplete; inspect /Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/full-locomo-v1/conv-42-build.log"
+    },
+    "conv-43": {
+      "status": "incomplete",
+      "error": "Extraction incomplete; saved data preserved. Inspect /Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/full-locomo-v1/conv-43-build.log"
+    },
+    "conv-44": {
+      "status": "incomplete",
+      "error": "Extraction incomplete; saved data preserved. Inspect /Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/full-locomo-v1/conv-44-build.log"
+    },
+    "conv-47": {
+      "status": "incomplete",
+      "error": "Build incomplete; inspect /Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/full-locomo-v1/conv-47-build.log"
+    },
+    "conv-48": {
+      "status": "incomplete",
+      "error": "Extraction incomplete; saved data preserved. Inspect /Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/full-locomo-v1/conv-48-build.log"
+    },
+    "conv-49": {
+      "status": "incomplete",
+      "error": "Build incomplete; inspect /Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/full-locomo-v1/conv-49-build.log"
+    },
+    "conv-50": {
+      "status": "incomplete",
+      "error": "Extraction incomplete; saved data preserved. Inspect /Users/ahmedhisham/Documents/einsum/agent-memory-comparison/outputs/full-locomo-v1/conv-50-build.log"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0127",
+  "category": 4,
+  "question": "What activity did Caroline used to do with her dad?",
+  "gold_answer": "Horseback riding",
+  "status": "scored",
+  "generated_answer": "The activity Caroline used to do with her dad is not mentioned in the provided conversations.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_2::chunk-0000",
+      "turn_id": "D2:1"
+    }
+  ],
+  "query_elapsed_seconds": 3.78943125,
+  "label": "WRONG",
+  "judge_reason": "The generated answer fails to mention horseback riding, which is the specific activity referenced in the question."
+}

@@ -1,0 +1,10 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Melanie's son",
+      "property": "action",
+      "search": "What happened to Melanie's son on their road trip?"
+    }
+  ]
+}

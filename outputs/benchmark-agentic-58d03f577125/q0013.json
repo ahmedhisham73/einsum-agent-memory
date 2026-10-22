@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0013",
+  "category": 2,
+  "question": "How long ago was Caroline's 18th birthday?",
+  "gold_answer": "10 years ago",
+  "status": "scored",
+  "generated_answer": "Caroline's 18th birthday was 5 years ago from June 9, 2023.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_3::chunk-0015",
+      "turn_id": "D3:16"
+    }
+  ],
+  "query_elapsed_seconds": 5.464772917,
+  "label": "WRONG",
+  "judge_reason": "The generated answer states that Caroline's 18th birthday was 5 years ago, which contradicts the correct reference answer of 10 years ago."
+}

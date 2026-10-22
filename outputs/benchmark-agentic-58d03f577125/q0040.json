@@ -1,0 +1,57 @@
+{
+  "question_id": "conv-26::q0040",
+  "category": 1,
+  "question": "In what ways is Caroline participating in the LGBTQ community?",
+  "gold_answer": "Joining activist group, going to pride parades, participating in an art show, mentoring program",
+  "status": "scored",
+  "generated_answer": "Caroline participates in the LGBTQ community by attending LGBTQ conferences and pride events, mentoring a transgender teen, hosting an LGBTQ-themed art show with her paintings, joining an LGBTQ activist group called 'Connected LGBTQ Activists,' volunteering at pride events, and advocating for trans rights and mental health support. She actively connects with and supports others in the community, promotes LGBTQ visibility and unity through her art, and engages in activism and community-building efforts.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_7::chunk-0000",
+      "turn_id": "D7:1"
+    },
+    {
+      "episode_id": "conv-26::session_7::chunk-0000",
+      "turn_id": "D7:5"
+    },
+    {
+      "episode_id": "conv-26::session_9::chunk-0005",
+      "turn_id": "D9:6"
+    },
+    {
+      "episode_id": "conv-26::session_9::chunk-0005",
+      "turn_id": "D9:8"
+    },
+    {
+      "episode_id": "conv-26::session_9::chunk-0010",
+      "turn_id": "D9:12"
+    },
+    {
+      "episode_id": "conv-26::session_9::chunk-0010",
+      "turn_id": "D9:16"
+    },
+    {
+      "episode_id": "conv-26::session_10::chunk-0000",
+      "turn_id": "D10:3"
+    },
+    {
+      "episode_id": "conv-26::session_10::chunk-0000",
+      "turn_id": "D10:5"
+    },
+    {
+      "episode_id": "conv-26::session_11::chunk-0000",
+      "turn_id": "D11:4"
+    },
+    {
+      "episode_id": "conv-26::session_14::chunk-0010",
+      "turn_id": "D14:11"
+    },
+    {
+      "episode_id": "conv-26::session_14::chunk-0010",
+      "turn_id": "D14:13"
+    }
+  ],
+  "query_elapsed_seconds": 6.134570167,
+  "label": "WRONG",
+  "judge_reason": "The generated answer includes activities not mentioned in the reference answer, such as attending conferences and advocating for trans rights, and adds details about volunteering and specific group names. It does not directly match the provided activities."
+}

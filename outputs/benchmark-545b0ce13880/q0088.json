@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0088",
+  "category": 4,
+  "question": "Why did Caroline choose the adoption agency?",
+  "gold_answer": "because of their inclusivity and support for LGBTQ+ individuals",
+  "status": "scored",
+  "generated_answer": "Caroline chose the adoption agency because they help LGBTQ+ folks with adoption, and their inclusivity and support really spoke to her.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_2::episode-002",
+      "turn_id": "D2:12"
+    }
+  ],
+  "query_elapsed_seconds": 4.574758792,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer accurately captures the reason for Caroline's choice of the adoption agency, emphasizing inclusivity and support for LGBTQ+ individuals."
+}

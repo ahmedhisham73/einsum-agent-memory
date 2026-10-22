@@ -1,0 +1,39 @@
+{
+  "status": "completed",
+  "experiment_id": "q0143-query",
+  "memory_build": "offline-memory-a5e48166f56e",
+  "baseline_build": "agentic-build-300877917378",
+  "question": "How do Melanie and Caroline describe their journey through life together?",
+  "answer": "Melanie and Caroline describe their journey through life together as one of mutual support, inspiration, and shared courage. They acknowledge their unique paths, emphasizing the importance of sharing their stories to promote understanding, acceptance, and hope within the LGBTQ community. Both value the love and support from their families and friends as crucial motivators. They see their friendship as a source of strength to face life's challenges together and make a positive impact, fostering inclusivity and encouragement for others.",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-26::session_3::chunk-0000",
+      "turn_id": "D3:6"
+    },
+    {
+      "episode_id": "conv-26::session_3::chunk-0005",
+      "turn_id": "D3:8"
+    },
+    {
+      "episode_id": "conv-26::session_8::chunk-0035",
+      "turn_id": "D8:37"
+    },
+    {
+      "episode_id": "conv-26::session_19::chunk-0005",
+      "turn_id": "D19:11"
+    }
+  ],
+  "elapsed_seconds": 5.840121540999999,
+  "stop_reason": "agent_ready",
+  "search_count": 1,
+  "selected_chunks": 6,
+  "unique_source_turns": 31,
+  "implementation": {
+    "chunk_turns": 6,
+    "overlap_turns": 1,
+    "top_k_per_search": 6,
+    "max_searches": 4,
+    "max_agent_decisions": 5
+  }
+}

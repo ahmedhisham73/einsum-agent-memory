@@ -1,0 +1,21 @@
+{
+  "question_id": "conv-26::q0084",
+  "category": 4,
+  "question": "What did Melanie realize after the charity race?",
+  "gold_answer": "self-care is important",
+  "status": "scored",
+  "generated_answer": "Melanie realized after the charity race that self-care is really important. She recognized that by looking after herself, she is better able to look after her family. She started carving out some 'me-time' each day through activities like running, reading, or playing her violin, which refreshes her and helps her stay present for her family.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_2::chunk-0000",
+      "turn_id": "D2:3"
+    },
+    {
+      "episode_id": "conv-26::session_2::chunk-0000",
+      "turn_id": "D2:5"
+    }
+  ],
+  "query_elapsed_seconds": 6.034051208,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer correctly conveys that Melanie realized the importance of self-care and provides additional supportive details about how she implemented this realization."
+}

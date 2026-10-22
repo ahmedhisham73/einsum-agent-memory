@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-26::q0028",
+  "category": 3,
+  "question": "Would Caroline pursue writing as a career option?",
+  "gold_answer": "LIkely no; though she likes reading, she wants to be a counselor",
+  "status": "failed",
+  "error": "Query failed. See q0028.log"
+}

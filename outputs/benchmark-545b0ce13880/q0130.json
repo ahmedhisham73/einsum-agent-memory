@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0130",
+  "category": 4,
+  "question": "Which song motivates Caroline to be courageous?",
+  "gold_answer": "Brave by Sara Bareilles",
+  "status": "scored",
+  "generated_answer": "The song \"Brave\" by Sara Bareilles motivates Caroline to be courageous.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_15::episode-004",
+      "turn_id": "D15:23"
+    }
+  ],
+  "query_elapsed_seconds": 10.653373125,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer correctly identifies the song \"Brave\" by Sara Bareilles as the one that motivates Caroline to be courageous."
+}

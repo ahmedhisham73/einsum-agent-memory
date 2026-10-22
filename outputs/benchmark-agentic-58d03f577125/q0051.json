@@ -1,0 +1,37 @@
+{
+  "question_id": "conv-26::q0051",
+  "category": 3,
+  "question": "What would Caroline's political leaning likely be?",
+  "gold_answer": "Liberal",
+  "status": "scored",
+  "generated_answer": "Caroline's political leaning is likely progressive or left-leaning, as she is deeply involved in LGBTQ activism, supports trans rights, mentors LGBTQ youth, joins activist groups focused on rights and community support, and emphasizes fighting for and spreading awareness about LGBTQ rights and mental health support.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_7::chunk-0000",
+      "turn_id": "D7:1"
+    },
+    {
+      "episode_id": "conv-26::session_7::chunk-0000",
+      "turn_id": "D7:3"
+    },
+    {
+      "episode_id": "conv-26::session_9::chunk-0000",
+      "turn_id": "D9:2"
+    },
+    {
+      "episode_id": "conv-26::session_10::chunk-0000",
+      "turn_id": "D10:3"
+    },
+    {
+      "episode_id": "conv-26::session_10::chunk-0000",
+      "turn_id": "D10:5"
+    },
+    {
+      "episode_id": "conv-26::session_19::chunk-0005",
+      "turn_id": "D19:9"
+    }
+  ],
+  "query_elapsed_seconds": 6.57878775,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer describes Caroline's political leaning as progressive or left-leaning, which aligns with being liberal."
+}

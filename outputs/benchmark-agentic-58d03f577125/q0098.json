@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0098",
+  "category": 4,
+  "question": "What workshop did Caroline attend recently?",
+  "gold_answer": "LGBTQ+ counseling workshop",
+  "status": "scored",
+  "generated_answer": "Caroline recently attended a transgender conference.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_5::chunk-0010",
+      "turn_id": "D5:13"
+    }
+  ],
+  "query_elapsed_seconds": 4.826594875,
+  "label": "WRONG",
+  "judge_reason": "The generated answer mentions a transgender conference instead of the LGBTQ+ counseling workshop specified in the reference answer."
+}

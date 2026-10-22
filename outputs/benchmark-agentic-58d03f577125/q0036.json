@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0036",
+  "category": 2,
+  "question": "When did Melanie go camping in July?",
+  "gold_answer": "two weekends before 17 July 2023",
+  "status": "scored",
+  "generated_answer": "Melanie went camping in July during a family camping trip mentioned around 15 July 2023 (session_8, chunk-0030).",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_8::chunk-0030",
+      "turn_id": "D8:32"
+    }
+  ],
+  "query_elapsed_seconds": 5.281214958,
+  "label": "WRONG",
+  "judge_reason": "The generated answer provides an approximate date of when the camping occurred, but it does not specify 'two weekends before 17 July 2023' as the reference answer does."
+}

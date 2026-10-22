@@ -1,0 +1,10 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Caroline",
+      "property": "adoption_process_advice",
+      "search": "advice Caroline gives for getting started with adoption"
+    }
+  ]
+}

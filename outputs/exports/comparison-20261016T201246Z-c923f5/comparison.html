@@ -1,0 +1,388 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Agent Memory Experiment Report</title>
+<style>
+body{font:16px/1.6 system-ui,sans-serif;background:#f4f7fb;
+color:#18324b;margin:0}
+main{max-width:1180px;margin:40px auto;padding:0 24px}
+h1{font-size:36px;line-height:1.2}h2{font-size:21px}h3{font-size:17px}
+.tag{color:#087f79;font-weight:700;letter-spacing:1px}
+table{width:100%;border-collapse:collapse;background:white;margin:24px 0}
+td,th{padding:13px;text-align:left;border-bottom:1px solid #dde5ed}
+thead{background:#15314c;color:white}
+.question{background:white;border:1px solid #dde5ed;border-radius:12px;
+padding:24px;margin:24px 0}
+.pair{display:grid;grid-template-columns:1fr 1fr;gap:24px}
+article{background:#f5f8fc;padding:18px;border-radius:8px;min-width:0}
+.small{font-size:13px;color:#53677c}
+.correct{color:#087f79}.other{color:#ab4b20}
+span{font-size:12px;margin-left:10px}
+pre{white-space:pre-wrap;overflow-wrap:anywhere;font-size:12px}
+details{margin-top:16px}
+@media(max-width:750px){.pair{grid-template-columns:1fr}main{padding:0 12px}}
+@media print{body{background:white}details{display:block}.question{break-inside:avoid}}
+</style></head><body><main>
+<p class="tag">AGENT MEMORY EXPERIMENT</p>
+<h1>EnSIMem prototype vs Agentic RAG</h1>
+<p>Same 10 questions · LoCoMo conv-26 · Custom LLM judge rubric</p>
+<table><thead><tr><th>Metric</th><th>EnSIMem prototype</th>
+<th>Agentic RAG</th></tr></thead><tbody>
+<tr><th>Scored / selected</th><td>10 / 10</td><td>10 / 10</td></tr><tr><th>Correct answers</th><td>9</td><td>8</td></tr><tr><th>Failed</th><td>0</td><td>0</td></tr><tr><th>Accuracy on scored (%)</th><td>90.00</td><td>80.00</td></tr><tr><th>Build: generation tokens</th><td>154,433</td><td>0</td></tr><tr><th>Build: embedding tokens</th><td>21,754</td><td>41,578</td></tr><tr><th>Query: generation tokens</th><td>116,185</td><td>61,092</td></tr><tr><th>Query: embedding tokens</th><td>213</td><td>57</td></tr><tr><th>Judge: generation tokens</th><td>2,256</td><td>2,052</td></tr><tr><th>Mean runtime (s)</th><td>5.70</td><td>5.97</td></tr><tr><th>Median runtime (s)</th><td>5.28</td><td>6.02</td></tr><tr><th>P95 runtime (s)</th><td>9.36</td><td>6.74</td></tr>
+</tbody></table>
+<details><summary>Scope and accounting notes</summary><ul>
+<li>Accuracy is calculated on scored questions; failures shown separately.</li><li>Build, query and judge usage are reported separately.</li><li>Generation and embedding tokens use different models and prices.</li><li>Cached input tokens are a subset of input, not extra tokens.</li><li>Latency uses saved runner elapsed time, including local preparation.</li><li>Single observations per question; not a latency confidence estimate.</li><li>Implementations have different retrieval budgets and policies.</li><li>No dollar costs are inferred from token totals.</li>
+</ul></details>
+<h2>Question-by-question results</h2>
+
+        <section class="question">
+          <p class="small">conv-26::q0004
+             · Category 1</p>
+          <h2>What did Caroline research?</h2>
+          <p><strong>Reference:</strong> Adoption agencies</p>
+          <div class="pair">
+            <article>
+              <h3>EnSIMem prototype <span class="correct">CORRECT</span></h3>
+              <p>Caroline researched adoption agencies, focusing on those that support LGBTQ+ individuals, as well as counseling and mental health services, especially aimed at helping trans people and others dealing with similar issues she experienced. She expressed a strong interest in mental health and counseling careers to support people through their mental health journeys.</p>
+              <p class="small">Generation tokens:
+                5,967
+                · Runtime:
+                5.75 s
+              </p>
+              <details><summary>Judge reasoning and citations</summary>
+                <p>The generated answer provides the specific research focus on adoption agencies and elaborates on additional relevant areas, maintaining the core fact requested.</p>
+                <pre>[{&quot;episode_id&quot;: &quot;conv-26::session_2::episode-002&quot;, &quot;turn_id&quot;: &quot;D2:8&quot;}, {&quot;episode_id&quot;: &quot;conv-26::session_2::episode-002&quot;, &quot;turn_id&quot;: &quot;D2:12&quot;}, {&quot;episode_id&quot;: &quot;conv-26::session_4::episode-003&quot;, &quot;turn_id&quot;: &quot;D4:11&quot;}, {&quot;episode_id&quot;: &quot;conv-26::session_4::episode-003&quot;, &quot;turn_id&quot;: &quot;D4:13&quot;}, {&quot;episode_id&quot;: &quot;conv-26::session_7::episode-001&quot;, &quot;turn_id&quot;: &quot;D7:5&quot;}, {&quot;episode_id&quot;: &quot;conv-26::session_7::episode-001&quot;, &quot;turn_id&quot;: &quot;D7:7&quot;}]</pre>
+                <p></p>
+              </details>
+            </article>
+            <article>
+              <h3>Agentic RAG <span class="other">WRONG</span></h3>
+              <p>Caroline has been researching counseling and mental health as a career, motivated by her own experiences, with the goal of helping people who have gone through similar challenges.</p>
+              <p class="small">Generation tokens:
+                5,034
+                · Runtime:
+                6.50 s
+              </p>
+              <details><summary>Judge reasoning and citations</summary>
+                <p>The generated answer does not address the specific topic of research, which is adoption agencies, as stated in the reference answer.</p>
+                <pre>[{&quot;episode_id&quot;: &quot;conv-26::session_4::chunk-0005&quot;, &quot;turn_id&quot;: &quot;D4:11&quot;}]</pre>
+                <p></p>
+              </details>
+            </article></div>
+        </section>
+        <section class="question">
+          <p class="small">conv-26::q0001
+             · Category 2</p>
+          <h2>When did Caroline go to the LGBTQ support group?</h2>
+          <p><strong>Reference:</strong> 7 May 2023</p>
+          <div class="pair">
+            <article>
+              <h3>EnSIMem prototype <span class="correct">CORRECT</span></h3>
+              <p>Caroline went to the LGBTQ support group on 7 May, 2023 (the day before 8 May 2023).</p>
+              <p class="small">Generation tokens:
+                7,234
+                · Runtime:
+                4.82 s
+              </p>
+              <details><summary>Judge reasoning and citations</summary>
+                <p>The generated answer provides the correct date, maintaining semantic equivalence and includes relevant context.</p>
+                <pre>[{&quot;episode_id&quot;: &quot;conv-26::session_1::episode-001&quot;, &quot;turn_id&quot;: &quot;D1:3&quot;}]</pre>
+                <p></p>
+              </details>
+            </article>
+            <article>
+              <h3>Agentic RAG <span class="correct">CORRECT</span></h3>
+              <p>Caroline went to the LGBTQ support group on 7 May, 2023 (the day before 8 May, 2023).</p>
+              <p class="small">Generation tokens:
+                5,987
+                · Runtime:
+                6.74 s
+              </p>
+              <details><summary>Judge reasoning and citations</summary>
+                <p>The generated answer provides the exact date of 7 May 2023, matching the reference answer.</p>
+                <pre>[{&quot;episode_id&quot;: &quot;conv-26::session_1::chunk-0000&quot;, &quot;turn_id&quot;: &quot;D1:3&quot;}]</pre>
+                <p></p>
+              </details>
+            </article></div>
+        </section>
+        <section class="question">
+          <p class="small">conv-26::q0003
+             · Category 3</p>
+          <h2>What fields would Caroline be likely to pursue in her educaton?</h2>
+          <p><strong>Reference:</strong> Psychology, counseling certification</p>
+          <div class="pair">
+            <article>
+              <h3>EnSIMem prototype <span class="correct">CORRECT</span></h3>
+              <p>Caroline is likely to pursue fields in counseling and mental health education. She has expressed a strong interest in working in counseling or mental health careers, particularly supporting transgender people and the LGBTQ+ community, driven by her personal experiences and passion for helping others with similar struggles. She is exploring career options related to mental health services, advocacy, and creating supportive environments. Additionally, she is engaged in community mentorship and advocacy activities that complement her educational and career goals.</p>
+              <p class="small">Generation tokens:
+                8,939
+                · Runtime:
+                6.73 s
+              </p>
+              <details><summary>Judge reasoning and citations</summary>
+                <p>The generated answer identifies fields related to counseling and mental health education, aligning with the reference answer.</p>
+                <pre>[{&quot;episode_id&quot;: &quot;conv-26::session_1::episode-003&quot;, &quot;turn_id&quot;: &quot;D1:11&quot;}, {&quot;episode_id&quot;: &quot;conv-26::session_4::episode-003&quot;, &quot;turn_id&quot;: &quot;D4:11&quot;}, {&quot;episode_id&quot;: &quot;conv-26::session_4::episode-003&quot;, &quot;turn_id&quot;: &quot;D4:13&quot;}, {&quot;episode_id&quot;: &quot;conv-26::session_5::episode-001&quot;, &quot;turn_id&quot;: &quot;D5:3&quot;}, {&quot;episode_id&quot;: &quot;conv-26::session_6::episode-001&quot;, &quot;turn_id&quot;: &quot;D6:3&quot;}, {&quot;episode_id&quot;: &quot;conv-26::session_7::episode-001&quot;, &quot;turn_id&quot;: &quot;D7:1&quot;}, {&quot;episode_id&quot;: &quot;conv-26::session_7::episode-001&quot;, &quot;turn_id&quot;: &quot;D7:5&quot;}, {&quot;episode_id&quot;: &quot;conv-26::session_7::episode-001&quot;, &quot;turn_id&quot;: &quot;D7:7&quot;}]</pre>
+                <p></p>
+              </details>
+            </article>
+            <article>
+              <h3>Agentic RAG <span class="other">WRONG</span></h3>
+              <p>Caroline is likely to pursue education in counseling and mental health, with a focus on supporting transgender people and the LGBTQ+ community.</p>
+              <p class="small">Generation tokens:
+                5,572
+                · Runtime:
+                5.37 s
+              </p>
+              <details><summary>Judge reasoning and citations</summary>
+                <p>The generated answer includes a specific focus on supporting transgender people and the LGBTQ+ community, which was not mentioned in the reference answer.</p>
+                <pre>[{&quot;episode_id&quot;: &quot;conv-26::session_4::chunk-0010&quot;, &quot;turn_id&quot;: &quot;D4:11&quot;}, {&quot;episode_id&quot;: &quot;conv-26::session_4::chunk-0010&quot;, &quot;turn_id&quot;: &quot;D4:13&quot;}]</pre>
+                <p></p>
+              </details>
+            </article></div>
+        </section>
+        <section class="question">
+          <p class="small">conv-26::q0083
+             · Category 4</p>
+          <h2>What did the charity race raise awareness for?</h2>
+          <p><strong>Reference:</strong> mental health</p>
+          <div class="pair">
+            <article>
+              <h3>EnSIMem prototype <span class="correct">CORRECT</span></h3>
+              <p>The charity race raised awareness for mental health.</p>
+              <p class="small">Generation tokens:
+                6,564
+                · Runtime:
+                4.07 s
+              </p>
+              <details><summary>Judge reasoning and citations</summary>
+                <p>The generated answer matches the reference answer exactly.</p>
+                <pre>[{&quot;episode_id&quot;: &quot;conv-26::session_2::episode-001&quot;, &quot;turn_id&quot;: &quot;D2:1&quot;}]</pre>
+                <p></p>
+              </details>
+            </article>
+            <article>
+              <h3>Agentic RAG <span class="correct">CORRECT</span></h3>
+              <p>The charity race raised awareness for mental health.</p>
+              <p class="small">Generation tokens:
+                7,040
+                · Runtime:
+                5.28 s
+              </p>
+              <details><summary>Judge reasoning and citations</summary>
+                <p>The generated answer accurately reflects the reference answer.</p>
+                <pre>[{&quot;episode_id&quot;: &quot;conv-26::session_2::chunk-0000&quot;, &quot;turn_id&quot;: &quot;D2:1&quot;}]</pre>
+                <p></p>
+              </details>
+            </article></div>
+        </section>
+        <section class="question">
+          <p class="small">conv-26::q0005
+             · Category 1</p>
+          <h2>What is Caroline&#x27;s identity?</h2>
+          <p><strong>Reference:</strong> Transgender woman</p>
+          <div class="pair">
+            <article>
+              <h3>EnSIMem prototype <span class="correct">CORRECT</span></h3>
+              <p>Caroline is a trans woman who has achieved self-acceptance and is proud of her authentic self. She values love, support, community, and creating a family through adoption, specifically aiming to provide a safe and loving home to children in need. She is kind, caring, resilient, and motivated by a belief in inclusivity and helping others, especially young people facing challenges similar to those she overcame. Caroline is single but actively pursuing adoption with supportive friends and mentors, mentoring youth including a transgender teen, and engaging in volunteering and creative activities like painting to express her identity and values. Her attitude is hopeful, optimistic, and dedicated to making a positive difference in others’ lives.</p>
+              <p class="small">Generation tokens:
+                9,572
+                · Runtime:
+                7.13 s
+              </p>
+              <details><summary>Judge reasoning and citations</summary>
+                <p>The generated answer aligns with the reference answer, clearly identifying Caroline as a transgender woman while providing additional context about her character and values.</p>
+                <pre>[{&quot;episode_id&quot;: &quot;conv-26::session_16::episode-005&quot;, &quot;turn_id&quot;: &quot;D16:13&quot;}, {&quot;episode_id&quot;: &quot;conv-26::session_2::episode-002&quot;, &quot;turn_id&quot;: &quot;D2:12&quot;}, {&quot;episode_id&quot;: &quot;conv-26::session_19::episode-001&quot;, &quot;turn_id&quot;: &quot;D19:3&quot;}, {&quot;episode_id&quot;: &quot;conv-26::session_19::episode-003&quot;, &quot;turn_id&quot;: &quot;D19:7&quot;}, {&quot;episode_id&quot;: &quot;conv-26::session_9::episode-002&quot;, &quot;turn_id&quot;: &quot;D9:6&quot;}, {&quot;episode_id&quot;: &quot;conv-26::session_15::episode-002&quot;, &quot;turn_id&quot;: &quot;D15:9&quot;}]</pre>
+                <p></p>
+              </details>
+            </article>
+            <article>
+              <h3>Agentic RAG <span class="correct">CORRECT</span></h3>
+              <p>Caroline is a trans woman who has undergone a journey of self-discovery and acceptance. She uses art to express her transition and identity, emphasizing themes of self-love, warmth, and acceptance. She is passionate about helping others, particularly supporting trans individuals and children through challenges. Her identity is deeply connected to finding and embracing her true self beyond the binary gender system, and she values genuine, supportive relationships.</p>
+              <p class="small">Generation tokens:
+                5,392
+                · Runtime:
+                6.41 s
+              </p>
+              <details><summary>Judge reasoning and citations</summary>
+                <p>The generated answer captures the essence of Caroline&#x27;s identity as a transgender woman, focusing on her journey of self-discovery and her connection to her true self.</p>
+                <pre>[{&quot;episode_id&quot;: &quot;conv-26::session_11::chunk-0010&quot;, &quot;turn_id&quot;: &quot;D11:12&quot;}, {&quot;episode_id&quot;: &quot;conv-26::session_16::chunk-0010&quot;, &quot;turn_id&quot;: &quot;D16:13&quot;}, {&quot;episode_id&quot;: &quot;conv-26::session_19::chunk-0005&quot;, &quot;turn_id&quot;: &quot;D19:9&quot;}]</pre>
+                <p></p>
+              </details>
+            </article></div>
+        </section>
+        <section class="question">
+          <p class="small">conv-26::q0002
+             · Category 2</p>
+          <h2>When did Melanie paint a sunrise?</h2>
+          <p><strong>Reference:</strong> 2022</p>
+          <div class="pair">
+            <article>
+              <h3>EnSIMem prototype <span class="correct">CORRECT</span></h3>
+              <p>Melanie painted a sunrise last year, as she mentioned in conv-26::session_1::episode-004, turn D1:14.</p>
+              <p class="small">Generation tokens:
+                5,630
+                · Runtime:
+                4.11 s
+              </p>
+              <details><summary>Judge reasoning and citations</summary>
+                <p>The generated answer indicates that Melanie painted a sunrise last year, which corresponds to 2022.</p>
+                <pre>[{&quot;episode_id&quot;: &quot;conv-26::session_1::episode-004&quot;, &quot;turn_id&quot;: &quot;D1:14&quot;}]</pre>
+                <p></p>
+              </details>
+            </article>
+            <article>
+              <h3>Agentic RAG <span class="correct">CORRECT</span></h3>
+              <p>Melanie painted a sunrise last year.</p>
+              <p class="small">Generation tokens:
+                7,009
+                · Runtime:
+                5.30 s
+              </p>
+              <details><summary>Judge reasoning and citations</summary>
+                <p>Both answers indicate that the event occurred in 2022, with &#x27;last year&#x27; referring to the previous year relative to 2023.</p>
+                <pre>[{&quot;episode_id&quot;: &quot;conv-26::session_1::chunk-0010&quot;, &quot;turn_id&quot;: &quot;D1:14&quot;}]</pre>
+                <p></p>
+              </details>
+            </article></div>
+        </section>
+        <section class="question">
+          <p class="small">conv-26::q0015
+             · Category 3</p>
+          <h2>Would Caroline still want to pursue counseling as a career if she hadn&#x27;t received support growing up?</h2>
+          <p><strong>Reference:</strong> Likely no</p>
+          <div class="pair">
+            <article>
+              <h3>EnSIMem prototype <span class="other">WRONG</span></h3>
+              <p>Caroline&#x27;s motivation to pursue a counseling career is deeply tied to the support she received growing up and during her transition. She credits the support from friends, family, and mentors as invaluable and says it made a huge difference in her life, inspiring her to help others through counseling. Although there is no explicit hypothetical reflection from Caroline about whether she would still want to pursue counseling if she hadn&#x27;t received support growing up, her statements emphasize that the support she received played a crucial role in her decision and passion to help others with similar struggles.</p>
+              <p class="small">Generation tokens:
+                8,697
+                · Runtime:
+                5.97 s
+              </p>
+              <details><summary>Judge reasoning and citations</summary>
+                <p>The generated answer does not directly address the question, which asks whether Caroline would pursue counseling without support. It implies that support is crucial but does not explicitly state &#x27;likely no&#x27; as the reference answer does.</p>
+                <pre>[{&quot;episode_id&quot;: &quot;conv-26::session_4::episode-003&quot;, &quot;turn_id&quot;: &quot;D4:15&quot;}, {&quot;episode_id&quot;: &quot;conv-26::session_19::episode-003&quot;, &quot;turn_id&quot;: &quot;D19:9&quot;}]</pre>
+                <p></p>
+              </details>
+            </article>
+            <article>
+              <h3>Agentic RAG <span class="correct">CORRECT</span></h3>
+              <p>No, Caroline emphasizes that the support she received growing up made a huge difference and motivated her to pursue counseling. She credits her journey and the support she got as the driving factors for wanting to help others. Without that support, it is implied she might not have the same motivation to choose counseling as a career.</p>
+              <p class="small">Generation tokens:
+                6,977
+                · Runtime:
+                6.02 s
+              </p>
+              <details><summary>Judge reasoning and citations</summary>
+                <p>The generated answer conveys that without support, Caroline likely wouldn&#x27;t pursue counseling, aligning with the reference answer.</p>
+                <pre>[{&quot;episode_id&quot;: &quot;conv-26::session_4::chunk-0010&quot;, &quot;turn_id&quot;: &quot;D4:15&quot;}, {&quot;episode_id&quot;: &quot;conv-26::session_7::chunk-0005&quot;, &quot;turn_id&quot;: &quot;D7:7&quot;}, {&quot;episode_id&quot;: &quot;conv-26::session_19::chunk-0005&quot;, &quot;turn_id&quot;: &quot;D19:9&quot;}]</pre>
+                <p></p>
+              </details>
+            </article></div>
+        </section>
+        <section class="question">
+          <p class="small">conv-26::q0084
+             · Category 4</p>
+          <h2>What did Melanie realize after the charity race?</h2>
+          <p><strong>Reference:</strong> self-care is important</p>
+          <div class="pair">
+            <article>
+              <h3>EnSIMem prototype <span class="correct">CORRECT</span></h3>
+              <p>After the charity race, Melanie realized that self-care is really important. She understood that taking care of herself allows her to better care for her family. She is in the process of carving out some &#x27;me-time&#x27; each day through activities like running, reading, or playing the violin, which refreshes her and helps her stay present for her family.</p>
+              <p class="small">Generation tokens:
+                51,226
+                · Runtime:
+                9.36 s
+              </p>
+              <details><summary>Judge reasoning and citations</summary>
+                <p>The generated answer correctly identifies the realization about self-care and expands on it with relevant details that align with the reference answer.</p>
+                <pre>[{&quot;episode_id&quot;: &quot;conv-26::session_2::episode-001&quot;, &quot;turn_id&quot;: &quot;D2:1&quot;}, {&quot;episode_id&quot;: &quot;conv-26::session_2::episode-001&quot;, &quot;turn_id&quot;: &quot;D2:3&quot;}, {&quot;episode_id&quot;: &quot;conv-26::session_2::episode-001&quot;, &quot;turn_id&quot;: &quot;D2:5&quot;}]</pre>
+                <p></p>
+              </details>
+            </article>
+            <article>
+              <h3>Agentic RAG <span class="correct">CORRECT</span></h3>
+              <p>Melanie realized after the charity race that self-care is really important. She recognized that by looking after herself, she is better able to look after her family. She started carving out some &#x27;me-time&#x27; each day through activities like running, reading, or playing her violin, which refreshes her and helps her stay present for her family.</p>
+              <p class="small">Generation tokens:
+                6,662
+                · Runtime:
+                6.03 s
+              </p>
+              <details><summary>Judge reasoning and citations</summary>
+                <p>The generated answer correctly conveys that Melanie realized the importance of self-care and provides additional supportive details about how she implemented this realization.</p>
+                <pre>[{&quot;episode_id&quot;: &quot;conv-26::session_2::chunk-0000&quot;, &quot;turn_id&quot;: &quot;D2:3&quot;}, {&quot;episode_id&quot;: &quot;conv-26::session_2::chunk-0000&quot;, &quot;turn_id&quot;: &quot;D2:5&quot;}]</pre>
+                <p></p>
+              </details>
+            </article></div>
+        </section>
+        <section class="question">
+          <p class="small">conv-26::q0008
+             · Category 1</p>
+          <h2>What is Caroline&#x27;s relationship status?</h2>
+          <p><strong>Reference:</strong> Single</p>
+          <div class="pair">
+            <article>
+              <h3>EnSIMem prototype <span class="correct">CORRECT</span></h3>
+              <p>Caroline is single; she is pursuing adoption as a single parent to create a loving family for children in need, and she describes it as a tough but welcomed challenge.</p>
+              <p class="small">Generation tokens:
+                6,497
+                · Runtime:
+                4.51 s
+              </p>
+              <details><summary>Judge reasoning and citations</summary>
+                <p>The generated answer confirms that Caroline is single, aligning with the reference answer.</p>
+                <pre>[{&quot;episode_id&quot;: &quot;conv-26::session_2::episode-002&quot;, &quot;turn_id&quot;: &quot;D2:14&quot;}, {&quot;episode_id&quot;: &quot;conv-26::session_17::episode-001&quot;, &quot;turn_id&quot;: &quot;D17:1&quot;}]</pre>
+                <p></p>
+              </details>
+            </article>
+            <article>
+              <h3>Agentic RAG <span class="correct">CORRECT</span></h3>
+              <p>Caroline is currently single, not explicitly in a romantic relationship. She talks about friendships, family support, and mentoring but does not mention a partner or romantic relationship.</p>
+              <p class="small">Generation tokens:
+                5,331
+                · Runtime:
+                6.51 s
+              </p>
+              <details><summary>Judge reasoning and citations</summary>
+                <p>The generated answer accurately reflects that Caroline is single and provides additional context without contradicting the relationship status.</p>
+                <pre>[{&quot;episode_id&quot;: &quot;conv-26::session_16::chunk-0010&quot;, &quot;turn_id&quot;: &quot;D16:15&quot;}]</pre>
+                <p></p>
+              </details>
+            </article></div>
+        </section>
+        <section class="question">
+          <p class="small">conv-26::q0006
+             · Category 2</p>
+          <h2>When did Melanie run a charity race?</h2>
+          <p><strong>Reference:</strong> The sunday before 25 May 2023</p>
+          <div class="pair">
+            <article>
+              <h3>EnSIMem prototype <span class="correct">CORRECT</span></h3>
+              <p>Melanie ran a charity race for mental health last Saturday before May 25, 2023, which would be on May 20, 2023.</p>
+              <p class="small">Generation tokens:
+                5,859
+                · Runtime:
+                4.53 s
+              </p>
+              <details><summary>Judge reasoning and citations</summary>
+                <p>Both answers indicate that the race occurred on May 20, 2023, which is the Sunday before May 25, 2023.</p>
+                <pre>[{&quot;episode_id&quot;: &quot;conv-26::session_2::episode-001&quot;, &quot;turn_id&quot;: &quot;D2:1&quot;}]</pre>
+                <p></p>
+              </details>
+            </article>
+            <article>
+              <h3>Agentic RAG <span class="correct">CORRECT</span></h3>
+              <p>Melanie ran a charity race for mental health on the Saturday prior to 25 May 2023, which was Saturday, 20 May 2023.</p>
+              <p class="small">Generation tokens:
+                6,088
+                · Runtime:
+                5.53 s
+              </p>
+              <details><summary>Judge reasoning and citations</summary>
+                <p>Both answers indicate that the charity race occurred on the Saturday before 25 May 2023, which is accurately identified as 20 May 2023.</p>
+                <pre>[{&quot;episode_id&quot;: &quot;conv-26::session_2::chunk-0000&quot;, &quot;turn_id&quot;: &quot;D2:1&quot;}]</pre>
+                <p></p>
+              </details>
+            </article></div>
+        </section>
+</main></body></html>

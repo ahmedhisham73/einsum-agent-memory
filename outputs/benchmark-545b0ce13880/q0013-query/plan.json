@@ -1,0 +1,25 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Caroline",
+      "property": "date_of_birth",
+      "search": "search for Caroline's birth date to determine 18th birthday"
+    },
+    {
+      "entity": "Caroline",
+      "property": "date_of_18th_birthday",
+      "search": "search for specific date or year Caroline turned 18"
+    },
+    {
+      "entity": "Caroline",
+      "property": "current_date",
+      "search": "search for current date or reference date in context"
+    },
+    {
+      "entity": "Caroline",
+      "property": "time_since_18th_birthday",
+      "search": "calculate time elapsed from Caroline's 18th birthday to current date"
+    }
+  ]
+}

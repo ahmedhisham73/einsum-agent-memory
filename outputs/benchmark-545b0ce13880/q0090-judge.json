@@ -1,0 +1,36 @@
+{
+  "id": "chatcmpl-EZizce5bjcLO1Gu6bSj2Ew8F9jvDl",
+  "object": "chat.completion",
+  "created": 1792183140,
+  "model": "gpt-4o-mini-2024-07-18",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\"label\":\"CORRECT\",\"reason\":\"The generated answer captures Melanie's positive and supportive feelings about Caroline's decision to adopt, including her admiration and belief that Caroline will be an excellent mom, which aligns with the reference answer.\"}",
+        "refusal": null,
+        "annotations": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 216,
+    "completion_tokens": 46,
+    "total_tokens": 262,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+    }
+  },
+  "service_tier": "default",
+  "system_fingerprint": "fp_0c93c4510e"
+}

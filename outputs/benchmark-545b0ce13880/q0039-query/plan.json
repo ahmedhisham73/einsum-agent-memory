@@ -1,0 +1,40 @@
+{
+  "scope": "all_matching",
+  "requirements": [
+    {
+      "entity": "Melanie",
+      "property": "activities",
+      "search": "activities with family"
+    },
+    {
+      "entity": "Melanie",
+      "property": "family_activities",
+      "search": "family activities done together"
+    },
+    {
+      "entity": "Melanie",
+      "property": "family_activity_recent",
+      "search": "recent family activities"
+    },
+    {
+      "entity": "Melanie",
+      "property": "family_activities_recent",
+      "search": "recent family activities"
+    },
+    {
+      "entity": "Melanie",
+      "property": "has_done",
+      "search": "done activities with family"
+    },
+    {
+      "entity": "Melanie",
+      "property": "family_activity_benefits",
+      "search": "benefits from family activities"
+    },
+    {
+      "entity": "Melanie",
+      "property": "bonding_through_activity",
+      "search": "activities with family for bonding"
+    }
+  ]
+}

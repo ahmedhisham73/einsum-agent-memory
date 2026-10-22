@@ -1,0 +1,57 @@
+{
+  "question_id": "conv-26::q0020",
+  "category": 1,
+  "question": "What do Melanie's kids like?",
+  "gold_answer": "dinosaurs, nature",
+  "status": "scored",
+  "generated_answer": "Melanie's kids like nature and outdoor activities such as hiking, camping, exploring parks, and playing at the beach. They enjoy creative activities like pottery workshops and painting, especially nature-inspired projects. Family activities they enjoy include roasting marshmallows around campfires, telling stories, and spending quality time together on camping trips and beach outings. They also liked visiting the dinosaur exhibit at a museum and appreciate learning about animals and nature.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_3::episode-003",
+      "turn_id": "D3:14"
+    },
+    {
+      "episode_id": "conv-26::session_4::episode-002",
+      "turn_id": "D4:8"
+    },
+    {
+      "episode_id": "conv-26::session_6::episode-002",
+      "turn_id": "D6:4"
+    },
+    {
+      "episode_id": "conv-26::session_6::episode-005",
+      "turn_id": "D6:16"
+    },
+    {
+      "episode_id": "conv-26::session_8::episode-001",
+      "turn_id": "D8:2"
+    },
+    {
+      "episode_id": "conv-26::session_8::episode-004",
+      "turn_id": "D8:32"
+    },
+    {
+      "episode_id": "conv-26::session_8::episode-004",
+      "turn_id": "D8:34"
+    },
+    {
+      "episode_id": "conv-26::session_10::episode-002",
+      "turn_id": "D10:8"
+    },
+    {
+      "episode_id": "conv-26::session_10::episode-002",
+      "turn_id": "D10:12"
+    },
+    {
+      "episode_id": "conv-26::session_15::episode-001",
+      "turn_id": "D15:2"
+    },
+    {
+      "episode_id": "conv-26::session_18::episode-004",
+      "turn_id": "D18:17"
+    }
+  ],
+  "query_elapsed_seconds": 6.960995292,
+  "label": "WRONG",
+  "judge_reason": "The generated answer provides additional activities beyond what is mentioned in the reference answer, and while it includes 'nature,' it fails to distinctly focus on 'dinosaurs' as stated in the reference."
+}

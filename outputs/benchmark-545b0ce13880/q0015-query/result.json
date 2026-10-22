@@ -1,0 +1,25 @@
+{
+  "status": "completed",
+  "experiment_id": "q0015-query",
+  "memory_build": "offline-memory-a5e48166f56e",
+  "embedding_fingerprint": "264e45d8331b217a87fc15e35db2c614b32e9c572d0bbb53fe9bcc90dda3a8a6",
+  "question": "Would Caroline still want to pursue counseling as a career if she hadn't received support growing up?",
+  "answer": "Caroline's motivation to pursue a counseling career is deeply tied to the support she received growing up and during her transition. She credits the support from friends, family, and mentors as invaluable and says it made a huge difference in her life, inspiring her to help others through counseling. Although there is no explicit hypothetical reflection from Caroline about whether she would still want to pursue counseling if she hadn't received support growing up, her statements emphasize that the support she received played a crucial role in her decision and passion to help others with similar struggles.",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-26::session_4::episode-003",
+      "turn_id": "D4:15"
+    },
+    {
+      "episode_id": "conv-26::session_19::episode-003",
+      "turn_id": "D19:9"
+    }
+  ],
+  "elapsed_seconds": 5.970174291999999,
+  "implementation": {
+    "structured_matching": "literal entity / property-token overlap",
+    "all_matching": "all episodes; no optimized exhaustive retrieval",
+    "coverage": "answer-model sufficiency check with expansion"
+  }
+}

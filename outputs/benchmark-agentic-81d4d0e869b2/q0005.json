@@ -1,0 +1,25 @@
+{
+  "question_id": "conv-26::q0005",
+  "category": 1,
+  "question": "What is Caroline's identity?",
+  "gold_answer": "Transgender woman",
+  "status": "scored",
+  "generated_answer": "Caroline is a trans woman who has undergone a journey of self-discovery and acceptance. She uses art to express her transition and identity, emphasizing themes of self-love, warmth, and acceptance. She is passionate about helping others, particularly supporting trans individuals and children through challenges. Her identity is deeply connected to finding and embracing her true self beyond the binary gender system, and she values genuine, supportive relationships.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_11::chunk-0010",
+      "turn_id": "D11:12"
+    },
+    {
+      "episode_id": "conv-26::session_16::chunk-0010",
+      "turn_id": "D16:13"
+    },
+    {
+      "episode_id": "conv-26::session_19::chunk-0005",
+      "turn_id": "D19:9"
+    }
+  ],
+  "query_elapsed_seconds": 6.409426625,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer captures the essence of Caroline's identity as a transgender woman, focusing on her journey of self-discovery and her connection to her true self."
+}

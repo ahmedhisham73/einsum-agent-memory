@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-26::q0143",
+  "category": 4,
+  "question": "How do Melanie and Caroline describe their journey through life together?",
+  "gold_answer": "An ongoing adventure of learning and growing.",
+  "status": "failed",
+  "error": "Query failed. See q0143.log"
+}

@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "ff744c0c-013d-4049-9bad-ac18abb5e605",
+    "response": {
+      "id": "chatcmpl-EZjmQ5ObbdZUp4HgV9lfYYmbJ1wux",
+      "object": "chat.completion",
+      "created": 1792186166,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Caroline\",\"property\":\"painting_inspiration\",\"search\":\"standalone evidence search\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2681,
+        "completion_tokens": 27,
+        "total_tokens": 2708,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_5002831302"
+    },
+    "latency_seconds": 1.8667518330000001
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "46a4a4a1-c1eb-4290-928e-76e09cec8666",
+    "response": {
+      "id": "chatcmpl-EZjmVfMkOb9nazf81119WI6YJ1Ngz",
+      "object": "chat.completion",
+      "created": 1792186171,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Caroline's painting for the art show was inspired by her visit to an LGBTQ center; she wanted to capture everyone's unity and strength.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_9::episode-004\",\"turn_id\":\"D9:16\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 4168,
+        "completion_tokens": 63,
+        "total_tokens": 4231,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_38f508f26a"
+    },
+    "latency_seconds": 2.252485375
+  }
+]

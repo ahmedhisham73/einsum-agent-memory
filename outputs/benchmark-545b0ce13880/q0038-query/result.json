@@ -1,0 +1,41 @@
+{
+  "status": "completed",
+  "experiment_id": "q0038-query",
+  "memory_build": "offline-memory-a5e48166f56e",
+  "embedding_fingerprint": "264e45d8331b217a87fc15e35db2c614b32e9c572d0bbb53fe9bcc90dda3a8a6",
+  "question": "What did Melanie paint recently?",
+  "answer": "Melanie recently painted several pieces: a vibrant nature-inspired painting featuring a sunset with a palm tree and flowers (D8:6, D8:8), a horse painting (D13:8), a sunflower landscape painting (D14:30), a sunset landscape painting with a pink sky (D17:12), and an abstract painting with vibrant blue colors (D17:14). She has been actively painting with her kids and finds painting a way to express her feelings and be creative.",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-26::session_8::episode-001",
+      "turn_id": "D8:6"
+    },
+    {
+      "episode_id": "conv-26::session_8::episode-001",
+      "turn_id": "D8:8"
+    },
+    {
+      "episode_id": "conv-26::session_13::episode-003",
+      "turn_id": "D13:8"
+    },
+    {
+      "episode_id": "conv-26::session_14::episode-008",
+      "turn_id": "D14:30"
+    },
+    {
+      "episode_id": "conv-26::session_17::episode-002",
+      "turn_id": "D17:12"
+    },
+    {
+      "episode_id": "conv-26::session_17::episode-002",
+      "turn_id": "D17:14"
+    }
+  ],
+  "elapsed_seconds": 5.555068708,
+  "implementation": {
+    "structured_matching": "literal entity / property-token overlap",
+    "all_matching": "all episodes; no optimized exhaustive retrieval",
+    "coverage": "answer-model sufficiency check with expansion"
+  }
+}

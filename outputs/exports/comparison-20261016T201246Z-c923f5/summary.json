@@ -1,0 +1,209 @@
+{
+  "created_at_utc": "2026-10-16T20:12:46.906793+00:00",
+  "dataset": "conv-26",
+  "scope": "10-question development slice; custom LLM judge rubric",
+  "notes": [
+    "Accuracy is calculated on scored questions; failures shown separately.",
+    "Build, query and judge usage are reported separately.",
+    "Generation and embedding tokens use different models and prices.",
+    "Cached input tokens are a subset of input, not extra tokens.",
+    "Latency uses saved runner elapsed time, including local preparation.",
+    "Single observations per question; not a latency confidence estimate.",
+    "Implementations have different retrieval budgets and policies.",
+    "No dollar costs are inferred from token totals."
+  ],
+  "approaches": {
+    "ensimem": {
+      "selected": 10,
+      "scored": 10,
+      "failed": 0,
+      "correct": 9,
+      "accuracy_on_scored_percent": 90.0,
+      "build_generation_tokens": 154433,
+      "build_embedding_tokens": 21754,
+      "query_generation_tokens": 116185,
+      "query_embedding_tokens": 213,
+      "judge_generation_tokens": 2256,
+      "latency": {
+        "samples": 10,
+        "mean_seconds": 5.6964011084,
+        "median_seconds": 5.2835320835,
+        "p95_seconds": 9.355893666
+      },
+      "build_breakdown": [
+        {
+          "phase": "build",
+          "stage": "entity_property_extraction",
+          "usage_kind": "generation",
+          "model": "gpt-4.1-mini-2025-04-14",
+          "calls": 89,
+          "input_tokens": 72352,
+          "output_tokens": 42980,
+          "cached_input_tokens": 0,
+          "total_tokens": 115332,
+          "missing_usage_calls": 0
+        },
+        {
+          "phase": "build",
+          "stage": "episode_partitioning",
+          "usage_kind": "generation",
+          "model": "gpt-4.1-mini-2025-04-14",
+          "calls": 19,
+          "input_tokens": 35078,
+          "output_tokens": 4023,
+          "cached_input_tokens": 0,
+          "total_tokens": 39101,
+          "missing_usage_calls": 0
+        },
+        {
+          "phase": "build",
+          "stage": "index_embedding",
+          "usage_kind": "embedding",
+          "model": "text-embedding-3-small",
+          "calls": 17,
+          "input_tokens": 21754,
+          "output_tokens": 0,
+          "cached_input_tokens": null,
+          "total_tokens": 21754,
+          "missing_usage_calls": 0
+        }
+      ],
+      "query_breakdown": [
+        {
+          "phase": "query",
+          "stage": "grounded_answer",
+          "usage_kind": "generation",
+          "model": "gpt-4.1-mini-2025-04-14",
+          "calls": 12,
+          "input_tokens": 87196,
+          "output_tokens": 1513,
+          "cached_input_tokens": 0,
+          "total_tokens": 88709,
+          "missing_usage_calls": 0
+        },
+        {
+          "phase": "query",
+          "stage": "requirement_embedding",
+          "usage_kind": "embedding",
+          "model": "text-embedding-3-small",
+          "calls": 10,
+          "input_tokens": 213,
+          "output_tokens": 0,
+          "cached_input_tokens": null,
+          "total_tokens": 213,
+          "missing_usage_calls": 0
+        },
+        {
+          "phase": "query",
+          "stage": "requirement_planning",
+          "usage_kind": "generation",
+          "model": "gpt-4.1-mini-2025-04-14",
+          "calls": 10,
+          "input_tokens": 26802,
+          "output_tokens": 674,
+          "cached_input_tokens": 2432,
+          "total_tokens": 27476,
+          "missing_usage_calls": 0
+        }
+      ],
+      "judge_breakdown": [
+        {
+          "phase": "evaluation",
+          "stage": "answer_judging",
+          "usage_kind": "generation",
+          "model": "gpt-4o-mini-2024-07-18",
+          "calls": 10,
+          "input_tokens": 1942,
+          "output_tokens": 314,
+          "cached_input_tokens": 0,
+          "total_tokens": 2256,
+          "missing_usage_calls": 0
+        }
+      ]
+    },
+    "agentic_rag": {
+      "selected": 10,
+      "scored": 10,
+      "failed": 0,
+      "correct": 8,
+      "accuracy_on_scored_percent": 80.0,
+      "build_generation_tokens": 0,
+      "build_embedding_tokens": 41578,
+      "query_generation_tokens": 61092,
+      "query_embedding_tokens": 57,
+      "judge_generation_tokens": 2052,
+      "latency": {
+        "samples": 10,
+        "mean_seconds": 5.9695347165,
+        "median_seconds": 6.024681666499999,
+        "p95_seconds": 6.744872083
+      },
+      "build_breakdown": [
+        {
+          "phase": "build",
+          "stage": "chunk_embedding",
+          "usage_kind": "embedding",
+          "model": "text-embedding-3-small",
+          "calls": 3,
+          "input_tokens": 41578,
+          "output_tokens": 0,
+          "cached_input_tokens": null,
+          "total_tokens": 41578,
+          "missing_usage_calls": 0
+        }
+      ],
+      "query_breakdown": [
+        {
+          "phase": "query",
+          "stage": "agent_decision",
+          "usage_kind": "generation",
+          "model": "gpt-4.1-mini-2025-04-14",
+          "calls": 20,
+          "input_tokens": 30878,
+          "output_tokens": 712,
+          "cached_input_tokens": 0,
+          "total_tokens": 31590,
+          "missing_usage_calls": 0
+        },
+        {
+          "phase": "query",
+          "stage": "grounded_answer",
+          "usage_kind": "generation",
+          "model": "gpt-4.1-mini-2025-04-14",
+          "calls": 10,
+          "input_tokens": 28608,
+          "output_tokens": 894,
+          "cached_input_tokens": 0,
+          "total_tokens": 29502,
+          "missing_usage_calls": 0
+        },
+        {
+          "phase": "query",
+          "stage": "search_embedding",
+          "usage_kind": "embedding",
+          "model": "text-embedding-3-small",
+          "calls": 10,
+          "input_tokens": 57,
+          "output_tokens": 0,
+          "cached_input_tokens": null,
+          "total_tokens": 57,
+          "missing_usage_calls": 0
+        }
+      ],
+      "judge_breakdown": [
+        {
+          "phase": "evaluation",
+          "stage": "answer_judging",
+          "usage_kind": "generation",
+          "model": "gpt-4o-mini-2024-07-18",
+          "calls": 10,
+          "input_tokens": 1728,
+          "output_tokens": 324,
+          "cached_input_tokens": 0,
+          "total_tokens": 2052,
+          "missing_usage_calls": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,125 @@
+[
+  {
+    "stage": "agent_decision",
+    "call_id": "ae9ef86f-65df-4d31-8d9f-304858897f25",
+    "response": {
+      "id": "chatcmpl-EZiUA8U8wG8R9F4jdbK55f9Fhs1Z6",
+      "object": "chat.completion",
+      "created": 1792181190,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"search\",\"query\":\"Caroline LGBTQ support group attendance\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 151,
+        "completion_tokens": 14,
+        "total_tokens": 165,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_d81cb94320"
+    },
+    "latency_seconds": 1.3497468750000001
+  },
+  {
+    "stage": "agent_decision",
+    "call_id": "a8cc6fe6-74ec-4a98-8c7f-3338f6ccc3e9",
+    "response": {
+      "id": "chatcmpl-EZiUDqxS7Mhxo8QulnARUutBFGKmv",
+      "object": "chat.completion",
+      "created": 1792181193,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"ready\",\"reason\":\"The evidence clearly states that Caroline went to an LGBTQ support group the day before 8 May 2023, in the conversation chunk from 1:56 pm on 8 May 2023 where Caroline says 'I went to a LGBTQ support group yesterday and it was so powerful.'\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2916,
+        "completion_tokens": 65,
+        "total_tokens": 2981,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_d81cb94320"
+    },
+    "latency_seconds": 2.4022976250000005
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "cb412910-cc3a-4e4a-ba10-2ba32ecdce53",
+    "response": {
+      "id": "chatcmpl-EZiUFtoYXjZXQfya3wjmZzOpZM6O5",
+      "object": "chat.completion",
+      "created": 1792181195,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Caroline went to the LGBTQ support group on 7 May, 2023 (the day before 8 May, 2023).\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_1::chunk-0000\",\"turn_id\":\"D1:3\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2775,
+        "completion_tokens": 66,
+        "total_tokens": 2841,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_38f508f26a"
+    },
+    "latency_seconds": 2.133394375
+  }
+]

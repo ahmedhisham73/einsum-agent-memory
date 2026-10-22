@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0064",
+  "category": 2,
+  "question": "When is Caroline's youth center putting on a talent show?",
+  "gold_answer": "September 2023",
+  "status": "scored",
+  "generated_answer": "Caroline's youth center is putting on a talent show next month, which was mentioned in the conversation on 28 August 2023.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_15::chunk-0005",
+      "turn_id": "D15:11"
+    }
+  ],
+  "query_elapsed_seconds": 4.228338292,
+  "label": "WRONG",
+  "judge_reason": "The generated answer mentions 'next month' which suggests October 2023 instead of providing the specific date of September 2023 as requested."
+}

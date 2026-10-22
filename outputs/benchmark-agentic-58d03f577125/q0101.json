@@ -1,0 +1,25 @@
+{
+  "question_id": "conv-26::q0101",
+  "category": 4,
+  "question": "What kind of place does Caroline want to create for people?",
+  "gold_answer": "a safe and inviting place for people to grow",
+  "status": "scored",
+  "generated_answer": "Caroline wants to create a loving, accepting, and inclusive place where people can find unity, strength, self-acceptance, and love, particularly for the LGBTQ+ community. She aims to foster an environment of comfort, growth, and support, celebrating differences and helping others embrace their authentic selves.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_11::chunk-0010",
+      "turn_id": "D11:12"
+    },
+    {
+      "episode_id": "conv-26::session_14::chunk-0015",
+      "turn_id": "D14:21"
+    },
+    {
+      "episode_id": "conv-26::session_19::chunk-0005",
+      "turn_id": "D19:9"
+    }
+  ],
+  "query_elapsed_seconds": 6.467262875,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer describes a safe and inviting place for people to grow, emphasizing support and acceptance, which aligns with the reference answer."
+}

@@ -1,0 +1,215 @@
+[
+  {
+    "episode_id": "conv-26::session_6::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_6",
+    "observed_at": "2023-07-06T20:18:00",
+    "source_timestamp": "8:18 pm on 6 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Melanie's family outing to a museum with kids",
+    "turns": [
+      {
+        "turn_id": "D6:4",
+        "speaker": "Melanie",
+        "text": "That's awesome, Caroline! Congrats on following your dreams. Yesterday I took the kids to the museum - it was so cool spending time with them and seeing their eyes light up!",
+        "metadata": {
+          "img_url": [
+            "https://live.staticflickr.com/3201/2867258131_2d8bc22859_b.jpg"
+          ],
+          "blip_caption": "a photography of two children playing in a water play area",
+          "query": "kids laughing dinosaur exhibit museum",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D6:5",
+        "speaker": "Caroline",
+        "text": "Melanie, that's a great pic! That must have been awesome. What were they so stoked about?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D6:6",
+        "speaker": "Melanie",
+        "text": "They were stoked for the dinosaur exhibit! They love learning about animals and the bones were so cool. It reminds me why I love being a mom.",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_7::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_7",
+    "observed_at": "2023-07-12T16:33:00",
+    "source_timestamp": "4:33 pm on 12 July, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Discussion about Melanie's pets and new running shoes",
+    "turns": [
+      {
+        "turn_id": "D7:15",
+        "speaker": "Caroline",
+        "text": "That's so nice! What pet do you have?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:16",
+        "speaker": "Melanie",
+        "text": "We've got a pup and a kitty. That's the dog, and here's our cat! They brighten up our day and always make us smile.",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/u26t78f0idd91.jpg"
+          ],
+          "blip_caption": "a photo of a cat laying on the floor with its head on the floor",
+          "query": "dog cat kids playing joy"
+        }
+      },
+      {
+        "turn_id": "D7:17",
+        "speaker": "Caroline",
+        "text": "Ah, they're adorable! What are their names? Pets sure do bring so much joy to us!",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D7:18",
+        "speaker": "Melanie",
+        "text": "Luna and Oliver! They are so sweet and playful - they really liven up the house! Just got some new shoes, too!",
+        "metadata": {
+          "img_url": [
+            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwGRNI2jDkrALJHgL2LWfW2rUGhN-GA4OL_gXU2fHPyxtst2MPrv9hkyOMdpj5SppLNYiQrcXUUq90vv5es8ueswy2tuu0Lqa2lh2vKOfDZ5SXSdLVMVvBrfLbFJG19QiqDbv1xs38fv-atd4MYOesJ4c89sQTzv6k93PDQ5T0dwVJV9O2FF95woyP3Q/s4032/IMG_9747.jpg"
+          ],
+          "blip_caption": "a photo of a person wearing pink sneakers on a white rug",
+          "query": "purple running shoe"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_13::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_13",
+    "observed_at": "2023-08-23T15:31:00",
+    "source_timestamp": "3:31 pm on 23 August, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Caroline's adoption application and pet discussion",
+    "turns": [
+      {
+        "turn_id": "D13:1",
+        "speaker": "Caroline",
+        "text": "Hi Melanie! Hope you're doing good. Guess what I did this week? I took the first step towards becoming a mom - I applied to adoption agencies! It's a big decision, but I think I'm ready to give all my love to a child. I got lots of help from this adoption advice/assistance group I attended. It was great!",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/pyq31v7eh6ra1.jpg"
+          ],
+          "blip_caption": "a photo of a sign with a picture of a guinea pig",
+          "query": "adoption brochures application forms external adoption advice assistance group"
+        }
+      },
+      {
+        "turn_id": "D13:2",
+        "speaker": "Melanie",
+        "text": "Caroline, congrats! So proud of you for taking this step. How does it feel? Also, do you have any pets?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D13:3",
+        "speaker": "Caroline",
+        "text": "Thanks, Mel! Exciting but kinda nerve-wracking. Parenting's such a big responsibility. And yup, I do- Oscar, my guinea pig. He's been great. How are your pets?",
+        "metadata": {}
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_13::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_13",
+    "observed_at": "2023-08-23T15:31:00",
+    "source_timestamp": "3:31 pm on 23 August, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Melanie and Caroline share stories and pictures of their pets",
+    "turns": [
+      {
+        "turn_id": "D13:4",
+        "speaker": "Melanie",
+        "text": "Yeah, it's normal to be both excited and nervous with a big decision. And thanks for asking, they're good- we got another cat named Bailey too. Here's a pic of Oliver. Can you show me one of Oscar?",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/kgggim1gom951.jpg"
+          ],
+          "blip_caption": "a photo of a black dog laying in the grass with a frisbee",
+          "query": "pets Luna Oliver playing frisbee backyard"
+        }
+      },
+      {
+        "turn_id": "D13:5",
+        "speaker": "Caroline",
+        "text": "He's so cute! What’s the funniest thing Oliver's done? And sure, check out this pic of him eating parsley! Veggies are his fave!",
+        "metadata": {
+          "img_url": [
+            "https://cdn.i-scmp.com/sites/default/files/styles/landscape/public/d8/yp/images/shutterstock533807500.jpg"
+          ],
+          "blip_caption": "a photography of a guinea in a cage with hay and hay",
+          "query": "oscar munching parsley playpen",
+          "re-download": true
+        }
+      },
+      {
+        "turn_id": "D13:6",
+        "speaker": "Melanie",
+        "text": "Oliver's hilarious! He hid his bone in my slipper once! Cute, right? Almost as silly as when I got to feed a horse a carrot. ",
+        "metadata": {
+          "img_url": [
+            "https://i.redd.it/fgv0i3nzo7541.jpg"
+          ],
+          "blip_caption": "a photo of a person holding a carrot in front of a horse",
+          "query": "oscar carrot in mouth"
+        }
+      }
+    ]
+  },
+  {
+    "episode_id": "conv-26::session_18::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_18",
+    "observed_at": "2023-10-20T18:55:00",
+    "source_timestamp": "6:55 pm on 20 October, 2023",
+    "timezone_status": "unspecified",
+    "theme": "Reflection on family importance and children's resilience after the accident",
+    "turns": [
+      {
+        "turn_id": "D18:5",
+        "speaker": "Melanie",
+        "text": "Yeah, you're right, Caroline. Family's super important to me. Especially after the accident, I've thought a lot about how much I need them. They mean the world to me and I'm so thankful to have them. Thankfully, they enjoyed the Grand Canyon a lot!",
+        "metadata": {
+          "img_url": [
+            "https://familyadventuresva.files.wordpress.com/2022/03/img_5030.jpg"
+          ],
+          "blip_caption": "a photo of two children standing on a rocky cliff overlooking a canyon",
+          "query": "grand canyon family photo"
+        }
+      },
+      {
+        "turn_id": "D18:6",
+        "speaker": "Caroline",
+        "text": "The kids look so cute, Mel! I bet they bring lots of joy. How did they handle the accident?",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:7",
+        "speaker": "Melanie",
+        "text": "Thanks! They were scared but we reassured them and explained their brother would be OK. They're tough kids.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:8",
+        "speaker": "Caroline",
+        "text": "Kids are amazingly resilient in tough situations. They have an amazing ability to bounce back.",
+        "metadata": {}
+      },
+      {
+        "turn_id": "D18:9",
+        "speaker": "Melanie",
+        "text": "They're really amazing. Wish I was that resilient too. But they give me the strength to keep going.",
+        "metadata": {}
+      }
+    ]
+  }
+]

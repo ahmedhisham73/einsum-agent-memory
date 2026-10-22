@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0115",
+  "category": 4,
+  "question": "What do sunflowers represent according to Caroline?",
+  "gold_answer": "warmth and happiness",
+  "status": "scored",
+  "generated_answer": "Caroline says sunflowers represent warmth and happiness.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_8::chunk-0005",
+      "turn_id": "D8:11"
+    }
+  ],
+  "query_elapsed_seconds": 4.3544146249999995,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer directly states what sunflowers represent according to Caroline, matching the reference answer."
+}

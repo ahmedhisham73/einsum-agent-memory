@@ -1,0 +1,20 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Melanie",
+      "property": "name",
+      "search": "search for pets' names associated with Melanie"
+    },
+    {
+      "entity": "Melanie",
+      "property": "has_pets",
+      "search": "evidence indicating Melanie owns pets"
+    },
+    {
+      "entity": "pets of Melanie",
+      "property": "name",
+      "search": "names of pets owned by Melanie"
+    }
+  ]
+}

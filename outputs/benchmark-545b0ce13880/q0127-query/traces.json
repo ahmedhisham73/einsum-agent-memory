@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "add2f294-fc7d-45ae-b924-107be4b18420",
+    "response": {
+      "id": "chatcmpl-EZk3HvlwAPHZhtGh52YSVV4KUJ8Eb",
+      "object": "chat.completion",
+      "created": 1792187211,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Caroline\",\"property\":\"activity\",\"search\":\"evidence of activity Caroline used to do with her dad\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2682,
+        "completion_tokens": 32,
+        "total_tokens": 2714,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_5002831302"
+    },
+    "latency_seconds": 1.450831625
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "731fa3d2-157d-4fea-ad63-33c60e19ced8",
+    "response": {
+      "id": "chatcmpl-EZk3IbBESjdnQkE4pN0wYjMJ84b01",
+      "object": "chat.completion",
+      "created": 1792187212,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Caroline used to go horseback riding with her dad.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_13::episode-003\",\"turn_id\":\"D13:7\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3384,
+        "completion_tokens": 47,
+        "total_tokens": 3431,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_38f508f26a"
+    },
+    "latency_seconds": 1.2157804169999995
+  }
+]

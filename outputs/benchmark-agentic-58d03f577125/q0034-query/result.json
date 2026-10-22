@@ -1,0 +1,27 @@
+{
+  "status": "completed",
+  "experiment_id": "q0034-query",
+  "memory_build": "offline-memory-a5e48166f56e",
+  "baseline_build": "agentic-build-300877917378",
+  "question": "When did Caroline go to a pride parade during the summer?",
+  "answer": "Caroline went to a pride parade last Friday, which was during summer. This is mentioned in the conversation on 14 August 2023 (session 11).",
+  "sufficient": true,
+  "citations": [
+    {
+      "episode_id": "conv-26::session_11::chunk-0000",
+      "turn_id": "D11:4"
+    }
+  ],
+  "elapsed_seconds": 4.402031125,
+  "stop_reason": "agent_ready",
+  "search_count": 1,
+  "selected_chunks": 6,
+  "unique_source_turns": 36,
+  "implementation": {
+    "chunk_turns": 6,
+    "overlap_turns": 1,
+    "top_k_per_search": 6,
+    "max_searches": 4,
+    "max_agent_decisions": 5
+  }
+}

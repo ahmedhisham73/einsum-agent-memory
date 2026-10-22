@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "b4efa1fa-f1e1-48b8-8cc5-40b9fbce510f",
+    "response": {
+      "id": "chatcmpl-EZiyw3l6sXvrRMjQM518a2sXWeeA5",
+      "object": "chat.completion",
+      "created": 1792183098,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Caroline\",\"property\":\"emotion_about_adoption_process\",\"search\":\"standalone evidence search\"},{\"entity\":\"Caroline\",\"property\":\"anticipation\",\"search\":\"standalone evidence search\"},{\"entity\":\"Caroline\",\"property\":\"adoption_process_experience\",\"search\":\"standalone evidence search\"},{\"entity\":\"Caroline\",\"property\":\"adoption_motivation\",\"search\":\"standalone evidence search\"},{\"entity\":\"Caroline\",\"property\":\"emotion\",\"search\":\"evidence related to excitement in adoption\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2681,
+        "completion_tokens": 105,
+        "total_tokens": 2786,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_5002831302"
+    },
+    "latency_seconds": 1.950853416
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "5ee15a0c-600c-40a2-ae6e-a47e0a8f6c13",
+    "response": {
+      "id": "chatcmpl-EZiyyK0MroIxqVFf1S20kJJ6WaFOk",
+      "object": "chat.completion",
+      "created": 1792183100,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Caroline is excited about making a family for kids who need one, giving them a loving home, and turning her dream of having a family into reality. She feels hopeful and optimistic, motivated by inclusivity and support, especially for LGBTQ+ folks. Despite anticipating challenges as a single parent, she is thrilled and up for the challenge, deeply valuing the love and acceptance she can provide. She also expresses gratitude for the support from friends and mentors and takes pride and joy in starting this new chapter.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_2::episode-002\",\"turn_id\":\"D2:8\"},{\"episode_id\":\"conv-26::session_2::episode-002\",\"turn_id\":\"D2:10\"},{\"episode_id\":\"conv-26::session_2::episode-002\",\"turn_id\":\"D2:12\"},{\"episode_id\":\"conv-26::session_2::episode-002\",\"turn_id\":\"D2:14\"},{\"episode_id\":\"conv-26::session_13::episode-001\",\"turn_id\":\"D13:1\"},{\"episode_id\":\"conv-26::session_19::episode-001\",\"turn_id\":\"D19:1\"},{\"episode_id\":\"conv-26::session_19::episode-001\",\"turn_id\":\"D19:3\"},{\"episode_id\":\"conv-26::session_17::episode-001\",\"turn_id\":\"D17:3\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 4901,
+        "completion_tokens": 297,
+        "total_tokens": 5198,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_38f508f26a"
+    },
+    "latency_seconds": 3.0562886659999995
+  }
+]

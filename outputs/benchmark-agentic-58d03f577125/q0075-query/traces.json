@@ -1,0 +1,125 @@
+[
+  {
+    "stage": "agent_decision",
+    "call_id": "290672ba-5761-47cd-ae22-30909f25415e",
+    "response": {
+      "id": "chatcmpl-EZrFReudmYcvdFUBGCvXsQ3FxJ8d8",
+      "object": "chat.completion",
+      "created": 1792214873,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"search\",\"query\":\"Melanie's family roadtrip date\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 152,
+        "completion_tokens": 15,
+        "total_tokens": 167,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f810e81ea"
+    },
+    "latency_seconds": 1.3771444170000002
+  },
+  {
+    "stage": "agent_decision",
+    "call_id": "d8010a5a-2e3a-4f42-8211-c5faf20fa885",
+    "response": {
+      "id": "chatcmpl-EZrFTAu9h39YL4cIFZbEBuveGPGxj",
+      "object": "chat.completion",
+      "created": 1792214875,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"ready\",\"reason\":\"Melanie mentioned going on a camping trip last week in the mountains (by 27 June 2023), and a roadtrip that happened the past weekend before 20 October 2023. These are clear instances of family trips with approximate dates provided.\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2957,
+        "completion_tokens": 59,
+        "total_tokens": 3016,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f810e81ea"
+    },
+    "latency_seconds": 1.5542088330000001
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "4367f48e-ff5b-4a7e-8fba-1fb22372f54b",
+    "response": {
+      "id": "chatcmpl-EZrFVBenVPMiyyN1DtdF6bmySksk6",
+      "object": "chat.completion",
+      "created": 1792214877,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Melanie's family went on a roadtrip the weekend before October 20, 2023.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_18::chunk-0000\",\"turn_id\":\"D18:1\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2943,
+        "completion_tokens": 57,
+        "total_tokens": 3000,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_802f1283f8"
+    },
+    "latency_seconds": 1.5453226669999998
+  }
+]

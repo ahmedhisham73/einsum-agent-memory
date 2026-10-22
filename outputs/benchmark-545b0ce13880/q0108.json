@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-26::q0108",
+  "category": 4,
+  "question": "What is Melanie's reason for getting into running?",
+  "gold_answer": "To de-stress and clear her mind",
+  "status": "failed",
+  "error": "Query failed. See q0108.log"
+}

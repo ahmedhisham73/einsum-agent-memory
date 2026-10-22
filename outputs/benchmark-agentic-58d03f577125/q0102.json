@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0102",
+  "category": 4,
+  "question": "Did Melanie make the black and white bowl in the photo?",
+  "gold_answer": "Yes",
+  "status": "scored",
+  "generated_answer": "Yes, Melanie made the black and white bowl in the photo. She confirmed it was made in her class and expressed pride in her work.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_5::chunk-0005",
+      "turn_id": "D5:8"
+    }
+  ],
+  "query_elapsed_seconds": 4.435179167,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer confirms that Melanie made the bowl and provides additional context without contradicting the reference answer."
+}

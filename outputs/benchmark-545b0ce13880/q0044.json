@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-26::q0044",
+  "category": 1,
+  "question": "What kind of art does Caroline make?",
+  "gold_answer": "abstract art",
+  "status": "failed",
+  "error": "Query failed. See q0044.log"
+}

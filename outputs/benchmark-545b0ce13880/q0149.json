@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0149",
+  "category": 4,
+  "question": "What was Melanie's reaction to her children enjoying the Grand Canyon?",
+  "gold_answer": "She was happy and thankful",
+  "status": "scored",
+  "generated_answer": "Melanie was thankful and expressed that her children enjoyed the Grand Canyon a lot, indicating a positive and appreciative reaction to their enjoyment.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_18::episode-002",
+      "turn_id": "D18:5"
+    }
+  ],
+  "query_elapsed_seconds": 3.132487792,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer accurately reflects Melanie's positive emotions of happiness and thankfulness regarding her children's enjoyment of the Grand Canyon."
+}

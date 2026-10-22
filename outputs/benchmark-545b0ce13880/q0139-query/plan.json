@@ -1,0 +1,20 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Caroline",
+      "property": "painting_activity",
+      "search": "Caroline shared painting with Melanie on October 13, 2023"
+    },
+    {
+      "entity": "Caroline",
+      "property": "recent_artwork",
+      "search": "painting Caroline shared with Melanie on October 13, 2023"
+    },
+    {
+      "entity": "Caroline",
+      "property": "art_form",
+      "search": "type of painting Caroline shared with Melanie on October 13, 2023"
+    }
+  ]
+}

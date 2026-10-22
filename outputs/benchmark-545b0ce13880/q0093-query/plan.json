@@ -1,0 +1,10 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Caroline grandma",
+      "property": "residence_country",
+      "search": "search for country of origin of Caroline's grandma"
+    }
+  ]
+}

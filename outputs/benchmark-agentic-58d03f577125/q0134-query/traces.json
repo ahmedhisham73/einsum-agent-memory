@@ -1,0 +1,125 @@
+[
+  {
+    "stage": "agent_decision",
+    "call_id": "e3d6a398-8eea-4462-8b17-0b2a7ea7766b",
+    "response": {
+      "id": "chatcmpl-EZrHdwdf34YOxIhRyMVNFejOrULz5",
+      "object": "chat.completion",
+      "created": 1792215009,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"search\",\"query\":\"precautionary sign seen by Melanie at the café\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 152,
+        "completion_tokens": 18,
+        "total_tokens": 170,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f810e81ea"
+    },
+    "latency_seconds": 1.124681417
+  },
+  {
+    "stage": "agent_decision",
+    "call_id": "457fe4bd-87f7-43b0-b7ba-cf206214b4dc",
+    "response": {
+      "id": "chatcmpl-EZrHeOxUuxuKoQifBpHzsI0R3FmMn",
+      "object": "chat.completion",
+      "created": 1792215010,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"ready\",\"reason\":\"The sign Melanie saw at the café was described as a precautionary sign posted on a door stating that someone is not being able to leave, shown in the photo caption 'a photo of a sign posted on a door stating that someone is not being able to leave'. Melanie mentioned it was just a precaution and that she had a great time.\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3170,
+        "completion_tokens": 76,
+        "total_tokens": 3246,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f810e81ea"
+    },
+    "latency_seconds": 1.3925244159999997
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "ef5eb495-6a65-4421-ac9b-9b0cc75057a9",
+    "response": {
+      "id": "chatcmpl-EZrHghMVH2VzrRgekEbiR3HG8PdNf",
+      "object": "chat.completion",
+      "created": 1792215012,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Melanie saw a precautionary sign at the café stating that someone is not being able to leave.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_16::chunk-0010\",\"turn_id\":\"D16:16\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3020,
+        "completion_tokens": 57,
+        "total_tokens": 3077,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_802f1283f8"
+    },
+    "latency_seconds": 1.660058667
+  }
+]

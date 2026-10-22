@@ -1,0 +1,125 @@
+[
+  {
+    "stage": "agent_decision",
+    "call_id": "53829fcc-a380-4c3c-b2b7-2d7897659d81",
+    "response": {
+      "id": "chatcmpl-EZofcXU8nz6FXjEaD4YPNuVXyEqBm",
+      "object": "chat.completion",
+      "created": 1792204964,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"search\",\"query\":\"When did Caroline meet up with her friends, family, and mentors?\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 155,
+        "completion_tokens": 22,
+        "total_tokens": 177,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f810e81ea"
+    },
+    "latency_seconds": 1.7776409589999997
+  },
+  {
+    "stage": "agent_decision",
+    "call_id": "ac85f543-4b94-4053-8c87-07bc1a21dfc7",
+    "response": {
+      "id": "chatcmpl-EZofe9EHDMTV0Ed98DST6hUhmNLvQ",
+      "object": "chat.completion",
+      "created": 1792204966,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"ready\",\"reason\":\"The evidence from the conversation shows specific instances when Caroline met up with her friends, family, and mentors: she met her friends, family, and mentors last week before 9 June 2023 (conversation chunk observed 2023-06-09), had a picnic with friends last week before 6 July 2023 (conversation chunk observed 2023-07-06), and attended an LGBT pride event with her mentee last month before 17 July 2023 (conversation chunk observed 2023-07-17). These instances provide clear dates for when Caroline met her friends, family, and mentors.\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2960,
+        "completion_tokens": 133,
+        "total_tokens": 3093,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f810e81ea"
+    },
+    "latency_seconds": 1.9708617080000002
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "0dde12bf-a808-4563-bd2c-db025f849f3d",
+    "response": {
+      "id": "chatcmpl-EZofgvnD2PAN0OhfGEXLonsNpR0tK",
+      "object": "chat.completion",
+      "created": 1792204968,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Caroline met up with her friends, family, and mentors last week (relative to 9 June 2023) and also had a picnic with them last week (relative to 6 July 2023).\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_3::chunk-0005\",\"turn_id\":\"D3:11\"},{\"episode_id\":\"conv-26::session_6::chunk-0010\",\"turn_id\":\"D6:11\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2875,
+        "completion_tokens": 105,
+        "total_tokens": 2980,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_802f1283f8"
+    },
+    "latency_seconds": 2.0737126249999998
+  }
+]

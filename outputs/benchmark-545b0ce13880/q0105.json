@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0105",
+  "category": 4,
+  "question": "What book did Caroline recommend to Melanie?",
+  "gold_answer": "\"Becoming Nicole\"",
+  "status": "scored",
+  "generated_answer": "Caroline recommended the book \"Becoming Nicole\" by Amy Ellis Nutt to Melanie.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_7::episode-002",
+      "turn_id": "D7:11"
+    }
+  ],
+  "query_elapsed_seconds": 5.438557167,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer matches the reference answer by correctly identifying the book recommended by Caroline to Melanie."
+}

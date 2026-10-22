@@ -1,0 +1,10 @@
+{
+  "scope": "all_matching",
+  "requirements": [
+    {
+      "entity": "Melanie and her kids",
+      "property": "pottery_created",
+      "search": "search for types of pottery made by Melanie and her kids"
+    }
+  ]
+}

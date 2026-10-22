@@ -1,0 +1,274 @@
+=== BUILD FAILURES ===
+
+conv-26
+  Memory: offline-memory-a5e48166f56e
+  Status: completed | Stage: finished
+  Last call: entity_property_extraction | conv-26::session_19::episode-004
+  Finish reason: stop
+
+conv-30
+  json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  Memory: offline-memory-48c46fbef6ca
+  Status: incomplete | Stage: partitioning
+  Last call: episode_partitioning | session_10
+  Finish reason: stop
+  Response parsing: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  Response excerpt: ```json
+{
+  "segments": [
+    {
+      "start_turn_id": "D10:1",
+      "end_turn_id": "D10:4",
+      "theme": "Sharing updates on new business ventures and personal challenges"
+    },
+    {
+      "start_turn_id": "D10:5",
+      "end_turn_id": "D10:6",
+      "theme": "Seeking and giving advice on motivation and overcoming challenges"
+    },
+    {
+      "start_turn_id": "D10:7",
+      "end_turn_id": 
+
+conv-41
+  json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  Memory: offline-memory-622a0d5cec62
+  Status: incomplete | Stage: partitioning
+  Last call: episode_partitioning | session_16
+  Finish reason: stop
+  Response parsing: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  Response excerpt: ```json
+{
+  "segments": [
+    {
+      "start_turn_id": "D16:1",
+      "end_turn_id": "D16:2",
+      "theme": "Updates on personal and charity activities"
+    },
+    {
+      "start_turn_id": "D16:3",
+      "end_turn_id": "D16:4",
+      "theme": "John offers help and Maria shares fundraiser details"
+    },
+    {
+      "start_turn_id": "D16:5",
+      "end_turn_id": "D16:10",
+      "theme": "Collabora
+
+conv-42
+  RuntimeError: LLM request failed; call_id=e9a51c47-d5b2-403d-bd99-1a85e8fafe29. Usage is unknown.
+  Memory: offline-memory-56eff758b0c3
+  Status: incomplete | Stage: partitioning
+  Last call: episode_partitioning | session_28
+  Finish reason: stop
+
+conv-43
+  RuntimeError: LLM request failed; call_id=683530dd-109a-469d-8ab6-53f474f137e6. Usage is unknown.
+  RuntimeError: LLM request failed; call_id=ce0014bf-b1ad-47d8-8dbd-d40d2dd8aa15. Usage is unknown.
+  Memory: offline-memory-4950e293ffa6
+  Status: incomplete | Stage: extraction
+  Last call: entity_property_extraction | conv-43::session_2::episode-003
+  Finish reason: stop
+
+conv-44
+  RuntimeError: LLM request failed; call_id=d843a1fc-a568-45da-b81c-96b579f8ea79. Usage is unknown.
+  ValueError: Unsupported entity_type
+  Memory: offline-memory-9ab549c0bde9
+  Status: incomplete | Stage: extraction
+  Last call: entity_property_extraction | conv-44::session_8::episode-003
+  Finish reason: stop
+  Rejected record: {"entity": "Audrey's dogs", "entity_type": "animal", "property": "activity_location", "value": "park", "modality": "observed", "valid_time": "during a recent walk", "evidence_turn_ids": ["D8:12"]}
+  Rejected record: {"entity": "Audrey's dogs", "entity_type": "animal", "property": "activity_emotion", "value": "happy", "modality": "observed", "valid_time": "during the walk in the park", "evidence_turn_ids": ["D8:12"]}
+  Rejected record: {"entity": "Audrey's dogs", "entity_type": "animal", "property": "walk_exploration_style", "value": "explore at their own pace", "modality": "observed", "valid_time": "typical daily routine", "evidence_turn_ids": ["D8:14"]}
+  Rejected record: {"entity": "Audrey's dogs", "entity_type": "animal", "property": "behavior_after_walk", "value": "go home smiling and tired", "modality": "observed", "valid_time": "typical after walk", "evidence_turn_ids": ["D8:16"]}
+
+conv-47
+  json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  Memory: offline-memory-a5b1a2193782
+  Status: incomplete | Stage: partitioning
+  Last call: episode_partitioning | session_2
+  Finish reason: stop
+  Response parsing: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  Response excerpt: ```json
+{
+  "segments": [
+    {
+      "start_turn_id": "D2:1",
+      "end_turn_id": "D2:7",
+      "theme": "James and John discuss the social and emotional benefits of gaming"
+    },
+    {
+      "start_turn_id": "D2:8",
+      "end_turn_id": "D2:12",
+      "theme": "James and John talk about new hobbies and interests"
+    },
+    {
+      "start_turn_id": "D2:13",
+      "end_turn_id": "D2:21",
+      
+
+conv-48
+  RuntimeError: LLM request failed; call_id=2631f2e9-ce2b-4a9f-bfee-479be1b36f6a. Usage is unknown.
+  json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  Memory: offline-memory-9ba7db9d4271
+  Status: incomplete | Stage: extraction
+  Last call: entity_property_extraction | conv-48::session_8::episode-004
+  Finish reason: stop
+  Response parsing: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  Response excerpt: ```json
+{
+  "records": [
+    {
+      "entity": "Jolene",
+      "entity_type": "person",
+      "property": "mindfulness_focus",
+      "value": "stress levels and mental health care",
+      "modality": "observed",
+      "valid_time": "current",
+      "evidence_turn_ids": ["D8:14"]
+    },
+    {
+      "entity": "Jolene",
+      "entity_type": "person",
+      "property": "challenge",
+      "value": "get
+
+conv-49
+  json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  Memory: offline-memory-a79f02b72066
+  Status: incomplete | Stage: partitioning
+  Last call: episode_partitioning | session_25
+  Finish reason: stop
+  Response parsing: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+  Response excerpt: ```json
+{
+  "segments": [
+    {
+      "start_turn_id": "D25:1",
+      "end_turn_id": "D25:4",
+      "theme": "Health challenges and personal apologies"
+    },
+    {
+      "start_turn_id": "D25:5",
+      "end_turn_id": "D25:7",
+      "theme": "Relaxation through nature and countryside drives"
+    },
+    {
+      "start_turn_id": "D25:8",
+      "end_turn_id": "D25:13",
+      "theme": "Sharing nature 
+
+conv-50
+  ValueError: Unsupported modality
+  Memory: offline-memory-e8a61e4468c9
+  Status: incomplete | Stage: extraction
+  Last call: entity_property_extraction | conv-50::session_8::episode-003
+  Finish reason: stop
+  Rejected record: {"entity": "mountains", "entity_type": "place", "property": "description", "value": "super chill", "modality": "reported", "valid_time": "at conversation time", "evidence_turn_ids": ["D8:8"]}
+
+=== QUERY / EVALUATION FAILURES ===
+
+conv-26 / ensimem: 42 failures
+  1 x Query failed. See q0079.log
+  1 x Query failed. See q0080.log
+  1 x Query failed. See q0110.log
+  1 x Query failed. See q0055.log
+  1 x Query failed. See q0063.log
+  1 x Query failed. See q0059.log
+  1 x Query failed. See q0058.log
+  1 x Query failed. See q0019.log
+  1 x Query failed. See q0035.log
+  1 x Query failed. See q0062.log
+  1 x Query failed. See q0111.log
+  1 x Query failed. See q0054.log
+  1 x Query failed. See q0107.log
+  1 x Query failed. See q0039.log
+  1 x Query failed. See q0073.log
+  1 x Query failed. See q0049.log
+  1 x Query failed. See q0069.log
+  1 x Query failed. See q0052.log
+  1 x Query failed. See q0101.log
+  1 x Query failed. See q0044.log
+  1 x Query failed. See q0068.log
+  1 x Query failed. See q0033.log
+  1 x Query failed. See q0064.log
+  1 x Query failed. See q0072.log
+  1 x Query failed. See q0067.log
+  1 x Query failed. See q0071.log
+  1 x Query failed. See q0114.log
+  1 x Query failed. See q0143.log
+  1 x Query failed. See q0139.log
+  1 x Query failed. See q0142.log
+  1 x Query failed. See q0115.log
+  1 x Query failed. See q0066.log
+  1 x Query failed. See q0031.log
+  1 x Query failed. See q0057.log
+  1 x Query failed. See q0112.log
+  1 x Query failed. See q0108.log
+  1 x Query failed. See q0077.log
+  1 x Query failed. See q0076.log
+  1 x Query failed. See q0109.log
+  1 x Query failed. See q0129.log
+  1 x Query failed. See q0056.log
+  1 x Query failed. See q0113.log
+  Question: What items has Melanie bought?
+  Log tail:
+    Traceback (most recent call last):
+      File "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/scripts/run_memory_experiment.py", line 518, in <module>
+        main()
+      File "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/scripts/run_memory_experiment.py", line 320, in main
+        plan = chat(
+      File "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/scripts/run_memory_experiment.py", line 284, in chat
+        result = complete_chat(
+      File "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/services/llm-gateway/app/providers/openai_compatible.py", line 166, in complete_chat
+        raise RuntimeError(
+    RuntimeError: LLM request failed; call_id=36cd95cd-649a-4d51-8013-41f1fb7c9c97. Usage is unknown.
+  Question: When did Caroline pass the adoption interview?
+  Log tail:
+    Traceback (most recent call last):
+      File "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/scripts/run_memory_experiment.py", line 518, in <module>
+        main()
+      File "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/scripts/run_memory_experiment.py", line 320, in main
+        plan = chat(
+      File "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/scripts/run_memory_experiment.py", line 284, in chat
+        result = complete_chat(
+      File "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/services/llm-gateway/app/providers/openai_compatible.py", line 166, in complete_chat
+        raise RuntimeError(
+    RuntimeError: LLM request failed; call_id=c699d46d-b39b-4e47-9240-9a7e1da026c6. Usage is unknown.
+
+conv-26 / agentic_rag: 12 failures
+  1 x Query failed. See q0130.log
+  1 x Query failed. See q0019.log
+  1 x Query failed. See q0136.log
+  1 x Query failed. See q0028.log
+  1 x Query failed. See q0045.log
+  1 x Query failed. See q0141.log
+  1 x Query failed. See q0052.log
+  1 x Query failed. See q0087.log
+  1 x Query failed. See q0114.log
+  1 x Query failed. See q0046.log
+  1 x Query failed. See q0027.log
+  1 x Query failed. See q0061.log
+  Question: Which song motivates Caroline to be courageous?
+  Log tail:
+    
+    /Users/ahmedhisham/Documents/einsum/agent-memory-comparison/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+      warnings.warn(
+    Traceback (most recent call last):
+      File "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/scripts/run_agentic_rag.py", line 463, in <module>
+        main()
+      File "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/scripts/run_agentic_rag.py", line 422, in main
+        raise ValueError("Citation outside supplied source evidence")
+    ValueError: Citation outside supplied source evidence
+  Question: Where has Melanie camped?
+  Log tail:
+    Traceback (most recent call last):
+      File "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/scripts/run_agentic_rag.py", line 463, in <module>
+        main()
+      File "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/scripts/run_agentic_rag.py", line 395, in main
+        answer = chat([
+      File "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/scripts/run_agentic_rag.py", line 282, in chat
+        result = complete_chat(
+      File "/Users/ahmedhisham/Documents/einsum/agent-memory-comparison/services/llm-gateway/app/providers/openai_compatible.py", line 166, in complete_chat
+        raise RuntimeError(
+    RuntimeError: LLM request failed; call_id=daa8f714-e223-4b69-8820-a7565b353b40. Usage is unknown.

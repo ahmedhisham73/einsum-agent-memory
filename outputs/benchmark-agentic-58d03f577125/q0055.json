@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0055",
+  "category": 2,
+  "question": "When did Caroline draw a self-portrait?",
+  "gold_answer": "The week before 23 August 2023",
+  "status": "scored",
+  "generated_answer": "Caroline drew a recent self-portrait last week from 23 August, 2023.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_13::chunk-0005",
+      "turn_id": "D13:11"
+    }
+  ],
+  "query_elapsed_seconds": 4.3351525,
+  "label": "CORRECT",
+  "judge_reason": "Both answers indicate that the self-portrait was drawn in the week prior to 23 August 2023, confirming the same timeframe."
+}

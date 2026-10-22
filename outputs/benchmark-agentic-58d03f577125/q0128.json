@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0128",
+  "category": 4,
+  "question": "What did Caroline make for a local church?",
+  "gold_answer": "a stained glass window",
+  "status": "scored",
+  "generated_answer": "Caroline made a stained glass window for a local church that shows time changing lives and symbolizes togetherness, celebrating differences and acceptance of growth and change.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_14::chunk-0015",
+      "turn_id": "D14:19"
+    }
+  ],
+  "query_elapsed_seconds": 4.376099291,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer includes the specific fact that Caroline made a stained glass window for a local church, matching the reference answer."
+}

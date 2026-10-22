@@ -1,0 +1,125 @@
+[
+  {
+    "stage": "agent_decision",
+    "call_id": "0c269462-971d-4a9a-8c52-66d95651f1f3",
+    "response": {
+      "id": "chatcmpl-EZrJKi1Ker6EJEbfcEQwa0I4wwtyQ",
+      "object": "chat.completion",
+      "created": 1792215114,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"search\",\"query\":\"Melanie's reaction to her children enjoying the Grand Canyon\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 154,
+        "completion_tokens": 19,
+        "total_tokens": 173,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f810e81ea"
+    },
+    "latency_seconds": 1.077939834
+  },
+  {
+    "stage": "agent_decision",
+    "call_id": "3590a3ee-004a-4ec4-87ad-8e24782b31a4",
+    "response": {
+      "id": "chatcmpl-EZrJMrbQdO4uw4cIf8D8qY2yK3h1g",
+      "object": "chat.completion",
+      "created": 1792215116,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"ready\",\"reason\":\"Melanie mentioned that her children enjoyed the Grand Canyon a lot and posted a family photo there. Melanie expressed that, despite a scary accident, her family is very important to her, providing motivation and support, showing her positive and grateful reaction to their experience and family moments.\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2848,
+        "completion_tokens": 62,
+        "total_tokens": 2910,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f810e81ea"
+    },
+    "latency_seconds": 1.6306994169999998
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "5aa85d5a-8c60-477a-a3e6-3a5147b5b81d",
+    "response": {
+      "id": "chatcmpl-EZrJN79uK5i2viDY4dPy4pJeXzWIj",
+      "object": "chat.completion",
+      "created": 1792215117,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Melanie expressed gratitude and happiness that her children enjoyed the Grand Canyon a lot, indicating her positive reaction to their experience.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_18::chunk-0000\",\"turn_id\":\"D18:5\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2743,
+        "completion_tokens": 61,
+        "total_tokens": 2804,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_802f1283f8"
+    },
+    "latency_seconds": 1.7568168339999999
+  }
+]

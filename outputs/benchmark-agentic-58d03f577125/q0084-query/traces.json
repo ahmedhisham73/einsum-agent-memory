@@ -1,0 +1,125 @@
+[
+  {
+    "stage": "agent_decision",
+    "call_id": "31337fb5-cf11-43d9-bac5-d75b4324e962",
+    "response": {
+      "id": "chatcmpl-EZiUu95Ktyvnib9NXw1aeSTizFqSc",
+      "object": "chat.completion",
+      "created": 1792181236,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"search\",\"query\":\"Melanie realization after the charity race\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 150,
+        "completion_tokens": 15,
+        "total_tokens": 165,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_d81cb94320"
+    },
+    "latency_seconds": 1.096826667
+  },
+  {
+    "stage": "agent_decision",
+    "call_id": "a40c8479-60ac-4bbb-a5e1-7a7e7dd01b8b",
+    "response": {
+      "id": "chatcmpl-EZiUwKzTkTIOQnvBb9HzPez0yGgCY",
+      "object": "chat.completion",
+      "created": 1792181238,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"ready\",\"reason\":\"Melanie realized after the charity race that self-care is really important. She acknowledged that taking care of herself helps her better look after her family, and she started carving out some 'me-time' activities like running, reading, or playing the violin to refresh herself and stay present for her family.\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3183,
+        "completion_tokens": 67,
+        "total_tokens": 3250,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_d81cb94320"
+    },
+    "latency_seconds": 2.160572833
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "3e9e37b9-d9c2-4b24-a18c-9b6f17d2dcd3",
+    "response": {
+      "id": "chatcmpl-EZiUyiJuCYqnEXgQthxHV14huned4",
+      "object": "chat.completion",
+      "created": 1792181240,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Melanie realized after the charity race that self-care is really important. She recognized that by looking after herself, she is better able to look after her family. She started carving out some 'me-time' each day through activities like running, reading, or playing her violin, which refreshes her and helps her stay present for her family.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_2::chunk-0000\",\"turn_id\":\"D2:3\"},{\"episode_id\":\"conv-26::session_2::chunk-0000\",\"turn_id\":\"D2:5\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3118,
+        "completion_tokens": 129,
+        "total_tokens": 3247,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_38f508f26a"
+    },
+    "latency_seconds": 2.2392399160000007
+  }
+]

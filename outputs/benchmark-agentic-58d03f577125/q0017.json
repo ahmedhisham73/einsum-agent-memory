@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0017",
+  "category": 2,
+  "question": "When did Melanie sign up for a pottery class?",
+  "gold_answer": "2 July 2023",
+  "status": "scored",
+  "generated_answer": "Melanie signed up for a pottery class yesterday before the conversation in episode conv-26::session_5::chunk-0000, specifically mentioned in turn D5:4.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_5::chunk-0000",
+      "turn_id": "D5:4"
+    }
+  ],
+  "query_elapsed_seconds": 5.9898792080000005,
+  "label": "WRONG",
+  "judge_reason": "The generated answer does not provide a specific date and instead refers to a relative time ('yesterday'), which does not equate to the reference answer of '2 July 2023'."
+}

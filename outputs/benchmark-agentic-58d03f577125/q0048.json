@@ -1,0 +1,25 @@
+{
+  "question_id": "conv-26::q0048",
+  "category": 1,
+  "question": "Who supports Caroline when she has a negative experience?",
+  "gold_answer": "Her mentors, family, and friends",
+  "status": "scored",
+  "generated_answer": "Caroline is supported by her friends, family, mentors, and Melanie when she has a negative experience. They provide love, guidance, encouragement, and acceptance that help her through tough times.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_3::chunk-0005",
+      "turn_id": "D3:11"
+    },
+    {
+      "episode_id": "conv-26::session_6::chunk-0010",
+      "turn_id": "D6:13"
+    },
+    {
+      "episode_id": "conv-26::session_19::chunk-0005",
+      "turn_id": "D19:9"
+    }
+  ],
+  "query_elapsed_seconds": 4.6022237079999995,
+  "label": "WRONG",
+  "judge_reason": "The generated answer includes 'Melanie' as additional support, which is not mentioned in the reference answer."
+}

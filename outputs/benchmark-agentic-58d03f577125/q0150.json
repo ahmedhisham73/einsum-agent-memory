@@ -1,0 +1,21 @@
+{
+  "question_id": "conv-26::q0150",
+  "category": 4,
+  "question": "What do Melanie's family give her?",
+  "gold_answer": "Strength and motivation",
+  "status": "scored",
+  "generated_answer": "Melanie's family give her love, support, and motivation. This emotional support helps her get through tough times and brings her joy and happiness. There is no mention of specific physical gifts given by her family in the provided source turns.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_8::chunk-0030",
+      "turn_id": "D8:32"
+    },
+    {
+      "episode_id": "conv-26::session_18::chunk-0010",
+      "turn_id": "D18:11"
+    }
+  ],
+  "query_elapsed_seconds": 5.320393417,
+  "label": "WRONG",
+  "judge_reason": "The generated answer includes 'love' and 'support' which are not specified in the reference answer; it also adds unsupported information about emotional support."
+}

@@ -1,0 +1,4770 @@
+[
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "attended",
+    "value": "LGBTQ support group",
+    "modality": "observed",
+    "valid_time": "yesterday",
+    "evidence_turn_ids": [
+      "D1:3"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000001",
+    "episode_id": "conv-26::session_1::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_1",
+    "observed_at": "2023-05-08T13:56:00",
+    "source_timestamp": "1:56 pm on 8 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "perceived_experience",
+    "value": "powerful",
+    "modality": "observed",
+    "valid_time": "yesterday",
+    "evidence_turn_ids": [
+      "D1:3"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000002",
+    "episode_id": "conv-26::session_1::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_1",
+    "observed_at": "2023-05-08T13:56:00",
+    "source_timestamp": "1:56 pm on 8 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "status",
+    "value": "swamped with the kids & work",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D1:2"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000003",
+    "episode_id": "conv-26::session_1::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_1",
+    "observed_at": "2023-05-08T13:56:00",
+    "source_timestamp": "1:56 pm on 8 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "felt_emotion_about_stories",
+    "value": "inspired, happy, thankful",
+    "modality": "observed",
+    "valid_time": "around 8 May 2023",
+    "evidence_turn_ids": [
+      "D1:5"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000004",
+    "episode_id": "conv-26::session_1::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_1",
+    "observed_at": "2023-05-08T13:56:00",
+    "source_timestamp": "1:56 pm on 8 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "experienced_support_from",
+    "value": "transgender support group",
+    "modality": "observed",
+    "valid_time": "around 8 May 2023",
+    "evidence_turn_ids": [
+      "D1:5",
+      "D1:7"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000005",
+    "episode_id": "conv-26::session_1::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_1",
+    "observed_at": "2023-05-08T13:56:00",
+    "source_timestamp": "1:56 pm on 8 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "effect_of_support_group",
+    "value": "feeling accepted and gaining courage to embrace herself",
+    "modality": "observed",
+    "valid_time": "around 8 May 2023",
+    "evidence_turn_ids": [
+      "D1:7"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000006",
+    "episode_id": "conv-26::session_1::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_1",
+    "observed_at": "2023-05-08T13:56:00",
+    "source_timestamp": "1:56 pm on 8 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "support group",
+    "entity_type": "other",
+    "property": "nature",
+    "value": "support group for transgender people",
+    "modality": "observed",
+    "valid_time": "around 8 May 2023",
+    "evidence_turn_ids": [
+      "D1:5",
+      "D1:7"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000007",
+    "episode_id": "conv-26::session_1::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_1",
+    "observed_at": "2023-05-08T13:56:00",
+    "source_timestamp": "1:56 pm on 8 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "painting",
+    "entity_type": "object",
+    "property": "depiction",
+    "value": "woman",
+    "modality": "observed",
+    "valid_time": "around 8 May 2023",
+    "evidence_turn_ids": [
+      "D1:5"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000008",
+    "episode_id": "conv-26::session_1::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_1",
+    "observed_at": "2023-05-08T13:56:00",
+    "source_timestamp": "1:56 pm on 8 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "future plans",
+    "value": "continue education and check out career options",
+    "modality": "planned",
+    "valid_time": "after current conversation",
+    "evidence_turn_ids": [
+      "D1:9"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000009",
+    "episode_id": "conv-26::session_1::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_1",
+    "observed_at": "2023-05-08T13:56:00",
+    "source_timestamp": "1:56 pm on 8 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "career interest",
+    "value": "counseling or working in mental health",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D1:11"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000010",
+    "episode_id": "conv-26::session_1::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_1",
+    "observed_at": "2023-05-08T13:56:00",
+    "source_timestamp": "1:56 pm on 8 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "career motivation",
+    "value": "support those with similar issues",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D1:11"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000011",
+    "episode_id": "conv-26::session_1::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_1",
+    "observed_at": "2023-05-08T13:56:00",
+    "source_timestamp": "1:56 pm on 8 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "counselor_skill",
+    "value": "empathy and understanding",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D1:12"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000012",
+    "episode_id": "conv-26::session_1::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_1",
+    "observed_at": "2023-05-08T13:56:00",
+    "source_timestamp": "1:56 pm on 8 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "painting_created",
+    "value": "lake sunrise",
+    "modality": "observed",
+    "valid_time": "last year",
+    "evidence_turn_ids": [
+      "D1:14"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000013",
+    "episode_id": "conv-26::session_1::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_1",
+    "observed_at": "2023-05-08T13:56:00",
+    "source_timestamp": "1:56 pm on 8 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "painting_value",
+    "value": "special to me",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D1:14"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000014",
+    "episode_id": "conv-26::session_1::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_1",
+    "observed_at": "2023-05-08T13:56:00",
+    "source_timestamp": "1:56 pm on 8 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "painting_purpose",
+    "value": "express my feelings and get creative",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D1:16"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000015",
+    "episode_id": "conv-26::session_1::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_1",
+    "observed_at": "2023-05-08T13:56:00",
+    "source_timestamp": "1:56 pm on 8 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "painting_benefit",
+    "value": "relax after a long day",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D1:16"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000016",
+    "episode_id": "conv-26::session_1::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_1",
+    "observed_at": "2023-05-08T13:56:00",
+    "source_timestamp": "1:56 pm on 8 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "intention",
+    "value": "go do some research",
+    "modality": "planned",
+    "valid_time": "after 1:56 pm on 8 May, 2023",
+    "evidence_turn_ids": [
+      "D1:17"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000017",
+    "episode_id": "conv-26::session_1::episode-005",
+    "conversation_id": "conv-26",
+    "session_id": "session_1",
+    "observed_at": "2023-05-08T13:56:00",
+    "source_timestamp": "1:56 pm on 8 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "intention",
+    "value": "go swimming with the kids",
+    "modality": "planned",
+    "valid_time": "after 1:56 pm on 8 May, 2023",
+    "evidence_turn_ids": [
+      "D1:18"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000018",
+    "episode_id": "conv-26::session_1::episode-005",
+    "conversation_id": "conv-26",
+    "session_id": "session_1",
+    "observed_at": "2023-05-08T13:56:00",
+    "source_timestamp": "1:56 pm on 8 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "participated_in",
+    "value": "charity race for mental health",
+    "modality": "observed",
+    "valid_time": "last Saturday before 2023-05-25",
+    "evidence_turn_ids": [
+      "D2:1"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000019",
+    "episode_id": "conv-26::session_2::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_2",
+    "observed_at": "2023-05-25T13:14:00",
+    "source_timestamp": "1:14 pm on 25 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "attitude_toward_self_care",
+    "value": "starting to realize self-care is important; it's a journey",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D2:3"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000020",
+    "episode_id": "conv-26::session_2::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_2",
+    "observed_at": "2023-05-25T13:14:00",
+    "source_timestamp": "1:14 pm on 25 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "effect_of_self_care",
+    "value": "looking after herself helps better look after family",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D2:3"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000021",
+    "episode_id": "conv-26::session_2::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_2",
+    "observed_at": "2023-05-25T13:14:00",
+    "source_timestamp": "1:14 pm on 25 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "daily_me_time_activities",
+    "value": "running, reading, playing violin",
+    "modality": "observed",
+    "valid_time": "current habit at conversation time",
+    "evidence_turn_ids": [
+      "D2:5"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000022",
+    "episode_id": "conv-26::session_2::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_2",
+    "observed_at": "2023-05-25T13:14:00",
+    "source_timestamp": "1:14 pm on 25 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "family_status",
+    "value": "has kids excited about summer break",
+    "modality": "observed",
+    "valid_time": "around 2023-05-25",
+    "evidence_turn_ids": [
+      "D2:7"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000023",
+    "episode_id": "conv-26::session_2::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_2",
+    "observed_at": "2023-05-25T13:14:00",
+    "source_timestamp": "1:14 pm on 25 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "future_plans_summer",
+    "value": "thinking about going camping next month",
+    "modality": "planned",
+    "valid_time": "summer 2023 (around June 2023)",
+    "evidence_turn_ids": [
+      "D2:7"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000024",
+    "episode_id": "conv-26::session_2::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_2",
+    "observed_at": "2023-05-25T13:14:00",
+    "source_timestamp": "1:14 pm on 25 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "dream",
+    "value": "to have a family and give a loving home to kids who need it",
+    "modality": "observed",
+    "valid_time": "at 1:14 pm on 25 May, 2023",
+    "evidence_turn_ids": [
+      "D2:8"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000025",
+    "episode_id": "conv-26::session_2::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_2",
+    "observed_at": "2023-05-25T13:14:00",
+    "source_timestamp": "1:14 pm on 25 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "goal",
+    "value": "to give kids a loving home",
+    "modality": "observed",
+    "valid_time": "at 1:14 pm on 25 May, 2023",
+    "evidence_turn_ids": [
+      "D2:10"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000026",
+    "episode_id": "conv-26::session_2::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_2",
+    "observed_at": "2023-05-25T13:14:00",
+    "source_timestamp": "1:14 pm on 25 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "support_received",
+    "value": "support from friends and mentors",
+    "modality": "observed",
+    "valid_time": "at 1:14 pm on 25 May, 2023",
+    "evidence_turn_ids": [
+      "D2:10"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000027",
+    "episode_id": "conv-26::session_2::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_2",
+    "observed_at": "2023-05-25T13:14:00",
+    "source_timestamp": "1:14 pm on 25 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "action",
+    "value": "researching adoption agencies",
+    "modality": "observed",
+    "valid_time": "recently before 1:14 pm on 25 May, 2023",
+    "evidence_turn_ids": [
+      "D2:8",
+      "D2:10"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000028",
+    "episode_id": "conv-26::session_2::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_2",
+    "observed_at": "2023-05-25T13:14:00",
+    "source_timestamp": "1:14 pm on 25 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Adoption agency",
+    "entity_type": "other",
+    "property": "focus",
+    "value": "help LGBTQ+ folks with adoption",
+    "modality": "observed",
+    "valid_time": "at 1:14 pm on 25 May, 2023",
+    "evidence_turn_ids": [
+      "D2:12"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000029",
+    "episode_id": "conv-26::session_2::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_2",
+    "observed_at": "2023-05-25T13:14:00",
+    "source_timestamp": "1:14 pm on 25 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "reason_for_pick",
+    "value": "agency's inclusivity and support for LGBTQ+ folks",
+    "modality": "observed",
+    "valid_time": "at 1:14 pm on 25 May, 2023",
+    "evidence_turn_ids": [
+      "D2:12"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000030",
+    "episode_id": "conv-26::session_2::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_2",
+    "observed_at": "2023-05-25T13:14:00",
+    "source_timestamp": "1:14 pm on 25 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "emotional_state",
+    "value": "hopeful and optimistic",
+    "modality": "observed",
+    "valid_time": "at 1:14 pm on 25 May, 2023",
+    "evidence_turn_ids": [
+      "D2:10"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000031",
+    "episode_id": "conv-26::session_2::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_2",
+    "observed_at": "2023-05-25T13:14:00",
+    "source_timestamp": "1:14 pm on 25 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "anticipation",
+    "value": "making a family for kids who need one",
+    "modality": "observed",
+    "valid_time": "at 1:14 pm on 25 May, 2023",
+    "evidence_turn_ids": [
+      "D2:14"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000032",
+    "episode_id": "conv-26::session_2::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_2",
+    "observed_at": "2023-05-25T13:14:00",
+    "source_timestamp": "1:14 pm on 25 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "challenge",
+    "value": "tough as a single parent",
+    "modality": "observed",
+    "valid_time": "at 1:14 pm on 25 May, 2023",
+    "evidence_turn_ids": [
+      "D2:14"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000033",
+    "episode_id": "conv-26::session_2::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_2",
+    "observed_at": "2023-05-25T13:14:00",
+    "source_timestamp": "1:14 pm on 25 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "personal_quality",
+    "value": "kind and caring",
+    "modality": "observed",
+    "valid_time": "at 1:14 pm on 25 May, 2023",
+    "evidence_turn_ids": [
+      "D2:9",
+      "D2:15",
+      "D2:17"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000034",
+    "episode_id": "conv-26::session_2::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_2",
+    "observed_at": "2023-05-25T13:14:00",
+    "source_timestamp": "1:14 pm on 25 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "intent",
+    "value": "make sure kids have a safe and loving home",
+    "modality": "observed",
+    "valid_time": "at 1:14 pm on 25 May, 2023",
+    "evidence_turn_ids": [
+      "D2:16"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000035",
+    "episode_id": "conv-26::session_2::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_2",
+    "observed_at": "2023-05-25T13:14:00",
+    "source_timestamp": "1:14 pm on 25 May, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "gave_talk_event",
+    "value": "school event last week where she talked about her transgender journey",
+    "modality": "observed",
+    "valid_time": "last week before 9 June 2023",
+    "evidence_turn_ids": [
+      "D3:1"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000036",
+    "episode_id": "conv-26::session_3::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_3",
+    "observed_at": "2023-06-09T19:55:00",
+    "source_timestamp": "7:55 pm on 9 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "encouraged",
+    "value": "students to get involved in the LGBTQ community",
+    "modality": "observed",
+    "valid_time": "last week before 9 June 2023",
+    "evidence_turn_ids": [
+      "D3:1"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000037",
+    "episode_id": "conv-26::session_3::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_3",
+    "observed_at": "2023-06-09T19:55:00",
+    "source_timestamp": "7:55 pm on 9 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "started_transition",
+    "value": "three years ago from 9 June 2023",
+    "modality": "observed",
+    "valid_time": "~3 years before June 2023",
+    "evidence_turn_ids": [
+      "D3:1"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000038",
+    "episode_id": "conv-26::session_3::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_3",
+    "observed_at": "2023-06-09T19:55:00",
+    "source_timestamp": "7:55 pm on 9 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "shared_difficulties",
+    "value": "her struggles and development since coming out during her talk",
+    "modality": "observed",
+    "valid_time": "last week before 9 June 2023",
+    "evidence_turn_ids": [
+      "D3:3"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000039",
+    "episode_id": "conv-26::session_3::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_3",
+    "observed_at": "2023-06-09T19:55:00",
+    "source_timestamp": "7:55 pm on 9 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "inspired_audience",
+    "value": "audience was inspired to be better allies after her talk",
+    "modality": "observed",
+    "valid_time": "last week before 9 June 2023",
+    "evidence_turn_ids": [
+      "D3:3"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000040",
+    "episode_id": "conv-26::session_3::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_3",
+    "observed_at": "2023-06-09T19:55:00",
+    "source_timestamp": "7:55 pm on 9 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "values_conversations",
+    "value": "gender identity and inclusion",
+    "modality": "observed",
+    "valid_time": "current",
+    "evidence_turn_ids": [
+      "D3:3"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000041",
+    "episode_id": "conv-26::session_3::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_3",
+    "observed_at": "2023-06-09T19:55:00",
+    "source_timestamp": "7:55 pm on 9 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "feels_blessed_with_support",
+    "value": "received loads of love and support throughout her transition journey",
+    "modality": "observed",
+    "valid_time": "up to 9 June 2023",
+    "evidence_turn_ids": [
+      "D3:5"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000042",
+    "episode_id": "conv-26::session_3::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_3",
+    "observed_at": "2023-06-09T19:55:00",
+    "source_timestamp": "7:55 pm on 9 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "intends_to_use_voice",
+    "value": "keep using her voice to make a change and lift others up",
+    "modality": "desired",
+    "valid_time": "future from 9 June 2023",
+    "evidence_turn_ids": [
+      "D3:7"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000043",
+    "episode_id": "conv-26::session_3::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_3",
+    "observed_at": "2023-06-09T19:55:00",
+    "source_timestamp": "7:55 pm on 9 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "expressed_pride_in",
+    "value": "Caroline's efforts to spread awareness and involve others in the LGBTQ community",
+    "modality": "observed",
+    "valid_time": "around 9 June 2023",
+    "evidence_turn_ids": [
+      "D3:2"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000044",
+    "episode_id": "conv-26::session_3::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_3",
+    "observed_at": "2023-06-09T19:55:00",
+    "source_timestamp": "7:55 pm on 9 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "encouraged",
+    "value": "Caroline to keep inspiring people with strength and courage after her transition",
+    "modality": "observed",
+    "valid_time": "around 9 June 2023",
+    "evidence_turn_ids": [
+      "D3:2"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000045",
+    "episode_id": "conv-26::session_3::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_3",
+    "observed_at": "2023-06-09T19:55:00",
+    "source_timestamp": "7:55 pm on 9 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "values_courage_to_share_stories",
+    "value": "talking about personal stories helps bond and understand each other",
+    "modality": "observed",
+    "valid_time": "around 9 June 2023",
+    "evidence_turn_ids": [
+      "D3:6"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000046",
+    "episode_id": "conv-26::session_3::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_3",
+    "observed_at": "2023-06-09T19:55:00",
+    "source_timestamp": "7:55 pm on 9 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "appreciates_Caroline",
+    "value": "using her voice to create love, acceptance, and hope",
+    "modality": "observed",
+    "valid_time": "around 9 June 2023",
+    "evidence_turn_ids": [
+      "D3:6"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000047",
+    "episode_id": "conv-26::session_3::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_3",
+    "observed_at": "2023-06-09T19:55:00",
+    "source_timestamp": "7:55 pm on 9 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline_and_Melanie",
+    "entity_type": "concept",
+    "property": "collaborate_to",
+    "value": "motivate and support each other through life's journey",
+    "modality": "desired",
+    "valid_time": "around 9 June 2023 and future",
+    "evidence_turn_ids": [
+      "D3:8",
+      "D3:9"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000048",
+    "episode_id": "conv-26::session_3::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_3",
+    "observed_at": "2023-06-09T19:55:00",
+    "source_timestamp": "7:55 pm on 9 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "motivation_source",
+    "value": "family",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D3:10"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000049",
+    "episode_id": "conv-26::session_3::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_3",
+    "observed_at": "2023-06-09T19:55:00",
+    "source_timestamp": "7:55 pm on 9 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "desired_trait",
+    "value": "courageous for family",
+    "modality": "desired",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D3:10"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000050",
+    "episode_id": "conv-26::session_3::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_3",
+    "observed_at": "2023-06-09T19:55:00",
+    "source_timestamp": "7:55 pm on 9 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "support_system",
+    "value": "friends, family and mentors",
+    "modality": "observed",
+    "valid_time": "at least since 4 years ago",
+    "evidence_turn_ids": [
+      "D3:11",
+      "D3:13"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000051",
+    "episode_id": "conv-26::session_3::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_3",
+    "observed_at": "2023-06-09T19:55:00",
+    "source_timestamp": "7:55 pm on 9 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "support_system_duration",
+    "value": "4 years",
+    "modality": "observed",
+    "valid_time": "since moving from home country",
+    "evidence_turn_ids": [
+      "D3:13"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000052",
+    "episode_id": "conv-26::session_3::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_3",
+    "observed_at": "2023-06-09T19:55:00",
+    "source_timestamp": "7:55 pm on 9 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "moved_from",
+    "value": "home country",
+    "modality": "observed",
+    "valid_time": "at least 4 years ago",
+    "evidence_turn_ids": [
+      "D3:13"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000053",
+    "episode_id": "conv-26::session_3::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_3",
+    "observed_at": "2023-06-09T19:55:00",
+    "source_timestamp": "7:55 pm on 9 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "experienced_event",
+    "value": "tough breakup",
+    "modality": "observed",
+    "valid_time": "prior to current time",
+    "evidence_turn_ids": [
+      "D3:13"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000054",
+    "episode_id": "conv-26::session_3::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_3",
+    "observed_at": "2023-06-09T19:55:00",
+    "source_timestamp": "7:55 pm on 9 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "values_support",
+    "value": "love and help from friends during tough times",
+    "modality": "observed",
+    "valid_time": "after tough breakup",
+    "evidence_turn_ids": [
+      "D3:13"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000055",
+    "episode_id": "conv-26::session_3::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_3",
+    "observed_at": "2023-06-09T19:55:00",
+    "source_timestamp": "7:55 pm on 9 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "shared_photo",
+    "value": "group of friends and family posing in a yard from last week",
+    "modality": "observed",
+    "valid_time": "last week relative to conversation date",
+    "evidence_turn_ids": [
+      "D3:11"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000056",
+    "episode_id": "conv-26::session_3::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_3",
+    "observed_at": "2023-06-09T19:55:00",
+    "source_timestamp": "7:55 pm on 9 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "family_members",
+    "value": "husband and kids",
+    "modality": "observed",
+    "valid_time": "as of 7:55 pm on 9 June, 2023",
+    "evidence_turn_ids": [
+      "D3:14"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000057",
+    "episode_id": "conv-26::session_3::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_3",
+    "observed_at": "2023-06-09T19:55:00",
+    "source_timestamp": "7:55 pm on 9 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "marriage_duration",
+    "value": "5 years",
+    "modality": "observed",
+    "valid_time": "as of 7:55 pm on 9 June, 2023",
+    "evidence_turn_ids": [
+      "D3:16"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000058",
+    "episode_id": "conv-26::session_3::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_3",
+    "observed_at": "2023-06-09T19:55:00",
+    "source_timestamp": "7:55 pm on 9 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "marital_status",
+    "value": "married",
+    "modality": "observed",
+    "valid_time": "as of 7:55 pm on 9 June, 2023",
+    "evidence_turn_ids": [
+      "D3:14",
+      "D3:16"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000059",
+    "episode_id": "conv-26::session_3::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_3",
+    "observed_at": "2023-06-09T19:55:00",
+    "source_timestamp": "7:55 pm on 9 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "value_family_time",
+    "value": "cherishes time with family and feels alive and happy during it",
+    "modality": "observed",
+    "valid_time": "as of 7:55 pm on 9 June, 2023",
+    "evidence_turn_ids": [
+      "D3:22"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000060",
+    "episode_id": "conv-26::session_3::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_3",
+    "observed_at": "2023-06-09T19:55:00",
+    "source_timestamp": "7:55 pm on 9 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "family_activities",
+    "value": "played games, ate good food, and hung out together during a family picnic",
+    "modality": "observed",
+    "valid_time": "recent past relative to 7:55 pm on 9 June, 2023",
+    "evidence_turn_ids": [
+      "D3:20"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000061",
+    "episode_id": "conv-26::session_3::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_3",
+    "observed_at": "2023-06-09T19:55:00",
+    "source_timestamp": "7:55 pm on 9 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "emotional_state_family",
+    "value": "happy and motivated by family",
+    "modality": "observed",
+    "valid_time": "as of 7:55 pm on 9 June, 2023",
+    "evidence_turn_ids": [
+      "D3:14"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000062",
+    "episode_id": "conv-26::session_3::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_3",
+    "observed_at": "2023-06-09T19:55:00",
+    "source_timestamp": "7:55 pm on 9 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "future_expectation_family_years",
+    "value": "looking forward to more happy years with family",
+    "modality": "observed",
+    "valid_time": "present looking forward from 7:55 pm on 9 June, 2023",
+    "evidence_turn_ids": [
+      "D3:18"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000063",
+    "episode_id": "conv-26::session_3::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_3",
+    "observed_at": "2023-06-09T19:55:00",
+    "source_timestamp": "7:55 pm on 9 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "owns",
+    "value": "necklace with a cross and a heart pendant",
+    "modality": "observed",
+    "valid_time": "2023-06-27",
+    "evidence_turn_ids": [
+      "D4:1"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000064",
+    "episode_id": "conv-26::session_4::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_4",
+    "observed_at": "2023-06-27T10:37:00",
+    "source_timestamp": "10:37 am on 27 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "necklace with a cross and a heart pendant",
+    "entity_type": "object",
+    "property": "gifted_by",
+    "value": "grandma",
+    "modality": "observed",
+    "valid_time": "when Caroline was young",
+    "evidence_turn_ids": [
+      "D4:3"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000065",
+    "episode_id": "conv-26::session_4::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_4",
+    "observed_at": "2023-06-27T10:37:00",
+    "source_timestamp": "10:37 am on 27 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "grandma",
+    "entity_type": "person",
+    "property": "residence_country",
+    "value": "Sweden",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D4:3"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000066",
+    "episode_id": "conv-26::session_4::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_4",
+    "observed_at": "2023-06-27T10:37:00",
+    "source_timestamp": "10:37 am on 27 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "necklace with a cross and a heart pendant",
+    "entity_type": "object",
+    "property": "symbolizes",
+    "value": "love, faith and strength",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D4:3"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000067",
+    "episode_id": "conv-26::session_4::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_4",
+    "observed_at": "2023-06-27T10:37:00",
+    "source_timestamp": "10:37 am on 27 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "necklace with a cross and a heart pendant",
+    "entity_type": "object",
+    "property": "represents",
+    "value": "reminder of Caroline's roots and family support",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D4:3"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000068",
+    "episode_id": "conv-26::session_4::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_4",
+    "observed_at": "2023-06-27T10:37:00",
+    "source_timestamp": "10:37 am on 27 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "owns",
+    "value": "hand-painted bowl",
+    "modality": "observed",
+    "valid_time": "2023-06-27",
+    "evidence_turn_ids": [
+      "D4:5"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000069",
+    "episode_id": "conv-26::session_4::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_4",
+    "observed_at": "2023-06-27T10:37:00",
+    "source_timestamp": "10:37 am on 27 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "hand-painted bowl",
+    "entity_type": "object",
+    "property": "gifted_by",
+    "value": "a friend",
+    "modality": "observed",
+    "valid_time": "ten years before 2023-06-27 for Caroline's 18th birthday",
+    "evidence_turn_ids": [
+      "D4:5"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000070",
+    "episode_id": "conv-26::session_4::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_4",
+    "observed_at": "2023-06-27T10:37:00",
+    "source_timestamp": "10:37 am on 27 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "hand-painted bowl",
+    "entity_type": "object",
+    "property": "symbolizes",
+    "value": "art and self-expression",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D4:5"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000071",
+    "episode_id": "conv-26::session_4::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_4",
+    "observed_at": "2023-06-27T10:37:00",
+    "source_timestamp": "10:37 am on 27 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "family_camping_trip",
+    "value": "took her family camping in the mountains last week",
+    "modality": "observed",
+    "valid_time": "last week before 27 June 2023",
+    "evidence_turn_ids": [
+      "D4:6"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000072",
+    "episode_id": "conv-26::session_4::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_4",
+    "observed_at": "2023-06-27T10:37:00",
+    "source_timestamp": "10:37 am on 27 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "camping_activities",
+    "value": "explored nature, roasted marshmallows around campfire, went on a hike",
+    "modality": "observed",
+    "valid_time": "last week before 27 June 2023",
+    "evidence_turn_ids": [
+      "D4:8"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000073",
+    "episode_id": "conv-26::session_4::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_4",
+    "observed_at": "2023-06-27T10:37:00",
+    "source_timestamp": "10:37 am on 27 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "camping_view_experience",
+    "value": "view from the top of hike was amazing",
+    "modality": "observed",
+    "valid_time": "last week before 27 June 2023",
+    "evidence_turn_ids": [
+      "D4:8"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000074",
+    "episode_id": "conv-26::session_4::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_4",
+    "observed_at": "2023-06-27T10:37:00",
+    "source_timestamp": "10:37 am on 27 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "children_interest",
+    "value": "2 younger kids love nature",
+    "modality": "observed",
+    "valid_time": "last week before 27 June 2023",
+    "evidence_turn_ids": [
+      "D4:8"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000075",
+    "episode_id": "conv-26::session_4::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_4",
+    "observed_at": "2023-06-27T10:37:00",
+    "source_timestamp": "10:37 am on 27 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "emotional_response",
+    "value": "camping moments with family were special and unforgettable",
+    "modality": "observed",
+    "valid_time": "last week before 27 June 2023",
+    "evidence_turn_ids": [
+      "D4:8"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000076",
+    "episode_id": "conv-26::session_4::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_4",
+    "observed_at": "2023-06-27T10:37:00",
+    "source_timestamp": "10:37 am on 27 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "value_family_time",
+    "value": "family time matters to her",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D4:10"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000077",
+    "episode_id": "conv-26::session_4::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_4",
+    "observed_at": "2023-06-27T10:37:00",
+    "source_timestamp": "10:37 am on 27 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "career_interest",
+    "value": "counseling and mental health",
+    "modality": "observed",
+    "valid_time": "lately before 27 June 2023",
+    "evidence_turn_ids": [
+      "D4:11"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000078",
+    "episode_id": "conv-26::session_4::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_4",
+    "observed_at": "2023-06-27T10:37:00",
+    "source_timestamp": "10:37 am on 27 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "career_goal",
+    "value": "help people who have gone through the same things as her",
+    "modality": "observed",
+    "valid_time": "lately before 27 June 2023",
+    "evidence_turn_ids": [
+      "D4:11"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000079",
+    "episode_id": "conv-26::session_4::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_4",
+    "observed_at": "2023-06-27T10:37:00",
+    "source_timestamp": "10:37 am on 27 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "target_client_group",
+    "value": "trans people",
+    "modality": "observed",
+    "valid_time": "as of 27 June 2023",
+    "evidence_turn_ids": [
+      "D4:13"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000080",
+    "episode_id": "conv-26::session_4::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_4",
+    "observed_at": "2023-06-27T10:37:00",
+    "source_timestamp": "10:37 am on 27 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "career_plan_detail",
+    "value": "help trans people accept themselves and support their mental health",
+    "modality": "observed",
+    "valid_time": "as of 27 June 2023",
+    "evidence_turn_ids": [
+      "D4:13"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000081",
+    "episode_id": "conv-26::session_4::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_4",
+    "observed_at": "2023-06-27T10:37:00",
+    "source_timestamp": "10:37 am on 27 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "event_participation",
+    "value": "attended LGBTQ+ counseling workshop",
+    "modality": "observed",
+    "valid_time": "last Friday before 27 June 2023",
+    "evidence_turn_ids": [
+      "D4:13"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000082",
+    "episode_id": "conv-26::session_4::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_4",
+    "observed_at": "2023-06-27T10:37:00",
+    "source_timestamp": "10:37 am on 27 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "event_experience",
+    "value": "workshop was enlightening and showed passionate professionals creating a safe space for people like her",
+    "modality": "observed",
+    "valid_time": "last Friday before 27 June 2023",
+    "evidence_turn_ids": [
+      "D4:13"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000083",
+    "episode_id": "conv-26::session_4::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_4",
+    "observed_at": "2023-06-27T10:37:00",
+    "source_timestamp": "10:37 am on 27 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "personal_motivation",
+    "value": "her own journey and the support she received motivated her to help others",
+    "modality": "observed",
+    "valid_time": "as of 27 June 2023",
+    "evidence_turn_ids": [
+      "D4:15"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000084",
+    "episode_id": "conv-26::session_4::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_4",
+    "observed_at": "2023-06-27T10:37:00",
+    "source_timestamp": "10:37 am on 27 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "personal_benefit_from_support",
+    "value": "counseling and support groups improved her life and increased her care about mental health and self-understanding",
+    "modality": "observed",
+    "valid_time": "as of 27 June 2023",
+    "evidence_turn_ids": [
+      "D4:15"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000085",
+    "episode_id": "conv-26::session_4::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_4",
+    "observed_at": "2023-06-27T10:37:00",
+    "source_timestamp": "10:37 am on 27 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "passion",
+    "value": "creating a safe, inviting place for people to grow",
+    "modality": "observed",
+    "valid_time": "as of 27 June 2023",
+    "evidence_turn_ids": [
+      "D4:15"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000086",
+    "episode_id": "conv-26::session_4::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_4",
+    "observed_at": "2023-06-27T10:37:00",
+    "source_timestamp": "10:37 am on 27 June, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "attended_event",
+    "value": "LGBTQ+ pride parade",
+    "modality": "observed",
+    "valid_time": "last week before 3 July 2023",
+    "evidence_turn_ids": [
+      "D5:1"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000087",
+    "episode_id": "conv-26::session_5::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_5",
+    "observed_at": "2023-07-03T13:36:00",
+    "source_timestamp": "1:36 pm on 3 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "emotional_reaction_to_event",
+    "value": "felt happy and a sense of belonging",
+    "modality": "observed",
+    "valid_time": "last week before 3 July 2023",
+    "evidence_turn_ids": [
+      "D5:1"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000088",
+    "episode_id": "conv-26::session_5::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_5",
+    "observed_at": "2023-07-03T13:36:00",
+    "source_timestamp": "1:36 pm on 3 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "LGBTQ+ community",
+    "entity_type": "concept",
+    "property": "community_growth_perceived_by",
+    "value": "Caroline",
+    "modality": "observed",
+    "valid_time": "last week before 3 July 2023",
+    "evidence_turn_ids": [
+      "D5:1"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000089",
+    "episode_id": "conv-26::session_5::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_5",
+    "observed_at": "2023-07-03T13:36:00",
+    "source_timestamp": "1:36 pm on 3 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "feelings_about_LGBTQ+ community",
+    "value": "happy and included",
+    "modality": "observed",
+    "valid_time": "last week before 3 July 2023",
+    "evidence_turn_ids": [
+      "D5:1"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000090",
+    "episode_id": "conv-26::session_5::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_5",
+    "observed_at": "2023-07-03T13:36:00",
+    "source_timestamp": "1:36 pm on 3 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "motivation_change",
+    "value": "motivated to help others using her story",
+    "modality": "observed",
+    "valid_time": "since last week before 3 July 2023",
+    "evidence_turn_ids": [
+      "D5:3"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000091",
+    "episode_id": "conv-26::session_5::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_5",
+    "observed_at": "2023-07-03T13:36:00",
+    "source_timestamp": "1:36 pm on 3 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "career_goal_interest",
+    "value": "counseling and mental health",
+    "modality": "observed",
+    "valid_time": "ongoing since last week before 3 July 2023",
+    "evidence_turn_ids": [
+      "D5:3"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000092",
+    "episode_id": "conv-26::session_5::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_5",
+    "observed_at": "2023-07-03T13:36:00",
+    "source_timestamp": "1:36 pm on 3 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "desire_to_give_back",
+    "value": "excited to give back to the community",
+    "modality": "observed",
+    "valid_time": "ongoing since last week before 3 July 2023",
+    "evidence_turn_ids": [
+      "D5:3"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000093",
+    "episode_id": "conv-26::session_5::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_5",
+    "observed_at": "2023-07-03T13:36:00",
+    "source_timestamp": "1:36 pm on 3 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "signed_up_for_class",
+    "value": "pottery class",
+    "modality": "observed",
+    "valid_time": "yesterday before 3 July 2023 13:36",
+    "evidence_turn_ids": [
+      "D5:4"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000094",
+    "episode_id": "conv-26::session_5::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_5",
+    "observed_at": "2023-07-03T13:36:00",
+    "source_timestamp": "1:36 pm on 3 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "feels_pottery_is",
+    "value": "therapy for self-expression and creativity",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D5:4"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000095",
+    "episode_id": "conv-26::session_5::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_5",
+    "observed_at": "2023-07-03T13:36:00",
+    "source_timestamp": "1:36 pm on 3 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "learning_skill",
+    "value": "piano",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D5:5"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000096",
+    "episode_id": "conv-26::session_5::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_5",
+    "observed_at": "2023-07-03T13:36:00",
+    "source_timestamp": "1:36 pm on 3 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "likes_about_pottery",
+    "value": "creativity and skill",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D5:6"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000097",
+    "episode_id": "conv-26::session_5::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_5",
+    "observed_at": "2023-07-03T13:36:00",
+    "source_timestamp": "1:36 pm on 3 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "feels_pottery_is",
+    "value": "calming",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D5:6"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000098",
+    "episode_id": "conv-26::session_5::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_5",
+    "observed_at": "2023-07-03T13:36:00",
+    "source_timestamp": "1:36 pm on 3 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "made_object",
+    "value": "bowl with black and white flower design",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D5:8"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000099",
+    "episode_id": "conv-26::session_5::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_5",
+    "observed_at": "2023-07-03T13:36:00",
+    "source_timestamp": "1:36 pm on 3 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "effort_for_bowl",
+    "value": "took some work",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D5:8"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000100",
+    "episode_id": "conv-26::session_5::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_5",
+    "observed_at": "2023-07-03T13:36:00",
+    "source_timestamp": "1:36 pm on 3 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "feels_proud_of",
+    "value": "bowl made in class",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D5:8"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000101",
+    "episode_id": "conv-26::session_5::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_5",
+    "observed_at": "2023-07-03T13:36:00",
+    "source_timestamp": "1:36 pm on 3 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "considers_pottery",
+    "value": "huge part of life, not just a hobby",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D5:10"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000102",
+    "episode_id": "conv-26::session_5::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_5",
+    "observed_at": "2023-07-03T13:36:00",
+    "source_timestamp": "1:36 pm on 3 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "expresses_emotions_through",
+    "value": "pottery",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D5:10"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000103",
+    "episode_id": "conv-26::session_5::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_5",
+    "observed_at": "2023-07-03T13:36:00",
+    "source_timestamp": "1:36 pm on 3 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "feels_joy_from",
+    "value": "clay and pottery",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D5:10"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000104",
+    "episode_id": "conv-26::session_5::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_5",
+    "observed_at": "2023-07-03T13:36:00",
+    "source_timestamp": "1:36 pm on 3 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "planned_event",
+    "value": "transgender conference this month",
+    "modality": "planned",
+    "valid_time": "this month relative to 3 July 2023",
+    "evidence_turn_ids": [
+      "D5:13"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000105",
+    "episode_id": "conv-26::session_5::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_5",
+    "observed_at": "2023-07-03T13:36:00",
+    "source_timestamp": "1:36 pm on 3 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "planned_activity",
+    "value": "meet other people in the community",
+    "modality": "planned",
+    "valid_time": "this month relative to 3 July 2023",
+    "evidence_turn_ids": [
+      "D5:13"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000106",
+    "episode_id": "conv-26::session_5::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_5",
+    "observed_at": "2023-07-03T13:36:00",
+    "source_timestamp": "1:36 pm on 3 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "planned_activity",
+    "value": "learn more about advocacy",
+    "modality": "planned",
+    "valid_time": "this month relative to 3 July 2023",
+    "evidence_turn_ids": [
+      "D5:13"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000107",
+    "episode_id": "conv-26::session_5::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_5",
+    "observed_at": "2023-07-03T13:36:00",
+    "source_timestamp": "1:36 pm on 3 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "interest",
+    "value": "pottery",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D5:12"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000108",
+    "episode_id": "conv-26::session_5::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_5",
+    "observed_at": "2023-07-03T13:36:00",
+    "source_timestamp": "1:36 pm on 3 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "interest_in_field",
+    "value": "counseling or mental health work",
+    "modality": "observed",
+    "valid_time": "since last chat before 6 July 2023",
+    "evidence_turn_ids": [
+      "D6:3"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000109",
+    "episode_id": "conv-26::session_6::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_6",
+    "observed_at": "2023-07-06T20:18:00",
+    "source_timestamp": "8:18 pm on 6 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "motivation",
+    "value": "passionate about helping people and making a positive impact",
+    "modality": "observed",
+    "valid_time": "since last chat before 6 July 2023",
+    "evidence_turn_ids": [
+      "D6:3"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000110",
+    "episode_id": "conv-26::session_6::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_6",
+    "observed_at": "2023-07-06T20:18:00",
+    "source_timestamp": "8:18 pm on 6 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "experience_description",
+    "value": "tough but really rewarding",
+    "modality": "observed",
+    "valid_time": "since last chat before 6 July 2023",
+    "evidence_turn_ids": [
+      "D6:3"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000111",
+    "episode_id": "conv-26::session_6::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_6",
+    "observed_at": "2023-07-06T20:18:00",
+    "source_timestamp": "8:18 pm on 6 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "activity",
+    "value": "took the kids to the museum",
+    "modality": "observed",
+    "valid_time": "yesterday before 8:18 pm on 6 July, 2023",
+    "evidence_turn_ids": [
+      "D6:4"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000112",
+    "episode_id": "conv-26::session_6::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_6",
+    "observed_at": "2023-07-06T20:18:00",
+    "source_timestamp": "8:18 pm on 6 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie's kids",
+    "entity_type": "other",
+    "property": "emotion",
+    "value": "eyes lit up",
+    "modality": "observed",
+    "valid_time": "yesterday before 8:18 pm on 6 July, 2023",
+    "evidence_turn_ids": [
+      "D6:4"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000113",
+    "episode_id": "conv-26::session_6::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_6",
+    "observed_at": "2023-07-06T20:18:00",
+    "source_timestamp": "8:18 pm on 6 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie's kids",
+    "entity_type": "other",
+    "property": "interest",
+    "value": "dinosaur exhibit",
+    "modality": "observed",
+    "valid_time": "yesterday before 8:18 pm on 6 July, 2023",
+    "evidence_turn_ids": [
+      "D6:6"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000114",
+    "episode_id": "conv-26::session_6::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_6",
+    "observed_at": "2023-07-06T20:18:00",
+    "source_timestamp": "8:18 pm on 6 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie's kids",
+    "entity_type": "other",
+    "property": "interest_detail",
+    "value": "learning about animals and bones",
+    "modality": "observed",
+    "valid_time": "yesterday before 8:18 pm on 6 July, 2023",
+    "evidence_turn_ids": [
+      "D6:6"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000115",
+    "episode_id": "conv-26::session_6::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_6",
+    "observed_at": "2023-07-06T20:18:00",
+    "source_timestamp": "8:18 pm on 6 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "feeling_about_parenthood",
+    "value": "reminded why she loves being a mom",
+    "modality": "observed",
+    "valid_time": "yesterday before 8:18 pm on 6 July, 2023",
+    "evidence_turn_ids": [
+      "D6:6"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000116",
+    "episode_id": "conv-26::session_6::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_6",
+    "observed_at": "2023-07-06T20:18:00",
+    "source_timestamp": "8:18 pm on 6 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "parenting sentiment",
+    "value": "Being a mom is awesome",
+    "modality": "observed",
+    "valid_time": "8:18 pm on 6 July, 2023",
+    "evidence_turn_ids": [
+      "D6:7"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000117",
+    "episode_id": "conv-26::session_6::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_6",
+    "observed_at": "2023-07-06T20:18:00",
+    "source_timestamp": "8:18 pm on 6 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "library_creation_purpose",
+    "value": "for when I have kids",
+    "modality": "planned",
+    "valid_time": "at or before 8:18 pm on 6 July, 2023",
+    "evidence_turn_ids": [
+      "D6:7"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000118",
+    "episode_id": "conv-26::session_6::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_6",
+    "observed_at": "2023-07-06T20:18:00",
+    "source_timestamp": "8:18 pm on 6 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "library_contents",
+    "value": "lots of kids' books including classics, stories from different cultures, educational books",
+    "modality": "observed",
+    "valid_time": "at or before 8:18 pm on 6 July, 2023",
+    "evidence_turn_ids": [
+      "D6:9"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000119",
+    "episode_id": "conv-26::session_6::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_6",
+    "observed_at": "2023-07-06T20:18:00",
+    "source_timestamp": "8:18 pm on 6 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "intent_for_reading_to_children",
+    "value": "looking forward to reading to kids and opening up their minds",
+    "modality": "planned",
+    "valid_time": "at or before 8:18 pm on 6 July, 2023",
+    "evidence_turn_ids": [
+      "D6:7"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000120",
+    "episode_id": "conv-26::session_6::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_6",
+    "observed_at": "2023-07-06T20:18:00",
+    "source_timestamp": "8:18 pm on 6 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "favorite_childhood_book",
+    "value": "\"Charlotte's Web\"",
+    "modality": "observed",
+    "valid_time": "referenced at 8:18 pm on 6 July, 2023",
+    "evidence_turn_ids": [
+      "D6:10"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000121",
+    "episode_id": "conv-26::session_6::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_6",
+    "observed_at": "2023-07-06T20:18:00",
+    "source_timestamp": "8:18 pm on 6 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "favorite_book_theme",
+    "value": "friendship and compassion can make a difference",
+    "modality": "observed",
+    "valid_time": "referenced at 8:18 pm on 6 July, 2023",
+    "evidence_turn_ids": [
+      "D6:10"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000122",
+    "episode_id": "conv-26::session_6::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_6",
+    "observed_at": "2023-07-06T20:18:00",
+    "source_timestamp": "8:18 pm on 6 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "has_friends",
+    "value": "true",
+    "modality": "observed",
+    "valid_time": "7 days before 8:18 pm on 6 July, 2023",
+    "evidence_turn_ids": [
+      "D6:11"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000123",
+    "episode_id": "conv-26::session_6::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_6",
+    "observed_at": "2023-07-06T20:18:00",
+    "source_timestamp": "8:18 pm on 6 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "has_family",
+    "value": "true",
+    "modality": "observed",
+    "valid_time": "current as of 8:18 pm on 6 July, 2023",
+    "evidence_turn_ids": [
+      "D6:11"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000124",
+    "episode_id": "conv-26::session_6::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_6",
+    "observed_at": "2023-07-06T20:18:00",
+    "source_timestamp": "8:18 pm on 6 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "recent_social_activity",
+    "value": "picnic with friends and family",
+    "modality": "observed",
+    "valid_time": "last week from 8:18 pm on 6 July, 2023",
+    "evidence_turn_ids": [
+      "D6:11"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000125",
+    "episode_id": "conv-26::session_6::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_6",
+    "observed_at": "2023-07-06T20:18:00",
+    "source_timestamp": "8:18 pm on 6 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "support_network_role",
+    "value": "friends and family provide love, guidance, acceptance, love, encouragement",
+    "modality": "observed",
+    "valid_time": "current as of 8:18 pm on 6 July, 2023",
+    "evidence_turn_ids": [
+      "D6:13",
+      "D6:15"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000126",
+    "episode_id": "conv-26::session_6::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_6",
+    "observed_at": "2023-07-06T20:18:00",
+    "source_timestamp": "8:18 pm on 6 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "transition_assistance",
+    "value": "instrumental support from friends and family",
+    "modality": "observed",
+    "valid_time": "current as of 8:18 pm on 6 July, 2023",
+    "evidence_turn_ids": [
+      "D6:15"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000127",
+    "episode_id": "conv-26::session_6::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_6",
+    "observed_at": "2023-07-06T20:18:00",
+    "source_timestamp": "8:18 pm on 6 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "has_family_activity",
+    "value": "family camping at the beach",
+    "modality": "observed",
+    "valid_time": "present",
+    "evidence_turn_ids": [
+      "D6:16"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000128",
+    "episode_id": "conv-26::session_6::episode-005",
+    "conversation_id": "conv-26",
+    "session_id": "session_6",
+    "observed_at": "2023-07-06T20:18:00",
+    "source_timestamp": "8:18 pm on 6 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "feels_about_family_camping",
+    "value": "they love it and it brings them closer",
+    "modality": "observed",
+    "valid_time": "present",
+    "evidence_turn_ids": [
+      "D6:16"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000129",
+    "episode_id": "conv-26::session_6::episode-005",
+    "conversation_id": "conv-26",
+    "session_id": "session_6",
+    "observed_at": "2023-07-06T20:18:00",
+    "source_timestamp": "8:18 pm on 6 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "attended_event",
+    "value": "LGBTQ conference",
+    "modality": "observed",
+    "valid_time": "two days before 12 July 2023",
+    "evidence_turn_ids": [
+      "D7:1"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000130",
+    "episode_id": "conv-26::session_7::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_7",
+    "observed_at": "2023-07-12T16:33:00",
+    "source_timestamp": "4:33 pm on 12 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "felt_environment",
+    "value": "welcoming and totally accepted",
+    "modality": "observed",
+    "valid_time": "two days before 12 July 2023",
+    "evidence_turn_ids": [
+      "D7:1"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000131",
+    "episode_id": "conv-26::session_7::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_7",
+    "observed_at": "2023-07-12T16:33:00",
+    "source_timestamp": "4:33 pm on 12 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "interacted_with",
+    "value": "people who have gone through similar journeys",
+    "modality": "observed",
+    "valid_time": "two days before 12 July 2023",
+    "evidence_turn_ids": [
+      "D7:1"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000132",
+    "episode_id": "conv-26::session_7::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_7",
+    "observed_at": "2023-07-12T16:33:00",
+    "source_timestamp": "4:33 pm on 12 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "attitude_towards_community",
+    "value": "thankful and values importance of fighting for trans rights and spreading awareness",
+    "modality": "observed",
+    "valid_time": "around 12 July 2023",
+    "evidence_turn_ids": [
+      "D7:1"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000133",
+    "episode_id": "conv-26::session_7::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_7",
+    "observed_at": "2023-07-12T16:33:00",
+    "source_timestamp": "4:33 pm on 12 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "view_on_LGBTQ_rights_progress",
+    "value": "progress has been made but still much to do",
+    "modality": "observed",
+    "valid_time": "around 12 July 2023",
+    "evidence_turn_ids": [
+      "D7:3"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000134",
+    "episode_id": "conv-26::session_7::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_7",
+    "observed_at": "2023-07-12T16:33:00",
+    "source_timestamp": "4:33 pm on 12 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "desires_to",
+    "value": "help make a difference in LGBTQ rights",
+    "modality": "observed",
+    "valid_time": "around 12 July 2023",
+    "evidence_turn_ids": [
+      "D7:3"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000135",
+    "episode_id": "conv-26::session_7::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_7",
+    "observed_at": "2023-07-12T16:33:00",
+    "source_timestamp": "4:33 pm on 12 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "career_interest",
+    "value": "counseling and mental health jobs",
+    "modality": "observed",
+    "valid_time": "around 12 July 2023",
+    "evidence_turn_ids": [
+      "D7:5"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000136",
+    "episode_id": "conv-26::session_7::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_7",
+    "observed_at": "2023-07-12T16:33:00",
+    "source_timestamp": "4:33 pm on 12 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "goal",
+    "value": "help people have someone to talk to",
+    "modality": "observed",
+    "valid_time": "around 12 July 2023",
+    "evidence_turn_ids": [
+      "D7:5"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000137",
+    "episode_id": "conv-26::session_7::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_7",
+    "observed_at": "2023-07-12T16:33:00",
+    "source_timestamp": "4:33 pm on 12 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "personal_experience",
+    "value": "struggled with mental health and received helpful support",
+    "modality": "observed",
+    "valid_time": "before 12 July 2023",
+    "evidence_turn_ids": [
+      "D7:7"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000138",
+    "episode_id": "conv-26::session_7::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_7",
+    "observed_at": "2023-07-12T16:33:00",
+    "source_timestamp": "4:33 pm on 12 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "motivation_for_career_choice",
+    "value": "realized importance of support system from own experience and wants to help others similarly",
+    "modality": "observed",
+    "valid_time": "around 12 July 2023",
+    "evidence_turn_ids": [
+      "D7:7"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000139",
+    "episode_id": "conv-26::session_7::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_7",
+    "observed_at": "2023-07-12T16:33:00",
+    "source_timestamp": "4:33 pm on 12 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "read_book",
+    "value": "a book with a golden coin on the cover reminding to pursue dreams",
+    "modality": "observed",
+    "valid_time": "last year before 4:33 pm on 12 July, 2023",
+    "evidence_turn_ids": [
+      "D7:8"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000140",
+    "episode_id": "conv-26::session_7::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_7",
+    "observed_at": "2023-07-12T16:33:00",
+    "source_timestamp": "4:33 pm on 12 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "enjoys_reading",
+    "value": "reading books guides, motivates, and helps discover self",
+    "modality": "observed",
+    "valid_time": "by 4:33 pm on 12 July, 2023",
+    "evidence_turn_ids": [
+      "D7:9"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000141",
+    "episode_id": "conv-26::session_7::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_7",
+    "observed_at": "2023-07-12T16:33:00",
+    "source_timestamp": "4:33 pm on 12 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "favorite_book",
+    "value": "\"Becoming Nicole\" by Amy Ellis Nutt",
+    "modality": "observed",
+    "valid_time": "by 4:33 pm on 12 July, 2023",
+    "evidence_turn_ids": [
+      "D7:11"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000142",
+    "episode_id": "conv-26::session_7::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_7",
+    "observed_at": "2023-07-12T16:33:00",
+    "source_timestamp": "4:33 pm on 12 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "favorite_book_genre",
+    "value": "inspiring true story about a trans girl and her family",
+    "modality": "observed",
+    "valid_time": "by 4:33 pm on 12 July, 2023",
+    "evidence_turn_ids": [
+      "D7:11"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000143",
+    "episode_id": "conv-26::session_7::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_7",
+    "observed_at": "2023-07-12T16:33:00",
+    "source_timestamp": "4:33 pm on 12 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "favorite_book_effect",
+    "value": "felt connected, gained hope for own path",
+    "modality": "observed",
+    "valid_time": "by 4:33 pm on 12 July, 2023",
+    "evidence_turn_ids": [
+      "D7:11"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000144",
+    "episode_id": "conv-26::session_7::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_7",
+    "observed_at": "2023-07-12T16:33:00",
+    "source_timestamp": "4:33 pm on 12 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "lessons_learned_from_favorite_book",
+    "value": "self-acceptance, finding support, hope and love endure tough times",
+    "modality": "observed",
+    "valid_time": "by 4:33 pm on 12 July, 2023",
+    "evidence_turn_ids": [
+      "D7:13"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000145",
+    "episode_id": "conv-26::session_7::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_7",
+    "observed_at": "2023-07-12T16:33:00",
+    "source_timestamp": "4:33 pm on 12 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "belief_about_pets",
+    "value": "pets bring joy",
+    "modality": "observed",
+    "valid_time": "by 4:33 pm on 12 July, 2023",
+    "evidence_turn_ids": [
+      "D7:13"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000146",
+    "episode_id": "conv-26::session_7::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_7",
+    "observed_at": "2023-07-12T16:33:00",
+    "source_timestamp": "4:33 pm on 12 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "view_on_pets",
+    "value": "pets provide joy and comfort",
+    "modality": "observed",
+    "valid_time": "by 4:33 pm on 12 July, 2023",
+    "evidence_turn_ids": [
+      "D7:14"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000147",
+    "episode_id": "conv-26::session_7::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_7",
+    "observed_at": "2023-07-12T16:33:00",
+    "source_timestamp": "4:33 pm on 12 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "has_pets",
+    "value": "a pup and a kitty",
+    "modality": "observed",
+    "valid_time": "4:33 pm on 12 July, 2023",
+    "evidence_turn_ids": [
+      "D7:16"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000148",
+    "episode_id": "conv-26::session_7::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_7",
+    "observed_at": "2023-07-12T16:33:00",
+    "source_timestamp": "4:33 pm on 12 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie's dog",
+    "entity_type": "object",
+    "property": "species",
+    "value": "dog",
+    "modality": "observed",
+    "valid_time": "4:33 pm on 12 July, 2023",
+    "evidence_turn_ids": [
+      "D7:16"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000149",
+    "episode_id": "conv-26::session_7::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_7",
+    "observed_at": "2023-07-12T16:33:00",
+    "source_timestamp": "4:33 pm on 12 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie's cat",
+    "entity_type": "object",
+    "property": "species",
+    "value": "cat",
+    "modality": "observed",
+    "valid_time": "4:33 pm on 12 July, 2023",
+    "evidence_turn_ids": [
+      "D7:16"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000150",
+    "episode_id": "conv-26::session_7::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_7",
+    "observed_at": "2023-07-12T16:33:00",
+    "source_timestamp": "4:33 pm on 12 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie's dog",
+    "entity_type": "object",
+    "property": "name",
+    "value": "Oliver",
+    "modality": "observed",
+    "valid_time": "4:33 pm on 12 July, 2023",
+    "evidence_turn_ids": [
+      "D7:18"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000151",
+    "episode_id": "conv-26::session_7::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_7",
+    "observed_at": "2023-07-12T16:33:00",
+    "source_timestamp": "4:33 pm on 12 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie's cat",
+    "entity_type": "object",
+    "property": "name",
+    "value": "Luna",
+    "modality": "observed",
+    "valid_time": "4:33 pm on 12 July, 2023",
+    "evidence_turn_ids": [
+      "D7:18"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000152",
+    "episode_id": "conv-26::session_7::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_7",
+    "observed_at": "2023-07-12T16:33:00",
+    "source_timestamp": "4:33 pm on 12 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie's dog",
+    "entity_type": "object",
+    "property": "temperament",
+    "value": "sweet and playful",
+    "modality": "observed",
+    "valid_time": "4:33 pm on 12 July, 2023",
+    "evidence_turn_ids": [
+      "D7:18"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000153",
+    "episode_id": "conv-26::session_7::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_7",
+    "observed_at": "2023-07-12T16:33:00",
+    "source_timestamp": "4:33 pm on 12 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie's cat",
+    "entity_type": "object",
+    "property": "temperament",
+    "value": "sweet and playful",
+    "modality": "observed",
+    "valid_time": "4:33 pm on 12 July, 2023",
+    "evidence_turn_ids": [
+      "D7:18"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000154",
+    "episode_id": "conv-26::session_7::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_7",
+    "observed_at": "2023-07-12T16:33:00",
+    "source_timestamp": "4:33 pm on 12 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "recent_purchase",
+    "value": "some new shoes",
+    "modality": "observed",
+    "valid_time": "4:33 pm on 12 July, 2023",
+    "evidence_turn_ids": [
+      "D7:18"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000155",
+    "episode_id": "conv-26::session_7::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_7",
+    "observed_at": "2023-07-12T16:33:00",
+    "source_timestamp": "4:33 pm on 12 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "activity_type",
+    "value": "running",
+    "modality": "observed",
+    "valid_time": "as of 4:33 pm on 12 July, 2023",
+    "evidence_turn_ids": [
+      "D7:20"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000156",
+    "episode_id": "conv-26::session_7::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_7",
+    "observed_at": "2023-07-12T16:33:00",
+    "source_timestamp": "4:33 pm on 12 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "color_preference_for_sneakers",
+    "value": "purple",
+    "modality": "observed",
+    "valid_time": "as of 4:33 pm on 12 July, 2023",
+    "evidence_turn_ids": [
+      "D7:19"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000157",
+    "episode_id": "conv-26::session_7::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_7",
+    "observed_at": "2023-07-12T16:33:00",
+    "source_timestamp": "4:33 pm on 12 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "running_motivation",
+    "value": "de-stress and clear mind",
+    "modality": "observed",
+    "valid_time": "as of 4:33 pm on 12 July, 2023",
+    "evidence_turn_ids": [
+      "D7:20",
+      "D7:22"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000158",
+    "episode_id": "conv-26::session_7::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_7",
+    "observed_at": "2023-07-12T16:33:00",
+    "source_timestamp": "4:33 pm on 12 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "running_duration_status",
+    "value": "running longer since last chat",
+    "modality": "observed",
+    "valid_time": "by 4:33 pm on 12 July, 2023",
+    "evidence_turn_ids": [
+      "D7:20"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000159",
+    "episode_id": "conv-26::session_7::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_7",
+    "observed_at": "2023-07-12T16:33:00",
+    "source_timestamp": "4:33 pm on 12 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "running_effect_mental_health",
+    "value": "great improvement",
+    "modality": "observed",
+    "valid_time": "as of 4:33 pm on 12 July, 2023",
+    "evidence_turn_ids": [
+      "D7:26"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000160",
+    "episode_id": "conv-26::session_7::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_7",
+    "observed_at": "2023-07-12T16:33:00",
+    "source_timestamp": "4:33 pm on 12 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "intention_to_continue_running",
+    "value": "intend to keep running",
+    "modality": "planned",
+    "valid_time": "future relative to 4:33 pm on 12 July, 2023",
+    "evidence_turn_ids": [
+      "D7:24"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000161",
+    "episode_id": "conv-26::session_7::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_7",
+    "observed_at": "2023-07-12T16:33:00",
+    "source_timestamp": "4:33 pm on 12 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "activity_recent",
+    "value": "took her kids to a pottery workshop last Friday",
+    "modality": "observed",
+    "valid_time": "last Friday before 15 July 2023",
+    "evidence_turn_ids": [
+      "D8:2"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000162",
+    "episode_id": "conv-26::session_8::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie's kids",
+    "entity_type": "person",
+    "property": "experienced_activity",
+    "value": "participated in pottery workshop and made their own pots",
+    "modality": "observed",
+    "valid_time": "last Friday before 15 July 2023",
+    "evidence_turn_ids": [
+      "D8:2"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000163",
+    "episode_id": "conv-26::session_8::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie's kids",
+    "entity_type": "person",
+    "property": "reaction_to_pottery_workshop",
+    "value": "loved the pottery workshop, were excited to get hands dirty and create with clay",
+    "modality": "observed",
+    "valid_time": "last Friday before 15 July 2023",
+    "evidence_turn_ids": [
+      "D8:4"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000164",
+    "episode_id": "conv-26::session_8::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie's kids",
+    "entity_type": "person",
+    "property": "pottery_created",
+    "value": "made a cup with a dog face on it",
+    "modality": "observed",
+    "valid_time": "last Friday before 15 July 2023",
+    "evidence_turn_ids": [
+      "D8:4"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000165",
+    "episode_id": "conv-26::session_8::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie and her kids",
+    "entity_type": "person",
+    "property": "creative_projects",
+    "value": "painting nature-inspired artworks",
+    "modality": "observed",
+    "valid_time": "recently before 15 July 2023",
+    "evidence_turn_ids": [
+      "D8:6"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000166",
+    "episode_id": "conv-26::session_8::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie and her kids",
+    "entity_type": "person",
+    "property": "painting_activity",
+    "value": "painted a vibrant nature scene with flowers and sunset sky last weekend",
+    "modality": "observed",
+    "valid_time": "last weekend before 15 July 2023",
+    "evidence_turn_ids": [
+      "D8:6"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000167",
+    "episode_id": "conv-26::session_8::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie and her kids",
+    "entity_type": "person",
+    "property": "collaboration",
+    "value": "both helped with the painting",
+    "modality": "observed",
+    "valid_time": "last weekend before 15 July 2023",
+    "evidence_turn_ids": [
+      "D8:8"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000168",
+    "episode_id": "conv-26::session_8::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie and her kids",
+    "entity_type": "person",
+    "property": "bonding_through_activity",
+    "value": "bonded over painting and chatted about nature",
+    "modality": "observed",
+    "valid_time": "last weekend before 15 July 2023",
+    "evidence_turn_ids": [
+      "D8:8"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000169",
+    "episode_id": "conv-26::session_8::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "attended",
+    "value": "council meeting for adoption last Friday",
+    "modality": "observed",
+    "valid_time": "last Friday before 2023-07-15",
+    "evidence_turn_ids": [
+      "D8:9"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000170",
+    "episode_id": "conv-26::session_8::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "feels_determined",
+    "value": "to adopt",
+    "modality": "observed",
+    "valid_time": "after last Friday before 2023-07-15",
+    "evidence_turn_ids": [
+      "D8:9"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000171",
+    "episode_id": "conv-26::session_8::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "favorite_color",
+    "value": "blue",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D8:11"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000172",
+    "episode_id": "conv-26::session_8::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "associates_sunflowers_with",
+    "value": "warmth and happiness",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D8:11"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000173",
+    "episode_id": "conv-26::session_8::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "associates_roses_with",
+    "value": "love and beauty",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D8:11"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000174",
+    "episode_id": "conv-26::session_8::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "associates_flowers_with",
+    "value": "joy, growth, beauty, and appreciating small moments",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D8:12"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000175",
+    "episode_id": "conv-26::session_8::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "used_flowers_for",
+    "value": "wedding decor",
+    "modality": "observed",
+    "valid_time": "before 2023-07-15",
+    "evidence_turn_ids": [
+      "D8:12"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000176",
+    "episode_id": "conv-26::session_8::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "describes_wedding_day",
+    "value": "full of love and joy, special with everyone loved attending",
+    "modality": "observed",
+    "valid_time": "before 2023-07-15",
+    "evidence_turn_ids": [
+      "D8:14"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000177",
+    "episode_id": "conv-26::session_8::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "favorite_part_of_wedding",
+    "value": "marrying partner and promising to be together forever",
+    "modality": "observed",
+    "valid_time": "before 2023-07-15",
+    "evidence_turn_ids": [
+      "D8:16"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000178",
+    "episode_id": "conv-26::session_8::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "attended event",
+    "value": "pride parade",
+    "modality": "observed",
+    "valid_time": "a few weeks ago from 15 July, 2023",
+    "evidence_turn_ids": [
+      "D8:17"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000179",
+    "episode_id": "conv-26::session_8::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "felt at parade",
+    "value": "accepted and happy",
+    "modality": "observed",
+    "valid_time": "at pride parade a few weeks ago",
+    "evidence_turn_ids": [
+      "D8:19"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000180",
+    "episode_id": "conv-26::session_8::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "emotion",
+    "value": "proud and grateful",
+    "modality": "observed",
+    "valid_time": "at pride parade a few weeks ago",
+    "evidence_turn_ids": [
+      "D8:21"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000181",
+    "episode_id": "conv-26::session_8::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "community support",
+    "value": "great community around her",
+    "modality": "observed",
+    "valid_time": "at pride parade a few weeks ago",
+    "evidence_turn_ids": [
+      "D8:21"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000182",
+    "episode_id": "conv-26::session_8::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "experience",
+    "value": "being around people who embrace and back her up",
+    "modality": "observed",
+    "valid_time": "at pride parade a few weeks ago",
+    "evidence_turn_ids": [
+      "D8:23"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000183",
+    "episode_id": "conv-26::session_8::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "inspiration source",
+    "value": "people who embrace and back her up",
+    "modality": "observed",
+    "valid_time": "at pride parade a few weeks ago",
+    "evidence_turn_ids": [
+      "D8:23"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000184",
+    "episode_id": "conv-26::session_8::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "best part at parade",
+    "value": "realizing she can be herself without fear and had courage to transition",
+    "modality": "observed",
+    "valid_time": "at pride parade a few weeks ago",
+    "evidence_turn_ids": [
+      "D8:25"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000185",
+    "episode_id": "conv-26::session_8::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "freedom",
+    "value": "to express herself authentically and have community support",
+    "modality": "observed",
+    "valid_time": "at pride parade a few weeks ago",
+    "evidence_turn_ids": [
+      "D8:25"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000186",
+    "episode_id": "conv-26::session_8::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "courage_to_be_self",
+    "value": "found",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D8:26"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000187",
+    "episode_id": "conv-26::session_8::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "mental_health_importance",
+    "value": "being oneself is important for mental health and finding peace",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D8:26"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000188",
+    "episode_id": "conv-26::session_8::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "personal_progress",
+    "value": "has been a long road and is proud of how far came",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D8:27"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000189",
+    "episode_id": "conv-26::session_8::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "peace_sources",
+    "value": "creativity and family",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D8:28"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000190",
+    "episode_id": "conv-26::session_8::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "family_support_during_move",
+    "value": "family helped out and showed lots of love and support",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D8:30"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000191",
+    "episode_id": "conv-26::session_8::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "family_support_help",
+    "value": "love and support helped through tough times",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D8:32"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000192",
+    "episode_id": "conv-26::session_8::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "family_activities_recent",
+    "value": "went on another camping trip in the forest",
+    "modality": "observed",
+    "valid_time": "recent",
+    "evidence_turn_ids": [
+      "D8:32"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000193",
+    "episode_id": "conv-26::session_8::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "family_activity_preferences",
+    "value": "enjoy hiking in the mountains and exploring forests",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D8:34"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000194",
+    "episode_id": "conv-26::session_8::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "family_activity_benefits",
+    "value": "connecting with nature and each other, brings happiness and togetherness",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D8:34",
+      "D8:36"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000195",
+    "episode_id": "conv-26::session_8::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "friendship_with",
+    "value": "Melanie",
+    "modality": "observed",
+    "valid_time": "1:51 pm on 15 July, 2023",
+    "evidence_turn_ids": [
+      "D8:37",
+      "D8:39"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000196",
+    "episode_id": "conv-26::session_8::episode-005",
+    "conversation_id": "conv-26",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "friendship_with",
+    "value": "Caroline",
+    "modality": "observed",
+    "valid_time": "1:51 pm on 15 July, 2023",
+    "evidence_turn_ids": [
+      "D8:38"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000197",
+    "episode_id": "conv-26::session_8::episode-005",
+    "conversation_id": "conv-26",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "shares_journey_with",
+    "value": "Melanie",
+    "modality": "observed",
+    "valid_time": "1:51 pm on 15 July, 2023",
+    "evidence_turn_ids": [
+      "D8:37"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000198",
+    "episode_id": "conv-26::session_8::episode-005",
+    "conversation_id": "conv-26",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "values_friendship_of",
+    "value": "Melanie",
+    "modality": "observed",
+    "valid_time": "1:51 pm on 15 July, 2023",
+    "evidence_turn_ids": [
+      "D8:39"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000199",
+    "episode_id": "conv-26::session_8::episode-005",
+    "conversation_id": "conv-26",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "supports_friend",
+    "value": "Caroline",
+    "modality": "observed",
+    "valid_time": "1:51 pm on 15 July, 2023",
+    "evidence_turn_ids": [
+      "D8:38"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000200",
+    "episode_id": "conv-26::session_8::episode-005",
+    "conversation_id": "conv-26",
+    "session_id": "session_8",
+    "observed_at": "2023-07-15T13:51:00",
+    "source_timestamp": "1:51 pm on 15 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "family_activity_recent",
+    "value": "went camping two weekends ago",
+    "modality": "observed",
+    "valid_time": "two weekends before 17 July, 2023",
+    "evidence_turn_ids": [
+      "D9:1"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000201",
+    "episode_id": "conv-26::session_9::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_9",
+    "observed_at": "2023-07-17T14:31:00",
+    "source_timestamp": "2:31 pm on 17 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "weekend_activity_recent",
+    "value": "had a quiet weekend",
+    "modality": "observed",
+    "valid_time": "weekend before 17 July, 2023",
+    "evidence_turn_ids": [
+      "D9:1"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000202",
+    "episode_id": "conv-26::session_9::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_9",
+    "observed_at": "2023-07-17T14:31:00",
+    "source_timestamp": "2:31 pm on 17 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "activity_goal",
+    "value": "unplug and hang with the kids",
+    "modality": "observed",
+    "valid_time": "two weekends before 17 July, 2023",
+    "evidence_turn_ids": [
+      "D9:1"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000203",
+    "episode_id": "conv-26::session_9::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_9",
+    "observed_at": "2023-07-17T14:31:00",
+    "source_timestamp": "2:31 pm on 17 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "recent_joined_program",
+    "value": "mentorship program for LGBTQ youth",
+    "modality": "observed",
+    "valid_time": "last weekend before 17 July, 2023",
+    "evidence_turn_ids": [
+      "D9:2"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000204",
+    "episode_id": "conv-26::session_9::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_9",
+    "observed_at": "2023-07-17T14:31:00",
+    "source_timestamp": "2:31 pm on 17 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "feelings_about_program",
+    "value": "really rewarding",
+    "modality": "observed",
+    "valid_time": "last weekend before 17 July, 2023",
+    "evidence_turn_ids": [
+      "D9:2"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000205",
+    "episode_id": "conv-26::session_9::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_9",
+    "observed_at": "2023-07-17T14:31:00",
+    "source_timestamp": "2:31 pm on 17 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "activity",
+    "value": "mentoring young people",
+    "modality": "observed",
+    "valid_time": "current ongoing as of 17 July 2023",
+    "evidence_turn_ids": [
+      "D9:4"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000206",
+    "episode_id": "conv-26::session_9::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_9",
+    "observed_at": "2023-07-17T14:31:00",
+    "source_timestamp": "2:31 pm on 17 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "mentee",
+    "value": "a transgender teen like Caroline",
+    "modality": "observed",
+    "valid_time": "current ongoing as of 17 July 2023",
+    "evidence_turn_ids": [
+      "D9:6"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000207",
+    "episode_id": "conv-26::session_9::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_9",
+    "observed_at": "2023-07-17T14:31:00",
+    "source_timestamp": "2:31 pm on 17 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline and her mentee",
+    "entity_type": "other",
+    "property": "mentoring focus",
+    "value": "building up confidence and finding positive strategies",
+    "modality": "observed",
+    "valid_time": "current ongoing as of 17 July 2023",
+    "evidence_turn_ids": [
+      "D9:6"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000208",
+    "episode_id": "conv-26::session_9::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_9",
+    "observed_at": "2023-07-17T14:31:00",
+    "source_timestamp": "2:31 pm on 17 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline and her mentee",
+    "entity_type": "other",
+    "property": "participation",
+    "value": "attended the LGBT pride event last month",
+    "modality": "observed",
+    "valid_time": "about June 2023",
+    "evidence_turn_ids": [
+      "D9:6"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000209",
+    "episode_id": "conv-26::session_9::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_9",
+    "observed_at": "2023-07-17T14:31:00",
+    "source_timestamp": "2:31 pm on 17 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "young people mentored by Caroline",
+    "entity_type": "other",
+    "property": "characteristic",
+    "value": "resilient and strong",
+    "modality": "observed",
+    "valid_time": "current ongoing as of 17 July 2023",
+    "evidence_turn_ids": [
+      "D9:4"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000210",
+    "episode_id": "conv-26::session_9::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_9",
+    "observed_at": "2023-07-17T14:31:00",
+    "source_timestamp": "2:31 pm on 17 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "experience_at_event",
+    "value": "the pride event was awesome and encouraging due to love and acceptance",
+    "modality": "observed",
+    "valid_time": "around 2:31 pm on 17 July, 2023",
+    "evidence_turn_ids": [
+      "D9:8"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000211",
+    "episode_id": "conv-26::session_9::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_9",
+    "observed_at": "2023-07-17T14:31:00",
+    "source_timestamp": "2:31 pm on 17 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "best_memory",
+    "value": "seeing mentee's face light up when they saw the support",
+    "modality": "observed",
+    "valid_time": "around 2:31 pm on 17 July, 2023",
+    "evidence_turn_ids": [
+      "D9:10"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000212",
+    "episode_id": "conv-26::session_9::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_9",
+    "observed_at": "2023-07-17T14:31:00",
+    "source_timestamp": "2:31 pm on 17 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline's mentee",
+    "entity_type": "person",
+    "property": "reaction_at_pride_event",
+    "value": "face lit up upon seeing support",
+    "modality": "observed",
+    "valid_time": "around 2:31 pm on 17 July, 2023",
+    "evidence_turn_ids": [
+      "D9:10"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000213",
+    "episode_id": "conv-26::session_9::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_9",
+    "observed_at": "2023-07-17T14:31:00",
+    "source_timestamp": "2:31 pm on 17 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "plans",
+    "value": "LGBTQ art show with her paintings next month",
+    "modality": "planned",
+    "valid_time": "next month relative to 2023-07-17",
+    "evidence_turn_ids": [
+      "D9:12"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000214",
+    "episode_id": "conv-26::session_9::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_9",
+    "observed_at": "2023-07-17T14:31:00",
+    "source_timestamp": "2:31 pm on 17 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "painting_preview",
+    "value": "painting of a tree with a bright sun in the background",
+    "modality": "observed",
+    "valid_time": "at or before 2023-07-17",
+    "evidence_turn_ids": [
+      "D9:14"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000215",
+    "episode_id": "conv-26::session_9::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_9",
+    "observed_at": "2023-07-17T14:31:00",
+    "source_timestamp": "2:31 pm on 17 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "painting_inspiration",
+    "value": "visit to an LGBTQ center to capture unity and strength",
+    "modality": "observed",
+    "valid_time": "before 2023-07-17",
+    "evidence_turn_ids": [
+      "D9:16"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000216",
+    "episode_id": "conv-26::session_9::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_9",
+    "observed_at": "2023-07-17T14:31:00",
+    "source_timestamp": "2:31 pm on 17 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "artwork quality",
+    "value": "conveys unity and strength",
+    "modality": "observed",
+    "valid_time": "around 2:31 pm on 17 July, 2023",
+    "evidence_turn_ids": [
+      "D9:17"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000217",
+    "episode_id": "conv-26::session_9::episode-005",
+    "conversation_id": "conv-26",
+    "session_id": "session_9",
+    "observed_at": "2023-07-17T14:31:00",
+    "source_timestamp": "2:31 pm on 17 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie and her kids",
+    "entity_type": "person",
+    "property": "recent activity",
+    "value": "finished another painting similar to their last one",
+    "modality": "observed",
+    "valid_time": "around 2:31 pm on 17 July, 2023",
+    "evidence_turn_ids": [
+      "D9:17"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000218",
+    "episode_id": "conv-26::session_9::episode-005",
+    "conversation_id": "conv-26",
+    "session_id": "session_9",
+    "observed_at": "2023-07-17T14:31:00",
+    "source_timestamp": "2:31 pm on 17 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "joined_group",
+    "value": "new LGBTQ activist group",
+    "modality": "observed",
+    "valid_time": "last Tues (before D10:3)",
+    "evidence_turn_ids": [
+      "D10:3"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000219",
+    "episode_id": "conv-26::session_10::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_10",
+    "observed_at": "2023-07-20T20:56:00",
+    "source_timestamp": "8:56 pm on 20 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "group_name",
+    "value": "Connected LGBTQ Activists",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D10:5"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000220",
+    "episode_id": "conv-26::session_10::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_10",
+    "observed_at": "2023-07-20T20:56:00",
+    "source_timestamp": "8:56 pm on 20 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Connected LGBTQ Activists",
+    "entity_type": "organization",
+    "property": "membership_description",
+    "value": "made of all kinds of people investing in positive changes",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D10:5"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000221",
+    "episode_id": "conv-26::session_10::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_10",
+    "observed_at": "2023-07-20T20:56:00",
+    "source_timestamp": "8:56 pm on 20 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Connected LGBTQ Activists",
+    "entity_type": "organization",
+    "property": "activities",
+    "value": "regular meetings, planning events and campaigns",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D10:5"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000222",
+    "episode_id": "conv-26::session_10::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_10",
+    "observed_at": "2023-07-20T20:56:00",
+    "source_timestamp": "8:56 pm on 20 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "personal_feelings_about_group",
+    "value": "giving voice, making a real difference, fulfilling in many ways",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D10:3"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000223",
+    "episode_id": "conv-26::session_10::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_10",
+    "observed_at": "2023-07-20T20:56:00",
+    "source_timestamp": "8:56 pm on 20 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "City",
+    "entity_type": "place",
+    "property": "pride_parade_event",
+    "value": "held pride parade last weekend before D10:7, many people marched waving flags, holding signs, celebrating love and diversity",
+    "modality": "observed",
+    "valid_time": "last weekend before D10:7",
+    "evidence_turn_ids": [
+      "D10:7"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000224",
+    "episode_id": "conv-26::session_10::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_10",
+    "observed_at": "2023-07-20T20:56:00",
+    "source_timestamp": "8:56 pm on 20 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "participation_in_pride_parade",
+    "value": "missed the pride parade",
+    "modality": "observed",
+    "valid_time": "last weekend before D10:7",
+    "evidence_turn_ids": [
+      "D10:7"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000225",
+    "episode_id": "conv-26::session_10::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_10",
+    "observed_at": "2023-07-20T20:56:00",
+    "source_timestamp": "8:56 pm on 20 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "recent_activity",
+    "value": "went to the beach recently",
+    "modality": "observed",
+    "valid_time": "recently before 8:56 pm on 20 July, 2023",
+    "evidence_turn_ids": [
+      "D10:8"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000226",
+    "episode_id": "conv-26::session_10::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_10",
+    "observed_at": "2023-07-20T20:56:00",
+    "source_timestamp": "8:56 pm on 20 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "children_reaction_at_beach",
+    "value": "kids had such a blast",
+    "modality": "observed",
+    "valid_time": "recently before 8:56 pm on 20 July, 2023",
+    "evidence_turn_ids": [
+      "D10:8"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000227",
+    "episode_id": "conv-26::session_10::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_10",
+    "observed_at": "2023-07-20T20:56:00",
+    "source_timestamp": "8:56 pm on 20 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "beach_visit_frequency",
+    "value": "usually once or twice a year",
+    "modality": "observed",
+    "valid_time": "general",
+    "evidence_turn_ids": [
+      "D10:10"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000228",
+    "episode_id": "conv-26::session_10::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_10",
+    "observed_at": "2023-07-20T20:56:00",
+    "source_timestamp": "8:56 pm on 20 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "best_part_of_beach_visit",
+    "value": "seeing kids' faces happy",
+    "modality": "observed",
+    "valid_time": "during recent beach visit",
+    "evidence_turn_ids": [
+      "D10:10"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000229",
+    "episode_id": "conv-26::session_10::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_10",
+    "observed_at": "2023-07-20T20:56:00",
+    "source_timestamp": "8:56 pm on 20 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie_family",
+    "entity_type": "other",
+    "property": "summer_tradition",
+    "value": "family camping trip",
+    "modality": "observed",
+    "valid_time": "summer season",
+    "evidence_turn_ids": [
+      "D10:12"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000230",
+    "episode_id": "conv-26::session_10::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_10",
+    "observed_at": "2023-07-20T20:56:00",
+    "source_timestamp": "8:56 pm on 20 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie_family_camping_trip",
+    "entity_type": "event",
+    "property": "camping_activities",
+    "value": "roasting marshmallows, telling stories around campfire, enjoying each other's company",
+    "modality": "observed",
+    "valid_time": "summer season",
+    "evidence_turn_ids": [
+      "D10:12"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000231",
+    "episode_id": "conv-26::session_10::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_10",
+    "observed_at": "2023-07-20T20:56:00",
+    "source_timestamp": "8:56 pm on 20 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie_family_camping_trip",
+    "entity_type": "event",
+    "property": "significance",
+    "value": "highlight of our summer",
+    "modality": "observed",
+    "valid_time": "summer season",
+    "evidence_turn_ids": [
+      "D10:12"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000232",
+    "episode_id": "conv-26::session_10::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_10",
+    "observed_at": "2023-07-20T20:56:00",
+    "source_timestamp": "8:56 pm on 20 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "memorable_camping_event",
+    "value": "camping trip last year with the Perseid meteor shower",
+    "modality": "observed",
+    "valid_time": "last year relative to 2023-07-20",
+    "evidence_turn_ids": [
+      "D10:14"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000233",
+    "episode_id": "conv-26::session_10::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_10",
+    "observed_at": "2023-07-20T20:56:00",
+    "source_timestamp": "8:56 pm on 20 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "camping_experience_sky_description",
+    "value": "sky clear and filled with stars with an amazing meteor shower",
+    "modality": "observed",
+    "valid_time": "last year relative to 2023-07-20",
+    "evidence_turn_ids": [
+      "D10:16"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000234",
+    "episode_id": "conv-26::session_10::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_10",
+    "observed_at": "2023-07-20T20:56:00",
+    "source_timestamp": "8:56 pm on 20 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "emotional_reaction",
+    "value": "felt tiny and in awe of the universe during the meteor shower moment",
+    "modality": "observed",
+    "valid_time": "last year relative to 2023-07-20",
+    "evidence_turn_ids": [
+      "D10:18"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000235",
+    "episode_id": "conv-26::session_10::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_10",
+    "observed_at": "2023-07-20T20:56:00",
+    "source_timestamp": "8:56 pm on 20 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "activity",
+    "value": "made wishes during the Perseid meteor shower",
+    "modality": "observed",
+    "valid_time": "last year relative to 2023-07-20",
+    "evidence_turn_ids": [
+      "D10:14"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000236",
+    "episode_id": "conv-26::session_10::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_10",
+    "observed_at": "2023-07-20T20:56:00",
+    "source_timestamp": "8:56 pm on 20 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "youngest_child_first_steps",
+    "value": "youngest child took her first steps, wobbling",
+    "modality": "observed",
+    "valid_time": "unspecified past",
+    "evidence_turn_ids": [
+      "D10:20"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000237",
+    "episode_id": "conv-26::session_10::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_10",
+    "observed_at": "2023-07-20T20:56:00",
+    "source_timestamp": "8:56 pm on 20 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "feeling_about_life",
+    "value": "feels lucky to share special moments with her family",
+    "modality": "observed",
+    "valid_time": "unspecified present",
+    "evidence_turn_ids": [
+      "D10:20",
+      "D10:22",
+      "D10:24"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000238",
+    "episode_id": "conv-26::session_10::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_10",
+    "observed_at": "2023-07-20T20:56:00",
+    "source_timestamp": "8:56 pm on 20 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "family_relationship",
+    "value": "has a loving and joyful family",
+    "modality": "observed",
+    "valid_time": "unspecified present",
+    "evidence_turn_ids": [
+      "D10:22",
+      "D10:24"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000239",
+    "episode_id": "conv-26::session_10::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_10",
+    "observed_at": "2023-07-20T20:56:00",
+    "source_timestamp": "8:56 pm on 20 July, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "celebrated_daughter_birthday",
+    "value": "with a concert surrounded by music, joy and the warm summer breeze",
+    "modality": "observed",
+    "valid_time": "last night before 2:24 pm on 14 August, 2023",
+    "evidence_turn_ids": [
+      "D11:1"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000240",
+    "episode_id": "conv-26::session_11::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_11",
+    "observed_at": "2023-08-14T14:24:00",
+    "source_timestamp": "2:24 pm on 14 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "emotion_towards_kids_smiles",
+    "value": "awesome",
+    "modality": "observed",
+    "valid_time": "last night before 2:24 pm on 14 August, 2023",
+    "evidence_turn_ids": [
+      "D11:1"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000241",
+    "episode_id": "conv-26::session_11::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_11",
+    "observed_at": "2023-08-14T14:24:00",
+    "source_timestamp": "2:24 pm on 14 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "feeling_towards_special_moments_together",
+    "value": "thankful",
+    "modality": "observed",
+    "valid_time": "last night before 2:24 pm on 14 August, 2023",
+    "evidence_turn_ids": [
+      "D11:1"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000242",
+    "episode_id": "conv-26::session_11::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_11",
+    "observed_at": "2023-08-14T14:24:00",
+    "source_timestamp": "2:24 pm on 14 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "concert_artist",
+    "value": "Matt Patterson",
+    "modality": "observed",
+    "valid_time": "last night before 2:24 pm on 14 August, 2023",
+    "evidence_turn_ids": [
+      "D11:3"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000243",
+    "episode_id": "conv-26::session_11::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_11",
+    "observed_at": "2023-08-14T14:24:00",
+    "source_timestamp": "2:24 pm on 14 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Matt Patterson",
+    "entity_type": "person",
+    "property": "talented_status",
+    "value": "so talented",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D11:3"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000244",
+    "episode_id": "conv-26::session_11::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_11",
+    "observed_at": "2023-08-14T14:24:00",
+    "source_timestamp": "2:24 pm on 14 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Matt Patterson",
+    "entity_type": "person",
+    "property": "voice_quality",
+    "value": "amazing",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D11:3"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000245",
+    "episode_id": "conv-26::session_11::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_11",
+    "observed_at": "2023-08-14T14:24:00",
+    "source_timestamp": "2:24 pm on 14 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Matt Patterson",
+    "entity_type": "person",
+    "property": "songs_quality",
+    "value": "amazing",
+    "modality": "observed",
+    "valid_time": "",
+    "evidence_turn_ids": [
+      "D11:3"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000246",
+    "episode_id": "conv-26::session_11::episode-001",
+    "conversation_id": "conv-26",
+    "session_id": "session_11",
+    "observed_at": "2023-08-14T14:24:00",
+    "source_timestamp": "2:24 pm on 14 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "attended_event",
+    "value": "pride parade",
+    "modality": "observed",
+    "valid_time": "last Friday before 2:24 pm on 14 August, 2023",
+    "evidence_turn_ids": [
+      "D11:4"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000247",
+    "episode_id": "conv-26::session_11::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_11",
+    "observed_at": "2023-08-14T14:24:00",
+    "source_timestamp": "2:24 pm on 14 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "experience_at_pride_parade",
+    "value": "inspired by energy and love; felt proud; reminded to stand up for equality; motivated to fight for LGBTQ rights",
+    "modality": "observed",
+    "valid_time": "last Friday before 2:24 pm on 14 August, 2023",
+    "evidence_turn_ids": [
+      "D11:4",
+      "D11:6"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000248",
+    "episode_id": "conv-26::session_11::episode-002",
+    "conversation_id": "conv-26",
+    "session_id": "session_11",
+    "observed_at": "2023-08-14T14:24:00",
+    "source_timestamp": "2:24 pm on 14 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "values_environment",
+    "value": "cultivating a loving and accepting environment for kids",
+    "modality": "observed",
+    "valid_time": "around 14 August, 2023",
+    "evidence_turn_ids": [
+      "D11:7"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000249",
+    "episode_id": "conv-26::session_11::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_11",
+    "observed_at": "2023-08-14T14:24:00",
+    "source_timestamp": "2:24 pm on 14 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "artistic_values",
+    "value": "representing inclusivity and diversity",
+    "modality": "observed",
+    "valid_time": "around 14 August, 2023",
+    "evidence_turn_ids": [
+      "D11:8"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000250",
+    "episode_id": "conv-26::session_11::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_11",
+    "observed_at": "2023-08-14T14:24:00",
+    "source_timestamp": "2:24 pm on 14 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "advocacy_focus",
+    "value": "speaking up for the LGBTQ+ community and pushing for acceptance",
+    "modality": "observed",
+    "valid_time": "around 14 August, 2023",
+    "evidence_turn_ids": [
+      "D11:8"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000251",
+    "episode_id": "conv-26::session_11::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_11",
+    "observed_at": "2023-08-14T14:24:00",
+    "source_timestamp": "2:24 pm on 14 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "recent_artwork",
+    "value": "a recent painting with vibrant colors representing diversity",
+    "modality": "observed",
+    "valid_time": "around 14 August, 2023",
+    "evidence_turn_ids": [
+      "D11:8"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000252",
+    "episode_id": "conv-26::session_11::episode-003",
+    "conversation_id": "conv-26",
+    "session_id": "session_11",
+    "observed_at": "2023-08-14T14:24:00",
+    "source_timestamp": "2:24 pm on 14 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline's art",
+    "entity_type": "other",
+    "property": "main_idea",
+    "value": "expressing Caroline's trans experience and helping people understand the trans community",
+    "modality": "observed",
+    "valid_time": "at or before 2:24 pm on 14 August, 2023",
+    "evidence_turn_ids": [
+      "D11:10"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000253",
+    "episode_id": "conv-26::session_11::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_11",
+    "observed_at": "2023-08-14T14:24:00",
+    "source_timestamp": "2:24 pm on 14 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "painting 'Embracing Identity'",
+    "entity_type": "object",
+    "property": "theme",
+    "value": "finding comfort and love in being yourself",
+    "modality": "observed",
+    "valid_time": "at or before 2:24 pm on 14 August, 2023",
+    "evidence_turn_ids": [
+      "D11:12"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000254",
+    "episode_id": "conv-26::session_11::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_11",
+    "observed_at": "2023-08-14T14:24:00",
+    "source_timestamp": "2:24 pm on 14 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "painting 'Embracing Identity'",
+    "entity_type": "object",
+    "property": "symbolism",
+    "value": "the woman in the painting stands for the journey of acceptance",
+    "modality": "observed",
+    "valid_time": "at or before 2:24 pm on 14 August, 2023",
+    "evidence_turn_ids": [
+      "D11:12"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000255",
+    "episode_id": "conv-26::session_11::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_11",
+    "observed_at": "2023-08-14T14:24:00",
+    "source_timestamp": "2:24 pm on 14 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "painting 'Embracing Identity'",
+    "entity_type": "object",
+    "property": "artistic_aim",
+    "value": "to show warmth, love and self-acceptance",
+    "modality": "observed",
+    "valid_time": "at or before 2:24 pm on 14 August, 2023",
+    "evidence_turn_ids": [
+      "D11:12"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000256",
+    "episode_id": "conv-26::session_11::episode-004",
+    "conversation_id": "conv-26",
+    "session_id": "session_11",
+    "observed_at": "2023-08-14T14:24:00",
+    "source_timestamp": "2:24 pm on 14 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "art_function",
+    "value": "helps explore transition and changing body",
+    "modality": "observed",
+    "valid_time": "current",
+    "evidence_turn_ids": [
+      "D11:14"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000257",
+    "episode_id": "conv-26::session_11::episode-005",
+    "conversation_id": "conv-26",
+    "session_id": "session_11",
+    "observed_at": "2023-08-14T14:24:00",
+    "source_timestamp": "2:24 pm on 14 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "art_function",
+    "value": "a way to work through current experiences",
+    "modality": "observed",
+    "valid_time": "current",
+    "evidence_turn_ids": [
+      "D11:14"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000258",
+    "episode_id": "conv-26::session_11::episode-005",
+    "conversation_id": "conv-26",
+    "session_id": "session_11",
+    "observed_at": "2023-08-14T14:24:00",
+    "source_timestamp": "2:24 pm on 14 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "lesson_from_art",
+    "value": "acceptance of the beauty of imperfections",
+    "modality": "observed",
+    "valid_time": "current",
+    "evidence_turn_ids": [
+      "D11:14"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000259",
+    "episode_id": "conv-26::session_11::episode-005",
+    "conversation_id": "conv-26",
+    "session_id": "session_11",
+    "observed_at": "2023-08-14T14:24:00",
+    "source_timestamp": "2:24 pm on 14 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "attitude_about_art",
+    "value": "art is healing and a way to connect with self",
+    "modality": "observed",
+    "valid_time": "current",
+    "evidence_turn_ids": [
+      "D11:15"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000260",
+    "episode_id": "conv-26::session_11::episode-005",
+    "conversation_id": "conv-26",
+    "session_id": "session_11",
+    "observed_at": "2023-08-14T14:24:00",
+    "source_timestamp": "2:24 pm on 14 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "attitude_about_imperfection",
+    "value": "beauty can be found in imperfections; individuals are wonderfully imperfect",
+    "modality": "observed",
+    "valid_time": "current",
+    "evidence_turn_ids": [
+      "D11:15"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000261",
+    "episode_id": "conv-26::session_11::episode-005",
+    "conversation_id": "conv-26",
+    "session_id": "session_11",
+    "observed_at": "2023-08-14T14:24:00",
+    "source_timestamp": "2:24 pm on 14 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Caroline",
+    "entity_type": "person",
+    "property": "emotion_about_sharing_with_Melanie",
+    "value": "sharing means a lot",
+    "modality": "observed",
+    "valid_time": "current",
+    "evidence_turn_ids": [
+      "D11:16"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000262",
+    "episode_id": "conv-26::session_11::episode-005",
+    "conversation_id": "conv-26",
+    "session_id": "session_11",
+    "observed_at": "2023-08-14T14:24:00",
+    "source_timestamp": "2:24 pm on 14 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "sentiment",
+    "value": "positive, friendly",
+    "modality": "observed",
+    "valid_time": "2:24 pm on 14 August, 2023",
+    "evidence_turn_ids": [
+      "D11:17"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000263",
+    "episode_id": "conv-26::session_11::episode-006",
+    "conversation_id": "conv-26",
+    "session_id": "session_11",
+    "observed_at": "2023-08-14T14:24:00",
+    "source_timestamp": "2:24 pm on 14 August, 2023",
+    "timezone_status": "unspecified"
+  },
+  {
+    "entity": "Melanie",
+    "entity_type": "person",
+    "property": "offers_future_contact",
+    "value": "feel free to reach out any time",
+    "modality": "observed",
+    "valid_time": "2:24 pm on 14 August, 2023",
+    "evidence_turn_ids": [
+      "D11:17"
+    ],
+    "record_id": "offline-memory-a5e48166f56e::r000264",
+    "episode_id": "conv-26::session_11::episode-006",
+    "conversation_id": "conv-26",
+    "session_id": "session_11",
+    "observed_at": "2023-08-14T14:24:00",
+    "source_timestamp": "2:24 pm on 14 August, 2023",
+    "timezone_status": "unspecified"
+  }
+]

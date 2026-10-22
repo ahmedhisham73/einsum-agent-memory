@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0013",
+  "category": 2,
+  "question": "How long ago was Caroline's 18th birthday?",
+  "gold_answer": "10 years ago",
+  "status": "scored",
+  "generated_answer": "Caroline's 18th birthday was ten years ago from the reference time of 27 June 2023, when she mentions her hand-painted bowl was a gift for that birthday.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_4::episode-001",
+      "turn_id": "D4:5"
+    }
+  ],
+  "query_elapsed_seconds": 9.865678875,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer accurately states that Caroline's 18th birthday was ten years ago, which aligns with the reference answer."
+}

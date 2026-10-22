@@ -1,0 +1,10 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "poetry reading attended by Caroline",
+      "property": "theme",
+      "search": "search for description or summary of the poetry reading event Caroline attended to identify the subject or main topics covered"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-26::q0052",
+  "category": 1,
+  "question": "What has Melanie painted?",
+  "gold_answer": "Horse, sunset, sunrise",
+  "status": "failed",
+  "error": "Query failed. See q0052.log"
+}

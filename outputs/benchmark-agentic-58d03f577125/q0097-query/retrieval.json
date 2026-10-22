@@ -1,0 +1,21 @@
+[
+  {
+    "query": "Caroline counseling mental health services interest",
+    "returned_chunk_ids": [
+      "conv-26::session_1::chunk-0010",
+      "conv-26::session_2::chunk-0000",
+      "conv-26::session_4::chunk-0010",
+      "conv-26::session_7::chunk-0000",
+      "conv-26::session_7::chunk-0025",
+      "conv-26::session_9::chunk-0000"
+    ],
+    "cumulative_chunk_ids": [
+      "conv-26::session_1::chunk-0010",
+      "conv-26::session_2::chunk-0000",
+      "conv-26::session_4::chunk-0010",
+      "conv-26::session_7::chunk-0000",
+      "conv-26::session_7::chunk-0025",
+      "conv-26::session_9::chunk-0000"
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "scope": "point",
+  "requirements": [
+    {
+      "entity": "Melanie's hand-painted bowl",
+      "property": "artwork_reminder",
+      "search": "Melanie's hand-painted bowl reminder"
+    }
+  ]
+}

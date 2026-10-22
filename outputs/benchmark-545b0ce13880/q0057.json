@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-26::q0057",
+  "category": 1,
+  "question": "What symbols are important to Caroline?",
+  "gold_answer": "Rainbow flag, transgender symbol",
+  "status": "failed",
+  "error": "Query failed. See q0057.log"
+}

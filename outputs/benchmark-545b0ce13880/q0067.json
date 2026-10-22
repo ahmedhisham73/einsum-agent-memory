@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-26::q0067",
+  "category": 1,
+  "question": "What does Melanie do with her family on hikes?",
+  "gold_answer": "Roast marshmallows, tell stories",
+  "status": "failed",
+  "error": "Query failed. See q0067.log"
+}

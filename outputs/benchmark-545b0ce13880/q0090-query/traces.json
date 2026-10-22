@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "0be9f0a2-f406-4da5-93b5-bdd855877e85",
+    "response": {
+      "id": "chatcmpl-EZizYb9CypKwFyNI0huwTVtTqdjar",
+      "object": "chat.completion",
+      "created": 1792183136,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Melanie\",\"property\":\"attitude_about_Caroline_adoption_decision\",\"search\":\"standalone evidence search\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2682,
+        "completion_tokens": 34,
+        "total_tokens": 2716,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_5002831302"
+    },
+    "latency_seconds": 1.566433042
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "dda3e37e-6bee-41f0-9a06-0578f6bbc92b",
+    "response": {
+      "id": "chatcmpl-EZizaIWeafHRqfJ70muGxbM4znO2P",
+      "object": "chat.completion",
+      "created": 1792183138,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Melanie thinks very positively and supportively about Caroline's decision to adopt. She expresses admiration, encouragement, and confidence that Caroline will be an awesome mom providing love and stability to children in need. Melanie calls Caroline's choice \\\"amazing\\\" and highlights the kindness and inclusivity involved. She also conveys excitement and good wishes for Caroline's adoption journey.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_2::episode-002\",\"turn_id\":\"D2:9\"},{\"episode_id\":\"conv-26::session_2::episode-002\",\"turn_id\":\"D2:15\"},{\"episode_id\":\"conv-26::session_2::episode-002\",\"turn_id\":\"D2:17\"},{\"episode_id\":\"conv-26::session_17::episode-001\",\"turn_id\":\"D17:2\"},{\"episode_id\":\"conv-26::session_19::episode-001\",\"turn_id\":\"D19:2\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3710,
+        "completion_tokens": 198,
+        "total_tokens": 3908,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_38f508f26a"
+    },
+    "latency_seconds": 2.423502375
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "259cb3f5-476e-4ffb-b987-a58d2d1ab0f9",
+    "response": {
+      "id": "chatcmpl-EZj5GyQJsSELfzFzYBAh2qPHwtzps",
+      "object": "chat.completion",
+      "created": 1792183490,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Melanie\",\"property\":\"favorite_childhood_book\",\"search\":\"search for mentions of Melanie's favorite book from childhood\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2681,
+        "completion_tokens": 34,
+        "total_tokens": 2715,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_5002831302"
+    },
+    "latency_seconds": 1.3621184590000002
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "ef4558d3-15a0-46cd-8265-9d4aef667559",
+    "response": {
+      "id": "chatcmpl-EZj5J5PfyT7R5aMHvZndX7r6dMxCH",
+      "object": "chat.completion",
+      "created": 1792183493,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Melanie's favorite book from her childhood was \\\"Charlotte's Web.\\\"\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_6::episode-003\",\"turn_id\":\"D6:10\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3934,
+        "completion_tokens": 51,
+        "total_tokens": 3985,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_38f508f26a"
+    },
+    "latency_seconds": 1.735231416
+  }
+]

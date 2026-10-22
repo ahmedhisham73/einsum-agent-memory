@@ -1,0 +1,8 @@
+{
+  "question_id": "conv-26::q0129",
+  "category": 4,
+  "question": "What did Caroline find in her neighborhood during her walk?",
+  "gold_answer": "a rainbow sidewalk",
+  "status": "failed",
+  "error": "Query failed. See q0129.log"
+}

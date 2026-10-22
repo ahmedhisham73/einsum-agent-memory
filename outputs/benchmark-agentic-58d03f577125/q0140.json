@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0140",
+  "category": 4,
+  "question": "What was the poetry reading that Caroline attended about?",
+  "gold_answer": "It was a transgender poetry reading where transgender people shared their stories.",
+  "status": "scored",
+  "generated_answer": "The poetry reading that Caroline attended was a transgender poetry reading where transgender people shared their stories through poetry. It was a safe place for self-expression and was empowering, with posters showing pride and strength, inspiring Caroline to create art.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_17::chunk-0015",
+      "turn_id": "D17:19"
+    }
+  ],
+  "query_elapsed_seconds": 5.007289167,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer accurately describes the nature of the poetry reading and includes relevant details about self-expression and empowerment, which align with the reference answer."
+}

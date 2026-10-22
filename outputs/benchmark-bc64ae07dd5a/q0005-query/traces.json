@@ -1,0 +1,84 @@
+[
+  {
+    "stage": "requirement_planning",
+    "call_id": "dc5e1210-9654-4cd2-99f1-9845ba6bae68",
+    "response": {
+      "id": "chatcmpl-EZiGb8SY8UmNGGOK8qANsir2wkZFy",
+      "object": "chat.completion",
+      "created": 1792180349,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"scope\":\"point\",\"requirements\":[{\"entity\":\"Caroline\",\"property\":\"gender_identity_path\",\"search\":\"standalone evidence search\"},{\"entity\":\"Caroline\",\"property\":\"status\",\"search\":\"standalone evidence search\"},{\"entity\":\"Caroline\",\"property\":\"values\",\"search\":\"standalone evidence search\"},{\"entity\":\"Caroline\",\"property\":\"belief\",\"search\":\"standalone evidence search\"},{\"entity\":\"Caroline\",\"property\":\"attitude\",\"search\":\"standalone evidence search\"},{\"entity\":\"Caroline\",\"property\":\"personal_quality\",\"search\":\"standalone evidence search\"},{\"entity\":\"Caroline\",\"property\":\"achieved_self_acceptance\",\"search\":\"standalone evidence search\"},{\"entity\":\"Caroline\",\"property\":\"characteristic\",\"search\":\"standalone evidence search\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2677,
+        "completion_tokens": 146,
+        "total_tokens": 2823,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_5002831302"
+    },
+    "latency_seconds": 2.344849083
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "8a6e9e25-9fc8-4b4f-a2c1-312e4c629560",
+    "response": {
+      "id": "chatcmpl-EZiGeJrDNDlZoEcZzNoGyr2RIs0Q1",
+      "object": "chat.completion",
+      "created": 1792180352,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Caroline is a trans woman who has achieved self-acceptance and is proud of her authentic self. She values love, support, community, and creating a family through adoption, specifically aiming to provide a safe and loving home to children in need. She is kind, caring, resilient, and motivated by a belief in inclusivity and helping others, especially young people facing challenges similar to those she overcame. Caroline is single but actively pursuing adoption with supportive friends and mentors, mentoring youth including a transgender teen, and engaging in volunteering and creative activities like painting to express her identity and values. Her attitude is hopeful, optimistic, and dedicated to making a positive difference in others’ lives.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_16::episode-005\",\"turn_id\":\"D16:13\"},{\"episode_id\":\"conv-26::session_2::episode-002\",\"turn_id\":\"D2:12\"},{\"episode_id\":\"conv-26::session_19::episode-001\",\"turn_id\":\"D19:3\"},{\"episode_id\":\"conv-26::session_19::episode-003\",\"turn_id\":\"D19:7\"},{\"episode_id\":\"conv-26::session_9::episode-002\",\"turn_id\":\"D9:6\"},{\"episode_id\":\"conv-26::session_15::episode-002\",\"turn_id\":\"D15:9\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 6462,
+        "completion_tokens": 287,
+        "total_tokens": 6749,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_38f508f26a"
+    },
+    "latency_seconds": 3.4980782909999997
+  }
+]

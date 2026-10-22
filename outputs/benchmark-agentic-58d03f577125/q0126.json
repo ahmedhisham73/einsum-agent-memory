@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0126",
+  "category": 4,
+  "question": "Where did Oliver hide his bone once?",
+  "gold_answer": "In Melanie's slipper",
+  "status": "scored",
+  "generated_answer": "Oliver hid his bone in Melanie's slipper once.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_13::chunk-0000",
+      "turn_id": "D13:6"
+    }
+  ],
+  "query_elapsed_seconds": 3.6585008749999997,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer accurately states the location where Oliver hid his bone, matching the reference answer."
+}

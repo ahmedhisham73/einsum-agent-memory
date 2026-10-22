@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0018",
+  "category": 2,
+  "question": "When is Caroline going to the transgender conference?",
+  "gold_answer": "July 2023",
+  "status": "scored",
+  "generated_answer": "Caroline is going to the transgender conference in July 2023.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_5::episode-003",
+      "turn_id": "D5:13"
+    }
+  ],
+  "query_elapsed_seconds": 3.9723398750000003,
+  "label": "CORRECT",
+  "judge_reason": "The generated answer correctly states the date of the conference as July 2023, matching the reference answer."
+}

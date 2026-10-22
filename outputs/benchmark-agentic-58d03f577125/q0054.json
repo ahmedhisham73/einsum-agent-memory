@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0054",
+  "category": 2,
+  "question": "When did Caroline apply to adoption agencies?",
+  "gold_answer": "The week of 23 August 2023",
+  "status": "scored",
+  "generated_answer": "Caroline applied to adoption agencies in the week before 23 August 2023.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_13::chunk-0000",
+      "turn_id": "D13:1"
+    }
+  ],
+  "query_elapsed_seconds": 5.103191,
+  "label": "WRONG",
+  "judge_reason": "The generated answer states that Caroline applied in the week before 23 August 2023, which contradicts the reference answer that specifies the week of 23 August 2023."
+}

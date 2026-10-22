@@ -1,0 +1,17 @@
+{
+  "question_id": "conv-26::q0133",
+  "category": 4,
+  "question": "How long has Melanie been creating art?",
+  "gold_answer": "7 years",
+  "status": "scored",
+  "generated_answer": "Melanie has been creating art for seven years.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_16::chunk-0005",
+      "turn_id": "D16:8"
+    }
+  ],
+  "query_elapsed_seconds": 5.4635615,
+  "label": "CORRECT",
+  "judge_reason": "Both answers indicate that Melanie has been creating art for 7 years."
+}

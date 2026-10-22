@@ -1,0 +1,125 @@
+[
+  {
+    "stage": "agent_decision",
+    "call_id": "0e1e8b4f-5679-4cfe-abaf-ad03861ebfbd",
+    "response": {
+      "id": "chatcmpl-EZrHF0veh4x3kwfXg2p7JKxAoV7bD",
+      "object": "chat.completion",
+      "created": 1792214985,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"search\",\"query\":\"song that motivates Caroline to be courageous\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 149,
+        "completion_tokens": 15,
+        "total_tokens": 164,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f810e81ea"
+    },
+    "latency_seconds": 0.826985375
+  },
+  {
+    "stage": "agent_decision",
+    "call_id": "1a77054a-c3a0-4e1e-8bdf-9115a30ae519",
+    "response": {
+      "id": "chatcmpl-EZrHGZBFXHbIyPbGzJjitYWkkYC55",
+      "object": "chat.completion",
+      "created": 1792214986,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"ready\",\"reason\":\"In turn D15:23, Caroline explicitly states that the song 'Brave' by Sara Bareilles motivates her to be courageous, linking the song to courage and fighting for what's right.\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3175,
+        "completion_tokens": 46,
+        "total_tokens": 3221,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f810e81ea"
+    },
+    "latency_seconds": 1.1320667919999998
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "3c23ac9b-c23e-4749-a259-d55b03653839",
+    "response": {
+      "id": "chatcmpl-EZrHIIzuytRLQvhBwTdzvIT7vTaBt",
+      "object": "chat.completion",
+      "created": 1792214988,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"The song \\\"Brave\\\" by Sara Bareilles motivates Caroline to be courageous.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_15::chunk-0005\",\"turn_id\":\"D15:23\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3158,
+        "completion_tokens": 53,
+        "total_tokens": 3211,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_802f1283f8"
+    },
+    "latency_seconds": 1.5922820000000004
+  }
+]

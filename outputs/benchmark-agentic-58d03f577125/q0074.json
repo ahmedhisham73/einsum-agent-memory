@@ -1,0 +1,21 @@
+{
+  "question_id": "conv-26::q0074",
+  "category": 2,
+  "question": "When did Melanie get hurt?",
+  "gold_answer": "September 2023",
+  "status": "scored",
+  "generated_answer": "There is no information in the provided conversations that Melanie got hurt. The only accident mentioned was Melanie's son getting into an accident, but Melanie herself was not hurt.",
+  "citations": [
+    {
+      "episode_id": "conv-26::session_18::chunk-0000",
+      "turn_id": "D18:1"
+    },
+    {
+      "episode_id": "conv-26::session_18::chunk-0000",
+      "turn_id": "D18:3"
+    }
+  ],
+  "query_elapsed_seconds": 5.384984083,
+  "label": "WRONG",
+  "judge_reason": "The generated answer does not provide the correct date when Melanie got hurt, as it contradicts the reference answer."
+}

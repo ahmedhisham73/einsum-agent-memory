@@ -1,0 +1,125 @@
+[
+  {
+    "stage": "agent_decision",
+    "call_id": "63d3a4ba-775a-439b-a3bf-0dc3b2768983",
+    "response": {
+      "id": "chatcmpl-EZqIQy54MRBs9F1wLEsBMFXEA8FQ0",
+      "object": "chat.completion",
+      "created": 1792211214,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"search\",\"query\":\"Caroline picnic\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 148,
+        "completion_tokens": 11,
+        "total_tokens": 159,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f810e81ea"
+    },
+    "latency_seconds": 1.2958346250000001
+  },
+  {
+    "stage": "agent_decision",
+    "call_id": "ab14f339-62a8-4814-bd3c-a2849f2de37b",
+    "response": {
+      "id": "chatcmpl-EZqISL8F5LE7VEfsnQ6mIt1he2Qsh",
+      "object": "chat.completion",
+      "created": 1792211216,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"ready\",\"reason\":\"The conversation mentions a family picnic in the turns from session 3 but doesn't specify Caroline having a picnic herself. There is no explicit mention of Caroline having a picnic on a specific date or event in other chunks either.\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2559,
+        "completion_tokens": 51,
+        "total_tokens": 2610,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_3f810e81ea"
+    },
+    "latency_seconds": 1.3269384580000003
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "1a8eb692-e73b-4b02-9947-d1509013f217",
+    "response": {
+      "id": "chatcmpl-EZqITiAg4YvKlQx1nnVK8JA7V1sz0",
+      "object": "chat.completion",
+      "created": 1792211217,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"Caroline did not mention having a picnic herself; however, there is a family picnic discussed by Melanie and Caroline in the conversation on 9 June 2023 (session_3, chunk-0015). The picnic was described by Melanie as a fun day playing games, eating good food, and hanging out together.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_3::chunk-0015\",\"turn_id\":\"D3:18\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2545,
+        "completion_tokens": 101,
+        "total_tokens": 2646,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_802f1283f8"
+    },
+    "latency_seconds": 1.6342621669999997
+  }
+]

@@ -1,0 +1,125 @@
+[
+  {
+    "stage": "agent_decision",
+    "call_id": "2b6fb9a4-3db1-45f1-a4a4-3b7c418a3895",
+    "response": {
+      "id": "chatcmpl-EZiUQeHSwS9X2Qo979ehMrDXwSsWv",
+      "object": "chat.completion",
+      "created": 1792181206,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"search\",\"query\":\"charity race awareness\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 150,
+        "completion_tokens": 12,
+        "total_tokens": 162,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_d81cb94320"
+    },
+    "latency_seconds": 1.652025042
+  },
+  {
+    "stage": "agent_decision",
+    "call_id": "0f538111-81e1-4e7a-8f91-fe3b43a7b944",
+    "response": {
+      "id": "chatcmpl-EZiUSvtbPZJSixlbhWLXwpl6dITyg",
+      "object": "chat.completion",
+      "created": 1792181208,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"action\":\"ready\",\"reason\":\"In chunk D2:1, Melanie mentions she ran a charity race for mental health last Saturday, indicating the charity race raised awareness for mental health.\"}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3490,
+        "completion_tokens": 38,
+        "total_tokens": 3528,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_d81cb94320"
+    },
+    "latency_seconds": 1.4202667500000001
+  },
+  {
+    "stage": "grounded_answer",
+    "call_id": "09927c2f-5edb-467d-97d8-babd8eb6a66e",
+    "response": {
+      "id": "chatcmpl-EZiUT9z3cMnqxDCxG5k9RkRh9FnSI",
+      "object": "chat.completion",
+      "created": 1792181209,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\"answer\":\"The charity race raised awareness for mental health.\",\"sufficient\":true,\"citations\":[{\"episode_id\":\"conv-26::session_2::chunk-0000\",\"turn_id\":\"D2:1\"}]}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3304,
+        "completion_tokens": 46,
+        "total_tokens": 3350,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_38f508f26a"
+    },
+    "latency_seconds": 1.590887167
+  }
+]

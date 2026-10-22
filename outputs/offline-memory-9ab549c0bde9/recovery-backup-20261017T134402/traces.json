@@ -1,0 +1,2480 @@
+[
+  {
+    "source_id": "session_1",
+    "stage": "episode_partitioning",
+    "call_id": "127b789e-e837-4e28-9057-3de1fc5dfa93",
+    "latency_seconds": 3.181625875,
+    "response": {
+      "id": "chatcmpl-EZsRdNHGSTzepGbHJGJffSGcZQFuL",
+      "object": "chat.completion",
+      "created": 1792219473,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D1:1\",\n      \"end_turn_id\": \"D1:3\",\n      \"theme\": \"Catch-up and updates on new job and dog collars\"\n    },\n    {\n      \"start_turn_id\": \"D1:4\",\n      \"end_turn_id\": \"D1:11\",\n      \"theme\": \"Discussion about Audrey's dogs and their adventures\"\n    },\n    {\n      \"start_turn_id\": \"D1:12\",\n      \"end_turn_id\": \"D1:18\",\n      \"theme\": \"Conversation about pets, favorite animals, and birds\"\n    },\n    {\n      \"start_turn_id\": \"D1:19\",\n      \"end_turn_id\": \"D1:22\",\n      \"theme\": \"Talking about hiking trails and spotting birds\"\n    },\n    {\n      \"start_turn_id\": \"D1:23\",\n      \"end_turn_id\": \"D1:24\",\n      \"theme\": \"Farewell and well wishes\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1478,
+        "completion_tokens": 218,
+        "total_tokens": 1696,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_2",
+    "stage": "episode_partitioning",
+    "call_id": "3deb2c9d-86a7-461a-9d0c-edd2da1e50d1",
+    "latency_seconds": 2.3589731669999994,
+    "response": {
+      "id": "chatcmpl-EZsRf2cVWkEK6SQJJD2PL4zitjgyH",
+      "object": "chat.completion",
+      "created": 1792219475,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D2:1\",\n      \"end_turn_id\": \"D2:7\",\n      \"theme\": \"Introducing new puppy Pixie and her adjustment with other dogs\"\n    },\n    {\n      \"start_turn_id\": \"D2:8\",\n      \"end_turn_id\": \"D2:13\",\n      \"theme\": \"Discussing finding dog-friendly housing and tips\"\n    },\n    {\n      \"start_turn_id\": \"D2:14\",\n      \"end_turn_id\": \"D2:17\",\n      \"theme\": \"Enjoying cuddles and companionship with dogs\"\n    },\n    {\n      \"start_turn_id\": \"D2:18\",\n      \"end_turn_id\": \"D2:25\",\n      \"theme\": \"Sharing memories and excitement about hiking and exploring with dogs\"\n    },\n    {\n      \"start_turn_id\": \"D2:26\",\n      \"end_turn_id\": \"D2:26\",\n      \"theme\": \"Closing remarks and farewell\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2060,
+        "completion_tokens": 220,
+        "total_tokens": 2280,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_3",
+    "stage": "episode_partitioning",
+    "call_id": "bf7314ad-8b99-4fce-8ad2-047f9fc7a59f",
+    "latency_seconds": 2.776678917,
+    "response": {
+      "id": "chatcmpl-EZsRiFFkkzOgEiQ9K3W7nAhjLPO7D",
+      "object": "chat.completion",
+      "created": 1792219478,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D3:1\",\n      \"end_turn_id\": \"D3:5\",\n      \"theme\": \"Andrew and Audrey discuss the value of being in nature\"\n    },\n    {\n      \"start_turn_id\": \"D3:6\",\n      \"end_turn_id\": \"D3:10\",\n      \"theme\": \"City living challenges and finding nature in everyday life\"\n    },\n    {\n      \"start_turn_id\": \"D3:11\",\n      \"end_turn_id\": \"D3:17\",\n      \"theme\": \"Exploring new cafes and pastries in the city\"\n    },\n    {\n      \"start_turn_id\": \"D3:18\",\n      \"end_turn_id\": \"D3:23\",\n      \"theme\": \"Planning a pastry party including Audrey's dogs\"\n    },\n    {\n      \"start_turn_id\": \"D3:24\",\n      \"end_turn_id\": \"D3:31\",\n      \"theme\": \"Audrey shares her love for her dogs and a meaningful tattoo\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2176,
+        "completion_tokens": 227,
+        "total_tokens": 2403,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_4",
+    "stage": "episode_partitioning",
+    "call_id": "6d70d0a8-58ce-478f-b436-c10cea3837f2",
+    "latency_seconds": 2.286140915999999,
+    "response": {
+      "id": "chatcmpl-EZsRl6UWyhx7ayGak62bDsY938MHc",
+      "object": "chat.completion",
+      "created": 1792219481,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D4:1\",\n      \"end_turn_id\": \"D4:14\",\n      \"theme\": \"Hiking and the calming benefits of nature\"\n    },\n    {\n      \"start_turn_id\": \"D4:15\",\n      \"end_turn_id\": \"D4:29\",\n      \"theme\": \"Pet care and activities with dogs including safety and playdates\"\n    },\n    {\n      \"start_turn_id\": \"D4:30\",\n      \"end_turn_id\": \"D4:30\",\n      \"theme\": \"Closing remarks and friendly goodbyes\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2436,
+        "completion_tokens": 137,
+        "total_tokens": 2573,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_5",
+    "stage": "episode_partitioning",
+    "call_id": "67ebbe3d-1809-4c7c-aa24-5044382d967a",
+    "latency_seconds": 1.963747584,
+    "response": {
+      "id": "chatcmpl-EZsRnCw11esr5ZTPo4AunkQpg0CjY",
+      "object": "chat.completion",
+      "created": 1792219483,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D5:1\",\n      \"end_turn_id\": \"D5:7\",\n      \"theme\": \"Andrew's dog adoption search and housing considerations\"\n    },\n    {\n      \"start_turn_id\": \"D5:8\",\n      \"end_turn_id\": \"D5:13\",\n      \"theme\": \"Audrey's experiences with dogs and road trips\"\n    },\n    {\n      \"start_turn_id\": \"D5:14\",\n      \"end_turn_id\": \"D5:22\",\n      \"theme\": \"Well wishes and ongoing support for Andrew's dog adoption journey\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1540,
+        "completion_tokens": 139,
+        "total_tokens": 1679,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_6",
+    "stage": "episode_partitioning",
+    "call_id": "44c91363-1c83-4d51-ba42-e35205ca51d9",
+    "latency_seconds": 2.082603291,
+    "response": {
+      "id": "chatcmpl-EZsRpJ6tL8n55xpN9r7JAADBwSrIq",
+      "object": "chat.completion",
+      "created": 1792219485,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D6:1\",\n      \"end_turn_id\": \"D6:2\",\n      \"theme\": \"Casual greetings and personal updates about recent activities\"\n    },\n    {\n      \"start_turn_id\": \"D6:3\",\n      \"end_turn_id\": \"D6:4\",\n      \"theme\": \"Discussion about a pet training workshop and how Audrey learned about it\"\n    },\n    {\n      \"start_turn_id\": \"D6:5\",\n      \"end_turn_id\": \"D6:8\",\n      \"theme\": \"Expectations and plans for the dog training workshop and bonding with pets\"\n    },\n    {\n      \"start_turn_id\": \"D6:9\",\n      \"end_turn_id\": \"D6:16\",\n      \"theme\": \"Support, views on positive reinforcement training, and closing conversation\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1351,
+        "completion_tokens": 190,
+        "total_tokens": 1541,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_7",
+    "stage": "episode_partitioning",
+    "call_id": "67221f43-192a-4339-b8fd-fbb056811901",
+    "latency_seconds": 2.3289174999999993,
+    "response": {
+      "id": "chatcmpl-EZsRrL0g6VKHsOA08XQp0mMuExlC8",
+      "object": "chat.completion",
+      "created": 1792219487,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D7:1\",\n      \"end_turn_id\": \"D7:3\",\n      \"theme\": \"Sharing joyful experiences with dogs and nature\"\n    },\n    {\n      \"start_turn_id\": \"D7:4\",\n      \"end_turn_id\": \"D7:6\",\n      \"theme\": \"Sharing and appreciating photos of nature and pets\"\n    },\n    {\n      \"start_turn_id\": \"D7:7\",\n      \"end_turn_id\": \"D7:13\",\n      \"theme\": \"Discussion about finding a pet-friendly home and supporting each other\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1125,
+        "completion_tokens": 137,
+        "total_tokens": 1262,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_8",
+    "stage": "episode_partitioning",
+    "call_id": "81749e70-e625-4cdf-8c81-20cf6518cb8a",
+    "latency_seconds": 2.626918542000002,
+    "response": {
+      "id": "chatcmpl-EZsRuCcVVaC3pYcvgvm8mFNPbPPc4",
+      "object": "chat.completion",
+      "created": 1792219490,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D8:1\",\n      \"end_turn_id\": \"D8:7\",\n      \"theme\": \"Andrew's rock climbing experience and enthusiasm for outdoor activities\"\n    },\n    {\n      \"start_turn_id\": \"D8:8\",\n      \"end_turn_id\": \"D8:11\",\n      \"theme\": \"Audrey invites Andrew to join her dogs' walk in the park\"\n    },\n    {\n      \"start_turn_id\": \"D8:12\",\n      \"end_turn_id\": \"D8:23\",\n      \"theme\": \"Discussion about Audrey's dogs enjoying outdoor walks and nature\"\n    },\n    {\n      \"start_turn_id\": \"D8:24\",\n      \"end_turn_id\": \"D8:28\",\n      \"theme\": \"Reflections on the joy and peace nature brings\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1985,
+        "completion_tokens": 187,
+        "total_tokens": 2172,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_9",
+    "stage": "episode_partitioning",
+    "call_id": "5fa0fccc-c680-49cf-9f04-ab175678a17a",
+    "latency_seconds": 1.9399819160000007,
+    "response": {
+      "id": "chatcmpl-EZsRwdvxvtEyuIlLo8H3e12Anscv7",
+      "object": "chat.completion",
+      "created": 1792219492,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D9:1\",\n      \"end_turn_id\": \"D9:15\",\n      \"theme\": \"Discussion about new house and pets, focusing on dogs and pet-friendly places\"\n    },\n    {\n      \"start_turn_id\": \"D9:16\",\n      \"end_turn_id\": \"D9:27\",\n      \"theme\": \"Sharing updates about personal activities, nature, hiking, and appreciation of peaceful moments\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2042,
+        "completion_tokens": 106,
+        "total_tokens": 2148,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_10",
+    "stage": "episode_partitioning",
+    "call_id": "a083b247-7573-4a4d-aa50-6bdb88c11aad",
+    "latency_seconds": 1.6394678749999976,
+    "response": {
+      "id": "chatcmpl-EZsRycNtODJ8SJCoXExlvwDqB8Sw3",
+      "object": "chat.completion",
+      "created": 1792219494,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D10:1\",\n      \"end_turn_id\": \"D10:11\",\n      \"theme\": \"Catching up and discussing dog training and pet-friendly activities\"\n    },\n    {\n      \"start_turn_id\": \"D10:12\",\n      \"end_turn_id\": \"D10:29\",\n      \"theme\": \"Exploring new hobbies with focus on cooking and recipe sharing\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2375,
+        "completion_tokens": 99,
+        "total_tokens": 2474,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_11",
+    "stage": "episode_partitioning",
+    "call_id": "0b5dce9d-c081-45f4-8a99-c330665bd3f7",
+    "latency_seconds": 1.8472105419999991,
+    "response": {
+      "id": "chatcmpl-EZsRzhLD4HJSwrST8xWpLBrqrnRCb",
+      "object": "chat.completion",
+      "created": 1792219495,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D11:1\",\n      \"end_turn_id\": \"D11:13\",\n      \"theme\": \"Discussion about picnics, dogs, and planning a dog-friendly hike\"\n    },\n    {\n      \"start_turn_id\": \"D11:14\",\n      \"end_turn_id\": \"D11:29\",\n      \"theme\": \"Sharing excitement about dogs, their fun activities, and outdoor adventures\"\n    },\n    {\n      \"start_turn_id\": \"D11:30\",\n      \"end_turn_id\": \"D11:38\",\n      \"theme\": \"Admiring nature's beauty through hiking experiences and sunset views\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2745,
+        "completion_tokens": 148,
+        "total_tokens": 2893,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_12",
+    "stage": "episode_partitioning",
+    "call_id": "b1c56040-7278-4c4d-9556-2a510224df3c",
+    "latency_seconds": 2.2531588330000005,
+    "response": {
+      "id": "chatcmpl-EZsS1rCWlYWrsXJUvUvRIemVZx8cU",
+      "object": "chat.completion",
+      "created": 1792219497,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D12:1\",\n      \"end_turn_id\": \"D12:3\",\n      \"theme\": \"Andrew introduces his new puppy and discusses current busy work life\"\n    },\n    {\n      \"start_turn_id\": \"D12:4\",\n      \"end_turn_id\": \"D12:5\",\n      \"theme\": \"Planning a hiking trip together with their dogs to relieve stress\"\n    },\n    {\n      \"start_turn_id\": \"D12:6\",\n      \"end_turn_id\": \"D12:12\",\n      \"theme\": \"Audrey shares personalized dog tags she made and they discuss showing love to their pets\"\n    },\n    {\n      \"start_turn_id\": \"D12:13\",\n      \"end_turn_id\": \"D12:17\",\n      \"theme\": \"Excitement about the upcoming hike and the dogs meeting\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1324,
+        "completion_tokens": 194,
+        "total_tokens": 1518,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_13",
+    "stage": "episode_partitioning",
+    "call_id": "1b3d227b-bd3c-431c-9fe4-d859c715c29f",
+    "latency_seconds": 2.375907667,
+    "response": {
+      "id": "chatcmpl-EZsS4cI3qrhZulKBRt9mAYNkR61ZS",
+      "object": "chat.completion",
+      "created": 1792219500,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D13:1\",\n      \"end_turn_id\": \"D13:3\",\n      \"theme\": \"Andrew shares volunteering experience at pet shelter and discusses its rewarding nature\"\n    },\n    {\n      \"start_turn_id\": \"D13:4\",\n      \"end_turn_id\": \"D13:6\",\n      \"theme\": \"Audrey talks about her four dogs and shares a photo\"\n    },\n    {\n      \"start_turn_id\": \"D13:7\",\n      \"end_turn_id\": \"D13:10\",\n      \"theme\": \"Andrew and Audrey reminisce about Audrey's childhood dog Max and special memories\"\n    },\n    {\n      \"start_turn_id\": \"D13:11\",\n      \"end_turn_id\": \"D13:12\",\n      \"theme\": \"Discussion about the emotional bond and unconditional love pets provide\"\n    },\n    {\n      \"start_turn_id\": \"D13:13\",\n      \"end_turn_id\": \"D13:16\",\n      \"theme\": \"Returning to the topic of volunteering at the pet shelter and mutual appreciation for animals\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1529,
+        "completion_tokens": 241,
+        "total_tokens": 1770,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_14",
+    "stage": "episode_partitioning",
+    "call_id": "637e78b6-0071-4bcf-8d74-bdbdaf65f248",
+    "latency_seconds": 2.8995617080000002,
+    "response": {
+      "id": "chatcmpl-EZsS6dzzFAnnL5CFImHMQOmT3qEg5",
+      "object": "chat.completion",
+      "created": 1792219502,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D14:1\",\n      \"end_turn_id\": \"D14:6\",\n      \"theme\": \"Sharing upcoming and recent outdoor activities including camping and dog agility training\"\n    },\n    {\n      \"start_turn_id\": \"D14:7\",\n      \"end_turn_id\": \"D14:13\",\n      \"theme\": \"Discussing the benefits and experiences of hiking and spending time in nature\"\n    },\n    {\n      \"start_turn_id\": \"D14:14\",\n      \"end_turn_id\": \"D14:17\",\n      \"theme\": \"Reflections on the bond between pets and their owners and its emotional significance\"\n    },\n    {\n      \"start_turn_id\": \"D14:18\",\n      \"end_turn_id\": \"D14:22\",\n      \"theme\": \"Talking about Toby's breed and the suitability of German Shepherds for outdoor activities\"\n    },\n    {\n      \"start_turn_id\": \"D14:23\",\n      \"end_turn_id\": \"D14:26\",\n      \"theme\": \"Advice on caring for a dog in a city environment and managing their needs\"\n    },\n    {\n      \"start_turn_id\": \"D14:27\",\n      \"end_turn_id\": \"D14:27\",\n      \"theme\": \"Signing off with plans to go for a hike with Toby\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2431,
+        "completion_tokens": 292,
+        "total_tokens": 2723,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_15",
+    "stage": "episode_partitioning",
+    "call_id": "4220eabf-2742-44ba-a52d-e16e606a9db2",
+    "latency_seconds": 2.2096627499999997,
+    "response": {
+      "id": "chatcmpl-EZsS9f0lKdghcm84qMvLE4QO5CeAT",
+      "object": "chat.completion",
+      "created": 1792219505,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D15:1\",\n      \"end_turn_id\": \"D15:3\",\n      \"theme\": \"Audrey shares her new tattoo of her four dogs and discusses pet care\"\n    },\n    {\n      \"start_turn_id\": \"D15:4\",\n      \"end_turn_id\": \"D15:7\",\n      \"theme\": \"Conversation about the dogs' favorite relaxing spots with shared photos\"\n    },\n    {\n      \"start_turn_id\": \"D15:8\",\n      \"end_turn_id\": \"D15:13\",\n      \"theme\": \"Talking about the dogs' close bond and the joy they bring\"\n    },\n    {\n      \"start_turn_id\": \"D15:14\",\n      \"end_turn_id\": \"D15:15\",\n      \"theme\": \"Both express pets as family with personal photos\"\n    },\n    {\n      \"start_turn_id\": \"D15:16\",\n      \"end_turn_id\": \"D15:19\",\n      \"theme\": \"Reflections on enjoying time outdoors and cherishing moments with pets\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1700,
+        "completion_tokens": 236,
+        "total_tokens": 1936,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_16",
+    "stage": "episode_partitioning",
+    "call_id": "56ceadc6-0f71-467f-9994-30a790ed13df",
+    "latency_seconds": 1.5465757920000058,
+    "response": {
+      "id": "chatcmpl-EZsSBc9PlTCv11sDazayZpAslJUgj",
+      "object": "chat.completion",
+      "created": 1792219507,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D16:1\",\n      \"end_turn_id\": \"D16:2\",\n      \"theme\": \"Sharing recent experiences: Andrew's hike and Audrey's new skill\"\n    },\n    {\n      \"start_turn_id\": \"D16:3\",\n      \"end_turn_id\": \"D16:10\",\n      \"theme\": \"Discussion about dog grooming and sharing tips\"\n    },\n    {\n      \"start_turn_id\": \"D16:11\",\n      \"end_turn_id\": \"D16:19\",\n      \"theme\": \"Weekend plans and anticipation of sharing photos\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1581,
+        "completion_tokens": 137,
+        "total_tokens": 1718,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_17",
+    "stage": "episode_partitioning",
+    "call_id": "bf1acfb5-6e3b-4ac3-a25c-3931d9787b6a",
+    "latency_seconds": 2.008502583000002,
+    "response": {
+      "id": "chatcmpl-EZsSD9dD8lZXK60XJHDLIRioUXUrN",
+      "object": "chat.completion",
+      "created": 1792219509,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D17:1\",\n      \"end_turn_id\": \"D17:3\",\n      \"theme\": \"Introduction and fishing experience\"\n    },\n    {\n      \"start_turn_id\": \"D17:4\",\n      \"end_turn_id\": \"D17:10\",\n      \"theme\": \"Caring for dogs and forming bonds\"\n    },\n    {\n      \"start_turn_id\": \"D17:11\",\n      \"end_turn_id\": \"D17:17\",\n      \"theme\": \"Bonding with Toby and exchanging pet care tips\"\n    },\n    {\n      \"start_turn_id\": \"D17:18\",\n      \"end_turn_id\": \"D17:21\",\n      \"theme\": \"Expressing affection for Toby and future plans\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1607,
+        "completion_tokens": 173,
+        "total_tokens": 1780,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_18",
+    "stage": "episode_partitioning",
+    "call_id": "a258a2b0-23c4-45fa-8e75-0df1d6c003b0",
+    "latency_seconds": 3.2898395829999956,
+    "response": {
+      "id": "chatcmpl-EZsSFuMdIggd9nXIpeIhSObvonpym",
+      "object": "chat.completion",
+      "created": 1792219511,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D18:1\",\n      \"end_turn_id\": \"D18:5\",\n      \"theme\": \"Discussion on managing work stress and self-care\"\n    },\n    {\n      \"start_turn_id\": \"D18:6\",\n      \"end_turn_id\": \"D18:14\",\n      \"theme\": \"Sharing experiences and pictures related to pets and their comfort\"\n    },\n    {\n      \"start_turn_id\": \"D18:15\",\n      \"end_turn_id\": \"D18:21\",\n      \"theme\": \"Outdoors activities, hiking plans with dog, and finding dog-friendly housing\"\n    },\n    {\n      \"start_turn_id\": \"D18:22\",\n      \"end_turn_id\": \"D18:22\",\n      \"theme\": \"Encouragement and closing remarks\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1701,
+        "completion_tokens": 183,
+        "total_tokens": 1884,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_19",
+    "stage": "episode_partitioning",
+    "call_id": "275d2878-cdbb-4409-8e76-d995f9fe3466",
+    "latency_seconds": 2.0973624169999994,
+    "response": {
+      "id": "chatcmpl-EZsSJoPXmLPc0MX1XjaS1MrdIai6M",
+      "object": "chat.completion",
+      "created": 1792219515,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D19:1\",\n      \"end_turn_id\": \"D19:4\",\n      \"theme\": \"Discussion about dog safety incident and bonding\"\n    },\n    {\n      \"start_turn_id\": \"D19:5\",\n      \"end_turn_id\": \"D19:14\",\n      \"theme\": \"Building a strong relationship and caring for dogs\"\n    },\n    {\n      \"start_turn_id\": \"D19:15\",\n      \"end_turn_id\": \"D19:24\",\n      \"theme\": \"Gardening and how dogs interact with the garden\"\n    },\n    {\n      \"start_turn_id\": \"D19:25\",\n      \"end_turn_id\": \"D19:30\",\n      \"theme\": \"Reflection on pets' importance and joy in life\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 10233,
+        "completion_tokens": 178,
+        "total_tokens": 10411,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_20",
+    "stage": "episode_partitioning",
+    "call_id": "6f9b0dba-f3ad-41cc-8cdc-f1cc964a47b9",
+    "latency_seconds": 2.555160416999996,
+    "response": {
+      "id": "chatcmpl-EZsSLtZLZ5lNHT0PwhnRl3FVvvLZh",
+      "object": "chat.completion",
+      "created": 1792219517,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D20:1\",\n      \"end_turn_id\": \"D20:3\",\n      \"theme\": \"Beach trip plans and upcoming hike\"\n    },\n    {\n      \"start_turn_id\": \"D20:4\",\n      \"end_turn_id\": \"D20:9\",\n      \"theme\": \"Enjoying nature and dog walks\"\n    },\n    {\n      \"start_turn_id\": \"D20:10\",\n      \"end_turn_id\": \"D20:15\",\n      \"theme\": \"Bird watching interest and nature appreciation\"\n    },\n    {\n      \"start_turn_id\": \"D20:16\",\n      \"end_turn_id\": \"D20:21\",\n      \"theme\": \"Bird watching preparation and planning\"\n    },\n    {\n      \"start_turn_id\": \"D20:22\",\n      \"end_turn_id\": \"D20:30\",\n      \"theme\": \"Learning about ecology and nature conservation\"\n    },\n    {\n      \"start_turn_id\": \"D20:31\",\n      \"end_turn_id\": \"D20:40\",\n      \"theme\": \"Environmental actions: recycling, biking, and local routes\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2780,
+        "completion_tokens": 252,
+        "total_tokens": 3032,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_21",
+    "stage": "episode_partitioning",
+    "call_id": "60ee7ce9-34ac-4324-828a-b80693619265",
+    "latency_seconds": 2.132820291999998,
+    "response": {
+      "id": "chatcmpl-EZsSNX7AKDzgMoTjUth6SmDFA4kED",
+      "object": "chat.completion",
+      "created": 1792219519,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D21:1\",\n      \"end_turn_id\": \"D21:4\",\n      \"theme\": \"Reconnecting and sharing recent beach visit with dogs\"\n    },\n    {\n      \"start_turn_id\": \"D21:5\",\n      \"end_turn_id\": \"D21:7\",\n      \"theme\": \"Discussing challenges of missing nature and outdoor activities\"\n    },\n    {\n      \"start_turn_id\": \"D21:8\",\n      \"end_turn_id\": \"D21:11\",\n      \"theme\": \"Finding ways to connect with nature in the city through plants and parks\"\n    },\n    {\n      \"start_turn_id\": \"D21:12\",\n      \"end_turn_id\": \"D21:14\",\n      \"theme\": \"Mutual appreciation and support between friends\"\n    },\n    {\n      \"start_turn_id\": \"D21:15\",\n      \"end_turn_id\": \"D21:18\",\n      \"theme\": \"Closing the conversation with well wishes and goodbyes\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1239,
+        "completion_tokens": 227,
+        "total_tokens": 1466,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_22",
+    "stage": "episode_partitioning",
+    "call_id": "6a4b4c76-2bdd-4e49-b0cf-01dd9beba856",
+    "latency_seconds": 1.5195925410000015,
+    "response": {
+      "id": "chatcmpl-EZsSPyo0zZOgkc9zlDsM4vL8aBFp1",
+      "object": "chat.completion",
+      "created": 1792219521,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D22:1\",\n      \"end_turn_id\": \"D22:3\",\n      \"theme\": \"Sharing experience about reconnecting with nature and dogs\"\n    },\n    {\n      \"start_turn_id\": \"D22:4\",\n      \"end_turn_id\": \"D22:13\",\n      \"theme\": \"Discussion about jewelry making from recycled materials and charitable contributions\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1364,
+        "completion_tokens": 96,
+        "total_tokens": 1460,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_23",
+    "stage": "episode_partitioning",
+    "call_id": "d607af69-9401-426c-9b2a-d6e87481e1cc",
+    "latency_seconds": 2.6900366660000046,
+    "response": {
+      "id": "chatcmpl-EZsSRt8v6AbKpoAXv8AUemI26hZyR",
+      "object": "chat.completion",
+      "created": 1792219523,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D23:1\",\n      \"end_turn_id\": \"D23:3\",\n      \"theme\": \"Weekend plans and board games\"\n    },\n    {\n      \"start_turn_id\": \"D23:4\",\n      \"end_turn_id\": \"D23:7\",\n      \"theme\": \"Recommendations for cozy spots and dog-friendly outings\"\n    },\n    {\n      \"start_turn_id\": \"D23:8\",\n      \"end_turn_id\": \"D23:11\",\n      \"theme\": \"Dog park experiences and funny stories\"\n    },\n    {\n      \"start_turn_id\": \"D23:12\",\n      \"end_turn_id\": \"D23:15\",\n      \"theme\": \"Dog breeds, sweaters, and favorite dog games\"\n    },\n    {\n      \"start_turn_id\": \"D23:16\",\n      \"end_turn_id\": \"D23:20\",\n      \"theme\": \"Emotional bond with dogs and tattoos inspired by them\"\n    },\n    {\n      \"start_turn_id\": \"D23:21\",\n      \"end_turn_id\": \"D23:28\",\n      \"theme\": \"Love for nature, hiking, and outdoor adventures with dogs\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 2646,
+        "completion_tokens": 262,
+        "total_tokens": 2908,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_24",
+    "stage": "episode_partitioning",
+    "call_id": "b4f03f3f-ff97-4085-a2ab-85ee52786181",
+    "latency_seconds": 2.3544799589999954,
+    "response": {
+      "id": "chatcmpl-EZsSUvRpnvPdnEIdRgHEt5kGPM5st",
+      "object": "chat.completion",
+      "created": 1792219526,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D24:1\",\n      \"end_turn_id\": \"D24:2\",\n      \"theme\": \"Sharing recent positive experiences related to dogs and pet joy\"\n    },\n    {\n      \"start_turn_id\": \"D24:3\",\n      \"end_turn_id\": \"D24:6\",\n      \"theme\": \"Discussion about Andrew's new adopted dog Buddy and his adjustment\"\n    },\n    {\n      \"start_turn_id\": \"D24:7\",\n      \"end_turn_id\": \"D24:10\",\n      \"theme\": \"Favorite activities and walks with dogs\"\n    },\n    {\n      \"start_turn_id\": \"D24:11\",\n      \"end_turn_id\": \"D24:14\",\n      \"theme\": \"Planning and excitement for upcoming hike with dogs\"\n    },\n    {\n      \"start_turn_id\": \"D24:15\",\n      \"end_turn_id\": \"D24:22\",\n      \"theme\": \"Discussion about ideal hiking spots and planning a great location\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1633,
+        "completion_tokens": 224,
+        "total_tokens": 1857,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_25",
+    "stage": "episode_partitioning",
+    "call_id": "74ab68a7-90fb-44d8-9d60-b7b8e19f22b7",
+    "latency_seconds": 2.4585255419999967,
+    "response": {
+      "id": "chatcmpl-EZsSW0PVb1zFlDgCa5JGyFRzM2JKK",
+      "object": "chat.completion",
+      "created": 1792219528,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D25:1\",\n      \"end_turn_id\": \"D25:2\",\n      \"theme\": \"Sharing recent personal experiences and activities\"\n    },\n    {\n      \"start_turn_id\": \"D25:3\",\n      \"end_turn_id\": \"D25:4\",\n      \"theme\": \"Discussing trying new foods and recovery\"\n    },\n    {\n      \"start_turn_id\": \"D25:5\",\n      \"end_turn_id\": \"D25:6\",\n      \"theme\": \"Expressing curiosity and enthusiasm about sushi\"\n    },\n    {\n      \"start_turn_id\": \"D25:7\",\n      \"end_turn_id\": \"D25:10\",\n      \"theme\": \"Advice and recommendations for trying sushi\"\n    },\n    {\n      \"start_turn_id\": \"D25:11\",\n      \"end_turn_id\": \"D25:16\",\n      \"theme\": \"Excitement about sushi experience and concluding pleasantries\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1660,
+        "completion_tokens": 216,
+        "total_tokens": 1876,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_26",
+    "stage": "episode_partitioning",
+    "call_id": "14eba20d-b071-4d60-ac67-e6d11b0ab529",
+    "latency_seconds": 2.220736417000005,
+    "response": {
+      "id": "chatcmpl-EZsSY85QMNgDaB0K1OTEuRvoDJahL",
+      "object": "chat.completion",
+      "created": 1792219530,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D26:1\",\n      \"end_turn_id\": \"D26:13\",\n      \"theme\": \"Discussion about Audrey's dogs' behavioral issues and progress with an animal behaviorist\"\n    },\n    {\n      \"start_turn_id\": \"D26:14\",\n      \"end_turn_id\": \"D26:16\",\n      \"theme\": \"Andrew shares hiking photos and expresses hopes for Audrey's dogs\"\n    },\n    {\n      \"start_turn_id\": \"D26:17\",\n      \"end_turn_id\": \"D26:30\",\n      \"theme\": \"Planning a dog-friendly hiking trip by a lake\"\n    },\n    {\n      \"start_turn_id\": \"D26:31\",\n      \"end_turn_id\": \"D26:43\",\n      \"theme\": \"Expressing friendship and excitement about hiking and capturing memories with dogs\"\n    },\n    {\n      \"start_turn_id\": \"D26:44\",\n      \"end_turn_id\": \"D26:47\",\n      \"theme\": \"Final preparations and goodbyes before the planned hike\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 3097,
+        "completion_tokens": 236,
+        "total_tokens": 3333,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_27",
+    "stage": "episode_partitioning",
+    "call_id": "59584105-e127-417e-892b-6f81825928f7",
+    "latency_seconds": 2.2915200839999983,
+    "response": {
+      "id": "chatcmpl-EZsSbRVtdsU9edLnVL3Rkdb3OszWP",
+      "object": "chat.completion",
+      "created": 1792219533,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D27:1\",\n      \"end_turn_id\": \"D27:2\",\n      \"theme\": \"Sharing weekend outdoor activities involving parks and pets\"\n    },\n    {\n      \"start_turn_id\": \"D27:3\",\n      \"end_turn_id\": \"D27:7\",\n      \"theme\": \"Discussion about multi-dog ownership and pet care advice\"\n    },\n    {\n      \"start_turn_id\": \"D27:8\",\n      \"end_turn_id\": \"D27:9\",\n      \"theme\": \"Encouragement and support regarding caring for current dogs\"\n    },\n    {\n      \"start_turn_id\": \"D27:10\",\n      \"end_turn_id\": \"D27:12\",\n      \"theme\": \"Keeping dogs active and entertained in a city environment\"\n    },\n    {\n      \"start_turn_id\": \"D27:13\",\n      \"end_turn_id\": \"D27:15\",\n      \"theme\": \"Suggestions for mentally stimulating dog activities\"\n    },\n    {\n      \"start_turn_id\": \"D27:16\",\n      \"end_turn_id\": \"D27:18\",\n      \"theme\": \"Expressing gratitude and friendship support\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1679,
+        "completion_tokens": 262,
+        "total_tokens": 1941,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "session_28",
+    "stage": "episode_partitioning",
+    "call_id": "0970f6ab-ce2f-4f1c-8a53-8d8961df4511",
+    "latency_seconds": 2.616430708000003,
+    "response": {
+      "id": "chatcmpl-EZsSdD4AorbK4dieqbcCvWxIMSTlF",
+      "object": "chat.completion",
+      "created": 1792219535,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"segments\": [\n    {\n      \"start_turn_id\": \"D28:1\",\n      \"end_turn_id\": \"D28:5\",\n      \"theme\": \"Audrey shares about her dogs' grooming experience and their behavior at the pet salon\"\n    },\n    {\n      \"start_turn_id\": \"D28:6\",\n      \"end_turn_id\": \"D28:8\",\n      \"theme\": \"Andrew announces his new dog adoption and introduces Scout\"\n    },\n    {\n      \"start_turn_id\": \"D28:9\",\n      \"end_turn_id\": \"D28:13\",\n      \"theme\": \"Plans and advice for Scout's integration and first adventures with other dogs\"\n    },\n    {\n      \"start_turn_id\": \"D28:14\",\n      \"end_turn_id\": \"D28:18\",\n      \"theme\": \"Mutual expressions of gratitude and happiness about their dogs and the joy they bring\"\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1568,
+        "completion_tokens": 198,
+        "total_tokens": 1766,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_4fe83ac02c"
+    }
+  },
+  {
+    "source_id": "conv-44::session_1::episode-001",
+    "stage": "entity_property_extraction",
+    "call_id": "6d716b63-aa52-4dac-9889-df909a6060af",
+    "latency_seconds": 2.6350608750000077,
+    "response": {
+      "id": "chatcmpl-EZsSg5UzDrRcUhkplXYPOvepDPYoC",
+      "object": "chat.completion",
+      "created": 1792219538,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"current_job\",\n      \"value\": \"Financial Analyst\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"started last week\",\n      \"evidence_turn_ids\": [\"D1:2\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"job_change\",\n      \"value\": \"quite a change from previous job\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"since last week\",\n      \"evidence_turn_ids\": [\"D1:2\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"dogs_item\",\n      \"value\": \"new collars and tags\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current\",\n      \"evidence_turn_ids\": [\"D1:3\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 634,
+        "completion_tokens": 215,
+        "total_tokens": 849,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-44::session_1::episode-002",
+    "stage": "entity_property_extraction",
+    "call_id": "e30eea8e-64cb-4472-a63e-cc619fb7cff8",
+    "latency_seconds": 6.355277583000003,
+    "response": {
+      "id": "chatcmpl-EZsSiUeJ3zPMTwdZ9veXbnoos9wLw",
+      "object": "chat.completion",
+      "created": 1792219540,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Pepper\",\n      \"entity_type\": \"other\",\n      \"property\": \"species\",\n      \"value\": \"dog\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"at least 3 years before 27 March, 2023\",\n      \"evidence_turn_ids\": [\"D1:7\"]\n    },\n    {\n      \"entity\": \"Precious\",\n      \"entity_type\": \"other\",\n      \"property\": \"species\",\n      \"value\": \"dog\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"at least 3 years before 27 March, 2023\",\n      \"evidence_turn_ids\": [\"D1:7\"]\n    },\n    {\n      \"entity\": \"Panda\",\n      \"entity_type\": \"other\",\n      \"property\": \"species\",\n      \"value\": \"dog\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"at least 3 years before 27 March, 2023\",\n      \"evidence_turn_ids\": [\"D1:7\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"has_pet\",\n      \"value\": \"Pepper\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"at least 3 years before 27 March, 2023\",\n      \"evidence_turn_ids\": [\"D1:7\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"has_pet\",\n      \"value\": \"Precious\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"at least 3 years before 27 March, 2023\",\n      \"evidence_turn_ids\": [\"D1:7\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"has_pet\",\n      \"value\": \"Panda\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"at least 3 years before 27 March, 2023\",\n      \"evidence_turn_ids\": [\"D1:7\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"pet_type\",\n      \"value\": \"city dogs\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"as of 27 March, 2023\",\n      \"evidence_turn_ids\": [\"D1:9\"]\n    },\n    {\n      \"entity\": \"Pepper\",\n      \"entity_type\": \"other\",\n      \"property\": \"activity\",\n      \"value\": \"exploring parks and trails\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"as of 27 March, 2023\",\n      \"evidence_turn_ids\": [\"D1:9\"]\n    },\n    {\n      \"entity\": \"Precious\",\n      \"entity_type\": \"other\",\n      \"property\": \"activity\",\n      \"value\": \"exploring parks and trails\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"as of 27 March, 2023\",\n      \"evidence_turn_ids\": [\"D1:9\"]\n    },\n    {\n      \"entity\": \"Panda\",\n      \"entity_type\": \"other\",\n      \"property\": \"activity\",\n      \"value\": \"exploring parks and trails\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"as of 27 March, 2023\",\n      \"evidence_turn_ids\": [\"D1:9\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"emotional_state\",\n      \"value\": \"cannot live without Pepper, Precious, and Panda\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"as of 27 March, 2023\",\n      \"evidence_turn_ids\": [\"D1:7\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"shares_adventures_with\",\n      \"value\": \"Pepper, Precious and Panda\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"as of 27 March, 2023\",\n      \"evidence_turn_ids\": [\"D1:9\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 900,
+        "completion_tokens": 935,
+        "total_tokens": 1835,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-44::session_1::episode-003",
+    "stage": "entity_property_extraction",
+    "call_id": "acbfd95e-a618-476f-981a-c53576cacadc",
+    "latency_seconds": 4.90078625000001,
+    "response": {
+      "id": "chatcmpl-EZsSpLHSPjNoR6leLrNP4AhcZRDh6",
+      "object": "chat.completion",
+      "created": 1792219547,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"has_pets\",\n      \"value\": \"no pets right now\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"at 1:10 pm on 27 March, 2023\",\n      \"evidence_turn_ids\": [\"D1:12\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"likes_animals\",\n      \"value\": \"loves animals\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"at 1:10 pm on 27 March, 2023\",\n      \"evidence_turn_ids\": [\"D1:12\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"favorite_animal_category\",\n      \"value\": \"birds\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"around 1:10 pm on 27 March, 2023\",\n      \"evidence_turn_ids\": [\"D1:14\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"admires_birds_for\",\n      \"value\": \"power to soar and explore new spots\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"around 1:10 pm on 27 March, 2023\",\n      \"evidence_turn_ids\": [\"D1:14\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"favorite_bird\",\n      \"value\": \"eagles\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"around 1:10 pm on 27 March, 2023\",\n      \"evidence_turn_ids\": [\"D1:16\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"describes_eagles_as\",\n      \"value\": \"strong and graceful\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"around 1:10 pm on 27 March, 2023\",\n      \"evidence_turn_ids\": [\"D1:16\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"bird_watching_activity\",\n      \"value\": \"does not specifically go bird-watching\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"around 1:10 pm on 27 March, 2023\",\n      \"evidence_turn_ids\": [\"D1:18\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"spots_birds_while\",\n      \"value\": \"hiking\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"around 1:10 pm on 27 March, 2023\",\n      \"evidence_turn_ids\": [\"D1:18\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 851,
+        "completion_tokens": 663,
+        "total_tokens": 1514,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-44::session_1::episode-004",
+    "stage": "entity_property_extraction",
+    "call_id": "5e2e5f46-44bd-4851-bd37-77517b38629c",
+    "latency_seconds": 2.433676250000005,
+    "response": {
+      "id": "chatcmpl-EZsSuZNrG0PwFbtq2ESCjnwKnrk3x",
+      "object": "chat.completion",
+      "created": 1792219552,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Fox Hollow\",\n      \"entity_type\": \"place\",\n      \"property\": \"type\",\n      \"value\": \"trail\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"weekends\",\n      \"evidence_turn_ids\": [\"D1:20\"]\n    },\n    {\n      \"entity\": \"Fox Hollow\",\n      \"entity_type\": \"place\",\n      \"property\": \"quality\",\n      \"value\": \"great trail to hike\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"weekends\",\n      \"evidence_turn_ids\": [\"D1:20\"]\n    },\n    {\n      \"entity\": \"Fox Hollow\",\n      \"entity_type\": \"place\",\n      \"property\": \"view\",\n      \"value\": \"awesome\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"weekends\",\n      \"evidence_turn_ids\": [\"D1:20\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 650,
+        "completion_tokens": 207,
+        "total_tokens": 857,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-44::session_1::episode-005",
+    "stage": "entity_property_extraction",
+    "call_id": "d9e1c60a-7308-4eff-98fb-bbe06091af22",
+    "latency_seconds": 2.275315125000006,
+    "response": {
+      "id": "chatcmpl-EZsSw6CagY9jb3CILUShymrelWap5",
+      "object": "chat.completion",
+      "created": 1792219554,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"expressed_good_wishes\",\n      \"value\": \"Thanks and will let you know; wished good day\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"1:10 pm on 27 March, 2023\",\n      \"evidence_turn_ids\": [\"D1:23\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"expressed_good_wishes\",\n      \"value\": \"Wished to take care and have a good day; said goodbye\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"1:10 pm on 27 March, 2023\",\n      \"evidence_turn_ids\": [\"D1:24\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 559,
+        "completion_tokens": 187,
+        "total_tokens": 746,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-44::session_2::episode-001",
+    "stage": "entity_property_extraction",
+    "call_id": "0cd70be6-5df2-473d-9e11-63d24c3ee370",
+    "latency_seconds": 5.072275915999995,
+    "response": {
+      "id": "chatcmpl-EZsSyG7PYgAXsvTxdczdZMGPRoBb6",
+      "object": "chat.completion",
+      "created": 1792219556,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Pixie\",\n      \"entity_type\": \"object\",\n      \"property\": \"type\",\n      \"value\": \"puppy\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"2 April, 2023\",\n      \"evidence_turn_ids\": [\"D2:1\"]\n    },\n    {\n      \"entity\": \"Pixie\",\n      \"entity_type\": \"object\",\n      \"property\": \"owner\",\n      \"value\": \"Audrey and Andrew\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"2 April, 2023\",\n      \"evidence_turn_ids\": [\"D2:1\"]\n    },\n    {\n      \"entity\": \"Pixie\",\n      \"entity_type\": \"object\",\n      \"property\": \"appearance\",\n      \"value\": \"small white dog\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"2 April, 2023\",\n      \"evidence_turn_ids\": [\"D2:1\"]\n    },\n    {\n      \"entity\": \"Pixie\",\n      \"entity_type\": \"object\",\n      \"property\": \"cutness\",\n      \"value\": \"very cute\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"2 April, 2023\",\n      \"evidence_turn_ids\": [\"D2:1\", \"D2:3\"]\n    },\n    {\n      \"entity\": \"Pixie\",\n      \"entity_type\": \"object\",\n      \"property\": \"activity_status\",\n      \"value\": \"keeping Audrey and Andrew busy\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"2 April, 2023\",\n      \"evidence_turn_ids\": [\"D2:3\"]\n    },\n    {\n      \"entity\": \"Pixie\",\n      \"entity_type\": \"object\",\n      \"property\": \"integration_with_other_dogs\",\n      \"value\": \"took a few days to get used to other dogs, now friends\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"2 April, 2023\",\n      \"evidence_turn_ids\": [\"D2:5\"]\n    },\n    {\n      \"entity\": \"Pixie\",\n      \"entity_type\": \"object\",\n      \"property\": \"behavior_with_others\",\n      \"value\": \"love playing and exploring the house\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"2 April, 2023\",\n      \"evidence_turn_ids\": [\"D2:5\"]\n    },\n    {\n      \"entity\": \"Pepper\",\n      \"entity_type\": \"object\",\n      \"property\": \"adjustment_to_pixie\",\n      \"value\": \"took a bit to get used to Pixie, now always together\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"2 April, 2023\",\n      \"evidence_turn_ids\": [\"D2:7\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1073,
+        "completion_tokens": 622,
+        "total_tokens": 1695,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-44::session_2::episode-002",
+    "stage": "entity_property_extraction",
+    "call_id": "2f7e9695-39d0-4c96-a386-4648a24f62d6",
+    "latency_seconds": 3.5770753330000105,
+    "response": {
+      "id": "chatcmpl-EZsT6mQGqaHZ1XXGAvM7LaiEqKFs6",
+      "object": "chat.completion",
+      "created": 1792219564,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"used_resource\",\n      \"value\": \"websites with filters for finding dog-friendly places\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"at or before 2 April 2023\",\n      \"evidence_turn_ids\": [\"D2:9\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"found\",\n      \"value\": \"a perfect dog-friendly place\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"at or before 2 April 2023\",\n      \"evidence_turn_ids\": [\"D2:9\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"considering_getting\",\n      \"value\": \"a dog\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"as of 2 April 2023\",\n      \"evidence_turn_ids\": [\"D2:8\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"finding_challenge\",\n      \"value\": \"dog-friendly place in the city\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"as of 2 April 2023\",\n      \"evidence_turn_ids\": [\"D2:8\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 824,
+        "completion_tokens": 317,
+        "total_tokens": 1141,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-44::session_2::episode-003",
+    "stage": "entity_property_extraction",
+    "call_id": "d206dc70-34cd-4164-b667-97ef6f784265",
+    "latency_seconds": 2.731285458000002,
+    "response": {
+      "id": "chatcmpl-EZsT9CyqSA2bcTi0TWxWdyBMwGNnf",
+      "object": "chat.completion",
+      "created": 1792219567,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"desires_pet\",\n      \"value\": \"a furry buddy to cuddle and hang with\",\n      \"modality\": \"desired\",\n      \"valid_time\": \"current\",\n      \"evidence_turn_ids\": [\"D2:14\", \"D2:16\"]\n    },\n    {\n      \"entity\": \"Andrew's family dog\",\n      \"entity_type\": \"object\",\n      \"property\": \"location\",\n      \"value\": \"on a couch\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current\",\n      \"evidence_turn_ids\": [\"D2:16\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"attitude_toward_furry_friends\",\n      \"value\": \"They are great for cuddles and companionship\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current\",\n      \"evidence_turn_ids\": [\"D2:15\"]\n    },\n    {\n      \"entity\": \"Audrey's dog\",\n      \"entity_type\": \"object\",\n      \"property\": \"activity\",\n      \"value\": \"enjoying some lazy couch time\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current\",\n      \"evidence_turn_ids\": [\"D2:17\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 764,
+        "completion_tokens": 305,
+        "total_tokens": 1069,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-44::session_2::episode-004",
+    "stage": "entity_property_extraction",
+    "call_id": "946a476b-3b2f-4a97-b8f4-e624ac0d8e00",
+    "latency_seconds": 4.845494250000002,
+    "response": {
+      "id": "chatcmpl-EZsTCylOYfT9yxiHAnlkGRi91bN2l",
+      "object": "chat.completion",
+      "created": 1792219570,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"owned_pet_type\",\n      \"value\": \"dog\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D2:18\", \"D2:20\", \"D2:22\", \"D2:24\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"past_activity\",\n      \"value\": \"hiking nature trails with family's dog\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"past\",\n      \"evidence_turn_ids\": [\"D2:18\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"feelings_about_activity\",\n      \"value\": \"misses exploring nature trails with his family's dog\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"present as of conversation\",\n      \"evidence_turn_ids\": [\"D2:18\", \"D2:22\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"current_desire\",\n      \"value\": \"find a dog-friendly hiking spot soon for exploring\",\n      \"modality\": \"desired\",\n      \"valid_time\": \"near future\",\n      \"evidence_turn_ids\": [\"D2:22\", \"D2:24\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"opinion_on_hiking_with_dog\",\n      \"value\": \"fun way to bond and create memories\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D2:20\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"opinion_on_hiking_with_dogs\",\n      \"value\": \"awesome\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D2:19\", \"D2:21\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"current_desire\",\n      \"value\": \"hike with her dogs\",\n      \"modality\": \"desired\",\n      \"valid_time\": \"present\",\n      \"evidence_turn_ids\": [\"D2:19\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"well_wishing_to\",\n      \"value\": \"Andrew for finding perfect dog-friendly spot\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"present\",\n      \"evidence_turn_ids\": [\"D2:23\", \"D2:25\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 993,
+        "completion_tokens": 619,
+        "total_tokens": 1612,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-44::session_2::episode-005",
+    "stage": "entity_property_extraction",
+    "call_id": "d00de2a3-b472-4aa7-9b93-31d8ede1b36e",
+    "latency_seconds": 0.9786599580000086,
+    "response": {
+      "id": "chatcmpl-EZsTGFixsv8SskNZsbUczudkJtMmA",
+      "object": "chat.completion",
+      "created": 1792219574,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": []\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 521,
+        "completion_tokens": 7,
+        "total_tokens": 528,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-44::session_3::episode-001",
+    "stage": "entity_property_extraction",
+    "call_id": "f2b6dd98-5d54-4b4b-82a1-335873fdb501",
+    "latency_seconds": 4.516676833999995,
+    "response": {
+      "id": "chatcmpl-EZsTHLbUSfA2hYf7zNOSb2ptdQxeB",
+      "object": "chat.completion",
+      "created": 1792219575,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"visited\",\n      \"value\": \"new cafe scene in the city\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last weekend before 4:19 pm on 16 April, 2023\",\n      \"evidence_turn_ids\": [\"D3:1\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"feels_thriving_when\",\n      \"value\": \"out in nature\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D3:1\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"misses\",\n      \"value\": \"peacefulness of being out on a hike\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D3:1\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"considers\",\n      \"value\": \"being out in nature surrounded by beauty and peace unbeatable compared to concrete jungles\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D3:2\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"feels_connected_when\",\n      \"value\": \"out in nature\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D3:3\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"believes\",\n      \"value\": \"nature brings us back down to earth and reminds us we are part of something bigger\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D3:4\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"considers\",\n      \"value\": \"nature as soothing and like hitting reset button when life is chaotic\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D3:5\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 812,
+        "completion_tokens": 522,
+        "total_tokens": 1334,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-44::session_3::episode-002",
+    "stage": "entity_property_extraction",
+    "call_id": "e9f63c30-7d8e-4e8f-8231-9305b72be35c",
+    "latency_seconds": 4.621000749999993,
+    "response": {
+      "id": "chatcmpl-EZsTMBHPT5x5CZeXzmPGP2EuQVZEl",
+      "object": "chat.completion",
+      "created": 1792219580,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"walking_activity\",\n      \"value\": \"taking my dogs for a walk in the park\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D3:6\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"personal_effect\",\n      \"value\": \"walking dogs in the park helps me find my center and recharges me\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D3:6\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"living_environment\",\n      \"value\": \"city\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D3:7\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"ability_to_walk_dogs_in_park\",\n      \"value\": \"cannot, due to city living\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D3:7\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"feeling\",\n      \"value\": \"missing connection and companionship\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D3:7\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"feeling\",\n      \"value\": \"feels like missing out sometimes\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D3:9\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"opinion\",\n      \"value\": \"city living is tough without opportunity to go outside; it is a different experience\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D3:8\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"opinion\",\n      \"value\": \"city life can get overwhelming; it is great to find ways to connect to nature\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D3:10\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 731,
+        "completion_tokens": 578,
+        "total_tokens": 1309,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-44::session_3::episode-003",
+    "stage": "entity_property_extraction",
+    "call_id": "c571b65f-98a2-4b0e-8e83-f678b6ab89ea",
+    "latency_seconds": 5.590624125000005,
+    "response": {
+      "id": "chatcmpl-EZsTRvUw809OJIG5HkUJLSMmq1S4s",
+      "object": "chat.completion",
+      "created": 1792219585,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"has_girlfriend\",\n      \"value\": \"true\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D3:11\"]\n    },\n    {\n      \"entity\": \"Andrew and girlfriend\",\n      \"entity_type\": \"person\",\n      \"property\": \"enjoy_activity\",\n      \"value\": \"discover new places to eat around town\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D3:11\"]\n    },\n    {\n      \"entity\": \"Andrew and girlfriend\",\n      \"entity_type\": \"person\",\n      \"property\": \"motivation_for_activity\",\n      \"value\": \"try something new and wind down after a long week\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"\",\n      \"evidence_turn_ids\": [\"D3:11\"]\n    },\n    {\n      \"entity\": \"Andrew and girlfriend\",\n      \"entity_type\": \"person\",\n      \"property\": \"discovered_place_type\",\n      \"value\": \"cafe\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"recently\",\n      \"evidence_turn_ids\": [\"D3:13\"]\n    },\n    {\n      \"entity\": \"Andrew and girlfriend\",\n      \"entity_type\": \"person\",\n      \"property\": \"discovered_place_feature\",\n      \"value\": \"amazing pastries with irresistible smell\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"recently\",\n      \"evidence_turn_ids\": [\"D3:13\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"has_photo\",\n      \"value\": \"photo of pastries and coffee at cafe\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"recently\",\n      \"evidence_turn_ids\": [\"D3:15\"]\n    },\n    {\n      \"entity\": \"Andrew and girlfriend\",\n      \"entity_type\": \"person\",\n      \"property\": \"ate_pastries\",\n      \"value\": \"croissants, muffins, and tarts\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"recently\",\n      \"evidence_turn_ids\": [\"D3:17\"]\n    },\n    {\n      \"entity\": \"Pastries\",\n      \"entity_type\": \"object\",\n      \"property\": \"taste\",\n      \"value\": \"great, amazing\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"recently\",\n      \"evidence_turn_ids\": [\"D3:17\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 864,
+        "completion_tokens": 576,
+        "total_tokens": 1440,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-44::session_3::episode-004",
+    "stage": "entity_property_extraction",
+    "call_id": "5f0b7ced-2d4c-428f-bfa9-46d764b295b1",
+    "latency_seconds": 4.160220750000008,
+    "response": {
+      "id": "chatcmpl-EZsTWKkgFES7CiOhpJbtg6FO1egBi",
+      "object": "chat.completion",
+      "created": 1792219590,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"baked_pastry_type\",\n      \"value\": \"favorite treats including homemade blueberry muffins\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last week before 16 April 2023\",\n      \"evidence_turn_ids\": [\"D3:18\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"plans\",\n      \"value\": \"to have a pastry party including her and Andrew\",\n      \"modality\": \"planned\",\n      \"valid_time\": \"after 16 April 2023\",\n      \"evidence_turn_ids\": [\"D3:18\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"plans\",\n      \"value\": \"to attend the pastry party with Audrey\",\n      \"modality\": \"planned\",\n      \"valid_time\": \"after 16 April 2023\",\n      \"evidence_turn_ids\": [\"D3:19\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"dogs\",\n      \"value\": \"has dogs who will attend the pastry party\",\n      \"modality\": \"planned\",\n      \"valid_time\": \"after 16 April 2023\",\n      \"evidence_turn_ids\": [\"D3:20\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"attitude_towards_party\",\n      \"value\": \"excited and looking forward to the pastry party including interaction with Audrey's dogs\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"up to 16 April 2023\",\n      \"evidence_turn_ids\": [\"D3:21\", \"D3:23\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"attitude_towards_party\",\n      \"value\": \"looking forward to the pastry party as a chance for Andrew to hang out with her dogs\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"up to 16 April 2023\",\n      \"evidence_turn_ids\": [\"D3:22\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 817,
+        "completion_tokens": 504,
+        "total_tokens": 1321,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-44::session_3::episode-005",
+    "stage": "entity_property_extraction",
+    "call_id": "cde3b9be-19af-43fc-99f9-707d37144d21",
+    "latency_seconds": 3.215784166000006,
+    "response": {
+      "id": "chatcmpl-EZsTaoE4jPpaG3cLiQMSvcxMLsXSW",
+      "object": "chat.completion",
+      "created": 1792219594,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"emotion_towards_pets\",\n      \"value\": \"They bring so much joy and she can't imagine life without them\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"at turn D3:24\",\n      \"evidence_turn_ids\": [\"D3:24\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"tattoos\",\n      \"value\": \"tattoos of her dogs on her arm\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"stated at turn D3:26\",\n      \"evidence_turn_ids\": [\"D3:26\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"tattoo_represents\",\n      \"value\": \"love for her pups and nature's beauty\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"as of turn D3:28\",\n      \"evidence_turn_ids\": [\"D3:28\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"bond_with_pets\",\n      \"value\": \"strong bond; pets make her very happy; wants to see their happy faces even when not with them\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"reported at turn D3:30\",\n      \"evidence_turn_ids\": [\"D3:30\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1068,
+        "completion_tokens": 345,
+        "total_tokens": 1413,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-44::session_4::episode-001",
+    "stage": "entity_property_extraction",
+    "call_id": "72381a49-149f-49ce-a284-f6edaf90bc3e",
+    "latency_seconds": 6.609643833000007,
+    "response": {
+      "id": "chatcmpl-EZsTevnUmmbyXItQSQ6uXcPxWBObV",
+      "object": "chat.completion",
+      "created": 1792219598,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"recent_activity\",\n      \"value\": \"went on a hike last week and had an amazing experience with a hummingbird\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last week from 3 May 2023\",\n      \"evidence_turn_ids\": [\"D4:1\"]\n    },\n    {\n      \"entity\": \"hummingbird\",\n      \"entity_type\": \"other\",\n      \"property\": \"behavior_observed\",\n      \"value\": \"darting around with its wings\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last week from 3 May 2023\",\n      \"evidence_turn_ids\": [\"D4:1\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"feeling_before\",\n      \"value\": \"feeling down because he couldn't get out more\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"before 3 May 2023\",\n      \"evidence_turn_ids\": [\"D4:2\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"found_hiking_location\",\n      \"value\": \"a new open space to hike nearby\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"recently before 3 May 2023\",\n      \"evidence_turn_ids\": [\"D4:2\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"frequency_of_hiking\",\n      \"value\": \"usually tries to hike at least once a weekend\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current as of 3 May 2023\",\n      \"evidence_turn_ids\": [\"D4:4\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"view_of_nature\",\n      \"value\": \"finds nature to be therapeutic and refreshing\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current as of 3 May 2023\",\n      \"evidence_turn_ids\": [\"D4:6\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"feeling_while_hiking\",\n      \"value\": \"feels peaceful and invigorated standing on top of a mountain breathing fresh air\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current as of 3 May 2023\",\n      \"evidence_turn_ids\": [\"D4:6\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"activity\",\n      \"value\": \"tries to capture special natural moments and share the feeling with others\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current as of 3 May 2023\",\n      \"evidence_turn_ids\": [\"D4:8\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"goal\",\n      \"value\": \"spread positivity and motivate people to find their own peace\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current as of 3 May 2023\",\n      \"evidence_turn_ids\": [\"D4:10\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"belief_about_spreading_joy\",\n      \"value\": \"spreading peaceful feelings brings great joy and calm to people\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current as of 3 May 2023\",\n      \"evidence_turn_ids\": [\"D4:12\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1380,
+        "completion_tokens": 836,
+        "total_tokens": 2216,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-44::session_4::episode-002",
+    "stage": "entity_property_extraction",
+    "call_id": "43357d85-0949-4da2-905f-7b317d47d292",
+    "latency_seconds": 5.90515829200001,
+    "response": {
+      "id": "chatcmpl-EZsTkVYrrxovNiKSdcDcdE6PB8j3l",
+      "object": "chat.completion",
+      "created": 1792219604,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"busy_with\",\n      \"value\": \"taking care of my pets\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current as of 3 May 2023\",\n      \"evidence_turn_ids\": [\"D4:15\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"finds_fulfilling\",\n      \"value\": \"spending time with my pets\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current as of 3 May 2023\",\n      \"evidence_turn_ids\": [\"D4:15\"]\n    },\n    {\n      \"entity\": \"Audrey's dogs\",\n      \"entity_type\": \"other\",\n      \"property\": \"reaction_to_hikes\",\n      \"value\": \"go nuts, love exploring new scents and being in nature\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current as of 3 May 2023\",\n      \"evidence_turn_ids\": [\"D4:17\"]\n    },\n    {\n      \"entity\": \"Audrey's dogs\",\n      \"entity_type\": \"other\",\n      \"property\": \"happy_signs_when_hiking\",\n      \"value\": \"wagging tails and expressions show love for hikes\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current as of 3 May 2023\",\n      \"evidence_turn_ids\": [\"D4:17\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"prioritizes\",\n      \"value\": \"safety for my dogs when they are out and about\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current as of 3 May 2023\",\n      \"evidence_turn_ids\": [\"D4:19\"]\n    },\n    {\n      \"entity\": \"Audrey's dogs\",\n      \"entity_type\": \"other\",\n      \"property\": \"wears_protective_gear\",\n      \"value\": \"something special that looks funny but works (likely protective boots)\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current as of 3 May 2023\",\n      \"evidence_turn_ids\": [\"D4:19\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"activities_on_walks\",\n      \"value\": \"play fetch with a ball or frisbee, meet other dog owners at park playdates\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current as of 3 May 2023\",\n      \"evidence_turn_ids\": [\"D4:21\"]\n    },\n    {\n      \"entity\": \"Audrey's dogs\",\n      \"entity_type\": \"other\",\n      \"property\": \"enjoy_activities\",\n      \"value\": \"love chasing ball or frisbee, adore playdates and meeting new pals\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current as of 3 May 2023\",\n      \"evidence_turn_ids\": [\"D4:21\", \"D4:23\"]\n    },\n    {\n      \"entity\": \"Audrey's dogs\",\n      \"entity_type\": \"other\",\n      \"property\": \"reaction_to_party_hats\",\n      \"value\": \"do not mind wearing party hats, wear them for fun and treats\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current as of 3 May 2023\",\n      \"evidence_turn_ids\": [\"D4:23\", \"D4:25\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"dog_playdate_location\",\n      \"value\": \"dog park by the park where we usually walk, with lots of trees and benches\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current as of 3 May 2023\",\n      \"evidence_turn_ids\": [\"D4:25\", \"D4:27\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1675,
+        "completion_tokens": 894,
+        "total_tokens": 2569,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-44::session_4::episode-003",
+    "stage": "entity_property_extraction",
+    "call_id": "fc37275b-5b0c-4db3-99a7-c5dc625612b2",
+    "latency_seconds": 0.9714186669999947,
+    "response": {
+      "id": "chatcmpl-EZsTrJ2NeqfZb5CvqtV0a3LMbrKpT",
+      "object": "chat.completion",
+      "created": 1792219611,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": []\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 527,
+        "completion_tokens": 7,
+        "total_tokens": 534,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-44::session_5::episode-001",
+    "stage": "entity_property_extraction",
+    "call_id": "7f70f43e-c64a-4a76-9015-b6bfa69637f2",
+    "latency_seconds": 5.104472749999985,
+    "response": {
+      "id": "chatcmpl-EZsTs2Cmdlwig9TiUhGTBjHx7VeLa",
+      "object": "chat.completion",
+      "created": 1792219612,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"activity\",\n      \"value\": \"looking for a dog to adopt by browsing websites, visiting shelters, and asking friends\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"since last conversation before 6 May 2023\",\n      \"evidence_turn_ids\": [\"D5:1\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"opinion_about_dog_selection\",\n      \"value\": \"size of living space and exercise needs of breed are important for choosing a dog\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current\",\n      \"evidence_turn_ids\": [\"D5:3\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"living_situation\",\n      \"value\": \"person living in an apartment\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current\",\n      \"evidence_turn_ids\": [\"D5:3\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"preferred_dog_size\",\n      \"value\": \"smaller dog\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current\",\n      \"evidence_turn_ids\": [\"D5:3\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"advice_for_active_people\",\n      \"value\": \"consider getting a dog that loves to play and run\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current\",\n      \"evidence_turn_ids\": [\"D5:3\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"difficulty\",\n      \"value\": \"finding a pet-friendly place to live has been tough\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current\",\n      \"evidence_turn_ids\": [\"D5:5\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"current_actions\",\n      \"value\": \"contacting landlords and checking neighborhoods to find pet-friendly housing\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current\",\n      \"evidence_turn_ids\": [\"D5:5\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"preferred_location_feature\",\n      \"value\": \"near a park or woods to stay close to nature and provide large open space for dog to run\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current\",\n      \"evidence_turn_ids\": [\"D5:7\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 974,
+        "completion_tokens": 620,
+        "total_tokens": 1594,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-44::session_5::episode-002",
+    "stage": "entity_property_extraction",
+    "call_id": "2c18b4dc-8433-41f2-b4fc-e5272ad25075",
+    "latency_seconds": 4.759099499999991,
+    "response": {
+      "id": "chatcmpl-EZsTxagSgsVm4OhbETTzA7AFdq1Q9",
+      "object": "chat.completion",
+      "created": 1792219617,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"has_park_near_residence\",\n      \"value\": \"a park near her home\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current as of 6 May, 2023\",\n      \"evidence_turn_ids\": [\"D5:8\"]\n    },\n    {\n      \"entity\": \"Audrey's dogs\",\n      \"entity_type\": \"other\",\n      \"property\": \"activity_last_friday\",\n      \"value\": \"went on a road trip to a beautiful national park and had fun\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last Friday before 6 May, 2023\",\n      \"evidence_turn_ids\": [\"D5:8\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"road_trip_frequency_with_dogs\",\n      \"value\": \"once every couple of months\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current as of 6 May, 2023\",\n      \"evidence_turn_ids\": [\"D5:10\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"road_trips_with_dogs_benefit\",\n      \"value\": \"a great way for her dogs to explore and stay active\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current as of 6 May, 2023\",\n      \"evidence_turn_ids\": [\"D5:10\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"road_trip_experience_with_dogs\",\n      \"value\": \"amazing, fun and exciting\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current as of 6 May, 2023\",\n      \"evidence_turn_ids\": [\"D5:12\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"desires_road_trip_with_dog\",\n      \"value\": \"wishes to go on a road trip with a furry companion\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current as of 6 May, 2023\",\n      \"evidence_turn_ids\": [\"D5:11\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"bucket_list_item\",\n      \"value\": \"going on a trip with his dog\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current as of 6 May, 2023\",\n      \"evidence_turn_ids\": [\"D5:13\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 868,
+        "completion_tokens": 609,
+        "total_tokens": 1477,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-44::session_5::episode-003",
+    "stage": "entity_property_extraction",
+    "call_id": "3d487c01-cf5e-41a9-b36f-9bff379554af",
+    "latency_seconds": 3.016249000000016,
+    "response": {
+      "id": "chatcmpl-EZsU2nKP1nRpgZuufojxG9llcCGAQ",
+      "object": "chat.completion",
+      "created": 1792219622,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"search_for\",\n      \"value\": \"perfect furry friend\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"around 10:47 am on 6 May, 2023\",\n      \"evidence_turn_ids\": [\"D5:15\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"plan\",\n      \"value\": \"check out another shelter soon\",\n      \"modality\": \"planned\",\n      \"valid_time\": \"soon after 10:47 am on 6 May, 2023\",\n      \"evidence_turn_ids\": [\"D5:21\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"offer_help\",\n      \"value\": \"suggestions or help for Andrew's search\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"around 10:47 am on 6 May, 2023\",\n      \"evidence_turn_ids\": [\"D5:18\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"expectation\",\n      \"value\": \"receive a picture of Andrew's dog soon\",\n      \"modality\": \"planned\",\n      \"valid_time\": \"future relative to 10:47 am on 6 May, 2023\",\n      \"evidence_turn_ids\": [\"D5:20\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 844,
+        "completion_tokens": 339,
+        "total_tokens": 1183,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-44::session_6::episode-001",
+    "stage": "entity_property_extraction",
+    "call_id": "6e0ac0d4-5410-4265-97a5-dce799a5f3a9",
+    "latency_seconds": 4.089792499999987,
+    "response": {
+      "id": "chatcmpl-EZsU5z02un3kol8hrO6GclWN6suC1",
+      "object": "chat.completion",
+      "created": 1792219625,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"recent_activity\",\n      \"value\": \"went on a hike last weekend with some friends and his girlfriend at a recently found spot\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last weekend before 2:03 pm on 11 May, 2023\",\n      \"evidence_turn_ids\": [\"D6:1\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"experience_during_activity\",\n      \"value\": \"found nature so peaceful and nice to relax and take in\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last weekend before 2:03 pm on 11 May, 2023\",\n      \"evidence_turn_ids\": [\"D6:1\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"pets_cared_for\",\n      \"value\": \"four dogs\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"week leading up to 2:03 pm on 11 May, 2023\",\n      \"evidence_turn_ids\": [\"D6:2\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"current_time_spent_on\",\n      \"value\": \"taking care of her four dogs to ensure they are happy and healthy\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"week leading up to 2:03 pm on 11 May, 2023\",\n      \"evidence_turn_ids\": [\"D6:2\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"upcoming_activity\",\n      \"value\": \"signed up for a workshop about bonding with her pet next month\",\n      \"modality\": \"planned\",\n      \"valid_time\": \"next month after 2:03 pm on 11 May, 2023\",\n      \"evidence_turn_ids\": [\"D6:2\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"desired_outcome_of_workshop\",\n      \"value\": \"learn new stuff and strengthen her bond with her pets\",\n      \"modality\": \"desired\",\n      \"valid_time\": \"next month after 2:03 pm on 11 May, 2023\",\n      \"evidence_turn_ids\": [\"D6:2\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 827,
+        "completion_tokens": 558,
+        "total_tokens": 1385,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-44::session_6::episode-002",
+    "stage": "entity_property_extraction",
+    "call_id": "3d8710ac-9a68-421c-975d-fbcc81f2b6a0",
+    "latency_seconds": 3.3238841250000064,
+    "response": {
+      "id": "chatcmpl-EZsU9EV2r8onJ4AXX92BbxIdtZrNK",
+      "object": "chat.completion",
+      "created": 1792219629,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"heard_about_workshop\",\n      \"value\": \"at local pet store\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"before 2:03 pm on 11 May, 2023\",\n      \"evidence_turn_ids\": [\"D6:4\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"workshop_type\",\n      \"value\": \"positive reinforcement training class\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"before 2:03 pm on 11 May, 2023\",\n      \"evidence_turn_ids\": [\"D6:4\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"intention\",\n      \"value\": \"wanted to give positive reinforcement training class a shot\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"before 2:03 pm on 11 May, 2023\",\n      \"evidence_turn_ids\": [\"D6:4\"]\n    },\n    {\n      \"entity\": \"store volunteer's dog\",\n      \"entity_type\": \"object\",\n      \"property\": \"behavior\",\n      \"value\": \"friendly and playful\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"before 2:03 pm on 11 May, 2023\",\n      \"evidence_turn_ids\": [\"D6:4\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 623,
+        "completion_tokens": 341,
+        "total_tokens": 964,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-44::session_6::episode-003",
+    "stage": "entity_property_extraction",
+    "call_id": "e7052993-8700-42fd-a6ad-05069e56b47b",
+    "latency_seconds": 4.817806333000021,
+    "response": {
+      "id": "chatcmpl-EZsUC2o7PHk39ptHbjP8gvFY0HIUX",
+      "object": "chat.completion",
+      "created": 1792219632,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"opinion_on_positive_reinforcement\",\n      \"value\": \"Positive reinforcement can help bond with dogs\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"2:03 pm on 11 May, 2023\",\n      \"evidence_turn_ids\": [\"D6:5\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"belief_about_dogs_learning_speed\",\n      \"value\": \"dogs will catch on quickly and are quick learners\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"2:03 pm on 11 May, 2023\",\n      \"evidence_turn_ids\": [\"D6:6\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"dogs_personal_trait\",\n      \"value\": \"love rewards\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"2:03 pm on 11 May, 2023\",\n      \"evidence_turn_ids\": [\"D6:6\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"intention\",\n      \"value\": \"learn how to train dogs better\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"2:03 pm on 11 May, 2023\",\n      \"evidence_turn_ids\": [\"D6:6\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"plan\",\n      \"value\": \"keep Andrew updated on dogs' progress and training\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"2:03 pm on 11 May, 2023\",\n      \"evidence_turn_ids\": [\"D6:8\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"hope_about_dogs_behavior\",\n      \"value\": \"dogs will be extra behaved\",\n      \"modality\": \"desired\",\n      \"valid_time\": \"2:03 pm on 11 May, 2023\",\n      \"evidence_turn_ids\": [\"D6:8\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"plan\",\n      \"value\": \"share tips on training Andrew's future dog\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"2:03 pm on 11 May, 2023\",\n      \"evidence_turn_ids\": [\"D6:8\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 683,
+        "completion_tokens": 590,
+        "total_tokens": 1273,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-44::session_6::episode-004",
+    "stage": "entity_property_extraction",
+    "call_id": "4d057736-f69e-4c3d-8036-1c6364095a0a",
+    "latency_seconds": 5.172103833000023,
+    "response": {
+      "id": "chatcmpl-EZsUHJB6uP4iYivb8nLaD2ZtZeihi",
+      "object": "chat.completion",
+      "created": 1792219637,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"opinion_workshop_value\",\n      \"value\": \"a must learn for any dog owner\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"2:03 pm on 11 May, 2023\",\n      \"evidence_turn_ids\": [\"D6:10\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"belief_training_method\",\n      \"value\": \"important to have pets learn behavior using positive reinforcement\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"2:03 pm on 11 May, 2023\",\n      \"evidence_turn_ids\": [\"D6:12\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"belief_punishment_method\",\n      \"value\": \"punishment is never the proper way for pets\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"2:03 pm on 11 May, 2023\",\n      \"evidence_turn_ids\": [\"D6:12\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"feeling_punishment\",\n      \"value\": \"would not want to be punished\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"2:03 pm on 11 May, 2023\",\n      \"evidence_turn_ids\": [\"D6:13\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"feeling_punishment_pets\",\n      \"value\": \"would not want puppies and dogs to be punished\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"2:03 pm on 11 May, 2023\",\n      \"evidence_turn_ids\": [\"D6:13\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"feeling_about_hurting_dogs\",\n      \"value\": \"does not want to hurt any of her dogs\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"2:03 pm on 11 May, 2023\",\n      \"evidence_turn_ids\": [\"D6:14\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"emotional_reaction_thinking_punishment\",\n      \"value\": \"thinking of hurting dogs causes pain\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"2:03 pm on 11 May, 2023\",\n      \"evidence_turn_ids\": [\"D6:14\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"intention_action\",\n      \"value\": \"look into dog training classes\",\n      \"modality\": \"planned\",\n      \"valid_time\": \"after 2:03 pm on 11 May, 2023\",\n      \"evidence_turn_ids\": [\"D6:15\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 849,
+        "completion_tokens": 696,
+        "total_tokens": 1545,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-44::session_7::episode-001",
+    "stage": "entity_property_extraction",
+    "call_id": "c2451296-91f1-4ee1-b75c-8eb2b1025015",
+    "latency_seconds": 5.629074042000013,
+    "response": {
+      "id": "chatcmpl-EZsUMDu4ZgAiAllTokPNX9651OSMw",
+      "object": "chat.completion",
+      "created": 1792219642,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Audrey's pups\",\n      \"entity_type\": \"object\",\n      \"property\": \"activity\",\n      \"value\": \"running around and playing without a leash at the park\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"yesterday before 11:27 am on 2 June, 2023\",\n      \"evidence_turn_ids\": [\"D7:1\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"emotion\",\n      \"value\": \"joy and peace from seeing her pups happy playing in the park\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"yesterday before 11:27 am on 2 June, 2023\",\n      \"evidence_turn_ids\": [\"D7:1\"]\n    },\n    {\n      \"entity\": \"Audrey's pups\",\n      \"entity_type\": \"object\",\n      \"property\": \"activity\",\n      \"value\": \"hiking in a national park\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last week before 11:27 am on 2 June, 2023\",\n      \"evidence_turn_ids\": [\"D7:3\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"visited_place\",\n      \"value\": \"a national park\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last week before 11:27 am on 2 June, 2023\",\n      \"evidence_turn_ids\": [\"D7:3\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"visited_place_detail\",\n      \"value\": \"a beautiful peak with a stunning sunset view\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last week before 11:27 am on 2 June, 2023\",\n      \"evidence_turn_ids\": [\"D7:3\"]\n    },\n    {\n      \"entity\": \"Audrey's pups\",\n      \"entity_type\": \"object\",\n      \"property\": \"activity_detail\",\n      \"value\": \"running around during the sunset at the peak\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last week before 11:27 am on 2 June, 2023\",\n      \"evidence_turn_ids\": [\"D7:3\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"sensory_experience\",\n      \"value\": \"felt a nice breeze and heard birds chirping at the peak\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last week before 11:27 am on 2 June, 2023\",\n      \"evidence_turn_ids\": [\"D7:3\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 780,
+        "completion_tokens": 627,
+        "total_tokens": 1407,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-44::session_7::episode-002",
+    "stage": "entity_property_extraction",
+    "call_id": "9896ef34-f205-4abb-9ded-0fa8309e4c4a",
+    "latency_seconds": 2.280790332999999,
+    "response": {
+      "id": "chatcmpl-EZsUSdNEzp165ew9cf1KhwUFFE3R5",
+      "object": "chat.completion",
+      "created": 1792219648,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"photographed\",\n      \"value\": \"a photo of two horses in a field with a fence during a sunset with mountains\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"around 2 June, 2023\",\n      \"evidence_turn_ids\": [\"D7:5\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"reaction\",\n      \"value\": \"described the sunset and scenery as incredible and magical\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"around 2 June, 2023\",\n      \"evidence_turn_ids\": [\"D7:6\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 667,
+        "completion_tokens": 175,
+        "total_tokens": 842,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-44::session_7::episode-003",
+    "stage": "entity_property_extraction",
+    "call_id": "793d70d1-186c-42d0-b939-c242951ef1fd",
+    "latency_seconds": 5.2199546249999855,
+    "response": {
+      "id": "chatcmpl-EZsUUYX84N4BPNDx3zzEXDw6NmbNI",
+      "object": "chat.completion",
+      "created": 1792219650,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"feeling_from_nature\",\n      \"value\": \"nature cheers me up and makes me feel grateful\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"recent past\",\n      \"evidence_turn_ids\": [\"D7:7\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"searching_for_pet\",\n      \"value\": \"still on the hunt for a furry friend\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current\",\n      \"evidence_turn_ids\": [\"D7:8\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"finding_pet_friendly_spot\",\n      \"value\": \"tough, no luck so far\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current\",\n      \"evidence_turn_ids\": [\"D7:8\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"emotion\",\n      \"value\": \"a bit discouraged\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current\",\n      \"evidence_turn_ids\": [\"D7:8\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"determination\",\n      \"value\": \"determined to find the right place and dog\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current\",\n      \"evidence_turn_ids\": [\"D7:8\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"intent\",\n      \"value\": \"won't give up searching for a furry friend\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current\",\n      \"evidence_turn_ids\": [\"D7:10\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"support_offer\",\n      \"value\": \"asked Andrew to email criterias to help find a great spot for furry friend\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current\",\n      \"evidence_turn_ids\": [\"D7:11\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"gratitude\",\n      \"value\": \"greatly appreciated Audrey's assistance\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current\",\n      \"evidence_turn_ids\": [\"D7:12\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"encouragement\",\n      \"value\": \"encouraged Andrew to stay positive and keep searching\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"current\",\n      \"evidence_turn_ids\": [\"D7:13\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 824,
+        "completion_tokens": 664,
+        "total_tokens": 1488,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-44::session_8::episode-001",
+    "stage": "entity_property_extraction",
+    "call_id": "a139773f-1205-49db-81ca-978254bfd9c2",
+    "latency_seconds": 6.45951775,
+    "response": {
+      "id": "chatcmpl-EZtOu6E8zZooZ3VmEqP2cT2UZgScw",
+      "object": "chat.completion",
+      "created": 1792223148,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"activity_participated\",\n      \"value\": \"rock climbing class\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last Sunday before 5:23 pm on 13 June, 2023\",\n      \"evidence_turn_ids\": [\"D8:1\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"achievement\",\n      \"value\": \"reached the top in rock climbing class\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last Sunday before 5:23 pm on 13 June, 2023\",\n      \"evidence_turn_ids\": [\"D8:1\", \"D8:3\", \"D8:5\", \"D8:7\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"feeling_after_activity\",\n      \"value\": \"hooked on rock climbing; wants to do more outdoor activities weekly\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"statement at 5:23 pm on 13 June, 2023\",\n      \"evidence_turn_ids\": [\"D8:1\", \"D8:7\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"activity_difficulty_level\",\n      \"value\": \"tricky climb, newbie level\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"rock climbing class last Sunday\",\n      \"evidence_turn_ids\": [\"D8:5\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"social_support\",\n      \"value\": \"friends supported and cheered during climb\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"rock climbing class last Sunday\",\n      \"evidence_turn_ids\": [\"D8:5\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"posted_photo\",\n      \"value\": \"photo of the view from the top of the rock climbed during the rock climbing class\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"at 5:23 pm on 13 June, 2023\",\n      \"evidence_turn_ids\": [\"D8:3\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"future_plans_outdoor_activities\",\n      \"value\": \"try more outdoor activities like kayaking and maybe bungee jumping\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"at 5:23 pm on 13 June, 2023\",\n      \"evidence_turn_ids\": [\"D8:7\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1034,
+        "completion_tokens": 626,
+        "total_tokens": 1660,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-44::session_8::episode-002",
+    "stage": "entity_property_extraction",
+    "call_id": "93d2948a-6e2d-445b-a777-3e054a8ed425",
+    "latency_seconds": 5.3700175,
+    "response": {
+      "id": "chatcmpl-EZtOz9dvCi68EBHRELOTlAURTSYGF",
+      "object": "chat.completion",
+      "created": 1792223153,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"has dogs\",\n      \"value\": \"multiple dogs\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last week before 13 June, 2023\",\n      \"evidence_turn_ids\": [\"D8:8\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"found dog walking spot\",\n      \"value\": \"small park with a trail surrounded by trees\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last week before 13 June, 2023\",\n      \"evidence_turn_ids\": [\"D8:8\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"dogs like spot\",\n      \"value\": \"dogs like the small park with trail surrounded by trees\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"last week before 13 June, 2023\",\n      \"evidence_turn_ids\": [\"D8:8\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"invited Andrew\",\n      \"value\": \"to come along to the park for a walk with her dogs\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"13 June, 2023\",\n      \"evidence_turn_ids\": [\"D8:8\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"accepted invitation\",\n      \"value\": \"join Audrey and her dogs for a walk in the park\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"13 June, 2023\",\n      \"evidence_turn_ids\": [\"D8:9\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"dogs like meeting new people\",\n      \"value\": \"Audrey's dogs love meeting new people\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"13 June, 2023\",\n      \"evidence_turn_ids\": [\"D8:10\"]\n    },\n    {\n      \"entity\": \"Andrew\",\n      \"entity_type\": \"person\",\n      \"property\": \"look forward\",\n      \"value\": \"to meeting Audrey's dogs and taking a stroll in the park\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"13 June, 2023\",\n      \"evidence_turn_ids\": [\"D8:11\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"planning activity\",\n      \"value\": \"go for a walk in the park with her dogs and Andrew\",\n      \"modality\": \"planned\",\n      \"valid_time\": \"near future from 13 June, 2023\",\n      \"evidence_turn_ids\": [\"D8:10\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 708,
+        "completion_tokens": 656,
+        "total_tokens": 1364,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  },
+  {
+    "source_id": "conv-44::session_8::episode-003",
+    "stage": "entity_property_extraction",
+    "call_id": "6e5005d5-dc9b-4e48-b49b-f2cd3f6d0b92",
+    "latency_seconds": 6.416824416000001,
+    "response": {
+      "id": "chatcmpl-EZtP5x2vzbKlsYJRr2v6nkveExzbr",
+      "object": "chat.completion",
+      "created": 1792223159,
+      "model": "gpt-4.1-mini-2025-04-14",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "{\n  \"records\": [\n    {\n      \"entity\": \"Audrey's dogs\",\n      \"entity_type\": \"animal\",\n      \"property\": \"activity_location\",\n      \"value\": \"park\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"during a recent walk\",\n      \"evidence_turn_ids\": [\"D8:12\"]\n    },\n    {\n      \"entity\": \"Audrey's dogs\",\n      \"entity_type\": \"animal\",\n      \"property\": \"activity_emotion\",\n      \"value\": \"happy\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"during the walk in the park\",\n      \"evidence_turn_ids\": [\"D8:12\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"usual_walk_duration\",\n      \"value\": \"about an hour\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"typical daily routine\",\n      \"evidence_turn_ids\": [\"D8:14\"]\n    },\n    {\n      \"entity\": \"Audrey's dogs\",\n      \"entity_type\": \"animal\",\n      \"property\": \"walk_exploration_style\",\n      \"value\": \"explore at their own pace\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"typical daily routine\",\n      \"evidence_turn_ids\": [\"D8:14\"]\n    },\n    {\n      \"entity\": \"Audrey's dogs\",\n      \"entity_type\": \"animal\",\n      \"property\": \"behavior_after_walk\",\n      \"value\": \"go home smiling and tired\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"typical after walk\",\n      \"evidence_turn_ids\": [\"D8:16\"]\n    },\n    {\n      \"entity\": \"Audrey's dogs\",\n      \"entity_type\": \"animal\",\n      \"property\": \"favorite_part_of_day\",\n      \"value\": \"walking time\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"general\",\n      \"evidence_turn_ids\": [\"D8:18\"]\n    },\n    {\n      \"entity\": \"Audrey's dogs\",\n      \"entity_type\": \"animal\",\n      \"property\": \"emotional_reaction_to_walk_preparation\",\n      \"value\": \"faces brighten up as soon as Audrey gets ready for walk\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"general\",\n      \"evidence_turn_ids\": [\"D8:18\"]\n    },\n    {\n      \"entity\": \"Audrey\",\n      \"entity_type\": \"person\",\n      \"property\": \"emotional_response_to_dogs_and_nature\",\n      \"value\": \"dogs and nature bring her joy and peace\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"general\",\n      \"evidence_turn_ids\": [\"D8:20\"]\n    },\n    {\n      \"entity\": \"Audrey's dogs\",\n      \"entity_type\": \"animal\",\n      \"property\": \"activity_location\",\n      \"value\": \"meadow\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"recent time\",\n      \"evidence_turn_ids\": [\"D8:22\"]\n    },\n    {\n      \"entity\": \"Audrey's dogs\",\n      \"entity_type\": \"animal\",\n      \"property\": \"activity_emotion\",\n      \"value\": \"happy and content\",\n      \"modality\": \"observed\",\n      \"valid_time\": \"in the meadow photo\",\n      \"evidence_turn_ids\": [\"D8:22\"]\n    }\n  ]\n}",
+            "refusal": null,
+            "annotations": []
+          },
+          "logprobs": null,
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1160,
+        "completion_tokens": 750,
+        "total_tokens": 1910,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "service_tier": "default",
+      "system_fingerprint": "fp_e36a6a7c98"
+    }
+  }
+]
